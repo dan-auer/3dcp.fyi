@@ -19,14 +19,15 @@ tags:
 
 #Interfacial Cracking at Layer and Filament Interfaces of 3D Printed Concrete&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">Experimental and Numerical Studies</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_13" target="_blank">10.1007/978-3-031-64269-2_13</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_13" target="_blank">10.1007/978-3-031-64269-2_13</a>
 
 <a href="../../../author/gerong_wangdui"><b>Gerong</b>&nbsp;Wangdui</a></span>, <a href="../../../author/wang_pengfei"><b>Wang</b>&nbsp;Pengfei</a></span>, <a href="../../../author/liao_minmao"><b>Liao</b>&nbsp;Minmao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span><br>
 Contribution - Construction 3D Printing, pp. 98-103
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Cracking%20at%20Layer%20and%20Filament%20Interfaces%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interfacial+cracking+at+layer+and+filament+interfaces+of+3d+printed+concrete&as_occt=title&as_sauthors=gerong&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201312635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_13" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

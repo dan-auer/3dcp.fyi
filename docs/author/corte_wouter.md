@@ -9,6 +9,60 @@ search:
 
 # de Corte Wouter 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9416-3593" target="_blank">0000-0002-9416-3593</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2025-06-27
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 520
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a> (9)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (8)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (8)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (6)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a> (264)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (32)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (31)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (27)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (26)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (26)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (27)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (24)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (18)</li>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (18)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_tao_yong.2025.AoFItMCPHo3PC/">Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete</a></li>

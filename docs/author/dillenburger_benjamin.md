@@ -9,6 +9,60 @@ search:
 
 #  Dillenburger Benjamin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5153-2985" target="_blank">0000-0002-5153-2985</a>
+
+    First Contribution
+    : 2016-10-31
+    
+    Last Contribution
+    : 2025-06-23
+
+    Number Contributions
+    : 49
+
+    Number Citations
+    : 1674
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (21)</li>
+        <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> (14)</li>
+        <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> (12)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (8)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (8)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a> (482)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (71)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (59)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (57)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (51)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (65)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (64)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (64)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (57)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../huan_anto_dill_xu.2025.LI3CPCSS/">Lamella-Inspired 3D Concrete Printed Column-Slab System:<br/>Balancing Act for Productivity and Sustainability</a></li>
   <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a></li>

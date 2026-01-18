@@ -17,14 +17,15 @@ tags:
 
 #3D Printing and Implementation of Engineered Cementitious Composites&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03462) <a href="https://doi.org/10.1016/j.cscm.2024.e03462" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03462" target="_blank">10.1016/j.cscm.2024.e03462</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03462" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03462" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03462" target="_blank">10.1016/j.cscm.2024.e03462</a>
 
 <a href="../../../author/asghari_y"><b>Asghari</b>&nbsp;Y.</a></span>, <a href="../../../author/mohammadyan-yasouj_e_s"><b>Mohammadyan-Yasouj</b>&nbsp;S.</a></span>, <a href="../../../author/petru_m"><b>Petrů</b>&nbsp;M.</a></span>, <a href="../../../author/ghandvar_h"><b>Ghandvar</b>&nbsp;H.</a></span>, <a href="../../../author/koloor_s-r_s"><b>Koloor</b>&nbsp;S.</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e03462
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20and%20Implementation%20of%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+and+implementation+of+engineered+cementitious+composites&as_occt=title&as_sauthors=asghari&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198002582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267918500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03462" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

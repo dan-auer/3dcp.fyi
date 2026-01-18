@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-02996-8.pdf) <a href="https://doi.org/10.1038/s41598-025-02996-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-02996-8" target="_blank">10.1038/s41598-025-02996-8</a>
+<a href="https://www.nature.com/articles/s41598-025-02996-8.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1038/s41598-025-02996-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-02996-8" target="_blank">10.1038/s41598-025-02996-8</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9230-9054" title="ORCID: 0009-0007-9230-9054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nieswiec_martyna"><b>Nieświec</b>&nbsp;Martyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chajec_adrian"><b>Chajec</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
 Journal Article - Scientific Reports, Vol. 15, Iss. 1
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Ground%20Copper%20Slag%20on%20the%20Fresh%20Properties%20of%203d%20Printed%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+ground+copper+slag+on+the+fresh+properties+of+3d+printed+cementitious+composites&as_occt=title&as_sauthors=nie%C5%9Bwiec&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005774719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001494675200029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1038/s41598-025-02996-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

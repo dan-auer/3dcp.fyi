@@ -14,14 +14,15 @@ tags:
 ---
 
 #Barbed-Wire Reinforcement for 3D Concrete Printing ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104438" target="_blank">10.1016/j.autcon.2022.104438</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2022.104438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104438" target="_blank">10.1016/j.autcon.2022.104438</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b>&nbsp;Mehrzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6321-3420" title="ORCID: 0000-0002-6321-3420" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_zhengyu"><b>Wu</b>&nbsp;Zhengyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7674-7424" title="ORCID: 0000-0001-7674-7424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhanzhao"><b>Li</b>&nbsp;Zhanzhao</a></span>, <a href="../../../author/park_keunhyoung"><b>Park</b>&nbsp;Keunhyoung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
 Journal Article - Automation in Construction, Vol. 141
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Barbed-Wire%20Reinforcement%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=barbed-wire+reinforcement+for+3d+concrete+printing&as_occt=title&as_sauthors=hojati&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132743489&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000833418700004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2022.104438" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

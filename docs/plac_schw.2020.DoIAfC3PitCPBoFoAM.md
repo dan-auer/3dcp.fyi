@@ -25,7 +25,7 @@ Journal Article - Bauwirtschaft, Vol. 5, Iss. 4, pp. 208-222
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Derivation%20of%20Integration%20Approaches%20for%20%22Concrete%203D%20Printing%22%20in%20the%20Construction%20Process%20Based%20on%20Features%20of%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=derivation+of+integration+approaches+for+%22concrete+3d+printing%22+in+the+construction+process+based+on+features+of+additive+manufacturing&as_occt=title&as_sauthors=placzek&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

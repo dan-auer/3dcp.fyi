@@ -19,14 +19,15 @@ tags:
 ---
 
 #A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries ([2020-12](date/2020/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101743" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101743" target="_blank">10.1016/j.addma.2020.101743</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2020.101743" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101743" target="_blank">10.1016/j.addma.2020.101743</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5140-6113" title="ORCID: 0000-0001-5140-6113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ooms_ticho"><b>Ooms</b>&nbsp;Ticho</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <a href="../../../author/coile_ruben"><b>van&nbsp;Coile</b>&nbsp;Ruben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 38
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Parametric%20Modelling-Strategy%20for%20the%20Numerical%20Simulation%20of%203D%20Concrete%20Printing%20with%20Complex%20Geometries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+parametric+modelling-strategy+for+the+numerical+simulation+of+3d+concrete+printing+with+complex+geometries&as_occt=title&as_sauthors=ooms&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098702369&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000617202300008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2020.101743" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

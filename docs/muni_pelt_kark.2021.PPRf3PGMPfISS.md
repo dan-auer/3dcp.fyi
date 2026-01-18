@@ -17,14 +17,15 @@ tags:
 ---
 
 #Printing Parameter Requirements for 3D Printable Geopolymer Materials Prepared from Industrial Side Streams ([2021-08](date/2021/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4758/pdf?version=1629802740) <a href="https://doi.org/10.3390/ma14164758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164758" target="_blank">10.3390/ma14164758</a>
+<a href="https://www.mdpi.com/1996-1944/14/16/4758/pdf?version=1629802740" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14164758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164758" target="_blank">10.3390/ma14164758</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5480-9540" title="ORCID: 0000-0001-5480-9540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munir_qaisar"><b>Munir</b>&nbsp;Qaisar</a></span>, <a href="../../../author/peltonen_riku"><b>Peltonen</b>&nbsp;Riku</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7796-2572" title="ORCID: 0000-0001-7796-2572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/karki_timo"><b>Kärki</b>&nbsp;Timo</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 16
 
 <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing%20Parameter%20Requirements%20for%203D%20Printable%20Geopolymer%20Materials%20Prepared%20from%20Industrial%20Side%20Streams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing+parameter+requirements+for+3d+printable+geopolymer+materials+prepared+from+industrial+side+streams&as_occt=title&as_sauthors=munir&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113383134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000689403300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14164758" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

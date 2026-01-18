@@ -23,7 +23,7 @@ Contribution - fib Symposium 2024
 
 <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Environmental%20Conditions%20on%20Shrinkage-Induced%20Cracking%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+environmental+conditions+on+shrinkage-induced+cracking+of+3d+printed+mortar&as_occt=title&as_sauthors=you&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

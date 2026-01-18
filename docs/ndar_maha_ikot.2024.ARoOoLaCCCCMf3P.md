@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Review of Optimization of Limestone and Calcined-Clay-Cement Concrete Mixtures for 3D Printing ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.11159/iccste24.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste24.191" target="_blank">10.11159/iccste24.191</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.11159/iccste24.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste24.191" target="_blank">10.11159/iccste24.191</a>
 
 <a href="../../../author/ndarowa_emily_tariro"><b>Ndarowa</b>&nbsp;Tariro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1866-5559" title="ORCID: 0000-0002-1866-5559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahachi_jeffrey"><b>Mahachi</b>&nbsp;Jeffrey</a></span>, <a href="../../../author/ikotun_d_bolane"><b>Ikotun</b>&nbsp;Bolane</a></span><br>
 Contribution - Proceedings of the 9th International Conference on Civil, Structural and Transportation Engineering
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Optimization%20of%20Limestone%20and%20Calcined-Clay-Cement%20Concrete%20Mixtures%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+optimization+of+limestone+and+calcined-clay-cement+concrete+mixtures+for+3d+printing&as_occt=title&as_sauthors=ndarowa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.11159/iccste24.191" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

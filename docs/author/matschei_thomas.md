@@ -9,6 +9,60 @@ search:
 
 #  Matschei Thomas 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8240-6930" target="_blank">0000-0002-8240-6930</a>
+
+    First Contribution
+    : 2021-12-02
+    
+    Last Contribution
+    : 2025-04-19
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 32
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a> (11)</li>
+        <li><a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> (7)</li>
+        <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> (6)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
+        <li><a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME/">Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>LabMorTex</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (44)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (30)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (21)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (16)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (3)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (3)</li>
+        <li><a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> (3)</li>
+        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/beigh_abdul-basit_mirza"><b>Beigh</b> Mirza</a>, <a href="../../../author/signorini_cesare"><b>Signorini</b> Cesare</a>, <a href="../../../author/rauf_asim"><b>Rauf</b> Asim</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../beig_sign_rauf_schr.2025.IRBoLCCCLBfAC/">Intrinsic Rheological Behavior of Limestone Calcined Clay Cementitious (LC3) Binders for Automated Construction:<br/>Effect of Calcium Sulfate Varieties</a></li>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>

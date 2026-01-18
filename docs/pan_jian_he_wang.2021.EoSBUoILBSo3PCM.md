@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effect of Structural Build-Up on Inter-Layer Bond Strength of 3D Printed Cement Mortars ([2021-01](date/2021/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/2/236/pdf?version=1609912383) <a href="https://doi.org/10.3390/ma14020236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14020236" target="_blank">10.3390/ma14020236</a>
+<a href="https://www.mdpi.com/1996-1944/14/2/236/pdf?version=1609912383" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14020236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14020236" target="_blank">10.3390/ma14020236</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/he_hui"><b>He</b>&nbsp;Hui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span>, <a href="../../../author/yin_kangting"><b>Yin</b>&nbsp;Kangting</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 2
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Structural%20Build-Up%20on%20Inter-Layer%20Bond%20Strength%20of%203D%20Printed%20Cement%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+structural+build-up+on+inter-layer+bond+strength+of+3d+printed+cement+mortars&as_occt=title&as_sauthors=pan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099232446&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000611379000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14020236" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

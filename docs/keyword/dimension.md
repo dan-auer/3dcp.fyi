@@ -8,7 +8,12 @@ search:
 
 # #dimension
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/three"><button class="btn">#three (83)</button></a> <a href="../../keyword/print"><button class="btn">#print (74)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (46)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (21)</button></a> <a href="../../keyword/property"><button class="btn">#property (19)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/li_ruisen"><b>Li</b> Ruisen</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_zhan_chen_li.2026.BatRMiTDPC/">Biochar as the Rheological Modifier in Three-Dimensional Printed Concrete</a></li>
   <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
   <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
   <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_dora.2025.EoFHaDPoTDCPP/">Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Simulation and Analysis of Automated Generalised Interleaved Layered Execution (AGILE) Process for Concrete Shell-Structures ([2024-06](date/2024/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2024.106719) <a href="https://doi.org/10.1016/j.istruc.2024.106719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.106719" target="_blank">10.1016/j.istruc.2024.106719</a>
+<a href="https://doi.org/10.1016/j.istruc.2024.106719" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2024.106719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.106719" target="_blank">10.1016/j.istruc.2024.106719</a>
 
 <a href="../../../author/ostovari_shadi"><b>Ostovari</b>&nbsp;Shadi</a></span>, <a href="../../../author/shayani_hooman"><b>Shayani</b>&nbsp;Hooman</a></span><br>
 Journal Article - Structures, Vol. 65, No. 106719
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simulation%20and%20Analysis%20of%20Automated%20Generalised%20Interleaved%20Layered%20Execution%20%28AGILE%29%20Process%20for%20Concrete%20Shell-Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simulation+and+analysis+of+automated+generalised+interleaved+layered+execution+%28agile%29+process+for+concrete+shell-structures&as_occt=title&as_sauthors=ostovari&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195815888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001255553600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2024.106719" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

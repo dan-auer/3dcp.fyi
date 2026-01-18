@@ -17,14 +17,15 @@ tags:
 ---
 
 #Fresh and Rheological Performances of Air-Entrained 3D Printable Mortars ([2021-05](date/2021/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/9/2409/pdf?version=1620355108) <a href="https://doi.org/10.3390/ma14092409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092409" target="_blank">10.3390/ma14092409</a>
+<a href="https://www.mdpi.com/1996-1944/14/9/2409/pdf?version=1620355108" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14092409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092409" target="_blank">10.3390/ma14092409</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5400-7732" title="ORCID: 0000-0001-5400-7732" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_remzi"><b>Şahin</b>&nbsp;Remzi</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 9
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Rheological%20Performances%20of%20Air-Entrained%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fresh+and+rheological+performances+of+air-entrained+3d+printable+mortars&as_occt=title&as_sauthors=tarhan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105962357&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000650569400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14092409" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

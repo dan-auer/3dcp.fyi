@@ -17,14 +17,15 @@ tags:
 ---
 
 #Materialising Structural Optimization of Reinforced Concrete Beams Through Digital Fabrication ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2023.105644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.105644" target="_blank">10.1016/j.istruc.2023.105644</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2023.105644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.105644" target="_blank">10.1016/j.istruc.2023.105644</a>
 
 <a href="../../../author/maitenaz_sebastien"><b>Maitenaz</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <a href="../../../author/feraille_adelaide"><b>Féraille</b>&nbsp;Adélaïde</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
 Journal Article - Structures, Vol. 59, No. 105644
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Materialising%20Structural%20Optimization%20of%20Reinforced%20Concrete%20Beams%20Through%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=materialising+structural+optimization+of+reinforced+concrete+beams+through+digital+fabrication&as_occt=title&as_sauthors=maitenaz&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180405007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001141799000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2023.105644" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

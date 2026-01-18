@@ -27,7 +27,7 @@ Contribution - Proceedings of the 12th International Conference of the Arab Soci
 
 <a href="../../keyword/adobe"><button class="btn">#adobe</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/temporary"><button class="btn">#temporary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Temporary%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+temporary+housing&as_occt=title&as_sauthors=bartaky&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

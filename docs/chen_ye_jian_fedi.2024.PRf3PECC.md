@@ -15,14 +15,15 @@ tags:
 ---
 
 #Printability Region for 3D Printable Engineered Cementitious Composites ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" target="_blank">10.1016/j.cemconcomp.2024.105599</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105599" target="_blank">10.1016/j.cemconcomp.2024.105599</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-8254-8208" title="ORCID: 0009-0009-8254-8208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_wenguang"><b>Chen</b>&nbsp;Wenguang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0948-5115" title="ORCID: 0000-0003-0948-5115" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_junhong"><b>Ye</b>&nbsp;Junhong</a></span>, <a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 151, No. 105599
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/region"><button class="btn">#region</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20Region%20for%203D%20Printable%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+region+for+3d+printable+engineered+cementitious+composites&as_occt=title&as_sauthors=chen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194160935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001247800500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105599" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

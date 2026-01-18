@@ -21,14 +21,15 @@ tags:
 
 #Exploration of 3D Printed Concrete with Recycled Fine and Coarse Aggregates&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">Material, Equipment and Performance</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_24" target="_blank">10.1007/978-3-031-64269-2_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_24" target="_blank">10.1007/978-3-031-64269-2_24</a>
 
 <a href="../../../author/lv_zhenyuan"><b>Lv</b>&nbsp;Zhenyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/ji_guangchao"><b>Ji</b>&nbsp;Guangchao</a></span><br>
 Contribution - Construction 3D Printing, pp. 188-195
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploration%20of%203D%20Printed%20Concrete%20with%20Recycled%20Fine%20and%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploration+of+3d+printed+concrete+with+recycled+fine+and+coarse+aggregates&as_occt=title&as_sauthors=lv&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201316936&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800024" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

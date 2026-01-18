@@ -21,14 +21,15 @@ tags:
 
 #Data-Driven Additive Manufacturing with Concrete - Enhancing In-Line Sensory Data with Domain Knowledge&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Part II: Moisture and Heat</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2025.106327) <a href="https://doi.org/10.1016/j.autcon.2025.106327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106327" target="_blank">10.1016/j.autcon.2025.106327</a>
+<a href="https://doi.org/10.1016/j.autcon.2025.106327" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106327" target="_blank">10.1016/j.autcon.2025.106327</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-0499-7986" title="ORCID: 0009-0007-0499-7986" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/versteege_jelle"><b>Versteege</b>&nbsp;Jelle</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
 Journal Article - Automation in Construction, Vol. 177, No. 106327
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/domain"><button class="btn">#domain</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Additive%20Manufacturing%20with%20Concrete%20-%20Enhancing%20In-Line%20Sensory%20Data%20with%20Domain%20Knowledge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+additive+manufacturing+with+concrete+-+enhancing+in-line+sensory+data+with+domain+knowledge&as_occt=title&as_sauthors=versteege&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008508010&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001520891800002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106327" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

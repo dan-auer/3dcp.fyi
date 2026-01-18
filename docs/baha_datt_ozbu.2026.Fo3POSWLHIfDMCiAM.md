@@ -18,14 +18,15 @@ tags:
 ---
 
 #Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114905" target="_blank">10.1016/j.jobe.2025.114905</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114905" target="_blank">10.1016/j.jobe.2025.114905</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9889-6540" title="ORCID: 0000-0002-9889-6540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baharlou_ehsan"><b>Baharlou</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0758-7807" title="ORCID: 0000-0002-0758-7807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/datta_ipsita"><b>Datta</b>&nbsp;Ipsita</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 117, No. 114905
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20of%203D%20Printing%20Oyster%20Shell%20Waste%20Laden%20Hydrogel%20Inks%20for%20Developing%20Mycelium%20Composite%20in%20Architectural%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+of+3d+printing+oyster+shell+waste+laden+hydrogel+inks+for+developing+mycelium+composite+in+architectural+materials&as_occt=title&as_sauthors=baharlou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114905" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

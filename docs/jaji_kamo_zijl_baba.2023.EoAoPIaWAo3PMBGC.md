@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of Anisotropy on Permeability Index and Water-Absorption of 3D Printed Metakaolin-Based Geopolymer Concrete ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2023.06.394) <a href="https://doi.org/10.1016/j.matpr.2023.06.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.06.394" target="_blank">10.1016/j.matpr.2023.06.394</a>
+<a href="https://doi.org/10.1016/j.matpr.2023.06.394" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.06.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.06.394" target="_blank">10.1016/j.matpr.2023.06.394</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1980-1652" title="ORCID: 0000-0003-1980-1652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b>&nbsp;Mustapha</a></span>, <a href="../../../author/kamoru_a"><b>Kamoru</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Anisotropy%20on%20Permeability%20Index%20and%20Water-Absorption%20of%203D%20Printed%20Metakaolin-Based%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+anisotropy+on+permeability+index+and+water-absorption+of+3d+printed+metakaolin-based+geopolymer+concrete&as_occt=title&as_sauthors=jaji&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.06.394" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #An Elastic‐Inelastic Model and Embedded Bounce‐Back-Control for Layered Printing with Cementitious Materials ([2022-05](date/2022/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nme.7044) <a href="https://doi.org/10.1002/nme.7044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/nme.7044" target="_blank">10.1002/nme.7044</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/nme.7044" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/nme.7044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/nme.7044" target="_blank">10.1002/nme.7044</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1894-5091" title="ORCID: 0000-0002-1894-5091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b>&nbsp;Ignasius</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4708-4251" title="ORCID: 0000-0002-4708-4251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/masud_arif"><b>Masud</b>&nbsp;Arif</a></span><br>
 Journal Article - International Journal for Numerical Methods in Engineering, Vol. ahead-of-print, Iss. ahead-of-print
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Elastic%E2%80%90Inelastic%20Model%20and%20Embedded%20Bounce%E2%80%90Back-Control%20for%20Layered%20Printing%20with%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+elastic%E2%80%90inelastic+model+and+embedded+bounce%E2%80%90back-control+for+layered+printing+with+cementitious+materials&as_occt=title&as_sauthors=wijaya&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134174184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000826786600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/nme.7044" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

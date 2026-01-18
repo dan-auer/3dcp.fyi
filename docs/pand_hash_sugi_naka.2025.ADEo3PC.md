@@ -24,7 +24,7 @@ Contribution - Proceedings of the 27th International Acoustic Emission Symposium
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/ai"><button class="btn">#ai</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=AI-Driven%20Evaluation%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ai-driven+evaluation+of+3d-printed+concrete&as_occt=title&as_sauthors=pandum&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

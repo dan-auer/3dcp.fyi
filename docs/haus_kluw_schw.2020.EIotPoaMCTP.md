@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Investigation of the Pumping of a Model-Concrete Through Pipes ([2020-03](date/2020/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/5/1161/pdf?version=1583924539) <a href="https://doi.org/10.3390/ma13051161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13051161" target="_blank">10.3390/ma13051161</a>
+<a href="https://www.mdpi.com/1996-1944/13/5/1161/pdf?version=1583924539" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma13051161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13051161" target="_blank">10.3390/ma13051161</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4294-6972" title="ORCID: 0000-0003-4294-6972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haustein_a_martin"><b>Haustein</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0102-4074" title="ORCID: 0000-0003-0102-4074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kluwe_niklas_moritz"><b>Kluwe</b>&nbsp;Moritz</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4602-2208" title="ORCID: 0000-0003-4602-2208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwarze_rudiger"><b>Schwarze</b>&nbsp;Rüdiger</a></span><br>
 Journal Article - Materials, Vol. 13, Iss. 5
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20of%20the%20Pumping%20of%20a%20Model-Concrete%20Through%20Pipes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+investigation+of+the+pumping+of+a+model-concrete+through+pipes&as_occt=title&as_sauthors=haustein&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081609534&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000524060200139" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma13051161" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

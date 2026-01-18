@@ -13,14 +13,15 @@ tags:
 ---
 
 #Additive Manufacturing Technologies in Restoration ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.cubicjournal.org/index.php/cubic/article/download/26/24) <a href="https://doi.org/10.31182/cubic.2020.3.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31182/cubic.2020.3.023" target="_blank">10.31182/cubic.2020.3.023</a>
+<a href="https://www.cubicjournal.org/index.php/cubic/article/download/26/24" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.31182/cubic.2020.3.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31182/cubic.2020.3.023" target="_blank">10.31182/cubic.2020.3.023</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2310-821X" title="ORCID: 0000-0003-2310-821X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/codarin_sara"><b>Codarin</b>&nbsp;Sara</a></span><br>
 Journal Article - Cubic Journal, Iss. 3, pp. 32-55
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Technologies%20in%20Restoration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+technologies+in+restoration&as_occt=title&as_sauthors=codarin&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130554998&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.31182/cubic.2020.3.023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

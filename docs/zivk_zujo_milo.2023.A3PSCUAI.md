@@ -19,14 +19,15 @@ tags:
 
 #Architectural 3D Printed Structures Created Using Artificial Intelligence&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">A Review of Techniques and Applications</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/19/10671/pdf?version=1695691534) <a href="https://doi.org/10.3390/app131910671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app131910671" target="_blank">10.3390/app131910671</a>
+<a href="https://www.mdpi.com/2076-3417/13/19/10671/pdf?version=1695691534" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app131910671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app131910671" target="_blank">10.3390/app131910671</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-7191-417X" title="ORCID: 0009-0009-7191-417X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zivkovic_milijana"><b>Živković</b>&nbsp;Milijana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zujovic_masa"><b>Žujović</b>&nbsp;Maša</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milosevic_jelena"><b>Milošević</b>&nbsp;Jelena</a></span><br>
 Journal Article - Applied Sciences, Vol. 13, Iss. 19
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Architectural%203D%20Printed%20Structures%20Created%20Using%20Artificial%20Intelligence" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=architectural+3d+printed+structures+created+using+artificial+intelligence&as_occt=title&as_sauthors=%C5%BEivkovi%C4%87&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174166857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001119422800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app131910671" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

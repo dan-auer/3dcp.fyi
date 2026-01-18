@@ -8,6 +8,10 @@ search:
 
 # #workability
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (6)</button></a> <a href="../../keyword/material"><button class="btn">#material (6)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
   <li><a href="../../../author/huang_qunyi"><b>Huang</b> Qunyi</a>, <a href="../../../author/huang_qingyu"><b>Huang</b> Qingyu</a>, <a href="../../../author/yang_hong"><b>Yang</b> Hong</a>, <a href="../../../author/zhang_jiahang"><b>Zhang</b> Jiahang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_huan_yang_zhan.2026.RotWo3PFRCM/">Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials</a></li>

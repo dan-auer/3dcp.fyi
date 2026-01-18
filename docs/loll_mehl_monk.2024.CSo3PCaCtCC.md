@@ -23,14 +23,15 @@ tags:
 
 #Case Study of 3D Printed Concrete as Compared to Conventional Construction&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">Structural Comparison and Life Cycle Carbon Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80724-4_48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_48" target="_blank">10.1007/978-3-031-80724-4_48</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-80724-4_48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_48" target="_blank">10.1007/978-3-031-80724-4_48</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4610-3171" title="ORCID: 0000-0003-4610-3171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lolli_francesca"><b>Lolli</b>&nbsp;Francesca</a></span>, <a href="../../../author/mehlomakulu_bungane"><b>Mehlomakulu</b>&nbsp;Bungane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1295-3776" title="ORCID: 0000-0003-1295-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/monkman_sean"><b>Monkman</b>&nbsp;Sean</a></span><br>
 Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 390-397
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Case%20Study%20of%203D%20Printed%20Concrete%20as%20Compared%20to%20Conventional%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=case+study+of+3d+printed+concrete+as+compared+to+conventional+construction&as_occt=title&as_sauthors=lolli&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218058399&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001505314100048" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-80724-4_48" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

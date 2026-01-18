@@ -21,14 +21,15 @@ tags:
 ---
 
 #Modelling, Analysis and Comparison of Robot Energy Consumption for Three-Dimensional Concrete Printing Technology ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2218-6581/13/5/78/pdf?version=1715692252) <a href="https://doi.org/10.3390/robotics13050078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/robotics13050078" target="_blank">10.3390/robotics13050078</a>
+<a href="https://www.mdpi.com/2218-6581/13/5/78/pdf?version=1715692252" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/robotics13050078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/robotics13050078" target="_blank">10.3390/robotics13050078</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7620-4494" title="ORCID: 0000-0002-7620-4494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kajzr_daniel"><b>Kajzr</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-3625-3653" title="ORCID: 0009-0005-3625-3653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/myslivec_tomas"><b>Myslivec</b>&nbsp;Tomáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-4172" title="ORCID: 0000-0003-2355-4172" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cernohorsky_josef"><b>Černohorský</b>&nbsp;Josef</a></span><br>
 Journal Article - Robotics, Vol. 13, Iss. 5, No. 78
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/consumption"><button class="btn">#consumption</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modelling%2C%20Analysis%20and%20Comparison%20of%20Robot%20Energy%20Consumption%20for%20Three-Dimensional%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modelling%2C+analysis+and+comparison+of+robot+energy+consumption+for+three-dimensional+concrete+printing+technology&as_occt=title&as_sauthors=kajzr&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194096017&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001231678700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/robotics13050078" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

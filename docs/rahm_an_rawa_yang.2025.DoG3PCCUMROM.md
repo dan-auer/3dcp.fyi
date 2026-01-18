@@ -19,14 +19,15 @@ tags:
 ---
 
 #Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05360" target="_blank">10.1016/j.cscm.2025.e05360</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05360" target="_blank">10.1016/j.cscm.2025.e05360</a>
 
 <a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <a href="../../../author/yang_richard"><b>Yang</b>&nbsp;Richard</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Green%203D%20Printable%20Cementitious%20Composites%20Using%20Multi-Response%20Optimisation%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+green+3d+printable+cementitious+composites+using+multi-response+optimisation+method&as_occt=title&as_sauthors=rahman&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017955160&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001587545500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05360" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

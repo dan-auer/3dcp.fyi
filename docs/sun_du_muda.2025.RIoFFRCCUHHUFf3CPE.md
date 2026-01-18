@@ -20,14 +20,15 @@ tags:
 ---
 
 #Rheological Investigations of Fresh Fiber-Reinforced Cementitious Composites Using Hydrophobic / Hydrophilic UHMWPE Fibers for 3D Concrete Printing Evaluation ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2592081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2592081" target="_blank">10.1080/21650373.2025.2592081</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2025.2592081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2592081" target="_blank">10.1080/21650373.2025.2592081</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-5809-5499" title="ORCID: 0009-0009-5809-5499" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mudasir_maryam"><b>Mudasir</b>&nbsp;Maryam</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-17
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Investigations%20of%20Fresh%20Fiber-Reinforced%20Cementitious%20Composites%20Using%20Hydrophobic%20/%20Hydrophilic%20UHMWPE%20Fibers%20for%203D%20Concrete%20Printing%20Evaluation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+investigations+of+fresh+fiber-reinforced+cementitious+composites+using+hydrophobic+%2F+hydrophilic+uhmwpe+fibers+for+3d+concrete+printing+evaluation&as_occt=title&as_sauthors=sun&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001628535000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2025.2592081" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

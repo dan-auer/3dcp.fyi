@@ -19,14 +19,15 @@ tags:
 ---
 
 #Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.24.00244" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.24.00244" target="_blank">10.1680/jmacr.24.00244</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmacr.24.00244" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.24.00244" target="_blank">10.1680/jmacr.24.00244</a>
 
 <a href="../../../author/li_g_l"><b>Li</b>&nbsp;L.</a></span>, <a href="../../../author/fang_q_z"><b>Fang</b>&nbsp;Z.</a></span>, <a href="../../../author/chu_h_s"><b>Chu</b>&nbsp;S.</a></span>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b>&nbsp;Albert</a></span><br>
 Journal Article - Magazine of Concrete Research, pp. 1-48
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Mechanical%20Properties%20of%203D%20Printed%20Mortar%20by%20Exploiting%20Synergistic%20Effects%20of%20Fly-Ash-Microsphere%20and%20Nano-Silica" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+mechanical+properties+of+3d+printed+mortar+by+exploiting+synergistic+effects+of+fly-ash-microsphere+and+nano-silica&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209352038&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001350891400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmacr.24.00244" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

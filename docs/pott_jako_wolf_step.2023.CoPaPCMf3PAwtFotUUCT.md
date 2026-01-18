@@ -19,14 +19,15 @@ tags:
 ---
 
 #Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" target="_blank">10.1016/j.conbuildmat.2023.132260</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132260" target="_blank">10.1016/j.conbuildmat.2023.132260</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_julian"><b>Wolf</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 395, No. 132260
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Physical%20and%20Physico-Chemical%20Methods%20for%203D%20Printing%20Application%20with%20the%20Focus%20on%20the%20Unconfined%20Uniaxial%20Compression-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparison+of+physical+and+physico-chemical+methods+for+3d+printing+application+with+the+focus+on+the+unconfined+uniaxial+compression-test&as_occt=title&as_sauthors=pott&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164292248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001030594400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.132260" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

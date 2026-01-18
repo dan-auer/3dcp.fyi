@@ -25,7 +25,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20Shape%20Stability%20for%20Printed%20Pre-Cast%20Column%20Using%20Matric-Suction-Effect" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+shape+stability+for+printed+pre-cast+column+using+matric-suction-effect&as_occt=title&as_sauthors=park&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408131346-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

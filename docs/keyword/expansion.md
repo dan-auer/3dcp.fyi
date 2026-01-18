@@ -8,6 +8,10 @@ search:
 
 # #expansion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (4)</button></a> <a href="../../keyword/light"><button class="btn">#light (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_maia.2026.E3CPCwBT/">Expanding 3D Concrete Printing Customization with Biomimetic Textures</a></li>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chen_qian.2025.EDDAoUPi3CPvAPCE/">Explainable Data-Driven Analysis of Uncertainty Propagation in 3D Concrete Printing via Adaptive Polynomial Chaos Expansion</a></li>

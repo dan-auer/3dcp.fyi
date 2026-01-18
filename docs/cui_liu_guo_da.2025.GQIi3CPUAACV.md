@@ -19,14 +19,15 @@ tags:
 ---
 
 #Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1617/s11527-025-02594-0) <a href="https://doi.org/10.1617/s11527-025-02594-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02594-0" target="_blank">10.1617/s11527-025-02594-0</a>
+<a href="https://doi.org/10.1617/s11527-025-02594-0" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02594-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02594-0" target="_blank">10.1617/s11527-025-02594-0</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/guo_ruyi"><b>Guo</b>&nbsp;Ruyi</a></span>, <a href="../../../author/da_wan"><b>Da</b>&nbsp;Wan</a></span>, <a href="../../../author/yu_xiaona"><b>Yu</b>&nbsp;Xiaona</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5870-3276" title="ORCID: 0000-0001-5870-3276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_luchuan"><b>Ding</b>&nbsp;Luchuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 2
 
 <a href="../../keyword/ai"><button class="btn">#ai</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geometrical%20Quality%20Inspection%20in%203D%20Concrete%20Printing%20Using%20AI-Assisted%20Computer%20Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geometrical+quality+inspection+in+3d+concrete+printing+using+ai-assisted+computer+vision&as_occt=title&as_sauthors=cui&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218335206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001421282500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02594-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

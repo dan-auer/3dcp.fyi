@@ -19,14 +19,15 @@ tags:
 
 #3D Printing for Architecture&nbsp;([2023-12](date/2023/12))
 <div class="h1-like">Organic Integration of Algorithm, Machine and Material-Paste-Manufacture</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pdf.blucher.com.br/designproceedings/sigradi2023/350.pdf) <a href="https://doi.org/10.5151/sigradi2023-350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-350" target="_blank">10.5151/sigradi2023-350</a>
+<a href="https://pdf.blucher.com.br/designproceedings/sigradi2023/350.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5151/sigradi2023-350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-350" target="_blank">10.5151/sigradi2023-350</a>
 
 <a href="../../../author/nobrega_freire_thiers"><b>Nóbrega</b>&nbsp;Thiers</a></span>, <a href="../../../author/henriques_castro_goncalo"><b>Henriques</b>&nbsp;Gonçalo</a></span>, <a href="../../../author/passaro_martin_andres"><b>Passaro</b>&nbsp;Andres</a></span><br>
 Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. 1194-1205
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20for%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+for+architecture&as_occt=title&as_sauthors=n%C3%B3brega&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5151/sigradi2023-350" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

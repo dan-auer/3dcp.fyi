@@ -17,14 +17,15 @@ tags:
 ---
 
 #Filament Extraction in 3D Printing of Shotcrete Walls from Terrestrial Laser Scanner Data ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/307/2023/isprs-archives-XLVIII-1-W2-2023-307-2023.pdf) <a href="https://doi.org/10.5194/isprs-archives-xlviii-1-w2-2023-307-2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xlviii-1-w2-2023-307-2023" target="_blank">10.5194/isprs-archives-xlviii-1-w2-2023-307-2023</a>
+<a href="https://isprs-archives.copernicus.org/articles/XLVIII-1-W2-2023/307/2023/isprs-archives-XLVIII-1-W2-2023-307-2023.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5194/isprs-archives-xlviii-1-w2-2023-307-2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xlviii-1-w2-2023-307-2023" target="_blank">10.5194/isprs-archives-xlviii-1-w2-2023-307-2023</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maboudi_mehdi"><b>Maboudi</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span><br>
 Journal Article - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. XLVIII-1/W2-2023, pp. 307-313
 
 <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/laser"><button class="btn">#laser</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Filament%20Extraction%20in%203D%20Printing%20of%20Shotcrete%20Walls%20from%20Terrestrial%20Laser%20Scanner%20Data" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=filament+extraction+in+3d+printing+of+shotcrete+walls+from+terrestrial+laser+scanner+data&as_occt=title&as_sauthors=mawas&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183304303&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001185682000043" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5194/isprs-archives-xlviii-1-w2-2023-307-2023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

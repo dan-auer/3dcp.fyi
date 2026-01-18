@@ -21,14 +21,15 @@ tags:
 ---
 
 #Mechanical and Ultrasonic Pulse Velocity Performance of 3D Printed Rubberised Cementitious Composites Reinforced with PVA Fibers ([2025-08](date/2025/08))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.113886" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113886" target="_blank">10.1016/j.jobe.2025.113886</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113886" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113886" target="_blank">10.1016/j.jobe.2025.113886</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yifan"><b>Zhang</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113886
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pulse"><button class="btn">#pulse</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Ultrasonic%20Pulse%20Velocity%20Performance%20of%203D%20Printed%20Rubberised%20Cementitious%20Composites%20Reinforced%20with%20PVA%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+ultrasonic+pulse+velocity+performance+of+3d+printed+rubberised+cementitious+composites+reinforced+with+pva+fibers&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014255876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113886" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

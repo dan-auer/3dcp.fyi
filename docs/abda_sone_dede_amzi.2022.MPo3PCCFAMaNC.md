@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical Performance of 3D Printed Concrete Containing Fly-Ash, Metakaolin and Nano-Clay ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_17" target="_blank">10.1007/978-3-031-06116-5_17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_17" target="_blank">10.1007/978-3-031-06116-5_17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6097-6150" title="ORCID: 0000-0001-6097-6150" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdalqader_ahmed"><b>Abdalqader</b>&nbsp;Ahmed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <a href="../../../author/dedenis_marie"><b>Dedenis</b>&nbsp;Marie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2339-3962" title="ORCID: 0000-0003-2339-3962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amziane_sofiane"><b>Amziane</b>&nbsp;Sofiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 111-116
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%203D%20Printed%20Concrete%20Containing%20Fly-Ash%2C%20Metakaolin%20and%20Nano-Clay" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+performance+of+3d+printed+concrete+containing+fly-ash%2C+metakaolin+and+nano-clay&as_occt=title&as_sauthors=abdalqader&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133160526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

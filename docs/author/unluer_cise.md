@@ -9,6 +9,60 @@ search:
 
 #  Unluer Cise 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5207-5993" target="_blank">0000-0001-5207-5993</a>
+
+    First Contribution
+    : 2018-10-05
+    
+    Last Contribution
+    : 2024-07-25
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 1090
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (7)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (6)</li>
+        <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> (4)</li>
+        <li><a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a> (3)</li>
+        <li><a href="../../../author/yang_en-hua"><b>Yang</b> En-Hua</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../pand_unlu_tan.2018.IotRaSoGMfEB3P/">Investigation of the Rheology and Strength of Geopolymer Mixtures for Extrusion-Based 3D Printing</a> (275)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (62)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (51)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (33)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (32)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (44)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (40)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (33)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (31)</li>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (31)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../peng_unlu.2024.Do3PMSHCMIMaaSfSS/">Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source</a></li>
   <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a>, <a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../peng_unlu.2024.PaMDo3PMSMCMSM/">Performance and Microstructural Development of 3D Printable MgO-SiO2 Mixes Containing Magnesium-Silicate-Monohydrate</a></li>

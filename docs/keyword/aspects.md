@@ -8,6 +8,10 @@ search:
 
 # #aspects
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tene.2025.TAoFaRCSU3CP/">Technological Aspects of Fabricating a Reinforced Concrete Shell Using 3D Concrete Printing</a></li>
   <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.3PAoFAaGABaTBCM/">3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar</a></li>

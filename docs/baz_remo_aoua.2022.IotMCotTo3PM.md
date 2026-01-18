@@ -16,14 +16,15 @@ tags:
 ---
 
 #Influence of the Mix Composition on the Thixotropy of 3D Printable Mortars ([2021-01](date/2021/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.20.00193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.20.00193" target="_blank">10.1680/jmacr.20.00193</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmacr.20.00193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.20.00193" target="_blank">10.1680/jmacr.20.00193</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2519-1224" title="ORCID: 0000-0002-2519-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baz_bilal"><b>Baz</b>&nbsp;Bilal</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4088-7788" title="ORCID: 0000-0003-4088-7788" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aouad_georges"><b>Aouad</b>&nbsp;Georges</a></span><br>
 Journal Article - Magazine of Concrete Research, Vol. 74, Iss. 6, pp. 271-283
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Mix%20Composition%20on%20the%20Thixotropy%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+the+mix+composition+on+the+thixotropy+of+3d+printable+mortars&as_occt=title&as_sauthors=baz&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85094830248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000753549500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmacr.20.00193" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

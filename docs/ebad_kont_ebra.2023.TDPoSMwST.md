@@ -21,14 +21,15 @@ tags:
 
 #Three-Dimensional Printing of Structural Members with Shotcrete Technique&nbsp;([2023-10](date/2023/10))
 <div class="h1-like">Design, Construction, and Future Directions</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/73/e3sconf_iced2023_08010.pdf) <a href="https://doi.org/10.1051/e3sconf/202343608010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202343608010" target="_blank">10.1051/e3sconf/202343608010</a>
+<a href="https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/73/e3sconf_iced2023_08010.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/e3sconf/202343608010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202343608010" target="_blank">10.1051/e3sconf/202343608010</a>
 
 <a href="../../../author/ebadi-jamkhaneh_mehdi"><b>Ebadi-Jamkhaneh</b>&nbsp;Mehdi</a></span>, <a href="../../../author/kontoni_n_denise-penelope"><b>Kontoni</b>&nbsp;Denise-Penelope</a></span>, <a href="../../../author/ebrahimi_homaioon_amir"><b>Ebrahimi</b>&nbsp;Amir</a></span><br>
 Journal Article - E3S Web of Conferences, Vol. 436, No. 08010
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20of%20Structural%20Members%20with%20Shotcrete%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printing+of+structural+members+with+shotcrete+technique&as_occt=title&as_sauthors=ebadi-jamkhaneh&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179165423&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/e3sconf/202343608010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

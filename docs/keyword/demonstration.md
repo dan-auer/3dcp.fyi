@@ -8,6 +8,10 @@ search:
 
 # #demonstration
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/fabrication"><button class="btn">#fabrication (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (3)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/muthumanickam_kumar_naveen"><b>Muthumanickam</b> Naveen</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../muth_duar_naza_bile.2023.MfRAoLSoBDfRC/">Metamodels for Rapid Analysis of Large Sets of Building Designs for Robotic Constructability:<br/>Technology Demonstration Using the NASA 3D Printed Mars Habitat Challenge</a></li>

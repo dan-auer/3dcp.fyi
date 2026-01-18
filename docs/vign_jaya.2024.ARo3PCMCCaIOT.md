@@ -26,14 +26,15 @@ tags:
 
 #A Review on 3D Printable Cementitious Material Containing Copper and Iron-Ore-Tailings&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">Material-Characterization, Activation-Methods, Engineering-Properties, Durability, and Microstructure-Behavior</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-024-01374-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01374-z" target="_blank">10.1007/s41062-024-01374-z</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41062-024-01374-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01374-z" target="_blank">10.1007/s41062-024-01374-z</a>
 
 <a href="../../../author/vigneshwari_are"><b>Vigneshwari</b>&nbsp;Are</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
 Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 3
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%203D%20Printable%20Cementitious%20Material%20Containing%20Copper%20and%20Iron-Ore-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+on+3d+printable+cementitious+material+containing+copper+and+iron-ore-tailings&as_occt=title&as_sauthors=vigneshwari&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187255663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001169337800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41062-024-01374-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Drying Behavior of 3D Printed Cementitious Pastes Containing Cellulose-Nano-Crystals ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cement.2022.100035) <a href="https://doi.org/10.1016/j.cement.2022.100035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cement.2022.100035" target="_blank">10.1016/j.cement.2022.100035</a>
+<a href="https://doi.org/10.1016/j.cement.2022.100035" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cement.2022.100035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cement.2022.100035" target="_blank">10.1016/j.cement.2022.100035</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghantous_maria_rita"><b>Ghantous</b>&nbsp;Rita</a></span>, <a href="../../../author/valadez-carranza_yvette"><b>Valadez-Carranza</b>&nbsp;Yvette</a></span>, <a href="../../../author/reese_r_steven"><b>Reese</b>&nbsp;Steven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
 Journal Article - Cement, Vol. 9, No. 100035
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Drying%20Behavior%20of%203D%20Printed%20Cementitious%20Pastes%20Containing%20Cellulose-Nano-Crystals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=drying+behavior+of+3d+printed+cementitious+pastes+containing+cellulose-nano-crystals&as_occt=title&as_sauthors=ghantous&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cement.2022.100035" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

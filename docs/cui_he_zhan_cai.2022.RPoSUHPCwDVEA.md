@@ -20,14 +20,15 @@ tags:
 ---
 
 #Rheological Properties of Sprayable Ultra-High-Performance Concrete with Different Viscosity-Enhancing Agents ([2022-01](date/2022/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.126154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126154" target="_blank">10.1016/j.conbuildmat.2021.126154</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.126154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126154" target="_blank">10.1016/j.conbuildmat.2021.126154</a>
 
 <a href="../../../author/cui_jinyang"><b>Cui</b>&nbsp;Jinyang</a></span>, <a href="../../../author/he_zhen"><b>He</b>&nbsp;Zhen</a></span>, <a href="../../../author/zhang_guozhi"><b>Zhang</b>&nbsp;Guozhi</a></span>, <a href="../../../author/cai_xinhua"><b>Cai</b>&nbsp;Xinhua</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 321
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20of%20Sprayable%20Ultra-High-Performance%20Concrete%20with%20Different%20Viscosity-Enhancing%20Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+properties+of+sprayable+ultra-high-performance+concrete+with+different+viscosity-enhancing+agents&as_occt=title&as_sauthors=cui&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122699347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000766188700002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.126154" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Critical Review of 3D Printing and Digital Manufacturing in Construction Engineering ([2022-02](date/2022/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.kaust.edu.sa/bitstream/10754/675670/2/Revised%20manuscript.pdf) <a href="https://doi.org/10.1108/rpj-07-2021-0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-07-2021-0160" target="_blank">10.1108/rpj-07-2021-0160</a>
+<a href="https://repository.kaust.edu.sa/bitstream/10754/675670/2/Revised%20manuscript.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-07-2021-0160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-07-2021-0160" target="_blank">10.1108/rpj-07-2021-0160</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5120-8387" title="ORCID: 0000-0001-5120-8387" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/issayev_gani"><b>Issayev</b>&nbsp;Gani</a></span>, <a href="../../../author/shehab_essam"><b>Shehab</b>&nbsp;Essam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1373-2054" title="ORCID: 0000-0002-1373-2054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sarfraz_shoaib"><b>Sarfraz</b>&nbsp;Shoaib</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. ahead of print, Iss. ahead of print
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Printing%20and%20Digital%20Manufacturing%20in%20Construction%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+critical+review+of+3d+printing+and+digital+manufacturing+in+construction+engineering&as_occt=title&as_sauthors=ali&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125056991&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000759351800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-07-2021-0160" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

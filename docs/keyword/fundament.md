@@ -8,6 +8,10 @@ search:
 
 # #fundament
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/clay"><button class="btn">#clay (2)</button></a> <a href="../../keyword/development"><button class="btn">#development (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/taqa_abu_ala"><b>Taqa</b> Ala</a>, <a href="../../../author/mohsen_o_mohamed"><b>Mohsen</b> Mohamed</a>, <a href="../../../author/aburumman_o_mervat"><b>Aburumman</b> Mervat</a>, <a href="../../../author/naji_khalid"><b>Naji</b> Khalid</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../taqa_mohs_abur_naji.2024.NFAaCf3PCB/">Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings:<br/>A Fundamental Study of Rheological, Mechanical and Microstructural Properties</a></li>
   <li><a href="../../../author/asakawa_tomoya"><b>Asakawa</b> Tomoya</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a>, <a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a>, <a href="../../../author/yokoyama_shigeru"><b>Yokoyama</b> Shigeru</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../asak_nish_ohno_yoko.2022.FSoAILRSwMFIf3CP/">Fundamental Study on Automated Inter-Layer Reinforcing System with Metal-Fiber-Insertion for 3D Concrete Printer</a></li>

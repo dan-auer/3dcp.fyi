@@ -19,14 +19,15 @@ tags:
 ---
 
 #Using Isolated Temporal Analysis to Aid in the Assessment of Structural Element Quality for Additive Construction ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200105" target="_blank">10.1520/stp163620200105</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163620200105" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200105" target="_blank">10.1520/stp163620200105</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b>&nbsp;Brandy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span><br>
 Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 117-143
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/isolation"><button class="btn">#isolation</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temporary"><button class="btn">#temporary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Using%20Isolated%20Temporal%20Analysis%20to%20Aid%20in%20the%20Assessment%20of%20Structural%20Element%20Quality%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=using+isolated+temporal+analysis+to+aid+in+the+assessment+of+structural+element+quality+for+additive+construction&as_occt=title&as_sauthors=diggs-mcgee&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126065053&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163620200105" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effective Factors and a Prediction Method on Extrusion Flow of 3D Printed Concrete ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.cementwapnobeton.pl/pdf-213559-132347?filename=Effective factors and a.pdf) <a href="https://doi.org/10.32047/cwb.2025.30.2.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32047/cwb.2025.30.2.3" target="_blank">10.32047/cwb.2025.30.2.3</a>
+<a href="https://www.cementwapnobeton.pl/pdf-213559-132347?filename=Effective factors and a.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.32047/cwb.2025.30.2.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32047/cwb.2025.30.2.3" target="_blank">10.32047/cwb.2025.30.2.3</a>
 
 <a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/wu_kai"><b>Wu</b>&nbsp;Kai</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/zhao_xinzhen"><b>Zhao</b>&nbsp;Xinzhen</a></span><br>
 Journal Article - Cement Wapno Beton, Vol. 30, Iss. 2, pp. 124-143
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effective%20Factors%20and%20a%20Prediction%20Method%20on%20Extrusion%20Flow%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effective+factors+and+a+prediction+method+on+extrusion+flow+of+3d+printed+concrete&as_occt=title&as_sauthors=zhou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001620925400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.32047/cwb.2025.30.2.3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

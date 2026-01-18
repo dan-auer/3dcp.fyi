@@ -9,6 +9,60 @@ search:
 
 #  Maboudi Mehdi 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3367-2404" target="_blank">0000-0003-3367-2404</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-09-14
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 93
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (10)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (8)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (4)</li>
+        <li><a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> (3)</li>
+        <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../busw_kinn_xu_hack.2020.IMf3CP/">Inspection Methods for 3D Concrete Printing</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (23)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (23)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (19)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (17)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
+        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (13)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (9)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (9)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>

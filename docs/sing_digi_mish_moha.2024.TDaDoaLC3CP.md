@@ -16,14 +16,15 @@ tags:
 ---
 
 #The Design and Development of a Low Cost 3D Concrete Printer ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-1080-5_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-1080-5_58" target="_blank">10.1007/978-981-97-1080-5_58</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-1080-5_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-1080-5_58" target="_blank">10.1007/978-981-97-1080-5_58</a>
 
 <a href="../../../author/singh_aman"><b>Singh</b>&nbsp;Aman</a></span>, <a href="../../../author/digi_rohan"><b>Digi</b>&nbsp;Rohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0431-2418" title="ORCID: 0000-0003-0431-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mishra_ruby"><b>Mishra</b>&nbsp;Ruby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5325-0244" title="ORCID: 0000-0002-5325-0244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohanty_lochan_rajiva"><b>Mohanty</b>&nbsp;Rajiva</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9089-3727" title="ORCID: 0000-0001-9089-3727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pandey_anish"><b>Pandey</b>&nbsp;Anish</a></span><br>
 Contribution - International Conference on Recent Advances in Mechanical Engineering Research and Development, pp. 695-706
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Design%20and%20Development%20of%20a%20Low%20Cost%203D%20Concrete%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+design+and+development+of+a+low+cost+3d+concrete+printer&as_occt=title&as_sauthors=singh&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195273165&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-1080-5_58" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106294" target="_blank">10.1016/j.autcon.2025.106294</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106294" target="_blank">10.1016/j.autcon.2025.106294</a>
 
 <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-5534-9419" title="ORCID: 0009-0000-5534-9419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_boyuan"><b>Cheng</b>&nbsp;Boyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/dong_biqin"><b>Dong</b>&nbsp;Biqin</a></span>, <a href="../../../author/xing_feng"><b>Xing</b>&nbsp;Feng</a></span><br>
 Journal Article - Automation in Construction, Vol. 176, No. 106294
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Co-Driven%20Physics%20and%20Machine%20Learning%20for%20Intelligent%20Control%20in%20High-Precision%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=co-driven+physics+and+machine+learning+for+intelligent+control+in+high-precision+3d+concrete+printing&as_occt=title&as_sauthors=geng&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005860118&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001501305200003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106294" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

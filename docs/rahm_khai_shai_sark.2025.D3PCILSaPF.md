@@ -21,14 +21,15 @@ tags:
 
 #Decarbonized 3D Printed Concrete Incorporating Lithium Slag and PVA Fiber&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Buildability, Mechanical, and Microstructural Insights</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02768-w.pdf) <a href="https://doi.org/10.1617/s11527-025-02768-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02768-w" target="_blank">10.1617/s11527-025-02768-w</a>
+<a href="https://link.springer.com/content/pdf/10.1617/s11527-025-02768-w.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02768-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02768-w" target="_blank">10.1617/s11527-025-02768-w</a>
 
 <a href="../../../author/rahman_m-arifur_s"><b>Rahman</b>&nbsp;S.</a></span>, <a href="../../../author/khair_sanjida"><b>Khair</b>&nbsp;Sanjida</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5234-0619" title="ORCID: 0000-0002-5234-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b>&nbsp;Faiz</a></span>, <a href="../../../author/sarker_kumar_prabir"><b>Sarker</b>&nbsp;Prabir</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 7
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/lithium"><button class="btn">#lithium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Decarbonized%203D%20Printed%20Concrete%20Incorporating%20Lithium%20Slag%20and%20PVA%20Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=decarbonized+3d+printed+concrete+incorporating+lithium+slag+and+pva+fiber&as_occt=title&as_sauthors=rahman&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014919004&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001561625400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02768-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

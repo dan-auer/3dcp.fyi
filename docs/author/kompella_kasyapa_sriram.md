@@ -9,6 +9,60 @@ search:
 
 #  Kompella Sriram 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5254-8065" target="_blank">0000-0002-5254-8065</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-04-16
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 7
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (7)</li>
+        <li><a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a> (6)</li>
+        <li><a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> (5)</li>
+        <li><a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a> (4)</li>
+        <li><a href="../../../author/bassani_andrea"><b>Bassani</b> Andrea</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/fioretti_marta"><b>Fioretti</b> Marta</a>, <a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fior_komp_mont_espo.2020.EIotEATSoFRMUi3CP/">Experimental Investigation on the Early-Age Tensile Strength of Fiber-Reinforced Mortar Used in 3D Concrete Printing</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (12)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (11)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (9)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a> (1)</li>
+        <li><a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a> (1)</li>
+        <li><a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> (1)</li>
+        <li><a href="../../../author/souza-dias_leonardo"><b>de Souza Dias</b> Leonardo</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../komp_levi_ferr.2025.IIFPi3PCSvMFT/">Identifying Interlayer Fracture Properties in 3D Printed Concrete Specimens via Multidirectional Flexural Tests</a></li>
   <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a>, <a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a>, <a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a>, <a href="../../../author/levi_marinella"><b>Levi</b> Marinella</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../komp_marc_mont_levi.2024.FBoTDPCMiVEAaHS/">Fracture Behavior of Three-Dimensional-Printable Cementitious Mortars in Very Early-Ages and Hardened States</a></li>

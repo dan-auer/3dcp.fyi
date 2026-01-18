@@ -8,6 +8,10 @@ search:
 
 # #plate
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/bending"><button class="btn">#bending (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/grade"><button class="btn">#grade (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sun_zeng_zhug_liu.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Tests</a></li>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hong_guang-yao"><b>Hong</b> Guang-Yao</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_zeng_hong_zhug.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Behavior</a></li>

@@ -23,14 +23,15 @@ tags:
 ---
 
 #Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114408" target="_blank">10.1016/j.jobe.2025.114408</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114408" target="_blank">10.1016/j.jobe.2025.114408</a>
 
 <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/li_xiulin"><b>Li</b>&nbsp;Xiulin</a></span>, <a href="../../../author/gong_hao"><b>Gong</b>&nbsp;Hao</a></span>, <a href="../../../author/xu_jingjie"><b>Xu</b>&nbsp;Jingjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114408
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Mechanical%20Properties%20of%203D-Printed%20Fiber-Reinforced%20Lightweight%20Concrete%20Based%20on%20Air%20Entrainment%20and%20Hollow%20Glass%20Microspheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+and+mechanical+properties+of+3d-printed+fiber-reinforced+lightweight+concrete+based+on+air+entrainment+and+hollow+glass+microspheres&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019077089&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001604514800005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114408" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

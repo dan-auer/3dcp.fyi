@@ -22,14 +22,15 @@ tags:
 
 #A Strain-Based Constitutive Model Ensuring Aesthetic 3D Printed Concrete Structures&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">Limiting Differential Settlement of Filaments</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_51" target="_blank">10.1007/978-3-031-06116-5_51</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_51" target="_blank">10.1007/978-3-031-06116-5_51</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 343-348
 
 <a href="../../keyword/aesthetic"><button class="btn">#aesthetic</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Strain-Based%20Constitutive%20Model%20Ensuring%20Aesthetic%203D%20Printed%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+strain-based+constitutive+model+ensuring+aesthetic+3d+printed+concrete+structures&as_occt=title&as_sauthors=kruger&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133194909&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_51" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

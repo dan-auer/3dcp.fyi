@@ -26,7 +26,7 @@ Contribution - Proceedings of the 13th International Conference of the Arab Soci
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/cura"><button class="btn">#cura</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cura%20Salad" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cura+salad&as_occt=title&as_sauthors=bakr&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

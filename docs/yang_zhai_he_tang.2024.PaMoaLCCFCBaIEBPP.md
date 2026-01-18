@@ -21,14 +21,15 @@ tags:
 ---
 
 #Properties and Microstructure of a Low-Carbon Clinker-Free Cementitious Binder and Its Extrusion-Based Printing Performance ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109483" target="_blank">10.1016/j.jobe.2024.109483</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109483" target="_blank">10.1016/j.jobe.2024.109483</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5332-7862" title="ORCID: 0000-0002-5332-7862" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jin"><b>Yang</b>&nbsp;Jin</a></span>, <a href="../../../author/zhai_gaoyuan"><b>Zhai</b>&nbsp;Gaoyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7938-8057" title="ORCID: 0000-0002-7938-8057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_xingyang"><b>He</b>&nbsp;Xingyang</a></span>, <a href="../../../author/tang_yuanzhen"><b>Tang</b>&nbsp;Yuanzhen</a></span>, <a href="../../../author/su_ying"><b>Su</b>&nbsp;Ying</a></span>, <a href="../../../author/yu_xiaolei"><b>Yu</b>&nbsp;Xiaolei</a></span>, <a href="../../../author/zeng_jingyi"><b>Zeng</b>&nbsp;Jingyi</a></span>, <a href="../../../author/wang_fulong"><b>Wang</b>&nbsp;Fulong</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 90, No. 109483
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clinker"><button class="btn">#clinker</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Microstructure%20of%20a%20Low-Carbon%20Clinker-Free%20Cementitious%20Binder%20and%20Its%20Extrusion-Based%20Printing%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=properties+and+microstructure+of+a+low-carbon+clinker-free+cementitious+binder+and+its+extrusion-based+printing+performance&as_occt=title&as_sauthors=yang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192069825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001238194400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109483" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

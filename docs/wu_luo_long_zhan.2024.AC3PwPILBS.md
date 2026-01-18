@@ -21,14 +21,15 @@ tags:
 
 #Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">A Stacking Model Paradigm</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/5/1033/pdf?version=1708698315) <a href="https://doi.org/10.3390/ma17051033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17051033" target="_blank">10.3390/ma17051033</a>
+<a href="https://www.mdpi.com/1996-1944/17/5/1033/pdf?version=1708698315" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17051033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17051033" target="_blank">10.3390/ma17051033</a>
 
 <a href="../../../author/wu_dinglue"><b>Wu</b>&nbsp;Dinglue</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/zhang_shunxian"><b>Zhang</b>&nbsp;Shunxian</a></span>, <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 5, No. 1033
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stack"><button class="btn">#stack</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Construction%203D%20Printing%20with%20Predictive%20Inter-Layer%20Bonding%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+construction+3d+printing+with+predictive+inter-layer+bonding+strength&as_occt=title&as_sauthors=wu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187679804&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001181707700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17051033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #3D Concrete Printing in a Circular Economy&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">What We Can Learn from a 3DCP Slab Designed for Dissassembly</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2024.3.271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2024.3.271" target="_blank">10.52842/conf.caadria.2024.3.271</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2024.3.271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2024.3.271" target="_blank">10.52842/conf.caadria.2024.3.271</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heywood_kate"><b>Heywood</b>&nbsp;Kate</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span><br>
 Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 261-270
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20a%20Circular%20Economy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+in+a+circular+economy&as_occt=title&as_sauthors=heywood&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2024.3.271" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

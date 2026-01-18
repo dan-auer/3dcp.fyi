@@ -13,14 +13,15 @@ tags:
 ---
 
 #How 3DPC Will Transform Architectural Design ([2023-01](date/2023/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-09319-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-09319-7_1" target="_blank">10.1007/978-3-031-09319-7_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-09319-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-09319-7_1" target="_blank">10.1007/978-3-031-09319-7_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3065-1993" title="ORCID: 0000-0002-3065-1993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuazua-ros_amaia"><b>Zuazua-Ros</b>&nbsp;Amaia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span><br>
 Contribution - 3D Printing for Construction with Alternative Materials, pp. 1-31
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%203DPC%20Will%20Transform%20Architectural%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+3dpc+will+transform+architectural+design&as_occt=title&as_sauthors=teixeira&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-09319-7_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -14,14 +14,15 @@ tags:
 ---
 
 #Production Planning of Free-Form Concrete Panels Using 3D Plastering Technology ([2020-10](date/2020/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.11159/icsect20.133) <a href="https://doi.org/10.11159/icsect20.133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/icsect20.133" target="_blank">10.11159/icsect20.133</a>
+<a href="https://doi.org/10.11159/icsect20.133" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.11159/icsect20.133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/icsect20.133" target="_blank">10.11159/icsect20.133</a>
 
 <a href="../../../author/son_seunghyun"><b>Son</b>&nbsp;Seunghyun</a></span>, <a href="../../../author/oh_jinhyuk"><b>Oh</b>&nbsp;Jinhyuk</a></span>, <a href="../../../author/park_kwangheon"><b>Park</b>&nbsp;Kwangheon</a></span>, <a href="../../../author/kim_sunkuk"><b>Kim</b>&nbsp;Sunkuk</a></span><br>
 Contribution - Proceedings of the 5th World Congress on Civil, Structural, and Environmental Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Production%20Planning%20of%20Free-Form%20Concrete%20Panels%20Using%203D%20Plastering%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=production+planning+of+free-form+concrete+panels+using+3d+plastering+technology&as_occt=title&as_sauthors=son&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097249034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.11159/icsect20.133" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

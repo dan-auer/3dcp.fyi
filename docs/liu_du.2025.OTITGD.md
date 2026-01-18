@@ -24,14 +24,15 @@ tags:
 
 #Optimizing Thermal Insulation Through Geometric Design&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.enbuild.2025.116437" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2025.116437" target="_blank">10.1016/j.enbuild.2025.116437</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.enbuild.2025.116437" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.enbuild.2025.116437" target="_blank">10.1016/j.enbuild.2025.116437</a>
 
 <a href="../../../author/liu_ruiqing"><b>Liu</b>&nbsp;Ruiqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
 Journal Article - Energy and Buildings, No. 116437
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Thermal%20Insulation%20Through%20Geometric%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+thermal+insulation+through+geometric+design&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018666568&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001577205200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.enbuild.2025.116437" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

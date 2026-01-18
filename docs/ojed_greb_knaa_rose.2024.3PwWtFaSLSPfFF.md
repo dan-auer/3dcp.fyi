@@ -23,7 +23,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20WAAM%20to%20Form%20and%20Stiffen%20Lightweight%20Steel%20Panels%20for%20Freeform%20Fa%C3%A7ades" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+with+waam+to+form+and+stiffen+lightweight+steel+panels+for+freeform+fa%C3%A7ades&as_occt=title&as_sauthors=ojeda&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408191258-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

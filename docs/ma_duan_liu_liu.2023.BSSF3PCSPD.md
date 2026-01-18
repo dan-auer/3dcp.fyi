@@ -16,14 +16,15 @@ tags:
 ---
 
 #Better Semantic Segmentation For 3D Printing Concrete Surface Pore Detection ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.23919/ccc58697.2023.10239802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.23919/ccc58697.2023.10239802" target="_blank">10.23919/ccc58697.2023.10239802</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.23919/ccc58697.2023.10239802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.23919/ccc58697.2023.10239802" target="_blank">10.23919/ccc58697.2023.10239802</a>
 
 <a href="../../../author/ma_zongfang"><b>Ma</b>&nbsp;Zongfang</a></span>, <a href="../../../author/duan_ming"><b>Duan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <a href="../../../author/wan_weipeng"><b>Wan</b>&nbsp;Weipeng</a></span>, <a href="../../../author/song_lin"><b>Song</b>&nbsp;Lin</a></span><br>
 Contribution - 42nd Chinese Control Conference (CCC), pp. 7930-7934
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Better%20Semantic%20Segmentation%20For%203D%20Printing%20Concrete%20Surface%20Pore%20Detection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=better+semantic+segmentation+for+3d+printing+concrete+surface+pore+detection&as_occt=title&as_sauthors=ma&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175584016&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.23919/ccc58697.2023.10239802" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

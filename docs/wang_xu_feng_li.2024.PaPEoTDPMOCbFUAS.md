@@ -21,14 +21,15 @@ tags:
 ---
 
 #Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0994-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0994-6" target="_blank">10.1007/s11709-023-0994-6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11709-023-0994-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0994-6" target="_blank">10.1007/s11709-023-0994-6</a>
 
 <a href="../../../author/wang_qinghua"><b>Wang</b>&nbsp;Qinghua</a></span>, <a href="../../../author/xu_jinggang"><b>Xu</b>&nbsp;Jinggang</a></span>, <a href="../../../author/feng_duo"><b>Feng</b>&nbsp;Duo</a></span>, <a href="../../../author/li_wei"><b>Li</b>&nbsp;Wei</a></span>, <a href="../../../author/zhou_yuanyuan"><b>Zhou</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
 Journal Article - Frontiers of Structural and Civil Engineering
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Properties%20and%20Printability%20Evaluation%20of%20Three-Dimensional%20Printing%20Magnesium-Oxychloride%20Cement%20by%20Fully%20Utilizing%20Aeolian-Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=properties+and+printability+evaluation+of+three-dimensional+printing+magnesium-oxychloride+cement+by+fully+utilizing+aeolian-sand&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182206860&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001142044700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11709-023-0994-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

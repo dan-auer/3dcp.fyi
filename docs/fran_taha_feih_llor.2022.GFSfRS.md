@@ -15,14 +15,15 @@ tags:
 ---
 
 #Geometric Feedback System for Robotic Spraying ([2022-10](date/2022/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41064-022-00219-7.pdf) <a href="https://doi.org/10.1007/s41064-022-00219-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41064-022-00219-7" target="_blank">10.1007/s41064-022-00219-7</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41064-022-00219-7.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41064-022-00219-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41064-022-00219-7" target="_blank">10.1007/s41064-022-00219-7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4875-1105" title="ORCID: 0000-0003-4875-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/frangez_valens"><b>Frangez</b>&nbsp;Valens</a></span>, <a href="../../../author/taha_nizar"><b>Taha</b>&nbsp;Nizar</a></span>, <a href="../../../author/feihl_nicolas"><b>Feihl</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span>, <a href="../../../author/wieser_andreas"><b>Wieser</b>&nbsp;Andreas</a></span><br>
 Journal Article - Journal of Photogrammetry, Remote Sensing and Geoinformation Science, Vol. 90, Iss. 6, pp. 531-542
 
 <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geometric%20Feedback%20System%20for%20Robotic%20Spraying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geometric+feedback+system+for+robotic+spraying&as_occt=title&as_sauthors=frangez&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140110342&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000869568400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41064-022-00219-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

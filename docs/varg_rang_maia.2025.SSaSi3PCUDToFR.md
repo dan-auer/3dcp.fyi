@@ -19,14 +19,15 @@ tags:
 ---
 
 #Strength, Structure, and Sustainability in 3D-Printed Concrete Using Different Types of Fiber Reinforcements ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://journalengineering.fe.up.pt/index.php/upjeng/article/download/2183-6493_011-002_003270/984) <a href="https://doi.org/10.24840/2183-6493_011-002_003270" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24840/2183-6493_011-002_003270" target="_blank">10.24840/2183-6493_011-002_003270</a>
+<a href="https://journalengineering.fe.up.pt/index.php/upjeng/article/download/2183-6493_011-002_003270/984" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.24840/2183-6493_011-002_003270" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24840/2183-6493_011-002_003270" target="_blank">10.24840/2183-6493_011-002_003270</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-6393-7564" title="ORCID: 0009-0006-6393-7564" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varghese_renny"><b>Varghese</b>&nbsp;Renny</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span><br>
 Journal Article - UPorto Journal of Engineering, Vol. 11, Iss. 2, pp. 120-140
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Strength%2C%20Structure%2C%20and%20Sustainability%20in%203D-Printed%20Concrete%20Using%20Different%20Types%20of%20Fiber%20Reinforcements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=strength%2C+structure%2C+and+sustainability+in+3d-printed+concrete+using+different+types+of+fiber+reinforcements&as_occt=title&as_sauthors=varghese&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24840/2183-6493_011-002_003270" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Rajeev Pathmanathan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7731-8656" target="_blank">0000-0001-7731-8656</a>
+
+    First Contribution
+    : 2019-01-24
+    
+    Last Contribution
+    : 2025-12-15
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 575
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
+        <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a> (8)</li>
+        <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> (6)</li>
+        <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a> (2)</li>
+        <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a> (197)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (68)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (42)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (34)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (31)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (30)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (26)</li>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (16)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (14)</li>
+        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (13)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
   <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../raje_kopi_sanj.2025.CWaMfIPo3CP/">Carbonated Water and MgO for Improved Performance of 3D Concrete Printing.</a></li>

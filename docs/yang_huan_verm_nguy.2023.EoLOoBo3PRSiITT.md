@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Layer-Orientation on Behavior of 3D Printed Rock Specimens in Indirect Tensile Testing ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1755-1315/1124/1/012084/pdf) <a href="https://doi.org/10.1088/1755-1315/1124/1/012084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1124/1/012084" target="_blank">10.1088/1755-1315/1124/1/012084</a>
+<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1124/1/012084/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/1124/1/012084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1124/1/012084" target="_blank">10.1088/1755-1315/1124/1/012084</a>
 
 <a href="../../../author/yang_weiyi"><b>Yang</b>&nbsp;Weiyi</a></span>, <a href="../../../author/huang_zili"><b>Huang</b>&nbsp;Zili</a></span>, <a href="../../../author/verma_rupesh"><b>Verma</b>&nbsp;Rupesh</a></span>, <a href="../../../author/nguyen_d_giang"><b>Nguyen</b>&nbsp;Giang</a></span>, <a href="../../../author/tung_t_tran"><b>Tung</b>&nbsp;Tran</a></span>, <a href="../../../author/karakus_murat"><b>Karakus</b>&nbsp;Murat</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1124, Iss. 1
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Layer-Orientation%20on%20Behavior%20of%203D%20Printed%20Rock%20Specimens%20in%20Indirect%20Tensile%20Testing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+layer-orientation+on+behavior+of+3d+printed+rock+specimens+in+indirect+tensile+testing&as_occt=title&as_sauthors=yang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146569043&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001435729700084" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/1124/1/012084" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

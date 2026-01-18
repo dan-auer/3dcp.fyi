@@ -8,6 +8,10 @@ search:
 
 # #rest
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/time"><button class="btn">#time (2)</button></a> <a href="../../keyword/variation"><button class="btn">#variation (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/hong_geuntae"><b>Hong</b> Geuntae</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../oh_hong_choi.2023.DtEoSPMaRTotRPoCMUAoV/">Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance:<br/>A 3D Printing Perspective</a></li>
   <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../giri_prem_jiao.2023.EoVSRaDRTotRo3PC/">Effect of Varying Shear Rates at Different Resting Times on the Rheology of 3D Printable Concrete</a></li>

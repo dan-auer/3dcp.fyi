@@ -15,14 +15,15 @@ tags:
 ---
 
 #Examining the Role of Concrete 3D Printing for Housing Construction on Indigenous Reserves in Canada ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.emerald.com/insight/content/doi/10.1108/FEBE-05-2024-0015/full/pdf?title=examining-the-role-of-concrete-3d-printing-for-housing-construction-on-indigenous-reserves-in-canada) <a href="https://doi.org/10.1108/febe-05-2024-0015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/febe-05-2024-0015" target="_blank">10.1108/febe-05-2024-0015</a>
+<a href="https://www.emerald.com/insight/content/doi/10.1108/FEBE-05-2024-0015/full/pdf?title=examining-the-role-of-concrete-3d-printing-for-housing-construction-on-indigenous-reserves-in-canada" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1108/febe-05-2024-0015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/febe-05-2024-0015" target="_blank">10.1108/febe-05-2024-0015</a>
 
 <a href="../../../author/soto-rubio_mauricio"><b>Soto Rubio</b>&nbsp;Mauricio</a></span>, <a href="../../../author/mirza_fauzan_muhammad"><b>Mirza</b>&nbsp;Muhammad</a></span>, <a href="../../../author/kagdi_mustafa"><b>Kagdi</b>&nbsp;Mustafa</a></span>, <a href="../../../author/bisati_ali_ahmad"><b>Bisati</b>&nbsp;Ahmad</a></span><br>
 Journal Article - Frontiers in Engineering and Built Environment
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Examining%20the%20Role%20of%20Concrete%203D%20Printing%20for%20Housing%20Construction%20on%20Indigenous%20Reserves%20in%20Canada" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=examining+the+role+of+concrete+3d+printing+for+housing+construction+on+indigenous+reserves+in+canada&as_occt=title&as_sauthors=soto+rubio&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201627068&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/febe-05-2024-0015" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Flexural Performance of Concrete Beams via 3D Printing Stay-in-Place Formwork Followed by Casting of Normal Concrete ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2377275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2377275" target="_blank">10.1080/21650373.2024.2377275</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2024.2377275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2377275" target="_blank">10.1080/21650373.2024.2377275</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4600-9012" title="ORCID: 0009-0009-4600-9012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_yan"><b>Sun</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6811-9281" title="ORCID: 0000-0002-6811-9281" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leung_kin-ying_christopher"><b>Leung</b>&nbsp;Christopher</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Performance%20of%20Concrete%20Beams%20via%203D%20Printing%20Stay-in-Place%20Formwork%20Followed%20by%20Casting%20of%20Normal%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flexural+performance+of+concrete+beams+via+3d+printing+stay-in-place+formwork+followed+by+casting+of+normal+concrete&as_occt=title&as_sauthors=qiu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198636051&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001268455900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2024.2377275" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

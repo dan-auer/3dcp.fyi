@@ -19,14 +19,15 @@ tags:
 ---
 
 #Printability and Inter-Layer Bonding Property of 3D Printed Fiber-Reinforced Geopolymer ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109060" target="_blank">10.1016/j.jobe.2024.109060</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109060" target="_blank">10.1016/j.jobe.2024.109060</a>
 
 <a href="../../../author/liu_xinhao"><b>Liu</b>&nbsp;Xinhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_jiajun"><b>Hu</b>&nbsp;Jiajun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_xiaolu"><b>Guo</b>&nbsp;Xiaolu</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109060
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Inter-Layer%20Bonding%20Property%20of%203D%20Printed%20Fiber-Reinforced%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+and+inter-layer+bonding+property+of+3d+printed+fiber-reinforced+geopolymer&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188031316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001218304700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109060" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

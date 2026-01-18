@@ -22,14 +22,15 @@ tags:
 ---
 
 #Characterising Flexural Behaviour of Coarse Aggregate-Based 3D Printed Concrete Beams Using Acoustic Emission Technique ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1183) <a href="https://doi.org/10.21012/fc12.1183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1183" target="_blank">10.21012/fc12.1183</a>
+<a href="https://doi.org/10.21012/fc12.1183" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1183" target="_blank">10.21012/fc12.1183</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b>&nbsp;Swapnil</a></span>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b>&nbsp;Shubhankar</a></span>, <a href="../../../author/singh_bhupinder"><b>Singh</b>&nbsp;Bhupinder</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterising%20Flexural%20Behaviour%20of%20Coarse%20Aggregate-Based%203D%20Printed%20Concrete%20Beams%20Using%20Acoustic%20Emission%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterising+flexural+behaviour+of+coarse+aggregate-based+3d+printed+concrete+beams+using+acoustic+emission+technique&as_occt=title&as_sauthors=ghodke&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1183" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

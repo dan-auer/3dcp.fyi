@@ -19,14 +19,15 @@ tags:
 
 #Shrinkage Behavior of Cementitious 3D Printing Materials&nbsp;([2021-09](date/2021/09))
 <div class="h1-like">Effect of Temperature and Relative Humidity</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" target="_blank">10.1016/j.cemconcomp.2021.104238</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2021.104238" target="_blank">10.1016/j.cemconcomp.2021.104238</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7070-2951" title="ORCID: 0000-0002-7070-2951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-2963" title="ORCID: 0000-0001-5069-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gholampour_aliakbar"><b>Gholampour</b>&nbsp;Aliakbar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9831-8580" title="ORCID: 0000-0002-9831-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ngo_d_tuan"><b>Ngo</b>&nbsp;Tuan</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 124
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Shrinkage%20Behavior%20of%20Cementitious%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=shrinkage+behavior+of+cementitious+3d+printing+materials&as_occt=title&as_sauthors=shahmirzadi&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115608833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000703656800003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2021.104238" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

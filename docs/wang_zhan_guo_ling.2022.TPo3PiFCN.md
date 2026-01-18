@@ -14,14 +14,15 @@ tags:
 ---
 
 #The Potential of 3D Printing in Facilitating Carbon Neutrality ([2022-10](date/2022/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jes.2022.10.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jes.2022.10.024" target="_blank">10.1016/j.jes.2022.10.024</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jes.2022.10.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jes.2022.10.024" target="_blank">10.1016/j.jes.2022.10.024</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5072-6174" title="ORCID: 0000-0001-5072-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dingyi"><b>Wang</b>&nbsp;Dingyi</a></span>, <a href="../../../author/zhang_tingting"><b>Zhang</b>&nbsp;Tingting</a></span>, <a href="../../../author/guo_xudong"><b>Guo</b>&nbsp;Xudong</a></span>, <a href="../../../author/ling_dayi"><b>Ling</b>&nbsp;Dayi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6213-4720" title="ORCID: 0000-0002-6213-4720" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_ligang"><b>Hu</b>&nbsp;Ligang</a></span>, <a href="../../../author/jiang_guibin"><b>Jiang</b>&nbsp;Guibin</a></span><br>
 Journal Article - Journal of Environmental Sciences
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/neutrality"><button class="btn">#neutrality</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Potential%20of%203D%20Printing%20in%20Facilitating%20Carbon%20Neutrality" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+potential+of+3d+printing+in+facilitating+carbon+neutrality&as_occt=title&as_sauthors=wang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145572506&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000902041700008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jes.2022.10.024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

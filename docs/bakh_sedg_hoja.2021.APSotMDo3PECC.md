@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Preliminary Study on the Mix-Design of 3D Printable Engineered Cementitious Composite ([2021-06](date/2021/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784483787.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483787.021" target="_blank">10.1061/9780784483787.021</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784483787.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483787.021" target="_blank">10.1061/9780784483787.021</a>
 
 <a href="../../../author/bakhshi_amir"><b>Bakhshi</b>&nbsp;Amir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2544-8587" title="ORCID: 0000-0002-2544-8587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sedghi_reza"><b>Sedghi</b>&nbsp;Reza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
 Contribution - Tran-SET 2021, pp. 199-211
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Preliminary%20Study%20on%20the%20Mix-Design%20of%203D%20Printable%20Engineered%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+preliminary+study+on+the+mix-design+of+3d+printable+engineered+cementitious+composite&as_occt=title&as_sauthors=bakhshi&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120647727&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784483787.021" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

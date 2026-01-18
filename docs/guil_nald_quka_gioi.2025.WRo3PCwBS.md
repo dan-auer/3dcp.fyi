@@ -16,14 +16,15 @@ tags:
 ---
 
 #Water Resistance of 3D Printed Clay with Bio-Stabilizers ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92777-5_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92777-5_8" target="_blank">10.1007/978-3-031-92777-5_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-92777-5_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92777-5_8" target="_blank">10.1007/978-3-031-92777-5_8</a>
 
 <a href="../../../author/guillen_natali-inga_ruth"><b>Guillen</b>&nbsp;Ruth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3142-7897" title="ORCID: 0000-0002-3142-7897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naldoni_lapo"><b>Naldoni</b>&nbsp;Lapo</a></span>, <a href="../../../author/quka_katerina"><b>Quka</b>&nbsp;Katerina</a></span>, <a href="../../../author/gioia_flavio"><b>Gioia</b>&nbsp;Flavio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8698-4570" title="ORCID: 0000-0001-8698-4570" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keita_emmanuel"><b>Keita</b>&nbsp;Emmanuel</a></span><br>
 Contribution - Proceedings of the 6th International Conference on Bio-Based Building Materials, pp. 89-101
 
 <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/stabilizer"><button class="btn">#stabilizer</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Water%20Resistance%20of%203D%20Printed%20Clay%20with%20Bio-Stabilizers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=water+resistance+of+3d+printed+clay+with+bio-stabilizers&as_occt=title&as_sauthors=guillen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009241889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-92777-5_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Predication of Strength-Based Failure in Extrusion-Based 3D Concrete Printing ([2019-09](date/2019/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_45" target="_blank">10.1007/978-3-030-22566-7_45</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-22566-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_45" target="_blank">10.1007/978-3-030-22566-7_45</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2031-2541" title="ORCID: 0000-0002-2031-2541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b>&nbsp;Roshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 391-399
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Predication%20of%20Strength-Based%20Failure%20in%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=predication+of+strength-based+failure+in+extrusion-based+3d+concrete+printing&as_occt=title&as_sauthors=jayathilakage&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071495425&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-22566-7_45" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

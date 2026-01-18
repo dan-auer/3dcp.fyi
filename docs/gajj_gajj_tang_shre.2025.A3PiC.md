@@ -20,14 +20,15 @@ tags:
 
 #Advancing 3D Printing in Construction&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">Rheological Behaviors of Cementitious Composites with Supplementary Materials</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-8830-2_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-8830-2_20" target="_blank">10.1007/978-981-96-8830-2_20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-8830-2_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-8830-2_20" target="_blank">10.1007/978-981-96-8830-2_20</a>
 
 <a href="../../../author/gajjar_parth"><b>Gajjar</b>&nbsp;Parth</a></span>, <a href="../../../author/gajjar_t"><b>Gajjar</b>&nbsp;T.</a></span>, <a href="../../../author/tangirala_aniruddha"><b>Tangirala</b>&nbsp;Aniruddha</a></span>, <a href="../../../author/shrestha_ajad"><b>Shrestha</b>&nbsp;Ajad</a></span><br>
 Contribution - Recent Advances in Structural Engineering, pp. 209-218
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/supplement"><button class="btn">#supplement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+3d+printing+in+construction&as_occt=title&as_sauthors=gajjar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020711970&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-8830-2_20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

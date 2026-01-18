@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Properties of 3D Printed Carbon Fiber-Reinforced Cement Mortar ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-6439/11/12/109/pdf?version=1702305506) <a href="https://doi.org/10.3390/fib11120109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib11120109" target="_blank">10.3390/fib11120109</a>
+<a href="https://www.mdpi.com/2079-6439/11/12/109/pdf?version=1702305506" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/fib11120109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib11120109" target="_blank">10.3390/fib11120109</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yeou-fong"><b>Li</b>&nbsp;Yeou-Fong</a></span>, <a href="../../../author/tsai_pei-jen"><b>Tsai</b>&nbsp;Pei-Jen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/syu_jin-yuan"><b>Syu</b>&nbsp;Jin-Yuan</a></span>, <a href="../../../author/lok_man-hoi"><b>Lok</b>&nbsp;Man-Hoi</a></span>, <a href="../../../author/chen_huei-shiung"><b>Chen</b>&nbsp;Huei-Shiung</a></span><br>
 Journal Article - Fibers, Vol. 11, Iss. 12, No. 109
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20Carbon%20Fiber-Reinforced%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+3d+printed+carbon+fiber-reinforced+cement+mortar&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180430426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001131351200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/fib11120109" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

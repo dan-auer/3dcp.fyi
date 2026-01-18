@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" target="_blank">10.1016/j.conbuildmat.2024.139737</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139737" target="_blank">10.1016/j.conbuildmat.2024.139737</a>
 
 <a href="../../../author/huang_junxiang"><b>Huang</b>&nbsp;Junxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0031-593X" title="ORCID: 0000-0002-0031-593X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_zeqin"><b>Peng</b>&nbsp;Zeqin</a></span>, <a href="../../../author/tan_xianzhong"><b>Tan</b>&nbsp;Xianzhong</a></span>, <a href="../../../author/gong_guofang"><b>Gong</b>&nbsp;Guofang</a></span>, <a href="../../../author/yang_huayong"><b>Yang</b>&nbsp;Huayong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9312-9705" title="ORCID: 0000-0002-9312-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_kai"><b>Ren</b>&nbsp;Kai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_dong"><b>Han</b>&nbsp;Dong</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 458, No. 139737
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanism%20Analysis%20of%20the%20Magnetic%20Field-Assisted%203D%20Printed%20Steel-Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanism+analysis+of+the+magnetic+field-assisted+3d+printed+steel-fiber-reinforced+concrete&as_occt=title&as_sauthors=huang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213065468&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001394858000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139737" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

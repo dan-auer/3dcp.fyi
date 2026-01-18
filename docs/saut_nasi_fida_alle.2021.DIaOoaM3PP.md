@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development, Implementation and Optimization of a Mobile 3D Printing Platform ([2020-11](date/2020/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-020-00154-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-020-00154-2" target="_blank">10.1007/s40964-020-00154-2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-020-00154-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-020-00154-2" target="_blank">10.1007/s40964-020-00154-2</a>
 
 <a href="../../../author/sauter_andreas"><b>Sauter</b>&nbsp;Andreas</a></span>, <a href="../../../author/nasirov_aslan"><b>Nasirov</b>&nbsp;Aslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4233-1049" title="ORCID: 0000-0002-4233-1049" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fidan_ismail"><b>Fidan</b>&nbsp;Ismail</a></span>, <a href="../../../author/allen_michael"><b>Allen</b>&nbsp;Michael</a></span>, <a href="../../../author/elliott_amy"><b>Elliott</b>&nbsp;Amy</a></span>, <a href="../../../author/cossette_mel"><b>Cossette</b>&nbsp;Mel</a></span>, <a href="../../../author/tackett_ed"><b>Tackett</b>&nbsp;Ed</a></span>, <a href="../../../author/singer_thomas"><b>Singer</b>&nbsp;Thomas</a></span><br>
 Journal Article - Progress in Additive Manufacturing, Vol. 6, Iss. 2, pp. 231-241
 
 <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%2C%20Implementation%20and%20Optimization%20of%20a%20Mobile%203D%20Printing%20Platform" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development%2C+implementation+and+optimization+of+a+mobile+3d+printing+platform&as_occt=title&as_sauthors=sauter&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096403130&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000641768200005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-020-00154-2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

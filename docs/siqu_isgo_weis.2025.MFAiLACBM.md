@@ -18,14 +18,15 @@ tags:
 ---
 
 #Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials ([2025-08](date/2025/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02733-7.pdf) <a href="https://doi.org/10.1617/s11527-025-02733-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02733-7" target="_blank">10.1617/s11527-025-02733-7</a>
+<a href="https://link.springer.com/content/pdf/10.1617/s11527-025-02733-7.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02733-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02733-7" target="_blank">10.1617/s11527-025-02733-7</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-0460-308X" title="ORCID: 0009-0002-0460-308X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/siqueira-neto_antonio_luiz"><b>de&nbsp;Siqueira Neto</b>&nbsp;Luiz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0554-3501" title="ORCID: 0000-0002-0554-3501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/isgor_o_burkan"><b>Isgor</b>&nbsp;Burkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 6
 
 <a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Fluid%20Absorption%20in%20Layered%20Anisotropic%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling+fluid+absorption+in+layered+anisotropic+cement-based+materials&as_occt=title&as_sauthors=siqueira+neto&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012271650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001541777400002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02733-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

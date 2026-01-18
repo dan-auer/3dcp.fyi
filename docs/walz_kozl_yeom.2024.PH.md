@@ -18,14 +18,15 @@ tags:
 
 #Printing Homes&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Unit Cost Estimation for Additive Manufacturing in Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.4324/9781003453789-8) <a href="https://doi.org/10.4324/9781003453789-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4324/9781003453789-8" target="_blank">10.4324/9781003453789-8</a>
+<a href="https://doi.org/10.4324/9781003453789-8" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.4324/9781003453789-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4324/9781003453789-8" target="_blank">10.4324/9781003453789-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3946-7954" title="ORCID: 0000-0003-3946-7954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6952-7682" title="ORCID: 0000-0002-6952-7682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kozlova_mariia"><b>Kozlova</b>&nbsp;Mariia</a></span>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b>&nbsp;Julian</a></span><br>
 Contribution - Sensitivity-Analysis for Business, Technology, and Policymaking, pp. 116-141
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/estimation"><button class="btn">#estimation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing%20Homes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing+homes&as_occt=title&as_sauthors=walzer&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203694056&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4324/9781003453789-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

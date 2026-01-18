@@ -17,14 +17,15 @@ tags:
 ---
 
 #Improving Inter-Layer Bond in 3D Printed Concrete Through Induced Thermo-Hydrokinetics ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" target="_blank">10.1016/j.conbuildmat.2023.132121</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132121" target="_blank">10.1016/j.conbuildmat.2023.132121</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8341-3921" title="ORCID: 0000-0002-8341-3921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munemo_rue"><b>Munemo</b>&nbsp;Rue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 393, No. 132121
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Inter-Layer%20Bond%20in%203D%20Printed%20Concrete%20Through%20Induced%20Thermo-Hydrokinetics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+inter-layer+bond+in+3d+printed+concrete+through+induced+thermo-hydrokinetics&as_occt=title&as_sauthors=munemo&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161782176&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001028895500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.132121" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

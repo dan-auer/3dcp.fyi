@@ -18,14 +18,15 @@ tags:
 
 #Interactions Between BIM and Robotics&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">Towards Intelligent Construction Engineering and Management</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compind.2025.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compind.2025.104299" target="_blank">10.1016/j.compind.2025.104299</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compind.2025.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compind.2025.104299" target="_blank">10.1016/j.compind.2025.104299</a>
 
 <a href="../../../author/yue_hongzhe"><b>Yue</b>&nbsp;Hongzhe</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-5478-0382" title="ORCID: 0009-0006-5478-0382" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qian"><b>Wang</b>&nbsp;Qian</a></span>, <a href="../../../author/zhao_zixuan"><b>Zhao</b>&nbsp;Zixuan</a></span>, <a href="../../../author/lai_sha"><b>Lai</b>&nbsp;Sha</a></span>, <a href="../../../author/huang_guanying"><b>Huang</b>&nbsp;Guanying</a></span><br>
 Journal Article - Computers in Industry, Vol. 169, No. 104299
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interactions%20Between%20BIM%20and%20Robotics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interactions+between+bim+and+robotics&as_occt=title&as_sauthors=yue&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002882622&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001478598100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compind.2025.104299" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Babafemi Adewumi 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6232-6642" target="_blank">0000-0002-6232-6642</a>
+
+    First Contribution
+    : 2020-12-30
+    
+    Last Contribution
+    : 2025-10-29
+
+    Number Contributions
+    : 25
+
+    Number Citations
+    : 373
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (17)</li>
+        <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> (9)</li>
+        <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (9)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (3)</li>
+        <li><a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ples_baba_paul_pand.2021.Bf3CP/">Biomimicry for 3D Concrete Printing:<br/>A Review and Perspective</a> (92)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (93)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (84)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (79)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (73)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (60)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> (12)</li>
+        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (10)</li>
+        <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a> (10)</li>
+        <li><a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> (10)</li>
+        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (10)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/mararo_m_ian"><b>Mararo</b> Ian</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mara_baba_aigb.2025.TUtPo3CPiK/">Towards Understanding the Perceptions of 3D Construction Printing in Kenya</a></li>

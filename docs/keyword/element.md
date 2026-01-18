@@ -8,7 +8,12 @@ search:
 
 # #element
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (120)</button></a> <a href="../../keyword/print"><button class="btn">#print (107)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (26)</button></a> <a href="../../keyword/finite"><button class="btn">#finite (26)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (26)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_lian.2026.BAo3CP/">Buildability Analysis of 3D Concrete Printing:<br/>A Finite Element Model Incorporating Segment-by-Segment Activation, Nozzle Constraint, and Extrusion Pressure</a></li>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/lopes_joana"><b>Lopes</b> Joana</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jesu_lope_teix_guim.2026.AoSCPo3PBE/">Application of Self-Cleaning Products on 3D-Printed Building Elements:<br/>An Experimental Study</a></li>
   <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a>, <a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shai_peru_boil.2026.TOwENIo3PCE/">Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements</a></li>
   <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>

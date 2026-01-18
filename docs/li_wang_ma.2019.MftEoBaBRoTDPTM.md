@@ -20,14 +20,15 @@ tags:
 ---
 
 #Method for the Enhancement of Buildability and Bending-Resistance of Three-Dimensional-Printable Tailing Mortar ([2019-02](date/2019/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" target="_blank">10.1016/b978-0-12-815481-6.00008-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00008-7" target="_blank">10.1016/b978-0-12-815481-6.00008-7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8800-8901" title="ORCID: 0000-0001-8800-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhijian"><b>Li</b>&nbsp;Zhijian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
 Contribution - 3D Concrete Printing Technology, pp. 161-180
 
 <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Method%20for%20the%20Enhancement%20of%20Buildability%20and%20Bending-Resistance%20of%20Three-Dimensional-Printable%20Tailing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=method+for+the+enhancement+of+buildability+and+bending-resistance+of+three-dimensional-printable+tailing+mortar&as_occt=title&as_sauthors=li&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150087313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-12-815481-6.00008-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

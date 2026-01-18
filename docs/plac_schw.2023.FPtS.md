@@ -19,14 +19,15 @@ tags:
 
 #From Process to System&nbsp;([2023-10](date/2023/10))
 <div class="h1-like">A Review on the Implications of Concrete 3D Printing on Project Delivery</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4591/53/1/54/pdf?version=1706599095) <a href="https://doi.org/10.3390/iocbd2023-16383" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/iocbd2023-16383" target="_blank">10.3390/iocbd2023-16383</a>
+<a href="https://www.mdpi.com/2673-4591/53/1/54/pdf?version=1706599095" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/iocbd2023-16383" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/iocbd2023-16383" target="_blank">10.3390/iocbd2023-16383</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
 Contribution - Proceedings of the the 1st International Online Conference on Buildings, No. 54
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Process%20to%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+process+to+system&as_occt=title&as_sauthors=placzek&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197240948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/iocbd2023-16383" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

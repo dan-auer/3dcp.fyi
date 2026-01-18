@@ -23,14 +23,15 @@ tags:
 
 #Flow and Deformation Behaviors of Cementitious Materials Through Nozzles with Different Geometric Parameters&nbsp;([2022-11](date/2022/11))
 <div class="h1-like">Experimental and Numerical Approaches</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" target="_blank">10.1016/j.conbuildmat.2022.129605</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129605" target="_blank">10.1016/j.conbuildmat.2022.129605</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2290-4911" title="ORCID: 0000-0002-2290-4911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_rongxin"><b>Guo</b>&nbsp;Rongxin</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span>, <a href="../../../author/qi_rongqing"><b>Qi</b>&nbsp;Rongqing</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 360
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flow%20and%20Deformation%20Behaviors%20of%20Cementitious%20Materials%20Through%20Nozzles%20with%20Different%20Geometric%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flow+and+deformation+behaviors+of+cementitious+materials+through+nozzles+with+different+geometric+parameters&as_occt=title&as_sauthors=pan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141255710&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000897030600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129605" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

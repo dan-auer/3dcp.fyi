@@ -17,14 +17,15 @@ tags:
 ---
 
 #Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-025-02723-9.pdf) <a href="https://doi.org/10.1617/s11527-025-02723-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02723-9" target="_blank">10.1617/s11527-025-02723-9</a>
+<a href="https://link.springer.com/content/pdf/10.1617/s11527-025-02723-9.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02723-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02723-9" target="_blank">10.1617/s11527-025-02723-9</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-4222-1540" title="ORCID: 0009-0006-4222-1540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mostert_jean-pierre"><b>Mostert</b>&nbsp;Jean-Pierre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 5
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reducing%20Anisotropic%20Behaviour%20of%203D%20Printed%20Concrete%20Through%20Interlocked%20Filaments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reducing+anisotropic+behaviour+of+3d+printed+concrete+through+interlocked+filaments&as_occt=title&as_sauthors=mostert&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009995518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001523984100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02723-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

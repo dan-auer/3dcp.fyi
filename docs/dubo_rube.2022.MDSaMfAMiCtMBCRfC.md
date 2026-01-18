@@ -20,14 +20,15 @@ tags:
 ---
 
 #Material Development Standards and Methods for Additive Manufacturing in Construction to Meet Building Code Requirements for Certification ([2020-11](date/2020/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163720200103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163720200103" target="_blank">10.1520/stp163720200103</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163720200103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163720200103" target="_blank">10.1520/stp163720200103</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3857-2920" title="ORCID: 0000-0003-3857-2920" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubov_alexey"><b>Dubov</b>&nbsp;Alexey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8095-2954" title="ORCID: 0000-0002-8095-2954" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruben_sam"><b>Ruben</b>&nbsp;Sam</a></span><br>
 Contribution - Proceedings of the ASTM International Conference on Additive Manufacturing, pp. 375-385
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/certification"><button class="btn">#certification</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Material%20Development%20Standards%20and%20Methods%20for%20Additive%20Manufacturing%20in%20Construction%20to%20Meet%20Building%20Code%20Requirements%20for%20Certification" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=material+development+standards+and+methods+for+additive+manufacturing+in+construction+to+meet+building+code+requirements+for+certification&as_occt=title&as_sauthors=dubov&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163484978&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163720200103" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

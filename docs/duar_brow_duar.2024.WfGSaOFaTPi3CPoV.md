@@ -19,14 +19,15 @@ tags:
 ---
 
 #Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105590" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105590" target="_blank">10.1016/j.autcon.2024.105590</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105590" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105590" target="_blank">10.1016/j.autcon.2024.105590</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7111-0018" title="ORCID: 0000-0002-7111-0018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_goncalo"><b>Duarte</b>&nbsp;Gonçalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_c_nathan"><b>Brown</b>&nbsp;Nathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
 Journal Article - Automation in Construction, Vol. 166, No. 105590
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Workflow%20for%20Generating%2C%20Simulating%2C%20and%20Optimizing%20Form%20and%20Tool-Path%20in%203D%20Concrete%20Printing%20of%20Vaults" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=workflow+for+generating%2C+simulating%2C+and+optimizing+form+and+tool-path+in+3d+concrete+printing+of+vaults&as_occt=title&as_sauthors=duarte&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197065261&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001263092900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105590" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

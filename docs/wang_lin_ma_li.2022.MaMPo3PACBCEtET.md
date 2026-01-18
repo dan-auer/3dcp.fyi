@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical and Microstructural Properties of 3D Printed Aluminate-Cement-Based Composite Exposed to Elevated Temperatures ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" target="_blank">10.1016/j.conbuildmat.2022.129144</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129144" target="_blank">10.1016/j.conbuildmat.2022.129144</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/lin_wenyu"><b>Lin</b>&nbsp;Wenyu</a></span>, <a href="../../../author/ma_hui"><b>Ma</b>&nbsp;Hui</a></span>, <a href="../../../author/li_dexin"><b>Li</b>&nbsp;Dexin</a></span>, <a href="../../../author/wang_qiao"><b>Wang</b>&nbsp;Qiao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 353
 
 <a href="../../keyword/aluminate"><button class="btn">#aluminate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Microstructural%20Properties%20of%203D%20Printed%20Aluminate-Cement-Based%20Composite%20Exposed%20to%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+microstructural+properties+of+3d+printed+aluminate-cement-based+composite+exposed+to+elevated+temperatures&as_occt=title&as_sauthors=wang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138115327&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000876815500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129144" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

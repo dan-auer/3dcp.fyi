@@ -8,6 +8,10 @@ search:
 
 # #cantilever
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/earth"><button class="btn">#earth (1)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (1)</button></a> <a href="../../keyword/support"><button class="btn">#support (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a>, <a href="../../../author/dara_seni"><b>Dara</b> Seni</a>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mahd_dara_abde.2025.ESSoSS3PEBCURA/">Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM</a></li>
   <li><a href="../../../author/melcher_e_grace"><b>Melcher</b> Grace</a>, <a href="../../../author/rauch_andy"><b>Rauch</b> Andy</a>, <a href="../../../author/yashar_melodie"><b>Yashar</b> Melodie</a>, <a href="../../../author/ballard_jason"><b>Ballard</b> Jason</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../melc_rauc_yash_ball.2024.3PICP/">3D Printing ICONs Cosmic Pavilion:<br/>A Case Study in Cementitious Extrusion of Unsupported Cantilevers</a></li>

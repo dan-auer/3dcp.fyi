@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design and Evaluation of Additive Manufactured Highly Efficient Inclined-Wing-Type Continuous Mixer ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-022-23809-2.pdf) <a href="https://doi.org/10.1038/s41598-022-23809-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-022-23809-2" target="_blank">10.1038/s41598-022-23809-2</a>
+<a href="https://www.nature.com/articles/s41598-022-23809-2.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1038/s41598-022-23809-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-022-23809-2" target="_blank">10.1038/s41598-022-23809-2</a>
 
 <a href="../../../author/baek_seoung-ho"><b>Baek</b>&nbsp;Seoung-Ho</a></span>, <a href="../../../author/yang_jung-ho"><b>Yang</b>&nbsp;Jung-Ho</a></span>, <a href="../../../author/ha_cheol-woo"><b>Ha</b>&nbsp;Cheol-Woo</a></span>, <a href="../../../author/shim_y_patrick"><b>Shim</b>&nbsp;Patrick</a></span>, <a href="../../../author/yong_son"><b>Yong</b>&nbsp;Son</a></span>, <a href="../../../author/park_sang-hu"><b>Park</b>&nbsp;Sang-Hu</a></span><br>
 Journal Article - Scientific Reports, Vol. 12, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Evaluation%20of%20Additive%20Manufactured%20Highly%20Efficient%20Inclined-Wing-Type%20Continuous%20Mixer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+evaluation+of+additive+manufactured+highly+efficient+inclined-wing-type+continuous+mixer&as_occt=title&as_sauthors=baek&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141863786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000883823800010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1038/s41598-022-23809-2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

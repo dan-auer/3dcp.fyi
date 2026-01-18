@@ -21,14 +21,15 @@ tags:
 ---
 
 #Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" target="_blank">10.1016/j.cemconcomp.2025.106059</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106059" target="_blank">10.1016/j.cemconcomp.2025.106059</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8799-7100" title="ORCID: 0000-0002-8799-7100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chao"><b>Liu</b>&nbsp;Chao</a></span>, <a href="../../../author/li_xin"><b>Li</b>&nbsp;Xin</a></span>, <a href="../../../author/wu_yiwen"><b>Wu</b>&nbsp;Yiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4433-5075" title="ORCID: 0000-0003-4433-5075" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_huawei"><b>Liu</b>&nbsp;Huawei</a></span>, <a href="../../../author/meng_yisheng"><b>Meng</b>&nbsp;Yisheng</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 160, No. 106059
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/external"><button class="btn">#external</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20External%20Loading%20on%20the%20Time-Dependent%20Evolution%20of%203D%20Printed%20Concrete%20with%20Recycled%20Sand%20in%20the%20Green%20State" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+external+loading+on+the+time-dependent+evolution+of+3d+printed+concrete+with+recycled+sand+in+the+green+state&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001148918&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001458649500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106059" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Architectural Concepts Employing Co-Robot-Strategy and Contour Crafting Technologies for Lunar Settlement Infrastructure Development ([2012-09](date/2012/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2012-5173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2012-5173" target="_blank">10.2514/6.2012-5173</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2012-5173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2012-5173" target="_blank">10.2514/6.2012-5173</a>
 
 <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/carlson_anders"><b>Carlson</b>&nbsp;Anders</a></span>, <a href="../../../author/leach_neil"><b>Leach</b>&nbsp;Neil</a></span><br>
 Contribution - Proceedings of the AIAA SPACE 2012 Conference & Exposition
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Architectural%20Concepts%20Employing%20Co-Robot-Strategy%20and%20Contour%20Crafting%20Technologies%20for%20Lunar%20Settlement%20Infrastructure%20Development" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=architectural+concepts+employing+co-robot-strategy+and+contour+crafting+technologies+for+lunar+settlement+infrastructure+development&as_occt=title&as_sauthors=thangavelu&as_ylo=2010&as_yhi=2014&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2012-5173" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

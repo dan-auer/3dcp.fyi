@@ -17,14 +17,15 @@ tags:
 
 #From Walls to Roofs&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">Formwork-Free Robotic Earthen Vault Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.9" target="_blank">10.2307/jj.11374766.9</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2307/jj.11374766.9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.9" target="_blank">10.2307/jj.11374766.9</a>
 
 <a href="../../../author/darweesh_barrak"><b>Darweesh</b>&nbsp;Barrak</a></span>, <a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span><br>
 Contribution - Fabricate 2024, pp. 40-47
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Walls%20to%20Roofs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+walls+to+roofs&as_occt=title&as_sauthors=darweesh&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/jj.11374766.9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

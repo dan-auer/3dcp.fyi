@@ -8,6 +8,10 @@ search:
 
 # #bed
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (30)</button></a> <a href="../../keyword/particle"><button class="btn">#particle (22)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (12)</button></a> <a href="../../keyword/selective"><button class="btn">#selective (10)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_cort_ooms_wan.2025.MPoPB3PCIP/">Mechanical Properties of Particle-Bed 3D Printed Concrete Infill Patterns</a></li>

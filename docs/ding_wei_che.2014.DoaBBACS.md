@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of a BIM-Based Automated Construction System ([2014-12](date/2014/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.proeng.2014.10.536) <a href="https://doi.org/10.1016/j.proeng.2014.10.536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2014.10.536" target="_blank">10.1016/j.proeng.2014.10.536</a>
+<a href="https://doi.org/10.1016/j.proeng.2014.10.536" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.proeng.2014.10.536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2014.10.536" target="_blank">10.1016/j.proeng.2014.10.536</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <a href="../../../author/wei_ran"><b>Wei</b>&nbsp;Ran</a></span>, <a href="../../../author/che_haichao"><b>Che</b>&nbsp;Haichao</a></span><br>
 Journal Article - Procedia Engineering, Vol. 85, pp. 123-131
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20BIM-Based%20Automated%20Construction%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+bim-based+automated+construction+system&as_occt=title&as_sauthors=ding&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84949115681&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000371314000015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.proeng.2014.10.536" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

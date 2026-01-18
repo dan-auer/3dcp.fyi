@@ -23,7 +23,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20the%20Inter-Layer%20Strength%20of%203D%20Printed%20Concrete%20Shear%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+the+inter-layer+strength+of+3d+printed+concrete+shear+walls&as_occt=title&as_sauthors=licciardello&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

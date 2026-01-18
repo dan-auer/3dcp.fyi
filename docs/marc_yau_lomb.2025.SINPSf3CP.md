@@ -21,7 +21,7 @@ Contribution - Proceedings of the IASS 2025 Annual Symposium
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slicing"><button class="btn">#slicing</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Stress-Informed%20Non-Planar%20Slicing%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=stress-informed+non-planar+slicing+for+3d+concrete+printing&as_occt=title&as_sauthors=marco&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

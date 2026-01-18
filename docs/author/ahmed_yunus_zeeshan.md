@@ -9,6 +9,60 @@ search:
 
 #  Ahmed Zeeshan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7250-9752" target="_blank">0000-0001-7250-9752</a>
+
+    First Contribution
+    : 2016-08-02
+    
+    Last Contribution
+    : 2021-11-04
+
+    Number Contributions
+    : 20
+
+    Number Citations
+    : 2032
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (15)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (9)</li>
+        <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a> (3)</li>
+        <li><a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../bos_wolf_ahme_sale.2016.AMoCiC/">Additive Manufacturing of Concrete in Construction:<br/>Potentials and Challenges of 3D Concrete Printing</a> (765)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (29)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (24)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (23)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (20)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (120)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (119)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (69)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (61)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (59)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ahme_wolf_bos_sale.2022.AFfLSSAo3PC/">A Framework for Large-Scale Structural Applications of 3D Printed Concrete:<br/>The Case of a 29m Bridge in the Netherlands</a></li>
   <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/biffi_alessia"><b>Biffi</b> Alessia</a>, <a href="../../../author/hass_lauri"><b>Hass</b> Lauri</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../ahme_biff_hass_bos.2020.3CP/">3D Concrete Printing:<br/>Free-Form Geometries with Improved Ductility and Strength</a></li>

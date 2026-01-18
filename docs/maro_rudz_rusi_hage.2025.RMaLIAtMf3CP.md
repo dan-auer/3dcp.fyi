@@ -17,14 +17,15 @@ tags:
 ---
 
 #Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing ([2025-09](date/2025/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/18/4387/pdf?version=1758290611) <a href="https://doi.org/10.3390/ma18184387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18184387" target="_blank">10.3390/ma18184387</a>
+<a href="https://www.mdpi.com/1996-1944/18/18/4387/pdf?version=1758290611" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18184387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18184387" target="_blank">10.3390/ma18184387</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b>&nbsp;Karina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 18, No. 4387
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recycled%20Materials%20and%20Lightweight%20Insulating%20Additions%20to%20Mixtures%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recycled+materials+and+lightweight+insulating+additions+to+mixtures+for+3d+concrete+printing&as_occt=title&as_sauthors=maroszek&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017123366&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001581692200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18184387" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

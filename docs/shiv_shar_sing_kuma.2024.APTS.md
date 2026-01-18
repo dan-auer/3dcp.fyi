@@ -17,14 +17,15 @@ tags:
 
 #A Path Towards SDGs&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Investigation of the Challenges in Adopting 3D Concrete Printing in India</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/infrastructures9090166) <a href="https://doi.org/10.3390/infrastructures9090166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures9090166" target="_blank">10.3390/infrastructures9090166</a>
+<a href="https://doi.org/10.3390/infrastructures9090166" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/infrastructures9090166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures9090166" target="_blank">10.3390/infrastructures9090166</a>
 
 <a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b>&nbsp;Bandoorvaragerahalli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7033-5218" title="ORCID: 0000-0001-7033-5218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sharath-chandra_sathvik"><b>Sharath Chandra</b>&nbsp;Sathvik</a></span>, <a href="../../../author/singh_kumar_atul"><b>Singh</b>&nbsp;Atul</a></span>, <a href="../../../author/kumar_rakesh"><b>Kumar</b>&nbsp;Rakesh</a></span>, <a href="../../../author/kumar_nitin"><b>Kumar</b>&nbsp;Nitin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1696-8422" title="ORCID: 0000-0003-1696-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tantri_adithya"><b>Tantri</b>&nbsp;Adithya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0482-1936" title="ORCID: 0000-0002-0482-1936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naganna_raghavendra_sujay"><b>Naganna</b>&nbsp;Sujay</a></span><br>
 Journal Article - Infrastructures, Vol. 9, Iss. 9, No. 166
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Path%20Towards%20SDGs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+path+towards+sdgs&as_occt=title&as_sauthors=shivendra&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205260722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001323068200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/infrastructures9090166" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

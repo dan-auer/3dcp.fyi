@@ -20,14 +20,15 @@ tags:
 ---
 
 #Investigation of Fresh and Hardened Properties of 3D Printable Concrete Containing Ozone-Modified Carbon-Fiber ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2432008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2432008" target="_blank">10.1080/21650373.2024.2432008</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2024.2432008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2432008" target="_blank">10.1080/21650373.2024.2432008</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <a href="../../../author/akarsu-ozenc_aliye"><b>Akarsu Özenç</b>&nbsp;Aliye</a></span>, <a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b>&nbsp;Zaide</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span>, <a href="../../../author/eren_semiha"><b>Eren</b>&nbsp;Semiha</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printable%20Concrete%20Containing%20Ozone-Modified%20Carbon-Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+fresh+and+hardened+properties+of+3d+printable+concrete+containing+ozone-modified+carbon-fiber&as_occt=title&as_sauthors=%C5%9Fahin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210596462&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001365810500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2024.2432008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

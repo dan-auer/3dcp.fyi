@@ -17,14 +17,15 @@ tags:
 ---
 
 #Measurement and Control of Serial Manipulator Robots for 3D Concrete Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_11" target="_blank">10.1007/978-3-031-70031-6_11</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_11" target="_blank">10.1007/978-3-031-70031-6_11</a>
 
 <a href="../../../author/gill_connor"><b>Gill</b>&nbsp;Connor</a></span>, <a href="../../../author/justham_laura"><b>Justham</b>&nbsp;Laura</a></span>, <a href="../../../author/lohse_niels"><b>Lohse</b>&nbsp;Niels</a></span>, <a href="../../../author/haynes_adam"><b>Haynes</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1921-4247" title="ORCID: 0000-0003-1921-4247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobrzanski_james"><b>Dobrzanski</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/kinnell_peter"><b>Kinnell</b>&nbsp;Peter</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 91-98
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/serial"><button class="btn">#serial</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Measurement%20and%20Control%20of%20Serial%20Manipulator%20Robots%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=measurement+and+control+of+serial+manipulator+robots+for+3d+concrete+printing&as_occt=title&as_sauthors=gill&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203006037&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_11" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

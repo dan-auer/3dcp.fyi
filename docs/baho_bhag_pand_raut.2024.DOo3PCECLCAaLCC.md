@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design-Optimization of 3D Printed Concrete Elements Considering Life Cycle Assessment and Life Cycle Costing ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s12008-024-02193-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s12008-024-02193-3" target="_blank">10.1007/s12008-024-02193-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s12008-024-02193-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s12008-024-02193-3" target="_blank">10.1007/s12008-024-02193-3</a>
 
 <a href="../../../author/bahoria_v_boskey"><b>Bahoria</b>&nbsp;Boskey</a></span>, <a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b>&nbsp;Rajesh</a></span>, <a href="../../../author/pande_b_prashant"><b>Pande</b>&nbsp;Prashant</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6799-3631" title="ORCID: 0000-0001-6799-3631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raut_m_jayant"><b>Raut</b>&nbsp;Jayant</a></span>, <a href="../../../author/dhengare_w_sagar"><b>Dhengare</b>&nbsp;Sagar</a></span>, <a href="../../../author/mankar_h_sham"><b>Mankar</b>&nbsp;Sham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8357-5253" title="ORCID: 0000-0001-8357-5253" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vairagade_s_vikrant"><b>Vairagade</b>&nbsp;Vikrant</a></span>, <a href="../../../author/shelare_d_sagar"><b>Shelare</b>&nbsp;Sagar</a></span><br>
 Journal Article - International Journal on Interactive Design and Manufacturing (IJIDeM)
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design-Optimization%20of%203D%20Printed%20Concrete%20Elements%20Considering%20Life%20Cycle%20Assessment%20and%20Life%20Cycle%20Costing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design-optimization+of+3d+printed+concrete+elements+considering+life+cycle+assessment+and+life+cycle+costing&as_occt=title&as_sauthors=bahoria&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212676515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001381636200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s12008-024-02193-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

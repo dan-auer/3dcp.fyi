@@ -8,6 +8,10 @@ search:
 
 # #parallel
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cable"><button class="btn">#cable (5)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (5)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>
   <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lee_gwak.2022.DoaNCDPRf3PBC/">Design of a Novel Cable-Driven Parallel Robot for 3D Printing Building Construction</a></li>

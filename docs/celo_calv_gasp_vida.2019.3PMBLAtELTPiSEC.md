@@ -19,14 +19,15 @@ tags:
 ---
 
 #3D Printed Models-Based Lab Activities to Enhance Learning-Teaching Processes in Structural Engineering Courses ([2019-10](date/2019/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1145/3362789.3362819" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3362789.3362819" target="_blank">10.1145/3362789.3362819</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1145/3362789.3362819" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3362789.3362819" target="_blank">10.1145/3362789.3362819</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4275-3778" title="ORCID: 0000-0002-4275-3778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celorrio-barrague_luis"><b>Celorrio-Barragué</b>&nbsp;Luis</a></span>, <a href="../../../author/calvo-simon_sergio"><b>Calvo-Simón</b>&nbsp;Sergio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3153-6468" title="ORCID: 0000-0003-3153-6468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_marcelo"><b>Gaspar</b>&nbsp;Marcelo</a></span>, <a href="../../../author/vidal-cortes_mariano"><b>Vidal-Cortés</b>&nbsp;Mariano</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2713-2786" title="ORCID: 0000-0003-2713-2786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martin-ramos_pablo"><b>Martín-Ramos</b>&nbsp;Pablo</a></span><br>
 Contribution - Proceedings of the Seventh International Conference on Technological Ecosystems for Enhancing Multiculturality, pp. 80-86
 
 <a href="../../keyword/action"><button class="btn">#action</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Models-Based%20Lab%20Activities%20to%20Enhance%20Learning-Teaching%20Processes%20in%20Structural%20Engineering%20Courses" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+models-based+lab+activities+to+enhance+learning-teaching+processes+in+structural+engineering+courses&as_occt=title&as_sauthors=celorrio-barragu%C3%A9&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85075427208&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000525516700014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1145/3362789.3362819" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

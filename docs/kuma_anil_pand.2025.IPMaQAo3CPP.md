@@ -16,14 +16,15 @@ tags:
 ---
 
 #In-Process Monitoring and Quality-Assessment of 3D Concrete Printing Process ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-6176-0_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-6176-0_11" target="_blank">10.1007/978-981-97-6176-0_11</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-6176-0_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-6176-0_11" target="_blank">10.1007/978-981-97-6176-0_11</a>
 
 <a href="../../../author/kumar-soni_ashish"><b>Kumar Soni</b>&nbsp;Ashish</a></span>, <a href="../../../author/anil-sangwai_keyur"><b>Anil Sangwai</b>&nbsp;Keyur</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
 Contribution - Proceedings of the International Conference on Industry 4.0 and Advanced Manufacturing, pp. 117-127
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=In-Process%20Monitoring%20and%20Quality-Assessment%20of%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=in-process+monitoring+and+quality-assessment+of+3d+concrete+printing+process&as_occt=title&as_sauthors=kumar+soni&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218464779&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001450700600011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-6176-0_11" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

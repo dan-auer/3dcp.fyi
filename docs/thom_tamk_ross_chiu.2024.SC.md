@@ -18,14 +18,15 @@ tags:
 
 #Sustainable Construction&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Additive Manufacturing in a Circular Design Framework</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003403890-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-1" target="_blank">10.1201/9781003403890-1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003403890-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-1" target="_blank">10.1201/9781003403890-1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3093-8556" title="ORCID: 0000-0002-3093-8556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b>&nbsp;Mette</a></span>, <a href="../../../author/tamke_martin"><b>Tamke</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_gabriella"><b>Rossi</b>&nbsp;Gabriella</a></span>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b>&nbsp;Ruxandra-Stefania</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heywood_kate"><b>Heywood</b>&nbsp;Kate</a></span>, <a href="../../../author/sparre-petersen_maria"><b>Sparre-Petersen</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span><br>
 Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 1-27
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+construction&as_occt=title&as_sauthors=thomsen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003403890-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

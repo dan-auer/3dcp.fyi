@@ -21,14 +21,15 @@ tags:
 ---
 
 #Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing ([2023-03](date/2023/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.03.145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.145" target="_blank">10.1016/j.matpr.2023.03.145</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.03.145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.145" target="_blank">10.1016/j.matpr.2023.03.145</a>
 
 <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b>&nbsp;Darssni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b>&nbsp;Vignesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Test-Protocol%20on%20Determining%20the%20Rheological%20Properties%20of%20Cement-Pastes-Mixtures%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+test-protocol+on+determining+the+rheological+properties+of+cement-pastes-mixtures+for+concrete+3d+printing&as_occt=title&as_sauthors=ravichandran&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150745429&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.03.145" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

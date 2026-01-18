@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsdccc.sceng-1808" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsdccc.sceng-1808" target="_blank">10.1061/jsdccc.sceng-1808</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jsdccc.sceng-1808" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsdccc.sceng-1808" target="_blank">10.1061/jsdccc.sceng-1808</a>
 
 <a href="../../../author/popli_siddharth"><b>Popli</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3101-2170" title="ORCID: 0000-0003-3101-2170" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valikhah_fatemeh"><b>Valikhah</b>&nbsp;Fatemeh</a></span>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b>&nbsp;Erfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
 Journal Article - Journal of Structural Design and Construction Practice, Vol. 30, Iss. 4
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Durability%20Performance%20of%203D-Printed%20Concrete%20with%20Coarse%20Aggregates%20and%20Cold%20Joints" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+durability+performance+of+3d-printed+concrete+with+coarse+aggregates+and+cold+joints&as_occt=title&as_sauthors=popli&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011340412&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jsdccc.sceng-1808" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

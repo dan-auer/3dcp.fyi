@@ -14,14 +14,15 @@ tags:
 ---
 
 #Developing an Appropriate Concrete Mix for 3D Concrete Printing ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-024-00456-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-024-00456-w" target="_blank">10.1007/s41024-024-00456-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41024-024-00456-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-024-00456-w" target="_blank">10.1007/s41024-024-00456-w</a>
 
 <a href="../../../author/rama-krishna_k_a"><b>Rama Krishna</b>&nbsp;A.</a></span>, <a href="../../../author/mallik_mainak"><b>Mallik</b>&nbsp;Mainak</a></span>, <a href="../../../author/maity_damodar"><b>Maity</b>&nbsp;Damodar</a></span><br>
 Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 9, Iss. 2
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Developing%20an%20Appropriate%20Concrete%20Mix%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=developing+an+appropriate+concrete+mix+for+3d+concrete+printing&as_occt=title&as_sauthors=rama+krishna&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195584320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41024-024-00456-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

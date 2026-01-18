@@ -8,6 +8,10 @@ search:
 
 # #induction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (15)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (12)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (5)</button></a> <a href="../../keyword/material"><button class="btn">#material (5)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
   <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/5/1969/pdf?version=1646644267) <a href="https://doi.org/10.3390/ma15051969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15051969" target="_blank">10.3390/ma15051969</a>
+<a href="https://www.mdpi.com/1996-1944/15/5/1969/pdf?version=1646644267" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma15051969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15051969" target="_blank">10.3390/ma15051969</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/gao_chao"><b>Gao</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1023-6159" title="ORCID: 0000-0003-1023-6159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_tingjie"><b>Huang</b>&nbsp;Tingjie</a></span>, <a href="../../../author/zuo_shenghao"><b>Zuo</b>&nbsp;Shenghao</a></span>, <a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span>, <a href="../../../author/zhang_kai"><b>Zhang</b>&nbsp;Kai</a></span>, <a href="../../../author/huang_yanling"><b>Huang</b>&nbsp;Yanling</a></span>, <a href="../../../author/liu_jing"><b>Liu</b>&nbsp;Jing</a></span><br>
 Journal Article - Materials, Vol. 15, Iss. 5
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Factors%20Influencing%20the%20Properties%20of%20Extrusion-Based%203D%20Printed%20Alkali-Activated%20Fly-Ash-Slag%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=factors+influencing+the+properties+of+extrusion-based+3d+printed+alkali-activated+fly-ash-slag+mortar&as_occt=title&as_sauthors=yuan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127426134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000768249400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma15051969" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

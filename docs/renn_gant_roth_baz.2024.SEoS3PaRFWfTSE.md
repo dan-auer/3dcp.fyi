@@ -24,7 +24,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Evaluation%20of%20Shotcrete%203D%20Printing%20and%20Robotic%20Fiber%20Winding%20for%20Thin-Shell%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+evaluation+of+shotcrete+3d+printing+and+robotic+fiber+winding+for+thin-shell+elements&as_occt=title&as_sauthors=rennen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

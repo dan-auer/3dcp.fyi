@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of an Alkali-Activated Binder for the Extrusion Process ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2825) <a href="https://doi.org/10.1002/cepa.2825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2825" target="_blank">10.1002/cepa.2825</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2825" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cepa.2825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2825" target="_blank">10.1002/cepa.2825</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8537-1094" title="ORCID: 0000-0001-8537-1094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruppa_henning"><b>Kruppa</b>&nbsp;Henning</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalthoff_matthias"><b>Kalthoff</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9950-5046" title="ORCID: 0000-0002-9950-5046" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vollpacht_anya"><b>Vollpacht</b>&nbsp;Anya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span><br>
 Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 783-789
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20Alkali-Activated%20Binder%20for%20the%20Extrusion%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+an+alkali-activated+binder+for+the+extrusion+process&as_occt=title&as_sauthors=kruppa&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cepa.2825" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

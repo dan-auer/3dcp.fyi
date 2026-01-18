@@ -8,6 +8,10 @@ search:
 
 # #rapid
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (5)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/setting"><button class="btn">#setting (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/wu_bo"><b>Wu</b> Bo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS/">Rapid Rheology Control and Stiffening of 3D-Printed Cement Mortar via CO2 Flash Mixing in a 2K Printing System</a></li>

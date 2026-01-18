@@ -16,14 +16,15 @@ tags:
 ---
 
 #Environment-Aware 3D Concrete Printing through Robot-Vision ([2022-09](date/2022/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2022_384.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" target="_blank">10.52842/conf.ecaade.2022.2.409</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2022_384.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2022.2.409" target="_blank">10.52842/conf.ecaade.2022.2.409</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <a href="../../../author/sanin_sandro"><b>Sanin</b>&nbsp;Sandro</a></span><br>
 Contribution - Proceedings of the 40th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 409 - 418
 
 <a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Environment-Aware%203D%20Concrete%20Printing%20through%20Robot-Vision" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=environment-aware+3d+concrete+printing+through+robot-vision&as_occt=title&as_sauthors=naboni&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2022.2.409" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

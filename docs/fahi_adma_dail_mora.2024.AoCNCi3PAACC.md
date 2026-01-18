@@ -18,14 +18,15 @@ tags:
 ---
 
 #Application of Cellulose-Nano-Crystals in 3D Printed Alkali-Activated Cementitious Composites ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.108380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108380" target="_blank">10.1016/j.jobe.2023.108380</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.108380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108380" target="_blank">10.1016/j.jobe.2023.108380</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahim_abdullah"><b>al&nbsp;Fahim</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-2961-7560" title="ORCID: 0009-0001-2961-7560" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/admassu_natnael"><b>Admassu</b>&nbsp;Natnael</a></span>, <a href="../../../author/dailey_garret"><b>Dailey</b>&nbsp;Garret</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 82, No. 108380
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Cellulose-Nano-Crystals%20in%203D%20Printed%20Alkali-Activated%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+cellulose-nano-crystals+in+3d+printed+alkali-activated+cementitious+composites&as_occt=title&as_sauthors=fahim&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181683289&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001165331400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.108380" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

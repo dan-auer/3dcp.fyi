@@ -18,14 +18,15 @@ tags:
 
 #3DLightSlab&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">Design to 3D Concrete Printing Workflow for Stress-Driven Ribbed Slabs</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109573) <a href="https://doi.org/10.1016/j.jobe.2024.109573" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109573" target="_blank">10.1016/j.jobe.2024.109573</a>
+<a href="https://doi.org/10.1016/j.jobe.2024.109573" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109573" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109573" target="_blank">10.1016/j.jobe.2024.109573</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0048-9371" title="ORCID: 0000-0003-0048-9371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b>&nbsp;Hamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109573
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3DLightSlab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3dlightslab&as_occt=title&as_sauthors=breseghello&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193035849&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001325829500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109573" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

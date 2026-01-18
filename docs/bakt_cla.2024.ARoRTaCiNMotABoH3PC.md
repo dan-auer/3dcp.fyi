@@ -20,14 +20,15 @@ tags:
 ---
 
 #A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2024.104309) <a href="https://doi.org/10.1016/j.addma.2024.104309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104309" target="_blank">10.1016/j.addma.2024.104309</a>
+<a href="https://doi.org/10.1016/j.addma.2024.104309" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2024.104309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104309" target="_blank">10.1016/j.addma.2024.104309</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1882-0536" title="ORCID: 0000-0003-1882-0536" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baktheer_abedulgader"><b>Baktheer</b>&nbsp;Abedulgader</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
 Journal Article - Additive Manufacturing, No. 104309
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Recent%20Trends%20and%20Challenges%20in%20Numerical%20Modeling%20of%20the%20Anisotropic%20Behavior%20of%20Hardened%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+recent+trends+and+challenges+in+numerical+modeling+of+the+anisotropic+behavior+of+hardened+3d+printed+concrete&as_occt=title&as_sauthors=baktheer&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198931792&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001274635500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2024.104309" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

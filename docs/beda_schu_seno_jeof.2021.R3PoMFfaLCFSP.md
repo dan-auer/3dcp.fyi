@@ -17,14 +17,15 @@ tags:
 ---
 
 #Robotic 3D Printing of Mineral Foam for a Lightweight Composite Facade Shading Panel ([2021-04](date/2021/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2021_005.pdf) <a href="https://doi.org/10.52842/conf.caadria.2021.1.603" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2021.1.603" target="_blank">10.52842/conf.caadria.2021.1.603</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2021_005.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2021.1.603" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2021.1.603" target="_blank">10.52842/conf.caadria.2021.1.603</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b>&nbsp;Dinorah</a></span>, <a href="../../../author/senol_ayca"><b>Şenol</b>&nbsp;Ayça</a></span>, <a href="../../../author/jeoffroy_etienne"><b>Jeoffroy</b>&nbsp;Etienne</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Contribution - Proceedings of the 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, pp. 603-612
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/facade"><button class="btn">#facade</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Mineral%20Foam%20for%20a%20Lightweight%20Composite%20Facade%20Shading%20Panel" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+3d+printing+of+mineral+foam+for+a+lightweight+composite+facade+shading+panel&as_occt=title&as_sauthors=bedarf&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104614865&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2021.1.603" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

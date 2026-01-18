@@ -17,14 +17,15 @@ tags:
 ---
 
 #3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/ma19010093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma19010093" target="_blank">10.3390/ma19010093</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma19010093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma19010093" target="_blank">10.3390/ma19010093</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b>&nbsp;Caiden</a></span>, <a href="../../../author/fross_xavier"><b>Fross</b>&nbsp;Xavier</a></span>, <a href="../../../author/wei_hui"><b>Wei</b>&nbsp;Hui</a></span>, <a href="../../../author/himmel_michael"><b>Himmel</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5628-2199" title="ORCID: 0000-0001-5628-2199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aday_n_anastasia"><b>Aday</b>&nbsp;Anastasia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0229-7229" title="ORCID: 0000-0002-0229-7229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/svedruzic_drazenka"><b>Svedruzic</b>&nbsp;Drazenka</a></span>, <a href="../../../author/kevern_t_john"><b>Kevern</b>&nbsp;John</a></span><br>
 Journal Article - Materials, Vol. 19, Iss. 1, No. 93
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Cement-Based%20Materials%20Using%20Seawater%20for%20Simulated%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+cement-based+materials+using+seawater+for+simulated+marine+environments&as_occt=title&as_sauthors=rodriguez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma19010093" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

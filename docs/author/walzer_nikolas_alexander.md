@@ -9,6 +9,60 @@ search:
 
 #  Walzer Alexander 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3946-7954" target="_blank">0000-0003-3946-7954</a>
+
+    First Contribution
+    : 2017-06-03
+    
+    Last Contribution
+    : 2024-09-12
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 124
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (4)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (4)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (4)</li>
+        <li><a href="../../../author/buchli_jonas"><b>Buchli</b> Jonas</a> (3)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a> (66)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (12)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (12)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (11)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (11)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (20)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (13)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (12)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../walz_kozl_yeom.2024.PH/">Printing Homes:<br/>Unit Cost Estimation for Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../walz_kozl_mohi_yeom.2024.Ia3CPFUSMfDS/">Improving a 3D Concrete Printing Factory Using Stochastic Modelling for Decision-Support</a></li>

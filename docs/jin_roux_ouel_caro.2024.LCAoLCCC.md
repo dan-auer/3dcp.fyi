@@ -21,14 +21,15 @@ tags:
 
 #Life Cycle Assessment of Limestone-Calcined-Clay-Concrete&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Potential for Low-Carbon 3D Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.susmat.2024.e01119) <a href="https://doi.org/10.1016/j.susmat.2024.e01119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susmat.2024.e01119" target="_blank">10.1016/j.susmat.2024.e01119</a>
+<a href="https://doi.org/10.1016/j.susmat.2024.e01119" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.susmat.2024.e01119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susmat.2024.e01119" target="_blank">10.1016/j.susmat.2024.e01119</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-8419-3964" title="ORCID: 0009-0002-8419-3964" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_willy"><b>Jin</b>&nbsp;Willy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1085-0434" title="ORCID: 0000-0002-1085-0434" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roux_charlotte"><b>Roux</b>&nbsp;Charlotte</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span><br>
 Journal Article - Sustainable Materials and Technologies, Vol. 41, No. e01119
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Limestone-Calcined-Clay-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+limestone-calcined-clay-concrete&as_occt=title&as_sauthors=jin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204221761&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001320815800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.susmat.2024.e01119" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

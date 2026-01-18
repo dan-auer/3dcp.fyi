@@ -18,14 +18,15 @@ tags:
 ---
 
 #Molding-Quality-Control with Non-Linear Forming-Method in 3D Cement Printing ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2023.112455) <a href="https://doi.org/10.1016/j.matdes.2023.112455" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2023.112455" target="_blank">10.1016/j.matdes.2023.112455</a>
+<a href="https://doi.org/10.1016/j.matdes.2023.112455" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2023.112455" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2023.112455" target="_blank">10.1016/j.matdes.2023.112455</a>
 
 <a href="../../../author/li_huanbao"><b>Li</b>&nbsp;Huanbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5936-8422" title="ORCID: 0000-0001-5936-8422" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zihan"><b>Li</b>&nbsp;Zihan</a></span>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b>&nbsp;Mirosław</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span>, <a href="../../../author/cong_xuhui"><b>Cong</b>&nbsp;Xuhui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6829-3127" title="ORCID: 0000-0001-6829-3127" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gorecki_jaroslaw"><b>Górecki</b>&nbsp;Jarosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7808-7121" title="ORCID: 0000-0002-7808-7121" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_wenyu"><b>Jin</b>&nbsp;Wenyu</a></span><br>
 Journal Article - Materials & Design, Vol. 235, No. 112455
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Molding-Quality-Control%20with%20Non-Linear%20Forming-Method%20in%203D%20Cement%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=molding-quality-control+with+non-linear+forming-method+in+3d+cement+printing&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176277033&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001111512800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2023.112455" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

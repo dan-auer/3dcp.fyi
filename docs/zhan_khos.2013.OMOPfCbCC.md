@@ -16,14 +16,15 @@ tags:
 ---
 
 #Optimal Machine Operation Planning for Construction by Contour Crafting ([2012-09](date/2012/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2012.08.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2012.08.006" target="_blank">10.1016/j.autcon.2012.08.006</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2012.08.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2012.08.006" target="_blank">10.1016/j.autcon.2012.08.006</a>
 
 <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Journal Article - Automation in Construction, Vol. 29, pp. 50-67
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimal%20Machine%20Operation%20Planning%20for%20Construction%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimal+machine+operation+planning+for+construction+by+contour+crafting&as_occt=title&as_sauthors=zhang&as_ylo=2010&as_yhi=2014&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84866550916&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000312233700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2012.08.006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

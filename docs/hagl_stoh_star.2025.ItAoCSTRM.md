@@ -16,14 +16,15 @@ tags:
 ---
 
 #Increasing the Accuracy of Concrete Surfaces Through Robotic Milling ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400096" target="_blank">10.1002/best.202400096</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202400096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400096" target="_blank">10.1002/best.202400096</a>
 
 <a href="../../../author/hagle_marius"><b>Hägle</b>&nbsp;Marius</a></span>, <a href="../../../author/stohr_ben"><b>Stöhr</b>&nbsp;Ben</a></span>, <a href="../../../author/stark_alexander"><b>Stark</b>&nbsp;Alexander</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/increase"><button class="btn">#increase</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Increasing%20the%20Accuracy%20of%20Concrete%20Surfaces%20Through%20Robotic%20Milling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=increasing+the+accuracy+of+concrete+surfaces+through+robotic+milling&as_occt=title&as_sauthors=h%C3%A4gle&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215268714&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001397853500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202400096" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

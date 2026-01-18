@@ -9,6 +9,60 @@ search:
 
 #  Brohmann Leon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7448-8630" target="_blank">0000-0002-7448-8630</a>
+
+    First Contribution
+    : 2019-11-22
+    
+    Last Contribution
+    : 2024-04-23
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 130
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (6)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (4)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (3)</li>
+        <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mainka_jeldrik"><b>Mainka</b> Jeldrik</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../klof_hack_main_broh.2019.AMiC/">Additive Manufacturing in Construction:<br/>First 3D-Printed Reinforced Concrete Components Using Shotcrete 3D Printing (SC3DP) Technology</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (28)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (21)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (17)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (15)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (28)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (27)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (25)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (15)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hitzegrad_jan"><b>Hitzegrad</b> Jan</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/pfennings_kai"><b>Pfennings</b> Kai</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hitz_broh_herd_pfen.2024.SoCBS/">Surfaces of Coastal Biogenic Structures:<br/>Exploiting Advanced Digital Design and Fabrication-Strategies for the Manufacturing of Oyste-Reef- and Mussel-Bed-Surrogates</a></li>
   <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/jantzen_carsten"><b>Jantzen</b> Carsten</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hack_jant_broh_gerk.2022.ACLWfQIaIPPo3PCE/">A Closed-Loop Workflow for Quality Inspection and Integrated Post-Processing of 3D Printed Concrete Elements</a></li>

@@ -17,14 +17,15 @@ tags:
 
 #Self-Healing Approach for Micro-Defects in 3D Printed Concrete&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Microbial Community</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.bgtech.2025.100185" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.bgtech.2025.100185" target="_blank">10.1016/j.bgtech.2025.100185</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.bgtech.2025.100185" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.bgtech.2025.100185" target="_blank">10.1016/j.bgtech.2025.100185</a>
 
 <a href="../../../author/zhang_ruo-chen"><b>Zhang</b>&nbsp;Ruo-Chen</a></span>, <a href="../../../author/li_jiaxing"><b>Li</b>&nbsp;Jiaxing</a></span>, <a href="../../../author/liu_yiran"><b>Liu</b>&nbsp;Yiran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4013-7215" title="ORCID: 0000-0003-4013-7215" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yimiao"><b>Huang</b>&nbsp;Yimiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
 Journal Article - Biogeotechnics, No. 100185
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Self-Healing%20Approach%20for%20Micro-Defects%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=self-healing+approach+for+micro-defects+in+3d+printed+concrete&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.bgtech.2025.100185" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/ghent.2025.2518" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2025.2518" target="_blank">10.2749/ghent.2025.2518</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/ghent.2025.2518" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2025.2518" target="_blank">10.2749/ghent.2025.2518</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-8419-2974" title="ORCID: 0009-0004-8419-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sam_nina"><b>Sam</b>&nbsp;Nina</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
 Contribution - Proceedings of the 2025 IABSE Congress, pp. 2518-2526
 
 <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20of%20Thin-Walled%20Load-Bearing%20Reinforced%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+of+thin-walled+load-bearing+reinforced+structures&as_occt=title&as_sauthors=pfleger&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/ghent.2025.2518" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Additive Manufacturing of a Rheological Characterized Cement-Based Composite Material ([2017-11](date/2017/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/eecs.2017.67" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/eecs.2017.67" target="_blank">10.1109/eecs.2017.67</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/eecs.2017.67" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/eecs.2017.67" target="_blank">10.1109/eecs.2017.67</a>
 
 <a href="../../../author/villacis_n"><b>Villacis</b>&nbsp;N.</a></span>, <a href="../../../author/gualavisi_m"><b>Gualavisi</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3472-4037" title="ORCID: 0000-0002-3472-4037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/narvaez-munoz_christian"><b>Narváez-Muñoz</b>&nbsp;Christian</a></span>, <a href="../../../author/carrion_l"><b>Carrión</b>&nbsp;L.</a></span>, <a href="../../../author/loza-matovelle_d"><b>Loza-Matovelle</b>&nbsp;D.</a></span>, <a href="../../../author/naranjo_f"><b>Naranjo</b>&nbsp;F.</a></span><br>
 Contribution - European Conference on Electrical Engineering and Computer Science, pp. 326-331
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20a%20Rheological%20Characterized%20Cement-Based%20Composite%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+a+rheological+characterized+cement-based+composite+material&as_occt=title&as_sauthors=villacis&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85050989985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000455867600059" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/eecs.2017.67" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

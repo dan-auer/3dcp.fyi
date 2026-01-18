@@ -9,6 +9,60 @@ search:
 
 #  Yu Shiwei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3361-2957" target="_blank">0000-0002-3361-2957</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-09-20
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 407
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (7)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (4)</li>
+        <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (3)</li>
+        <li><a href="../../../author/cheng_wenbo"><b>Cheng</b> Wenbo</a> (2)</li>
+        <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (120)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (41)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (24)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (22)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (21)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (22)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (18)</li>
+        <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (17)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (16)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/xie_shan-shan"><b>Xie</b> Shan-Shan</a>, <a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sun_zeng_xie_xia.2026.MaMCoIBiMM3PC/">Mechanical and Microstructural Characterization of Interlayer Bonding in Multi-Material 3D-Printed Concrete</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_zhan_liu_wu.2024.ILR3PCwRCA/">Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate:<br/>Shear Properties and Enhancement Methods</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #six
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/axis"><button class="btn">#axis (3)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (1)</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat (1)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chaari_zied_mohamed"><b>Chaari</b> Mohamed</a>, <a href="../../../author/pereira_philbert_gilroy"><b>Pereira</b> Gilroy</a>, <a href="../../../author/daroge_fawwad"><b>Daroge</b> Fawwad</a>, <a href="../../../author/buainain_shamma"><b>Buainain</b> Shamma</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chaa_pere_daro_buai.2024.3PBwCCUaSAPR/">3D Printing Birdhouses with Ceramic Clay Using a Six-Axis Palletizing Robot</a></li>
   <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../lu_yuan.2020.ANAtGOTPoSARfF/">A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/adts.202400977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/adts.202400977" target="_blank">10.1002/adts.202400977</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/adts.202400977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/adts.202400977" target="_blank">10.1002/adts.202400977</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yibo"><b>Wang</b>&nbsp;Yibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_ming"><b>Yan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3669-1486" title="ORCID: 0000-0002-3669-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_kun"><b>Yang</b>&nbsp;Kun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ao_chenyang"><b>Ao</b>&nbsp;Chenyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_changzai"><b>Ren</b>&nbsp;Changzai</a></span><br>
 Journal Article - Advanced Theory and Simulations
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Wall-Slip%20on%20the%20Extrusion-Characteristics%20of%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+wall-slip+on+the+extrusion-characteristics+of+3d+printing+of+cementitious+materials&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215502920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001399523200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/adts.202400977" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

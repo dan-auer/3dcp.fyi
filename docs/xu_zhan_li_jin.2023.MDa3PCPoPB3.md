@@ -16,14 +16,15 @@ tags:
 ---
 
 #Mix-Design and 3D Printing Correlation-Performance of PCC-Based 3DPM ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2023.117229" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2023.117229" target="_blank">10.1016/j.compstruct.2023.117229</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compstruct.2023.117229" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2023.117229" target="_blank">10.1016/j.compstruct.2023.117229</a>
 
 <a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/jin_haoyu"><b>Jin</b>&nbsp;Haoyu</a></span>, <a href="../../../author/cai_xieyinzi"><b>Cai</b>&nbsp;Xieyinzi</a></span>, <a href="../../../author/tian_zhixuan"><b>Tian</b>&nbsp;Zhixuan</a></span><br>
 Journal Article - Composite Structures, No. 117229
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mix-Design%20and%203D%20Printing%20Correlation-Performance%20of%20PCC-Based%203DPM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mix-design+and+3d+printing+correlation-performance+of+pcc-based+3dpm&as_occt=title&as_sauthors=xu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162862839&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001022620800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compstruct.2023.117229" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

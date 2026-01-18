@@ -9,6 +9,60 @@ search:
 
 #  Scotto Fabio 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0501-6576" target="_blank">0000-0002-0501-6576</a>
+
+    First Contribution
+    : 2018-05-19
+    
+    Last Contribution
+    : 2023-02-20
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 277
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (8)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (8)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (7)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (7)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/demoulin_thibault"><b>Demoulin</b> Thibault</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../burg_llor_scot_demo.2020.E/">Eggshell:<br/>Ultra-Thin Three-Dimensional Printed Formwork for Concrete Structures</a> (81)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (33)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (28)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (27)</li>
+        <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> (27)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (43)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (39)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (35)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (33)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (29)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/choma_joseph"><b>Choma</b> Joseph</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../llor_chom_scot_szab.2022.IC/">In-Crease:<br/>Less Concrete More Paper</a></li>
   <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/quadranti_elia"><b>Quadranti</b> Elia</a>, <a href="../../../author/scotto_fabio"><b>Scotto</b> Fabio</a>, <a href="../../../author/fuhrimann_lukas"><b>Fuhrimann</b> Lukas</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../llor_quad_scot_fuhr.2022.ADC/">Additive Digital Casting:<br/>From Lab to Industry</a></li>

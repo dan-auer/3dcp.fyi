@@ -20,14 +20,15 @@ tags:
 ---
 
 #The Effect of Layer Cross-Section on Plastic Shrinkage Cracking of 3D Printed Concrete Elements ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-44603-0_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44603-0_30" target="_blank">10.1007/978-3-031-44603-0_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-44603-0_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44603-0_30" target="_blank">10.1007/978-3-031-44603-0_30</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Contribution - Modern Building Materials, Structures and Techniques, pp. 300-309
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Layer%20Cross-Section%20on%20Plastic%20Shrinkage%20Cracking%20of%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+effect+of+layer+cross-section+on+plastic+shrinkage+cracking+of+3d+printed+concrete+elements&as_occt=title&as_sauthors=markin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175964436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-44603-0_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

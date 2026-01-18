@@ -18,14 +18,15 @@ tags:
 ---
 
 #Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114181" target="_blank">10.1016/j.jobe.2025.114181</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114181" target="_blank">10.1016/j.jobe.2025.114181</a>
 
 <a href="../../../author/zhang_junyi"><b>Zhang</b>&nbsp;Junyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4947-4077" title="ORCID: 0000-0002-4947-4077" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chao"><b>Zhang</b>&nbsp;Chao</a></span>, <a href="../../../author/zhang_yuying"><b>Zhang</b>&nbsp;Yuying</a></span>, <a href="../../../author/li_muduo"><b>Li</b>&nbsp;Muduo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3030-1317" title="ORCID: 0000-0003-3030-1317" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xiaohong"><b>Zhu</b>&nbsp;Xiaohong</a></span>, <a href="../../../author/xia_yan"><b>Xia</b>&nbsp;Yan</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6850-733X" title="ORCID: 0000-0002-6850-733X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tsang_c-w_daniel"><b>Tsang</b>&nbsp;Daniel</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 113, No. 114181
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%20Printable%20Cement%20Composites%20with%20Porous%20Biochar%20Using%20an%20Extended%20Water%20Film%20Thickness%20Theory" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+printable+cement+composites+with+porous+biochar+using+an+extended+water+film+thickness+theory&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016995885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001587170000003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114181" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

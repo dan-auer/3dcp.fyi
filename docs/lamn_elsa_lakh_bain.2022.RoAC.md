@@ -18,14 +18,15 @@ tags:
 
 #Robocasting of Advanced Ceramics&nbsp;([2022-09](date/2022/09))
 <div class="h1-like">Ink-Optimization and Protocol to Predict the Printing Parameters</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://www.cell.com/article/S2405844022019399/pdf) <a href="https://doi.org/10.1016/j.heliyon.2022.e10651" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2022.e10651" target="_blank">10.1016/j.heliyon.2022.e10651</a>
+<a href="http://www.cell.com/article/S2405844022019399/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.heliyon.2022.e10651" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2022.e10651" target="_blank">10.1016/j.heliyon.2022.e10651</a>
 
 <a href="../../../author/lamnini_soukaina"><b>Lamnini</b>&nbsp;Soukaina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9818-4498" title="ORCID: 0000-0002-9818-4498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elsayed_hamada"><b>Elsayed</b>&nbsp;Hamada</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7208-7526" title="ORCID: 0000-0002-7208-7526" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhdar_yazid"><b>Lakhdar</b>&nbsp;Yazid</a></span>, <a href="../../../author/baino_francesco"><b>Baino</b>&nbsp;Francesco</a></span>, <a href="../../../author/smeacetto_federico"><b>Smeacetto</b>&nbsp;Federico</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4934-4405" title="ORCID: 0000-0003-4934-4405" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bernardo_enrico"><b>Bernardo</b>&nbsp;Enrico</a></span><br>
 Journal Article - Heliyon, Vol. 8, Iss. 9
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robocasting%20of%20Advanced%20Ceramics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robocasting+of+advanced+ceramics&as_occt=title&as_sauthors=lamnini&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138517841&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000862498700017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.heliyon.2022.e10651" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -25,7 +25,7 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Using%20Digital%20Image%20Correlation%20to%20Analyze%20Deformation%20in%20Wood-Based%20Liquid%20Deposition%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=using+digital+image+correlation+to+analyze+deformation+in+wood-based+liquid+deposition+modelling&as_occt=title&as_sauthors=gautam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Designing 3D Printable Concrete by Integrating the Influence of Aggregate Characteristics ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02782-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02782-y" target="_blank">10.1617/s11527-025-02782-y</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02782-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02782-y" target="_blank">10.1617/s11527-025-02782-y</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7487-3013" title="ORCID: 0000-0001-7487-3013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paritala_spandana"><b>Paritala</b>&nbsp;Spandana</a></span>, <a href="../../../author/raj_shubham"><b>Raj</b>&nbsp;Shubham</a></span>, <a href="../../../author/singh_r_prashant"><b>Singh</b>&nbsp;Prashant</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 8
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printable%20Concrete%20by%20Integrating%20the%20Influence%20of%20Aggregate%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+3d+printable+concrete+by+integrating+the+influence+of+aggregate+characteristics&as_occt=title&as_sauthors=paritala&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017576279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001585008700006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02782-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

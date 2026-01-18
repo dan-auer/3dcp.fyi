@@ -8,6 +8,10 @@ search:
 
 # #shape
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (49)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (33)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (13)</button></a> <a href="../../keyword/stability"><button class="btn">#stability (13)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (11)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
   <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>

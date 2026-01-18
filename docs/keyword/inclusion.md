@@ -8,6 +8,10 @@ search:
 
 # #inclusion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (3)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a></li>
   <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/shields_yasmina"><b>Shields</b> Yasmina</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC/">Mechanical Properties of 3D Printed Concrete with 2D Infill Patterns Including Print Path Crossings</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #modular
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (20)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (17)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (10)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (10)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
   <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>

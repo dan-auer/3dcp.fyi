@@ -9,6 +9,60 @@ search:
 
 #  Liu Zhongxian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-10-16
+    
+    Last Contribution
+    : 2025-07-16
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 301
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (11)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> (8)</li>
+        <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a> (5)</li>
+        <li><a href="../../../author/ren_quanchang"><b>Ren</b> Quanchang</a> (4)</li>
+        <li><a href="../../../author/yang_ting"><b>Yang</b> Ting</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a> (125)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (35)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (25)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (24)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (22)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (16)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (15)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (14)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../dong_wu_liu_wu.2025.CTAaIDi3PUHPC/">Chloride Transport Anisotropy and Interfacial Degradation in 3D-Printed Ultra-High-Performance Concrete:<br/>Multi-Scale Evaluation and Engineering Implications</a></li>
   <li><a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/you_ge"><b>You</b> Ge</a>, <a href="../../../author/wu_pengtao"><b>Wu</b> Pengtao</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../shi_you_wu_liu.2025.EoWFaPFToPo3PLCU/">Effect of Water Film and Paste Film Thicknesses on Printability of 3D Printed Low Cement UHPC</a></li>

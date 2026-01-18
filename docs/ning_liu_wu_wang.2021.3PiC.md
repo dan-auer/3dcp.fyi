@@ -15,14 +15,15 @@ tags:
 
 #3D Printing in Construction&nbsp;([2021-04](date/2021/04))
 <div class="h1-like">Current Status, Implementation Hindrances, and Development Agenda</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://downloads.hindawi.com/journals/ace/2021/6665333.pdf) <a href="https://doi.org/10.1155/2021/6665333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2021/6665333" target="_blank">10.1155/2021/6665333</a>
+<a href="https://downloads.hindawi.com/journals/ace/2021/6665333.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1155/2021/6665333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2021/6665333" target="_blank">10.1155/2021/6665333</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6547-9812" title="ORCID: 0000-0002-6547-9812" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ning_xin"><b>Ning</b>&nbsp;Xin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3132-8589" title="ORCID: 0000-0003-3132-8589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tong"><b>Liu</b>&nbsp;Tong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4577-2859" title="ORCID: 0000-0003-4577-2859" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chunlin"><b>Wu</b>&nbsp;Chunlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9322-7778" title="ORCID: 0000-0002-9322-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chao"><b>Wang</b>&nbsp;Chao</a></span><br>
 Journal Article - Advances in Civil Engineering, Vol. 2021, pp. 1-12
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+in+construction&as_occt=title&as_sauthors=ning&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104427989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000641608300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1155/2021/6665333" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

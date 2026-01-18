@@ -15,14 +15,15 @@ tags:
 
 #Parallel Paths of Inquiry&nbsp;([2021-04](date/2021/04))
 <div class="h1-like">Detailing for DFAB HOUSE</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/24751448.2021.1863668?needAccess=true) <a href="https://doi.org/10.1080/24751448.2021.1863668" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2021.1863668" target="_blank">10.1080/24751448.2021.1863668</a>
+<a href="https://www.tandfonline.com/doi/pdf/10.1080/24751448.2021.1863668?needAccess=true" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/24751448.2021.1863668" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2021.1863668" target="_blank">10.1080/24751448.2021.1863668</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span>, <a href="../../../author/baur_marco"><b>Baur</b>&nbsp;Marco</a></span>, <a href="../../../author/pont_sanz_daniel"><b>Pont</b>&nbsp;Daniel</a></span>, <a href="../../../author/thoma_andreas"><b>Thoma</b>&nbsp;Andreas</a></span><br>
 Journal Article - Technology|Architecture + Design, Vol. 5, Iss. 1, pp. 38-43
 
 <a href="../../keyword/detail"><button class="btn">#detail</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/parallel"><button class="btn">#parallel</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parallel%20Paths%20of%20Inquiry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parallel+paths+of+inquiry&as_occt=title&as_sauthors=graser&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104771720&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001012040400009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/24751448.2021.1863668" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

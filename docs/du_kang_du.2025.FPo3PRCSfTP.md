@@ -17,14 +17,15 @@ tags:
 ---
 
 #Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04989) <a href="https://doi.org/10.1016/j.cscm.2025.e04989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04989" target="_blank">10.1016/j.cscm.2025.e04989</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04989" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04989" target="_blank">10.1016/j.cscm.2025.e04989</a>
 
 <a href="../../../author/du_shizhao"><b>Du</b>&nbsp;Shizhao</a></span>, <a href="../../../author/kang_chunxia"><b>Kang</b>&nbsp;Chunxia</a></span>, <a href="../../../author/du_xiuli"><b>Du</b>&nbsp;Xiuli</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04989
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fatigue"><button class="btn">#fatigue</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reuse"><button class="btn">#reuse</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/temporary"><button class="btn">#temporary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fatigue%20Performance%20of%203D%20Printed%20Reusable%20Concrete%20Slabs%20for%20Temporary%20Pavements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fatigue+performance+of+3d+printed+reusable+concrete+slabs+for+temporary+pavements&as_occt=title&as_sauthors=du&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009629530&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001529871600003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04989" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

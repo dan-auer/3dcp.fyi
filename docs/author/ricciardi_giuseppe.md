@@ -9,6 +9,60 @@ search:
 
 #  Ricciardi Giuseppe 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9765-9247" target="_blank">0000-0001-9765-9247</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2021-04-17
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 105
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/domenico_dario"><b>de Domenico</b> Dario</a> (5)</li>
+        <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> (5)</li>
+        <li><a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> (4)</li>
+        <li><a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> (2)</li>
+        <li><a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a>, <a href="../../../author/gugliandolo_ernesto"><b>Gugliandolo</b> Ernesto</a> <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../fall_dome_ricc_gugl.2020.3PLFCaCwCFCiToFSPaMS/">3D Printable Lightweight Foamed Concrete and Comparison with Classical Foamed Concrete in Terms of Fresh State Properties and Mechanical Strength</a> (59)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (4)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a> (10)</li>
+        <li><a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b> Giuseppe</a> (10)</li>
+        <li><a href="../../../author/restuccia_luciana"><b>Restuccia</b> Luciana</a> (10)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (7)</li>
+        <li><a href="../../../author/moro_sandro"><b>Moro</b> Sandro</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/cosenza_paolo"><b>Cosenza</b> Paolo</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../fall_dome_cose_ricc.2024.GHPMf3PA/">Green High-Performance Mortars for 3D Printing Applications</a></li>
   <li><a href="../../../author/falliano_devid"><b>Falliano</b> Devid</a>, <a href="../../../author/crupi_giuseppe"><b>Crupi</b> Giuseppe</a>, <a href="../../../author/domenico_dario"><b>Domenico</b> Dario</a>, <a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b> Giuseppe</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../fall_crup_dome_ricc.2020.IotRBoLFCf3PA/">Investigation on the Rheological Behavior of Lightweight Foamed Concrete for 3D Printing Applications</a></li>

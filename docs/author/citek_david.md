@@ -9,6 +9,56 @@ search:
 
 #  Čítek David 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2615-1873" target="_blank">0000-0002-2615-1873</a>
+
+    First Contribution
+    : 2022-07-10
+    
+    Last Contribution
+    : 2025-12-17
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 3
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a> (4)</li>
+        <li><a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> (4)</li>
+        <li><a href="../../../author/hvizdal_ales"><b>Hvizdal</b> Ales</a> (3)</li>
+        <li><a href="../../../author/melter_oto"><b>Melter</b> Oto</a> (3)</li>
+        <li><a href="../../../author/gabriel_michael"><b>Gabriel</b> Michael</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/rehacek_stanislav"><b>Rehacek</b> Stanislav</a>, <a href="../../../author/dobias_daniel"><b>Dobias</b> Daniel</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../cite_reha_dobi.2022.ERo3PCfCBC/">Experimental Research on 3D Printed Construction from Cement-Based Composites</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (5)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (4)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><i>N/A</i></li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a>, <a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/holy_milan"><b>Holý</b> Milan</a>, <a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hurt_cite_holy_kote.2025.EAoDi3PCM/">Experimental Assessment of Durability in 3D Printed Cementitious Materials</a></li>
   <li><a href="../../../author/citek_david"><b>Čítek</b> David</a>, <a href="../../../author/melter_oto"><b>Melter</b> Oto</a>, <a href="../../../author/hvizdal_ales"><b>Hvizdal</b> Ales</a>, <a href="../../../author/auska_zuzana"><b>Auska</b> Zuzana</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../cite_melt_hviz_ausk.2025.E3PCF/">Experimental 3D Printed Concrete Footbridge</a></li>

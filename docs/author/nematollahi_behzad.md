@@ -9,6 +9,60 @@ search:
 
 #  Nematollahi Behzad 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2422-4589" target="_blank">0000-0003-2422-4589</a>
+
+    First Contribution
+    : 2017-07-01
+    
+    Last Contribution
+    : 2025-10-17
+
+    Number Contributions
+    : 43
+
+    Number Citations
+    : 2950
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (31)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (22)</li>
+        <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> (17)</li>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> (7)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (512)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (69)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (68)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (68)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (62)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (52)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (132)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (83)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (82)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (75)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (66)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/das_jyotish"><b>Das</b> Jyotish</a>, <a href="../../../author/pratama_mirza_m"><b>Pratama</b> M.</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/guadagnini_maurizio"><b>Guadagnini</b> Maurizio</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../das_prat_nema_guad.2025.DPo3PUHSCICI/">Durability Performance of 3D-Printed Ultra-High Strength Concrete Incorporating Corrosion Inhibitor</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

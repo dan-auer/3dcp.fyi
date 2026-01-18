@@ -19,14 +19,15 @@ tags:
 ---
 
 #Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10589759.2025.2454358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2025.2454358" target="_blank">10.1080/10589759.2025.2454358</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/10589759.2025.2454358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2025.2454358" target="_blank">10.1080/10589759.2025.2454358</a>
 
 <a href="../../../author/ahn_eunjong"><b>Ahn</b>&nbsp;Eunjong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_seongho"><b>Han</b>&nbsp;Seongho</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3363-140X" title="ORCID: 0000-0003-3363-140X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/popovics_s_john"><b>Popovics</b>&nbsp;John</a></span><br>
 Journal Article - Nondestructive Testing and Evaluation, pp. 1-17
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/scatter"><button class="btn">#scatter</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Novel%20Method%20to%20Evaluate%203D%20Printed%20Concrete%20Quality%20Using%20Ultrasonic%20Scatter-Energy-Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=novel+method+to+evaluate+3d+printed+concrete+quality+using+ultrasonic+scatter-energy-techniques&as_occt=title&as_sauthors=ahn&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215278523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001399122500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/10589759.2025.2454358" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

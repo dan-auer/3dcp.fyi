@@ -9,6 +9,60 @@ search:
 
 #  Deng Zhicong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-06-30
+    
+    Last Contribution
+    : 2022-11-23
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 478
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
+        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> (7)</li>
+        <li><a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> (6)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (5)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (45)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (30)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (29)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (26)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (55)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (28)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (27)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (27)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (24)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/luo_zhe"><b>Luo</b> Zhe</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF/">Printability and Pore-Structure of 3D Printing Low-Carbon Concrete Using Recycled Clay-Brick-Powder with Various Particle-Features</a></li>
   <li><a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/wang_zhibin"><b>Wang</b> Zhibin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../deng_jia_zhan_wang.2022.3PLACPwSPAM/">3D Printing Lightweight Aggregate Concrete Prepared with Shell-Packing-Aggregate Method:<br/>Printability, Mechanical Properties and Pore-Structure</a></li>

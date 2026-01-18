@@ -19,14 +19,15 @@ tags:
 ---
 
 #Experimental Testing of a Complex-Geometry Floor Slab Manufactured Using 3DCP Technology ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.32347/2522-4182.17.2025.102-118" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32347/2522-4182.17.2025.102-118" target="_blank">10.32347/2522-4182.17.2025.102-118</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.32347/2522-4182.17.2025.102-118" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32347/2522-4182.17.2025.102-118" target="_blank">10.32347/2522-4182.17.2025.102-118</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7294-4279" title="ORCID: 0000-0001-7294-4279" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalmykov_oleg"><b>Kalmykov</b>&nbsp;Oleg</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3937-6833" title="ORCID: 0000-0003-3937-6833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reznik_petro"><b>Reznik</b>&nbsp;Petro</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-3012-0772" title="ORCID: 0009-0004-3012-0772" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/furman_inna"><b>Furman</b>&nbsp;Inna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9511-7663" title="ORCID: 0000-0001-9511-7663" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/demianenko_ivan"><b>Demianenko</b>&nbsp;Ivan</a></span><br>
 Journal Article - Building Constructions. Theory and Practice, Iss. 17, pp. 102-118
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Testing%20of%20a%20Complex-Geometry%20Floor%20Slab%20Manufactured%20Using%203DCP%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+testing+of+a+complex-geometry+floor+slab+manufactured+using+3dcp+technology&as_occt=title&as_sauthors=kalmykov&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.32347/2522-4182.17.2025.102-118" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

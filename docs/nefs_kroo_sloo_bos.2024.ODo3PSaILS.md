@@ -16,14 +16,15 @@ tags:
 ---
 
 #Orientation-Dependency of 3D Printed SHCC at Increasing Length Scale ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105515) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" target="_blank">10.1016/j.cemconcomp.2024.105515</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105515" target="_blank">10.1016/j.cemconcomp.2024.105515</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1328-9689" title="ORCID: 0000-0002-1328-9689" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nefs_karsten"><b>Nefs</b>&nbsp;Karsten</a></span>, <a href="../../../author/kroon_c-j_kim"><b>de&nbsp;Kroon</b>&nbsp;Kim</a></span>, <a href="../../../author/sloots_joes"><b>Sloots</b>&nbsp;Joes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 149, No. 105515
 
 <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/increase"><button class="btn">#increase</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Orientation-Dependency%20of%203D%20Printed%20SHCC%20at%20Increasing%20Length%20Scale" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=orientation-dependency+of+3d+printed+shcc+at+increasing+length+scale&as_occt=title&as_sauthors=nefs&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188745216&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001217604100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105515" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

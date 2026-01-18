@@ -17,14 +17,15 @@ tags:
 ---
 
 #Examination of Mechanical Properties of 3D Printed Geopolymer-Mortar Using the Taguchi -Method ([2025-01](date/2025/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s43452-025-01130-9) <a href="https://doi.org/10.1007/s43452-025-01130-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-025-01130-9" target="_blank">10.1007/s43452-025-01130-9</a>
+<a href="https://doi.org/10.1007/s43452-025-01130-9" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43452-025-01130-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-025-01130-9" target="_blank">10.1007/s43452-025-01130-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2140-2995" title="ORCID: 0000-0002-2140-2995" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coskun_ahmet"><b>Coskun</b>&nbsp;Ahmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seloglu_maksut"><b>Seloglu</b>&nbsp;Maksut</a></span>, <a href="../../../author/durmaz_taner"><b>Durmaz</b>&nbsp;Taner</a></span><br>
 Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 2
 
 <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Examination%20of%20Mechanical%20Properties%20of%203D%20Printed%20Geopolymer-Mortar%20Using%20the%20Taguchi%20-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=examination+of+mechanical+properties+of+3d+printed+geopolymer-mortar+using+the+taguchi+-method&as_occt=title&as_sauthors=tanyildizi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218021996&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001405419600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43452-025-01130-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

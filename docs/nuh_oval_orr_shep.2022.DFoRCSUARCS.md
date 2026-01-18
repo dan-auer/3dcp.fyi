@@ -18,14 +18,15 @@ tags:
 ---
 
 #Digital Fabrication of Ribbed Concrete Shells Using Automated Robotic Concrete Spraying ([2022-09](date/2022/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2022.103159) <a href="https://doi.org/10.1016/j.addma.2022.103159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103159" target="_blank">10.1016/j.addma.2022.103159</a>
+<a href="https://doi.org/10.1016/j.addma.2022.103159" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2022.103159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103159" target="_blank">10.1016/j.addma.2022.103159</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0672-2832" title="ORCID: 0000-0003-0672-2832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nuh_mishael"><b>Nuh</b>&nbsp;Mishael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oval_robin"><b>Oval</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_j_john"><b>Orr</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span><br>
 Journal Article - Additive Manufacturing
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20of%20Ribbed%20Concrete%20Shells%20Using%20Automated%20Robotic%20Concrete%20Spraying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+of+ribbed+concrete+shells+using+automated+robotic+concrete+spraying&as_occt=title&as_sauthors=nuh&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139320672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000869980900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.103159" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automatic Geometric Inspection in Digital Fabrication ([2022-05](date/2022/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/459/2022/isprs-archives-XLIII-B1-2022-459-2022.pdf) <a href="https://doi.org/10.5194/isprs-archives-xliii-b1-2022-459-2022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xliii-b1-2022-459-2022" target="_blank">10.5194/isprs-archives-xliii-b1-2022-459-2022</a>
+<a href="https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLIII-B1-2022/459/2022/isprs-archives-XLIII-B1-2022-459-2022.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5194/isprs-archives-xliii-b1-2022-459-2022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xliii-b1-2022-459-2022" target="_blank">10.5194/isprs-archives-xliii-b1-2022-459-2022</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maboudi_mehdi"><b>Maboudi</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span><br>
 Journal Article - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. XLIII-B1-2022, pp. 459-466
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automatic%20Geometric%20Inspection%20in%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automatic+geometric+inspection+in+digital+fabrication&as_occt=title&as_sauthors=mawas&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131936845&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000855582700062" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5194/isprs-archives-xliii-b1-2022-459-2022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

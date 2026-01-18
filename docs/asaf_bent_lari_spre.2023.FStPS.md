@@ -22,14 +22,15 @@ tags:
 
 #From Soil to Printed Structures&nbsp;([2023-10](date/2023/10))
 <div class="h1-like">A Systematic Approach to Designing Clay-Based Materials for 3D Printing in Construction and Architecture</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" target="_blank">10.1016/j.conbuildmat.2023.133783</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133783" target="_blank">10.1016/j.conbuildmat.2023.133783</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-0991-5471" title="ORCID: 0000-0001-0991-5471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentur_arnon"><b>Bentur</b>&nbsp;Arnon</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larianovsky_pavel"><b>Larianovsky</b>&nbsp;Pavel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 408, No. 133783
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Soil%20to%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+soil+to+printed+structures&as_occt=title&as_sauthors=asaf&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175148986&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001096807600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133783" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

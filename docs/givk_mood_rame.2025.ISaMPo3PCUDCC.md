@@ -19,14 +19,15 @@ tags:
 ---
 
 #Investigating Shrinkage and Mechanical Properties of 3D Printed Concretes Under Different Curing Conditions ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40999-025-01093-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40999-025-01093-1" target="_blank">10.1007/s40999-025-01093-1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40999-025-01093-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40999-025-01093-1" target="_blank">10.1007/s40999-025-01093-1</a>
 
 <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b>&nbsp;Amir</a></span><br>
 Journal Article - International Journal of Civil Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20Shrinkage%20and%20Mechanical%20Properties%20of%203D%20Printed%20Concretes%20Under%20Different%20Curing%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+shrinkage+and+mechanical+properties+of+3d+printed+concretes+under+different+curing+conditions&as_occt=title&as_sauthors=givkashi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000719870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001440773100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40999-025-01093-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,7 +22,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 94-103
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=anisotropic+concrete&as_occt=title&as_sauthors=demont&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

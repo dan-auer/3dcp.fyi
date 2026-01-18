@@ -21,14 +21,15 @@ tags:
 ---
 
 #An Integrated Workflow for Designing and Fabricating Multi-Functional Building Components Through Additive Manufacturing with Clay ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/11/2676/pdf?version=1698117852) <a href="https://doi.org/10.3390/buildings13112676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13112676" target="_blank">10.3390/buildings13112676</a>
+<a href="https://www.mdpi.com/2075-5309/13/11/2676/pdf?version=1698117852" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13112676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13112676" target="_blank">10.3390/buildings13112676</a>
 
 <a href="../../../author/taher_ammar"><b>Taher</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1279-8913" title="ORCID: 0000-0003-1279-8913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asut_serdar"><b>Aşut</b>&nbsp;Serdar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5266-0022" title="ORCID: 0000-0002-5266-0022" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spoel_willem"><b>van der&nbsp;Spoel</b>&nbsp;Willem</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 11, No. 2676
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Integrated%20Workflow%20for%20Designing%20and%20Fabricating%20Multi-Functional%20Building%20Components%20Through%20Additive%20Manufacturing%20with%20Clay" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+integrated+workflow+for+designing+and+fabricating+multi-functional+building+components+through+additive+manufacturing+with+clay&as_occt=title&as_sauthors=taher&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178374803&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001108166900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13112676" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

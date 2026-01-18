@@ -17,14 +17,15 @@ tags:
 ---
 
 #The Design and Development of an Extrusion-System for 3D Printing Cementitious Materials ([2019-10](date/2019/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/ismsit.2019.8932771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ismsit.2019.8932771" target="_blank">10.1109/ismsit.2019.8932771</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/ismsit.2019.8932771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ismsit.2019.8932771" target="_blank">10.1109/ismsit.2019.8932771</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6147-2448" title="ORCID: 0000-0001-6147-2448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albar_m_abdulrahman"><b>Albar</b>&nbsp;Abdulrahman</a></span>, <a href="../../../author/swash_rafiq_mohammad"><b>Swash</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
 Contribution - Proceedings of the 3rd International Symposium on Multidisciplinary Studies and Innovative Technologies, pp. 1-5
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Design%20and%20Development%20of%20an%20Extrusion-System%20for%203D%20Printing%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+design+and+development+of+an+extrusion-system+for+3d+printing+cementitious+materials&as_occt=title&as_sauthors=albar&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078009605&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/ismsit.2019.8932771" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

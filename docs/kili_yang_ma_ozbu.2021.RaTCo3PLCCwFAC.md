@@ -19,14 +19,15 @@ tags:
 ---
 
 #Rheological and Thermal Characterization of 3D Printable Lightweight Cementitious Composites with Fly-Ash-Cenospheres ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200087" target="_blank">10.1520/stp163620200087</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163620200087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200087" target="_blank">10.1520/stp163620200087</a>
 
 <a href="../../../author/kilic_ugur"><b>Kilic</b>&nbsp;Ugur</a></span>, <a href="../../../author/yang_yang"><b>Yang</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4228-6620" title="ORCID: 0000-0002-4228-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_ji"><b>Ma</b>&nbsp;Ji</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
 Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 75-98
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cenosphere"><button class="btn">#cenosphere</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Thermal%20Characterization%20of%203D%20Printable%20Lightweight%20Cementitious%20Composites%20with%20Fly-Ash-Cenospheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+and+thermal+characterization+of+3d+printable+lightweight+cementitious+composites+with+fly-ash-cenospheres&as_occt=title&as_sauthors=kilic&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164140297&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163620200087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Concrete-Extrusion Using Sustainable Cement Alternatives ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-73776-3_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_12" target="_blank">10.1007/978-3-031-73776-3_12</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-73776-3_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_12" target="_blank">10.1007/978-3-031-73776-3_12</a>
 
 <a href="../../../author/senf_ferdinand"><b>Senf</b>&nbsp;Ferdinand</a></span>, <a href="../../../author/javed_rezan"><b>Javed</b>&nbsp;Rezan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/funke_henrik"><b>Funke</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gelbrich_sandra"><b>Gelbrich</b>&nbsp;Sandra</a></span><br>
 Contribution - Environmental Challenges in Civil Engineering III, pp. 175-188
 
 <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete-Extrusion%20Using%20Sustainable%20Cement%20Alternatives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete-extrusion+using+sustainable+cement+alternatives&as_occt=title&as_sauthors=senf&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208219635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-73776-3_12" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

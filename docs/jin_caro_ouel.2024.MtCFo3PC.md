@@ -23,14 +23,15 @@ tags:
 
 #Minimizing the Carbon Footprint of 3D Printing Concrete&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105853) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" target="_blank">10.1016/j.cemconcomp.2024.105853</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105853" target="_blank">10.1016/j.cemconcomp.2024.105853</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-8419-3964" title="ORCID: 0009-0002-8419-3964" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jin_willy"><b>Jin</b>&nbsp;Willy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8625-6784" title="ORCID: 0000-0001-8625-6784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caron_jean-francois"><b>Caron</b>&nbsp;Jean-François</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 105853
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Minimizing%20the%20Carbon%20Footprint%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=minimizing+the+carbon+footprint+of+3d+printing+concrete&as_occt=title&as_sauthors=jin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210532738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001373357500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105853" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

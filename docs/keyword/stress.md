@@ -8,6 +8,10 @@ search:
 
 # #stress
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (38)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (32)</button></a> <a href="../../keyword/yield"><button class="btn">#yield (25)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/yau_man_ho"><b>Yau</b> Ho</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_yau_lomb.2025.SINPSf3CP/">Stress-Informed Non-Planar Slicing for 3D Concrete Printing</a></li>

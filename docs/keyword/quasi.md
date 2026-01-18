@@ -8,6 +8,10 @@ search:
 
 # #quasi
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/static"><button class="btn">#static (5)</button></a> <a href="../../keyword/load"><button class="btn">#load (3)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wars_pand_bisw.2024.SAo3PCWUQSCLUCMM/">Structural Analysis of 3D Printed Concrete Walls Under Quasi-Static Cyclic Loading Using Composite Micro-Model</a></li>
   <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a>, <a href="../../../author/yu_jiamian"><b>Yu</b> Jiamian</a>, <a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL/">Flexural Behavior of Textile Reinforced 3D Printed Concrete Under Quasi-Static and Dynamic Impact Loads</a></li>

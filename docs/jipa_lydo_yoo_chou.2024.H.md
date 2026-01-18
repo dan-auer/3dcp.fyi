@@ -15,14 +15,15 @@ tags:
 
 #HiRes&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">3D Printed Formwork for an Integrated Slab</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-68275-9_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68275-9_34" target="_blank">10.1007/978-3-031-68275-9_34</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-68275-9_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68275-9_34" target="_blank">10.1007/978-3-031-68275-9_34</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0294-4959" title="ORCID: 0000-0002-0294-4959" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lydon_gearoid"><b>Lydon</b>&nbsp;Gearóid</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoo_angela"><b>Yoo</b>&nbsp;Angela</a></span>, <a href="../../../author/chousou_georgia"><b>Chousou</b>&nbsp;Georgia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4999-2218" title="ORCID: 0000-0003-4999-2218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schluter_arno"><b>Schlüter</b>&nbsp;Arno</a></span><br>
 Contribution - Scalable Disruptors, pp. 423-433
 
 <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=HiRes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hires&as_occt=title&as_sauthors=jipa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-68275-9_34" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

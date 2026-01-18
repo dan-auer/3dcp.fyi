@@ -19,14 +19,15 @@ tags:
 ---
 
 #Numerical Investigation on Inter-Layer and Filament Fracture Behavior of 3D Printed Concrete ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc11.092359) <a href="https://doi.org/10.21012/fc11.092359" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc11.092359" target="_blank">10.21012/fc11.092359</a>
+<a href="https://doi.org/10.21012/fc11.092359" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc11.092359" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc11.092359" target="_blank">10.21012/fc11.092359</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-2501-5814" title="ORCID: 0009-0007-2501-5814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saravanan_pradeep"><b>Saravanan</b>&nbsp;Pradeep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0391-8952" title="ORCID: 0000-0003-0391-8952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b>&nbsp;Ananth</a></span><br>
 Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Investigation%20on%20Inter-Layer%20and%20Filament%20Fracture%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+investigation+on+inter-layer+and+filament+fracture+behavior+of+3d+printed+concrete&as_occt=title&as_sauthors=saravanan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc11.092359" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

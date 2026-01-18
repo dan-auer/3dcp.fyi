@@ -8,6 +8,10 @@ search:
 
 # #green
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (26)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (16)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (8)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (8)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>

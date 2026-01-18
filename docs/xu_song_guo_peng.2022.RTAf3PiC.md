@@ -16,14 +16,15 @@ tags:
 
 #Robotics Technologies Aided for 3D Printing in Construction&nbsp;([2021-10](date/2021/10))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-021-08067-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-08067-2" target="_blank">10.1007/s00170-021-08067-2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00170-021-08067-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-08067-2" target="_blank">10.1007/s00170-021-08067-2</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2353-7834" title="ORCID: 0000-0002-2353-7834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_zhen"><b>Xu</b>&nbsp;Zhen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2319-1682" title="ORCID: 0000-0003-2319-1682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/song_tao"><b>Song</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8774-4963" title="ORCID: 0000-0002-8774-4963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_shuai"><b>Guo</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5103-2086" title="ORCID: 0000-0001-5103-2086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_jiangtao"><b>Peng</b>&nbsp;Jiangtao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6314-0535" title="ORCID: 0000-0001-6314-0535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_lingdong"><b>Zeng</b>&nbsp;Lingdong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8465-0339" title="ORCID: 0000-0002-8465-0339" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_mengmeng"><b>Zhu</b>&nbsp;Mengmeng</a></span><br>
 Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 118, Iss. 11-12, pp. 3559-3574
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotics%20Technologies%20Aided%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotics+technologies+aided+for+3d+printing+in+construction&as_occt=title&as_sauthors=xu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117822595&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000710358900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00170-021-08067-2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

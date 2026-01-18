@@ -19,14 +19,15 @@ tags:
 ---
 
 #Modeling, Feedforward-Control, and Constrained Trajectory-Generation for a Concrete-Conveyance-System ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/1.4063073" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4063073" target="_blank">10.1115/1.4063073</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/1.4063073" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4063073" target="_blank">10.1115/1.4063073</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blagojevic_boris"><b>Blagojevic</b>&nbsp;Boris</a></span>, <a href="../../../author/gienger_andreas"><b>Gienger</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nigl_david"><b>Nigl</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span><br>
 Journal Article - Journal of Dynamic Systems, Measurement, and Control, Vol. 145, Iss. 10
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/conveyor"><button class="btn">#conveyor</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%2C%20Feedforward-Control%2C%20and%20Constrained%20Trajectory-Generation%20for%20a%20Concrete-Conveyance-System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling%2C+feedforward-control%2C+and+constrained+trajectory-generation+for+a+concrete-conveyance-system&as_occt=title&as_sauthors=blagojevic&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176224432&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001078779700003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/1.4063073" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

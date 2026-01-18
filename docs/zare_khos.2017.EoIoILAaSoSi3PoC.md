@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete ([2017-08](date/2017/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.08.019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.08.019" target="_blank">10.1016/j.autcon.2017.08.019</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2017.08.019" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.08.019" target="_blank">10.1016/j.autcon.2017.08.019</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Journal Article - Automation in Construction, Vol. 83, pp. 212-221
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Interlocking%20on%20Inter-Layer%20Adhesion%20and%20Strength%20of%20Structures%20in%203D%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+interlocking+on+inter-layer+adhesion+and+strength+of+structures+in+3d+printing+of+concrete&as_occt=title&as_sauthors=zareiyan&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85027492108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000411533400018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2017.08.019" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

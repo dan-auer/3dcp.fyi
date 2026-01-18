@@ -16,14 +16,15 @@ tags:
 ---
 
 #Comparison of Pumping Mechanism for Various Cementitious Materials ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05289" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05289" target="_blank">10.1016/j.cscm.2025.e05289</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05289" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05289" target="_blank">10.1016/j.cscm.2025.e05289</a>
 
 <a href="../../../author/kim_ki-yeol"><b>Kim</b>&nbsp;Ki-Yeol</a></span>, <a href="../../../author/lim_dong-kyu"><b>Lim</b>&nbsp;Dong-Kyu</a></span>, <a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05289
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Pumping%20Mechanism%20for%20Various%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparison+of+pumping+mechanism+for+various+cementitious+materials&as_occt=title&as_sauthors=kim&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020428515&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001586840300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05289" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

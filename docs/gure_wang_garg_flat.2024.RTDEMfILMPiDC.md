@@ -19,14 +19,15 @@ tags:
 ---
 
 #Residence-Time-Distribution Evaluation Method for In-Line Mixing Processes in Digital Concrete ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_10" target="_blank">10.1007/978-3-031-70031-6_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_10" target="_blank">10.1007/978-3-031-70031-6_10</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3176-2388" title="ORCID: 0000-0002-3176-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurel_seyma"><b>Gürel</b>&nbsp;Şeyma</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <a href="../../../author/garger_moritz"><b>Garger</b>&nbsp;Moritz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 83-90
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Residence-Time-Distribution%20Evaluation%20Method%20for%20In-Line%20Mixing%20Processes%20in%20Digital%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=residence-time-distribution+evaluation+method+for+in-line+mixing+processes+in+digital+concrete&as_occt=title&as_sauthors=g%C3%BCrel&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203014730&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

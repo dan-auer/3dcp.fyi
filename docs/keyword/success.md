@@ -8,6 +8,10 @@ search:
 
 # #success
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/model"><button class="btn">#model (2)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (1)</button></a> <a href="../../keyword/mode"><button class="btn">#mode (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
   <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../oulk_akhr_jai.2024.3CPS/">3D Concrete Printing Success:<br/>An Exhaustive Diagnosis and Failure-Modes-Analysis</a></li>

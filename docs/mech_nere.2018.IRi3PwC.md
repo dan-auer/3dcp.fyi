@@ -14,14 +14,15 @@ tags:
 ---
 
 #Incorporating Reinforcement in 3D-Printing with Concrete ([2018-04](date/2018/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201800003) <a href="https://doi.org/10.1002/best.201800003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201800003" target="_blank">10.1002/best.201800003</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201800003" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201800003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201800003" target="_blank">10.1002/best.201800003</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 113, Iss. 7, pp. 496-504
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Incorporating%20Reinforcement%20in%203D-Printing%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=incorporating+reinforcement+in+3d-printing+with+concrete&as_occt=title&as_sauthors=mechtcherine&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045233772&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000437104900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201800003" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

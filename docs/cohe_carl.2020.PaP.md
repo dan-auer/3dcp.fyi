@@ -17,14 +17,15 @@ tags:
 
 #Piling and Pressing&nbsp;([2020-05](date/2020/05))
 <div class="h1-like">Towards a Method of 3D Printing Reinforced Concrete Columns</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-020-00029-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-020-00029-6" target="_blank">10.1007/s41693-020-00029-6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-020-00029-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-020-00029-6" target="_blank">10.1007/s41693-020-00029-6</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9014-4814" title="ORCID: 0000-0001-9014-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cohen_zach"><b>Cohen</b>&nbsp;Zach</a></span>, <a href="../../../author/carlson_nicholas"><b>Carlson</b>&nbsp;Nicholas</a></span><br>
 Journal Article - Construction Robotics, Vol. 4, Iss. 1-2, pp. 61-73
 
 <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pressing"><button class="btn">#pressing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Piling%20and%20Pressing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=piling+and+pressing&as_occt=title&as_sauthors=cohen&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-020-00029-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,8 +59,9 @@ Journal Article - Construction Robotics, Vol. 4, Iss. 1-2, pp. 61-73
       <li><a href="../../../author/valente_marco"><b>Valente</b> Marco</a>, <a href="../../../author/sibai_abbas"><b>Sibai</b> Abbas</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../vale_siba_samb.2019.EBAMoCP/">Extrusion-Based Additive Manufacturing of Concrete Products:<br/>Revolutionizing and Remodeling the Construction Industry</a></li>
       <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../zivk_batt.2018.RPET/">Rough-Pass-Extrusion-Tooling:<br/>CNC Post-Processing of 3D Printed Sub-Additive Concrete Lattice-Structures</a></li>
     </ol>
-???+ bug "9 Citations"
+???+ bug "10 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kiya_kama_huss_emaa.2026.ANAIf3CPB/">A Novel Arch Infill for 3D Concrete Printed Beams:<br/>A Comparative Study of Flexural Performance Against Truss and Solid Designs</a></li>
       <li><a href="../../../author/telichko_victor"><b>Telichko</b> Victor</a>, <a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b> Galina</a>, <a href="../../../author/levchenko_artem"><b>Levchenko</b> Artem</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../teli_slav_levc.2025.EVFMoBR3PCE/">Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements</a></li>
       <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pate_raph.2025.RCEi3PRS/">Reducing Carbon Emissions in 3D Printed RCC Slabs</a></li>
       <li><a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_zhu_li_zhan.2025.3PTiCC/">3D Printing Technology in Concrete Construction</a></li>

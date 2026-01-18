@@ -8,6 +8,10 @@ search:
 
 # #ductility
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/composite"><button class="btn">#composite (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/height"><button class="btn">#height (7)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/feng_hu"><b>Feng</b> Hu</a>, <a href="../../../author/yuan_xiang"><b>Yuan</b> Xiang</a>, <a href="../../../author/yu_zhenyu"><b>Yu</b> Zhenyu</a>, <a href="../../../author/guo_aofei"><b>Guo</b> Aofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_yuan_yu_guo.2025.PaRPo3PUHDMPCBC/">Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites</a></li>
   <li><a href="../../../author/su_yanli"><b>Su</b> Yanli</a>, <a href="../../../author/wu_chang"><b>Wu</b> Chang</a>, <a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a>, <a href="../../../author/zhang_pu"><b>Zhang</b> Pu</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../su_wu_shan_zhan.2025.MPo3PHDCCwSCaMCR/">Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #tuning
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (2)</button></a> <a href="../../keyword/profile"><button class="btn">#profile (2)</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
   <li><a href="../../../author/deshmukh_s_aparna"><b>Deshmukh</b> Aparna</a>, <a href="../../../author/heintzkill_t_reed"><b>Heintzkill</b> Reed</a>, <a href="../../../author/huerta_a_rosalba"><b>Huerta</b> Rosalba</a>, <a href="../../../author/sobolev_konstantin"><b>Sobolev</b> Konstantin</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../desh_hein_huer_sobo.2021.RRoMCITfACiDC/">Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction</a></li>

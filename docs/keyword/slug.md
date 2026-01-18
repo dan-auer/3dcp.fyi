@@ -8,6 +8,10 @@ search:
 
 # #slug
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/test"><button class="btn">#test (4)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (2)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (2)</button></a> <a href="../../keyword/base"><button class="btn">#base (2)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
   <li><a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bos_luca_blaa_sale.2024.DotOLGICT/">Development of the On-Line Gravity-Induced Compression-Test:<br/>The Inverse-Slugs-Test</a></li>

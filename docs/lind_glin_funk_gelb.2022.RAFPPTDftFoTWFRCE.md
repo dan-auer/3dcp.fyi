@@ -28,7 +28,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robot-Assisted%20Flow-Production-Processes%20Tool-Development%20for%20the%20Fabrication%20of%20Thin-Walled%20Fiber-Reinforced%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robot-assisted+flow-production-processes+tool-development+for+the+fabrication+of+thin-walled+fiber-reinforced+concrete+elements&as_occt=title&as_sauthors=lindner&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -8,6 +8,10 @@ search:
 
 # #reliability
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric (2)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (2)</button></a> <a href="../../keyword/bingham"><button class="btn">#bingham (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/alizamir_meysam"><b>Alizamir</b> Meysam</a>, <a href="../../../author/kim_sungwon"><b>Kim</b> Sungwon</a>, <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b> Rana</a>, <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b> Kaywan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC/">A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a></li>

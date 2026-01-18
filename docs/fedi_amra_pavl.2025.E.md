@@ -15,14 +15,15 @@ tags:
 
 #Editorial&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">Special Issues for “Emerging Materials for 3D Printing in Construction”</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2460024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2460024" target="_blank">10.1080/21650373.2025.2460024</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2025.2460024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2460024" target="_blank">10.1080/21650373.2025.2460024</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2279-1240" title="ORCID: 0000-0002-2279-1240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fediuk_roman"><b>Fediuk</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4434-6295" title="ORCID: 0000-0002-4434-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amran_mugahed"><b>Amran</b>&nbsp;Mugahed</a></span>, <a href="../../../author/pavlik_zbysek"><b>Pavlík</b>&nbsp;Zbyšek</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-1
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Editorial" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=editorial&as_occt=title&as_sauthors=fediuk&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216654180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001412843300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2025.2460024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

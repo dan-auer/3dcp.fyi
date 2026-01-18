@@ -23,14 +23,15 @@ tags:
 ---
 
 #Development of Ultra-Ductile Strain-Hardening 3D Printed Concrete Composite Utilizing Critical Fiber Volume and Coarse Aggregate ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104541" target="_blank">10.1016/j.addma.2024.104541</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2024.104541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104541" target="_blank">10.1016/j.addma.2024.104541</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7784-4338" title="ORCID: 0000-0002-7784-4338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
 Journal Article - Additive Manufacturing, No. 104541
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Ultra-Ductile%20Strain-Hardening%203D%20Printed%20Concrete%20Composite%20Utilizing%20Critical%20Fiber%20Volume%20and%20Coarse%20Aggregate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+ultra-ductile+strain-hardening+3d+printed+concrete+composite+utilizing+critical+fiber+volume+and+coarse+aggregate&as_occt=title&as_sauthors=warsi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208677478&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001357075300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2024.104541" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

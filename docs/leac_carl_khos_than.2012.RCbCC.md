@@ -16,14 +16,15 @@ tags:
 
 #Robotic Construction by Contour Crafting&nbsp;([2012-09](date/2012/09))
 <div class="h1-like">The Case of Lunar Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1260/1478-0771.10.3.423" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.3.423" target="_blank">10.1260/1478-0771.10.3.423</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1260/1478-0771.10.3.423" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.3.423" target="_blank">10.1260/1478-0771.10.3.423</a>
 
 <a href="../../../author/leach_neil"><b>Leach</b>&nbsp;Neil</a></span>, <a href="../../../author/carlson_anders"><b>Carlson</b>&nbsp;Anders</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span><br>
 Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 3, pp. 423-438
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Construction%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+construction+by+contour+crafting&as_occt=title&as_sauthors=leach&as_ylo=2010&as_yhi=2014&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84872857109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000212806000007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1260/1478-0771.10.3.423" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

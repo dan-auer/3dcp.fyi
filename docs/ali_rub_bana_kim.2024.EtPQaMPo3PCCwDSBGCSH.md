@@ -22,14 +22,15 @@ tags:
 ---
 
 #Enhancing the Printing Quality and Mechanical Properties of 3D Printed Cement Composites with Date-Syrup-Based Graphene-Coated-Sand Hybrid ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100582) <a href="https://doi.org/10.1016/j.dibe.2024.100582" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100582" target="_blank">10.1016/j.dibe.2024.100582</a>
+<a href="https://doi.org/10.1016/j.dibe.2024.100582" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2024.100582" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100582" target="_blank">10.1016/j.dibe.2024.100582</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-0465-404X" title="ORCID: 0009-0001-0465-404X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_mukarram_mohd"><b>Ali</b>&nbsp;Mohd</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1255-6949" title="ORCID: 0000-0003-1255-6949" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rub_k-abu_rashid"><b>al&nbsp;Rub</b>&nbsp;Rashid</a></span>, <a href="../../../author/banat_fawzi"><b>Banat</b>&nbsp;Fawzi</a></span>, <a href="../../../author/kim_tae-yeon"><b>Kim</b>&nbsp;Tae-Yeon</a></span><br>
 Journal Article - Developments in the Built Environment, No. 100582
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Printing%20Quality%20and%20Mechanical%20Properties%20of%203D%20Printed%20Cement%20Composites%20with%20Date-Syrup-Based%20Graphene-Coated-Sand%20Hybrid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+the+printing+quality+and+mechanical+properties+of+3d+printed+cement+composites+with+date-syrup-based+graphene-coated-sand+hybrid&as_occt=title&as_sauthors=ali&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210133006&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001372955900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2024.100582" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

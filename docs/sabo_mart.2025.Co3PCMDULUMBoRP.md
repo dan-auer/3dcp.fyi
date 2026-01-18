@@ -19,14 +19,15 @@ tags:
 ---
 
 #Characterization of 3D Printed Concrete Mixtures Developed Using Local UAE Materials Based on Rheological Properties ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114060" target="_blank">10.1016/j.jobe.2025.114060</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114060" target="_blank">10.1016/j.jobe.2025.114060</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4302-8890" title="ORCID: 0000-0003-4302-8890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sabouni_reem"><b>Sabouni</b>&nbsp;Reem</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8272-7577" title="ORCID: 0000-0001-8272-7577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martini_samer"><b>al&nbsp;Martini</b>&nbsp;Samer</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114060
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%203D%20Printed%20Concrete%20Mixtures%20Developed%20Using%20Local%20UAE%20Materials%20Based%20on%20Rheological%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+3d+printed+concrete+mixtures+developed+using+local+uae+materials+based+on+rheological+properties&as_occt=title&as_sauthors=sabouni&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015652512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001578352700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114060" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

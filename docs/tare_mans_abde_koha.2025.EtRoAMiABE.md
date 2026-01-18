@@ -18,14 +18,15 @@ tags:
 
 #Evaluating the Role of Additive Manufacturing in Adobe Brick Enhancement&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">A Comparative Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.asej.2025.103298) <a href="https://doi.org/10.1016/j.asej.2025.103298" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.asej.2025.103298" target="_blank">10.1016/j.asej.2025.103298</a>
+<a href="https://doi.org/10.1016/j.asej.2025.103298" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.asej.2025.103298" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.asej.2025.103298" target="_blank">10.1016/j.asej.2025.103298</a>
 
 <a href="../../../author/tarek_shaimaa"><b>Tarek</b>&nbsp;Shaimaa</a></span>, <a href="../../../author/mansour_yasser"><b>Mansour</b>&nbsp;Yasser</a></span>, <a href="../../../author/abdelmohsen_sherif"><b>Abdelmohsen</b>&nbsp;Sherif</a></span>, <a href="../../../author/kohail_mohamed"><b>Kohail</b>&nbsp;Mohamed</a></span>, <a href="../../../author/assem_ayman"><b>Assem</b>&nbsp;Ayman</a></span><br>
 Journal Article - Ain Shams Engineering Journal, Vol. 16, Iss. 3, No. 103298
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/adobe"><button class="btn">#adobe</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Role%20of%20Additive%20Manufacturing%20in%20Adobe%20Brick%20Enhancement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+the+role+of+additive+manufacturing+in+adobe+brick+enhancement&as_occt=title&as_sauthors=tarek&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217633226&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001427354800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.asej.2025.103298" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

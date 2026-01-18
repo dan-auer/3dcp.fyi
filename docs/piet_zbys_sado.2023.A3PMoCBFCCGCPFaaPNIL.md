@@ -20,14 +20,15 @@ tags:
 ---
 
 #A 3D Printing Method of Cement-Based FGM Composites Containing Granulated Cork, Polypropylene Fibers, and a Polyethylene Net Inter-Layer ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/12/4235/pdf?version=1686194679) <a href="https://doi.org/10.3390/ma16124235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16124235" target="_blank">10.3390/ma16124235</a>
+<a href="https://www.mdpi.com/1996-1944/16/12/4235/pdf?version=1686194679" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma16124235" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16124235" target="_blank">10.3390/ma16124235</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietras_daniel"><b>Pietras</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b>&nbsp;Wojciech</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadowski_tomasz"><b>Sadowski</b>&nbsp;Tomasz</a></span><br>
 Journal Article - Materials, Vol. 16, Iss. 12, No. 4235
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%203D%20Printing%20Method%20of%20Cement-Based%20FGM%20Composites%20Containing%20Granulated%20Cork%2C%20Polypropylene%20Fibers%2C%20and%20a%20Polyethylene%20Net%20Inter-Layer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+3d+printing+method+of+cement-based+fgm+composites+containing+granulated+cork%2C+polypropylene+fibers%2C+and+a+polyethylene+net+inter-layer&as_occt=title&as_sauthors=pietras&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163837086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001015198100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma16124235" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

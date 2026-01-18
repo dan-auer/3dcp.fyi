@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles ([2019-12](date/2019/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-57453-6_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-57453-6_25" target="_blank">10.1007/978-3-030-57453-6_25</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-57453-6_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-57453-6_25" target="_blank">10.1007/978-3-030-57453-6_25</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6023-7646" title="ORCID: 0000-0002-6023-7646" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grigoryan_a_erik"><b>Grigoryan</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7336-7044" title="ORCID: 0000-0002-7336-7044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babanina_anna"><b>Babanina</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2081-7045" title="ORCID: 0000-0003-2081-7045" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kulakov_kirill"><b>Kulakov</b>&nbsp;Kirill</a></span><br>
 Contribution - International Scientific Conference Energy Management of Municipal Facilities and Sustainable Energy Technologies, pp. 285-297
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automation%20of%20the%20Construction%20Process%20by%20Using%20a%20Hinged%20Robot%20with%20Interchangeable%20Nozzles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automation+of+the+construction+process+by+using+a+hinged+robot+with+interchangeable+nozzles&as_occt=title&as_sauthors=grigoryan&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090096572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-57453-6_25" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

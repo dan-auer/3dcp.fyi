@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effect of Sand-Gradations on the Fresh Properties of 3D Printable Concrete ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.23.00166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00166" target="_blank">10.1680/jmacr.23.00166</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmacr.23.00166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00166" target="_blank">10.1680/jmacr.23.00166</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shekar_deepadharshan"><b>Shekar</b>&nbsp;Deepadharshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0441-6292" title="ORCID: 0000-0003-0441-6292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sebastian_shilpa"><b>Sebastian</b>&nbsp;Shilpa</a></span><br>
 Journal Article - Magazine of Concrete Research, pp. 1-32
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Sand-Gradations%20on%20the%20Fresh%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+sand-gradations+on+the+fresh+properties+of+3d+printable+concrete&as_occt=title&as_sauthors=kaliyavaradhan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186626555&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001177132300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmacr.23.00166" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

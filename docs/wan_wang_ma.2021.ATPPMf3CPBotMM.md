@@ -17,14 +17,15 @@ tags:
 ---
 
 #Adaptable Tool-Path-Planning Method for 3D Concrete Printing Based on the Mapping Method ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/978-981-33-4400-6_24.pdf) <a href="https://doi.org/10.1007/978-981-33-4400-6_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-33-4400-6_24" target="_blank">10.1007/978-981-33-4400-6_24</a>
+<a href="https://link.springer.com/content/pdf/10.1007/978-981-33-4400-6_24.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-33-4400-6_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-33-4400-6_24" target="_blank">10.1007/978-981-33-4400-6_24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1300-7693" title="ORCID: 0000-0003-1300-7693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan_qian"><b>Wan</b>&nbsp;Qian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
 Contribution - Proceedings of the 2nd International Conference on Computational Design and Robotic Fabrication, pp. 255-264
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptable%20Tool-Path-Planning%20Method%20for%203D%20Concrete%20Printing%20Based%20on%20the%20Mapping%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adaptable+tool-path-planning+method+for+3d+concrete+printing+based+on+the+mapping+method&as_occt=title&as_sauthors=wan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-33-4400-6_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

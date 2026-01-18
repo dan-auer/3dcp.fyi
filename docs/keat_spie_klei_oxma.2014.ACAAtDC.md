@@ -24,14 +24,15 @@ tags:
 
 #A Compound Arm Approach to Digital Construction&nbsp;([2014-05](date/2014/05))
 <div class="h1-like">A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-04663-1_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-04663-1_7" target="_blank">10.1007/978-3-319-04663-1_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-04663-1_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-04663-1_7" target="_blank">10.1007/978-3-319-04663-1_7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keating_j_steven"><b>Keating</b>&nbsp;Steven</a></span>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b>&nbsp;Nathan</a></span>, <a href="../../../author/klein_john"><b>Klein</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
 Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 99-110
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Compound%20Arm%20Approach%20to%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+compound+arm+approach+to+digital+construction&as_occt=title&as_sauthors=keating&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-04663-1_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

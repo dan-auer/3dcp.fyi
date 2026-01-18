@@ -18,14 +18,15 @@ tags:
 ---
 
 #3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80724-4_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_49" target="_blank">10.1007/978-3-031-80724-4_49</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-80724-4_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_49" target="_blank">10.1007/978-3-031-80724-4_49</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5979-4162" title="ORCID: 0000-0002-5979-4162" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brunner_kim"><b>Brunner</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8582-3799" title="ORCID: 0000-0002-8582-3799" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kustermann_andrea"><b>Kustermann</b>&nbsp;Andrea</a></span><br>
 Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 398-405
 
 <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Particle-Bed%20Printing%20Using%20Different%20Cementitious%20Binders%20and%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+particle-bed+printing+using+different+cementitious+binders+and+recycled+sand&as_occt=title&as_sauthors=brunner&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218044265&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001505314100049" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-80724-4_49" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

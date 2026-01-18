@@ -15,14 +15,15 @@ tags:
 ---
 
 #Self-Healing Strain-Hardening Concrete Cover ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1365) <a href="https://doi.org/10.21012/fc12.1365" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1365" target="_blank">10.21012/fc12.1365</a>
+<a href="https://doi.org/10.21012/fc12.1365" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1365" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1365" target="_blank">10.21012/fc12.1365</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4175-2877" title="ORCID: 0000-0003-4175-2877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_shan"><b>He</b>&nbsp;Shan</a></span>, <a href="../../../author/lukovic_mladena"><b>Luković</b>&nbsp;Mladena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cover"><button class="btn">#cover</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Self-Healing%20Strain-Hardening%20Concrete%20Cover" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=self-healing+strain-hardening+concrete+cover&as_occt=title&as_sauthors=he&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1365" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

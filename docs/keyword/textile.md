@@ -8,6 +8,10 @@ search:
 
 # #textile
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/reinforcement"><button class="btn">#reinforcement (22)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (20)</button></a> <a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (5)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>

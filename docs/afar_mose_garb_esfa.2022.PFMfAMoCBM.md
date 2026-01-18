@@ -17,14 +17,15 @@ tags:
 ---
 
 #Print Fidelity Metrics for Additive Manufacturing of Cement-Based Materials ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.addma.2022.102784" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102784" target="_blank">10.1016/j.addma.2022.102784</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2022.102784" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.102784" target="_blank">10.1016/j.addma.2022.102784</a>
 
 <a href="../../../author/afarani_taheri_hajar"><b>Afarani</b>&nbsp;Hajar</a></span>, <a href="../../../author/moser_h_newell"><b>Moser</b>&nbsp;Newell</a></span>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b>&nbsp;Edward</a></span>, <a href="../../../author/esfahani_nasr_ebrahim"><b>Esfahani</b>&nbsp;Ebrahim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 55
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fidelity"><button class="btn">#fidelity</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Print%20Fidelity%20Metrics%20for%20Additive%20Manufacturing%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=print+fidelity+metrics+for+additive+manufacturing+of+cement-based+materials&as_occt=title&as_sauthors=afarani&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127754405&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000798071700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.102784" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

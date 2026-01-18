@@ -20,14 +20,15 @@ tags:
 ---
 
 #Tension-Compression Anisotropic Cohesion Model for the Interlayer Interface of 3D-Printed Concrete Compression Specimens ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112800" target="_blank">10.1016/j.jobe.2025.112800</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112800" target="_blank">10.1016/j.jobe.2025.112800</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_ning"><b>An</b>&nbsp;Ning</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/xu_chuanhua"><b>Xu</b>&nbsp;Chuanhua</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112800
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tension-Compression%20Anisotropic%20Cohesion%20Model%20for%20the%20Interlayer%20Interface%20of%203D-Printed%20Concrete%20Compression%20Specimens" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tension-compression+anisotropic+cohesion+model+for+the+interlayer+interface+of+3d-printed+concrete+compression+specimens&as_occt=title&as_sauthors=an&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003948136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001487220600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112800" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

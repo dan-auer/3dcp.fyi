@@ -17,14 +17,15 @@ tags:
 ---
 
 #Properties of 3D Printing Mortar with the Development of a 3D Construction Printing Delivery System ([2020-02](date/2020/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/0361198120905595" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0361198120905595" target="_blank">10.1177/0361198120905595</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/0361198120905595" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0361198120905595" target="_blank">10.1177/0361198120905595</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verian_p_kho"><b>Verian</b>&nbsp;Kho</a></span>, <a href="../../../author/kowaleski_r_scott"><b>Kowaleski</b>&nbsp;Scott</a></span>, <a href="../../../author/carli_d_matthew"><b>Carli</b>&nbsp;Matthew</a></span>, <a href="../../../author/bright_p_randall"><b>Bright</b>&nbsp;Randall</a></span>, <a href="../../../author/maandi_eerik"><b>Maandi</b>&nbsp;Eerik</a></span>, <a href="../../../author/sill_gary"><b>Sill</b>&nbsp;Gary</a></span><br>
 Journal Article - Transportation Research Record: Journal of the Transportation Research Board, Vol. 2674, Iss. 2, pp. 1-9
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printing%20Mortar%20with%20the%20Development%20of%20a%203D%20Construction%20Printing%20Delivery%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=properties+of+3d+printing+mortar+with+the+development+of+a+3d+construction+printing+delivery+system&as_occt=title&as_sauthors=verian&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086145539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000512923900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/0361198120905595" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

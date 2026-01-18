@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Systematic Review of the Geographic and Chronological Distributions of 3D Concrete Printers from 1997 to 2020 ([2020-10](date/2020/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2020/0014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0014" target="_blank">10.22260/isarc2020/0014</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2020/0014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0014" target="_blank">10.22260/isarc2020/0014</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8488-0815" title="ORCID: 0000-0001-8488-0815" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chung_jihoon"><b>Chung</b>&nbsp;Jihoon</a></span>, <a href="../../../author/lee_ghang"><b>Lee</b>&nbsp;Ghang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
 Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/chronology"><button class="btn">#chronology</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20of%20the%20Geographic%20and%20Chronological%20Distributions%20of%203D%20Concrete%20Printers%20from%201997%20to%202020" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+systematic+review+of+the+geographic+and+chronological+distributions+of+3d+concrete+printers+from+1997+to+2020&as_occt=title&as_sauthors=chung&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104915064&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2020/0014" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

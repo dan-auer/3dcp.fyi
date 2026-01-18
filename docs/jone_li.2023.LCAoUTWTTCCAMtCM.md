@@ -20,14 +20,15 @@ tags:
 ---
 
 #Life Cycle Assessment of Ultra-Tall Wind Turbine Towers Comparing Concrete Additive Manufacturing to Conventional Manufacturing ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jclepro.2023.137709) <a href="https://doi.org/10.1016/j.jclepro.2023.137709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.137709" target="_blank">10.1016/j.jclepro.2023.137709</a>
+<a href="https://doi.org/10.1016/j.jclepro.2023.137709" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jclepro.2023.137709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.137709" target="_blank">10.1016/j.jclepro.2023.137709</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_es_kathryn"><b>Jones</b>&nbsp;Kathryn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
 Journal Article - Journal of Cleaner Production, No. 137709
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/tall"><button class="btn">#tall</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Ultra-Tall%20Wind%20Turbine%20Towers%20Comparing%20Concrete%20Additive%20Manufacturing%20to%20Conventional%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+ultra-tall+wind+turbine+towers+comparing+concrete+additive+manufacturing+to+conventional+manufacturing&as_occt=title&as_sauthors=jones&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164216507&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001039585500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jclepro.2023.137709" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

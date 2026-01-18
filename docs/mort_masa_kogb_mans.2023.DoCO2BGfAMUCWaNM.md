@@ -18,14 +18,15 @@ tags:
 ---
 
 #Development of Ca(OH)2-Based Geopolymer for Additive Manufacturing Using Construction Wastes and Nano-Materials ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02258) <a href="https://doi.org/10.1016/j.cscm.2023.e02258" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02258" target="_blank">10.1016/j.cscm.2023.e02258</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e02258" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e02258" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02258" target="_blank">10.1016/j.cscm.2023.e02258</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1403-4669" title="ORCID: 0000-0003-1403-4669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mortada_youssef"><b>Mortada</b>&nbsp;Youssef</a></span>, <a href="../../../author/masad_eyad"><b>Masad</b>&nbsp;Eyad</a></span>, <a href="../../../author/kogbara_b_reginald"><b>Kogbara</b>&nbsp;Reginald</a></span>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b>&nbsp;Bilal</a></span>, <a href="../../../author/seers_thomas"><b>Seers</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1737-8451" title="ORCID: 0000-0002-1737-8451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hammoud_ahmad"><b>Hammoud</b>&nbsp;Ahmad</a></span>, <a href="../../../author/karaki_ayman"><b>Karaki</b>&nbsp;Ayman</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 19
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Ca%28OH%292-Based%20Geopolymer%20for%20Additive%20Manufacturing%20Using%20Construction%20Wastes%20and%20Nano-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+ca%28oh%292-based+geopolymer+for+additive+manufacturing+using+construction+wastes+and+nano-materials&as_occt=title&as_sauthors=mortada&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163445679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001027874500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e02258" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

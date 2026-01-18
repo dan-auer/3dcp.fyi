@@ -21,14 +21,15 @@ tags:
 ---
 
 #Printability and Hardening Performance of Three-Dimensionally-Printed Geopolymer Based on Lunar Regolith Simulant for Automated Construction of Lunar Infrastructure ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s11709-023-0003-0.pdf) <a href="https://doi.org/10.1007/s11709-023-0003-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0003-0" target="_blank">10.1007/s11709-023-0003-0</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s11709-023-0003-0.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11709-023-0003-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0003-0" target="_blank">10.1007/s11709-023-0003-0</a>
 
 <a href="../../../author/li_feng"><b>Li</b>&nbsp;Feng</a></span>, <a href="../../../author/zhang_rongrong"><b>Zhang</b>&nbsp;Rongrong</a></span>, <a href="../../../author/zhou_siqi"><b>Zhou</b>&nbsp;Siqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0822-6261" title="ORCID: 0000-0002-0822-6261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_xingyi"><b>Zhu</b>&nbsp;Xingyi</a></span><br>
 Journal Article - Frontiers of Structural and Civil Engineering
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Hardening%20Performance%20of%20Three-Dimensionally-Printed%20Geopolymer%20Based%20on%20Lunar%20Regolith%20Simulant%20for%20Automated%20Construction%20of%20Lunar%20Infrastructure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+and+hardening+performance+of+three-dimensionally-printed+geopolymer+based+on+lunar+regolith+simulant+for+automated+construction+of+lunar+infrastructure&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180919194&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001132147100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11709-023-0003-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -24,7 +24,7 @@ Contribution - Digital Architecture Research, pp. 234-254
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3DCP%20vs%20Conventional%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3dcp+vs+conventional+construction&as_occt=title&as_sauthors=rosa&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -9,6 +9,60 @@ search:
 
 #  Hou Shaodan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-12-11
+    
+    Last Contribution
+    : 2024-09-03
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 506
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (7)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
+        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (3)</li>
+        <li><a href="../../../author/ye_jun"><b>Ye</b> Jun</a> (2)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a> (239)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (39)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (36)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (28)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (27)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (36)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (20)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (19)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (15)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/wu_wenbo"><b>Wu</b> Wenbo</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/zhou_shuai"><b>Zhou</b> Shuai</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hou_wu_duan_zhou.2024.RoFRMf3PC/">Rheology of Fiber-Reinforced Mortar for 3D Printing Construction:<br/>Effect of Recycled Hybrid-Powder and Polyethylene-Fiber</a></li>
   <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hou_duan_ye_zou.2023.MPaPSo3PMwRP/">Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder</a></li>

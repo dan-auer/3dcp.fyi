@@ -19,14 +19,15 @@ tags:
 ---
 
 #Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.108892" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108892" target="_blank">10.1016/j.istruc.2025.108892</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.108892" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108892" target="_blank">10.1016/j.istruc.2025.108892</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span><br>
 Journal Article - Structures, Vol. 76, No. 108892
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Potential%20of%20Topology%20Optimization%20and%20Lattice%20Structures%20in%20Concrete%203D%20Printed%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synergistic+potential+of+topology+optimization+and+lattice+structures+in+concrete+3d+printed+beams&as_occt=title&as_sauthors=salaimanimagudam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002486146&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001472136100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.108892" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113233) <a href="https://doi.org/10.1016/j.jobe.2025.113233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113233" target="_blank">10.1016/j.jobe.2025.113233</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.113233" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113233" target="_blank">10.1016/j.jobe.2025.113233</a>
 
 <a href="../../../author/els_heinrich"><b>Els</b>&nbsp;Heinrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113233
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Shrinkage%20and%20Restrained%20Shrinkage%20Cracking%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+shrinkage+and+restrained+shrinkage+cracking+in+3d+concrete+printing&as_occt=title&as_sauthors=els&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008434709&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001519868300005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113233" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -105,8 +106,9 @@ Journal Article - Journal of Building Engineering, No. 113233
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/zhang_meng"><b>Zhang</b> Meng</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/yao_jie"><b>Yao</b> Jie</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM/">Research Progress on Shrinkage Properties of Extruded 3D Printed Cement-Based Materials</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../fede_sibe_tosi_ziel.2026.EASMo3PCMCoMTaLCA/">Early-Age Shrinkage Monitoring of 3D-Printed Cementitious Mixtures: Comparison of Measuring Techniques and Low-Cost Alternatives</a></li>
     </ol>
 </div>
 

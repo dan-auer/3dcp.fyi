@@ -18,14 +18,15 @@ tags:
 ---
 
 #Distributed Fiber Optic Sensing System for Vibration Monitoring of 3D Printed Bridges ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11801-025-4027-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11801-025-4027-7" target="_blank">10.1007/s11801-025-4027-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11801-025-4027-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11801-025-4027-7" target="_blank">10.1007/s11801-025-4027-7</a>
 
 <a href="../../../author/zhao_shuai"><b>Zhao</b>&nbsp;Shuai</a></span>, <a href="../../../author/zhou_ran"><b>Zhou</b>&nbsp;Ran</a></span>, <a href="../../../author/luo_mingming"><b>Luo</b>&nbsp;Mingming</a></span>, <a href="../../../author/liu_jianfei"><b>Liu</b>&nbsp;Jianfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/zhou_tao"><b>Zhou</b>&nbsp;Tao</a></span><br>
 Journal Article - Optoelectronics Letters, Vol. 21, Iss. 1, pp. 28-34
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Distributed%20Fiber%20Optic%20Sensing%20System%20for%20Vibration%20Monitoring%20of%203D%20Printed%20Bridges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=distributed+fiber+optic+sensing+system+for+vibration+monitoring+of+3d+printed+bridges&as_occt=title&as_sauthors=zhao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211320381&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001374173400006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11801-025-4027-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

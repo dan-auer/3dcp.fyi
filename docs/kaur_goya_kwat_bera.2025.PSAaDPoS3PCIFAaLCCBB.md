@@ -24,14 +24,15 @@ tags:
 ---
 
 #Pore Structure Analysis and Durability Performance of Sustainable 3D Printed Concrete Incorporating Fly Ash and Limestone Calcined Clay Based Binders ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" target="_blank">10.1016/j.conbuildmat.2025.142577</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142577" target="_blank">10.1016/j.conbuildmat.2025.142577</a>
 
 <a href="../../../author/kaur_zinnia"><b>Kaur</b>&nbsp;Zinnia</a></span>, <a href="../../../author/goyal_shweta"><b>Goyal</b>&nbsp;Shweta</a></span>, <a href="../../../author/kwatra_naveen"><b>Kwatra</b>&nbsp;Naveen</a></span>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b>&nbsp;Tarun</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 490, No. 142577
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pore%20Structure%20Analysis%20and%20Durability%20Performance%20of%20Sustainable%203D%20Printed%20Concrete%20Incorporating%20Fly%20Ash%20and%20Limestone%20Calcined%20Clay%20Based%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pore+structure+analysis+and+durability+performance+of+sustainable+3d+printed+concrete+incorporating+fly+ash+and+limestone+calcined+clay+based+binders&as_occt=title&as_sauthors=kaur&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009760371&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001529420600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142577" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

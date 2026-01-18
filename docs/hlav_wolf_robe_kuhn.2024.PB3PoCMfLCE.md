@@ -25,7 +25,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Powder-Bed%203D%20Printing%20of%20Cementitious%20Materials%20for%20Lightweight%20Construction%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=powder-bed+3d+printing+of+cementitious+materials+for+lightweight+construction+elements&as_occt=title&as_sauthors=hlav%C3%A1%C4%8Dek&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202407151116-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

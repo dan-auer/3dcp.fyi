@@ -13,14 +13,15 @@ tags:
 ---
 
 #Reshaping Africa’s Sustainable Future Through 3D Printing ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80330-7_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80330-7_20" target="_blank">10.1007/978-3-031-80330-7_20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-80330-7_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80330-7_20" target="_blank">10.1007/978-3-031-80330-7_20</a>
 
 <a href="../../../author/fahfouhi_karim"><b>Fahfouhi</b>&nbsp;Karim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span>, <a href="../../../author/almeida_henrique"><b>Almeida</b>&nbsp;Henrique</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span><br>
 Contribution - Proceedings of the International Conference on Water Energy Food and Sustainability, pp. 186-194
 
 <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reshaping%20Africa%E2%80%99s%20Sustainable%20Future%20Through%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reshaping+africa%E2%80%99s+sustainable+future+through+3d+printing&as_occt=title&as_sauthors=fahfouhi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215080525&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001502270700020" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-80330-7_20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

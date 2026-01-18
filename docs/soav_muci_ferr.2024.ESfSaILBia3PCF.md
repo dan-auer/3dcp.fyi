@@ -26,7 +26,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setup"><button class="btn">#setup</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Setup%20for%20Shear%20and%20Inter-Layer%20Bonding%20in%20a%203D%20Printed%20Concrete%20Framework" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+setup+for+shear+and+inter-layer+bonding+in+a+3d+printed+concrete+framework&as_occt=title&as_sauthors=soave&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408171005-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

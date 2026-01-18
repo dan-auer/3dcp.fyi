@@ -8,6 +8,10 @@ search:
 
 # #result
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (3)</button></a> <a href="../../keyword/property"><button class="btn">#property (3)</button></a> <a href="../../keyword/time"><button class="btn">#time (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>

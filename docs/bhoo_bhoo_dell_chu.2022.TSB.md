@@ -12,14 +12,15 @@ tags:
 ---
 
 #The Striatus Bridge ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44150-022-00051-y.pdf) <a href="https://doi.org/10.1007/s44150-022-00051-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-022-00051-y" target="_blank">10.1007/s44150-022-00051-y</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44150-022-00051-y.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44150-022-00051-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-022-00051-y" target="_blank">10.1007/s44150-022-00051-y</a>
 
 <a href="../../../author/bhooshan_shajay"><b>Bhooshan</b>&nbsp;Shajay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4160-3898" title="ORCID: 0000-0003-4160-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhooshan_vishu"><b>Bhooshan</b>&nbsp;Vishu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b>&nbsp;Alessandro</a></span>, <a href="../../../author/chu_jianfei"><b>Chu</b>&nbsp;Jianfei</a></span>, <a href="../../../author/singer_philip"><b>Singer</b>&nbsp;Philip</a></span>, <a href="../../../author/megens_johannes"><b>Megens</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Journal Article - Architecture, Structures and Construction
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/striatus"><button class="btn">#striatus</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Striatus%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+striatus+bridge&as_occt=title&as_sauthors=bhooshan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44150-022-00051-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

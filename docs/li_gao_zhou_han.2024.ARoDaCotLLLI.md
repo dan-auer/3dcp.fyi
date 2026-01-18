@@ -14,14 +14,15 @@ tags:
 ---
 
 #A Review on Design and Construction of the Lunar Launch/Landing Infrastructure ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.asr.2024.07.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.asr.2024.07.006" target="_blank">10.1016/j.asr.2024.07.006</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.asr.2024.07.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.asr.2024.07.006" target="_blank">10.1016/j.asr.2024.07.006</a>
 
 <a href="../../../author/li_xinyi"><b>Li</b>&nbsp;Xinyi</a></span>, <a href="../../../author/gao_yuyue"><b>Gao</b>&nbsp;Yuyue</a></span>, <a href="../../../author/zhou_yan"><b>Zhou</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9843-762X" title="ORCID: 0000-0001-9843-762X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_wenbin"><b>Han</b>&nbsp;Wenbin</a></span>, <a href="../../../author/zhou_cheng"><b>Zhou</b>&nbsp;Cheng</a></span><br>
 Journal Article - Advances in Space Research
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Design%20and%20Construction%20of%20the%20Lunar%20Launch/Landing%20Infrastructure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+on+design+and+construction+of+the+lunar+launch%2Flanding+infrastructure&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198716785&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001309172100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.asr.2024.07.006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

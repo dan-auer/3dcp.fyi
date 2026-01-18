@@ -18,14 +18,15 @@ tags:
 ---
 
 #Reinforcement of 3D Printable Earth-Based Mortar with Natural Textile-Material ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.08.056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.056" target="_blank">10.1016/j.matpr.2023.08.056</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.08.056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.056" target="_blank">10.1016/j.matpr.2023.08.056</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20of%203D%20Printable%20Earth-Based%20Mortar%20with%20Natural%20Textile-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reinforcement+of+3d+printable+earth-based+mortar+with+natural+textile-material&as_occt=title&as_sauthors=tarhan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.08.056" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

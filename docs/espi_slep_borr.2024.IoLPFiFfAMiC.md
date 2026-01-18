@@ -17,14 +17,15 @@ tags:
 ---
 
 #Integration of Laser Profiler Feedback into FIM for Additive Manufacturing in Construction ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0013" target="_blank">10.22260/isarc2024/0013</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2024/0013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0013" target="_blank">10.22260/isarc2024/0013</a>
 
 <a href="../../../author/espinosa_simon"><b>Espinosa</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/laser"><button class="btn">#laser</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/profiler"><button class="btn">#profiler</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Laser%20Profiler%20Feedback%20into%20FIM%20for%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integration+of+laser+profiler+feedback+into+fim+for+additive+manufacturing+in+construction&as_occt=title&as_sauthors=espinosa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199627564&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2024/0013" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

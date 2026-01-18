@@ -15,14 +15,15 @@ tags:
 ---
 
 #Integrating Additional Elements in Clay 3D Printing with Human Intervention ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2023_164.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" target="_blank">10.52842/conf.ecaade.2023.1.741</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2023_164.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.741" target="_blank">10.52842/conf.ecaade.2023.1.741</a>
 
 <a href="../../../author/coskun_agit"><b>Coskun</b>&nbsp;Agit</a></span>, <a href="../../../author/jensen_brath_mads"><b>Jensen</b>&nbsp;Mads</a></span><br>
 Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 741-750
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/human"><button class="btn">#human</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Additional%20Elements%20in%20Clay%203D%20Printing%20with%20Human%20Intervention" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrating+additional+elements+in+clay+3d+printing+with+human+intervention&as_occt=title&as_sauthors=coskun&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171868862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2023.1.741" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

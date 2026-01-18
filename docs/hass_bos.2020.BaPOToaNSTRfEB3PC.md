@@ -19,14 +19,15 @@ tags:
 ---
 
 #Bending and Pull-Out Tests on a Novel Screw Type Reinforcement for Extrusion-Based 3D Printed Concrete ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_64" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_64" target="_blank">10.1007/978-3-030-49916-7_64</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_64" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_64" target="_blank">10.1007/978-3-030-49916-7_64</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9072-0113" title="ORCID: 0000-0001-9072-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hass_lauri"><b>Hass</b>&nbsp;Lauri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 632-645
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/screw"><button class="btn">#screw</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bending%20and%20Pull-Out%20Tests%20on%20a%20Novel%20Screw%20Type%20Reinforcement%20for%20Extrusion-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bending+and+pull-out+tests+on+a+novel+screw+type+reinforcement+for+extrusion-based+3d+printed+concrete&as_occt=title&as_sauthors=hass&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088270812&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_64" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

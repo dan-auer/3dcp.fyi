@@ -9,6 +9,60 @@ search:
 
 #  Hassan Marwa 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-09-02
+    
+    Last Contribution
+    : 2024-08-07
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 54
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> (6)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (6)</li>
+        <li><a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> (6)</li>
+        <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a> (4)</li>
+        <li><a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (33)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (21)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (18)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (14)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (16)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (9)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (7)</li>
+        <li><a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a> (6)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a></li>
   <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ahme_giwa_game_arce.2024.ARDLSAM/">Automated Reinforcement During Large-Scale Additive Manufacturing:<br/>Structural-Assessment of a Dual Approach</a></li>

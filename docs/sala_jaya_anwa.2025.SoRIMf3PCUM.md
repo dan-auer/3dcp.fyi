@@ -16,14 +16,15 @@ tags:
 ---
 
 #Selection of Reinforcement Incorporation Method for 3D Printed Concrete Using MCDM ([2025-02](date/2025/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-025-01766-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-025-01766-w" target="_blank">10.1007/s40996-025-01766-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40996-025-01766-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-025-01766-w" target="_blank">10.1007/s40996-025-01766-w</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2449-1962" title="ORCID: 0000-0002-2449-1962" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9935-0996" title="ORCID: 0000-0002-9935-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b>&nbsp;Jaganathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4572-1149" title="ORCID: 0000-0002-4572-1149" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b>&nbsp;Mohammed</a></span><br>
 Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Selection%20of%20Reinforcement%20Incorporation%20Method%20for%203D%20Printed%20Concrete%20Using%20MCDM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=selection+of+reinforcement+incorporation+method+for+3d+printed+concrete+using+mcdm&as_occt=title&as_sauthors=salaimanimagudam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218698059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40996-025-01766-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

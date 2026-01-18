@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing ([2020-05](date/2020/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119551" target="_blank">10.1016/j.conbuildmat.2020.119551</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.119551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119551" target="_blank">10.1016/j.conbuildmat.2020.119551</a>
 
 <a href="../../../author/moeini_amin_mohammad"><b>Moeini</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b>&nbsp;Masoud</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 257
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effectiveness%20of%20the%20Rheometric%20Methods%20to%20Evaluate%20the%20Build-Up%20of%20Cementitious%20Mortars%20Used%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effectiveness+of+the+rheometric+methods+to+evaluate+the+build-up+of+cementitious+mortars+used+for+3d+printing&as_occt=title&as_sauthors=moeini&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084935977&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000545559400056" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.119551" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

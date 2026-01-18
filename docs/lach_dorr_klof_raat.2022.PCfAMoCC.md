@@ -16,14 +16,15 @@ tags:
 ---
 
 #Process-Control for Additive Manufacturing of Concrete Components ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.repo.uni-hannover.de/bitstream/123456789/15895/1/Process%20Control%20for%20Additive%20Manufacturing%20of%20Concrete%20Components.pdf) <a href="https://doi.org/10.1007/978-3-031-06116-5_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_52" target="_blank">10.1007/978-3-031-06116-5_52</a>
+<a href="https://www.repo.uni-hannover.de/bitstream/123456789/15895/1/Process%20Control%20for%20Additive%20Manufacturing%20of%20Concrete%20Components.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_52" target="_blank">10.1007/978-3-031-06116-5_52</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8473-7218" title="ORCID: 0000-0001-8473-7218" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorrie_robin"><b>Dörrie</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 351-356
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Process-Control%20for%20Additive%20Manufacturing%20of%20Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=process-control+for+additive+manufacturing+of+concrete+components&as_occt=title&as_sauthors=lachmayer&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133177095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_52" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

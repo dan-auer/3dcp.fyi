@@ -8,6 +8,10 @@ search:
 
 # #validation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment (9)</button></a> <a href="../../keyword/model"><button class="btn">#model (8)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/lee_chang-hwan"><b>Lee</b> Chang-Hwan</a>, <a href="../../../author/gwak_kwan-woong"><b>Gwak</b> Kwan-Woong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lee_gwak.2025.EVoaCDPRf3PBC/">Experimental Validation of a Cable Driven Parallel Robot for 3D Printing Building Construction</a></li>

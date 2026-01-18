@@ -15,14 +15,15 @@ tags:
 
 #Scalable Equals Sustainable&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">The New Era of Sustainable and Digital Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.3098" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3098" target="_blank">10.1002/ad.3098</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/ad.3098" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3098" target="_blank">10.1002/ad.3098</a>
 
 <a href="../../../author/feringa_jelle"><b>Feringa</b>&nbsp;Jelle</a></span><br>
 Journal Article - Architectural Design, Vol. 94, Iss. 5, pp. 64-69
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Scalable%20Equals%20Sustainable" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=scalable+equals+sustainable&as_occt=title&as_sauthors=feringa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203336183&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001310531700016" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/ad.3098" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

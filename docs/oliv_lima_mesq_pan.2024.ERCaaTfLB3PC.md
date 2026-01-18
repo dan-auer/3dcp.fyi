@@ -24,7 +24,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Extended%20Rheological%20Characterization%20as%20a%20Tool%20for%20Low-Binder%203D%20Printing%20Compositions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=extended+rheological+characterization+as+a+tool+for+low-binder+3d+printing+compositions&as_occt=title&as_sauthors=oliveira+romano&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408160950-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

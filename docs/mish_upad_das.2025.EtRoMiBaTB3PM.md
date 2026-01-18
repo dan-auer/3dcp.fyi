@@ -19,14 +19,15 @@ tags:
 
 #Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Deep Insights into Printability</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15623599.2025.2514622" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2025.2514622" target="_blank">10.1080/15623599.2025.2514622</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15623599.2025.2514622" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2025.2514622" target="_blank">10.1080/15623599.2025.2514622</a>
 
 <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b>&nbsp;Bikash</a></span>, <a href="../../../author/das_b_b"><b>Das</b>&nbsp;B.</a></span><br>
 Journal Article - International Journal of Construction Management, pp. 1-19
 
 <a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Role%20of%20Metakaolin%20in%20Binary%20and%20Ternary%20Blended%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+the+role+of+metakaolin+in+binary+and+ternary+blended+3d+printable+mortars&as_occt=title&as_sauthors=mishra&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008751391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15623599.2025.2514622" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

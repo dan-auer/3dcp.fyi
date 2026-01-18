@@ -18,14 +18,15 @@ tags:
 ---
 
 #Data-Informed Digital Twin for Large-Scale 3D Printing in Construction ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106706" target="_blank">10.1016/j.autcon.2025.106706</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106706" target="_blank">10.1016/j.autcon.2025.106706</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2835-827X" title="ORCID: 0000-0002-2835-827X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skoury_lior"><b>Skoury</b>&nbsp;Lior</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4403-3053" title="ORCID: 0000-0002-4403-3053" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asaf_ofer"><b>Asaf</b>&nbsp;Ofer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menges_achim"><b>Menges</b>&nbsp;Achim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5604-1624" title="ORCID: 0000-0002-5604-1624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wortmann_thomas"><b>Wortmann</b>&nbsp;Thomas</a></span><br>
 Journal Article - Automation in Construction, Vol. 182, No. 106706
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Informed%20Digital%20Twin%20for%20Large-Scale%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-informed+digital+twin+for+large-scale+3d+printing+in+construction&as_occt=title&as_sauthors=skoury&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106706" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

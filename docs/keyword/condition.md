@@ -8,7 +8,12 @@ search:
 
 # #condition
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (20)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/cure"><button class="btn">#cure (6)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (6)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a>, <a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC/">Effects of Pore Defects on Interfacial Bonding Between Rebar and 3D Printed Coarse Aggregate Concrete Under Multiple Loading Conditions</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_cheu.2025.MLLMfA3CP/">Multimodal Large Language Models for Adaptive 3D Concrete Printing:<br/>Real-Time Control of Materials and Settings According to Performance Requirements and Environmental Conditions</a></li>
   <li><a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/yu_qiuchun"><b>Yu</b> Qiuchun</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM/">Engineering Properties of Magnesium Phosphate Cement Lunar Soil Concrete Under Vacuum Conditions and Its 3D Printing Application for Lunar Dome Model</a></li>
   <li><a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lu_sun_shen_zhan.2025.Bo3PECCE/">Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>A Comprehensive Assessment Framework Under Laboratory Conditions</a></li>

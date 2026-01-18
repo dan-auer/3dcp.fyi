@@ -19,14 +19,15 @@ tags:
 ---
 
 #Early-Age Performance of 3D Printed Carbon-Nano-Fiber and Carbon Micro-Fiber Cement Composites ([2020-01](date/2020/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/0361198120902704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0361198120902704" target="_blank">10.1177/0361198120902704</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/0361198120902704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0361198120902704" target="_blank">10.1177/0361198120902704</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kosson_michael"><b>Kosson</b>&nbsp;Michael</a></span>, <a href="../../../author/brown_lesa"><b>Brown</b>&nbsp;Lesa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanchez_florence"><b>Sanchez</b>&nbsp;Florence</a></span><br>
 Journal Article - Transportation Research Record: Journal of the Transportation Research Board, Vol. 2674, Iss. 2, pp. 10-20
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Early-Age%20Performance%20of%203D%20Printed%20Carbon-Nano-Fiber%20and%20Carbon%20Micro-Fiber%20Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=early-age+performance+of+3d+printed+carbon-nano-fiber+and+carbon+micro-fiber+cement+composites&as_occt=title&as_sauthors=kosson&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083381981&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000510732900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/0361198120902704" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

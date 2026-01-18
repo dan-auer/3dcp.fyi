@@ -13,14 +13,15 @@ tags:
 ---
 
 #Filigree Façade Panels Fabricated by 3D Concrete Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_58" target="_blank">10.1007/978-3-031-70031-6_58</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_58" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_58" target="_blank">10.1007/978-3-031-70031-6_58</a>
 
 <a href="../../../author/schmid_robert"><b>Schmid</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9425-8710" title="ORCID: 0009-0008-9425-8710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gierlinger_david"><b>Gierlinger</b>&nbsp;David</a></span>, <a href="../../../author/hansemann_georg"><b>Hansemann</b>&nbsp;Georg</a></span>, <a href="../../../author/trummer_andreas"><b>Trummer</b>&nbsp;Andreas</a></span>, <a href="../../../author/peters_stefan"><b>Peters</b>&nbsp;Stefan</a></span>, <a href="../../../author/freytag_bernhard"><b>Freytag</b>&nbsp;Bernhard</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 501-508
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Filigree%20Fa%C3%A7ade%20Panels%20Fabricated%20by%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=filigree+fa%C3%A7ade+panels+fabricated+by+3d+concrete+printing&as_occt=title&as_sauthors=schmid&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203074414&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600058" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_58" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

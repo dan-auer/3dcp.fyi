@@ -24,7 +24,7 @@ Contribution - Proceedings of the 3rd International Conference on Progress in Ad
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Recycled-Glass%20Gradation%20in%203D%20Cementitious%20Material-Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+recycled-glass+gradation+in+3d+cementitious+material-printing&as_occt=title&as_sauthors=ting&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053596389&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000485804300008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.25341/d4f59z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #Digital Manufacturing for Earth Construction&nbsp;([2022-01](date/2022/01))
 <div class="h1-like">A Critical Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://orca.cardiff.ac.uk/148042/1/DigitalManufacturingForEarthConstruction.pdf) <a href="https://doi.org/10.1016/j.jclepro.2022.130630" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.130630" target="_blank">10.1016/j.jclepro.2022.130630</a>
+<a href="https://orca.cardiff.ac.uk/148042/1/DigitalManufacturingForEarthConstruction.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jclepro.2022.130630" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.130630" target="_blank">10.1016/j.jclepro.2022.130630</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomaa_mohamed"><b>Gomaa</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabi_wassim"><b>Jabi</b>&nbsp;Wassim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1397-8414" title="ORCID: 0000-0003-1397-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soebarto_veronica"><b>Soebarto</b>&nbsp;Veronica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
 Journal Article - Journal of Cleaner Production, Vol. 338, No. 130630
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Manufacturing%20for%20Earth%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+manufacturing+for+earth+construction&as_occt=title&as_sauthors=gomaa&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123683720&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000770879100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jclepro.2022.130630" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

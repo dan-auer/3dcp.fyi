@@ -8,6 +8,10 @@ search:
 
 # #entrainment
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/air"><button class="btn">#air (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
   <li><a href="../../../author/baghi_ali"><b>Baghi</b> Ali</a>, <a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bagh_amin_mema_bile.2024.3CPoSSFvEC/">3D Concrete Printing of Self-Supported Filaments via Entrained Cables:<br/>Constructing Formwork-Free Spanning Structures</a></li>

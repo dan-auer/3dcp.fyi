@@ -20,14 +20,15 @@ tags:
 ---
 
 #Set-on-Demand 3D Concrete Printing Construction and Potential Outcome of Shotcrete-Accelerators on Its Hardened Properties ([2023-02](date/2023/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01955) <a href="https://doi.org/10.1016/j.cscm.2023.e01955" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01955" target="_blank">10.1016/j.cscm.2023.e01955</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e01955" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e01955" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01955" target="_blank">10.1016/j.cscm.2023.e01955</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <a href="../../../author/melesse_bizu_birru"><b>Melesse</b>&nbsp;Birru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
 Journal Article - Case Studies in Construction Materials
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Set-on-Demand%203D%20Concrete%20Printing%20Construction%20and%20Potential%20Outcome%20of%20Shotcrete-Accelerators%20on%20Its%20Hardened%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=set-on-demand+3d+concrete+printing+construction+and+potential+outcome+of+shotcrete-accelerators+on+its+hardened+properties&as_occt=title&as_sauthors=rehman&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149667911&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000954522200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e01955" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

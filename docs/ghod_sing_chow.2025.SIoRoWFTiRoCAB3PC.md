@@ -19,14 +19,15 @@ tags:
 ---
 
 #Some Insights on Role of Water Film-Thickness in Rheology of Coarse Aggregate-Based 3D Printable Concrete ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14455/isec.2025.12(1).cte-24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-24" target="_blank">10.14455/isec.2025.12(1).cte-24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14455/isec.2025.12(1).cte-24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-24" target="_blank">10.14455/isec.2025.12(1).cte-24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0796-2566" title="ORCID: 0000-0002-0796-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b>&nbsp;Swapnil</a></span>, <a href="../../../author/singh_bhupinder"><b>Singh</b>&nbsp;Bhupinder</a></span>, <a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b>&nbsp;Shubhankar</a></span><br>
 Journal Article - Proceedings of International Structural Engineering and Construction, Vol. 12, Iss. 1
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Some%20Insights%20on%20Role%20of%20Water%20Film-Thickness%20in%20Rheology%20of%20Coarse%20Aggregate-Based%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=some+insights+on+role+of+water+film-thickness+in+rheology+of+coarse+aggregate-based+3d+printable+concrete&as_occt=title&as_sauthors=ghodke&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14455/isec.2025.12(1).cte-24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

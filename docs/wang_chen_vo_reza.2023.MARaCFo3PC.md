@@ -19,14 +19,15 @@ tags:
 
 #Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107309" target="_blank">10.1016/j.jobe.2023.107309</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.107309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107309" target="_blank">10.1016/j.jobe.2023.107309</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9800-9748" title="ORCID: 0000-0001-9800-9748" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofan"><b>Wang</b>&nbsp;Chaofan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2862-3392" title="ORCID: 0000-0003-2862-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_bing"><b>Chen</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9263-5462" title="ORCID: 0000-0002-9263-5462" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vo_liem_thanh"><b>Vo</b>&nbsp;Thanh</a></span>, <a href="../../../author/rezania_mohammad"><b>Rezania</b>&nbsp;Mohammad</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 76, No. 107309
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Anisotropy%2C%20Rheology%20and%20Carbon%20Footprint%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+anisotropy%2C+rheology+and+carbon+footprint+of+3d+printable+concrete&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165072341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001045240600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.107309" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

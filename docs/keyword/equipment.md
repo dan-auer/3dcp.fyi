@@ -8,6 +8,10 @@ search:
 
 # #equipment
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (3)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (2)</button></a> <a href="../../keyword/design"><button class="btn">#design (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../girs_klig.2025.3CPR/">3D Concrete Printing Review:<br/>Equipment, Materials, Mix Design, and Properties</a></li>
   <li><a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lv_duan_xiao_ji.2024.Eo3PCwRFaCA/">Exploration of 3D Printed Concrete with Recycled Fine and Coarse Aggregates:<br/>Material, Equipment and Performance</a></li>

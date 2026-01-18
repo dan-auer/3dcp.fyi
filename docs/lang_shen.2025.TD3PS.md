@@ -13,14 +13,15 @@ tags:
 ---
 
 #Toward Durable 3D Printed Structures ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1704&context=icdcs) <a href="https://doi.org/10.5703/1288284318166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318166" target="_blank">10.5703/1288284318166</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1704&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318166" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318166" target="_blank">10.5703/1288284318166</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lange_a_david"><b>Lange</b>&nbsp;David</a></span>, <a href="../../../author/shen_chenyue"><b>Shen</b>&nbsp;Chenyue</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20Durable%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+durable+3d+printed+structures&as_occt=title&as_sauthors=lange&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318166" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

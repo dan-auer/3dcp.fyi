@@ -12,14 +12,15 @@ tags:
 ---
 
 #Vertical Modulations ([2019-10](date/2019/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia19_596.pdf) <a href="https://doi.org/10.52842/conf.acadia.2019.596" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.596" target="_blank">10.52842/conf.acadia.2019.596</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia19_596.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2019.596" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.596" target="_blank">10.52842/conf.acadia.2019.596</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoo_angela"><b>Yoo</b>&nbsp;Angela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 596-605
 
 <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Vertical%20Modulations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=vertical+modulations&as_occt=title&as_sauthors=anton&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2019.596" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

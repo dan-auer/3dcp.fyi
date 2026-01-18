@@ -25,7 +25,7 @@ Contribution - Proceedings of the 29th International Conference of the Associati
 
 <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mass-Customization%20of%20Integrated%20Green%20Wall%20Building%20Blocks%20through%20Clay%20Printing%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mass-customization+of+integrated+green+wall+building+blocks+through+clay+printing+formwork&as_occt=title&as_sauthors=xu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -19,14 +19,15 @@ tags:
 
 #Ontology-Driven Mixture-of-Domain Documentation&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">A Backbone Approach Enabling Question Answering for Additive Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15010133) <a href="https://doi.org/10.3390/buildings15010133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010133" target="_blank">10.3390/buildings15010133</a>
+<a href="https://doi.org/10.3390/buildings15010133" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15010133" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010133" target="_blank">10.3390/buildings15010133</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_chao"><b>Li</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8974-0926" title="ORCID: 0000-0001-8974-0926" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petzold_frank"><b>Petzold</b>&nbsp;Frank</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 1, No. 133
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/documentation"><button class="btn">#documentation</button></a> <a href="../../keyword/domain"><button class="btn">#domain</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/questions"><button class="btn">#questions</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Ontology-Driven%20Mixture-of-Domain%20Documentation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ontology-driven+mixture-of-domain+documentation&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214466051&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001393761000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15010133" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

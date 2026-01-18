@@ -21,14 +21,15 @@ tags:
 
 #Testing Prisms as a Method for Assessing Compressive Properties of 3D-Printed Structural Members&nbsp;([2025-03](date/2025/03))
 <div class="h1-like">Experimental and Numerical Studies</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112388) <a href="https://doi.org/10.1016/j.jobe.2025.112388" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112388" target="_blank">10.1016/j.jobe.2025.112388</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.112388" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112388" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112388" target="_blank">10.1016/j.jobe.2025.112388</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112388
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prism"><button class="btn">#prism</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Testing%20Prisms%20as%20a%20Method%20for%20Assessing%20Compressive%20Properties%20of%203D-Printed%20Structural%20Members" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=testing+prisms+as+a+method+for+assessing+compressive+properties+of+3d-printed+structural+members&as_occt=title&as_sauthors=khanverdi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000290637&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001453277600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112388" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

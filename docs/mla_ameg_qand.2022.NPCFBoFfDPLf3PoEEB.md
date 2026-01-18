@@ -19,14 +19,15 @@ tags:
 ---
 
 #New Printable Concrete Formulation Based on Fibers from Doum Palm Leaflets for 3D Printing of Energy-Efficient Buildings ([2022-01](date/2022/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-01942-5_81" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-01942-5_81" target="_blank">10.1007/978-3-031-01942-5_81</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-01942-5_81" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-01942-5_81" target="_blank">10.1007/978-3-031-01942-5_81</a>
 
 <a href="../../../author/m'lahfi_basma"><b>M’Lahfi</b>&nbsp;Basma</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5170-0491" title="ORCID: 0000-0002-5170-0491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amegouz_driss"><b>Amegouz</b>&nbsp;Driss</a></span>, <a href="../../../author/qandil_mostafa"><b>el&nbsp;Qandil</b>&nbsp;Mostafa</a></span><br>
 Contribution - Proceedings of the International Conference on Digital Technologies and Applications, pp. 813-824
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=New%20Printable%20Concrete%20Formulation%20Based%20on%20Fibers%20from%20Doum%20Palm%20Leaflets%20for%203D%20Printing%20of%20Energy-Efficient%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=new+printable+concrete+formulation+based+on+fibers+from+doum+palm+leaflets+for+3d+printing+of+energy-efficient+buildings&as_occt=title&as_sauthors=m%E2%80%99lahfi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130223520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001435908600081" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-01942-5_81" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

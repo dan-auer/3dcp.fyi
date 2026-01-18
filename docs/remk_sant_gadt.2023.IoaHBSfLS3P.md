@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigation of a Hybrid Binder System for Large-Scale 3D Printing ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2831) <a href="https://doi.org/10.1002/cepa.2831" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2831" target="_blank">10.1002/cepa.2831</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2831" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cepa.2831" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2831" target="_blank">10.1002/cepa.2831</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8471-0477" title="ORCID: 0000-0002-8471-0477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remke_sebastian"><b>Remke</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7940-5403" title="ORCID: 0000-0001-7940-5403" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadt_torben"><b>Gädt</b>&nbsp;Torben</a></span><br>
 Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 818-824
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20a%20Hybrid%20Binder%20System%20for%20Large-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+a+hybrid+binder+system+for+large-scale+3d+printing&as_occt=title&as_sauthors=remke&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cepa.2831" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

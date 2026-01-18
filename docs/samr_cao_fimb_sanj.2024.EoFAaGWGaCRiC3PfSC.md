@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effect of Fly-Ash and Ground Waste Glass as Cement Replacement in Concrete 3D Printing for Sustainable Construction ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3389/fbuil.2024.1430174) <a href="https://doi.org/10.3389/fbuil.2024.1430174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2024.1430174" target="_blank">10.3389/fbuil.2024.1430174</a>
+<a href="https://doi.org/10.3389/fbuil.2024.1430174" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3389/fbuil.2024.1430174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fbuil.2024.1430174" target="_blank">10.3389/fbuil.2024.1430174</a>
 
 <a href="../../../author/samrani_phebe"><b>Samrani</b>&nbsp;Phebe</a></span>, <a href="../../../author/cao_yifang"><b>Cao</b>&nbsp;Yifang</a></span>, <a href="../../../author/fimbres-weihs_gustavo"><b>Fimbres-Weihs</b>&nbsp;Gustavo</a></span>, <a href="../../../author/sanjaya_eric"><b>Sanjaya</b>&nbsp;Eric</a></span>, <a href="../../../author/abbas_ali"><b>Abbas</b>&nbsp;Ali</a></span><br>
 Journal Article - Frontiers in Built Environment, Vol. 10
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Fly-Ash%20and%20Ground%20Waste%20Glass%20as%20Cement%20Replacement%20in%20Concrete%203D%20Printing%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+fly-ash+and+ground+waste+glass+as+cement+replacement+in+concrete+3d+printing+for+sustainable+construction&as_occt=title&as_sauthors=samrani&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206352788&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001329204800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3389/fbuil.2024.1430174" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

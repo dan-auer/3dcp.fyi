@@ -8,6 +8,10 @@ search:
 
 # #relation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (18)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (11)</button></a> <a href="../../keyword/base"><button class="btn">#base (5)</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Development and Characteristic of 3D Printable Mortar with Waste-Glass-Powder ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/6/1476/pdf?version=1686118232) <a href="https://doi.org/10.3390/buildings13061476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13061476" target="_blank">10.3390/buildings13061476</a>
+<a href="https://www.mdpi.com/2075-5309/13/6/1476/pdf?version=1686118232" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13061476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13061476" target="_blank">10.3390/buildings13061476</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5167-0969" title="ORCID: 0000-0001-5167-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_qi"><b>Deng</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1574-0269" title="ORCID: 0000-0002-1574-0269" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_shuai"><b>Zou</b>&nbsp;Shuai</a></span>, <a href="../../../author/xi_yonghui"><b>Xi</b>&nbsp;Yonghui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-808X" title="ORCID: 0000-0003-0084-808X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_amardeep"><b>Singh</b>&nbsp;Amardeep</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 6, No. 1476
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Characteristic%20of%203D%20Printable%20Mortar%20with%20Waste-Glass-Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+and+characteristic+of+3d+printable+mortar+with+waste-glass-powder&as_occt=title&as_sauthors=deng&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163580265&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001014215500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13061476" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

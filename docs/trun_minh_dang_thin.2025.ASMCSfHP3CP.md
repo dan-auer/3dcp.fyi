@@ -19,14 +19,15 @@ tags:
 ---
 
 #Advanced Sliding Mode Control Strategy for High-Performance 3D Concrete Printing ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4052/6/2/22/pdf?version=1748509277) <a href="https://doi.org/10.3390/automation6020022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/automation6020022" target="_blank">10.3390/automation6020022</a>
+<a href="https://www.mdpi.com/2673-4052/6/2/22/pdf?version=1748509277" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/automation6020022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/automation6020022" target="_blank">10.3390/automation6020022</a>
 
 <a href="../../../author/trung-hieu_tran_nguyen"><b>Trung Hieu</b>&nbsp;Nguyen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3600-6634" title="ORCID: 0000-0003-3600-6634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/minh-trieu_nguyen"><b>Minh Trieu</b>&nbsp;Nguyen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5052-3027" title="ORCID: 0000-0001-5052-3027" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dang_dung_tri"><b>Dang</b>&nbsp;Tri</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0526-0736" title="ORCID: 0000-0003-0526-0736" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thinh_truong_nguyen"><b>Thinh</b>&nbsp;Nguyen</a></span><br>
 Journal Article - Automation, Vol. 6, Iss. 2, No. 22
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mode"><button class="btn">#mode</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sliding"><button class="btn">#sliding</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Sliding%20Mode%20Control%20Strategy%20for%20High-Performance%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advanced+sliding+mode+control+strategy+for+high-performance+3d+concrete+printing&as_occt=title&as_sauthors=trung+hieu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008887827&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/automation6020022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

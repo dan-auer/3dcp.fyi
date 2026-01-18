@@ -15,14 +15,15 @@ tags:
 
 #Printed Concrete as Formwork-Material&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">A Preliminary Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_59" target="_blank">10.1007/978-3-030-49916-7_59</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_59" target="_blank">10.1007/978-3-030-49916-7_59</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0759-2873" title="ORCID: 0000-0003-0759-2873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bekaert_michiel"><b>Bekaert</b>&nbsp;Michiel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 575-583
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printed%20Concrete%20as%20Formwork-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printed+concrete+as+formwork-material&as_occt=title&as_sauthors=bekaert&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088248540&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_59" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

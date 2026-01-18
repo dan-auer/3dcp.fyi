@@ -9,6 +9,60 @@ search:
 
 #  Özyurt Nilüfer 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4533-8702" target="_blank">0000-0003-4533-8702</a>
+
+    First Contribution
+    : 2022-08-26
+    
+    Last Contribution
+    : 2025-08-12
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 42
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a> (3)</li>
+        <li><a href="../../../author/nikravan_ata"><b>Nikravan</b> Ata</a> (3)</li>
+        <li><a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> (2)</li>
+        <li><a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> (2)</li>
+        <li><a href="../../../author/monte_renata"><b>Monte</b> Renata</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a>, <a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b> Zeynep</a>, <a href="../../../author/ozyurt_nilufer"><b>Özyurt</b> Nilüfer</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../aydi_kara_bund_ozyu.2022.ACEoSaNMotRoCMf3P/">A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (11)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (4)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (4)</li>
+        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (3)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (3)</li>
+        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

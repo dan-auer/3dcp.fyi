@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mesoscale Modeling of Anisotropic Compressive Behavior and Pull-Out Performance of 3D Printed Concrete with Steel Bars Using 3D RBSM ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142214) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" target="_blank">10.1016/j.conbuildmat.2025.142214</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142214" target="_blank">10.1016/j.conbuildmat.2025.142214</a>
 
 <a href="../../../author/yao_jiaxu"><b>Yao</b>&nbsp;Jiaxu</a></span>, <a href="../../../author/luo_jie"><b>Luo</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7803-7124" title="ORCID: 0000-0002-7803-7124" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qiu_minghong"><b>Qiu</b>&nbsp;Minghong</a></span>, <a href="../../../author/nagai_kohei"><b>Nagai</b>&nbsp;Kohei</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 489, No. 142214
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mesoscale%20Modeling%20of%20Anisotropic%20Compressive%20Behavior%20and%20Pull-Out%20Performance%20of%203D%20Printed%20Concrete%20with%20Steel%20Bars%20Using%203D%20RBSM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mesoscale+modeling+of+anisotropic+compressive+behavior+and+pull-out+performance+of+3d+printed+concrete+with+steel+bars+using+3d+rbsm&as_occt=title&as_sauthors=yao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007779365&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001517307100007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142214" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

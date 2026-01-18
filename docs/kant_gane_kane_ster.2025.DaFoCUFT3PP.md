@@ -15,14 +15,15 @@ tags:
 ---
 
 #Design and Fabrication of Customizable Urban Furniture Through 3D Printing Processes ([2025-08](date/2025/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2227-9717/13/8/2492/pdf?version=1754562919) <a href="https://doi.org/10.3390/pr13082492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13082492" target="_blank">10.3390/pr13082492</a>
+<a href="https://www.mdpi.com/2227-9717/13/8/2492/pdf?version=1754562919" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/pr13082492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13082492" target="_blank">10.3390/pr13082492</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7927-1468" title="ORCID: 0000-0001-7927-1468" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kantaros_antreas"><b>Kantaros</b>&nbsp;Antreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2081-4960" title="ORCID: 0000-0003-2081-4960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ganetsos_theodore"><b>Ganetsos</b>&nbsp;Theodore</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5114-888X" title="ORCID: 0000-0001-5114-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanetaki_zoe"><b>Kanetaki</b>&nbsp;Zoe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2951-6273" title="ORCID: 0000-0003-2951-6273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stergiou_constantinos"><b>Stergiou</b>&nbsp;Constantinos</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2373-9775" title="ORCID: 0000-0003-2373-9775" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pallis_evangelos"><b>Pallis</b>&nbsp;Evangelos</a></span>, <a href="../../../author/papoutsidakis_michail"><b>Papoutsidakis</b>&nbsp;Michail</a></span><br>
 Journal Article - Processes, Vol. 13, Iss. 8, No. 2492
 
 <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Fabrication%20of%20Customizable%20Urban%20Furniture%20Through%203D%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+fabrication+of+customizable+urban+furniture+through+3d+printing+processes&as_occt=title&as_sauthors=kantaros&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014267753&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001557611600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/pr13082492" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

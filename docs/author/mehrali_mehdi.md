@@ -9,6 +9,60 @@ search:
 
 #  Mehrali Mehdi 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5084-1823" target="_blank">0000-0002-5084-1823</a>
+
+    First Contribution
+    : 2023-07-06
+    
+    Last Contribution
+    : 2025-01-11
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 26
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> (3)</li>
+        <li><a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> (2)</li>
+        <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> (2)</li>
+        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a> (2)</li>
+        <li><a href="../../../author/ranjbar_navid"><b>Ranjbar</b> Navid</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a>, <a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rahe_hasa_mehr_almd.2023.PCMIi3PGC/">Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement:<br/>A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (10)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (7)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (4)</li>
+        <li><a href="../../../author/ascensao_guilherme"><b>Ascensão</b> Guilherme</a> (3)</li>
+        <li><a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a> (3)</li>
+        <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a> (2)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../lori_mehr.2025.FGCoPGUEaDDA/">Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches</a></li>
   <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lori_mehr.2024.MPaCDMi3PPGwCS/">Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of a Robotic Fabrication System for Cementitious Materials ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.17973/mmsj.2024_06_2024041" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17973/mmsj.2024_06_2024041" target="_blank">10.17973/mmsj.2024_06_2024041</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.17973/mmsj.2024_06_2024041" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17973/mmsj.2024_06_2024041" target="_blank">10.17973/mmsj.2024_06_2024041</a>
 
 <a href="../../../author/melter_oto"><b>Melter</b>&nbsp;Oto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2615-1873" title="ORCID: 0000-0002-2615-1873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/citek_david"><b>Čítek</b>&nbsp;David</a></span>, <a href="../../../author/hvizdal_ales"><b>Hvizdal</b>&nbsp;Ales</a></span>, <a href="../../../author/gabriel_michael"><b>Gabriel</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7213-097X" title="ORCID: 0000-0001-7213-097X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kolisko_jiri"><b>Kolísko</b>&nbsp;Jiří</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-888X" title="ORCID: 0000-0001-5069-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kotes_peter"><b>Koteš</b>&nbsp;Peter</a></span><br>
 Journal Article - MM Science Journal, Vol. 2024, Iss. 3
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Robotic%20Fabrication%20System%20for%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+robotic+fabrication+system+for+cementitious+materials&as_occt=title&as_sauthors=melter&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196291636&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001237134500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.17973/mmsj.2024_06_2024041" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

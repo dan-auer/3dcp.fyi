@@ -18,14 +18,15 @@ tags:
 
 #Deploying 3D Concrete Printing for Large-Scale Building Construction in Saudi Arabia&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">A Case Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1719&context=icdcs) <a href="https://doi.org/10.5703/1288284318114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318114" target="_blank">10.5703/1288284318114</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1719&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318114" target="_blank">10.5703/1288284318114</a>
 
 <a href="../../../author/altehaini_zakiah"><b>Altehaini</b>&nbsp;Zakiah</a></span>, <a href="../../../author/dayili_mohammed"><b>Dayili</b>&nbsp;Mohammed</a></span>, <a href="../../../author/alrajab_meshari"><b>Alrajab</b>&nbsp;Meshari</a></span>, <a href="../../../author/harbi_al_adel"><b>Harbi</b>&nbsp;Adel</a></span>, <a href="../../../author/alutaibi_ali"><b>Alutaibi</b>&nbsp;Ali</a></span>, <a href="../../../author/garatly_eyad"><b>Garatly</b>&nbsp;Eyad</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Deploying%203D%20Concrete%20Printing%20for%20Large-Scale%20Building%20Construction%20in%20Saudi%20Arabia" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=deploying+3d+concrete+printing+for+large-scale+building+construction+in+saudi+arabia&as_occt=title&as_sauthors=altehaini&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318114" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

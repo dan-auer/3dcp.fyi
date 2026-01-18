@@ -8,6 +8,10 @@ search:
 
 # #empirical
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/model"><button class="btn">#model (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (1)</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b> Alper</a>, <a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a>, <a href="../../../author/saritas_afsin"><b>Sarıtaş</b> Afsin</a>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bayr_shab_sar_mera.2025.ASEFfMASVaFMi3PC/">A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete</a></li>
   <li><a href="../../../author/mogaji_joanna_iseoluwa"><b>Mogaji</b> Iseoluwa</a>, <a href="../../../author/mewomo_cecilia_modupe"><b>Mewomo</b> Modupe</a>, <a href="../../../author/toyin_olaonipekun_james"><b>Toyin</b> James</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../moga_mewo_toyi.2023.KBttAo3PIiC/">Key Barriers to the Adoption of 3D Printing Innovation in Construction:<br/>A Review of Empirical Studies</a></li>

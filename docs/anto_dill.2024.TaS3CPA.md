@@ -17,14 +17,15 @@ tags:
 
 #Towards a Sustainable 3D‐Concrete‐Printed Architecture&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Assemblies, Detailing and Ornamentation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.3096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3096" target="_blank">10.1002/ad.3096</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/ad.3096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3096" target="_blank">10.1002/ad.3096</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Journal Article - Architectural Design, Vol. 94, Iss. 5, pp. 48-55
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detail"><button class="btn">#detail</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20a%20Sustainable%203D%E2%80%90Concrete%E2%80%90Printed%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+a+sustainable+3d%E2%80%90concrete%E2%80%90printed+architecture&as_occt=title&as_sauthors=anton&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203383469&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001310531700008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/ad.3096" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

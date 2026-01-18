@@ -17,14 +17,15 @@ tags:
 ---
 
 #Preliminary Investigation into the Development of Cement-Free Composites Using Emerging Alternatives for 3D Printing ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14455/isec.2025.12(1).cte-10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-10" target="_blank">10.14455/isec.2025.12(1).cte-10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14455/isec.2025.12(1).cte-10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-10" target="_blank">10.14455/isec.2025.12(1).cte-10</a>
 
 <a href="../../../author/bawab_jad"><b>Bawab</b>&nbsp;Jad</a></span>, <a href="../../../author/dieb_amr"><b>el&nbsp;Dieb</b>&nbsp;Amr</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9349-350X" title="ORCID: 0000-0001-9349-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_hilal"><b>el&nbsp;Hassan</b>&nbsp;Hilal</a></span><br>
 Journal Article - Proceedings of International Structural Engineering and Construction, Vol. 12, Iss. 1
 
 <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preliminary%20Investigation%20into%20the%20Development%20of%20Cement-Free%20Composites%20Using%20Emerging%20Alternatives%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preliminary+investigation+into+the+development+of+cement-free+composites+using+emerging+alternatives+for+3d+printing&as_occt=title&as_sauthors=bawab&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14455/isec.2025.12(1).cte-10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

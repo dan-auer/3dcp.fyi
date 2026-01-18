@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/2170/pdf?version=1721030250) <a href="https://doi.org/10.3390/buildings14072170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072170" target="_blank">10.3390/buildings14072170</a>
+<a href="https://www.mdpi.com/2075-5309/14/7/2170/pdf?version=1721030250" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14072170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072170" target="_blank">10.3390/buildings14072170</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5718-4654" title="ORCID: 0000-0001-5718-4654" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gopu_vijaya"><b>Gopu</b>&nbsp;Vijaya</a></span>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b>&nbsp;Tyson</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 7, No. 2170
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Compressive%20Load-Bearing-Analysis%20of%203D%20Printed%20Circular%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+compressive+load-bearing-analysis+of+3d+printed+circular+elements&as_occt=title&as_sauthors=giwa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199602838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001276642600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14072170" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -74,8 +75,9 @@ Journal Article - Buildings, Vol. 14, Iss. 7, No. 2170
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b> Boshra</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../hasa_besh_dora.2025.ACPCP/">Additively Constructed Plain Concrete Pipes:<br/>Structural Performance and Site Implementation</a></li>
     </ol>
 </div>

@@ -19,7 +19,7 @@ Contribution - Additive Manufacturing for Construction
 
 <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Opportunities%20and%20Future%20Perspectives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=opportunities+and+future+perspectives&as_occt=title&as_sauthors=wangler&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182300903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/amc.66410.219" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #recycling
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (132)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (92)</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate (57)</button></a> <a href="../../keyword/property"><button class="btn">#property (40)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (33)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>

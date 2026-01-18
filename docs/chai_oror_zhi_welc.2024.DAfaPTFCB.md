@@ -22,7 +22,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/funicular"><button class="btn">#funicular</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20Approach%20for%20a%20Post-Tensioned%20Funicular%20Concrete%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+approach+for+a+post-tensioned+funicular+concrete+beam&as_occt=title&as_sauthors=chai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

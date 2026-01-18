@@ -26,7 +26,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/laser"><button class="btn">#laser</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Alkali-Activated%20Materials%20by%20Laser-Induced%20Slip%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+alkali-activated+materials+by+laser-induced+slip+casting&as_occt=title&as_sauthors=hlav%C3%A1%C4%8Dek&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408191216-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

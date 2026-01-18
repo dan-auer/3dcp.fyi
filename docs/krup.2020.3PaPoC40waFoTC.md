@@ -13,14 +13,15 @@ tags:
 ---
 
 #3D Printers as Part of Construction 4.0 with a Focus on Transport Constructions ([2020-06](date/2020/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1757-899X/867/1/012025/pdf) <a href="https://doi.org/10.1088/1757-899x/867/1/012025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/867/1/012025" target="_blank">10.1088/1757-899x/867/1/012025</a>
+<a href="https://iopscience.iop.org/article/10.1088/1757-899X/867/1/012025/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/867/1/012025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/867/1/012025" target="_blank">10.1088/1757-899x/867/1/012025</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2301-3432" title="ORCID: 0000-0002-2301-3432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krupik_pavel"><b>Krupík</b>&nbsp;Pavel</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 867, Iss. 1
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printers%20as%20Part%20of%20Construction%204.0%20with%20a%20Focus%20on%20Transport%20Constructions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printers+as+part+of+construction+4.0+with+a+focus+on+transport+constructions&as_occt=title&as_sauthors=krup%C3%ADk&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85093936473&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/867/1/012025" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

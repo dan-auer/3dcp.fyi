@@ -17,14 +17,15 @@ tags:
 ---
 
 #Early Hydration and Mechanical Strength of Calcite-Ettringite-Seeds-Added Cement-Mixture for 3D Printing ([2021-07](date/2021/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/17436753.2021.1950482" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17436753.2021.1950482" target="_blank">10.1080/17436753.2021.1950482</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17436753.2021.1950482" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17436753.2021.1950482" target="_blank">10.1080/17436753.2021.1950482</a>
 
 <a href="../../../author/lim_taeheun"><b>Lim</b>&nbsp;Taeheun</a></span>, <a href="../../../author/kim_seonghoon"><b>Kim</b>&nbsp;Seonghoon</a></span>, <a href="../../../author/jo_kanghee"><b>Jo</b>&nbsp;Kanghee</a></span>, <a href="../../../author/jo_ilguk"><b>Jo</b>&nbsp;Ilguk</a></span>, <a href="../../../author/lee_eunkyung"><b>Lee</b>&nbsp;Eunkyung</a></span>, <a href="../../../author/lee_heesoo"><b>Lee</b>&nbsp;Heesoo</a></span><br>
 Journal Article - Advances in Applied Ceramics, Vol. 120, Iss. 5-8, pp. 267-274
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Early%20Hydration%20and%20Mechanical%20Strength%20of%20Calcite-Ettringite-Seeds-Added%20Cement-Mixture%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=early+hydration+and+mechanical+strength+of+calcite-ettringite-seeds-added+cement-mixture+for+3d+printing&as_occt=title&as_sauthors=lim&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85110420728&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000672195100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17436753.2021.1950482" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

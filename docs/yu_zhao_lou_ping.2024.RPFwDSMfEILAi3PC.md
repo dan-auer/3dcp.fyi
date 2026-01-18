@@ -20,14 +20,15 @@ tags:
 ---
 
 #Recycled PET Fibers with Dopamine Surface Modification for Enhanced Inter-Layer Adhesion in 3D Printed Concrete ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17205126) <a href="https://doi.org/10.3390/ma17205126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17205126" target="_blank">10.3390/ma17205126</a>
+<a href="https://doi.org/10.3390/ma17205126" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17205126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17205126" target="_blank">10.3390/ma17205126</a>
 
 <a href="../../../author/yu_ke-ke"><b>Yu</b>&nbsp;Ke-Ke</a></span>, <a href="../../../author/zhao_tai-qi"><b>Zhao</b>&nbsp;Tai-Qi</a></span>, <a href="../../../author/lou_qi-ling"><b>Lou</b>&nbsp;Qi-Ling</a></span>, <a href="../../../author/ping_yang"><b>Ping</b>&nbsp;Yang</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 20
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recycled%20PET%20Fibers%20with%20Dopamine%20Surface%20Modification%20for%20Enhanced%20Inter-Layer%20Adhesion%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recycled+pet+fibers+with+dopamine+surface+modification+for+enhanced+inter-layer+adhesion+in+3d+printed+concrete&as_occt=title&as_sauthors=yu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207333979&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001341567500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17205126" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

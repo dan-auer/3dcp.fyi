@@ -20,14 +20,15 @@ tags:
 ---
 
 #Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cmtd.202500007) <a href="https://doi.org/10.1002/cmtd.202500007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cmtd.202500007" target="_blank">10.1002/cmtd.202500007</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cmtd.202500007" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cmtd.202500007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cmtd.202500007" target="_blank">10.1002/cmtd.202500007</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2781-5616" title="ORCID: 0000-0003-2781-5616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yong"><b>Ding</b>&nbsp;Yong</a></span>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b>&nbsp;Robert</a></span>, <a href="../../../author/cen_tianyu"><b>Cen</b>&nbsp;Tianyu</a></span>, <a href="../../../author/chen_xiulin"><b>Chen</b>&nbsp;Xiulin</a></span>, <a href="../../../author/zhang_zidong"><b>Zhang</b>&nbsp;Zidong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/angst_m_ueli"><b>Angst</b>&nbsp;Ueli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5682-287X" title="ORCID: 0000-0001-5682-287X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moretti_christian"><b>Moretti</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0028-072X" title="ORCID: 0000-0003-0028-072X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burgert_ingo"><b>Burgert</b>&nbsp;Ingo</a></span><br>
-Journal Article - Chemistry–Methods
+Journal Article - Chemistry Methods
 
 <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Valorization%20of%20Demolition%20Waste%20and%20Biomass%20Byproduct%20into%20Sustainable%20Building%20Materials%20via%20Carbon%20Mineralization%20and%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=valorization+of+demolition+waste+and+biomass+byproduct+into+sustainable+building+materials+via+carbon+mineralization+and+3d+printing&as_occt=title&as_sauthors=ding&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019498185&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cmtd.202500007" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -65,7 +66,7 @@ Journal Article - Chemistry–Methods
       title             = "Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing",
       doi               = "10.1002/cmtd.202500007",
       year              = "2025",
-      journal           = "Chemistry–Methods",
+      journal           = "Chemistry Methods",
     }
 
 
@@ -75,10 +76,10 @@ Journal Article - Chemistry–Methods
 
     === "IEEE"
 
-    <span id="iee">Y. Ding, “Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing”, <i>Chemistry–Methods</i>, 2025, doi: 10.1002/cmtd.202500007.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">Y. Ding, “Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing”, <i>Chemistry Methods</i>, 2025, doi: 10.1002/cmtd.202500007.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Ding, Yong, Robert Oswin Kindler, Tianyu Cen, Xiulin Chen, Zidong Zhang, Ueli M. Angst, Christian Moretti, and Ingo Burgert. “Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing”. <i>Chemistry–Methods</i>, 2025. https://doi.org/10.1002/cmtd.202500007.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Ding, Yong, Robert Oswin Kindler, Tianyu Cen, Xiulin Chen, Zidong Zhang, Ueli M. Angst, Christian Moretti, and Ingo Burgert. “Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing”. <i>Chemistry Methods</i>, 2025. https://doi.org/10.1002/cmtd.202500007.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

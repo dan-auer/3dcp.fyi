@@ -8,7 +8,12 @@ search:
 
 # #path
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (38)</button></a> <a href="../../keyword/print"><button class="btn">#print (38)</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization (15)</button></a> <a href="../../keyword/tool"><button class="btn">#tool (15)</button></a> <a href="../../keyword/base"><button class="btn">#base (14)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/sun_xiao"><b>Sun</b> Xiao</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liao_sun_chen.2026.STaPOf3CPBoDFS/">Simultaneous Topology and Path Optimization for 3D Concrete Printing Based on Discrete Frame Structures</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../naka_zhou_hash_sugi.2025.AEMoFBo3PCwDPP/">Acoustic Emission Monitoring of Fracture Behaviour of 3D Printed Concrete with Different Printing Paths</a></li>
   <li><a href="../../../author/ye_fan"><b>Ye</b> Fan</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ye_ren.2026.AECBRLPOMf3CP/">A Eulerian Circuit-Based Reinforcement Learning Path Optimization Method for 3D Concrete Printing</a></li>

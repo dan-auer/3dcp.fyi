@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110516" target="_blank">10.1016/j.jobe.2024.110516</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.110516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110516" target="_blank">10.1016/j.jobe.2024.110516</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9731-0245" title="ORCID: 0000-0002-9731-0245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernand_muhirwa"><b>Fernand</b>&nbsp;Muhirwa</a></span>, <a href="../../../author/li_yaqi"><b>Li</b>&nbsp;Yaqi</a></span>, <a href="../../../author/qian_qiwei"><b>Qian</b>&nbsp;Qiwei</a></span>, <a href="../../../author/chi_yin"><b>Chi</b>&nbsp;Yin</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span><br>
 Journal Article - Journal of Building Engineering, No. 110516
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Coarse%20Aggregates%20on%203D%20Printability%20and%20Mechanical%20Properties%20of%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+coarse+aggregates+on+3d+printability+and+mechanical+properties+of+ultra-high-performance+fiber-reinforced+concrete&as_occt=title&as_sauthors=fernand&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202044027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001302913000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.110516" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

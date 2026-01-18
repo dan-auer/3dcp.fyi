@@ -16,14 +16,15 @@ tags:
 ---
 
 #3D Concrete Printing Frame Structure in Granular Medium ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2024.3.263" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2024.3.263" target="_blank">10.52842/conf.caadria.2024.3.263</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2024.3.263" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2024.3.263" target="_blank">10.52842/conf.caadria.2024.3.263</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-1207-6737" title="ORCID: 0009-0001-1207-6737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_hwan_il"><b>Kim</b>&nbsp;Il</a></span><br>
 Contribution - Proceedings of the 29th International Conference of the Association for Computer- Aided Architectural Design Research in Asia, pp. 253-260
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/frame"><button class="btn">#frame</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/medium"><button class="btn">#medium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Frame%20Structure%20in%20Granular%20Medium" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+frame+structure+in+granular+medium&as_occt=title&as_sauthors=kim&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2024.3.263" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

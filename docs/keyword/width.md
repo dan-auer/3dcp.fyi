@@ -8,6 +8,10 @@ search:
 
 # #width
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/filament"><button class="btn">#filament (4)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (4)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a>, <a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a>, <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mak_kim_dong_shim.2025.CWIoRCBw3CPFUMP/">Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters</a></li>
   <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>

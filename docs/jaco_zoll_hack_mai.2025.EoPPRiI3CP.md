@@ -19,14 +19,15 @@ tags:
 
 #Encasement of Pre-Placed Reinforcement in Injection 3D Concrete Printing&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">The Effect of Rheology and Process Parameters</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/2771/3191) <a href="https://doi.org/10.52825/ocp.v7i.2771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2771" target="_blank">10.52825/ocp.v7i.2771</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/2771/3191" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v7i.2771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2771" target="_blank">10.52825/ocp.v7i.2771</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-3083-0725" title="ORCID: 0009-0007-3083-0725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacobi_ando"><b>Jacobi</b>&nbsp;Ando</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1848-2955" title="ORCID: 0009-0001-1848-2955" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zollner_jan-phillip"><b>Zöllner</b>&nbsp;Jan-Phillip</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span><br>
 Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Encasement%20of%20Pre-Placed%20Reinforcement%20in%20Injection%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=encasement+of+pre-placed+reinforcement+in+injection+3d+concrete+printing&as_occt=title&as_sauthors=jacobi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v7i.2771" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

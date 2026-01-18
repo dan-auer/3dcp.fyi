@@ -21,14 +21,15 @@ tags:
 ---
 
 #Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing. ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.dibe.2025.100806" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2025.100806" target="_blank">10.1016/j.dibe.2025.100806</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2025.100806" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2025.100806" target="_blank">10.1016/j.dibe.2025.100806</a>
 
 <a href="../../../author/cao_jing"><b>Cao</b>&nbsp;Jing</a></span>, <a href="../../../author/yang_xiaojie"><b>Yang</b>&nbsp;Xiaojie</a></span>, <a href="../../../author/shi_yaming"><b>Shi</b>&nbsp;Yaming</a></span>, <a href="../../../author/yang_yi"><b>Yang</b>&nbsp;Yi</a></span>, <a href="../../../author/qin_yuan"><b>Qin</b>&nbsp;Yuan</a></span>, <a href="../../../author/chai_junrui"><b>Chai</b>&nbsp;Junrui</a></span>, <a href="../../../author/xu_zengguang"><b>Xu</b>&nbsp;Zengguang</a></span><br>
 Journal Article - Developments in the Built Environment, No. 100806
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Analysis%20of%20Mechanical%20Properties%20of%20Steel%20Fiber%20Composite%20Cement%20Mortar%20Considering%20Non-Uniformity%20in%203D%20Printing." title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+analysis+of+mechanical+properties+of+steel+fiber+composite+cement+mortar+considering+non-uniformity+in+3d+printing.&as_occt=title&as_sauthors=cao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2025.100806" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

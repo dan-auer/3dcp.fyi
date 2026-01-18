@@ -9,6 +9,60 @@ search:
 
 #  Ravichandran Darssni 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-04-27
+    
+    Last Contribution
+    : 2025-09-24
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 21
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (6)</li>
+        <li><a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> (2)</li>
+        <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (2)</li>
+        <li><a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> (2)</li>
+        <li><a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../prem_ravi_kali_ambi.2022.CEoRMf3PC/">Comparative Evaluation of Rheological Models for 3D Printable Concrete</a> (10)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (14)</li>
+        <li><a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> (11)</li>
+        <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (9)</li>
+        <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (8)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (7)</li>
+        <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (4)</li>
+        <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (3)</li>
+        <li><a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> (3)</li>
+        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
   <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>

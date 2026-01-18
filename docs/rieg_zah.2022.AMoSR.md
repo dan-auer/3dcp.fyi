@@ -23,14 +23,15 @@ tags:
 
 #Additive Manufacturing of Steel-Reinforcements&nbsp;([2022-08](date/2022/08))
 <div class="h1-like">Integration of WAAM Reinforcements in Particle-Bed 3D Printing with Selective Cement-Paste-Intrusion</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1515/zwf-2022-1091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/zwf-2022-1091" target="_blank">10.1515/zwf-2022-1091</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1515/zwf-2022-1091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/zwf-2022-1091" target="_blank">10.1515/zwf-2022-1091</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6754-6372" title="ORCID: 0000-0001-6754-6372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riegger_felix"><b>Riegger</b>&nbsp;Felix</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zah_f_michael"><b>Zäh</b>&nbsp;Michael</a></span><br>
 Journal Article - Journal of Plastics Technology, Vol. 117, Iss. 7-8, pp. 448-451
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Steel-Reinforcements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+steel-reinforcements&as_occt=title&as_sauthors=riegger&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136023698&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1515/zwf-2022-1091" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

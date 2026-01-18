@@ -25,7 +25,7 @@ Contribution - Proceedings of the 6th fib International Congress
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bezier"><button class="btn">#bezier</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Overcoming%20Fabrication-Constraints%20in%20Concrete%203D%20Printing%20Using%20Interlacing%20Bezier-Curves" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=overcoming+fabrication-constraints+in+concrete+3d+printing+using+interlacing+bezier-curves&as_occt=title&as_sauthors=pastore&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

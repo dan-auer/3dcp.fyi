@@ -18,14 +18,15 @@ tags:
 ---
 
 #Thixotropy and Interfacial Bond Strengths of Polymer-Modified Printed Mortars ([2019-07](date/2019/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-019-1356-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-019-1356-7" target="_blank">10.1617/s11527-019-1356-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-019-1356-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-019-1356-7" target="_blank">10.1617/s11527-019-1356-7</a>
 
 <a href="../../../author/sakka_fatima"><b>el&nbsp;Sakka</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span>, <a href="../../../author/nakhoul_charbel"><b>Nakhoul</b>&nbsp;Charbel</a></span><br>
 Journal Article - Materials and Structures, Vol. 52, Iss. 4
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thixotropy%20and%20Interfacial%20Bond%20Strengths%20of%20Polymer-Modified%20Printed%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thixotropy+and+interfacial+bond+strengths+of+polymer-modified+printed+mortars&as_occt=title&as_sauthors=sakka&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068756359&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000475658100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-019-1356-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

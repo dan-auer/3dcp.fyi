@@ -19,14 +19,15 @@ tags:
 ---
 
 #Study on Criticality of Coarse Aggregate Content on Early-Age Properties of 3D Printable Concrete ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2024.136448" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.136448" target="_blank">10.1016/j.matlet.2024.136448</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2024.136448" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.136448" target="_blank">10.1016/j.matlet.2024.136448</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-2977-8226" title="ORCID: 0009-0008-2977-8226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b>&nbsp;Dhayalini</a></span>, <a href="../../../author/sasikumar_athira"><b>Sasikumar</b>&nbsp;Athira</a></span>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b>&nbsp;Vishnuvarthanan</a></span><br>
 Journal Article - Materials Letters, Vol. 365, No. 136448
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Criticality%20of%20Coarse%20Aggregate%20Content%20on%20Early-Age%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+criticality+of+coarse+aggregate+content+on+early-age+properties+of+3d+printable+concrete&as_occt=title&as_sauthors=balasubramanian&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189931758&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001226128800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2024.136448" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

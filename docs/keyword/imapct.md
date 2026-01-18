@@ -8,6 +8,10 @@ search:
 
 # #imapct
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (4)</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer (3)</button></a> <a href="../../keyword/property"><button class="btn">#property (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/jia_yanhong"><b>Jia</b> Yanhong</a>, <a href="../../../author/chen_yao"><b>Chen</b> Yao</a>, <a href="../../../author/li_yanchen"><b>Li</b> Yanchen</a>, <a href="../../../author/le_huirong"><b>Le</b> Huirong</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jia_chen_li_le.2025.IotRPoDPoMBG/">Impacts of the Rheological Performance on Dynamic Printing of Metakaolin-Based Geopolymer</a></li>

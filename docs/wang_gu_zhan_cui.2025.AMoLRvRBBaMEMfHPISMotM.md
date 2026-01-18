@@ -21,14 +21,15 @@ tags:
 ---
 
 #Additive Manufacturing of Lunar Regolith via Resin-Based Binder and Material Extrusion Method for High-Performance In-Situ Manufacturing on the Moon ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.amf.2025.200233) <a href="https://doi.org/10.1016/j.amf.2025.200233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.amf.2025.200233" target="_blank">10.1016/j.amf.2025.200233</a>
+<a href="https://doi.org/10.1016/j.amf.2025.200233" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.amf.2025.200233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.amf.2025.200233" target="_blank">10.1016/j.amf.2025.200233</a>
 
 <a href="../../../author/wang_tongcai"><b>Wang</b>&nbsp;Tongcai</a></span>, <a href="../../../author/gu_guangshuai"><b>Gu</b>&nbsp;Guangshuai</a></span>, <a href="../../../author/zhang_rihan"><b>Zhang</b>&nbsp;Rihan</a></span>, <a href="../../../author/cui_qianshun"><b>Cui</b>&nbsp;Qianshun</a></span>, <a href="../../../author/wang_gong"><b>Wang</b>&nbsp;Gong</a></span><br>
 Journal Article - Additive Manufacturing Frontiers, No. 200233
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/resin"><button class="btn">#resin</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Lunar%20Regolith%20via%20Resin-Based%20Binder%20and%20Material%20Extrusion%20Method%20for%20High-Performance%20In-Situ%20Manufacturing%20on%20the%20Moon" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+lunar+regolith+via+resin-based+binder+and+material+extrusion+method+for+high-performance+in-situ+manufacturing+on+the+moon&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012618898&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.amf.2025.200233" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

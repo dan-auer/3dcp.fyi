@@ -8,6 +8,10 @@ search:
 
 # #interval
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/time"><button class="btn">#time (7)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a>, <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL/">Effects of Printing Interval Time on the Structural Performance of 3D-Printed Beams Under Four-Point Bending Loads</a></li>
   <li><a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/lin_yini"><b>Lin</b> Yini</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tang_yan_han_lin.2025.MPoEB3PCCtTotPLaPTI/">Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval</a></li>

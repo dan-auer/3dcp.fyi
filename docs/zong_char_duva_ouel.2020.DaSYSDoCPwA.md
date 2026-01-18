@@ -18,14 +18,15 @@ tags:
 ---
 
 #Dynamic and Static Yield-Stress Determination of Cementitious Paste with Admixtures ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://espace2.etsmtl.ca/id/eprint/20999/1/Ouellet-Plamondon-C-2020-20999.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_38" target="_blank">10.1007/978-3-030-49916-7_38</a>
+<a href="https://espace2.etsmtl.ca/id/eprint/20999/1/Ouellet-Plamondon-C-2020-20999.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_38" target="_blank">10.1007/978-3-030-49916-7_38</a>
 
 <a href="../../../author/zongo_karim"><b>Zongo</b>&nbsp;Karim</a></span>, <a href="../../../author/charrier_malo"><b>Charrier</b>&nbsp;Malo</a></span>, <a href="../../../author/duval_corentin"><b>Duval</b>&nbsp;Corentin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 370-378
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20and%20Static%20Yield-Stress%20Determination%20of%20Cementitious%20Paste%20with%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+and+static+yield-stress+determination+of+cementitious+paste+with+admixtures&as_occt=title&as_sauthors=zongo&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088278373&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_38" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

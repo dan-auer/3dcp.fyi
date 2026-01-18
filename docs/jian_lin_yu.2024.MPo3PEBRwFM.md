@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical Properties of 3D Printed ECC Beams Reinforced with FRP Mesh ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_27" target="_blank">10.1007/978-3-031-64269-2_27</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_27" target="_blank">10.1007/978-3-031-64269-2_27</a>
 
 <a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <a href="../../../author/lin_manfang"><b>Lin</b>&nbsp;Manfang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
 Contribution - Construction 3D Printing, pp. 213-221
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D%20Printed%20ECC%20Beams%20Reinforced%20with%20FRP%20Mesh" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+3d+printed+ecc+beams+reinforced+with+frp+mesh&as_occt=title&as_sauthors=jiang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201297575&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800027" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection ([2020-10](date/2020/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10845-020-01684-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10845-020-01684-w" target="_blank">10.1007/s10845-020-01684-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s10845-020-01684-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10845-020-01684-w" target="_blank">10.1007/s10845-020-01684-w</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8033-9287" title="ORCID: 0000-0002-8033-9287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/davtalab_omid"><b>Davtalab</b>&nbsp;Omid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Journal Article - Journal of Intelligent Manufacturing, Vol. 33, Iss. 3, pp. 771-784
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Inspection%20in%20Robotic%20Additive%20Manufacturing%20Using%20Deep%20Learning%20for%20Layer%20Deformation%20Detection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+inspection+in+robotic+additive+manufacturing+using+deep+learning+for+layer+deformation+detection&as_occt=title&as_sauthors=davtalab&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85095679786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000576624700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s10845-020-01684-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Robotic 3D Printing of Structural Slabs Using Polyethylene Waste as Filler to Reduce Carbon Footprint ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00119-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00119-9" target="_blank">10.1007/s41693-024-00119-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-024-00119-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00119-9" target="_blank">10.1007/s41693-024-00119-9</a>
 
 <a href="../../../author/patel_abhishek"><b>Patel</b>&nbsp;Abhishek</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-7699" title="ORCID: 0000-0002-9957-7699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raphael_benny"><b>Raphael</b>&nbsp;Benny</a></span><br>
 Journal Article - Construction Robotics, Vol. 8, Iss. 1
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Structural%20Slabs%20Using%20Polyethylene%20Waste%20as%20Filler%20to%20Reduce%20Carbon%20Footprint" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+3d+printing+of+structural+slabs+using+polyethylene+waste+as+filler+to+reduce+carbon+footprint&as_occt=title&as_sauthors=patel&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-024-00119-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

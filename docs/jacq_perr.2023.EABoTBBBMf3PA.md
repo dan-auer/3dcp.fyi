@@ -22,14 +22,15 @@ tags:
 
 #Evolutionary Approach Based on Thermoplastic Bio-Based Building Material for 3D Printing Applications&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">An Insight into a Mix of Clay and Wax</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33465-8_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33465-8_21" target="_blank">10.1007/978-3-031-33465-8_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33465-8_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33465-8_21" target="_blank">10.1007/978-3-031-33465-8_21</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Contribution - Bio-Based Building Materials, pp. 271-279
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/thermoplast"><button class="btn">#thermoplast</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evolutionary%20Approach%20Based%20on%20Thermoplastic%20Bio-Based%20Building%20Material%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evolutionary+approach+based+on+thermoplastic+bio-based+building+material+for+3d+printing+applications&as_occt=title&as_sauthors=jacquet&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162252374&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33465-8_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Influence of Nano-Coated Micro-Steel-Fibers on Mechanical and Self-Healing Properties of 3D Printable Concrete Using Graphene-Oxide and Polyvinyl-Alcohol ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/01694243.2023.2253623" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2023.2253623" target="_blank">10.1080/01694243.2023.2253623</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/01694243.2023.2253623" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2023.2253623" target="_blank">10.1080/01694243.2023.2253623</a>
 
 <a href="../../../author/ahmadi_khatereh"><b>Ahmadi</b>&nbsp;Khatereh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Journal of Adhesion Science and Technology, pp. 1-22
 
 <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Nano-Coated%20Micro-Steel-Fibers%20on%20Mechanical%20and%20Self-Healing%20Properties%20of%203D%20Printable%20Concrete%20Using%20Graphene-Oxide%20and%20Polyvinyl-Alcohol" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+nano-coated+micro-steel-fibers+on+mechanical+and+self-healing+properties+of+3d+printable+concrete+using+graphene-oxide+and+polyvinyl-alcohol&as_occt=title&as_sauthors=ahmadi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169881788&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001058877800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/01694243.2023.2253623" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of a Prototype Concept for Using 3D Concrete Printing in Pavement Construction ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/ieeeconf58110.2023.10520564" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ieeeconf58110.2023.10520564" target="_blank">10.1109/ieeeconf58110.2023.10520564</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/ieeeconf58110.2023.10520564" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ieeeconf58110.2023.10520564" target="_blank">10.1109/ieeeconf58110.2023.10520564</a>
 
 <a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b>&nbsp;Bahirathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Contribution - Proceedings of the 2023 IEEE Engineering Informatics
 
 <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Prototype%20Concept%20for%20Using%203D%20Concrete%20Printing%20in%20Pavement%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+prototype+concept+for+using+3d+concrete+printing+in+pavement+construction&as_occt=title&as_sauthors=koneswaran&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193939040&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/ieeeconf58110.2023.10520564" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

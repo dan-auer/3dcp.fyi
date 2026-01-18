@@ -17,14 +17,15 @@ tags:
 ---
 
 #Modeling and Design-Optimization of Robotic Hoses for 3D Printing of Cement ([2020-11](date/2020/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/imece2020-23829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2020-23829" target="_blank">10.1115/imece2020-23829</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/imece2020-23829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2020-23829" target="_blank">10.1115/imece2020-23829</a>
 
 <a href="../../../author/sterckx_peter"><b>Sterckx</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walker_d_ian"><b>Walker</b>&nbsp;Ian</a></span><br>
 Contribution - Volume 6
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/hose"><button class="btn">#hose</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%20and%20Design-Optimization%20of%20Robotic%20Hoses%20for%203D%20Printing%20of%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling+and+design-optimization+of+robotic+hoses+for+3d+printing+of+cement&as_occt=title&as_sauthors=sterckx&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101282005&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/imece2020-23829" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

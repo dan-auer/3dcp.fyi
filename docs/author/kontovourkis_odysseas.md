@@ -9,6 +9,60 @@ search:
 
 #  Kontovourkis Odysseas 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5804-9657" target="_blank">0000-0001-5804-9657</a>
+
+    First Contribution
+    : 2017-07-01
+    
+    Last Contribution
+    : 2025-06-24
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 91
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a> (4)</li>
+        <li><a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> (4)</li>
+        <li><a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> (2)</li>
+        <li><a href="../../../author/dimitriou_savvas"><b>Dimitriou</b> Savvas</a> (2)</li>
+        <li><a href="../../../author/phocas_c_marios"><b>Phocas</b> Marios</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a> (56)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (11)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (10)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> (5)</li>
+        <li><a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> (4)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (4)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a>, <a href="../../../author/andreou_alexis"><b>Andreou</b> Alexis</a>, <a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kont_geor_andr_andr.2025.MaELHtWRi3THGC/">Measuring and Evaluating Layer Height to Width Ratio in 3DCP Towards Higher Geometric Conformity</a></li>
   <li><a href="../../../author/andreou_vasilis"><b>Andreou</b> Vasilis</a>, <a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../andr_kont.2024.FOfC3CP/">Formwork-Optimization for Complex 3D Concrete Printing:<br/>A Unified Theoretical, Digital, and Experimental Framework</a></li>

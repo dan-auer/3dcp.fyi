@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111649" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111649" target="_blank">10.1016/j.jobe.2024.111649</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111649" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111649" target="_blank">10.1016/j.jobe.2024.111649</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6140-7432" title="ORCID: 0000-0002-6140-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gurunandan_m"><b>Gurunandan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-1790-0556" title="ORCID: 0009-0000-1790-0556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mala_jeet_hiranya"><b>Mala</b>&nbsp;Hiranya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b>&nbsp;Prakash</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111649
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Water-to-Binder%2C%20Aggregate-to-Binder-Ratio%20and%20Admixtures%20on%20Printability%20and%20Mechanical%20Properties%20of%203D%20Printable%20Mortar%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+water-to-binder%2C+aggregate-to-binder-ratio+and+admixtures+on+printability+and+mechanical+properties+of+3d+printable+mortar+mixtures&as_occt=title&as_sauthors=gurunandan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213263280&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001401651000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111649" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

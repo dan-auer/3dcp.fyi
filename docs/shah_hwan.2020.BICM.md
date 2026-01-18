@@ -17,14 +17,15 @@ tags:
 
 #Bio-Iinspired Cementitious Materials&nbsp;([2020-03](date/2020/03))
 <div class="h1-like">Main Strategies, Progress, and Applications</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2020.00062/pdf) <a href="https://doi.org/10.3389/fmats.2020.00062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00062" target="_blank">10.3389/fmats.2020.00062</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fmats.2020.00062/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3389/fmats.2020.00062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00062" target="_blank">10.3389/fmats.2020.00062</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b>&nbsp;Rouzbeh</a></span>, <a href="../../../author/hwang_hoon_sung"><b>Hwang</b>&nbsp;Sung</a></span><br>
 Journal Article - Frontiers in Materials, Vol. 7
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bio-Iinspired%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bio-iinspired+cementitious+materials&as_occt=title&as_sauthors=shahsavari&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083108531&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000523483900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3389/fmats.2020.00062" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

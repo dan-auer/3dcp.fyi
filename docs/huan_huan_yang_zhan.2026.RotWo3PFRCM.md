@@ -16,14 +16,15 @@ tags:
 ---
 
 #Research on the Workability of 3D Printed Fiber-Reinforced Concrete Materials ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/fib14010001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib14010001" target="_blank">10.3390/fib14010001</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/fib14010001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fib14010001" target="_blank">10.3390/fib14010001</a>
 
 <a href="../../../author/huang_qunyi"><b>Huang</b>&nbsp;Qunyi</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5543-0522" title="ORCID: 0009-0008-5543-0522" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_qingyu"><b>Huang</b>&nbsp;Qingyu</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9476-3517" title="ORCID: 0009-0007-9476-3517" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_hong"><b>Yang</b>&nbsp;Hong</a></span>, <a href="../../../author/zhang_jiahang"><b>Zhang</b>&nbsp;Jiahang</a></span>, <a href="../../../author/wu_yajie"><b>Wu</b>&nbsp;Yajie</a></span><br>
 Journal Article - Fibers, Vol. 14, Iss. 1, No. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Workability%20of%203D%20Printed%20Fiber-Reinforced%20Concrete%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+the+workability+of+3d+printed+fiber-reinforced+concrete+materials&as_occt=title&as_sauthors=huang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/fib14010001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

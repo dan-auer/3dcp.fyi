@@ -8,6 +8,10 @@ search:
 
 # #crack
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (36)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (24)</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage (15)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (12)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/zhou_lu"><b>Zhou</b> Lu</a>, <a href="../../../author/jia_xiangxi"><b>Jia</b> Xiangxi</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../chen_zhou_jia_liu.2025.ESoCDaFPo3PGECC/">Experimental Study on Crack Development and Fracture Performance of 3D Printed Green Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>

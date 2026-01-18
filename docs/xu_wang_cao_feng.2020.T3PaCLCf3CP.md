@@ -15,14 +15,15 @@ tags:
 ---
 
 #Towards 3D-Perception and Closed-Loop-Control for 3D Construction Printing ([2020-10](date/2020/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2020/0219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0219" target="_blank">10.22260/isarc2020/0219</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2020/0219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0219" target="_blank">10.22260/isarc2020/0219</a>
 
 <a href="../../../author/xu_xuchu"><b>Xu</b>&nbsp;Xuchu</a></span>, <a href="../../../author/wang_ruoyu"><b>Wang</b>&nbsp;Ruoyu</a></span>, <a href="../../../author/cao_qiming"><b>Cao</b>&nbsp;Qiming</a></span>, <a href="../../../author/feng_chen"><b>Feng</b>&nbsp;Chen</a></span><br>
 Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/loop"><button class="btn">#loop</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%203D-Perception%20and%20Closed-Loop-Control%20for%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+3d-perception+and+closed-loop-control+for+3d+construction+printing&as_occt=title&as_sauthors=xu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2020/0219" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

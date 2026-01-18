@@ -17,14 +17,15 @@ tags:
 ---
 
 #Computational Modelling of Material-Behavior of Layered 3D Printed Concrete ([2022-05](date/2022/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1201/9781003316404-9) <a href="https://doi.org/10.1201/9781003316404-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003316404-9" target="_blank">10.1201/9781003316404-9</a>
+<a href="https://doi.org/10.1201/9781003316404-9" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003316404-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003316404-9" target="_blank">10.1201/9781003316404-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1472-2840" title="ORCID: 0000-0003-1472-2840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shkundalova_olena"><b>Shkundalova</b>&nbsp;Olena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-9047" title="ORCID: 0000-0002-3401-9047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/molkens_tom"><b>Molkens</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6228-0309" title="ORCID: 0000-0001-6228-0309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_barbara"><b>Rossi</b>&nbsp;Barbara</a></span><br>
 Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 76-85
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Computational%20Modelling%20of%20Material-Behavior%20of%20Layered%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=computational+modelling+of+material-behavior+of+layered+3d+printed+concrete&as_occt=title&as_sauthors=shkundalova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003316404-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -55,8 +56,9 @@ Contribution - Proceedings of the Conference on Computational Modelling of Concr
       <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../nedj.2021.OaGNLIFftMo3CP/">On a Geometrically Non-Linear Incremental Formulation for the Modeling of 3D Concrete Printing</a></li>
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a></li>
     </ol>
-???+ bug "2 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/sun_xiao"><b>Sun</b> Xiao</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liao_sun_chen.2026.STaPOf3CPBoDFS/">Simultaneous Topology and Path Optimization for 3D Concrete Printing Based on Discrete Frame Structures</a></li>
       <li><a href="../../../author/baktheer_abedulgader"><b>Baktheer</b> Abedulgader</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bakt_cla.2024.ARoRTaCiNMotABoH3PC/">A Review of Recent Trends and Challenges in Numerical Modeling of the Anisotropic Behavior of Hardened 3D Printed Concrete</a></li>
       <li><a href="../../../author/dijkers_pa_hugo"><b>Dijkers</b> Hugo</a>, <a href="../../../author/simon_h-d_george"><b>Simon</b> George</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../dijk_simo_bos_sale.2023.MCo3PCStHDL/">Material-Characteristics of 3D Printed Concrete Subjected to Highly Dynamic Loading</a></li>
     </ol>

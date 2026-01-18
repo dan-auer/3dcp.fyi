@@ -22,14 +22,15 @@ tags:
 
 #Real-Time Multimodal Sensing System for Additive Construction by Extrusion&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">Integrating Thermal, Depth and RGB Data</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/191_Real-time_Multimodal_Sensing_System_for_Additive_Construction_by_Extrusion__Integrating_thermal__depth_and_RGB_data.pdf) <a href="https://doi.org/10.22260/isarc2025/0191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0191" target="_blank">10.22260/isarc2025/0191</a>
+<a href="https://www.iaarc.org/./publications/fulltext/191_Real-time_Multimodal_Sensing_System_for_Additive_Construction_by_Extrusion__Integrating_thermal__depth_and_RGB_data.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0191" target="_blank">10.22260/isarc2025/0191</a>
 
 <a href="../../../author/cai_yilin"><b>Cai</b>&nbsp;Yilin</a></span>, <a href="../../../author/hartell_ann_julie"><b>Hartell</b>&nbsp;Julie</a></span>, <a href="../../../author/aryal_ashrant"><b>Aryal</b>&nbsp;Ashrant</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1471-1478
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Multimodal%20Sensing%20System%20for%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=real-time+multimodal+sensing+system+for+additive+construction+by+extrusion&as_occt=title&as_sauthors=cai&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016562856&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0191" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

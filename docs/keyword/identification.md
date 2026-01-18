@@ -8,6 +8,10 @@ search:
 
 # #identification
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment (2)</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge (2)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a>, <a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a>, <a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../oztu_borg_ince.2026.3PitCS/">3D Printing in the Construction Sector:<br/>Identification of Key Topics, Technologies, Applications and Relevant Factors Discussed in the Literature</a></li>
   <li><a href="../../../author/dabbaghisouraki_farshad"><b>Dabbaghisouraki</b> Farshad</a>, <a href="../../../author/tanhadoust_amin"><b>Tanhadoust</b> Amin</a>, <a href="../../../author/nehdi_l_moncef"><b>Nehdi</b> Moncef</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dabb_tanh_nehd.2025.FRSi3CP/">Fiber Reinforcement Strategies in 3D Concrete Printing:<br/>Addressing Challenges and Identifying Research Gaps</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #life
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cycle"><button class="btn">#cycle (39)</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment (35)</button></a> <a href="../../keyword/print"><button class="btn">#print (31)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (23)</button></a> <a href="../../keyword/material"><button class="btn">#material (10)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/nair_r_sajitha"><b>Nair</b> Sajitha</a>, <a href="../../../author/nagarajan_praveen"><b>Nagarajan</b> Praveen</a>, <a href="../../../author/thampi_g_santosh"><b>Thampi</b> Santosh</a>, <a href="../../../author/das_sudha"><b>Das</b> Sudha</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../nair_naga_tham_das.2025.LCBSAoO3PCMISaRA/">Life Cycle-Based Sustainability Assessment of Optimized 3D Printable Concrete Mixes Incorporating Scms and Recycled Aggregates</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Prediction of the Printability of Concrete Through Artificial Neural Networks ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.07.310" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.07.310" target="_blank">10.1016/j.matpr.2023.07.310</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.07.310" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.07.310" target="_blank">10.1016/j.matpr.2023.07.310</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9150-6733" title="ORCID: 0000-0001-9150-6733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marcucci_andrea"><b>Marcucci</b>&nbsp;Andrea</a></span>, <a href="../../../author/gaggiotti_cesare"><b>Gaggiotti</b>&nbsp;Cesare</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Prediction%20of%20the%20Printability%20of%20Concrete%20Through%20Artificial%20Neural%20Networks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+prediction+of+the+printability+of+concrete+through+artificial+neural+networks&as_occt=title&as_sauthors=marcucci&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.07.310" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

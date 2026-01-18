@@ -8,6 +8,10 @@ search:
 
 # #alignment
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/fiber"><button class="btn">#fiber (18)</button></a> <a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (9)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>

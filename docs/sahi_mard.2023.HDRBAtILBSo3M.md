@@ -17,14 +17,15 @@ tags:
 ---
 
 #How Does Rheological Behavior Affect the Inter-Layer Bonding Strength of 3DPC Mixtures? ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/01694243.2023.2266211" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2023.2266211" target="_blank">10.1080/01694243.2023.2266211</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/01694243.2023.2266211" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01694243.2023.2266211" target="_blank">10.1080/01694243.2023.2266211</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
 Journal Article - Journal of Adhesion Science and Technology, pp. 1-25
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%20Does%20Rheological%20Behavior%20Affect%20the%20Inter-Layer%20Bonding%20Strength%20of%203DPC%20Mixtures%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+does+rheological+behavior+affect+the+inter-layer+bonding+strength+of+3dpc+mixtures%3F&as_occt=title&as_sauthors=%C5%9Fahin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173983460&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001080714800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/01694243.2023.2266211" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

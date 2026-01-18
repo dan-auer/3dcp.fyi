@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00604-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00604-w" target="_blank">10.1007/s41024-025-00604-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41024-025-00604-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00604-w" target="_blank">10.1007/s41024-025-00604-w</a>
 
 <a href="../../../author/minde_pravin"><b>Minde</b>&nbsp;Pravin</a></span>, <a href="../../../author/patil_jagruti"><b>Patil</b>&nbsp;Jagruti</a></span><br>
 Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 10, Iss. 2
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20of%20Factors%20Affecting%203D%20Printing%20Technology%20Adaptation%20in%20the%20Indian%20Construction%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comprehensive+review+of+factors+affecting+3d+printing+technology+adaptation+in+the+indian+construction+sector&as_occt=title&as_sauthors=minde&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000046380&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41024-025-00604-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

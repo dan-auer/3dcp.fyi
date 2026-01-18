@@ -17,14 +17,15 @@ tags:
 ---
 
 #Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC) ([2020-08](date/2020/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202000023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000023" target="_blank">10.1002/best.202000023</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202000023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202000023" target="_blank">10.1002/best.202000023</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <a href="../../../author/classen_johannes"><b>Claßen</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6976-4530" title="ORCID: 0000-0002-6976-4530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sharma_rahul"><b>Sharma</b>&nbsp;Rahul</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 12, pp. 934-942
 
 <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/world"><button class="btn">#world</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Conception%20of%20a%20Real%20World%203D%20Printing%20Method%20for%20Reinforced%20Concrete%20%28AMoRC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=conception+of+a+real+world+3d+printing+method+for+reinforced+concrete+%28amorc%29&as_occt=title&as_sauthors=cla%C3%9Fen&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089253885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000558420300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202000023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

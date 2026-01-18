@@ -18,14 +18,15 @@ tags:
 ---
 
 #Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.osti.gov/biblio/1976934) <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" target="_blank">10.1016/j.cemconcomp.2022.104492</a>
+<a href="https://www.osti.gov/biblio/1976934" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2022.104492" target="_blank">10.1016/j.cemconcomp.2022.104492</a>
 
 <a href="../../../author/brooks_lee_adam"><b>Brooks</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3185-7395" title="ORCID: 0000-0002-3185-7395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/he_yawen"><b>He</b>&nbsp;Yawen</a></span>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2179-8862" title="ORCID: 0000-0002-2179-8862" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b>&nbsp;Shayan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 129
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Incorporating%20PCM-Enabled%20Thermal%20Energy%20Storage%20into%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=incorporating+pcm-enabled+thermal+energy+storage+into+3d+printable+cementitious+composites&as_occt=title&as_sauthors=brooks&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126587210&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000793300900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2022.104492" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

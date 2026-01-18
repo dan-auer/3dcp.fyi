@@ -18,14 +18,15 @@ tags:
 
 #Integration of 3D Concrete Printing in the Construction Industry&nbsp;([2022-10](date/2022/10))
 <div class="h1-like">A Short Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://researchonline.ljmu.ac.uk/id/eprint/18006/1/Upload%20for%20the%203D.pdf) <a href="https://doi.org/10.1007/978-981-19-7358-1_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-7358-1_38" target="_blank">10.1007/978-981-19-7358-1_38</a>
+<a href="https://researchonline.ljmu.ac.uk/id/eprint/18006/1/Upload%20for%20the%203D.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-19-7358-1_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-7358-1_38" target="_blank">10.1007/978-981-19-7358-1_38</a>
 
 <a href="../../../author/chandrasekar_ravekumar"><b>Chandrasekar</b>&nbsp;Ravekumar</a></span>, <a href="../../../author/gkantou_michaela"><b>Gkantou</b>&nbsp;Michaela</a></span>, <a href="../../../author/nikitas_georgios"><b>Nikitas</b>&nbsp;Georgios</a></span>, <a href="../../../author/hashim_khalid"><b>Hashim</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8178-7658" title="ORCID: 0000-0001-8178-7658" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pradeep_rajanna_hampannaver"><b>Pradeep</b>&nbsp;Hampannaver</a></span>, <a href="../../../author/ahuja_arun"><b>Ahuja</b>&nbsp;Arun</a></span><br>
 Contribution - Current Trends in Geotechnical Engineering and Construction, pp. 445-452
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%203D%20Concrete%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integration+of+3d+concrete+printing+in+the+construction+industry&as_occt=title&as_sauthors=chandrasekar&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172139607&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-19-7358-1_38" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

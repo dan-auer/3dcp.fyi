@@ -15,14 +15,15 @@ tags:
 ---
 
 #The Influence of Fine Aggregates on the 3D Printing Performance ([2018-02](date/2018/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1757-899X/292/1/012079/pdf) <a href="https://doi.org/10.1088/1757-899x/292/1/012079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/292/1/012079" target="_blank">10.1088/1757-899x/292/1/012079</a>
+<a href="https://iopscience.iop.org/article/10.1088/1757-899X/292/1/012079/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/292/1/012079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/292/1/012079" target="_blank">10.1088/1757-899x/292/1/012079</a>
 
 <a href="../../../author/lin_chao_jia"><b>Lin</b>&nbsp;Jia</a></span>, <a href="../../../author/wu_xiong"><b>Wu</b>&nbsp;Xiong</a></span>, <a href="../../../author/yang_wen"><b>Yang</b>&nbsp;Wen</a></span>, <a href="../../../author/zhao_xu_ri"><b>Zhao</b>&nbsp;Ri</a></span>, <a href="../../../author/qiao_g_l"><b>Qiao</b>&nbsp;L.</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 292
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Fine%20Aggregates%20on%20the%203D%20Printing%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+influence+of+fine+aggregates+on+the+3d+printing+performance&as_occt=title&as_sauthors=lin&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85042322902&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000454759200079" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/292/1/012079" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

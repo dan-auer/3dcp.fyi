@@ -8,6 +8,10 @@ search:
 
 # #intrusion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/selective"><button class="btn">#selective (13)</button></a> <a href="../../keyword/paste"><button class="btn">#paste (12)</button></a> <a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/bed"><button class="btn">#bed (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
   <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>

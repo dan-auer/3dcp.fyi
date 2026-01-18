@@ -17,14 +17,15 @@ tags:
 ---
 
 #Advancing Design-to-Robotic-Production and Assembly of Underground Habitats on Mars ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-50081-7_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-50081-7_2" target="_blank">10.1007/978-3-031-50081-7_2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-50081-7_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-50081-7_2" target="_blank">10.1007/978-3-031-50081-7_2</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4652-8751" title="ORCID: 0000-0003-4652-8751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bier_henriette"><b>Bier</b>&nbsp;Henriette</a></span>, <a href="../../../author/hidding_arwin"><b>Hidding</b>&nbsp;Arwin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9821-0019" title="ORCID: 0000-0002-9821-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/veer_frederic"><b>Veer</b>&nbsp;Frederic</a></span>, <a href="../../../author/peternel_luka"><b>Peternel</b>&nbsp;Luka</a></span>, <a href="../../../author/schmehl_roland"><b>Schmehl</b>&nbsp;Roland</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5231-7948" title="ORCID: 0000-0001-5231-7948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervone_angelo"><b>Cervone</b>&nbsp;Angelo</a></span>, <a href="../../../author/verma_maneesh"><b>Verma</b>&nbsp;Maneesh</a></span><br>
 Contribution - Adaptive On- and Off-Earth Environments, pp. 21-38
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Design-to-Robotic-Production%20and%20Assembly%20of%20Underground%20Habitats%20on%20Mars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+design-to-robotic-production+and+assembly+of+underground+habitats+on+mars&as_occt=title&as_sauthors=bier&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-50081-7_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

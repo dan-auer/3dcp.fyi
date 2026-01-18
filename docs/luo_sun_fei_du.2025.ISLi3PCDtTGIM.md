@@ -18,14 +18,15 @@ tags:
 ---
 
 #Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" target="_blank">10.1016/j.conbuildmat.2025.143924</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143924" target="_blank">10.1016/j.conbuildmat.2025.143924</a>
 
 <a href="../../../author/luo_rui"><b>Luo</b>&nbsp;Rui</a></span>, <a href="../../../author/sun_bin"><b>Sun</b>&nbsp;Bin</a></span>, <a href="../../../author/fei_xiangpeng"><b>Fei</b>&nbsp;Xiangpeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3801-637X" title="ORCID: 0000-0002-3801-637X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_hongjian"><b>Du</b>&nbsp;Hongjian</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 497, No. 143924
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interlayer%20Strength%20Loss%20in%203D%20Printed%20Concrete%20Due%20to%20Time-Gap-Induced%20Macroporosity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interlayer+strength+loss+in+3d+printed+concrete+due+to+time-gap-induced+macroporosity&as_occt=title&as_sauthors=luo&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017684270&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001593280800016" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143924" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

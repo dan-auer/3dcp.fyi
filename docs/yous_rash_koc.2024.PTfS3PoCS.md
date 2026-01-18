@@ -16,14 +16,15 @@ tags:
 ---
 
 #Parameter-Tuning for Sustainable 3D Printing of Clay Structures ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jer.2024.05.027) <a href="https://doi.org/10.1016/j.jer.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jer.2024.05.027" target="_blank">10.1016/j.jer.2024.05.027</a>
+<a href="https://doi.org/10.1016/j.jer.2024.05.027" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jer.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jer.2024.05.027" target="_blank">10.1016/j.jer.2024.05.027</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yousaf_arslan"><b>Yousaf</b>&nbsp;Arslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
 Journal Article - Journal of Engineering Research
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parameter-Tuning%20for%20Sustainable%203D%20Printing%20of%20Clay%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parameter-tuning+for+sustainable+3d+printing+of+clay+structures&as_occt=title&as_sauthors=yousaf&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195057992&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001584191800003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jer.2024.05.027" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

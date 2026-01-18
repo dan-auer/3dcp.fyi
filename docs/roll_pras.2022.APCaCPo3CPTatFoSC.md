@@ -23,14 +23,15 @@ tags:
 
 #Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction&nbsp;([2022-04](date/2022/04))
 <div class="h1-like">A State of the Art Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2022.03.619" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.03.619" target="_blank">10.1016/j.matpr.2022.03.619</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2022.03.619" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2022.03.619" target="_blank">10.1016/j.matpr.2022.03.619</a>
 
 <a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b>&nbsp;Chiranjeevi</a></span>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b>&nbsp;C.</a></span><br>
 Journal Article - Materials Today: Proceedings, Vol. 65, pp. 995-1000
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Applications%2C%20Performance%2C%20Challenges%20and%20Current%20Progress%20of%203D%20Concrete%20Printing%20Technologies%20as%20the%20Future%20of%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=applications%2C+performance%2C+challenges+and+current+progress+of+3d+concrete+printing+technologies+as+the+future+of+sustainable+construction&as_occt=title&as_sauthors=rollakanti&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128804794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000862822600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2022.03.619" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

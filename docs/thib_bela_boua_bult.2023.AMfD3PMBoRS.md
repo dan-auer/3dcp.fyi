@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Methodology for Designing 3D Printable Mortar Based on Recycled Sand ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-023-02251-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02251-4" target="_blank">10.1617/s11527-023-02251-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-023-02251-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-023-02251-4" target="_blank">10.1617/s11527-023-02251-4</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-3142-9397" title="ORCID: 0009-0006-3142-9397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thib_raghed"><b>al&nbsp;Thib</b>&nbsp;Raghed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4112-3368" title="ORCID: 0000-0003-4112-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belayachi_naima"><b>Belayachi</b>&nbsp;Naima</a></span>, <a href="../../../author/bouarroudj_elkarim_mohamed"><b>Bouarroudj</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
 Journal Article - Materials and Structures, Vol. 56, Iss. 9
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Methodology%20for%20Designing%203D%20Printable%20Mortar%20Based%20on%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+methodology+for+designing+3d+printable+mortar+based+on+recycled+sand&as_occt=title&as_sauthors=thib&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174447453&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001097259300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-023-02251-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

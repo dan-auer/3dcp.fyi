@@ -15,14 +15,15 @@ tags:
 ---
 
 #Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/21/11483/pdf?version=1761644718) <a href="https://doi.org/10.3390/app152111483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152111483" target="_blank">10.3390/app152111483</a>
+<a href="https://www.mdpi.com/2076-3417/15/21/11483/pdf?version=1761644718" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app152111483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152111483" target="_blank">10.3390/app152111483</a>
 
 <a href="../../../author/gao_shan"><b>Gao</b>&nbsp;Shan</a></span>, <a href="../../../author/li_tianyu"><b>Li</b>&nbsp;Tianyu</a></span>, <a href="../../../author/yuan_jian"><b>Yuan</b>&nbsp;Jian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6745-3141" title="ORCID: 0000-0001-6745-3141" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b>&nbsp;Tomoya</a></span>, <a href="../../../author/huang_zhenhua"><b>Huang</b>&nbsp;Zhenhua</a></span><br>
 Journal Article - Applied Sciences, Vol. 15, Iss. 21, No. 11483
 
 <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D-Printed%20Molybdenum%20Tailings%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+3d-printed+molybdenum+tailings+mortar&as_occt=title&as_sauthors=gao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021458399&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001612488100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app152111483" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

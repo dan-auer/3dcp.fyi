@@ -8,6 +8,10 @@ search:
 
 # #scale
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (108)</button></a> <a href="../../keyword/large"><button class="btn">#large (74)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (72)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (40)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (27)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cojocari_iulia"><b>Cojocari</b> Iulia</a>, <a href="../../../author/martins_mota_mirna"><b>Martins</b> Mirna</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cojo_mart_rang_cunh.2026.S3PfLSPbOW/">Scaling 3D Printing for Large-Scale Production by Optimising Workflow</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>

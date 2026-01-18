@@ -9,6 +9,60 @@ search:
 
 #  Hager Izabela 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2852-8934" target="_blank">0000-0003-2852-8934</a>
+
+    First Contribution
+    : 2016-08-03
+    
+    Last Contribution
+    : 2025-09-19
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 247
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (6)</li>
+        <li><a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> (5)</li>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (4)</li>
+        <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> (3)</li>
+        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a> (201)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (24)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (20)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (12)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (10)</li>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (10)</li>
+        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (10)</li>
+        <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> (7)</li>
+        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b> Karina</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_rusi_hage.2025.RMaLIAtMf3CP/">Recycled Materials and Lightweight Insulating Additions to Mixtures for 3D Concrete Printing</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/sitarz_mateusz"><b>Sitarz</b> Mateusz</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../maro_hage_mroz_sita.2025.AoMPo3PM/">Anisotropy of Mechanical Properties of 3D-Printed Materials:<br/>Influence of Application Time of Subsequent Layers</a></li>

@@ -22,14 +22,15 @@ tags:
 
 #The State of the Art in Digital Construction of Clay Buildings&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Reviews of Existing Practices and Recommendations for Future Development</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/9/2381/pdf?version=1695115134) <a href="https://doi.org/10.3390/buildings13092381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092381" target="_blank">10.3390/buildings13092381</a>
+<a href="https://www.mdpi.com/2075-5309/13/9/2381/pdf?version=1695115134" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13092381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092381" target="_blank">10.3390/buildings13092381</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8815-2265" title="ORCID: 0000-0002-8815-2265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_xunzhi"><b>Yin</b>&nbsp;Xunzhi</a></span>, <a href="../../../author/guo_chong"><b>Guo</b>&nbsp;Chong</a></span>, <a href="../../../author/sun_bo"><b>Sun</b>&nbsp;Bo</a></span>, <a href="../../../author/chen_honggang"><b>Chen</b>&nbsp;Honggang</a></span>, <a href="../../../author/wang_hui"><b>Wang</b>&nbsp;Hui</a></span>, <a href="../../../author/li_an"><b>Li</b>&nbsp;An</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 9
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/recommendation"><button class="btn">#recommendation</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20State%20of%20the%20Art%20in%20Digital%20Construction%20of%20Clay%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+state+of+the+art+in+digital+construction+of+clay+buildings&as_occt=title&as_sauthors=yin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172794781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001073370400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13092381" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

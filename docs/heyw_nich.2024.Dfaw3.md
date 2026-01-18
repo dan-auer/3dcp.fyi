@@ -17,14 +17,15 @@ tags:
 
 #Design for and with 3DCP&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">An Integrated Early Design Stage Workflow</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_60" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_60" target="_blank">10.1007/978-3-031-70031-6_60</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_60" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_60" target="_blank">10.1007/978-3-031-70031-6_60</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7015-5783" title="ORCID: 0000-0002-7015-5783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heywood_kate"><b>Heywood</b>&nbsp;Kate</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 517-524
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20for%20and%20with%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+for+and+with+3dcp&as_occt=title&as_sauthors=heywood&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203075103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600060" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_60" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

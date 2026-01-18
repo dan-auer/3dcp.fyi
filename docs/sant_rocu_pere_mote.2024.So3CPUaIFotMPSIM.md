@@ -18,14 +18,15 @@ tags:
 ---
 
 #Simulation of 3D Concrete Printing Using an Implicit Formulation of the Moving Particle Semi-Implicit Method ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.55592/cilamce.v6i06.10325" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55592/cilamce.v6i06.10325" target="_blank">10.55592/cilamce.v6i06.10325</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.55592/cilamce.v6i06.10325" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55592/cilamce.v6i06.10325" target="_blank">10.55592/cilamce.v6i06.10325</a>
 
 <a href="../../../author/santos-da-mata-gomes_daniela"><b>da&nbsp;Santos da Mata Gomes</b>&nbsp;Daniela</a></span>, <a href="../../../author/rocutan_melina"><b>Rocutan</b>&nbsp;Melina</a></span>, <a href="../../../author/pereira_soares_lucas"><b>Pereira</b>&nbsp;Lucas</a></span>, <a href="../../../author/motezuki_kenji_fabio"><b>Motezuki</b>&nbsp;Fabio</a></span>, <a href="../../../author/cheng_liang-yee"><b>Cheng</b>&nbsp;Liang-Yee</a></span><br>
 Contribution - Proceedings of the Joint XLV Ibero-Latin-American Congress on Computational Methods in Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/implicit"><button class="btn">#implicit</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/movement"><button class="btn">#movement</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simulation%20of%203D%20Concrete%20Printing%20Using%20an%20Implicit%20Formulation%20of%20the%20Moving%20Particle%20Semi-Implicit%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simulation+of+3d+concrete+printing+using+an+implicit+formulation+of+the+moving+particle+semi-implicit+method&as_occt=title&as_sauthors=santos+da+mata+gomes&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.55592/cilamce.v6i06.10325" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

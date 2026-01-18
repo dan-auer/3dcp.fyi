@@ -22,14 +22,15 @@ tags:
 
 #The Second 3D Printed Prefabricated Prefinished Volumetric Construction Building in Thailand&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A New Sustainable and Efficient Approach for a Low-Rise Prefab Modular Building</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_4" target="_blank">10.1007/978-3-031-70031-6_4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_4" target="_blank">10.1007/978-3-031-70031-6_4</a>
 
 <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b>&nbsp;Passarin</a></span>, <a href="../../../author/chaiyapoom_phattarakamon"><b>Chaiyapoom</b>&nbsp;Phattarakamon</a></span>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b>&nbsp;Patiphat</a></span>, <a href="../../../author/meemuk_kornravee"><b>Meemuk</b>&nbsp;Kornravee</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 30-38
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/secondary"><button class="btn">#secondary</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Second%203D%20Printed%20Prefabricated%20Prefinished%20Volumetric%20Construction%20Building%20in%20Thailand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+second+3d+printed+prefabricated+prefinished+volumetric+construction+building+in+thailand&as_occt=title&as_sauthors=jongvisuttisun&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203075727&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

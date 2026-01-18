@@ -16,14 +16,15 @@ tags:
 ---
 
 #3D Printing Birdhouses with Ceramic Clay Using a Six-Axis Palletizing Robot ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s42452-024-06163-y) <a href="https://doi.org/10.1007/s42452-024-06163-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-024-06163-y" target="_blank">10.1007/s42452-024-06163-y</a>
+<a href="https://doi.org/10.1007/s42452-024-06163-y" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42452-024-06163-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-024-06163-y" target="_blank">10.1007/s42452-024-06163-y</a>
 
 <a href="../../../author/chaari_zied_mohamed"><b>Chaari</b>&nbsp;Mohamed</a></span>, <a href="../../../author/pereira_philbert_gilroy"><b>Pereira</b>&nbsp;Gilroy</a></span>, <a href="../../../author/daroge_fawwad"><b>Daroge</b>&nbsp;Fawwad</a></span>, <a href="../../../author/buainain_shamma"><b>al&nbsp;Buainain</b>&nbsp;Shamma</a></span><br>
 Journal Article - Discover Applied Sciences, Vol. 6, Iss. 9
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/six"><button class="btn">#six</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Birdhouses%20with%20Ceramic%20Clay%20Using%20a%20Six-Axis%20Palletizing%20Robot" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+birdhouses+with+ceramic+clay+using+a+six-axis+palletizing+robot&as_occt=title&as_sauthors=chaari&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202721360&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001303624200004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42452-024-06163-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

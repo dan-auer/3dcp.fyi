@@ -17,14 +17,15 @@ tags:
 ---
 
 #Advances and Current Trends on the Use of 3D Printed Concrete for Building Fabrication ([2021-10](date/2021/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" target="_blank">10.1109/coniiti53815.2021.9619718</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/coniiti53815.2021.9619718" target="_blank">10.1109/coniiti53815.2021.9619718</a>
 
 <a href="../../../author/uribe-pinzon_sebastian"><b>Uribe-Pinzon</b>&nbsp;Sebastian</a></span>, <a href="../../../author/mosquera_mariana"><b>Mosquera</b>&nbsp;Mariana</a></span>, <a href="../../../author/cardenas-pulido_jhon"><b>Cardenas-Pulido</b>&nbsp;Jhon</a></span>, <a href="../../../author/higuera_camilo"><b>Higuera</b>&nbsp;Camilo</a></span><br>
 Contribution - 2021 Congreso Internacional de Innovación y Tendencias en Ingeniería, pp. 1-6
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advances%20and%20Current%20Trends%20on%20the%20Use%20of%203D%20Printed%20Concrete%20for%20Building%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advances+and+current+trends+on+the+use+of+3d+printed+concrete+for+building+fabrication&as_occt=title&as_sauthors=uribe-pinzon&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123625764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/coniiti53815.2021.9619718" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

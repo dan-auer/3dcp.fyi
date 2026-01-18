@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of Mechanical Anisotropy-Induced by 3D Printing Process for Earth-Based Materials ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.07.192" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.07.192" target="_blank">10.1016/j.matpr.2023.07.192</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.07.192" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.07.192" target="_blank">10.1016/j.matpr.2023.07.192</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2741-7431" title="ORCID: 0000-0003-2741-7431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahal_said"><b>Rahal</b>&nbsp;Said</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0059-5756" title="ORCID: 0000-0003-0059-5756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaci_abdelhak"><b>Kaci</b>&nbsp;Abdelhak</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-4859-3008" title="ORCID: 0009-0008-4859-3008" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skoudarli_abdeslam"><b>Skoudarli</b>&nbsp;Abdeslam</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mechanical%20Anisotropy-Induced%20by%203D%20Printing%20Process%20for%20Earth-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+mechanical+anisotropy-induced+by+3d+printing+process+for+earth-based+materials&as_occt=title&as_sauthors=rahal&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.07.192" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

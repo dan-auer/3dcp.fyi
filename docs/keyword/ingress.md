@@ -8,6 +8,10 @@ search:
 
 # #ingress
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/water"><button class="btn">#water (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/sanchez_maria_asel"><b>Sanchez</b> Asel</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lima_wang_sanc_anto.2024.Do3PC/">Durability of 3D Printed Concrete:<br/>Performance-Assessment of a Two-Component System Against Water Absorption, Carbonation, and Chloride-Ingress</a></li>
   <li><a href="../../../author/anleu_bran_paula"><b>Anleu</b> Paula</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../anle_wang_nere_mech.2023.UMXtCCITCJi3PC/">Using Micro-XRF to Characterize Chloride-Ingress Through Cold Joints in 3D Printed Concrete</a></li>

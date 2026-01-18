@@ -18,14 +18,15 @@ tags:
 ---
 
 #Research on Printing Parameters and Salt-Frost-Resistance of 3D Printing Concrete with Ferrochrome-Slag and Aeolian Sand ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108508" target="_blank">10.1016/j.jobe.2024.108508</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.108508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108508" target="_blank">10.1016/j.jobe.2024.108508</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4187-1999" title="ORCID: 0000-0003-4187-1999" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_wei"><b>Dong</b>&nbsp;Wei</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1136-738X" title="ORCID: 0009-0005-1136-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_junfeng"><b>Wang</b>&nbsp;Junfeng</a></span>, <a href="../../../author/hang_meiyan"><b>Hang</b>&nbsp;Meiyan</a></span>, <a href="../../../author/qu_shuqiang"><b>Qu</b>&nbsp;Shuqiang</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 84, No. 108508
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Printing%20Parameters%20and%20Salt-Frost-Resistance%20of%203D%20Printing%20Concrete%20with%20Ferrochrome-Slag%20and%20Aeolian%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+printing+parameters+and+salt-frost-resistance+of+3d+printing+concrete+with+ferrochrome-slag+and+aeolian+sand&as_occt=title&as_sauthors=dong&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182594017&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001166996600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.108508" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

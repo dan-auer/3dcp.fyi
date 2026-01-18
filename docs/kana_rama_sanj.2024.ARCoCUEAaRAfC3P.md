@@ -18,14 +18,15 @@ tags:
 ---
 
 #Active Rheology-Control of Concrete Using Encapsulated Accelerator as Responsive Additives for Concrete 3D Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_29" target="_blank">10.1007/978-3-031-70031-6_29</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_29" target="_blank">10.1007/978-3-031-70031-6_29</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b>&nbsp;Sasitharan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 244-251
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Active%20Rheology-Control%20of%20Concrete%20Using%20Encapsulated%20Accelerator%20as%20Responsive%20Additives%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=active+rheology-control+of+concrete+using+encapsulated+accelerator+as+responsive+additives+for+concrete+3d+printing&as_occt=title&as_sauthors=kanagasuntharam&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203055155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_29" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

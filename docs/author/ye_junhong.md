@@ -9,6 +9,60 @@ search:
 
 #  Ye Junhong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0948-5115" target="_blank">0000-0003-0948-5115</a>
+
+    First Contribution
+    : 2021-01-22
+    
+    Last Contribution
+    : 2025-11-04
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 466
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (12)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (11)</li>
+        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (11)</li>
+        <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a> (10)</li>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a> (156)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (61)</li>
+        <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a> (56)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (55)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (53)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (52)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (18)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (17)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (15)</li>
+        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (15)</li>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>

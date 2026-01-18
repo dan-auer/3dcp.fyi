@@ -22,14 +22,15 @@ tags:
 ---
 
 #An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-024-01111-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-024-01111-4" target="_blank">10.1007/s43452-024-01111-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43452-024-01111-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-024-01111-4" target="_blank">10.1007/s43452-024-01111-4</a>
 
 <a href="../../../author/zhong_jianjun"><b>Zhong</b>&nbsp;Jianjun</a></span>, <a href="../../../author/lyu_libo"><b>Lyu</b>&nbsp;Libo</a></span>, <a href="../../../author/deng_yongjie"><b>Deng</b>&nbsp;Yongjie</a></span>, <a href="../../../author/ma_haiyan"><b>Ma</b>&nbsp;Haiyan</a></span>, <a href="../../../author/yu_qiuchun"><b>Yu</b>&nbsp;Qiuchun</a></span>, <a href="../../../author/liang_yun"><b>Liang</b>&nbsp;Yun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_weihong"><b>Li</b>&nbsp;Weihong</a></span>, <a href="../../../author/yu_hongfa"><b>Yu</b>&nbsp;Hongfa</a></span><br>
 Journal Article - Archives of Civil and Mechanical Engineering, Vol. 25, Iss. 2
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/stir"><button class="btn">#stir</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Evaluation-Method%20for%20the%20Printability%20of%20Magnesium-Phosphate-Cement%20Concrete%20for%20Integrated%20Mixing-Stirring-Extrusion%20Rapid%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+evaluation-method+for+the+printability+of+magnesium-phosphate-cement+concrete+for+integrated+mixing-stirring-extrusion+rapid+3d+printing&as_occt=title&as_sauthors=zhong&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218188448&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001405613600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43452-024-01111-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

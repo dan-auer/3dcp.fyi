@@ -21,14 +21,15 @@ tags:
 
 #Fabrication-Aware Structural Form-Finding for Additive Manufacturing&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">An Equilibrium-Based Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2025.106386) <a href="https://doi.org/10.1016/j.autcon.2025.106386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106386" target="_blank">10.1016/j.autcon.2025.106386</a>
+<a href="https://doi.org/10.1016/j.autcon.2025.106386" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106386" target="_blank">10.1016/j.autcon.2025.106386</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7018-6757" title="ORCID: 0009-0005-7018-6757" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chovghi_frederic"><b>Chovghi</b>&nbsp;Frederic</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3865-4029" title="ORCID: 0000-0003-3865-4029" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/richter_christiane"><b>Richter</b>&nbsp;Christiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4005-2596" title="ORCID: 0000-0003-4005-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b>&nbsp;Pierluigi</a></span><br>
 Journal Article - Automation in Construction, Vol. 178, No. 106386
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/equilibrium"><button class="btn">#equilibrium</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/finding"><button class="btn">#finding</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication-Aware%20Structural%20Form-Finding%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication-aware+structural+form-finding+for+additive+manufacturing&as_occt=title&as_sauthors=chovghi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010876915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001536568800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106386" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

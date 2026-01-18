@@ -8,6 +8,10 @@ search:
 
 # #world
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/energy"><button class="btn">#energy (2)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/awawdeh_m_najemaldeen"><b>Awawdeh</b> Najemaldeen</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_awaw.2025.MoECWU3PCwPCM/">Mitigation of Energy Crisis Worldwide Using 3D-Printed Concrete with Phase Change Materials</a></li>
   <li><a href="../../../author/loaiza_velez_sebastian"><b>Loaiza</b> Sebastián</a>, <a href="../../../author/ortiz_albert"><b>Ortiz</b> Albert</a>, <a href="../../../author/gomez_daniel"><b>Gómez</b> Daniel</a>, <a href="../../../author/garcia-alvarez_jaime_jose"><b>García Alvarez</b> José</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../loai_orti_gome_garc.2023.3PAtBDAtW/">3D Printing Applied to Building Development Around the World:<br/>A Systematic Literature Review</a></li>

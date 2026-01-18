@@ -19,14 +19,15 @@ tags:
 ---
 
 #Research on Large-Scale Additive Manufacturing Based on Multi-Robot Collaboration Technology ([2019-10](date/2019/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2019.100906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100906" target="_blank">10.1016/j.addma.2019.100906</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2019.100906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100906" target="_blank">10.1016/j.addma.2019.100906</a>
 
 <a href="../../../author/shen_hongyao"><b>Shen</b>&nbsp;Hongyao</a></span>, <a href="../../../author/pan_lingnan"><b>Pan</b>&nbsp;Lingnan</a></span>, <a href="../../../author/qian_jun"><b>Qian</b>&nbsp;Jun</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 30
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/collaboration"><button class="btn">#collaboration</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20Large-Scale%20Additive%20Manufacturing%20Based%20on%20Multi-Robot%20Collaboration%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+large-scale+additive+manufacturing+based+on+multi-robot+collaboration+technology&as_occt=title&as_sauthors=shen&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074762306&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000501768100056" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2019.100906" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -56,8 +57,9 @@ Journal Article - Additive Manufacturing, Vol. 30
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ bug "14 Citations"
+???+ bug "15 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../guer_asen_fern.2026.LFAMwCaC/">Large‐Format Additive Manufacturing with Cement and Clays:<br/>Characterization Methods</a></li>
       <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
       <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
       <li><a href="../../../author/roschli_c_alex"><b>Roschli</b> Alex</a>, <a href="../../../author/post_k_brian"><b>Post</b> Brian</a>, <a href="../../../author/wang_l_peter"><b>Wang</b> Peter</a>, <a href="../../../author/chesser_c_phillip"><b>Chesser</b> Phillip</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../rosc_post_wang_ches.2025.TCoSUiLFAM/">The Cost of Scaling-Up in Large-Format Additive Manufacturing</a></li>

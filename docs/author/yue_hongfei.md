@@ -9,6 +9,60 @@ search:
 
 #  Yue Hongfei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-12-17
+    
+    Last Contribution
+    : 2025-11-10
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 53
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> (6)</li>
+        <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a> (3)</li>
+        <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a> (2)</li>
+        <li><a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a> (2)</li>
+        <li><a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../qian_hua_yue_feng.2022.UoRCPi3CPMtPPO/">Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (16)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (15)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (11)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (9)</li>
+        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> (3)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (3)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (3)</li>
+        <li><a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> (3)</li>
+        <li><a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
   <li><a href="../../../author/jiang_shangjin"><b>Jiang</b> Shangjin</a>, <a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jian_wang_hua_yue.2024.PaPCoLD3PEPFC/">Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete</a></li>

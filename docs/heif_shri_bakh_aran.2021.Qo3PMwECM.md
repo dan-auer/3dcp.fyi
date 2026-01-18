@@ -15,14 +15,15 @@ tags:
 ---
 
 #Qualification of 3D Printed Mortar with Electrical Conductivity Measurements ([2021-03](date/2021/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tim.2021.3067222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tim.2021.3067222" target="_blank">10.1109/tim.2021.3067222</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/tim.2021.3067222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tim.2021.3067222" target="_blank">10.1109/tim.2021.3067222</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8891-9323" title="ORCID: 0000-0002-8891-9323" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heifetz_alexander"><b>Heifetz</b>&nbsp;Alexander</a></span>, <a href="../../../author/shribak_dmitry"><b>Shribak</b>&nbsp;Dmitry</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4243-0343" title="ORCID: 0000-0003-4243-0343" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bakhtiari_sasan"><b>Bakhtiari</b>&nbsp;Sasan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4062-5393" title="ORCID: 0000-0002-4062-5393" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aranson_s_igor"><b>Aranson</b>&nbsp;Igor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7816-8901" title="ORCID: 0000-0001-7816-8901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentivegna_f_anthony"><b>Bentivegna</b>&nbsp;Anthony</a></span><br>
 Journal Article - IEEE Transactions on Instrumentation and Measurement, Vol. 70, pp. 1-8
 
 <a href="../../keyword/conductivity"><button class="btn">#conductivity</button></a> <a href="../../keyword/electrical"><button class="btn">#electrical</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Qualification%20of%203D%20Printed%20Mortar%20with%20Electrical%20Conductivity%20Measurements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=qualification+of+3d+printed+mortar+with+electrical+conductivity+measurements&as_occt=title&as_sauthors=heifetz&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103293828&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000700553800006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/tim.2021.3067222" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

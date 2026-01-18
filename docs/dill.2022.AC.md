@@ -12,14 +12,15 @@ tags:
 ---
 
 #Additive Construction ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831537) <a href="https://doi.org/10.1089/3dp.2022.29018.bd" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2022.29018.bd" target="_blank">10.1089/3dp.2022.29018.bd</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831537" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2022.29018.bd" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2022.29018.bd" target="_blank">10.1089/3dp.2022.29018.bd</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, No. 83
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+construction&as_occt=title&as_sauthors=dillenburger&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129316320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000790388200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2022.29018.bd" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

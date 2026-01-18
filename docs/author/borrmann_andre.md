@@ -9,6 +9,60 @@ search:
 
 #  Borrmann André 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2088-7254" target="_blank">0000-0003-2088-7254</a>
+
+    First Contribution
+    : 2021-11-04
+    
+    Last Contribution
+    : 2025-05-19
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 33
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a> (8)</li>
+        <li><a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a> (2)</li>
+        <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a> (1)</li>
+        <li><a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a> (1)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b> Simon</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../slep_vilg_borr.2022.FIM/">Fabrication Information Modeling:<br/>Interfacing Building Information Modeling with Digital Fabrication</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (13)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (9)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (8)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (5)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (5)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (4)</li>
+        <li><a href="../../../author/li_chao"><b>Li</b> Chao</a> (4)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bettermann_luca"><b>Bettermann</b> Luca</a>, <a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/esser_sebastian"><b>Esser</b> Sebastian</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bett_slep_esse_borr.2025.DDPCiAMfC/">Data-Driven Parameter Calibration in Additive Manufacturing for Construction:<br/>An Introduction to Learning by Printing</a></li>
   <li><a href="../../../author/slepicka_martin"><b>Slepicka</b> Martin</a>, <a href="../../../author/borrmann_andre"><b>Borrmann</b> André</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../slep_borr.2024.FIMfCLDaQIiAMfC/">Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction</a></li>

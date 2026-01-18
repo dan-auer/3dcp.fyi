@@ -15,14 +15,15 @@ tags:
 ---
 
 #Eco-Friendly 3D Printed Concrete Made with Waste and Organic Artificial Aggregates ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/13/3290/pdf?version=1720020948) <a href="https://doi.org/10.3390/ma17133290" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17133290" target="_blank">10.3390/ma17133290</a>
+<a href="https://www.mdpi.com/1996-1944/17/13/3290/pdf?version=1720020948" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17133290" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17133290" target="_blank">10.3390/ma17133290</a>
 
 <a href="../../../author/butkute_karolina"><b>Butkutė</b>&nbsp;Karolina</a></span>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b>&nbsp;Vitoldas</a></span>, <a href="../../../author/adomaityte_fausta"><b>Adomaitytė</b>&nbsp;Fausta</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 13
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%203D%20Printed%20Concrete%20Made%20with%20Waste%20and%20Organic%20Artificial%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=eco-friendly+3d+printed+concrete+made+with+waste+and+organic+artificial+aggregates&as_occt=title&as_sauthors=butkut%C4%97&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198385969&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001269459200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17133290" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

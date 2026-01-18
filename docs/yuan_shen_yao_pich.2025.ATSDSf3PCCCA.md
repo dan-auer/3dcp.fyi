@@ -19,14 +19,15 @@ tags:
 ---
 
 #A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04540" target="_blank">10.1016/j.cscm.2025.e04540</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04540" target="_blank">10.1016/j.cscm.2025.e04540</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <a href="../../../author/sheng_ruyi"><b>Sheng</b>&nbsp;Ruyi</a></span>, <a href="../../../author/yao_xupeng"><b>Yao</b>&nbsp;Xupeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6468-1840" title="ORCID: 0000-0002-6468-1840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b>&nbsp;Bernhard</a></span>, <a href="../../../author/mang_a_herbert"><b>Mang</b>&nbsp;Herbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jiao-long"><b>Zhang</b>&nbsp;Jiao-Long</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04540
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/step"><button class="btn">#step</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Three-Step%20Development%20Strategy%20for%203D%20Printable%20Concrete%20Containing%20Coarse%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+three-step+development+strategy+for+3d+printable+concrete+containing+coarse+aggregates&as_occt=title&as_sauthors=yuan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000520354&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001455459600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04540" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

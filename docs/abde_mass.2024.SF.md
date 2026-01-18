@@ -23,7 +23,7 @@ Contribution - Proceedings of the 12th International Conference of the Arab Soci
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/education"><button class="btn">#education</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synthetic%20Fabrications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synthetic+fabrications&as_occt=title&as_sauthors=abdelmohsen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

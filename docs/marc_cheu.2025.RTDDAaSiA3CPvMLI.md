@@ -24,7 +24,7 @@ Contribution - Proceedings of the IASS 2025 Annual Symposium
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Defect%20Detection%2C%20Analysis%20and%20Suggestion%20in%20Adaptive%203D%20Concrete%20Printing%20via%20Multimodal%20LLM%20Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=real-time+defect+detection%2C+analysis+and+suggestion+in+adaptive+3d+concrete+printing+via+multimodal+llm+integration&as_occt=title&as_sauthors=marco&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

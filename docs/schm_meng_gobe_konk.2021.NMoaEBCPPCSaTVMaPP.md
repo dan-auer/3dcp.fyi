@@ -22,14 +22,15 @@ tags:
 ---
 
 #Numerical Modeling of an Extrusion-Based Concrete Printing Process Considering Spatially and Temporarily Varying Material and Process Parameters ([2021-05](date/2021/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-73616-3_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-73616-3_40" target="_blank">10.1007/978-3-030-73616-3_40</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-73616-3_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-73616-3_40" target="_blank">10.1007/978-3-030-73616-3_40</a>
 
 <a href="../../../author/schmidt_albrecht"><b>Schmidt</b>&nbsp;Albrecht</a></span>, <a href="../../../author/mengesha_meron"><b>Mengesha</b>&nbsp;Meron</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1955-1024" title="ORCID: 0000-0003-1955-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gobel_luise"><b>Göbel</b>&nbsp;Luise</a></span>, <a href="../../../author/konke_carsten"><b>Könke</b>&nbsp;Carsten</a></span>, <a href="../../../author/lahmer_tom"><b>Lahmer</b>&nbsp;Tom</a></span><br>
 Contribution - Proceedings of the 18th International Probabilistic Workshop, pp. 531-538
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/temporary"><button class="btn">#temporary</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modeling%20of%20an%20Extrusion-Based%20Concrete%20Printing%20Process%20Considering%20Spatially%20and%20Temporarily%20Varying%20Material%20and%20Process%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+modeling+of+an+extrusion-based+concrete+printing+process+considering+spatially+and+temporarily+varying+material+and+process+parameters&as_occt=title&as_sauthors=schmidt&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111096606&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001330679200040" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-73616-3_40" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

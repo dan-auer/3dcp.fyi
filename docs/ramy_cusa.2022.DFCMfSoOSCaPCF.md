@@ -18,14 +18,15 @@ tags:
 ---
 
 #Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" target="_blank">10.1061/(asce)em.1943-7889.0002059</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)em.1943-7889.0002059" target="_blank">10.1061/(asce)em.1943-7889.0002059</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7118-4973" title="ORCID: 0000-0002-7118-4973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramyar_elham"><b>Ramyar</b>&nbsp;Elham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
 Journal Article - Journal of Engineering Mechanics, Vol. 148, Iss. 2
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Discrete%20Fresh%20Concrete-Model%20for%20Simulation%20of%20Ordinary%2C%20Self-Consolidating%2C%20and%20Printable%20Concrete-Flow" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=discrete+fresh+concrete-model+for+simulation+of+ordinary%2C+self-consolidating%2C+and+printable+concrete-flow&as_occt=title&as_sauthors=ramyar&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120380813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000730391500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/(asce)em.1943-7889.0002059" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

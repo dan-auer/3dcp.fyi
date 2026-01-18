@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Evaluation of a Novel 3D-Printed Permanent Concrete Formwork ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14455/isec.2025.12(1).str-53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).str-53" target="_blank">10.14455/isec.2025.12(1).str-53</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14455/isec.2025.12(1).str-53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).str-53" target="_blank">10.14455/isec.2025.12(1).str-53</a>
 
 <a href="../../../author/biswas_kumar_rajib"><b>Biswas</b>&nbsp;Rajib</a></span>, <a href="../../../author/saito_takahiro"><b>Saito</b>&nbsp;Takahiro</a></span>, <a href="../../../author/ito_atsushi"><b>Ito</b>&nbsp;Atsushi</a></span><br>
 Journal Article - Proceedings of International Structural Engineering and Construction, Vol. 12, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Evaluation%20of%20a%20Novel%203D-Printed%20Permanent%20Concrete%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+evaluation+of+a+novel+3d-printed+permanent+concrete+formwork&as_occt=title&as_sauthors=biswas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14455/isec.2025.12(1).str-53" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

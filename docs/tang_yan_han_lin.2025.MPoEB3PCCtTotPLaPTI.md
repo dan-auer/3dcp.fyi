@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical Properties of Extrusion-Based 3D-Printed Concrete Considering the Thickness of the Printed Layer and Printing Time Interval ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109225" target="_blank">10.1016/j.istruc.2025.109225</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.109225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109225" target="_blank">10.1016/j.istruc.2025.109225</a>
 
 <a href="../../../author/tang_boyang"><b>Tang</b>&nbsp;Boyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <a href="../../../author/lin_yini"><b>Lin</b>&nbsp;Yini</a></span>, <a href="../../../author/fan_feng"><b>Fan</b>&nbsp;Feng</a></span><br>
 Journal Article - Structures, Vol. 78, No. 109225
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Extrusion-Based%203D-Printed%20Concrete%20Considering%20the%20Thickness%20of%20the%20Printed%20Layer%20and%20Printing%20Time%20Interval" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+extrusion-based+3d-printed+concrete+considering+the+thickness+of+the+printed+layer+and+printing+time+interval&as_occt=title&as_sauthors=tang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005415535&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001502021600014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.109225" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -12,14 +12,15 @@ tags:
 ---
 
 #Construction 3D Printing ([2019-02](date/2019/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" target="_blank">10.1016/b978-0-12-815481-6.00017-8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00017-8" target="_blank">10.1016/b978-0-12-815481-6.00017-8</a>
 
 <a href="../../../author/holt_camille"><b>Holt</b>&nbsp;Camille</a></span>, <a href="../../../author/edwards_laurie"><b>Edwards</b>&nbsp;Laurie</a></span>, <a href="../../../author/keyte_louise"><b>Keyte</b>&nbsp;Louise</a></span>, <a href="../../../author/moghaddam_farzad"><b>Moghaddam</b>&nbsp;Farzad</a></span>, <a href="../../../author/townsend_belinda"><b>Townsend</b>&nbsp;Belinda</a></span><br>
 Contribution - 3D Concrete Printing Technology, pp. 349-370
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=construction+3d+printing&as_occt=title&as_sauthors=holt&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85072404781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-12-815481-6.00017-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #A 3D Printed Ready-Mixed Concrete Power-Distribution Substation&nbsp;([2019-05](date/2019/05))
 <div class="h1-like">Materials and Construction Technology</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/9/1540/pdf?version=1557487721) <a href="https://doi.org/10.3390/ma12091540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12091540" target="_blank">10.3390/ma12091540</a>
+<a href="https://www.mdpi.com/1996-1944/12/9/1540/pdf?version=1557487721" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma12091540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12091540" target="_blank">10.3390/ma12091540</a>
 
 <a href="../../../author/ji_guangchao"><b>Ji</b>&nbsp;Guangchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span>, <a href="../../../author/du_shupeng"><b>Du</b>&nbsp;Shupeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jun"><b>Li</b>&nbsp;Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span><br>
 Journal Article - Materials, Vol. 12, Iss. 9
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ready"><button class="btn">#ready</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%203D%20Printed%20Ready-Mixed%20Concrete%20Power-Distribution%20Substation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+3d+printed+ready-mixed+concrete+power-distribution+substation&as_occt=title&as_sauthors=ji&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065701482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000469757500181" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma12091540" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

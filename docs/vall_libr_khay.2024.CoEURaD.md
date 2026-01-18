@@ -13,14 +13,15 @@ tags:
 ---
 
 #Characterization of Extrudability Using Rheology and Desorptivity ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740301" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740301" target="_blank">10.14359/51740301</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51740301" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740301" target="_blank">10.14359/51740301</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8884-6411" title="ORCID: 0000-0001-8884-6411" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b>&nbsp;Kavya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Extrudability%20Using%20Rheology%20and%20Desorptivity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+extrudability+using+rheology+and+desorptivity&as_occt=title&as_sauthors=vallurupalli&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190836770&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001222995000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51740301" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

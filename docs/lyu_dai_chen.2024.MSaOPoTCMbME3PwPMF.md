@@ -21,14 +21,15 @@ tags:
 ---
 
 #Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2023.111079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2023.111079" target="_blank">10.1016/j.compositesb.2023.111079</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compositesb.2023.111079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2023.111079" target="_blank">10.1016/j.compositesb.2023.111079</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0012-5781" title="ORCID: 0000-0002-0012-5781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lyu_qifeng"><b>Lyu</b>&nbsp;Qifeng</a></span>, <a href="../../../author/dai_pengfei"><b>Dai</b>&nbsp;Pengfei</a></span>, <a href="../../../author/chen_anguo"><b>Chen</b>&nbsp;Anguo</a></span><br>
 Journal Article - Composites Part B: Engineering, Vol. 268, No. 111079
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optics"><button class="btn">#optics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/translucent"><button class="btn">#translucent</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Strengths%20and%20Optical%20Properties%20of%20Translucent%20Concrete%20Manufactured%20by%20Mortar-Extrusion%203D%20Printing%20with%20Polymethyl-Methacrylate%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+strengths+and+optical+properties+of+translucent+concrete+manufactured+by+mortar-extrusion+3d+printing+with+polymethyl-methacrylate+fibers&as_occt=title&as_sauthors=lyu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175088472&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001108513100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compositesb.2023.111079" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

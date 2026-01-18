@@ -9,6 +9,60 @@ search:
 
 #  Asprone Domenico 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5795-8568" target="_blank">0000-0001-5795-8568</a>
+
+    First Contribution
+    : 2018-03-20
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 891
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (16)</li>
+        <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> (7)</li>
+        <li><a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a> (5)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/cadoni_ezio"><b>Cadoni</b> Ezio</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a> (292)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (40)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (35)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (29)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (29)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (39)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (38)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (35)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (35)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (33)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../giul_menn_capo_aspr.2024.EBoa3PCWwFBAStIPCL/">Experimental Behavior of a 3D Printed Concrete Wall with Fixed Base Anchorage Subjected to In-Plane Cyclic Loads</a></li>
   <li><a href="../../../author/pastore_tommaso"><b>Pastore</b> Tommaso</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../past_espo_menn_aspr.2022.OFCiC3PUIBC/">Overcoming Fabrication-Constraints in Concrete 3D Printing Using Interlacing Bezier-Curves:<br/>A Numerical and Experimental Analysis</a></li>

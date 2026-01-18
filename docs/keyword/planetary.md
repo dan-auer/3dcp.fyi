@@ -8,6 +8,10 @@ search:
 
 # #planetary
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/application"><button class="btn">#application (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (1)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/herbert_marc"><b>Herbert</b> Marc</a>, <a href="../../../author/lamendola_joseph"><b>Lamendola</b> Joseph</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../giwa_herb_lame_fisk.2024.PRCULS3PwSC/">Planetary Robotic Construction Using Large-Scale 3D Printing with Sulfur-Concrete</a></li>
   <li><a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/edmunson_e_jennifer"><b>Edmunson</b> Jennifer</a>, <a href="../../../author/weite_edward"><b>Weite</b> Edward</a>, <a href="../../../author/fikes_c_john"><b>Fikes</b> John</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../fisk_edmu_weit_fike.2018.TDTTIAC/">The Disruptive Technology That Is Additive Construction:<br/>System Development Lessons Learned for Terrestrial and Planetary Applications</a></li>

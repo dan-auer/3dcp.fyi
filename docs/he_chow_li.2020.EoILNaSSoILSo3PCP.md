@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effects of Inter-Layer Notch and Shear Stress on Inter-Layer Strength of 3D Printed Cement-Paste ([2020-06](date/2020/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2020.101390" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101390" target="_blank">10.1016/j.addma.2020.101390</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2020.101390" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101390" target="_blank">10.1016/j.addma.2020.101390</a>
 
 <a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <a href="../../../author/chow_tuck_wai"><b>Chow</b>&nbsp;Wai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4899-9477" title="ORCID: 0000-0003-4899-9477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hua"><b>Li</b>&nbsp;Hua</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 36
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/notch"><button class="btn">#notch</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Inter-Layer%20Notch%20and%20Shear%20Stress%20on%20Inter-Layer%20Strength%20of%203D%20Printed%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+inter-layer+notch+and+shear+stress+on+inter-layer+strength+of+3d+printed+cement-paste&as_occt=title&as_sauthors=he&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85087340017&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000600807800005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2020.101390" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

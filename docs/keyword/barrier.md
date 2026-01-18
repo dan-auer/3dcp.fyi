@@ -8,6 +8,10 @@ search:
 
 # #barrier
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/adoption"><button class="btn">#adoption (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/review"><button class="btn">#review (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
   <li><a href="../../../author/latifiilkhechi_leva"><b>Latifiilkhechi</b> Leva</a>, <a href="../../../author/aminbakhsh_saman"><b>Aminbakhsh</b> Saman</a>, <a href="../../../author/akcay_caner_emre"><b>Akcay</b> Emre</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../lati_amin_akca.2025.ItBttAo3PTitTCI/">Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry</a></li>

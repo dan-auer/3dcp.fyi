@@ -18,14 +18,15 @@ tags:
 ---
 
 #Development of Green Engineered Cementitious Composite Using Fly-Ash and Nano-Silica for 3D Printing ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.13074/jent.2024.03.241515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13074/jent.2024.03.241515" target="_blank">10.13074/jent.2024.03.241515</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.13074/jent.2024.03.241515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13074/jent.2024.03.241515" target="_blank">10.13074/jent.2024.03.241515</a>
 
 <a href="../../../author/anandaraj_s"><b>Anandaraj</b>&nbsp;S.</a></span>, <a href="../../../author/sowmya_sakthi_s"><b>Sowmya</b>&nbsp;S.</a></span>, <a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b>&nbsp;A.</a></span>, <a href="../../../author/mithun_t"><b>Mithun</b>&nbsp;T.</a></span><br>
 Journal Article - Journal of Environmental Nanotechnology, Vol. 13, Iss. 1, pp. 117-124
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Green%20Engineered%20Cementitious%20Composite%20Using%20Fly-Ash%20and%20Nano-Silica%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+green+engineered+cementitious+composite+using+fly-ash+and+nano-silica+for+3d+printing&as_occt=title&as_sauthors=anandaraj&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189876623&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.13074/jent.2024.03.241515" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

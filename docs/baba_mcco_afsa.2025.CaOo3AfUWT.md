@@ -20,7 +20,7 @@ Contribution - HACBAC2025
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Challenges%20and%20Opportunities%20of%203DCP%20Adoption%20for%20US%20Workforce%20Training" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=challenges+and+opportunities+of+3dcp+adoption+for+us+workforce+training&as_occt=title&as_sauthors=babajaniniashirvani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

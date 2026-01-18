@@ -23,14 +23,15 @@ tags:
 
 #Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">A Comparative Value-Stream-Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104292" target="_blank">10.1016/j.addma.2024.104292</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2024.104292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104292" target="_blank">10.1016/j.addma.2024.104292</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
 Journal Article - Additive Manufacturing, No. 104292
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/offsite"><button class="btn">#offsite</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Economic%20Analysis%20of%20Offsite%20and%20Onsite%203D%20Construction%20Printing%20Techniques%20for%20Low-Story%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=economic+analysis+of+offsite+and+onsite+3d+construction+printing+techniques+for+low-story+buildings&as_occt=title&as_sauthors=raza&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198263391&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267910900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2024.104292" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

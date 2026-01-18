@@ -16,14 +16,15 @@ tags:
 ---
 
 #Possibilities for Reducing the Environmental Impact in the Construction Industry Using the Example of a 3D Printed Staircase ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-9400-3_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-9400-3_6" target="_blank">10.1007/978-981-97-9400-3_6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-9400-3_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-9400-3_6" target="_blank">10.1007/978-981-97-9400-3_6</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-2486-5714" title="ORCID: 0009-0002-2486-5714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b>&nbsp;Sophie</a></span>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-0762-9318" title="ORCID: 0009-0008-0762-9318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weininger_florian"><b>Weininger</b>&nbsp;Florian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0092-468X" title="ORCID: 0000-0002-0092-468X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thiel_charlotte"><b>Thiel</b>&nbsp;Charlotte</a></span><br>
 Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 55-64
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/stair"><button class="btn">#stair</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Possibilities%20for%20Reducing%20the%20Environmental%20Impact%20in%20the%20Construction%20Industry%20Using%20the%20Example%20of%20a%203D%20Printed%20Staircase" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=possibilities+for+reducing+the+environmental+impact+in+the+construction+industry+using+the+example+of+a+3d+printed+staircase&as_occt=title&as_sauthors=albrecht&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002120235&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-9400-3_6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

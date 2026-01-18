@@ -8,6 +8,10 @@ search:
 
 # #grade
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (29)</button></a> <a href="../../keyword/print"><button class="btn">#print (26)</button></a> <a href="../../keyword/function"><button class="btn">#function (16)</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate (8)</button></a> <a href="../../keyword/design"><button class="btn">#design (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_lomb.2025.ASDWfOSMPaGo3/">A Streamlined Decentralised Workflow for Obtaining Specific Mechanical Performance and Grade of 3DPC:<br/>Towards the Standardisation and Industrialisation of 3DCP</a></li>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>

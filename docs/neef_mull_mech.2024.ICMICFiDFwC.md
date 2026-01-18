@@ -19,14 +19,15 @@ tags:
 ---
 
 #Integrating Continuous Mineral-Impregnated Carbon-Fibers into Digital Fabrication with Concrete ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.112794) <a href="https://doi.org/10.1016/j.matdes.2024.112794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112794" target="_blank">10.1016/j.matdes.2024.112794</a>
+<a href="https://doi.org/10.1016/j.matdes.2024.112794" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2024.112794" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112794" target="_blank">10.1016/j.matdes.2024.112794</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neef_tobias"><b>Neef</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0630-5441" title="ORCID: 0000-0002-0630-5441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muller_steffen"><b>Müller</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Materials & Design, No. 112794
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Continuous%20Mineral-Impregnated%20Carbon-Fibers%20into%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrating+continuous+mineral-impregnated+carbon-fibers+into+digital+fabrication+with+concrete&as_occt=title&as_sauthors=neef&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187207313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001202779800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2024.112794" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

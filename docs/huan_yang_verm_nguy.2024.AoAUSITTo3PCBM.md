@@ -17,14 +17,15 @@ tags:
 ---
 
 #Application of Adelaide-University-Snapback-Indirect-Tensile-Test on 3D Printed Cement-Based Materials ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2024.06.032) <a href="https://doi.org/10.1016/j.prostr.2024.06.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.06.032" target="_blank">10.1016/j.prostr.2024.06.032</a>
+<a href="https://doi.org/10.1016/j.prostr.2024.06.032" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.prostr.2024.06.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.06.032" target="_blank">10.1016/j.prostr.2024.06.032</a>
 
 <a href="../../../author/huang_zili"><b>Huang</b>&nbsp;Zili</a></span>, <a href="../../../author/yang_weiyi"><b>Yang</b>&nbsp;Weiyi</a></span>, <a href="../../../author/verma_rupesh"><b>Verma</b>&nbsp;Rupesh</a></span>, <a href="../../../author/nguyen_d_giang"><b>Nguyen</b>&nbsp;Giang</a></span>, <a href="../../../author/tung_t_tran"><b>Tung</b>&nbsp;Tran</a></span>, <a href="../../../author/karakus_murat"><b>Karakus</b>&nbsp;Murat</a></span><br>
 Journal Article - Procedia Structural Integrity, Vol. 61, pp. 252-259
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Adelaide-University-Snapback-Indirect-Tensile-Test%20on%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+adelaide-university-snapback-indirect-tensile-test+on+3d+printed+cement-based+materials&as_occt=title&as_sauthors=huang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200960244&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.prostr.2024.06.032" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

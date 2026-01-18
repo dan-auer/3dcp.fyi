@@ -8,6 +8,10 @@ search:
 
 # #incremental
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/model"><button class="btn">#model (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/finite"><button class="btn">#finite (2)</button></a> <a href="../../keyword/strain"><button class="btn">#strain (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a>, <a href="../../../author/awada_zeinab"><b>Awada</b> Zeinab</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../nedj_awad.2023.IFoEACitFSRftMo3CP/">Incremental Formulation of Early-Age Concrete in the Finite Strain Range for the Modelling of 3D Concrete Printing</a></li>
   <li><a href="../../../author/nedjar_boumediene"><b>Nedjar</b> Boumediene</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../nedj.2022.IVaFSftMo3CP/">Incremental Viscoelasticity at Finite Strains for the Modelling of 3D Concrete Printing</a></li>

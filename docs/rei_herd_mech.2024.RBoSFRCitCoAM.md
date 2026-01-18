@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheological Behavior of Steel-Fiber-Reinforced Concrete in the Context of Additive Manufacturing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70145-0_57" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70145-0_57" target="_blank">10.1007/978-3-031-70145-0_57</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70145-0_57" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70145-0_57" target="_blank">10.1007/978-3-031-70145-0_57</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reissig_silvia"><b>Reißig</b>&nbsp;Silvia</a></span>, <a href="../../../author/herdan_annika"><b>Herdan</b>&nbsp;Annika</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Contribution - Proceedings of the 11th RILEM-fib International Symposium on Fiber-Reinforced Concrete, pp. 467-474
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Behavior%20of%20Steel-Fiber-Reinforced%20Concrete%20in%20the%20Context%20of%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+behavior+of+steel-fiber-reinforced+concrete+in+the+context+of+additive+manufacturing&as_occt=title&as_sauthors=rei%C3%9Fig&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205124077&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333028600057" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70145-0_57" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

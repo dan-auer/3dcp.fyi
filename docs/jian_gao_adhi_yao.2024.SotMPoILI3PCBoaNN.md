@@ -19,14 +19,15 @@ tags:
 ---
 
 #Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2024.e04193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04193" target="_blank">10.1016/j.cscm.2024.e04193</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e04193" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04193" target="_blank">10.1016/j.cscm.2024.e04193</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0276-818X" title="ORCID: 0000-0003-0276-818X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_youbau"><b>Jiang</b>&nbsp;Youbau</a></span>, <a href="../../../author/gao_pengxiang"><b>Gao</b>&nbsp;Pengxiang</a></span>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b>&nbsp;Sondipon</a></span>, <a href="../../../author/yao_xiaofei"><b>Yao</b>&nbsp;Xiaofei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4237-9421" title="ORCID: 0000-0002-4237-9421" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hao"><b>Zhou</b>&nbsp;Hao</a></span>, <a href="../../../author/liu_yan"><b>Liu</b>&nbsp;Yan</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04193
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Studies%20on%20the%20Mechanical%20Properties%20of%20Inter-Layer%20Interlocking%203D%20Printed%20Concrete%20Based%20on%20a%20Novel%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=studies+on+the+mechanical+properties+of+inter-layer+interlocking+3d+printed+concrete+based+on+a+novel+nozzle&as_occt=title&as_sauthors=jiang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213962210&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001407802300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e04193" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

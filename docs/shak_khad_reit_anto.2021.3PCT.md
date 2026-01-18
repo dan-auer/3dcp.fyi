@@ -12,14 +12,15 @@ tags:
 ---
 
 #3D Printed Concrete Tectonics ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia21_420.pdf) <a href="https://doi.org/10.52842/conf.acadia.2021.420" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2021.420" target="_blank">10.52842/conf.acadia.2021.420</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia21_420.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2021.420" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2021.420" target="_blank">10.52842/conf.acadia.2021.420</a>
 
 <a href="../../../author/shaker_aya"><b>Shaker</b>&nbsp;Aya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4503-1444" title="ORCID: 0000-0003-4503-1444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khader_noor"><b>Khader</b>&nbsp;Noor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span><br>
 Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 420-427
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Tectonics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete+tectonics&as_occt=title&as_sauthors=shaker&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2021.420" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

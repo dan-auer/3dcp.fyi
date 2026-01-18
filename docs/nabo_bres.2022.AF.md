@@ -21,14 +21,15 @@ tags:
 
 #Additive Formwork&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-11232-4_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-11232-4_22" target="_blank">10.1007/978-3-031-11232-4_22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-11232-4_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-11232-4_22" target="_blank">10.1007/978-3-031-11232-4_22</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span><br>
 Contribution - Advances in Architecture, Engineering and Technology, pp. 249-260
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bespoke"><button class="btn">#bespoke</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/resolution"><button class="btn">#resolution</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+formwork&as_occt=title&as_sauthors=naboni&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144658528&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-11232-4_22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

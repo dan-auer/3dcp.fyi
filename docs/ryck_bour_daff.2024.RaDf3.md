@@ -22,7 +22,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 44-51
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20and%20Development%20for%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+and+development+for+3dcp&as_occt=title&as_sauthors=rycke&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

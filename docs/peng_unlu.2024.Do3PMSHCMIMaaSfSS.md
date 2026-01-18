@@ -19,14 +19,15 @@ tags:
 ---
 
 #Development of 3D Printed Magnesium-Silicate-Hydrate-Cement Mixes Involving Metakaolin as a Substitute for Silica-Source ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2382173) <a href="https://doi.org/10.1080/17452759.2024.2382173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2382173" target="_blank">10.1080/17452759.2024.2382173</a>
+<a href="https://doi.org/10.1080/17452759.2024.2382173" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2024.2382173" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2382173" target="_blank">10.1080/17452759.2024.2382173</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/source"><button class="btn">#source</button></a> <a href="../../keyword/substitution"><button class="btn">#substitution</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printed%20Magnesium-Silicate-Hydrate-Cement%20Mixes%20Involving%20Metakaolin%20as%20a%20Substitute%20for%20Silica-Source" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+3d+printed+magnesium-silicate-hydrate-cement+mixes+involving+metakaolin+as+a+substitute+for+silica-source&as_occt=title&as_sauthors=peng&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199546764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001277351600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2024.2382173" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

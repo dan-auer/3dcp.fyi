@@ -8,6 +8,10 @@ search:
 
 # #lever
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/composite"><button class="btn">#composite (3)</button></a> <a href="../../keyword/cure"><button class="btn">#cure (3)</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../yu_xu_zhan_ye.2025.LIBAfMEASi3PECC/">Leveraging Incinerator Bottom Ash for Mitigating Early-Age Shrinkage in 3D Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>

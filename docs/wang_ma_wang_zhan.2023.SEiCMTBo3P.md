@@ -16,14 +16,15 @@ tags:
 ---
 
 #Size-Effects in Cavern-Model-Tests Based on 3D Printing ([2023-04](date/2023/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tust.2023.105135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tust.2023.105135" target="_blank">10.1016/j.tust.2023.105135</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.tust.2023.105135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tust.2023.105135" target="_blank">10.1016/j.tust.2023.105135</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2867-8142" title="ORCID: 0000-0002-2867-8142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_youyu"><b>Wang</b>&nbsp;Youyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/zhang_wengang"><b>Zhang</b>&nbsp;Wengang</a></span>, <a href="../../../author/liu_hanlong"><b>Liu</b>&nbsp;Hanlong</a></span><br>
 Journal Article - Tunnelling and Underground Space Technology, Vol. 137, No. 105135
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Size-Effects%20in%20Cavern-Model-Tests%20Based%20on%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=size-effects+in+cavern-model-tests+based+on+3d+printing&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152920646&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001053316300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.tust.2023.105135" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

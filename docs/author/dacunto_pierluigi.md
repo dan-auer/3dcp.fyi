@@ -9,6 +9,60 @@ search:
 
 #  D'Acunto Pierluigi 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4005-2596" target="_blank">0000-0003-4005-2596</a>
+
+    First Contribution
+    : 2023-09-22
+    
+    Last Contribution
+    : 2025-08-13
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 24
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (6)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (4)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (4)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/bleker_lazlo"><b>Bleker</b> Lazlo</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../renn_gant_diel_blek.2023.RK/">Robotic Knitcrete:<br/>Computational Design and Fabrication of a Pedestrian Bridge Using Robotic Shotcrete on a 3D Knitted Formwork</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (31)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (22)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (22)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (13)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (8)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (4)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>

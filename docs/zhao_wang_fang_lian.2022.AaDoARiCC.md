@@ -18,14 +18,15 @@ tags:
 
 #Application and Development of Autonomous Robots in Concrete Construction&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">Challenges and Opportunities</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-446X/6/12/424/pdf?version=1671526298) <a href="https://doi.org/10.3390/drones6120424" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/drones6120424" target="_blank">10.3390/drones6120424</a>
+<a href="https://www.mdpi.com/2504-446X/6/12/424/pdf?version=1671526298" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/drones6120424" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/drones6120424" target="_blank">10.3390/drones6120424</a>
 
 <a href="../../../author/zhao_shun"><b>Zhao</b>&nbsp;Shun</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/fang_xinjun"><b>Fang</b>&nbsp;Xinjun</a></span>, <a href="../../../author/liang_wei"><b>Liang</b>&nbsp;Wei</a></span>, <a href="../../../author/cao_yu"><b>Cao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhao_changyi"><b>Zhao</b>&nbsp;Changyi</a></span>, <a href="../../../author/li_lu"><b>Li</b>&nbsp;Lu</a></span>, <a href="../../../author/liu_chunbao"><b>Liu</b>&nbsp;Chunbao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3807-3697" title="ORCID: 0000-0003-3807-3697" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kunyang"><b>Wang</b>&nbsp;Kunyang</a></span><br>
 Journal Article - Drones, Vol. 6, Iss. 12, No. 424
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20and%20Development%20of%20Autonomous%20Robots%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+and+development+of+autonomous+robots+in+concrete+construction&as_occt=title&as_sauthors=zhao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144834650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000901296200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/drones6120424" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

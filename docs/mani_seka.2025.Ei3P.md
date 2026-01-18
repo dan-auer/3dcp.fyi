@@ -18,14 +18,15 @@ tags:
 
 #Extrudability in 3D Printing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-2266-8_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-2266-8_51" target="_blank">10.1007/978-981-95-2266-8_51</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-2266-8_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-2266-8_51" target="_blank">10.1007/978-981-95-2266-8_51</a>
 
 <a href="../../../author/mani_aravindhraj"><b>Mani</b>&nbsp;Aravindhraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sekar_kumar_muthu"><b>Sekar</b>&nbsp;Muthu</a></span><br>
 Contribution - International Conference on Civil Engineering Innovative Development in Engineering Advances, pp. 477-484
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Extrudability%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=extrudability+in+3d+printing&as_occt=title&as_sauthors=mani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022013148&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-2266-8_51" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

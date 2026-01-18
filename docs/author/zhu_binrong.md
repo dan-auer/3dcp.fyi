@@ -9,7 +9,62 @@ search:
 
 #  Zhu Binrong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8354-4569" target="_blank">0000-0002-8354-4569</a>
+
+    First Contribution
+    : 2019-07-31
+    
+    Last Contribution
+    : 2026-01-05
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 531
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (16)</li>
+        <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> (8)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (4)</li>
+        <li><a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a> (212)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (52)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (46)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (46)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (28)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (24)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (20)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (20)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (20)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
   <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/he_qianpeng"><b>He</b> Qianpeng</a>, <a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_he_ping_pan.2025.AFBaEAo3PECC3EBULVI/">Anisotropic Flexural Behavior and Energy Absorption of 3D Printed Engineered Cementitious Composites (3DP-ECC) Beams Under Low-Velocity Impact</a></li>

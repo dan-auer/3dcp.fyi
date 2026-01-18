@@ -8,6 +8,10 @@ search:
 
 # #salt
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance (2)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/remond_elise"><b>Rémond</b> Elise</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../thib_remo_bela_remo.2025.3PEEMUSW/">3D Printable Eco-Efficient Mortars Under Salt Water:<br/>Mix Design and Characterization</a></li>
   <li><a href="../../../author/bakr_madhat_somahi"><b>Bakr</b> Somahi</a>, <a href="../../../author/cruz_marcos"><b>Cruz</b> Marcos</a>, <a href="../../../author/mayor-luque_ricardo"><b>Mayor-Luque</b> Ricardo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bakr_cruz_mayo.2025.CS/">Cura Salad:<br/>Robotic Heated Spatial 3D Printing of Salt-Clay Composites for Health-Oriented Vernacular Architecture</a></li>

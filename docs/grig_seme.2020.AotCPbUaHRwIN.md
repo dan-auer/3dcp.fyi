@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automation of the Construction Process by Using a Hinged Robot with Interchangeable Nozzles ([2020-02](date/2020/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2019.12.381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2019.12.381" target="_blank">10.1016/j.matpr.2019.12.381</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2019.12.381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2019.12.381" target="_blank">10.1016/j.matpr.2019.12.381</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6023-7646" title="ORCID: 0000-0002-6023-7646" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grigoryan_a_erik"><b>Grigoryan</b>&nbsp;Erik</a></span>, <a href="../../../author/semenova_d_m"><b>Semenova</b>&nbsp;M.</a></span><br>
 Journal Article - Materials Today: Proceedings, Vol. 30, pp. 380-387
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automation%20of%20the%20Construction%20Process%20by%20Using%20a%20Hinged%20Robot%20with%20Interchangeable%20Nozzles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automation+of+the+construction+process+by+using+a+hinged+robot+with+interchangeable+nozzles&as_occt=title&as_sauthors=grigoryan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85093500685&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000576778500005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2019.12.381" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

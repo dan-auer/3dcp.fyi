@@ -15,14 +15,15 @@ tags:
 ---
 
 #Parametric Customisation of a 3D Concrete Printed Pavilion ([2016-04](date/2016/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2016_549.pdf) <a href="https://doi.org/10.52842/conf.caadria.2016.549" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2016.549" target="_blank">10.52842/conf.caadria.2016.549</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2016_549.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2016.549" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2016.549" target="_blank">10.52842/conf.caadria.2016.549</a>
 
 <a href="../../../author/fischer_thomas"><b>Fischer</b>&nbsp;Thomas</a></span>, <a href="../../../author/herr_m_christiane"><b>Herr</b>&nbsp;Christiane</a></span><br>
 Contribution - Proceedings of the 21st Conference on Computer Aided Architectural Design Research in Asia (CAADRIA), pp. 549-558
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/pavilion"><button class="btn">#pavilion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Customisation%20of%20a%203D%20Concrete%20Printed%20Pavilion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parametric+customisation+of+a+3d+concrete+printed+pavilion&as_occt=title&as_sauthors=fischer&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2016.549" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

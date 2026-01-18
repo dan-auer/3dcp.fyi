@@ -18,14 +18,15 @@ tags:
 ---
 
 #Comparative Analysis of Concrete 3D Printing and Conventional Construction Technique for Housing ([2023-01](date/2023/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" target="_blank">10.1016/b978-0-323-86011-6.00011-8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-86011-6.00011-8" target="_blank">10.1016/b978-0-323-86011-6.00011-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0737-9530" title="ORCID: 0000-0002-0737-9530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vijayalaxmi_jeyasingh"><b>Vijayalaxmi</b>&nbsp;Jeyasingh</a></span>, <a href="../../../author/singh_parth"><b>Singh</b>&nbsp;Parth</a></span><br>
 Contribution - Innovative Processes and Materials in Additive Manufacturing, pp. 177-190
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Concrete%203D%20Printing%20and%20Conventional%20Construction%20Technique%20for%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+analysis+of+concrete+3d+printing+and+conventional+construction+technique+for+housing&as_occt=title&as_sauthors=vijayalaxmi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143317705&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-323-86011-6.00011-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

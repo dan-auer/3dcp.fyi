@@ -8,7 +8,12 @@ search:
 
 # #cost
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (26)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (12)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (10)</button></a> <a href="../../keyword/low"><button class="btn">#low (9)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../fede_sibe_tosi_ziel.2026.EASMo3PCMCoMTaLCA/">Early-Age Shrinkage Monitoring of 3D-Printed Cementitious Mixtures: Comparison of Measuring Techniques and Low-Cost Alternatives</a></li>
   <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
   <li><a href="../../../author/masri_al_abdullah"><b>Masri</b> Abdullah</a>, <a href="../../../author/vazquez_garrido_elaine"><b>Vazquez</b> Elaine</a>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b> Assed</a>, <a href="../../../author/najjar_k_mohammed"><b>Najjar</b> Mohammed</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../masr_vazq_hadd_najj.2025.LCCi3P/">Life Cycle Costing in 3D Printing:<br/>A Literature Review</a></li>
   <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/bruncic_ana"><b>Brunčič</b> Ana</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../alon_alon_yori_brun.2025.RPRf3PSMUaNLCRR/">Rheological Parameter Ranges for 3D Printing Sustainable Mortars Using a New Low-Cost Rotational Rheometer</a></li>

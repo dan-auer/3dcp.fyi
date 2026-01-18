@@ -15,14 +15,15 @@ tags:
 
 #Industry 4.0 in a Project Context&nbsp;([2021-10](date/2021/10))
 <div class="h1-like">Introducing 3D Printing in Construction Projects</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.plas.2021.100033) <a href="https://doi.org/10.1016/j.plas.2021.100033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.plas.2021.100033" target="_blank">10.1016/j.plas.2021.100033</a>
+<a href="https://doi.org/10.1016/j.plas.2021.100033" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.plas.2021.100033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.plas.2021.100033" target="_blank">10.1016/j.plas.2021.100033</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <a href="../../../author/arica_emrah"><b>Arica</b>&nbsp;Emrah</a></span>, <a href="../../../author/woods_ruth"><b>Woods</b>&nbsp;Ruth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span><br>
 Journal Article - Project Leadership and Society, Vol. 2
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Industry%204.0%20in%20a%20Project%20Context" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=industry+4.0+in+a+project+context&as_occt=title&as_sauthors=olsson&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130274821&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.plas.2021.100033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

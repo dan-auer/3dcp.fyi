@@ -15,14 +15,15 @@ tags:
 
 #Giving Shape and Functionality to the Matter&nbsp;([2023-01](date/2023/01))
 <div class="h1-like">Digital Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-09319-7_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-09319-7_2" target="_blank">10.1007/978-3-031-09319-7_2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-09319-7_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-09319-7_2" target="_blank">10.1007/978-3-031-09319-7_2</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3510-6847" title="ORCID: 0000-0002-3510-6847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lootens_didier"><b>Lootens</b>&nbsp;Didier</a></span><br>
 Contribution - 3D Printing for Construction with Alternative Materials, pp. 33-56
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Giving%20Shape%20and%20Functionality%20to%20the%20Matter" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=giving+shape+and+functionality+to+the+matter&as_occt=title&as_sauthors=lootens&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-09319-7_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

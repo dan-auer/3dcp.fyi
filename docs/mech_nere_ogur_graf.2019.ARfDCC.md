@@ -15,14 +15,15 @@ tags:
 ---
 
 #Alternative Reinforcements for Digital Concrete Construction ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_15" target="_blank">10.1007/978-3-319-99519-9_15</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_15" target="_blank">10.1007/978-3-319-99519-9_15</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <a href="../../../author/grafe_jasmin"><b>Grafe</b>&nbsp;Jasmin</a></span>, <a href="../../../author/spaniol_erik"><b>Spaniol</b>&nbsp;Erik</a></span>, <a href="../../../author/hertel_martin"><b>Hertel</b>&nbsp;Martin</a></span>, <a href="../../../author/fussel_uwe"><b>Füssel</b>&nbsp;Uwe</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 167-175
 
 <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Alternative%20Reinforcements%20for%20Digital%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=alternative+reinforcements+for+digital+concrete+construction&as_occt=title&as_sauthors=mechtcherine&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052715417&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_15" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

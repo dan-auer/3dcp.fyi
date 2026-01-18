@@ -23,14 +23,15 @@ tags:
 
 #Inter-Layer Bond Strength Prediction of 3D Printable Concrete Using Artificial Neural Network&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">Experimental and Modeling Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.108147" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.108147" target="_blank">10.1016/j.istruc.2024.108147</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2024.108147" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.108147" target="_blank">10.1016/j.istruc.2024.108147</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b>&nbsp;Habib</a></span>, <a href="../../../author/mousavi_fateme"><b>Mousavi</b>&nbsp;Fateme</a></span>, <a href="../../../author/mahdavinia_pooneh"><b>Mahdavinia</b>&nbsp;Pooneh</a></span>, <a href="../../../author/bengar_akbari_mehdi"><b>Bengar</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Structures, Vol. 71, No. 108147
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Bond%20Strength%20Prediction%20of%203D%20Printable%20Concrete%20Using%20Artificial%20Neural%20Network" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=inter-layer+bond+strength+prediction+of+3d+printable+concrete+using+artificial+neural+network&as_occt=title&as_sauthors=mousavi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213571444&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001414791700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2024.108147" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

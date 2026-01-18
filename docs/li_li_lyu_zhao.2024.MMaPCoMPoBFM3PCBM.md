@@ -23,14 +23,15 @@ tags:
 ---
 
 #Microscopic Mechanism and Predicting Calculation on Mechanical Properties of Basalt-Fiber-Modified 3D Printing Cement-Based Materials ([2024-12](date/2024/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e04087) <a href="https://doi.org/10.1016/j.cscm.2024.e04087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04087" target="_blank">10.1016/j.cscm.2024.e04087</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e04087" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e04087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e04087" target="_blank">10.1016/j.cscm.2024.e04087</a>
 
 <a href="../../../author/li_ben"><b>Li</b>&nbsp;Ben</a></span>, <a href="../../../author/li_kaihang"><b>Li</b>&nbsp;Kaihang</a></span>, <a href="../../../author/lyu_xuetao"><b>Lyu</b>&nbsp;Xuetao</a></span>, <a href="../../../author/zhao_canhao"><b>Zhao</b>&nbsp;Canhao</a></span>, <a href="../../../author/guan_xianzhang"><b>Guan</b>&nbsp;Xianzhang</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04087
 
 <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Microscopic%20Mechanism%20and%20Predicting%20Calculation%20on%20Mechanical%20Properties%20of%20Basalt-Fiber-Modified%203D%20Printing%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=microscopic+mechanism+and+predicting+calculation+on+mechanical+properties+of+basalt-fiber-modified+3d+printing+cement-based+materials&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211143840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001376759200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e04087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

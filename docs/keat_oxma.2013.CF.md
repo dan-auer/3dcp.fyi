@@ -19,14 +19,15 @@ tags:
 
 #Compound Fabrication&nbsp;([2013-06](date/2013/06))
 <div class="h1-like">A Multi-Functional Robotic Platform for Digital Design and Fabrication</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.rcim.2013.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rcim.2013.05.001" target="_blank">10.1016/j.rcim.2013.05.001</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.rcim.2013.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rcim.2013.05.001" target="_blank">10.1016/j.rcim.2013.05.001</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8775-5590" title="ORCID: 0000-0002-8775-5590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keating_j_steven"><b>Keating</b>&nbsp;Steven</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
 Journal Article - Robotics and Computer-Integrated Manufacturing, Vol. 29, Iss. 6, pp. 439-448
 
 <a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Compound%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=compound+fabrication&as_occt=title&as_sauthors=keating&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84879319971&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000324084700002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.rcim.2013.05.001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

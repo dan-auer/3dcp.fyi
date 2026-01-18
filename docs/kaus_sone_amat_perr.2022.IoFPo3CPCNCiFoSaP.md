@@ -25,7 +25,7 @@ Contribution - Proceedings of Civil Engineering Research in Ireland 2022 and Iri
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Fresh%20Properties%20of%203D%20Concrete%20Printing%20Containing%20Nano-Clay%20in%20Forms%20of%20Suspension%20and%20Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+fresh+properties+of+3d+concrete+printing+containing+nano-clay+in+forms+of+suspension+and+powder&as_occt=title&as_sauthors=kaushik&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

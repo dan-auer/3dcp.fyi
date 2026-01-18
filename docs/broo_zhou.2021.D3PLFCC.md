@@ -16,14 +16,15 @@ tags:
 ---
 
 #Developing 3D Printable Lightweight Functional Cementitious Composite ([2021-04](date/2021/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784483381.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483381.005" target="_blank">10.1061/9780784483381.005</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784483381.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483381.005" target="_blank">10.1061/9780784483381.005</a>
 
 <a href="../../../author/brooks_lee_adam"><b>Brooks</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
 Contribution - Proceedings of the 17th Biennial International Conference on Engineering, Science, Construction, and Operations in Challenging Environments, pp. 52-58
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Developing%203D%20Printable%20Lightweight%20Functional%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=developing+3d+printable+lightweight+functional+cementitious+composite&as_occt=title&as_sauthors=brooks&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104867988&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784483381.005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

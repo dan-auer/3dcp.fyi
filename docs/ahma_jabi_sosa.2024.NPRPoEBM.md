@@ -19,14 +19,15 @@ tags:
 
 #Non-Planar Robotic Printing of Earth-Based Material&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">A Case Study Using Cob-Like Mixture</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14082589) <a href="https://doi.org/10.3390/buildings14082589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14082589" target="_blank">10.3390/buildings14082589</a>
+<a href="https://doi.org/10.3390/buildings14082589" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14082589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14082589" target="_blank">10.3390/buildings14082589</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8236-6978" title="ORCID: 0000-0001-8236-6978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmad_lina"><b>Ahmad</b>&nbsp;Lina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2594-9568" title="ORCID: 0000-0002-2594-9568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabi_wassim"><b>Jabi</b>&nbsp;Wassim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5807-2088" title="ORCID: 0000-0002-5807-2088" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sosa_marco"><b>Sosa</b>&nbsp;Marco</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 8, No. 2589
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Non-Planar%20Robotic%20Printing%20of%20Earth-Based%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=non-planar+robotic+printing+of+earth-based+material&as_occt=title&as_sauthors=ahmad&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202447375&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001304953400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14082589" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Recent Innovations and Implementations of 3D Printing in the Building and Construction Sector ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-3165-0_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_11" target="_blank">10.1007/978-981-96-3165-0_11</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-3165-0_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_11" target="_blank">10.1007/978-981-96-3165-0_11</a>
 
 <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b>&nbsp;Biswajoy</a></span>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b>&nbsp;Prakash</a></span><br>
 Contribution - Recent Advances in Additive Manufacturing, pp. 149-157
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recent%20Innovations%20and%20Implementations%20of%203D%20Printing%20in%20the%20Building%20and%20Construction%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recent+innovations+and+implementations+of+3d+printing+in+the+building+and+construction+sector&as_occt=title&as_sauthors=bhattacharjee&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006912218&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-3165-0_11" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

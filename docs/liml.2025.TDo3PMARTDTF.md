@@ -18,14 +18,15 @@ tags:
 
 #The Designing of 3D-Printed Modular Artificial Reefs Through Design Thinking Framework&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">A Case Study in Koh Khai, Chumphon Province, Thailand</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s43621-025-01691-y.pdf) <a href="https://doi.org/10.1007/s43621-025-01691-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43621-025-01691-y" target="_blank">10.1007/s43621-025-01691-y</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s43621-025-01691-y.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43621-025-01691-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43621-025-01691-y" target="_blank">10.1007/s43621-025-01691-y</a>
 
 <a href="../../../author/limlunjakorn_torpong"><b>Limlunjakorn</b>&nbsp;Torpong</a></span><br>
 Journal Article - Discover Sustainability, Vol. 6, Iss. 1
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Designing%20of%203D-Printed%20Modular%20Artificial%20Reefs%20Through%20Design%20Thinking%20Framework" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+designing+of+3d-printed+modular+artificial+reefs+through+design+thinking+framework&as_occt=title&as_sauthors=limlunjakorn&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012832302&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43621-025-01691-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

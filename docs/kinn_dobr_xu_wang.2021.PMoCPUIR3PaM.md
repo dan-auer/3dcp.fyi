@@ -22,7 +22,7 @@ Contribution - Proceedings of the 21st International Conference of the European 
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Precision%20Manufacture%20of%20Concrete%20Parts%20Using%20Integrated%20Robotic%203D%20Printing%20and%20Milling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=precision+manufacture+of+concrete+parts+using+integrated+robotic+3d+printing+and+milling&as_occt=title&as_sauthors=kinnell&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

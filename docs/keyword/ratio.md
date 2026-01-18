@@ -8,6 +8,10 @@ search:
 
 # #ratio
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (19)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (13)</button></a> <a href="../../keyword/binder"><button class="btn">#binder (8)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (8)</button></a> <a href="../../keyword/property"><button class="btn">#property (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
   <li><a href="../../../author/tang_can"><b>Tang</b> Can</a>, <a href="../../../author/zhou_yujie"><b>Zhou</b> Yujie</a>, <a href="../../../author/mehmood_awais"><b>Mehmood</b> Awais</a>, <a href="../../../author/rania_chlihi"><b>Rania</b> Chlihi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_zhou_mehm_rani.2025.AN3PNPsRGRCBCWS/">A Novel 3D-Printed Negative Poisson's Ratio Grid-Reinforced Cement-Based Composite Wall Structure:<br/>Design, Fabrication, and Compressive Properties</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Multi-Axis 3D Printing of Material-Reduced Shell-Structures on a Reconfigurable Supporting-System Using Topology-Optimization Principles ([2020-05](date/2020/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.promfg.2020.02.280) <a href="https://doi.org/10.1016/j.promfg.2020.02.280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.02.280" target="_blank">10.1016/j.promfg.2020.02.280</a>
+<a href="https://doi.org/10.1016/j.promfg.2020.02.280" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.promfg.2020.02.280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.02.280" target="_blank">10.1016/j.promfg.2020.02.280</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b>&nbsp;Odysseas</a></span>, <a href="../../../author/phocas_c_marios"><b>Phocas</b>&nbsp;Marios</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tryfonos_george"><b>Tryfonos</b>&nbsp;George</a></span>, <a href="../../../author/georgiou_christos"><b>Georgiou</b>&nbsp;Christos</a></span><br>
 Journal Article - Procedia Manufacturing, Vol. 44, pp. 379-386
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Axis%203D%20Printing%20of%20Material-Reduced%20Shell-Structures%20on%20a%20Reconfigurable%20Supporting-System%20Using%20Topology-Optimization%20Principles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-axis+3d+printing+of+material-reduced+shell-structures+on+a+reconfigurable+supporting-system+using+topology-optimization+principles&as_occt=title&as_sauthors=kontovourkis&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088035792&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000865915900048" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.promfg.2020.02.280" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

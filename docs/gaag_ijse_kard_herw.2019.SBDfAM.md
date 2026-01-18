@@ -15,14 +15,15 @@ tags:
 ---
 
 #Structural Bridge Design for Additive Manufacturing ([2019-09](date/2019/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/newyork.2019.0195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/newyork.2019.0195" target="_blank">10.2749/newyork.2019.0195</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/newyork.2019.0195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/newyork.2019.0195" target="_blank">10.2749/newyork.2019.0195</a>
 
 <a href="../../../author/gaag_jan_bert"><b>van der&nbsp;Gaag</b>&nbsp;Bert</a></span>, <a href="../../../author/ijselmuijden_kees"><b>van&nbsp;Ijselmuijden</b>&nbsp;Kees</a></span>, <a href="../../../author/kardas_maurice"><b>Kardas</b>&nbsp;Maurice</a></span>, <a href="../../../author/herwaarden_joel"><b>van&nbsp;Herwaarden</b>&nbsp;Joël</a></span>, <a href="../../../author/tromp_liesbeth"><b>Tromp</b>&nbsp;Liesbeth</a></span><br>
 Contribution - Proceedings of the 2019 IABSE Congress, pp. 195-199
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Bridge%20Design%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+bridge+design+for+additive+manufacturing&as_occt=title&as_sauthors=gaag&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/newyork.2019.0195" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

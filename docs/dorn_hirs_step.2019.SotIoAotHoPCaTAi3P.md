@@ -16,14 +16,15 @@ tags:
 ---
 
 #Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing ([2019-09](date/2019/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_44" target="_blank">10.1007/978-3-030-22566-7_44</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-22566-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_44" target="_blank">10.1007/978-3-030-22566-7_44</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0938-4261" title="ORCID: 0000-0002-0938-4261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hirsch_tamino"><b>Hirsch</b>&nbsp;Tamino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
 Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 382-390
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Influence%20of%20Accelerators%20on%20the%20Hydration%20of%20Portland%20Cement%20and%20Their%20Applicability%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+influence+of+accelerators+on+the+hydration+of+portland+cement+and+their+applicability+in+3d+printing&as_occt=title&as_sauthors=dorn&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071433870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-22566-7_44" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

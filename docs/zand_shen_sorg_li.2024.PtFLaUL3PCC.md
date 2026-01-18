@@ -15,14 +15,15 @@ tags:
 ---
 
 #Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" target="_blank">10.1016/j.conbuildmat.2024.135874</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135874" target="_blank">10.1016/j.conbuildmat.2024.135874</a>
 
 <a href="../../../author/zandifaez_peyman"><b>Zandifaez</b>&nbsp;Peyman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7037-2454" title="ORCID: 0000-0002-7037-2454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_zhenglai"><b>Shen</b>&nbsp;Zhenglai</a></span>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b>&nbsp;Reese</a></span>, <a href="../../../author/li_yucen"><b>Li</b>&nbsp;Yucen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2950-2237" title="ORCID: 0000-0002-2950-2237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_dias_daniel"><b>da&nbsp;Costa</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 424, No. 135874
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pathways%20to%20Formulate%20Lightweight%20and%20Ultra-Lightweight%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pathways+to+formulate+lightweight+and+ultra-lightweight+3d+printable+cementitious+composites&as_occt=title&as_sauthors=zandifaez&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188654624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001217647300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.135874" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

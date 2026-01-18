@@ -9,6 +9,60 @@ search:
 
 #  Dielemans Gido 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0925-6112" target="_blank">0000-0002-0925-6112</a>
+
+    First Contribution
+    : 2021-04-06
+    
+    Last Contribution
+    : 2024-09-14
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 100
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (9)</li>
+        <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> (5)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (5)</li>
+        <li><a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (28)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (23)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (22)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (16)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (7)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (6)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (6)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
   <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../diel_lach_khad_hack.2024.RR/">Robotic Repair:<br/>In-Place 3D Printing for Repair of Building Components Using a Mobile Robot</a></li>

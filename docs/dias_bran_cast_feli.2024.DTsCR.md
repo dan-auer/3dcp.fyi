@@ -25,7 +25,7 @@ Contribution - Proceedings of the XXVIII Conference of the Ibero-American Societ
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/coral"><button class="btn">#coral</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%20Tomorrow%27s%20Coral%20Reefs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+tomorrow%27s+coral+reefs&as_occt=title&as_sauthors=dias&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

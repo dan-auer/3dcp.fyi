@@ -20,14 +20,15 @@ tags:
 ---
 
 #Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/6/1978/pdf?version=1646806813) <a href="https://doi.org/10.3390/en15061978" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15061978" target="_blank">10.3390/en15061978</a>
+<a href="https://www.mdpi.com/1996-1073/15/6/1978/pdf?version=1646806813" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/en15061978" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15061978" target="_blank">10.3390/en15061978</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span>, <a href="../../../author/yu_shiheng"><b>Yu</b>&nbsp;Shiheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/yang_haibin"><b>Yang</b>&nbsp;Haibin</a></span><br>
 Journal Article - Energies, Vol. 15, Iss. 6
 
 <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Printability%20and%20Thermal%20Properties%20of%203D%20Printed%20Concrete%20Mixed%20with%20Phase-Change-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+printability+and+thermal+properties+of+3d+printed+concrete+mixed+with+phase-change-materials&as_occt=title&as_sauthors=cui&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126294145&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000775544300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/en15061978" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -23,14 +23,15 @@ tags:
 
 #In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">Application in Alkali-Activated Fly-Ash-Slag Geopolymers</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1088/1361-665x/ac3438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1361-665x/ac3438" target="_blank">10.1088/1361-665x/ac3438</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1361-665x/ac3438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1361-665x/ac3438" target="_blank">10.1088/1361-665x/ac3438</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8286-0976" title="ORCID: 0000-0001-8286-0976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocherla_amarteja"><b>Kocherla</b>&nbsp;Amarteja</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span><br>
 Journal Article - Smart Materials and Structures, Vol. 30, Iss. 12
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=In-Situ%20Embedded%20PZT%20Sensor%20for%20Monitoring%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=in-situ+embedded+pzt+sensor+for+monitoring+3d+concrete+printing&as_occt=title&as_sauthors=kocherla&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122448212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000722017200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1361-665x/ac3438" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

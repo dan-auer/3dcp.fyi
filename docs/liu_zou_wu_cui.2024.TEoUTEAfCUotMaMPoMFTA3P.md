@@ -21,14 +21,15 @@ tags:
 ---
 
 #The Effect of U-Type Expanding Agent for Concrete (UEA) on the Microstructural and Mechanical Properties of Mortar Fabricated Through Alternate 3D Printing ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53389-1_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_23" target="_blank">10.1007/978-3-031-53389-1_23</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-53389-1_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_23" target="_blank">10.1007/978-3-031-53389-1_23</a>
 
 <a href="../../../author/liu_xiaoshuang"><b>Liu</b>&nbsp;Xiaoshuang</a></span>, <a href="../../../author/zou_yuxiao"><b>Zou</b>&nbsp;Yuxiao</a></span>, <a href="../../../author/wu_yingxuan"><b>Wu</b>&nbsp;Yingxuan</a></span>, <a href="../../../author/cui_dong"><b>Cui</b>&nbsp;Dong</a></span>, <a href="../../../author/zuo_xiaobao"><b>Zuo</b>&nbsp;Xiaobao</a></span><br>
 Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 233-249
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/alteration"><button class="btn">#alteration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20U-Type%20Expanding%20Agent%20for%20Concrete%20%28UEA%29%20on%20the%20Microstructural%20and%20Mechanical%20Properties%20of%20Mortar%20Fabricated%20Through%20Alternate%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+effect+of+u-type+expanding+agent+for+concrete+%28uea%29+on+the+microstructural+and+mechanical+properties+of+mortar+fabricated+through+alternate+3d+printing&as_occt=title&as_sauthors=liu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186422285&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267226300022" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-53389-1_23" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

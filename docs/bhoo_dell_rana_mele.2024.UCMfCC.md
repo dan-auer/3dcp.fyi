@@ -14,14 +14,15 @@ tags:
 ---
 
 #Unreinforced Concrete Masonry for Circular Construction ([2024-02](date/2024/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44223-023-00043-y.pdf) <a href="https://doi.org/10.1007/s44223-023-00043-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-023-00043-y" target="_blank">10.1007/s44223-023-00043-y</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44223-023-00043-y.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44223-023-00043-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-023-00043-y" target="_blank">10.1007/s44223-023-00043-y</a>
 
 <a href="../../../author/bhooshan_shajay"><b>Bhooshan</b>&nbsp;Shajay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b>&nbsp;Alessandro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1612-5612" title="ORCID: 0000-0002-1612-5612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranaudo_francesco"><b>Ranaudo</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Journal Article - Architectural Intelligence, Vol. 3, Iss. 1
 
 <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Unreinforced%20Concrete%20Masonry%20for%20Circular%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=unreinforced+concrete+masonry+for+circular+construction&as_occt=title&as_sauthors=bhooshan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44223-023-00043-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

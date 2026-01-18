@@ -19,14 +19,15 @@ tags:
 
 #Evaluating the Use of Recycled Fine Aggregates in 3D Printing&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">A Systematic Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s42452-024-06358-3) <a href="https://doi.org/10.1007/s42452-024-06358-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-024-06358-3" target="_blank">10.1007/s42452-024-06358-3</a>
+<a href="https://doi.org/10.1007/s42452-024-06358-3" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42452-024-06358-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42452-024-06358-3" target="_blank">10.1007/s42452-024-06358-3</a>
 
 <a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b>&nbsp;P.</a></span>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b>&nbsp;G.</a></span>, <a href="../../../author/roy_dipankar"><b>Roy</b>&nbsp;Dipankar</a></span>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b>&nbsp;George</a></span><br>
 Journal Article - Discover Applied Sciences, Vol. 6, Iss. 12
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Use%20of%20Recycled%20Fine%20Aggregates%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+the+use+of+recycled+fine+aggregates+in+3d+printing&as_occt=title&as_sauthors=venugopal+reddy&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209714841&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001361604200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42452-024-06358-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

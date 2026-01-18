@@ -8,6 +8,10 @@ search:
 
 # #bacteria
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (2)</button></a> <a href="../../keyword/modification"><button class="btn">#modification (2)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/aydin_tolga"><b>Aydin</b> Tolga</a>, <a href="../../../author/sandalci_ilgin"><b>Sandalci</b> Ilgin</a>, <a href="../../../author/aydin_mina_eylul"><b>Aydin</b> Eylül</a>, <a href="../../../author/kara_burhan"><b>Kara</b> Burhan</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../aydi_sand_aydi_kara.2025.IoBCaCaRMi3CP/">Investigation of Bacterial Cells and Clays as Rheology Modifiers in 3D Concrete Printing</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sing_anan_liu_tam.2025.EIBi3PCUBBB/">Enhancing Interlayer Bonding in 3D Printed Concrete Using Bacteria-Based Biomineralization</a></li>

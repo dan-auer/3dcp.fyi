@@ -21,14 +21,15 @@ tags:
 ---
 
 #Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113965" target="_blank">10.1016/j.jobe.2025.113965</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113965" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113965" target="_blank">10.1016/j.jobe.2025.113965</a>
 
 <a href="../../../author/li_fuhai"><b>Li</b>&nbsp;Fuhai</a></span>, <a href="../../../author/xiao_sai"><b>Xiao</b>&nbsp;Sai</a></span>, <a href="../../../author/yang_bo"><b>Yang</b>&nbsp;Bo</a></span>, <a href="../../../author/li_kepu"><b>Li</b>&nbsp;Kepu</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_yuecheng"><b>Zhou</b>&nbsp;Yuecheng</a></span>, <a href="../../../author/li_xiaobin"><b>Li</b>&nbsp;Xiaobin</a></span>, <a href="../../../author/liu_gengyuan"><b>Liu</b>&nbsp;Gengyuan</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113965
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Anisotropy%20of%203D-Printed%20Concrete%20Modified%20with%20Multiscale%20Materials%20Based%20on%20Optimized%20Printing%20Process%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+anisotropy+of+3d-printed+concrete+modified+with+multiscale+materials+based+on+optimized+printing+process+design&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015093438&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001571021400002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113965" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

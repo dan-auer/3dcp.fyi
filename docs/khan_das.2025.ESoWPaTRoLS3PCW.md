@@ -20,14 +20,15 @@ tags:
 ---
 
 #Experimental Study on Water Penetration and Thermal Resistance of Large-Scale 3D-Printed Cementitious Walls ([2025-03](date/2025/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112286) <a href="https://doi.org/10.1016/j.jobe.2025.112286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112286" target="_blank">10.1016/j.jobe.2025.112286</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.112286" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112286" target="_blank">10.1016/j.jobe.2025.112286</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112286
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Water%20Penetration%20and%20Thermal%20Resistance%20of%20Large-Scale%203D-Printed%20Cementitious%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+water+penetration+and+thermal+resistance+of+large-scale+3d-printed+cementitious+walls&as_occt=title&as_sauthors=khanverdi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000665736&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001447135000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112286" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

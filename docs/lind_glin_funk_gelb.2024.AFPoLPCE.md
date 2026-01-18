@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Flow Production of Lightweight Precision Concrete Elements ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400039" target="_blank">10.1002/best.202400039</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202400039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400039" target="_blank">10.1002/best.202400039</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5238-6361" title="ORCID: 0000-0001-5238-6361" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lindner_marco"><b>Lindner</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-3070-6490" title="ORCID: 0009-0004-3070-6490" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gliniorz_ralf"><b>Gliniorz</b>&nbsp;Ralf</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/funke_henrik"><b>Funke</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gelbrich_sandra"><b>Gelbrich</b>&nbsp;Sandra</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/precision"><button class="btn">#precision</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Flow%20Production%20of%20Lightweight%20Precision%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+flow+production+of+lightweight+precision+concrete+elements&as_occt=title&as_sauthors=lindner&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204716889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001319322700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202400039" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

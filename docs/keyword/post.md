@@ -8,6 +8,10 @@ search:
 
 # #post
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (21)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (17)</button></a> <a href="../../keyword/tension"><button class="btn">#tension (9)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (6)</button></a> <a href="../../keyword/property"><button class="btn">#property (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>

@@ -15,14 +15,15 @@ tags:
 
 #Morph & Slerp&nbsp;([2020-11](date/2020/11))
 <div class="h1-like">Shape Description for 3D Printing of Concrete</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1145/3424630.3425413" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3424630.3425413" target="_blank">10.1145/3424630.3425413</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1145/3424630.3425413" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3424630.3425413" target="_blank">10.1145/3424630.3425413</a>
 
 <a href="../../../author/bhooshan_shajay"><b>Bhooshan</b>&nbsp;Shajay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Contribution - Proceedings of the 5th Annual ACM Symposium on Computational Fabrication
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/description"><button class="btn">#description</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Morph%20%26%20Slerp" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=morph+%26+slerp&as_occt=title&as_sauthors=bhooshan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097642173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000695272600006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1145/3424630.3425413" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

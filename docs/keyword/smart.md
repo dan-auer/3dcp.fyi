@@ -8,6 +8,10 @@ search:
 
 # #smart
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cast"><button class="btn">#cast (6)</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b> Karnan</a>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b> Mohammed</a>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b> Khaled</a>, <a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_huri_khar_hosa.2025.S3PC/">Smart 3D-Printed Concrete:<br/>Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</a></li>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>

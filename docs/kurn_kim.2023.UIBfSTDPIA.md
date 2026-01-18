@@ -22,14 +22,15 @@ tags:
 
 #Utilizing Industrial Byproducts for Sustainable Three-Dimensional-Printed Infrastructure Applications&nbsp;([2023-10](date/2023/10))
 <div class="h1-like">A Comprehensive Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/8/10/140/pdf?version=1696411090) <a href="https://doi.org/10.3390/infrastructures8100140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures8100140" target="_blank">10.3390/infrastructures8100140</a>
+<a href="https://www.mdpi.com/2412-3811/8/10/140/pdf?version=1696411090" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/infrastructures8100140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures8100140" target="_blank">10.3390/infrastructures8100140</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4827-9739" title="ORCID: 0000-0002-4827-9739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b>&nbsp;Eka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span><br>
 Journal Article - Infrastructures, Vol. 8, Iss. 10, No. 140
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Utilizing%20Industrial%20Byproducts%20for%20Sustainable%20Three-Dimensional-Printed%20Infrastructure%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=utilizing+industrial+byproducts+for+sustainable+three-dimensional-printed+infrastructure+applications&as_occt=title&as_sauthors=kurniati&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175309759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001095322900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/infrastructures8100140" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

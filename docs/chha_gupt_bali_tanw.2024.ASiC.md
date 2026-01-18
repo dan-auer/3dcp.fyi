@@ -18,14 +18,15 @@ tags:
 
 #Advancing Sustainability in Construction&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Comprehensive Study on 3D-Printed Concrete Technologies</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/sustained63638.2024.11074126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/sustained63638.2024.11074126" target="_blank">10.1109/sustained63638.2024.11074126</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/sustained63638.2024.11074126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/sustained63638.2024.11074126" target="_blank">10.1109/sustained63638.2024.11074126</a>
 
 <a href="../../../author/chhabra_gulshan"><b>Chhabra</b>&nbsp;Gulshan</a></span>, <a href="../../../author/gupta_anjali"><b>Gupta</b>&nbsp;Anjali</a></span>, <a href="../../../author/bali_rajan"><b>Bali</b>&nbsp;Rajan</a></span>, <a href="../../../author/tanwar_lovesh"><b>Tanwar</b>&nbsp;Lovesh</a></span><br>
 Contribution - Proceedings of the 1st International Conference on Sustainability and Technological Advancements in Engineering Domain, pp. 653-658
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainability%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+sustainability+in+construction&as_occt=title&as_sauthors=chhabra&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013619873&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/sustained63638.2024.11074126" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

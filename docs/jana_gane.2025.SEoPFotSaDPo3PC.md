@@ -18,14 +18,15 @@ tags:
 ---
 
 #Synergistic Effects of Polypropylene Fibers on the Strength and Durability Properties of 3D Printed Concrete ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70387" target="_blank">10.1002/suco.70387</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.70387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70387" target="_blank">10.1002/suco.70387</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7344-7502" title="ORCID: 0009-0005-7344-7502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/janani_parthiban"><b>Janani</b>&nbsp;Parthiban</a></span>, <a href="../../../author/ganesh_mohan_g"><b>Ganesh</b>&nbsp;G.</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Effects%20of%20Polypropylene%20Fibers%20on%20the%20Strength%20and%20Durability%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synergistic+effects+of+polypropylene+fibers+on+the+strength+and+durability+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=janani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020767012&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001605491000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.70387" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

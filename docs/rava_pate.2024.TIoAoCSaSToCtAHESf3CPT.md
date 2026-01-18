@@ -23,14 +23,15 @@ tags:
 ---
 
 #The Influence of Accelerators on Compressive Strength and Setting-Time of Cement to Achieve High Early Strength for 3D Concrete Printing Technology ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.027" target="_blank">10.1016/j.matpr.2024.05.027</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2024.05.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.027" target="_blank">10.1016/j.matpr.2024.05.027</a>
 
 <a href="../../../author/raval_d_amitkumar"><b>Raval</b>&nbsp;Amitkumar</a></span>, <a href="../../../author/patel_g_c"><b>Patel</b>&nbsp;C.</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20Accelerators%20on%20Compressive%20Strength%20and%20Setting-Time%20of%20Cement%20to%20Achieve%20High%20Early%20Strength%20for%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+influence+of+accelerators+on+compressive+strength+and+setting-time+of+cement+to+achieve+high+early+strength+for+3d+concrete+printing+technology&as_occt=title&as_sauthors=raval&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2024.05.027" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

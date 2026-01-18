@@ -15,14 +15,15 @@ tags:
 
 #Building Rethought&nbsp;([2022-02](date/2022/02))
 <div class="h1-like">3D Concrete Printing in Building Practice</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-022-00064-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00064-5" target="_blank">10.1007/s41693-022-00064-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-022-00064-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00064-5" target="_blank">10.1007/s41693-022-00064-5</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <a href="../../../author/korte_waldemar"><b>Korte</b>&nbsp;Waldemar</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3726-8049" title="ORCID: 0000-0002-3726-8049" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheydt_jennifer"><b>Scheydt</b>&nbsp;Jennifer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span><br>
 Journal Article - Construction Robotics, Vol. 5, Iss. 3-4, pp. 203-210
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Building%20Rethought" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=building+rethought&as_occt=title&as_sauthors=weger&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-022-00064-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

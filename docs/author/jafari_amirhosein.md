@@ -9,6 +9,58 @@ search:
 
 #  Jafari Amirhosein 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0356-2282" target="_blank">0000-0002-0356-2282</a>
+
+    First Contribution
+    : 2022-03-12
+    
+    Last Contribution
+    : 2025-10-25
+
+    Number Contributions
+    : 2
+
+    Number Citations
+    : 7
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a> (1)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (1)</li>
+        <li><a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b> Sara</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b> Sara</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../miry_kaze_jafa.2022.AoC3PfBC/">Application of Concrete 3D Printing for Bridge Construction:<br/>Current Challenges and Future Directions</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (7)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (6)</li>
+        <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> (5)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a> (1)</li>
+        <li><a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> (1)</li>
+        <li><a href="../../../author/li_chao"><b>Li</b> Chao</a> (1)</li>
+        <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (1)</li>
+        <li><a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ataei_sarah"><b>Ataei</b> Sarah</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../atae_jafa.2026.CEIAo3CPaPTiBC/">Comparative Environmental Impact Assessment of 3D Concrete Printing and Precast Techniques in Bridge Construction:<br/>A Case Study Analysis</a></li>
   <li><a href="../../../author/miryousefi-ata_sara"><b>Miryousefi Ata</b> Sara</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/jafari_amirhosein"><b>Jafari</b> Amirhosein</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../miry_kaze_jafa.2022.AoC3PfBC/">Application of Concrete 3D Printing for Bridge Construction:<br/>Current Challenges and Future Directions</a></li>

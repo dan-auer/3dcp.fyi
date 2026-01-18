@@ -14,14 +14,15 @@ tags:
 ---
 
 #Microstructural Characterization of 3D Printed Cementitious Materials ([2019-09](date/2019/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/18/2993/pdf?version=1568616561) <a href="https://doi.org/10.3390/ma12182993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12182993" target="_blank">10.3390/ma12182993</a>
+<a href="https://www.mdpi.com/1996-1944/12/18/2993/pdf?version=1568616561" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma12182993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12182993" target="_blank">10.3390/ma12182993</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6356-5293" title="ORCID: 0000-0001-6356-5293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deprez_maxim"><b>Deprez</b>&nbsp;Maxim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3269-5914" title="ORCID: 0000-0002-3269-5914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cnudde_veerle"><b>Cnudde</b>&nbsp;Veerle</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
 Journal Article - Materials, Vol. 12, Iss. 18
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Microstructural%20Characterization%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=microstructural+characterization+of+3d+printed+cementitious+materials&as_occt=title&as_sauthors=putten&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85072538771&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000489126600152" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma12182993" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

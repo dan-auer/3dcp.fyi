@@ -19,14 +19,15 @@ tags:
 ---
 
 #Environmental Profile of 3D Concrete Printing Technology in Desert Areas via Life Cycle Assessment ([2023-02](date/2023/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2023.136412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.136412" target="_blank">10.1016/j.jclepro.2023.136412</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jclepro.2023.136412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2023.136412" target="_blank">10.1016/j.jclepro.2023.136412</a>
 
 <a href="../../../author/zhang_ruo-chen"><b>Zhang</b>&nbsp;Ruo-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/xue_xuan"><b>Xue</b>&nbsp;Xuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
 Journal Article - Journal of Cleaner Production
 
 <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Environmental%20Profile%20of%203D%20Concrete%20Printing%20Technology%20in%20Desert%20Areas%20via%20Life%20Cycle%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=environmental+profile+of+3d+concrete+printing+technology+in+desert+areas+via+life+cycle+assessment&as_occt=title&as_sauthors=zhang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148547778&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000949466700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jclepro.2023.136412" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

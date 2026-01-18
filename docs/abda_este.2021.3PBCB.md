@@ -13,14 +13,15 @@ tags:
 ---
 
 #3D Printed Biodigital Clay Bricks ([2021-10](date/2021/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2313-7673/6/4/59/pdf?version=1639624931) <a href="https://doi.org/10.3390/biomimetics6040059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/biomimetics6040059" target="_blank">10.3390/biomimetics6040059</a>
+<a href="https://www.mdpi.com/2313-7673/6/4/59/pdf?version=1639624931" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/biomimetics6040059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/biomimetics6040059" target="_blank">10.3390/biomimetics6040059</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7984-3304" title="ORCID: 0000-0002-7984-3304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_k_yomna"><b>Abdallah</b>&nbsp;Yomna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1877-1060" title="ORCID: 0000-0002-1877-1060" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/estevez_t_alberto"><b>Estévez</b>&nbsp;Alberto</a></span><br>
 Journal Article - Biomimetics, Vol. 6, Iss. 4
 
 <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Biodigital%20Clay%20Bricks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+biodigital+clay+bricks&as_occt=title&as_sauthors=abdallah&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117178131&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000736370500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/biomimetics6040059" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

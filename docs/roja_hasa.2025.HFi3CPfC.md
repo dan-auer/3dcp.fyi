@@ -15,14 +15,15 @@ tags:
 ---
 
 #Human Factor in 3D Concrete Printing for Construction ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/10711813251357898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/10711813251357898" target="_blank">10.1177/10711813251357898</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/10711813251357898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/10711813251357898" target="_blank">10.1177/10711813251357898</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rojas_jorge"><b>Rojas</b>&nbsp;Jorge</a></span>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b>&nbsp;Sognad</a></span><br>
 Journal Article - Proceedings of the Human Factors and Ergonomics Society Annual Meeting
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/human"><button class="btn">#human</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Human%20Factor%20in%203D%20Concrete%20Printing%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=human+factor+in+3d+concrete+printing+for+construction&as_occt=title&as_sauthors=rojas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/10711813251357898" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

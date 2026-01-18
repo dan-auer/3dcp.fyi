@@ -16,14 +16,15 @@ tags:
 
 #Printing-While-Moving&nbsp;([2019-11](date/2019/11))
 <div class="h1-like">A New Paradigm for Large-Scale Robotic 3D Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/1809.07940) <a href="https://doi.org/10.1109/iros40897.2019.8967524" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iros40897.2019.8967524" target="_blank">10.1109/iros40897.2019.8967524</a>
+<a href="https://arxiv.org/pdf/1809.07940" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1109/iros40897.2019.8967524" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iros40897.2019.8967524" target="_blank">10.1109/iros40897.2019.8967524</a>
 
 <a href="../../../author/tiryaki_efe_mehmet"><b>Tiryaki</b>&nbsp;Mehmet</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1370-7681" title="ORCID: 0000-0003-1370-7681" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xu"><b>Zhang</b>&nbsp;Xu</a></span>, <a href="../../../author/pham_quang-cuong"><b>Pham</b>&nbsp;Quang-Cuong</a></span><br>
 Contribution - International Conference on Intelligent Robots and Systems, pp. 2286-2291
 
 <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/movement"><button class="btn">#movement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing-While-Moving" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing-while-moving&as_occt=title&as_sauthors=tiryaki&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081155315&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000544658401132" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/iros40897.2019.8967524" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 
 #Hold Up&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">Machine Delay in Architectural Design</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dspace.mit.edu/bitstream/1721.1/120385/1/1084657009-MIT.pdf) <a href="https://doi.org/10.1007/978-3-319-92294-2_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_10" target="_blank">10.1007/978-3-319-92294-2_10</a>
+<a href="https://dspace.mit.edu/bitstream/1721.1/120385/1/1084657009-MIT.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-92294-2_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_10" target="_blank">10.1007/978-3-319-92294-2_10</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9014-4814" title="ORCID: 0000-0001-9014-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cohen_zach"><b>Cohen</b>&nbsp;Zach</a></span><br>
 Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 126-138
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/delay"><button class="btn">#delay</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hold%20Up" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hold+up&as_occt=title&as_sauthors=cohen&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008845428&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-92294-2_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

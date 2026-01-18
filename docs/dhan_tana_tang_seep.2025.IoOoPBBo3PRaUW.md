@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigation of Out-of-Plane Bending Behaviour of 3D-Printed Reinforced and Unreinforced Walls ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-9917-9_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-9917-9_17" target="_blank">10.1007/978-981-96-9917-9_17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-9917-9_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-9917-9_17" target="_blank">10.1007/978-981-96-9917-9_17</a>
 
 <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b>&nbsp;Chamil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b>&nbsp;Ganchai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b>&nbsp;Somnuk</a></span>, <a href="../../../author/seepim_sirakan"><b>Seepim</b>&nbsp;Sirakan</a></span>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b>&nbsp;Passarin</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span><br>
 Contribution - Proceedings of the 18th East Asia-Pacific Conference on Structural Engineering and Construction, pp. 126-132
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Out-of-Plane%20Bending%20Behaviour%20of%203D-Printed%20Reinforced%20and%20Unreinforced%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+out-of-plane+bending+behaviour+of+3d-printed+reinforced+and+unreinforced+walls&as_occt=title&as_sauthors=dhanasekara&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020265380&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-9917-9_17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

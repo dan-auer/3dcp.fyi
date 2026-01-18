@@ -19,14 +19,15 @@ tags:
 ---
 
 #Impact of Water to Solids Ratio on Stability, Printability, and Mechanical Characteristics of 3D Printable Foam-Concrete ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_21" target="_blank">10.1007/978-3-031-64269-2_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_21" target="_blank">10.1007/978-3-031-64269-2_21</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b>&nbsp;Indu</a></span><br>
 Contribution - Construction 3D Printing, pp. 165-173
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Water%20to%20Solids%20Ratio%20on%20Stability%2C%20Printability%2C%20and%20Mechanical%20Characteristics%20of%203D%20Printable%20Foam-Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+water+to+solids+ratio+on+stability%2C+printability%2C+and+mechanical+characteristics+of+3d+printable+foam-concrete&as_occt=title&as_sauthors=boddepalli&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201257299&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800021" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

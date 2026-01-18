@@ -8,6 +8,10 @@ search:
 
 # #interaction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/material"><button class="btn">#material (5)</button></a> <a href="../../keyword/process"><button class="btn">#process (4)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
   <li><a href="../../../author/mansour_ali"><b>Mansour</b> Ali</a>, <a href="../../../author/abou-khalil_amine"><b>Abou Khalil</b> Amine</a>, <a href="../../../author/khoury_hiam"><b>Khoury</b> Hiam</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mans_abou_khou.2025.TSaCHRI/">Toward Spatial and Cognitive Human-Robot Interaction:<br/>A Game-Based Simulation for Concrete 3D Printing in Construction</a></li>

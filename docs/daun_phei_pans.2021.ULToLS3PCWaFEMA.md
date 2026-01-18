@@ -22,14 +22,15 @@ tags:
 ---
 
 #Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis ([2021-01](date/2021/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.122039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.122039" target="_blank">10.1016/j.conbuildmat.2020.122039</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.122039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.122039" target="_blank">10.1016/j.conbuildmat.2020.122039</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0917-8580" title="ORCID: 0000-0002-0917-8580" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b>&nbsp;Totsawat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8553-8939" title="ORCID: 0000-0002-8553-8939" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b>&nbsp;Phoonsak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8910-2043" title="ORCID: 0000-0001-8910-2043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pansuk_withit"><b>Pansuk</b>&nbsp;Withit</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 275
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Uniaxial%20Load%20Testing%20of%20Large-Scale%203D%20Printed%20Concrete%20Wall%20and%20Finite-Element-Model-Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=uniaxial+load+testing+of+large-scale+3d+printed+concrete+wall+and+finite-element-model-analysis&as_occt=title&as_sauthors=daungwilailuk&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85098757750&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000761487000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.122039" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

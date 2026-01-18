@@ -19,14 +19,15 @@ tags:
 ---
 
 #Microbial-Induced Calcareous Precipitation Effect on Tensile Strength and Early Age Shrinkage of 3D Printed Concrete ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112757" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112757" target="_blank">10.1016/j.jobe.2025.112757</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112757" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112757" target="_blank">10.1016/j.jobe.2025.112757</a>
 
 <a href="../../../author/zhao_herui"><b>Zhao</b>&nbsp;Herui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/xia_yong"><b>Xia</b>&nbsp;Yong</a></span>, <a href="../../../author/hou_dongqi"><b>Hou</b>&nbsp;Dongqi</a></span>, <a href="../../../author/luo_junyao"><b>Luo</b>&nbsp;Junyao</a></span>, <a href="../../../author/liu_jian"><b>Liu</b>&nbsp;Jian</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112757
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Microbial-Induced%20Calcareous%20Precipitation%20Effect%20on%20Tensile%20Strength%20and%20Early%20Age%20Shrinkage%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=microbial-induced+calcareous+precipitation+effect+on+tensile+strength+and+early+age+shrinkage+of+3d+printed+concrete&as_occt=title&as_sauthors=zhao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003774912&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001494076400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112757" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

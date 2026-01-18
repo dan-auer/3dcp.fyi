@@ -17,14 +17,15 @@ tags:
 
 #Tool-Path Considerations for Extrusion&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Pellet, Filament, Concrete, and Thermoset</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-15286-3.00004-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15286-3.00004-7" target="_blank">10.1016/b978-0-443-15286-3.00004-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-443-15286-3.00004-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15286-3.00004-7" target="_blank">10.1016/b978-0-443-15286-3.00004-7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1308-4632" title="ORCID: 0000-0002-1308-4632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roschli_c_alex"><b>Roschli</b>&nbsp;Alex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7282-4020" title="ORCID: 0000-0002-7282-4020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borish_c_michael"><b>Borish</b>&nbsp;Michael</a></span>, <a href="../../../author/barnes_k_abby"><b>Barnes</b>&nbsp;Abby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9187-4656" title="ORCID: 0000-0002-9187-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_l_peter"><b>Wang</b>&nbsp;Peter</a></span>, <a href="../../../author/feldhausen_a_thomas"><b>Feldhausen</b>&nbsp;Thomas</a></span>, <a href="../../../author/macdonald_eric"><b>MacDonald</b>&nbsp;Eric</a></span><br>
 Contribution - Motion- and Path-Planning for Additive Manufacturing
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/thermoset"><button class="btn">#thermoset</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tool-Path%20Considerations%20for%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tool-path+considerations+for+extrusion&as_occt=title&as_sauthors=roschli&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-443-15286-3.00004-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

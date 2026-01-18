@@ -18,14 +18,15 @@ tags:
 
 #The First 3D Printed Building in Spain&nbsp;([2022-10](date/2022/10))
 <div class="h1-like">A Study on Its Acoustic, Thermal and Environmental Performance</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/20/13204/pdf?version=1666746282) <a href="https://doi.org/10.3390/su142013204" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su142013204" target="_blank">10.3390/su142013204</a>
+<a href="https://www.mdpi.com/2071-1050/14/20/13204/pdf?version=1666746282" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su142013204" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su142013204" target="_blank">10.3390/su142013204</a>
 
 <a href="../../../author/salandin_andrea"><b>Salandin</b>&nbsp;Andrea</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8911-595X" title="ORCID: 0000-0002-8911-595X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b>&nbsp;Alberto</a></span>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b>&nbsp;Vicente</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5546-1486" title="ORCID: 0000-0001-5546-1486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b>&nbsp;Ignacio</a></span><br>
 Journal Article - Sustainability, Vol. 14, Iss. 20
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20First%203D%20Printed%20Building%20in%20Spain" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+first+3d+printed+building+in+spain&as_occt=title&as_sauthors=salandin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140623356&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000875333400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su142013204" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

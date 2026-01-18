@@ -19,14 +19,15 @@ tags:
 ---
 
 #Thermal Modeling of the Convective Heat-Transfer in the Large Air-Cavities of the 3D Concrete Printed Walls ([2022-10](date/2022/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/23311916.2022.2130203) <a href="https://doi.org/10.1080/23311916.2022.2130203" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/23311916.2022.2130203" target="_blank">10.1080/23311916.2022.2130203</a>
+<a href="https://doi.org/10.1080/23311916.2022.2130203" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/23311916.2022.2130203" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/23311916.2022.2130203" target="_blank">10.1080/23311916.2022.2130203</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <a href="../../../author/binali_alreem"><b>Binali</b>&nbsp;Alreem</a></span>, <a href="../../../author/aljawi_abdulla"><b>Aljawi</b>&nbsp;Abdulla</a></span>, <a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b>&nbsp;Ahmed</a></span>, <a href="../../../author/almir_khalid"><b>Almir</b>&nbsp;Khalid</a></span>, <a href="../../../author/alnuaimi_ebrahim"><b>Alnuaimi</b>&nbsp;Ebrahim</a></span>, <a href="../../../author/alyousuf_hamad"><b>Alyousuf</b>&nbsp;Hamad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1453-7883" title="ORCID: 0000-0002-1453-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b>&nbsp;Edwin</a></span><br>
 Journal Article - Cogent Engineering, Vol. 9, Iss. 1
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Modeling%20of%20the%20Convective%20Heat-Transfer%20in%20the%20Large%20Air-Cavities%20of%20the%203D%20Concrete%20Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+modeling+of+the+convective+heat-transfer+in+the+large+air-cavities+of+the+3d+concrete+printed+walls&as_occt=title&as_sauthors=mansouri&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139487585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000865602800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/23311916.2022.2130203" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

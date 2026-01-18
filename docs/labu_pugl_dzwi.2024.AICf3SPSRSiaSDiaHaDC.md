@@ -17,14 +17,15 @@ tags:
 ---
 
 #An Innovative Concept for 3D Sand-Printed Sustainable Refugee Shelters in a Sandy Desert in a Hot and Dry Climate ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/16/6/2294/pdf?version=1710063067) <a href="https://doi.org/10.3390/su16062294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16062294" target="_blank">10.3390/su16062294</a>
+<a href="https://www.mdpi.com/2071-1050/16/6/2294/pdf?version=1710063067" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su16062294" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16062294" target="_blank">10.3390/su16062294</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9641-6139" title="ORCID: 0000-0001-9641-6139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/labuda_igor"><b>Labuda</b>&nbsp;Igor</a></span>, <a href="../../../author/pugliese_federica"><b>Pugliese</b>&nbsp;Federica</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0634-5328" title="ORCID: 0000-0003-0634-5328" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dzwierzynska_jolanata"><b>Dzwierzynska</b>&nbsp;Jolanata</a></span><br>
 Journal Article - Sustainability, Vol. 16, Iss. 6, No. 2294
 
 <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Innovative%20Concept%20for%203D%20Sand-Printed%20Sustainable%20Refugee%20Shelters%20in%20a%20Sandy%20Desert%20in%20a%20Hot%20and%20Dry%20Climate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+innovative+concept+for+3d+sand-printed+sustainable+refugee+shelters+in+a+sandy+desert+in+a+hot+and+dry+climate&as_occt=title&as_sauthors=labuda&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189017095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001192951900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su16062294" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

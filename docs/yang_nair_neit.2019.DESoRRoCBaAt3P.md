@@ -19,14 +19,15 @@ tags:
 ---
 
 #Discrete Element Simulations of Rheological Response of Cementitious Binders as Applied to 3D Printing ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_10" target="_blank">10.1007/978-3-319-99519-9_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_10" target="_blank">10.1007/978-3-319-99519-9_10</a>
 
 <a href="../../../author/yang_pu"><b>Yang</b>&nbsp;Pu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 102-112
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Discrete%20Element%20Simulations%20of%20Rheological%20Response%20of%20Cementitious%20Binders%20as%20Applied%20to%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=discrete+element+simulations+of+rheological+response+of+cementitious+binders+as+applied+to+3d+printing&as_occt=title&as_sauthors=yang&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052678968&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

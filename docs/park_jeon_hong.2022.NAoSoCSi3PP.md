@@ -22,7 +22,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cylinder"><button class="btn">#cylinder</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Analysis%20on%20Stability%20of%20Cylindrical%20Structures%20in%203D%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+analysis+on+stability+of+cylindrical+structures+in+3d+printing+process&as_occt=title&as_sauthors=park&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

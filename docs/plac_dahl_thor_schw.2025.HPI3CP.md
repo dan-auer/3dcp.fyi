@@ -16,14 +16,15 @@ tags:
 
 #How Productive Is 3D Concrete Printing?&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">A Systematic Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/ccc2025/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/ccc2025/0037" target="_blank">10.22260/ccc2025/0037</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/ccc2025/0037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/ccc2025/0037" target="_blank">10.22260/ccc2025/0037</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b>&nbsp;Maike</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8146-5023" title="ORCID: 0009-0001-8146-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thormahlen_jan"><b>Thormählen</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
 Contribution - Proceedings of the 14th Creative Construction Conference, pp. 300-308
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%20Productive%20Is%203D%20Concrete%20Printing%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+productive+is+3d+concrete+printing%3F&as_occt=title&as_sauthors=placzek&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/ccc2025/0037" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

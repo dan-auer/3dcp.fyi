@@ -8,6 +8,10 @@ search:
 
 # #type
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (7)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (6)</button></a> <a href="../../keyword/property"><button class="btn">#property (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Printability Characterization of Graphene-Reinforced Cementitious Composites ([2021-03](date/2021/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1117/12.2585595" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1117/12.2585595" target="_blank">10.1117/12.2585595</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1117/12.2585595" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1117/12.2585595" target="_blank">10.1117/12.2585595</a>
 
 <a href="../../../author/kilic_ugur"><b>Kilic</b>&nbsp;Ugur</a></span>, <a href="../../../author/jiang_zhangfan"><b>Jiang</b>&nbsp;Zhangfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4228-6620" title="ORCID: 0000-0002-4228-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_ji"><b>Ma</b>&nbsp;Ji</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3836-3416" title="ORCID: 0000-0003-3836-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b>&nbsp;Osman</a></span><br>
 Contribution - Behavior and Mechanics of Multifunctional Materials XV, No. 3
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20Characterization%20of%20Graphene-Reinforced%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+characterization+of+graphene-reinforced+cementitious+composites&as_occt=title&as_sauthors=kilic&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107235361&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000695279900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1117/12.2585595" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

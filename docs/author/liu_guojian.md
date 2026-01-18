@@ -9,6 +9,60 @@ search:
 
 #  Liu Guojian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2023-2741" target="_blank">0000-0003-2023-2741</a>
+
+    First Contribution
+    : 2018-04-09
+    
+    Last Contribution
+    : 2023-07-22
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 1018
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (12)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (10)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (7)</li>
+        <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (7)</li>
+        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (320)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (32)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (30)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (27)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (25)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (40)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (31)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (29)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (27)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (27)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
   <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_wenhua"><b>Zhang</b> Wenhua</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_zhan_zhan_zhan.2023.3PCwCA/">3D Printed Concrete with Coarse Aggregates:<br/>Built-In-Stirrup Permanent Concrete Formwork for Reinforced Columns</a></li>

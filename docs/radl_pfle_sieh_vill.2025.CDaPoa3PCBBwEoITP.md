@@ -25,7 +25,7 @@ Contribution - Proceedings of the fib Symposium 2025
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Conceptual%20Design%20and%20Production%20of%20a%203D%20Printed%20Concrete%20Base%20Brick%20with%20Evaluation%20of%20Its%20Thermal%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=conceptual+design+and+production+of+a+3d+printed+concrete+base+brick+with+evaluation+of+its+thermal+properties&as_occt=title&as_sauthors=radl&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

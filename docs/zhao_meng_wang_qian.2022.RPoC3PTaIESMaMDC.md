@@ -20,14 +20,15 @@ tags:
 ---
 
 #Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control ([2022-09](date/2022/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://downloads.hindawi.com/journals/je/2022/6882386.pdf) <a href="https://doi.org/10.1155/2022/6882386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2022/6882386" target="_blank">10.1155/2022/6882386</a>
+<a href="https://downloads.hindawi.com/journals/je/2022/6882386.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1155/2022/6882386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2022/6882386" target="_blank">10.1155/2022/6882386</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4193-9973" title="ORCID: 0000-0003-4193-9973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_yanhua"><b>Zhao</b>&nbsp;Yanhua</a></span>, <a href="../../../author/meng_wei"><b>Meng</b>&nbsp;Wei</a></span>, <a href="../../../author/wang_peifu"><b>Wang</b>&nbsp;Peifu</a></span>, <a href="../../../author/qian_dongqing"><b>Qian</b>&nbsp;Dongqing</a></span>, <a href="../../../author/cheng_wei"><b>Cheng</b>&nbsp;Wei</a></span>, <a href="../../../author/jia_zhongqing"><b>Jia</b>&nbsp;Zhongqing</a></span><br>
 Journal Article - Journal of Engineering, Vol. 2022, pp. 1-22
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research-Progress%20of%20Concrete%203D%20Printing%20Technology%20and%20Its%20Equipment%20System%2C%20Material%2C%20and%20Molding-Defect-Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research-progress+of+concrete+3d+printing+technology+and+its+equipment+system%2C+material%2C+and+molding-defect-control&as_occt=title&as_sauthors=zhao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85139439613&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000936511400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1155/2022/6882386" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

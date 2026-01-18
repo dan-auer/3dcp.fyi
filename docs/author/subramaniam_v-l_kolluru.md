@@ -9,6 +9,60 @@ search:
 
 #  Subramaniam Kolluru 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5995-0911" target="_blank">0000-0002-5995-0911</a>
+
+    First Contribution
+    : 2021-02-18
+    
+    Last Contribution
+    : 2025-12-15
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 95
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a> (9)</li>
+        <li><a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> (7)</li>
+        <li><a href="../../../author/thakur_singh_manideep"><b>Thakur</b> Manideep</a> (5)</li>
+        <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a> (4)</li>
+        <li><a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a> (38)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (45)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (33)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (32)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (30)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a> (4)</li>
+        <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> (4)</li>
+        <li><a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> (3)</li>
+        <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a> (3)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b> Dhruv</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO/">Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization</a></li>
   <li><a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/singh_r_prashant"><b>Singh</b> Prashant</a>, <a href="../../../author/maganty_sohanth"><b>Maganty</b> Sohanth</a>, <a href="../../../author/paritala_spandana"><b>Paritala</b> Spandana</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../subr_sing_maga_pari.2025.FOAo3CP/">Form Optimization Applications of 3D Concrete Printing:<br/>From Bridge to Protective Structures</a></li>

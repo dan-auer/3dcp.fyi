@@ -18,14 +18,15 @@ tags:
 ---
 
 #Changes in Concrete Properties During Pumping and Formation of Lubricating Material Under Pressure ([2018-04](date/2018/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" target="_blank">10.1016/j.cemconres.2018.03.018</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.03.018" target="_blank">10.1016/j.cemconres.2018.03.018</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/secrieru_egor"><b>Secrieru</b>&nbsp;Egor</a></span>, <a href="../../../author/cotardo_dario"><b>Cotardo</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/lohaus_ludger"><b>Lohaus</b>&nbsp;Ludger</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7737-6669" title="ORCID: 0000-0002-7737-6669" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/begemann_christoph"><b>Begemann</b>&nbsp;Christoph</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 108, pp. 129-139
 
 <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/lubrication"><button class="btn">#lubrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Changes%20in%20Concrete%20Properties%20During%20Pumping%20and%20Formation%20of%20Lubricating%20Material%20Under%20Pressure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=changes+in+concrete+properties+during+pumping+and+formation+of+lubricating+material+under+pressure&as_occt=title&as_sauthors=secrieru&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85044587171&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000432505700012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2018.03.018" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

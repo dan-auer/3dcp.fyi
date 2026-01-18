@@ -18,14 +18,15 @@ tags:
 ---
 
 #Study on the Compression Performance of 3D Printing Concrete Permanent Formwork Composite Columns ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111245" target="_blank">10.1016/j.jobe.2024.111245</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111245" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111245" target="_blank">10.1016/j.jobe.2024.111245</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_bing"><b>Liu</b>&nbsp;Bing</a></span>, <a href="../../../author/guo_yazhao"><b>Guo</b>&nbsp;Yazhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/liu_qizhou"><b>Liu</b>&nbsp;Qizhou</a></span>, <a href="../../../author/hu_yuefeng"><b>Hu</b>&nbsp;Yuefeng</a></span>, <a href="../../../author/wang_lian-gang"><b>Wang</b>&nbsp;Lian-Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_kai"><b>Qian</b>&nbsp;Kai</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111245
 
 <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Compression%20Performance%20of%203D%20Printing%20Concrete%20Permanent%20Formwork%20Composite%20Columns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+compression+performance+of+3d+printing+concrete+permanent+formwork+composite+columns&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208971609&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001359475500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111245" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

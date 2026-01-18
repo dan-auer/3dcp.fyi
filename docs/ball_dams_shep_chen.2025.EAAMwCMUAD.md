@@ -16,14 +16,15 @@ tags:
 ---
 
 #Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1720&context=icdcs) <a href="https://doi.org/10.5703/1288284318130" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318130" target="_blank">10.5703/1288284318130</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1720&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318130" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318130" target="_blank">10.5703/1288284318130</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_binling"><b>Chen</b>&nbsp;Binling</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Aerial%20Additive%20Manufacturing%20with%20Cementitious%20Materials%20Using%20Autonomous%20Drones" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+aerial+additive+manufacturing+with+cementitious+materials+using+autonomous+drones&as_occt=title&as_sauthors=ball&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318130" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

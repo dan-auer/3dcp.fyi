@@ -16,14 +16,15 @@ tags:
 
 #Pumping of Fresh Concrete&nbsp;([2016-11](date/2016/11))
 <div class="h1-like">Insights and Challenges</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://letters.rilem.net/index.php/rilem/article/download/15/19) <a href="https://doi.org/10.21809/rilemtechlett.2016.15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2016.15" target="_blank">10.21809/rilemtechlett.2016.15</a>
+<a href="http://letters.rilem.net/index.php/rilem/article/download/15/19" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21809/rilemtechlett.2016.15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2016.15" target="_blank">10.21809/rilemtechlett.2016.15</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feys_dimitri"><b>Feys</b>&nbsp;Dimitri</a></span><br>
 Journal Article - RILEM Technical Letters, Vol. 1, pp. 76-80
 
 <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pumping%20of%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pumping+of+fresh+concrete&as_occt=title&as_sauthors=schutter&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85016781281&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21809/rilemtechlett.2016.15" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

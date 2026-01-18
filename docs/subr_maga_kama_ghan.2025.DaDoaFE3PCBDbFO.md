@@ -18,14 +18,15 @@ tags:
 ---
 
 #Design and Deployment of a Functionally Efficient 3D-Printed Concrete Bridge Developed by Form Optimization ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01446-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01446-1" target="_blank">10.1007/s40964-025-01446-1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-025-01446-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01446-1" target="_blank">10.1007/s40964-025-01446-1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5995-0911" title="ORCID: 0000-0002-5995-0911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b>&nbsp;Kolluru</a></span>, <a href="../../../author/maganty_sohanth"><b>Maganty</b>&nbsp;Sohanth</a></span>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <a href="../../../author/ghandhi_dhruv"><b>Ghandhi</b>&nbsp;Dhruv</a></span>, <a href="../../../author/thakur_singh_manideep"><b>Thakur</b>&nbsp;Manideep</a></span>, <a href="../../../author/kulkarni_omkar"><b>Kulkarni</b>&nbsp;Omkar</a></span>, <a href="../../../author/vemuri_rao_ranga"><b>Vemuri</b>&nbsp;Ranga</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Deployment%20of%20a%20Functionally%20Efficient%203D-Printed%20Concrete%20Bridge%20Developed%20by%20Form%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+deployment+of+a+functionally+efficient+3d-printed+concrete+bridge+developed+by+form+optimization&as_occt=title&as_sauthors=subramaniam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-025-01446-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

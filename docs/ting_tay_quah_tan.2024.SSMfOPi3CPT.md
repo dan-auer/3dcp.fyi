@@ -17,14 +17,15 @@ tags:
 ---
 
 #Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/17/7800/pdf?version=1725360050) <a href="https://doi.org/10.3390/app14177800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14177800" target="_blank">10.3390/app14177800</a>
+<a href="https://www.mdpi.com/2076-3417/14/17/7800/pdf?version=1725360050" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app14177800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14177800" target="_blank">10.3390/app14177800</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7339-3031" title="ORCID: 0000-0002-7339-3031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ting_heng-andrew_guan"><b>Ting</b>&nbsp;Guan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7369-2138" title="ORCID: 0000-0002-7369-2138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tay_wei-daniel_yi"><b>Tay</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6124-3020" title="ORCID: 0000-0001-6124-3020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quah_kai-noel_tan"><b>Quah</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
 Journal Article - Applied Sciences, Vol. 14, Iss. 17, No. 7800
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Support-Material%20for%20Overhang%20Printing%20in%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+support-material+for+overhang+printing+in+3d+concrete+printing+technology&as_occt=title&as_sauthors=ting&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203625315&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001311177600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app14177800" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

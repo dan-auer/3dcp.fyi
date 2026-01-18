@@ -19,14 +19,15 @@ tags:
 ---
 
 #Additive Manufacturing for Vernacular Architecture Using Local Earthen Soil and Bio-Waste Materials ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121321" target="_blank">10.1016/j.engstruct.2025.121321</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.121321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121321" target="_blank">10.1016/j.engstruct.2025.121321</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6814-695X" title="ORCID: 0000-0002-6814-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yousaf_arslan"><b>Yousaf</b>&nbsp;Arslan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1563-8539" title="ORCID: 0000-0002-1563-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rashid_ans"><b>al&nbsp;Rashid</b>&nbsp;Ans</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
 Journal Article - Engineering Structures, Vol. 344, No. 121321
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Vernacular%20Architecture%20Using%20Local%20Earthen%20Soil%20and%20Bio-Waste%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+for+vernacular+architecture+using+local+earthen+soil+and+bio-waste+materials&as_occt=title&as_sauthors=yousaf&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015382388&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001573316500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.121321" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -63,8 +64,9 @@ Journal Article - Engineering Structures, Vol. 344, No. 121321
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a></li>
     </ol>
 </div>
 

@@ -23,14 +23,15 @@ tags:
 ---
 
 #Determining the Effect of Geometric and Dynamic Properties of Screws on Fiber-Orientation During FRC 3D Printing Based on Discrete Element Simulation ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105513" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105513" target="_blank">10.1016/j.autcon.2024.105513</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105513" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105513" target="_blank">10.1016/j.autcon.2024.105513</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <a href="../../../author/bai_meiyan"><b>Bai</b>&nbsp;Meiyan</a></span><br>
 Journal Article - Automation in Construction, Vol. 165, No. 105513
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/screw"><button class="btn">#screw</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Determining%20the%20Effect%20of%20Geometric%20and%20Dynamic%20Properties%20of%20Screws%20on%20Fiber-Orientation%20During%20FRC%203D%20Printing%20Based%20on%20Discrete%20Element%20Simulation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=determining+the+effect+of+geometric+and+dynamic+properties+of+screws+on+fiber-orientation+during+frc+3d+printing+based+on+discrete+element+simulation&as_occt=title&as_sauthors=zhi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195196091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001258316500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105513" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

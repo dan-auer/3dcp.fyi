@@ -17,14 +17,15 @@ tags:
 
 #Lunar Contour Crafting&nbsp;([2005-01](date/2005/01))
 <div class="h1-like">A Novel Technique for ISRU-Based Habitat Development</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ntrs.nasa.gov/api/citations/20050111578/downloads/20050111578.pdf) <a href="https://doi.org/10.2514/6.2005-538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2005-538" target="_blank">10.2514/6.2005-538</a>
+<a href="https://ntrs.nasa.gov/api/citations/20050111578/downloads/20050111578.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2005-538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2005-538" target="_blank">10.2514/6.2005-538</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b>&nbsp;Melanie</a></span>, <a href="../../../author/burks_kevin"><b>Burks</b>&nbsp;Kevin</a></span>, <a href="../../../author/ethridge_ed"><b>Ethridge</b>&nbsp;Ed</a></span>, <a href="../../../author/tucker_dennis"><b>Tucker</b>&nbsp;Dennis</a></span>, <a href="../../../author/kim_won"><b>Kim</b>&nbsp;Won</a></span>, <a href="../../../author/toutanji_houssam"><b>Toutanji</b>&nbsp;Houssam</a></span>, <a href="../../../author/fiske_r_michael"><b>Fiske</b>&nbsp;Michael</a></span><br>
 Contribution - Proceedings of the 43rd AIAA Aerospace Sciences Meeting and Exhibit
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lunar%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lunar+contour+crafting&as_occt=title&as_sauthors=khoshnevis&as_ylo=2003&as_yhi=2007&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-30744461612&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2005-538" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Material-Saving Concrete Ceiling Made from 3D-Printed Interlocking Blocks ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400061" target="_blank">10.1002/best.202400061</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202400061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400061" target="_blank">10.1002/best.202400061</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8256-1455" title="ORCID: 0000-0002-8256-1455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neef_tobias"><b>Neef</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3399-3416" title="ORCID: 0009-0003-3399-3416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gortzen_tom"><b>Görtzen</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2163-3240" title="ORCID: 0000-0002-2163-3240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niemeyer_alice"><b>Niemeyer</b>&nbsp;Alice</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/ceiling"><button class="btn">#ceiling</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/savings"><button class="btn">#savings</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Material-Saving%20Concrete%20Ceiling%20Made%20from%203D-Printed%20Interlocking%20Blocks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=material-saving+concrete+ceiling+made+from+3d-printed+interlocking+blocks&as_occt=title&as_sauthors=neef&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206983769&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001340043500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202400061" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

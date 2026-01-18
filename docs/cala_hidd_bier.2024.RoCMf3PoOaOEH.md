@@ -15,14 +15,15 @@ tags:
 ---
 
 #Review of Cementless Materials for 3D Printing of On- and Off-Earth Habitats ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-50081-7_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-50081-7_3" target="_blank">10.1007/978-3-031-50081-7_3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-50081-7_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-50081-7_3" target="_blank">10.1007/978-3-031-50081-7_3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7027-4777" title="ORCID: 0000-0001-7027-4777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calabrese_giuseppe"><b>Calabrese</b>&nbsp;Giuseppe</a></span>, <a href="../../../author/hidding_arwin"><b>Hidding</b>&nbsp;Arwin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4652-8751" title="ORCID: 0000-0003-4652-8751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bier_henriette"><b>Bier</b>&nbsp;Henriette</a></span><br>
 Contribution - Adaptive On- and Off-Earth Environments, pp. 39-58
 
 <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Cementless%20Materials%20for%203D%20Printing%20of%20On-%20and%20Off-Earth%20Habitats" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+of+cementless+materials+for+3d+printing+of+on-+and+off-earth+habitats&as_occt=title&as_sauthors=calabrese&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-50081-7_3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

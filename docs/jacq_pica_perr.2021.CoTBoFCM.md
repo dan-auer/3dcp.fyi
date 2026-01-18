@@ -16,14 +16,15 @@ tags:
 ---
 
 #Characterization of Tensile Behavior of Fresh Cementitious Materials ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733125" target="_blank">10.14359/51733125</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733125" target="_blank">10.14359/51733125</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1898-8486" title="ORCID: 0000-0003-1898-8486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/picandet_vincent"><b>Picandet</b>&nbsp;Vincent</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 217-226
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Tensile%20Behavior%20of%20Fresh%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+tensile+behavior+of+fresh+cementitious+materials&as_occt=title&as_sauthors=jacquet&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121663997&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800019" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733125" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

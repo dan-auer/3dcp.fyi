@@ -9,6 +9,60 @@ search:
 
 #  Qian Ye 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9957-1078" target="_blank">0000-0002-9957-1078</a>
+
+    First Contribution
+    : 2016-09-28
+    
+    Last Contribution
+    : 2026-01-04
+
+    Number Contributions
+    : 29
+
+    Number Citations
+    : 1424
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (11)</li>
+        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (11)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (6)</li>
+        <li><a href="../../../author/qiu_minghong"><b>Qiu</b> Minghong</a> (4)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a> (357)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (64)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (56)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (54)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (50)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (45)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (50)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (38)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (37)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (37)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (33)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Specimen Design and Advanced Material-Testing for 3D Printing Concretes ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/manchester.2024.0115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0115" target="_blank">10.2749/manchester.2024.0115</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/manchester.2024.0115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0115" target="_blank">10.2749/manchester.2024.0115</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <a href="../../../author/karolyi_juliian"><b>Karolyi</b>&nbsp;Juliian</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
 Contribution - Proceedings of the 2024 IABSE Symposium, No. 82
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Specimen%20Design%20and%20Advanced%20Material-Testing%20for%203D%20Printing%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=specimen+design+and+advanced+material-testing+for+3d+printing+concretes&as_occt=title&as_sauthors=radl&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/manchester.2024.0115" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

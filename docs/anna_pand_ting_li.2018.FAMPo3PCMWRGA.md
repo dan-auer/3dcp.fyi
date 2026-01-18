@@ -26,7 +26,7 @@ Contribution - Proceedings of the 3rd International Conference on Progress in Ad
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flow%20And%20Mechanical%20Properties%20of%203D%20Printed%20Cementitious%20Material%20With%20Recycled%20Glass-Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flow+and+mechanical+properties+of+3d+printed+cementitious+material+with+recycled+glass-aggregates&as_occt=title&as_sauthors=annapareddy&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053626200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000485804300011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.25341/d41p4h" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

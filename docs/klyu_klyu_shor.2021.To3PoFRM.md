@@ -15,14 +15,15 @@ tags:
 ---
 
 #Technology of 3D Printing of Fiber-Reinforced Mixtures ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-67654-4_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-67654-4_25" target="_blank">10.1007/978-3-030-67654-4_25</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-67654-4_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-67654-4_25" target="_blank">10.1007/978-3-030-67654-4_25</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1995-6139" title="ORCID: 0000-0002-1995-6139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klyuev_vasilyevich_sergey"><b>Klyuev</b>&nbsp;Sergey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0845-8414" title="ORCID: 0000-0003-0845-8414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klyuev_vasilyevich_alexander"><b>Klyuev</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4031-0989" title="ORCID: 0000-0003-4031-0989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shorstova_s_elena"><b>Shorstova</b>&nbsp;Elena</a></span><br>
 Contribution - Sustainable Energy Systems, pp. 224-230
 
 <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Technology%20of%203D%20Printing%20of%20Fiber-Reinforced%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=technology+of+3d+printing+of+fiber-reinforced+mixtures&as_occt=title&as_sauthors=klyuev&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101882857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-67654-4_25" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

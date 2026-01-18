@@ -21,14 +21,15 @@ tags:
 
 #Large-Scale Automated Additive Construction&nbsp;([2022-08](date/2022/08))
 <div class="h1-like">Overview, Robotic Solutions, Sustainability, and Future Prospect</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/15/9782/pdf?version=1660034860) <a href="https://doi.org/10.3390/su14159782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14159782" target="_blank">10.3390/su14159782</a>
+<a href="https://www.mdpi.com/2071-1050/14/15/9782/pdf?version=1660034860" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su14159782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14159782" target="_blank">10.3390/su14159782</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8926-2346" title="ORCID: 0000-0001-8926-2346" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khosravani_reza_mohammad"><b>Khosravani</b>&nbsp;Mohammad</a></span>, <a href="../../../author/haghighi_azadeh"><b>Haghighi</b>&nbsp;Azadeh</a></span><br>
 Journal Article - Sustainability, Vol. 14, Iss. 15
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Automated%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-scale+automated+additive+construction&as_occt=title&as_sauthors=khosravani&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137030541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000838887600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su14159782" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Additive Manufacturing in Architecture&nbsp;([2021-09](date/2021/09))
 <div class="h1-like">3D Printing Solutions for Vaulted Spaces</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-21735-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21735-7_45" target="_blank">10.1007/978-3-031-21735-7_45</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-21735-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21735-7_45" target="_blank">10.1007/978-3-031-21735-7_45</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3961-7721" title="ORCID: 0000-0003-3961-7721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graziano_vito_angelo"><b>Graziano</b>&nbsp;Angelo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2810-8166" title="ORCID: 0000-0002-2810-8166" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavaliere_ilaria"><b>Cavaliere</b>&nbsp;Ilaria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1930-1001" title="ORCID: 0000-0002-1930-1001" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costantino_dario"><b>Costantino</b>&nbsp;Dario</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2291-6832" title="ORCID: 0000-0002-2291-6832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fallacara_giuseppe"><b>Fallacara</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_nicola"><b>Parisi</b>&nbsp;Nicola</a></span><br>
 Contribution - Proceedings of the 75th RILEM Annual Week 2021, pp. 407-414
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+in+architecture&as_occt=title&as_sauthors=graziano&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150153517&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001000560900045" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-21735-7_45" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

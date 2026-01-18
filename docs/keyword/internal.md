@@ -8,6 +8,10 @@ search:
 
 # #internal
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (14)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/cure"><button class="btn">#cure (6)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (6)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
   <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>

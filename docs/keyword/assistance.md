@@ -8,6 +8,10 @@ search:
 
 # #assistance
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/robot"><button class="btn">#robot (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (3)</button></a> <a href="../../keyword/production"><button class="btn">#production (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
   <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a></li>

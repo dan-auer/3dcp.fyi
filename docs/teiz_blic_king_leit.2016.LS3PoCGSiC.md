@@ -17,14 +17,15 @@ tags:
 ---
 
 #Large-Scale 3D Printing of Complex Geometric Shapes in Construction ([2016-07](date/2016/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/publications/fulltext/ISARC2016-Paper186.pdf) <a href="https://doi.org/10.22260/isarc2016/0114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2016/0114" target="_blank">10.22260/isarc2016/0114</a>
+<a href="https://www.iaarc.org/publications/fulltext/ISARC2016-Paper186.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2016/0114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2016/0114" target="_blank">10.22260/isarc2016/0114</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8071-895X" title="ORCID: 0000-0001-8071-895X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teizer_jochen"><b>Teizer</b>&nbsp;Jochen</a></span>, <a href="../../../author/blickle_alexander"><b>Blickle</b>&nbsp;Alexander</a></span>, <a href="../../../author/king_tobias"><b>King</b>&nbsp;Tobias</a></span>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b>&nbsp;Olaf</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3360-6469" title="ORCID: 0000-0002-3360-6469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guenther_daniel"><b>Guenther</b>&nbsp;Daniel</a></span><br>
 Contribution - Proceedings of the 33rd International Symposium on Automation and Robotics in Construction, pp. 948-956
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20of%20Complex%20Geometric%20Shapes%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-scale+3d+printing+of+complex+geometric+shapes+in+construction&as_occt=title&as_sauthors=teizer&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84994336714&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2016/0114" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

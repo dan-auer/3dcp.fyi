@@ -17,14 +17,15 @@ tags:
 ---
 
 #Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2367735) <a href="https://doi.org/10.1080/17452759.2024.2367735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2367735" target="_blank">10.1080/17452759.2024.2367735</a>
+<a href="https://doi.org/10.1080/17452759.2024.2367735" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2024.2367735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2367735" target="_blank">10.1080/17452759.2024.2367735</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mozaffari_salma"><b>Mozaffari</b>&nbsp;Salma</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-9623-8866" title="ORCID: 0009-0006-9623-8866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b>&nbsp;Rahasadat</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1731-7739" title="ORCID: 0009-0001-1731-7739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yunyan"><b>Li</b>&nbsp;Yunyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8701-4410" title="ORCID: 0000-0001-8701-4410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b>&nbsp;Jaime</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Leveraging%20Clay-Formwork%203D%20Printing%20for%20Reinforced-Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=leveraging+clay-formwork+3d+printing+for+reinforced-concrete+construction&as_occt=title&as_sauthors=mozaffari&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198526624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001268634700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2024.2367735" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

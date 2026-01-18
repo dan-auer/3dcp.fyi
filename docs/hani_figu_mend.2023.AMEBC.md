@@ -21,14 +21,15 @@ tags:
 
 #Additive Manufacturing Earth-Based Composite&nbsp;([2023-04](date/2023/04))
 <div class="h1-like">Strategical and Computational Methodology for Building-Shell-Geometries</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-25795-7_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_5" target="_blank">10.1007/978-3-031-25795-7_5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-25795-7_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_5" target="_blank">10.1007/978-3-031-25795-7_5</a>
 
 <a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b>&nbsp;Mohamad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b>&nbsp;Paulo</a></span><br>
 Contribution - Sustainable and Digital Building, pp. 61-71
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Earth-Based%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+earth-based+composite&as_occt=title&as_sauthors=hanifa&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207565813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-25795-7_5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

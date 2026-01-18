@@ -18,14 +18,15 @@ tags:
 ---
 
 #Bio-Inspired 3D Printing of Strain-Hardening Cementitious Composites Reticulated Shell-Roofs ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2024.137498" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.137498" target="_blank">10.1016/j.matlet.2024.137498</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2024.137498" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.137498" target="_blank">10.1016/j.matlet.2024.137498</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9469-7974" title="ORCID: 0000-0002-9469-7974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_guoqiang"><b>Du</b>&nbsp;Guoqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
 Journal Article - Materials Letters, Vol. 377, No. 137498
 
 <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bio-Inspired%203D%20Printing%20of%20Strain-Hardening%20Cementitious%20Composites%20Reticulated%20Shell-Roofs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bio-inspired+3d+printing+of+strain-hardening+cementitious+composites+reticulated+shell-roofs&as_occt=title&as_sauthors=du&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205679265&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001332077100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2024.137498" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

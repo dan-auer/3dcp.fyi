@@ -19,14 +19,15 @@ tags:
 ---
 
 #Assessment of the Suitability of Carbon Long Fibers as Reinforcement for Additively Manufactured Components ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80724-4_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_50" target="_blank">10.1007/978-3-031-80724-4_50</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-80724-4_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_50" target="_blank">10.1007/978-3-031-80724-4_50</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7967-3367" title="ORCID: 0009-0005-7967-3367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b>&nbsp;Marc-Patrick</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-8419-2974" title="ORCID: 0009-0004-8419-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sam_nina"><b>Sam</b>&nbsp;Nina</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-1118-3714" title="ORCID: 0009-0002-1118-3714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radl_elisabeth"><b>Radl</b>&nbsp;Elisabeth</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2608-2576" title="ORCID: 0009-0007-2608-2576" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vill_markus"><b>Vill</b>&nbsp;Markus</a></span><br>
 Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 406-413
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20the%20Suitability%20of%20Carbon%20Long%20Fibers%20as%20Reinforcement%20for%20Additively%20Manufactured%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessment+of+the+suitability+of+carbon+long+fibers+as+reinforcement+for+additively+manufactured+components&as_occt=title&as_sauthors=pfleger&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218028763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001505314100050" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-80724-4_50" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

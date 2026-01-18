@@ -8,6 +8,10 @@ search:
 
 # #growth
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/dynamic"><button class="btn">#dynamic (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/bed"><button class="btn">#bed (1)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/soil"><button class="btn">#soil (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nathansohn_nof"><b>Nathansohn</b> Nof</a>, <a href="../../../author/gillis_elisheva"><b>Gillis</b> Elisheva</a>, <a href="../../../author/linker_gitit"><b>Linker</b> Gitit</a>, <a href="../../../author/zermati_noa"><b>Zermati</b> Noa</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nath_gill_link_zerm.2024.TGaB/">To Grow a Building:<br/>Soil and Seeds 3D Printing</a></li>
   <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Thermal Performance Improvement of Brick Design via 3D Printing ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-158&type=chapterpdf) <a href="https://doi.org/10.1201/9781003658641-158" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003658641-158" target="_blank">10.1201/9781003658641-158</a>
+<a href="https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-158&type=chapterpdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003658641-158" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003658641-158" target="_blank">10.1201/9781003658641-158</a>
 
 <a href="../../../author/saad_e"><b>Saad</b>&nbsp;E.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4399-7897" title="ORCID: 0000-0002-4399-7897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/correa_david"><b>Correa</b>&nbsp;David</a></span><br>
 Contribution - Structures and Architecture, pp. 1329-1336
 
 <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Performance%20Improvement%20of%20Brick%20Design%20via%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+performance+improvement+of+brick+design+via+3d+printing&as_occt=title&as_sauthors=saad&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003658641-158" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

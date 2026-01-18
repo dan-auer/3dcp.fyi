@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Comparative Evaluation of Sepiolite and Nano-Montmorillonite on the Rheology of Cementitious Materials for 3D Printing ([2022-08](date/2022/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" target="_blank">10.1016/j.conbuildmat.2022.128935</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128935" target="_blank">10.1016/j.conbuildmat.2022.128935</a>
 
 <a href="../../../author/aydin_mina_eylul"><b>Aydin</b>&nbsp;Eylül</a></span>, <a href="../../../author/kara_burhan"><b>Kara</b>&nbsp;Burhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4533-8702" title="ORCID: 0000-0003-4533-8702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozyurt_nilufer"><b>Özyurt</b>&nbsp;Nilüfer</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span>, <a href="../../../author/gulgun_ali_mehmet"><b>Gulgun</b>&nbsp;Mehmet</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 350
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sepiolite"><button class="btn">#sepiolite</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comparative%20Evaluation%20of%20Sepiolite%20and%20Nano-Montmorillonite%20on%20the%20Rheology%20of%20Cementitious%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comparative+evaluation+of+sepiolite+and+nano-montmorillonite+on+the+rheology+of+cementitious+materials+for+3d+printing&as_occt=title&as_sauthors=aydin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136531230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000855127500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.128935" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

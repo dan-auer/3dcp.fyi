@@ -9,7 +9,62 @@ search:
 
 #  Lloret-Fritschi Ena 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0009-0001-8135-2424" target="_blank">0009-0001-8135-2424</a>
+
+    First Contribution
+    : 2013-05-18
+    
+    Last Contribution
+    : 2026-01-02
+
+    Number Contributions
+    : 45
+
+    Number Citations
+    : 1297
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (33)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (32)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (21)</li>
+        <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> (11)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (11)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a> (482)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (64)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (54)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (48)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (46)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (87)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (79)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (75)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (62)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (57)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jenny_david"><b>Jenny</b> David</a>, <a href="../../../author/cutajar_sacha"><b>Cutajar</b> Sacha</a>, <a href="../../../author/chan_yen-fen"><b>Chan</b> Yen-Fen</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jenn_cuta_chan_jenn.2026.EtE/">Earth-to-Earth:<br/>Ultra-Thin 3D-Printed Clay Formwork for in-Situ Earth-Casting</a></li>
   <li><a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/gamote_perez_ringo"><b>Gamote</b> Ringo</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/arnold_kilian"><b>Arnold</b> Kilian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../chei_gamo_llor_arno.2024.3PoaMPF/">3D Printing of a Multi-Performative Facade:<br/>Assessment of Air Permeability, Water Tightness, Wind Loads, and Impact Resistance</a></li>
   <li><a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a>, <a href="../../../author/gamote_perez_ringo"><b>Gamote</b> Ringo</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/arnold_kilian"><b>Arnold</b> Kilian</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../chei_gamo_llor_arno.2024.3PoaMPBE/">3D Printing of a Multi-Performative Building Envelope:<br/>Assessment of Air-Permeability, Water-Tightness, Wind-Loads, and Impact-Resistance</a></li>
   <li><a href="../../../author/amicarelli_fabio"><b>Amicarelli</b> Fabio</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../amic_llor.2024.OCSwPF/">Optimising Concrete Slabs with Paper Formworks</a></li>

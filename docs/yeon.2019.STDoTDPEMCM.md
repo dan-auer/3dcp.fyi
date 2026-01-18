@@ -19,14 +19,15 @@ tags:
 ---
 
 #Short-Term Deformability of Three-Dimensional Printable EVA-Modified Cementitious Mortars ([2019-10](date/2019/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/9/19/4184/pdf?version=1570509890) <a href="https://doi.org/10.3390/app9194184" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app9194184" target="_blank">10.3390/app9194184</a>
+<a href="https://www.mdpi.com/2076-3417/9/19/4184/pdf?version=1570509890" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app9194184" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app9194184" target="_blank">10.3390/app9194184</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span><br>
 Journal Article - Applied Sciences, Vol. 9, Iss. 19
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Short-Term%20Deformability%20of%20Three-Dimensional%20Printable%20EVA-Modified%20Cementitious%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=short-term+deformability+of+three-dimensional+printable+eva-modified+cementitious+mortars&as_occt=title&as_sauthors=yeon&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85073291148&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000496258100242" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app9194184" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

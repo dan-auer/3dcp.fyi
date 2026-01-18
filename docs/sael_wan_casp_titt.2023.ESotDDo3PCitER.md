@@ -17,14 +17,15 @@ tags:
 ---
 
 #Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32519-9_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_32" target="_blank">10.1007/978-3-031-32519-9_32</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-32519-9_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32519-9_32" target="_blank">10.1007/978-3-031-32519-9_32</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9481-1987" title="ORCID: 0000-0001-9481-1987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saelens_lien"><b>Saelens</b>&nbsp;Lien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-5694" title="ORCID: 0000-0003-3616-5694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4074-7478" title="ORCID: 0000-0003-4074-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/caspeele_robby"><b>Caspeele</b>&nbsp;Robby</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
 Contribution - Proceedings of the fib Symposium 2023, pp. 339-348
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/range"><button class="btn">#range</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Directional%20Dependency%20of%203D%20Printed%20Concrete%20in%20the%20Elastic%20Range" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+the+directional+dependency+of+3d+printed+concrete+in+the+elastic+range&as_occt=title&as_sauthors=saelens&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163926503&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-32519-9_32" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Kruger Jacques 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0090-423X" target="_blank">0000-0003-0090-423X</a>
+
+    First Contribution
+    : 2019-06-26
+    
+    Last Contribution
+    : 2025-10-31
+
+    Number Contributions
+    : 52
+
+    Number Citations
+    : 2517
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (36)</li>
+        <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> (11)</li>
+        <li><a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> (11)</li>
+        <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a> (10)</li>
+        <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.3CP/">3D Concrete Printing:<br/>A Lower-Bound Analytical Model for Buildability-Performance-Quantification</a> (230)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (162)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (139)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (131)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (109)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (101)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (98)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (91)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (83)</li>
+        <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> (71)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (62)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../most_krug.2025.RABo3PCTIF/">Reducing Anisotropic Behaviour of 3D Printed Concrete Through Interlocked Filaments</a></li>

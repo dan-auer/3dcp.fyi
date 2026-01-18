@@ -23,7 +23,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Use%20of%20Additive%20Construction%20in%20All%20Structural%20Components%20of%20a%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+use+of+additive+construction+in+all+structural+components+of+a+building&as_occt=title&as_sauthors=kreiger&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408191022-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

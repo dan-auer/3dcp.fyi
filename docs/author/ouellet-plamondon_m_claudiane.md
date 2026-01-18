@@ -9,6 +9,60 @@ search:
 
 #  Ouellet-Plamondon Claudiane 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3795-4791" target="_blank">0000-0003-3795-4791</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-03-30
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 53
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a> (6)</li>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (4)</li>
+        <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a> (4)</li>
+        <li><a href="../../../author/charrier_malo"><b>Charrier</b> Malo</a> (2)</li>
+        <li><a href="../../../author/zongo_karim"><b>Zongo</b> Karim</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../serg_ouel.2022.DODoEAt3HPCPMD/">D-Optimal Design of Experiments Applied to 3D High-Performance Concrete Printing Mix-Design</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (19)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (3)</li>
+        <li><a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a> (3)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (2)</li>
+        <li><a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> (2)</li>
+        <li><a href="../../../author/pimentel_mario"><b>Pimentel</b> Mário</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../jin_ouel_caro.2025.MOOoaSLMf3P/">Multi-Objective Optimization of a Sustainable LC3 Mortar for 3D Printing</a></li>
   <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a></li>

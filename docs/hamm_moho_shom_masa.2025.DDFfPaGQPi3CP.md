@@ -18,14 +18,15 @@ tags:
 ---
 
 #Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.matdes.2025.115309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2025.115309" target="_blank">10.1016/j.matdes.2025.115309</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2025.115309" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2025.115309" target="_blank">10.1016/j.matdes.2025.115309</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1737-8451" title="ORCID: 0000-0002-1737-8451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hammoud_ahmad"><b>Hammoud</b>&nbsp;Ahmad</a></span>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b>&nbsp;Yosef</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-6171-6976" title="ORCID: 0009-0007-6171-6976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shomar_hasan"><b>Shomar</b>&nbsp;Hasan</a></span>, <a href="../../../author/masad_eyad"><b>Masad</b>&nbsp;Eyad</a></span>, <a href="../../../author/arroyave_raymundo"><b>Arroyave</b>&nbsp;Raymundo</a></span>, <a href="../../../author/tafreshi_reza"><b>Tafreshi</b>&nbsp;Reza</a></span><br>
 Journal Article - Materials & Design, No. 115309
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Framework%20for%20Printability%20and%20Geometric%20Quality%20Prediction%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+framework+for+printability+and+geometric+quality+prediction+in+3d+concrete+printing&as_occt=title&as_sauthors=hammoud&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2025.115309" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #furnace
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/slag"><button class="btn">#slag (9)</button></a> <a href="../../keyword/blast"><button class="btn">#blast (8)</button></a> <a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/isafca-kaya_tugce"><b>İsafça Kaya</b> Tuğçe</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC/">Combined Effect of Recycled Tire Steel Fiber and Blast Furnace Slag on the Mechanical Performance of 3D Printable Concrete</a></li>
   <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>

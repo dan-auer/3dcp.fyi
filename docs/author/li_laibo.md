@@ -9,6 +9,60 @@ search:
 
 #  Li Laibo 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2018-09-14
+    
+    Last Contribution
+    : 2022-06-15
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 614
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (10)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (10)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (8)</li>
+        <li><a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> (7)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (44)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (25)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (22)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (21)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (40)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (40)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (30)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (21)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (18)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>
   <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>

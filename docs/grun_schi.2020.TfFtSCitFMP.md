@@ -17,14 +17,15 @@ tags:
 ---
 
 #Transition from Fluid to Solid Concrete in the Flexible Mould Process ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3Aac9d79db-750b-4fbc-b506-f83383fb45b2/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-030-49916-7_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_27" target="_blank">10.1007/978-3-030-49916-7_27</a>
+<a href="https://repository.tudelft.nl/islandora/object/uuid%3Aac9d79db-750b-4fbc-b506-f83383fb45b2/datastream/OBJ/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_27" target="_blank">10.1007/978-3-030-49916-7_27</a>
 
 <a href="../../../author/grunewald_steffen"><b>Grünewald</b>&nbsp;Steffen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0549-4516" title="ORCID: 0000-0003-0549-4516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schipper_h_roel"><b>Schipper</b>&nbsp;Roel</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 262-271
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Transition%20from%20Fluid%20to%20Solid%20Concrete%20in%20the%20Flexible%20Mould%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=transition+from+fluid+to+solid+concrete+in+the+flexible+mould+process&as_occt=title&as_sauthors=gr%C3%BCnewald&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088256598&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

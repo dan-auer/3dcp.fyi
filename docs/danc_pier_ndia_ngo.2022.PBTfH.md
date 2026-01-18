@@ -13,14 +13,15 @@ tags:
 ---
 
 #Particle-Bed Technique for Hempcrete ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_41" target="_blank">10.1007/978-3-031-06116-5_41</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_41" target="_blank">10.1007/978-3-031-06116-5_41</a>
 
 <a href="../../../author/danche_valentine"><b>Danché</b>&nbsp;Valentine</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <a href="../../../author/ndiaye_k"><b>Ndiaye</b>&nbsp;K.</a></span>, <a href="../../../author/ngo_tung_tien"><b>Ngo</b>&nbsp;Tien</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 277-282
 
 <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Particle-Bed%20Technique%20for%20Hempcrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=particle-bed+technique+for+hempcrete&as_occt=title&as_sauthors=danch%C3%A9&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133168609&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_41" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

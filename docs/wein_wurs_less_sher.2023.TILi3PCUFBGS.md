@@ -22,7 +22,7 @@ Contribution - Proceedings of the 16th Hypervelocity Impact Symposium
 
 <a href="../../keyword/bragg"><button class="btn">#bragg</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/triangulation"><button class="btn">#triangulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Triangulating%20Impact%20Location%20in%203D%20Printable%20Concrete%20Using%20Fiber%20Bragg%20Grating%20Sensors" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=triangulating+impact+location+in+3d+printable+concrete+using+fiber+bragg+grating+sensors&as_occt=title&as_sauthors=weiner&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

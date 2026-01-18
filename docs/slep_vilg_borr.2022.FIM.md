@@ -17,14 +17,15 @@ tags:
 
 #Fabrication Information Modeling&nbsp;([2022-07](date/2022/07))
 <div class="h1-like">Interfacing Building Information Modeling with Digital Fabrication</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-022-00075-2.pdf) <a href="https://doi.org/10.1007/s41693-022-00075-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00075-2" target="_blank">10.1007/s41693-022-00075-2</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41693-022-00075-2.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-022-00075-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00075-2" target="_blank">10.1007/s41693-022-00075-2</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4271-2076" title="ORCID: 0000-0003-4271-2076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Journal Article - Construction Robotics
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20Information%20Modeling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication+information+modeling&as_occt=title&as_sauthors=slepicka&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-022-00075-2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Construction-Scale 3D Printing&nbsp;([2017-06](date/2017/06))
 <div class="h1-like">Shape Stability of Fresh Printing Concrete</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/msec2017-2823" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2017-2823" target="_blank">10.1115/msec2017-2823</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/msec2017-2823" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2017-2823" target="_blank">10.1115/msec2017-2823</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/meier_ryan"><b>Meier</b>&nbsp;Ryan</a></span>, <a href="../../../author/cochran_evan"><b>Cochran</b>&nbsp;Evan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Contribution - Proceedings of the ASME 12th International Manufacturing Science and Engineering Conference
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Construction-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=construction-scale+3d+printing&as_occt=title&as_sauthors=kazemian&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85021733572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/msec2017-2823" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

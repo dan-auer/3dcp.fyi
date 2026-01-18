@@ -18,14 +18,15 @@ tags:
 
 #Geometric Inspection in 3D Concrete Manufacturing&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">Comparison of Data Capturing Techniques</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/1029/2025/isprs-archives-XLVIII-G-2025-1029-2025.pdf) <a href="https://doi.org/10.5194/isprs-archives-xlviii-g-2025-1029-2025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xlviii-g-2025-1029-2025" target="_blank">10.5194/isprs-archives-xlviii-g-2025-1029-2025</a>
+<a href="https://isprs-archives.copernicus.org/articles/XLVIII-G-2025/1029/2025/isprs-archives-XLVIII-G-2025-1029-2025.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5194/isprs-archives-xlviii-g-2025-1029-2025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5194/isprs-archives-xlviii-g-2025-1029-2025" target="_blank">10.5194/isprs-archives-xlviii-g-2025-1029-2025</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3367-2404" title="ORCID: 0000-0003-3367-2404" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maboudi_mehdi"><b>Maboudi</b>&nbsp;Mehdi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8608-7578" title="ORCID: 0000-0002-8608-7578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mawas_karam"><b>Mawas</b>&nbsp;Karam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2221-6182" title="ORCID: 0000-0002-2221-6182" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gerke_markus"><b>Gerke</b>&nbsp;Markus</a></span><br>
 Journal Article - The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Vol. XLVIII-G-2025, pp. 1029-1034
 
 <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geometric%20Inspection%20in%203D%20Concrete%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geometric+inspection+in+3d+concrete+manufacturing&as_occt=title&as_sauthors=maboudi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014327690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5194/isprs-archives-xlviii-g-2025-1029-2025" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

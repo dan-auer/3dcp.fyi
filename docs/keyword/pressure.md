@@ -8,7 +8,12 @@ search:
 
 # #pressure
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/model"><button class="btn">#model (4)</button></a> <a href="../../keyword/element"><button class="btn">#element (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_lian.2026.BAo3CP/">Buildability Analysis of 3D Concrete Printing:<br/>A Finite Element Model Incorporating Segment-by-Segment Activation, Nozzle Constraint, and Extrusion Pressure</a></li>
   <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/he_yao"><b>He</b> Yao</a>, <a href="../../../author/yu_miao"><b>Yu</b> Miao</a>, <a href="../../../author/wang_changhao"><b>Wang</b> Changhao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xiao_he_yu_wang.2025.EoPCMotPoM/">Effects of Pressurized CO2 Mixing on the Properties of Mortar</a></li>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b> Simon</a>, <a href="../../../author/audren_mathieu"><b>Audren</b> Mathieu</a>, <a href="../../../author/lely_nathan"><b>Lely</b> Nathan</a>, <a href="../../../author/borgne_tangi"><b>Borgne</b> Tangi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../guih_audr_lely_borg.2024.MaMoFPEbCEM/">Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials</a></li>

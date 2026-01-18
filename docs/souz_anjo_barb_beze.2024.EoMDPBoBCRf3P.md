@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of Mix-Design Parameters Based on Basic Constitutive-Relationships for 3DCP Printing ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.scielo.br/j/ce/a/3hVWmvzDyg8QkHBMNBw84KJ/?lang=en&format=pdf) <a href="https://doi.org/10.1590/zxbr6170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1590/zxbr6170" target="_blank">10.1590/zxbr6170</a>
+<a href="https://www.scielo.br/j/ce/a/3hVWmvzDyg8QkHBMNBw84KJ/?lang=en&format=pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1590/zxbr6170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1590/zxbr6170" target="_blank">10.1590/zxbr6170</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5925-2171" title="ORCID: 0000-0001-5925-2171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza-dias_leonardo"><b>de&nbsp;Souza Dias</b>&nbsp;Leonardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9563-2534" title="ORCID: 0000-0001-9563-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anjos_alyssandro-soares_marcos"><b>dos&nbsp;Anjos</b>&nbsp;Marcos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2750-0756" title="ORCID: 0000-0002-2750-0756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b>&nbsp;Marcella</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6008-3600" title="ORCID: 0000-0001-6008-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bezerra_t_ulisses"><b>Bezerra</b>&nbsp;Ulisses</a></span><br>
 Journal Article - Cerâmica, Vol. 70
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mix-Design%20Parameters%20Based%20on%20Basic%20Constitutive-Relationships%20for%203DCP%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+mix-design+parameters+based+on+basic+constitutive-relationships+for+3dcp+printing&as_occt=title&as_sauthors=souza+dias&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200344771&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1590/zxbr6170" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

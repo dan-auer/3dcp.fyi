@@ -9,6 +9,60 @@ search:
 
 #  Hoffmann Marcin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2418-4759" target="_blank">0000-0003-2418-4759</a>
+
+    First Contribution
+    : 2019-02-24
+    
+    Last Contribution
+    : 2025-11-25
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 375
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (13)</li>
+        <li><a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> (9)</li>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (8)</li>
+        <li><a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> (6)</li>
+        <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a> (87)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (43)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (39)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (33)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (32)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (36)</li>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (34)</li>
+        <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> (18)</li>
+        <li><a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a> (18)</li>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (17)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/dvorak_richard"><b>Dvořák</b> Richard</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../skib_dvor_pazd_topo.2024.AMPo3PMDbSFaCTaAE/">Anisotropic Mechanical Properties of 3D Printed Mortar Determined by Standard Flexural and Compression-Test and Acoustic Emission</a></li>

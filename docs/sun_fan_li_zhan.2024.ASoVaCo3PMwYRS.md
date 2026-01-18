@@ -19,7 +19,7 @@ Contribution - Proceedings of the 29th International Conference of the Associati
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20of%20Viability%20and%20Characteristic%20of%203D%20Printable%20Mortar%20with%20Yellow%20River%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+study+of+viability+and+characteristic+of+3d+printable+mortar+with+yellow+river+sand&as_occt=title&as_sauthors=sun&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

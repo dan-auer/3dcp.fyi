@@ -17,14 +17,15 @@ tags:
 
 #Jammed Architectural Structures&nbsp;([2016-04](date/2016/04))
 <div class="h1-like">Towards Large-Scale Reversible Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.research-collection.ethz.ch/bitstream/20.500.11850/116856/3/s10035-016-0628-y.pdf) <a href="https://doi.org/10.1007/s10035-016-0628-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10035-016-0628-y" target="_blank">10.1007/s10035-016-0628-y</a>
+<a href="https://www.research-collection.ethz.ch/bitstream/20.500.11850/116856/3/s10035-016-0628-y.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s10035-016-0628-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10035-016-0628-y" target="_blank">10.1007/s10035-016-0628-y</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6869-6409" title="ORCID: 0000-0002-6869-6409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b>&nbsp;Johan</a></span>, <a href="../../../author/willmann_jan"><b>Willmann</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7870-8582" title="ORCID: 0009-0008-7870-8582" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tibbits_skylar"><b>Tibbits</b>&nbsp;Skylar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
 Journal Article - Granular Matter, Vol. 18, Iss. 28
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/reversibility"><button class="btn">#reversibility</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Jammed%20Architectural%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=jammed+architectural+structures&as_occt=title&as_sauthors=aejmelaeus-lindstr%C3%B6m&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85007608279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000375611000015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s10035-016-0628-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

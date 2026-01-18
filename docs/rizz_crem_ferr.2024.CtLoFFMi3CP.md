@@ -15,14 +15,15 @@ tags:
 ---
 
 #Challenging the Limits of Fluid FEM Modelling in 3D Concrete Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_56" target="_blank">10.1007/978-3-031-70031-6_56</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_56" target="_blank">10.1007/978-3-031-70031-6_56</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b>&nbsp;Massimiliano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 482-489
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Challenging%20the%20Limits%20of%20Fluid%20FEM%20Modelling%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=challenging+the+limits+of+fluid+fem+modelling+in+3d+concrete+printing&as_occt=title&as_sauthors=rizzieri&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203085331&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600056" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_56" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

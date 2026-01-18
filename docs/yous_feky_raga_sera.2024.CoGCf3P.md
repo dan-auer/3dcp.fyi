@@ -17,14 +17,15 @@ tags:
 
 #Characterization of Geopolymer Composites for 3D Printing&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">A Microstructure Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s41062-024-01469-7) <a href="https://doi.org/10.1007/s41062-024-01469-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01469-7" target="_blank">10.1007/s41062-024-01469-7</a>
+<a href="https://doi.org/10.1007/s41062-024-01469-7" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41062-024-01469-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-024-01469-7" target="_blank">10.1007/s41062-024-01469-7</a>
 
 <a href="../../../author/youssef_passant"><b>Youssef</b>&nbsp;Passant</a></span>, <a href="../../../author/feky_s_muhammad"><b>el&nbsp;Feky</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ragab_m_ahmed"><b>Ragab</b>&nbsp;Ahmed</a></span>, <a href="../../../author/serag_i_mohamed"><b>Serag</b>&nbsp;Mohamed</a></span><br>
 Journal Article - Innovative Infrastructure Solutions, Vol. 9, Iss. 5
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Geopolymer%20Composites%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+geopolymer+composites+for+3d+printing&as_occt=title&as_sauthors=youssef&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191339713&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001207702200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41062-024-01469-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

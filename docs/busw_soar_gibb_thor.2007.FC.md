@@ -16,14 +16,15 @@ tags:
 
 #Freeform Construction&nbsp;([2006-06](date/2006/06))
 <div class="h1-like">Mega-Scale Rapid Manufacturing for Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Freeform_construction_mega-scale_rapid_manufacturing_for_construction/9449258/1/files/17071280.pdf) <a href="https://doi.org/10.1016/j.autcon.2006.05.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2006.05.002" target="_blank">10.1016/j.autcon.2006.05.002</a>
+<a href="https://figshare.com/articles/journal_contribution/Freeform_construction_mega-scale_rapid_manufacturing_for_construction/9449258/1/files/17071280.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2006.05.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2006.05.002" target="_blank">10.1016/j.autcon.2006.05.002</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soar_c_rupert"><b>Soar</b>&nbsp;Rupert</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span><br>
 Journal Article - Automation in Construction, Vol. 16, Iss. 2, pp. 224-231
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Freeform%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=freeform+construction&as_occt=title&as_sauthors=buswell&as_ylo=2004&as_yhi=2008&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-33846178681&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000242815100009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2006.05.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -46,8 +47,10 @@ Journal Article - Automation in Construction, Vol. 16, Iss. 2, pp. 224-231
       <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ bug "280 Citations"
+???+ bug "282 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bhar_meno_sant.2026.ESoHPo3PCUCTaSCII/">Experimental Study of Hardened Properties of 3D-Printed Concrete Under Compression, Tension and Shear Considering Interlayer Influence</a></li>
+      <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kaus_sone_amat_perr.2026.EoFABFaANotFPRaSBoPC/">Effect of Fly Ash, Basalt Fiber and Attapulgite Nanoclay on the Fresh Properties, Rheology and Shrinkage Behaviour of Printable Concrete</a></li>
       <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
       <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
       <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>

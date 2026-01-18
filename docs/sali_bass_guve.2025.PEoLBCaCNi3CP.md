@@ -18,14 +18,15 @@ tags:
 ---
 
 #Performance Evaluation of Limestone-Blended Cement and Cellulose Nanomaterials in 3D Concrete Printing ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04758) <a href="https://doi.org/10.1016/j.cscm.2025.e04758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04758" target="_blank">10.1016/j.cscm.2025.e04758</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04758" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04758" target="_blank">10.1016/j.cscm.2025.e04758</a>
 
 <a href="../../../author/salifu_n"><b>Salifu</b>&nbsp;N.</a></span>, <a href="../../../author/bassuoni_t_mohamed"><b>Bassuoni</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6943-8567" title="ORCID: 0000-0002-6943-8567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guven_gursans"><b>Guven</b>&nbsp;Gursans</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04758
 
 <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20Evaluation%20of%20Limestone-Blended%20Cement%20and%20Cellulose%20Nanomaterials%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+evaluation+of+limestone-blended+cement+and+cellulose+nanomaterials+in+3d+concrete+printing&as_occt=title&as_sauthors=salifu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005256110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001497776000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04758" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

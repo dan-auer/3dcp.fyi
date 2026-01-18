@@ -15,14 +15,15 @@ tags:
 ---
 
 #Experimental Study of Tunnel Invert Construction Using 3D Concrete Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_32" target="_blank">10.1007/978-3-031-70031-6_32</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_32" target="_blank">10.1007/978-3-031-70031-6_32</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6112-4571" title="ORCID: 0000-0002-6112-4571" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanaka_shunsei"><b>Tanaka</b>&nbsp;Shunsei</a></span>, <a href="../../../author/usui_tatsuya"><b>Usui</b>&nbsp;Tatsuya</a></span>, <a href="../../../author/koga_yoshitaka"><b>Koga</b>&nbsp;Yoshitaka</a></span>, <a href="../../../author/miyamoto_shingo"><b>Miyamoto</b>&nbsp;Shingo</a></span>, <a href="../../../author/kinomura_koji"><b>Kinomura</b>&nbsp;Koji</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 273-280
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%20Tunnel%20Invert%20Construction%20Using%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+of+tunnel+invert+construction+using+3d+concrete+printing&as_occt=title&as_sauthors=tanaka&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203084271&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600032" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_32" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

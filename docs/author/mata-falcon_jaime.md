@@ -9,6 +9,60 @@ search:
 
 #  Mata-Falcón Jaime 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8701-4410" target="_blank">0000-0001-8701-4410</a>
+
+    First Contribution
+    : 2018-06-11
+    
+    Last Contribution
+    : 2024-09-25
+
+    Number Contributions
+    : 31
+
+    Number Citations
+    : 1147
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> (23)</li>
+        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> (15)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (10)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (10)</li>
+        <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (281)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (88)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (80)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (77)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (69)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (68)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (63)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (55)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (48)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (45)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (45)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
   <li><a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/thoma_karel"><b>Thoma</b> Karel</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../amma_gebh_thom_mata.2024.EBoCFSPwDFF/">Environmental Benefits of Concrete Floor Slabs Produced with Digitally Fabricated Formworks:<br/>A Case Study</a></li>

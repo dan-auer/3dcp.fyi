@@ -12,14 +12,15 @@ tags:
 ---
 
 #Geopolymers for 3D Print ([2023-08](date/2023/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1742-6596/2568/1/012003/pdf) <a href="https://doi.org/10.1088/1742-6596/2568/1/012003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2568/1/012003" target="_blank">10.1088/1742-6596/2568/1/012003</a>
+<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2568/1/012003/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/2568/1/012003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2568/1/012003" target="_blank">10.1088/1742-6596/2568/1/012003</a>
 
 <a href="../../../author/hajkova_p"><b>Hájková</b>&nbsp;P.</a></span>, <a href="../../../author/soukup_a"><b>Soukup</b>&nbsp;A.</a></span>, <a href="../../../author/kohout_j"><b>Kohout</b>&nbsp;J.</a></span>, <a href="../../../author/kohoutova_e"><b>Kohoutová</b>&nbsp;E.</a></span>, <a href="../../../author/koutnik_p"><b>Koutník</b>&nbsp;P.</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 2568, Iss. 1
 
 <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geopolymers%20for%203D%20Print" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geopolymers+for+3d+print&as_occt=title&as_sauthors=h%C3%A1jkov%C3%A1&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169420533&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/2568/1/012003" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

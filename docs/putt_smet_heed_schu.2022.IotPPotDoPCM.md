@@ -16,14 +16,15 @@ tags:
 ---
 
 #Influence of the Print Process on the Durability of Printed Cementitious Materials ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://biblio.ugent.be/publication/01GRV96YAR69MNWMVB30K3MMR0/file/01GRVA796A0G7QP17ZN91NF89Y.pdf) <a href="https://doi.org/10.1007/978-3-031-06116-5_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_29" target="_blank">10.1007/978-3-031-06116-5_29</a>
+<a href="https://biblio.ugent.be/publication/01GRV96YAR69MNWMVB30K3MMR0/file/01GRVA796A0G7QP17ZN91NF89Y.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_29" target="_blank">10.1007/978-3-031-06116-5_29</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0701-0207" title="ORCID: 0000-0002-0701-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/putten_jolien"><b>van der&nbsp;Putten</b>&nbsp;Jolien</a></span>, <a href="../../../author/smet_m"><b>de&nbsp;Smet</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1307-2831" title="ORCID: 0000-0003-1307-2831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heede_philip"><b>van den&nbsp;Heede</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 194-199
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Print%20Process%20on%20the%20Durability%20of%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+the+print+process+on+the+durability+of+printed+cementitious+materials&as_occt=title&as_sauthors=putten&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133200758&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_29" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

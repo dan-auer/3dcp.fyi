@@ -17,14 +17,15 @@ tags:
 ---
 
 #Graphic Statics and Their Potential for Digital Design and Fabrication with Concrete ([2018-07](date/2018/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" target="_blank">10.1016/j.cemconres.2018.06.015</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2018.06.015" target="_blank">10.1016/j.cemconres.2018.06.015</a>
 
 <a href="../../../author/schwartz_joseph"><b>Schwartz</b>&nbsp;Joseph</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 112, pp. 122-135
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/graphic"><button class="btn">#graphic</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Graphic%20Statics%20and%20Their%20Potential%20for%20Digital%20Design%20and%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=graphic+statics+and+their+potential+for+digital+design+and+fabrication+with+concrete&as_occt=title&as_sauthors=schwartz&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85050411227&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000444357300011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2018.06.015" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

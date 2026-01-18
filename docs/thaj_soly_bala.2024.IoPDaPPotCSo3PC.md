@@ -16,14 +16,15 @@ tags:
 ---
 
 #Impact of Printing-Directions and Printing-Paths on the Compressive Strength of 3D Printed Concrete ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.14382/epitoanyag-jsbcm.2024.4) <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" target="_blank">10.14382/epitoanyag-jsbcm.2024.4</a>
+<a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14382/epitoanyag-jsbcm.2024.4" target="_blank">10.14382/epitoanyag-jsbcm.2024.4</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-2378-6066" title="ORCID: 0009-0004-2378-6066" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thajeel_manea_marwah"><b>Thajeel</b>&nbsp;Marwah</a></span>, <a href="../../../author/solyom_sandor"><b>Sólyom</b>&nbsp;Sándor</a></span>, <a href="../../../author/balazs_l_gyorgy"><b>Balázs</b>&nbsp;György</a></span><br>
 Journal Article - Journal of Silicate Based and Composite Materials, Vol. 76, Iss. 1, pp. 31-38
 
 <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Printing-Directions%20and%20Printing-Paths%20on%20the%20Compressive%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+printing-directions+and+printing-paths+on+the+compressive+strength+of+3d+printed+concrete&as_occt=title&as_sauthors=thajeel&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001242511200003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14382/epitoanyag-jsbcm.2024.4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

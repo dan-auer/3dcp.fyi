@@ -16,14 +16,15 @@ tags:
 ---
 
 #Investigating PCM Encapsulated NaOH Additive for Set-on-Demand in 3D Concrete Printing ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2023.105313) <a href="https://doi.org/10.1016/j.cemconcomp.2023.105313" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105313" target="_blank">10.1016/j.cemconcomp.2023.105313</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2023.105313" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2023.105313" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2023.105313" target="_blank">10.1016/j.cemconcomp.2023.105313</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-0490-5093" title="ORCID: 0009-0003-0490-5093" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b>&nbsp;Sasitharan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8055-8167" title="ORCID: 0000-0001-8055-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b>&nbsp;Sayanthan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 145, No. 105313
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20PCM%20Encapsulated%20NaOH%20Additive%20for%20Set-on-Demand%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+pcm+encapsulated+naoh+additive+for+set-on-demand+in+3d+concrete+printing&as_occt=title&as_sauthors=kanagasuntharam&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174809223&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001094805600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2023.105313" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

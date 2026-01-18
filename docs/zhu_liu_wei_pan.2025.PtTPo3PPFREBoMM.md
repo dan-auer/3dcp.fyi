@@ -19,14 +19,15 @@ tags:
 ---
 
 #Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/22/4058/pdf) <a href="https://doi.org/10.3390/buildings15224058" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224058" target="_blank">10.3390/buildings15224058</a>
+<a href="https://www.mdpi.com/2075-5309/15/22/4058/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15224058" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224058" target="_blank">10.3390/buildings15224058</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8354-4569" title="ORCID: 0000-0002-8354-4569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_binrong"><b>Zhu</b>&nbsp;Binrong</a></span>, <a href="../../../author/liu_xuhua"><b>Liu</b>&nbsp;Xuhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2915-3898" title="ORCID: 0000-0003-2915-3898" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_yang"><b>Wei</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2838-4849" title="ORCID: 0000-0002-2838-4849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jinlong"><b>Pan</b>&nbsp;Jinlong</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 22, No. 4058
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Predicting%20the%20Tensile%20Performance%20of%203D-Printed%20PE%20Fiber-Reinforced%20ECC%20Based%20on%20Micromechanics%20Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=predicting+the+tensile+performance+of+3d-printed+pe+fiber-reinforced+ecc+based+on+micromechanics+model&as_occt=title&as_sauthors=zhu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023045756&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001624083100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15224058" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

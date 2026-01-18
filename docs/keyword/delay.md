@@ -8,6 +8,10 @@ search:
 
 # #delay
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (1)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../shak_neja_paul.2020.IitEoDBPLotMSoI3M/">Investigation into the Effect of Delays Between Printed Layers on the Mechanical Strength of Inkjet 3DP Mortar</a></li>
   <li><a href="../../../author/cohen_zach"><b>Cohen</b> Zach</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../cohe.2019.HU/">Hold Up:<br/>Machine Delay in Architectural Design</a></li>

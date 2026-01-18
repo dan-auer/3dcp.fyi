@@ -15,14 +15,15 @@ tags:
 ---
 
 #Continuum Soft Robots with Applications in the Construction Industry ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-68620-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68620-7_8" target="_blank">10.1007/978-3-031-68620-7_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-68620-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68620-7_8" target="_blank">10.1007/978-3-031-68620-7_8</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-4771-7847" title="ORCID: 0009-0005-4771-7847" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srivastava_manu"><b>Srivastava</b>&nbsp;Manu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9465-2960" title="ORCID: 0000-0002-9465-2960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/walker_d_ian"><b>Walker</b>&nbsp;Ian</a></span><br>
 Contribution - Handbook on Soft Robotics, pp. 281-314
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Continuum%20Soft%20Robots%20with%20Applications%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=continuum+soft+robots+with+applications+in+the+construction+industry&as_occt=title&as_sauthors=srivastava&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001751233&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-68620-7_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC) ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2025.107998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107998" target="_blank">10.1016/j.cemconres.2025.107998</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2025.107998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107998" target="_blank">10.1016/j.cemconres.2025.107998</a>
 
 <a href="../../../author/yang_rijiao"><b>Yang</b>&nbsp;Rijiao</a></span>, <a href="../../../author/xu_chengji"><b>Xu</b>&nbsp;Chengji</a></span>, <a href="../../../author/fang_sen"><b>Fang</b>&nbsp;Sen</a></span>, <a href="../../../author/li_xinze"><b>Li</b>&nbsp;Xinze</a></span>, <a href="../../../author/peng_yu"><b>Peng</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2593-6641" title="ORCID: 0000-0003-2593-6641" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhendi"><b>Wang</b>&nbsp;Zhendi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1720-4766" title="ORCID: 0000-0003-1720-4766" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_qiang"><b>Zeng</b>&nbsp;Qiang</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 198, No. 107998
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cause"><button class="btn">#cause</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/staples"><button class="btn">#staples</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanistic%20Insights%20into%20Microstructural%20Changes%20Caused%20by%20Stapling%20in%20Extrusion-Based%203D%20Printed%20Concrete%20%283DPC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanistic+insights+into+microstructural+changes+caused+by+stapling+in+extrusion-based+3d+printed+concrete+%283dpc%29&as_occt=title&as_sauthors=yang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010559187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001532287200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2025.107998" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

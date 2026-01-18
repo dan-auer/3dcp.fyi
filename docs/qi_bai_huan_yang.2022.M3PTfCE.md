@@ -18,14 +18,15 @@ tags:
 
 #Mobile 3D Printing-Techniques for Construction Engineering&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Outdoor Navigation and Printing Quality-Control</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10168664.2022.2025749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10168664.2022.2025749" target="_blank">10.1080/10168664.2022.2025749</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/10168664.2022.2025749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10168664.2022.2025749" target="_blank">10.1080/10168664.2022.2025749</a>
 
 <a href="../../../author/qi_li-gang"><b>Qi</b>&nbsp;Li-gang</a></span>, <a href="../../../author/bai_jie"><b>Bai</b>&nbsp;Jie</a></span>, <a href="../../../author/huang_qing-long"><b>Huang</b>&nbsp;Qing-long</a></span>, <a href="../../../author/yang_yan"><b>Yang</b>&nbsp;Yan</a></span>, <a href="../../../author/han_lifang"><b>Han</b>&nbsp;Lifang</a></span>, <a href="../../../author/yue_cheng-tao"><b>Yue</b>&nbsp;Cheng-tao</a></span>, <a href="../../../author/yan_zhong-xiang"><b>Yan</b>&nbsp;Zhong-Xiang</a></span><br>
 Journal Article - Structural Engineering International, Vol. 32, Iss. 2, pp. 203-210
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mobile%203D%20Printing-Techniques%20for%20Construction%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mobile+3d+printing-techniques+for+construction+engineering&as_occt=title&as_sauthors=qi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127355903&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000771275800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/10168664.2022.2025749" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

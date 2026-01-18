@@ -8,6 +8,10 @@ search:
 
 # #achievement
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (2)</button></a> <a href="../../keyword/height"><button class="btn">#height (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_qiuju"><b>Zhang</b> Qiuju</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/huang_yuefan"><b>Huang</b> Yuefan</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_li_huan_li.2025.U3PaDOFtATSC/">Utilizing 3D Printing and Distributed Optic Fiber to Achieve Temperature-Sensitive Concrete</a></li>
   <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../bakh_zafa_hoja.2025.ASoAHTDi3PECCRw8F/">A Study on Achieving High Tensile Ductility in 3D-Printable Engineered Cementitious Composites Reinforced with 8mm Fibers</a></li>

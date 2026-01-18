@@ -8,6 +8,10 @@ search:
 
 # #axis
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (28)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (18)</button></a> <a href="../../keyword/compression"><button class="btn">#compression (17)</button></a> <a href="../../keyword/load"><button class="btn">#load (11)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (11)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
   <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a>, <a href="../../../author/zhang_zhaorui"><b>Zhang</b> Zhaorui</a>, <a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../luo_jin_zhan_zhan.2025.CRo3PFRRSCUUC/">Constitutive Relationship of 3D Printed Fiber Reinforced Recycled Sand Concrete Under Uniaxial Compression</a></li>

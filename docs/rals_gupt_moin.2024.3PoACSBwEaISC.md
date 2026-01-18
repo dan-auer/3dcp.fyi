@@ -17,14 +17,15 @@ tags:
 ---
 
 #3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2350768?needAccess=true) <a href="https://doi.org/10.1080/17452759.2024.2350768" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2350768" target="_blank">10.1080/17452759.2024.2350768</a>
+<a href="https://www.tandfonline.com/doi/pdf/10.1080/17452759.2024.2350768?needAccess=true" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2024.2350768" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2350768" target="_blank">10.1080/17452759.2024.2350768</a>
 
 <a href="../../../author/ralston_nadia"><b>Ralston</b>&nbsp;Nadia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1192-9603" title="ORCID: 0000-0002-1192-9603" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_shashank"><b>Gupta</b>&nbsp;Shashank</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Architected%20Calcium-Silicate%20Binders%20with%20Enhanced%20and%20In-Situ%20Carbonation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+architected+calcium-silicate+binders+with+enhanced+and+in-situ+carbonation&as_occt=title&as_sauthors=ralston&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193358290&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001224066700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2024.2350768" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

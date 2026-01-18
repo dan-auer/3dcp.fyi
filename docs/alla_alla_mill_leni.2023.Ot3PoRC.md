@@ -13,14 +13,15 @@ tags:
 ---
 
 #On the 3D Printing of Reinforced Concrete ([2023-02](date/2023/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/imece2023-112719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2023-112719" target="_blank">10.1115/imece2023-112719</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/imece2023-112719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2023-112719" target="_blank">10.1115/imece2023-112719</a>
 
 <a href="../../../author/allameh_m_seyed"><b>Allameh</b>&nbsp;Seyed</a></span>, <a href="../../../author/allameh_hadi"><b>Allameh</b>&nbsp;Hadi</a></span>, <a href="../../../author/miller_roger"><b>Miller</b>&nbsp;Roger</a></span>, <a href="../../../author/lenihan_avery"><b>Lenihan</b>&nbsp;Avery</a></span>, <a href="../../../author/kota_dhruv"><b>Kota</b>&nbsp;Dhruv</a></span><br>
 Contribution - Advanced Materials
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On%20the%203D%20Printing%20of%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on+the+3d+printing+of+reinforced+concrete&as_occt=title&as_sauthors=allameh&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185409857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/imece2023-112719" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

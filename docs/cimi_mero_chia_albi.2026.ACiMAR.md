@@ -17,14 +17,15 @@ tags:
 
 #Addressing Challenges in Marine Algal Restoration&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">Lessons Learned from 3D-Printed Structures on Artificial Reefs</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.ecoleng.2025.107885" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ecoleng.2025.107885" target="_blank">10.1016/j.ecoleng.2025.107885</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ecoleng.2025.107885" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ecoleng.2025.107885" target="_blank">10.1016/j.ecoleng.2025.107885</a>
 
 <a href="../../../author/cimini_jacopo"><b>Cimini</b>&nbsp;Jacopo</a></span>, <a href="../../../author/meroni_lorenzo"><b>Meroni</b>&nbsp;Lorenzo</a></span>, <a href="../../../author/chiantore_mariachiara"><b>Chiantore</b>&nbsp;Mariachiara</a></span>, <a href="../../../author/albicini_paolo"><b>Albicini</b>&nbsp;Paolo</a></span>, <a href="../../../author/pezzilli_claudia"><b>Pezzilli</b>&nbsp;Claudia</a></span>, <a href="../../../author/melis_fulvia"><b>Melis</b>&nbsp;Fulvia</a></span>, <a href="../../../author/huet_garcia-duran_marc"><b>Huet</b>&nbsp;Marc</a></span>, <a href="../../../author/busquier_laura"><b>Busquier</b>&nbsp;Laura</a></span>, <a href="../../../author/khanuja_jayant"><b>Khanuja</b>&nbsp;Jayant</a></span>, <a href="../../../author/rossi_sergio"><b>Rossi</b>&nbsp;Sergio</a></span>, <a href="../../../author/fani_nadia"><b>Fani</b>&nbsp;Nadia</a></span>, <a href="../../../author/koopmans_andries_jan"><b>Koopmans</b>&nbsp;Jan</a></span>, <a href="../../../author/asnaghi_valentina"><b>Asnaghi</b>&nbsp;Valentina</a></span><br>
 Journal Article - Ecological Engineering, Vol. 224, No. 107885
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Addressing%20Challenges%20in%20Marine%20Algal%20Restoration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=addressing+challenges+in+marine+algal+restoration&as_occt=title&as_sauthors=cimini&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ecoleng.2025.107885" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

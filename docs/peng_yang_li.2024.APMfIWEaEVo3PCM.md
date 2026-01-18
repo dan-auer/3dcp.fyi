@@ -20,14 +20,15 @@ tags:
 ---
 
 #A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" target="_blank">10.1016/j.conbuildmat.2024.138712</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138712" target="_blank">10.1016/j.conbuildmat.2024.138712</a>
 
 <a href="../../../author/peng_chengming"><b>Peng</b>&nbsp;Chengming</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 451, No. 138712
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Predictive%20Model%20for%20Interlayer-Water-Evolution%20and%20Experimental%20Validation%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+predictive+model+for+interlayer-water-evolution+and+experimental+validation+of+3d+printed+cementitious+materials&as_occt=title&as_sauthors=peng&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206521090&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001338939500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138712" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,7 +8,12 @@ search:
 
 # #sensitivity
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/force"><button class="btn">#force (2)</button></a> <a href="../../keyword/multi"><button class="btn">#multi (2)</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ales_sous_uber.2026.SCf3PS/">Sensitive Concretes for 3D Printed Structures:<br/>First Physical and Electromechanical Characterization</a></li>
   <li><a href="../../../author/ishikawa_shinichi"><b>Ishikawa</b> Shinichi</a>, <a href="../../../author/yamada_ryo"><b>Yamada</b> Ryo</a>, <a href="../../../author/tasaki_ryosuke"><b>Tasaki</b> Ryosuke</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ishi_yama_tasa.2025.HSIFMaMLSCf3PoUS/">High-Sensitivity Interlayer Force Measurement and Multi-Layer Smoothing Control for 3D Printing on Uneven Surfaces</a></li>
   <li><a href="../../../author/zhang_qiuju"><b>Zhang</b> Qiuju</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/huang_yuefan"><b>Huang</b> Yuefan</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhan_li_huan_li.2025.U3PaDOFtATSC/">Utilizing 3D Printing and Distributed Optic Fiber to Achieve Temperature-Sensitive Concrete</a></li>
   <li><a href="../../../author/tabassum_nusrat"><b>Tabassum</b> Nusrat</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../taba_duar.2024.EMD3PfEoEaB/">Exploring Multi-Directional 3D Printing for Enclosures on Earth and Beyond:<br/>Sensitivity-Analysis of Buildability</a></li>

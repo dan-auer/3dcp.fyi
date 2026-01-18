@@ -8,6 +8,10 @@ search:
 
 # #cenosphere
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/ash"><button class="btn">#ash (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (3)</button></a> <a href="../../keyword/light"><button class="btn">#light (2)</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/krishnan_padmaja"><b>Krishnan</b> Padmaja</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_kris_celi.2024.ECaTIoRMOCRB3PPwC/">Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres</a></li>

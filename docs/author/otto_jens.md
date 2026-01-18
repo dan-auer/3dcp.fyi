@@ -9,6 +9,60 @@ search:
 
 #  Otto Jens 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7157-2143" target="_blank">0000-0001-7157-2143</a>
+
+    First Contribution
+    : 2015-07-15
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 435
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a> (5)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> (3)</li>
+        <li><a href="../../../author/will_frank"><b>Will</b> Frank</a> (3)</li>
+        <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a> (312)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (36)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (35)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (17)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (14)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (48)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (17)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (15)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (11)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>
   <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../otto_maiw.2024.CaAQAo3CPS/">Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces</a></li>

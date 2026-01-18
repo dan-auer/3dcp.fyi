@@ -17,14 +17,15 @@ tags:
 ---
 
 #Development of a Novel Material and Casting-Method for In-Situ Construction on Mars ([2021-05](date/2021/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.powtec.2021.05.054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.powtec.2021.05.054" target="_blank">10.1016/j.powtec.2021.05.054</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.powtec.2021.05.054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.powtec.2021.05.054" target="_blank">10.1016/j.powtec.2021.05.054</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/meng_huamin"><b>Meng</b>&nbsp;Huamin</a></span>, <a href="../../../author/lan_mingzhang"><b>Lan</b>&nbsp;Mingzhang</a></span>, <a href="../../../author/zhou_jian"><b>Zhou</b>&nbsp;Jian</a></span>, <a href="../../../author/xu_mingfeng"><b>Xu</b>&nbsp;Mingfeng</a></span>, <a href="../../../author/zhao_xudong"><b>Zhao</b>&nbsp;Xudong</a></span>, <a href="../../../author/xiang_binfeng"><b>Xiang</b>&nbsp;Binfeng</a></span><br>
 Journal Article - Powder Technology, Vol. 390, pp. 219-229
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Novel%20Material%20and%20Casting-Method%20for%20In-Situ%20Construction%20on%20Mars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+novel+material+and+casting-method+for+in-situ+construction+on+mars&as_occt=title&as_sauthors=li&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107062362&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000730244100008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.powtec.2021.05.054" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

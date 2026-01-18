@@ -18,14 +18,15 @@ tags:
 
 #Revolutionizing Affordable Housing in Africa&nbsp;([2024-03](date/2024/03))
 <div class="h1-like">A Comprehensive Technical and Sustainability Study of 3D Printing Technology</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.scs.2024.105329) <a href="https://doi.org/10.1016/j.scs.2024.105329" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scs.2024.105329" target="_blank">10.1016/j.scs.2024.105329</a>
+<a href="https://doi.org/10.1016/j.scs.2024.105329" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.scs.2024.105329" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scs.2024.105329" target="_blank">10.1016/j.scs.2024.105329</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4165-0777" title="ORCID: 0000-0002-4165-0777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moghayedi_alireza"><b>Moghayedi</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1866-5559" title="ORCID: 0000-0002-1866-5559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahachi_jeffrey"><b>Mahachi</b>&nbsp;Jeffrey</a></span>, <a href="../../../author/lediga_refilwe"><b>Lediga</b>&nbsp;Refilwe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-3581" title="ORCID: 0000-0002-7640-3581" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mosiea_tshepang"><b>Mosiea</b>&nbsp;Tshepang</a></span>, <a href="../../../author/phalafala_ephraim"><b>Phalafala</b>&nbsp;Ephraim</a></span><br>
 Journal Article - Sustainable Cities and Society, No. 105329
 
 <a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/revolution"><button class="btn">#revolution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Revolutionizing%20Affordable%20Housing%20in%20Africa" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=revolutionizing+affordable+housing+in+africa&as_occt=title&as_sauthors=moghayedi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188537381&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001221934500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.scs.2024.105329" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

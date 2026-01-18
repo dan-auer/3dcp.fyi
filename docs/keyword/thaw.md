@@ -8,6 +8,10 @@ search:
 
 # #thaw
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/freeze"><button class="btn">#freeze (12)</button></a> <a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance (5)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>

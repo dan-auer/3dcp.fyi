@@ -9,6 +9,60 @@ search:
 
 #  Quah Tan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6124-3020" target="_blank">0000-0001-6124-3020</a>
+
+    First Contribution
+    : 2022-01-25
+    
+    Last Contribution
+    : 2025-08-28
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 91
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (7)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (6)</li>
+        <li><a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> (5)</li>
+        <li><a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ting_quah_lim_tay.2022.ERPSo3PCURGC/">Extrudable Region Parametrical Study of 3D Printable Concrete Using Recycled-Glass Concrete</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (37)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (23)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (20)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (20)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (7)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (6)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (4)</li>
+        <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ting_tay_quah_tan.2024.SSMfOPi3CPT/">Sustainable Support-Material for Overhang Printing in 3D Concrete Printing Technology</a></li>

@@ -13,14 +13,15 @@ tags:
 ---
 
 #3D Printing of Portland-Cement-Containing Bodies ([2021-08](date/2021/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-08-2020-0195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-08-2020-0195" target="_blank">10.1108/rpj-08-2020-0195</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-08-2020-0195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-08-2020-0195" target="_blank">10.1108/rpj-08-2020-0195</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0163-7017" title="ORCID: 0000-0002-0163-7017" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_asif"><b>Rehman</b>&nbsp;Asif</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9133-7204" title="ORCID: 0000-0001-9133-7204" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b>&nbsp;Vincenzo</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 28, Iss. 2, pp. 197-203
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Portland-Cement-Containing%20Bodies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+portland-cement-containing+bodies&as_occt=title&as_sauthors=rehman&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85113725355&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000688492000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-08-2020-0195" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

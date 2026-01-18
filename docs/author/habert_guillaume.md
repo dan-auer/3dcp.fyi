@@ -9,6 +9,60 @@ search:
 
 #  Habert Guillaume 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3533-7896" target="_blank">0000-0003-3533-7896</a>
+
+    First Contribution
+    : 2016-04-02
+    
+    Last Contribution
+    : 2025-01-10
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 1218
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> (6)</li>
+        <li><a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a> (6)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (4)</li>
+        <li><a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a> (4)</li>
+        <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (710)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (14)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (14)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (14)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (13)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (61)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (45)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (44)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (41)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (37)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/posani_magda"><b>Posani</b> Magda</a>, <a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/du_yi"><b>Du</b> Yi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../posa_vone_odag_du.2025.LCIHRv3PSBC/">Low-Carbon Indoor Humidity Regulation via 3D Printed Superhygroscopic Building Components</a></li>
   <li><a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/kango_ananya"><b>Kango</b> Ananya</a>, <a href="../../../author/leung_victor"><b>Leung</b> Victor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vase_chad_kang_leun.2024.IP/">Impact Printing:<br/>A Novel Robotic Additive Manufacturing Method for Circular, High-Volume Construction</a></li>

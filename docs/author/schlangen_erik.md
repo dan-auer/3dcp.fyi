@@ -9,6 +9,60 @@ search:
 
 #  Schlangen Erik 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5671-8888" target="_blank">0000-0001-5671-8888</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2025-04-16
+
+    Number Contributions
+    : 36
+
+    Number Citations
+    : 1811
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (20)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (18)</li>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (17)</li>
+        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a> (11)</li>
+        <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a> (10)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a> (214)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (139)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (135)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (132)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (115)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (113)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (49)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (39)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (39)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (38)</li>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (37)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../he_luko_schl.2025.SHSHCC/">Self-Healing Strain-Hardening Concrete Cover</a></li>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #ggbfs
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/effect"><button class="btn">#effect (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/property"><button class="btn">#property (3)</button></a> <a href="../../keyword/activation"><button class="btn">#activation (2)</button></a> <a href="../../keyword/difference"><button class="btn">#difference (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_suguo"><b>Wang</b> Suguo</a>, <a href="../../../author/wang_xing"><b>Wang</b> Xing</a>, <a href="../../../author/yan_xueyuan"><b>Yan</b> Xueyuan</a>, <a href="../../../author/chen_shanghong"><b>Chen</b> Shanghong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_wang_yan_chen.2025.EoASaNDoPaMPo3PFSGC/">Effects of Aggregate Size and Nozzle Diameter on Printability and Mechanical Properties of 3D Printed Ferronickel Slag-GGBFS Concrete</a></li>
   <li><a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a>, <a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b> Aparna</a>, <a href="../../../author/tanwar_jayant"><b>Tanwar</b> Jayant</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA/">Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates</a></li>

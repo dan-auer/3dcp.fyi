@@ -17,14 +17,15 @@ tags:
 
 #Supply Chain Landscape of 3D Printed Buildings&nbsp;([2024-06](date/2024/06))
 <div class="h1-like">A Stakeholder Decision Support Framework</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/6/1811/pdf?version=1718639255) <a href="https://doi.org/10.3390/buildings14061811" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14061811" target="_blank">10.3390/buildings14061811</a>
+<a href="https://www.mdpi.com/2075-5309/14/6/1811/pdf?version=1718639255" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14061811" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14061811" target="_blank">10.3390/buildings14061811</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-7796-6100" title="ORCID: 0009-0000-7796-6100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_jiayue"><b>Ma</b>&nbsp;Jiayue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4976-747X" title="ORCID: 0009-0004-4976-747X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_kelvin"><b>Zou</b>&nbsp;Kelvin</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 6, No. 1811
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/supply"><button class="btn">#supply</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Supply%20Chain%20Landscape%20of%203D%20Printed%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=supply+chain+landscape+of+3d+printed+buildings&as_occt=title&as_sauthors=ma&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197259064&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001254571300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14061811" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

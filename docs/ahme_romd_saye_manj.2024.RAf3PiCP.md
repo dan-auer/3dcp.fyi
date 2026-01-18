@@ -14,14 +14,15 @@ tags:
 ---
 
 #Risk-Assessment for 3D Printing in Construction Projects ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" target="_blank">10.1108/jfmpc-10-2023-0071</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jfmpc-10-2023-0071" target="_blank">10.1108/jfmpc-10-2023-0071</a>
 
 <a href="../../../author/ahmed_salma"><b>Ahmed</b>&nbsp;Salma</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8509-2386" title="ORCID: 0000-0001-8509-2386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/romdhane_lotfi"><b>Romdhane</b>&nbsp;Lotfi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9127-0318" title="ORCID: 0000-0002-9127-0318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sayegh_monir_sameh"><b>el&nbsp;Sayegh</b>&nbsp;Sameh</a></span>, <a href="../../../author/manjikian_solair"><b>Manjikian</b>&nbsp;Solair</a></span><br>
 Journal Article - Journal of Financial Management of Property and Construction
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Risk-Assessment%20for%203D%20Printing%20in%20Construction%20Projects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=risk-assessment+for+3d+printing+in+construction+projects&as_occt=title&as_sauthors=ahmed&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200037463&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001280653100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/jfmpc-10-2023-0071" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

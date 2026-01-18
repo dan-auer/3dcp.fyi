@@ -9,7 +9,63 @@ search:
 
 #  Perrot Arnaud 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7105-4212" target="_blank">0000-0002-7105-4212</a>
+
+    First Contribution
+    : 2009-04-27
+    
+    Last Contribution
+    : 2026-01-09
+
+    Number Contributions
+    : 66
+
+    Number Citations
+    : 2590
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (18)</li>
+        <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> (14)</li>
+        <li><a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> (13)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (11)</li>
+        <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> (8)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a> (609)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (143)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (125)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (121)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (110)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (103)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (127)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (96)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (86)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (56)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (56)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tarh_tarh_perr.2025.IBPo3PEBMRwJF/">Improving Bond Performance of 3D-Printable Earth-Based Mortar Reinforced with Jute Fibers</a></li>
+  <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kaus_sone_amat_perr.2026.EoFABFaANotFPRaSBoPC/">Effect of Fly Ash, Basalt Fiber and Attapulgite Nanoclay on the Fresh Properties, Rheology and Shrinkage Behaviour of Printable Concrete</a></li>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
   <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tarh_tarh_perr.2025.FPoGFTR3PC/">Flexural Performance of Glass Fiber Textile Reinforced 3D Printed Concrete</a></li>
   <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>

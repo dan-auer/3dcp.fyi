@@ -20,14 +20,15 @@ tags:
 
 #ARCS&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">Automated Robotic Concrete Spraying for the Fabrication of Variable Thickness Doubly Curved Shells</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.repository.cam.ac.uk/bitstreams/7ba743db-001a-4280-9fd8-52164b73625a/download) <a href="https://doi.org/10.1007/978-3-031-06116-5_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_40" target="_blank">10.1007/978-3-031-06116-5_40</a>
+<a href="https://www.repository.cam.ac.uk/bitstreams/7ba743db-001a-4280-9fd8-52164b73625a/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_40" target="_blank">10.1007/978-3-031-06116-5_40</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0672-2832" title="ORCID: 0000-0003-0672-2832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nuh_mishael"><b>Nuh</b>&nbsp;Mishael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oval_robin"><b>Oval</b>&nbsp;Robin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_j_john"><b>Orr</b>&nbsp;John</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 267-273
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=ARCS" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=arcs&as_occt=title&as_sauthors=nuh&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133197054&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_40" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -14,14 +14,15 @@ tags:
 ---
 
 #Research Progress on 3D Printed Geopolymer Concrete ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10853-025-11755-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-025-11755-z" target="_blank">10.1007/s10853-025-11755-z</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s10853-025-11755-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-025-11755-z" target="_blank">10.1007/s10853-025-11755-z</a>
 
 <a href="../../../author/tang_jiyu"><b>Tang</b>&nbsp;Jiyu</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4419-8585" title="ORCID: 0009-0009-4419-8585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_zhihang"><b>Wang</b>&nbsp;Zhihang</a></span>, <a href="../../../author/gao_danying"><b>Gao</b>&nbsp;Danying</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2596" title="ORCID: 0000-0002-6910-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_lin"><b>Yang</b>&nbsp;Lin</a></span>, <a href="../../../author/zhu_haitang"><b>Zhu</b>&nbsp;Haitang</a></span>, <a href="../../../author/zhao_liangping"><b>Zhao</b>&nbsp;Liangping</a></span>, <a href="../../../author/li_zongze"><b>Li</b>&nbsp;Zongze</a></span><br>
 Journal Article - Journal of Materials Science
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20Progress%20on%203D%20Printed%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+progress+on+3d+printed+geopolymer+concrete&as_occt=title&as_sauthors=tang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020296485&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001605419300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s10853-025-11755-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -23,14 +23,15 @@ tags:
 ---
 
 #Effects of Volume Fraction and Surface Area of Aggregates on the Static Yield-Stress and Structural Build-Up of Fresh Concrete ([2020-03](date/2020/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/7/1551/pdf) <a href="https://doi.org/10.3390/ma13071551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13071551" target="_blank">10.3390/ma13071551</a>
+<a href="https://www.mdpi.com/1996-1944/13/7/1551/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma13071551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13071551" target="_blank">10.3390/ma13071551</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivanova_irina"><b>Ivanova</b>&nbsp;Irina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Materials, Vol. 13, Iss. 7
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Volume%20Fraction%20and%20Surface%20Area%20of%20Aggregates%20on%20the%20Static%20Yield-Stress%20and%20Structural%20Build-Up%20of%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+volume+fraction+and+surface+area+of+aggregates+on+the+static+yield-stress+and+structural+build-up+of+fresh+concrete&as_occt=title&as_sauthors=ivanova&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082962349&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000529875600069" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma13071551" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

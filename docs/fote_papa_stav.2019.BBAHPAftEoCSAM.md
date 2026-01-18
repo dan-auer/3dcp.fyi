@@ -20,14 +20,15 @@ tags:
 ---
 
 #Block-Based Analytical Hierarchy Process Applied for the Evaluation of Construction Sector Additive Manufacturing ([2019-06](date/2019/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2019.03.233) <a href="https://doi.org/10.1016/j.procir.2019.03.233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2019.03.233" target="_blank">10.1016/j.procir.2019.03.233</a>
+<a href="https://doi.org/10.1016/j.procir.2019.03.233" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.procir.2019.03.233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2019.03.233" target="_blank">10.1016/j.procir.2019.03.233</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2912-9660" title="ORCID: 0000-0003-2912-9660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b>&nbsp;Panagis</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b>&nbsp;Alexios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b>&nbsp;Panagiotis</a></span><br>
 Journal Article - Procedia CIRP, Vol. 81, pp. 950-955
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/hierarchy"><button class="btn">#hierarchy</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Block-Based%20Analytical%20Hierarchy%20Process%20Applied%20for%20the%20Evaluation%20of%20Construction%20Sector%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=block-based+analytical+hierarchy+process+applied+for+the+evaluation+of+construction+sector+additive+manufacturing&as_occt=title&as_sauthors=foteinopoulos&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068465169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000566264700163" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.procir.2019.03.233" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Numerical Investigation on Shear Behavior of Reinforced Concrete Beam with 3D Printed Concrete Permanent Formwork ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111706" target="_blank">10.1016/j.jobe.2024.111706</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111706" target="_blank">10.1016/j.jobe.2024.111706</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9330-3890" title="ORCID: 0009-0008-9330-3890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shen_junyi"><b>Shen</b>&nbsp;Junyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/dong_weiwei"><b>Dong</b>&nbsp;Weiwei</a></span>, <a href="../../../author/gao_junfeng"><b>Gao</b>&nbsp;Junfeng</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111706
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Investigation%20on%20Shear%20Behavior%20of%20Reinforced%20Concrete%20Beam%20with%203D%20Printed%20Concrete%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+investigation+on+shear+behavior+of+reinforced+concrete+beam+with+3d+printed+concrete+permanent+formwork&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214317354&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001407671300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111706" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

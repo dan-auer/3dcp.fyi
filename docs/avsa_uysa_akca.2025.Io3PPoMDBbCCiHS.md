@@ -19,14 +19,15 @@ tags:
 ---
 
 #Improvement of 3D Printing Properties of MgO Derived Binders by CO2 Curing in Hardened State ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31462/icearc2025_ce_mat_726" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_726" target="_blank">10.31462/icearc2025_ce_mat_726</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.31462/icearc2025_ce_mat_726" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_726" target="_blank">10.31462/icearc2025_ce_mat_726</a>
 
 <a href="../../../author/avsar_e_yunus"><b>Avşar</b>&nbsp;Yunus</a></span>, <a href="../../../author/uysal_mucteba"><b>Uysal</b>&nbsp;Mücteba</a></span>, <a href="../../../author/akca_h_abdullah"><b>Akca</b>&nbsp;Abdullah</a></span><br>
 Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%203D%20Printing%20Properties%20of%20MgO%20Derived%20Binders%20by%20CO2%20Curing%20in%20Hardened%20State" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improvement+of+3d+printing+properties+of+mgo+derived+binders+by+co2+curing+in+hardened+state&as_occt=title&as_sauthors=av%C5%9Far&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.31462/icearc2025_ce_mat_726" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

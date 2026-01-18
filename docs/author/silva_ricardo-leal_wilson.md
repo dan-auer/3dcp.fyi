@@ -9,6 +9,60 @@ search:
 
 # da Silva Wilson 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9895-5128" target="_blank">0000-0001-9895-5128</a>
+
+    First Contribution
+    : 2018-06-14
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 2337
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> (11)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (5)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a> (990)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (66)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (60)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (54)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (47)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (39)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (115)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (70)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (66)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (64)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (62)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/farra_ramzi"><b>Farra</b> Ramzi</a>, <a href="../../../author/dhers_sebastien"><b>Dhers</b> Sébastien</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../farr_dher_silv.2024.EESiL3wACA/">Enhancing Early Strength in LC3 3DCP with Advanced Chemical Admixtures</a></li>
   <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>

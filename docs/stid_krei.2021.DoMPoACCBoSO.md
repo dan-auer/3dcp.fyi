@@ -19,14 +19,15 @@ tags:
 ---
 
 #Determination of Mechanical Properties of Additively Constructed Concrete Based on Specimen-Orientation ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200091" target="_blank">10.1520/stp163620200091</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163620200091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200091" target="_blank">10.1520/stp163620200091</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1428-9074" title="ORCID: 0000-0002-1428-9074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stidwell_samuel"><b>Stidwell</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6160-9448" title="ORCID: 0000-0002-6160-9448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_l_eric"><b>Kreiger</b>&nbsp;Eric</a></span><br>
 Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 55-74
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Mechanical%20Properties%20of%20Additively%20Constructed%20Concrete%20Based%20on%20Specimen-Orientation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=determination+of+mechanical+properties+of+additively+constructed+concrete+based+on+specimen-orientation&as_occt=title&as_sauthors=stidwell&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164200748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163620200091" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

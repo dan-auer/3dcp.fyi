@@ -17,14 +17,15 @@ tags:
 ---
 
 #Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-5491-8_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5491-8_2" target="_blank">10.1007/978-981-96-5491-8_2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-5491-8_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5491-8_2" target="_blank">10.1007/978-981-96-5491-8_2</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3133-3866" title="ORCID: 0000-0002-3133-3866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maurya_shubham"><b>Maurya</b>&nbsp;Shubham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5415-2745" title="ORCID: 0000-0001-5415-2745" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_vijay"><b>Kumar</b>&nbsp;Vijay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3898-3917" title="ORCID: 0000-0002-3898-3917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b>&nbsp;Arun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7325-1618" title="ORCID: 0000-0001-7325-1618" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dixit_shanker_uday"><b>Dixit</b>&nbsp;Uday</a></span><br>
 Contribution - Proceedings of the 10th International Conference on Research into Design, pp. 13-25
 
 <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inline"><button class="btn">#inline</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Inline%20Polymer%20Cable%20Reinforcement%20in%203D%20Concrete%20Printing%20with%20a%20Special%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=inline+polymer+cable+reinforcement+in+3d+concrete+printing+with+a+special+nozzle&as_occt=title&as_sauthors=maurya&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016193741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-5491-8_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

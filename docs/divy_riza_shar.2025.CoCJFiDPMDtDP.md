@@ -26,7 +26,7 @@ Contribution - Proceedings of the fib Symposium 2025
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Cold%20Joint%20Formation%20in%20Digitally%20Printed%20Mortar%20During%20the%20Dormant%20Phase" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+cold+joint+formation+in+digitally+printed+mortar+during+the+dormant+phase&as_occt=title&as_sauthors=divya&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

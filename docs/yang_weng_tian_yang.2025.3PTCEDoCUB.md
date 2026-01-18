@@ -25,14 +25,15 @@ tags:
 
 #3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.120486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120486" target="_blank">10.1016/j.engstruct.2025.120486</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.120486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120486" target="_blank">10.1016/j.engstruct.2025.120486</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-0895-0329" title="ORCID: 0009-0002-0895-0329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_guojun"><b>Yang</b>&nbsp;Guojun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <a href="../../../author/tian_jiefu"><b>Tian</b>&nbsp;Jiefu</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span><br>
 Journal Article - Engineering Structures, Vol. 336, No. 120486
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mode"><button class="btn">#mode</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Towards%20Cost-Effective%20Design%20of%20Composite%20UHPFRC%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+towards+cost-effective+design+of+composite+uhpfrc+beams&as_occt=title&as_sauthors=yang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003965267&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001486339100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.120486" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

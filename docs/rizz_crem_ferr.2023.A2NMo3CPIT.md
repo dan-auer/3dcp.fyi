@@ -16,14 +16,15 @@ tags:
 ---
 
 #A 2D Numerical Model of 3D Concrete Printing Including Thixotropy ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.08.082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.082" target="_blank">10.1016/j.matpr.2023.08.082</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.08.082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.08.082" target="_blank">10.1016/j.matpr.2023.08.082</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b>&nbsp;Massimiliano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%202D%20Numerical%20Model%20of%203D%20Concrete%20Printing%20Including%20Thixotropy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+2d+numerical+model+of+3d+concrete+printing+including+thixotropy&as_occt=title&as_sauthors=rizzieri&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.08.082" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Rheology and Early-Age Evaluation of 3D Printable Cement-Limestone-Filler-Pastes with Nano-Clays and Methylcellulose ([2024-12](date/2024/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.139358) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139358" target="_blank">10.1016/j.conbuildmat.2024.139358</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2024.139358" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139358" target="_blank">10.1016/j.conbuildmat.2024.139358</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8554-9614" title="ORCID: 0000-0001-8554-9614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marquez_martin_alvaro"><b>Márquez</b>&nbsp;Álvaro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 457, No. 139358
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Early-Age%20Evaluation%20of%203D%20Printable%20Cement-Limestone-Filler-Pastes%20with%20Nano-Clays%20and%20Methylcellulose" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+and+early-age+evaluation+of+3d+printable+cement-limestone-filler-pastes+with+nano-clays+and+methylcellulose&as_occt=title&as_sauthors=m%C3%A1rquez&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210687599&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001373568700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139358" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -72,7 +73,7 @@ Journal Article - Construction and Building Materials, Vol. 457, No. 139358
     </ol>
 ???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
-      <li><a href="../../../author/marquez_alvaro"><b>Marquez</b> Alvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
+      <li><a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
     </ol>
 </div>
 

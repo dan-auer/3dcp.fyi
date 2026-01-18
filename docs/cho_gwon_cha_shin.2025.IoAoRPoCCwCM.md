@@ -18,14 +18,15 @@ tags:
 
 #Impact of Accelerator on Rheological Properties of Cement Composites with Cellulose Microfibers&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">3D Printing Perspective</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112538" target="_blank">10.1016/j.jobe.2025.112538</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112538" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112538" target="_blank">10.1016/j.jobe.2025.112538</a>
 
 <a href="../../../author/cho_eunsan"><b>Cho</b>&nbsp;Eunsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3048-7265" title="ORCID: 0000-0002-3048-7265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gwon_seongwoo"><b>Gwon</b>&nbsp;Seongwoo</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-8111-8509" title="ORCID: 0009-0004-8111-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cha_soowon"><b>Cha</b>&nbsp;Soowon</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112538
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Accelerator%20on%20Rheological%20Properties%20of%20Cement%20Composites%20with%20Cellulose%20Microfibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+accelerator+on+rheological+properties+of+cement+composites+with+cellulose+microfibers&as_occt=title&as_sauthors=cho&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002335325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001470266800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112538" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

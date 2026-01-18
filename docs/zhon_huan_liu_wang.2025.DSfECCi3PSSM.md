@@ -23,14 +23,15 @@ tags:
 
 #Dual Strategies for Enhancing Carbonation Curing in 3D Printing Steel Slag Mortars&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">Material Modification and Curing Process Innovation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" target="_blank">10.1016/j.conbuildmat.2025.143996</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143996" target="_blank">10.1016/j.conbuildmat.2025.143996</a>
 
 <a href="../../../author/zhong_kuangnan"><b>Zhong</b>&nbsp;Kuangnan</a></span>, <a href="../../../author/huang_kaiyun"><b>Huang</b>&nbsp;Kaiyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhichao"><b>Liu</b>&nbsp;Zhichao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_fazhou"><b>Wang</b>&nbsp;Fazhou</a></span>, <a href="../../../author/hu_shuguang"><b>Hu</b>&nbsp;Shuguang</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 498, No. 143996
 
 <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dual%20Strategies%20for%20Enhancing%20Carbonation%20Curing%20in%203D%20Printing%20Steel%20Slag%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dual+strategies+for+enhancing+carbonation+curing+in+3d+printing+steel+slag+mortars&as_occt=title&as_sauthors=zhong&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019304019&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001598525200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143996" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

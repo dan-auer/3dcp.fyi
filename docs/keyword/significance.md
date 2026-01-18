@@ -8,6 +8,10 @@ search:
 
 # #significance
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter (2)</button></a> <a href="../../keyword/bed"><button class="btn">#bed (1)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.SoNPf3PoC/">Significance of Nozzle Parameters for 3D Printing of Concrete</a></li>
   <li><a href="../../../author/salari_farid"><b>Salari</b> Farid</a>, <a href="../../../author/zocca_andrea"><b>Zocca</b> Andrea</a>, <a href="../../../author/bosetti_paolo"><b>Bosetti</b> Paolo</a>, <a href="../../../author/hlavacek_petr"><b>Hlaváček</b> Petr</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../sala_zocc_bose_hlav.2024.PB3PbSAoMPC/">Powder-Bed 3D Printing by Selective Activation of Magnesium-Phosphate-Cement:<br/>Determining Significant Processing Parameters and Their Effect on Mechanical Strength</a></li>

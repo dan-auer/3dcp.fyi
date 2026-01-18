@@ -9,6 +9,60 @@ search:
 
 #  Robens-Radermacher Annika 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9653-6085" target="_blank">0000-0001-9653-6085</a>
+
+    First Contribution
+    : 2022-06-29
+    
+    Last Contribution
+    : 2025-06-24
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 15
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (6)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (3)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (3)</li>
+        <li><a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (10)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (5)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a> (3)</li>
+        <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a> (3)</li>
+        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
+        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

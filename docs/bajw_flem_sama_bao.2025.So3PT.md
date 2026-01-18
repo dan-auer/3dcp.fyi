@@ -17,14 +17,15 @@ tags:
 
 #Sustainability of 3D Printing Technology&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Review on Research Trends and Developments</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-2802-5_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-2802-5_35" target="_blank">10.1007/978-981-96-2802-5_35</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-2802-5_35" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-2802-5_35" target="_blank">10.1007/978-981-96-2802-5_35</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6929-2094" title="ORCID: 0000-0002-6929-2094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b>&nbsp;Asad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2080-8261" title="ORCID: 0000-0003-2080-8261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flemmer_l_claire"><b>Flemmer</b>&nbsp;Claire</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <a href="../../../author/potangora_regan"><b>Potangora</b>&nbsp;Regan</a></span><br>
 Contribution - Creating Capacity and Capability, pp. 467-478
 
 <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainability%20of%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainability+of+3d+printing+technology&as_occt=title&as_sauthors=bajwa&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017373842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-2802-5_35" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

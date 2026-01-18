@@ -20,14 +20,15 @@ tags:
 ---
 
 #Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1116&context=c3_2025) <a href="https://doi.org/10.5703/1288284318055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318055" target="_blank">10.5703/1288284318055</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1116&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318055" target="_blank">10.5703/1288284318055</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_seongho"><b>Han</b>&nbsp;Seongho</a></span>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b>&nbsp;Alfred</a></span>, <a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhanced%20Shape%20Stability%20of%20Flowable%20Mortar%20Through%20CO2%20Injection%20for%203D%20Concrete%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhanced+shape+stability+of+flowable+mortar+through+co2+injection+for+3d+concrete+printing+application&as_occt=title&as_sauthors=han&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318055" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

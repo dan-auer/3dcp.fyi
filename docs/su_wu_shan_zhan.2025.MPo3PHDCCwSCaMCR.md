@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Properties of 3D-Printed High-Ductility Cementitious Composite with Sulphoaluminate Cement and Modified Crumb Rubber ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" target="_blank">10.1016/j.conbuildmat.2025.142072</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142072" target="_blank">10.1016/j.conbuildmat.2025.142072</a>
 
 <a href="../../../author/su_yanli"><b>Su</b>&nbsp;Yanli</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5480-4547" title="ORCID: 0000-0001-5480-4547" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chang"><b>Wu</b>&nbsp;Chang</a></span>, <a href="../../../author/shang_jiaqi"><b>Shang</b>&nbsp;Jiaqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1205-3826" title="ORCID: 0000-0002-1205-3826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_pu"><b>Zhang</b>&nbsp;Pu</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 486, No. 142072
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%203D-Printed%20High-Ductility%20Cementitious%20Composite%20with%20Sulphoaluminate%20Cement%20and%20Modified%20Crumb%20Rubber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+3d-printed+high-ductility+cementitious+composite+with+sulphoaluminate+cement+and+modified+crumb+rubber&as_occt=title&as_sauthors=su&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007102071&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001504891600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142072" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

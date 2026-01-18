@@ -8,6 +8,10 @@ search:
 
 # #seismic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (12)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (11)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (6)</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a></li>

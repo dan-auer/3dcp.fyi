@@ -19,14 +19,15 @@ tags:
 ---
 
 #Three-Dimensional Printable Concrete by an Ultra-Thin Nozzle and Fully-Sealed Extrusion ([2024-06](date/2024/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/1958/pdf?version=1721181504) <a href="https://doi.org/10.3390/buildings14071958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14071958" target="_blank">10.3390/buildings14071958</a>
+<a href="https://www.mdpi.com/2075-5309/14/7/1958/pdf?version=1721181504" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14071958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14071958" target="_blank">10.3390/buildings14071958</a>
 
 <a href="../../../author/shen_jing"><b>Shen</b>&nbsp;Jing</a></span>, <a href="../../../author/li_yujia"><b>Li</b>&nbsp;Yujia</a></span>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b>&nbsp;Xiaoman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yangbo"><b>Li</b>&nbsp;Yangbo</a></span>, <a href="../../../author/huang_chaohui"><b>Huang</b>&nbsp;Chaohui</a></span>, <a href="../../../author/luo_wei"><b>Luo</b>&nbsp;Wei</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 7, No. 1958
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/seal"><button class="btn">#seal</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printable%20Concrete%20by%20an%20Ultra-Thin%20Nozzle%20and%20Fully-Sealed%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printable+concrete+by+an+ultra-thin+nozzle+and+fully-sealed+extrusion&as_occt=title&as_sauthors=shen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199648526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001276603400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14071958" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

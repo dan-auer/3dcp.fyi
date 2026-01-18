@@ -9,6 +9,60 @@ search:
 
 #  Wang Yu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5685-6316" target="_blank">0000-0001-5685-6316</a>
+
+    First Contribution
+    : 2020-06-27
+    
+    Last Contribution
+    : 2023-11-14
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 467
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> (3)</li>
+        <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> (3)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (3)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
+        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (236)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (33)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (19)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (18)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (17)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (54)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (33)</li>
+        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (22)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (18)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a></li>

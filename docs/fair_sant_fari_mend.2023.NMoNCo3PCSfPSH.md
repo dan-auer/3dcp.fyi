@@ -18,14 +18,15 @@ tags:
 ---
 
 #Numerical Modeling of New Conceptions of 3D Printed Concrete Structures for Pumped Storage Hydropower ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-07746-3_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-07746-3_12" target="_blank">10.1007/978-3-031-07746-3_12</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-07746-3_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-07746-3_12" target="_blank">10.1007/978-3-031-07746-3_12</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0321-7152" title="ORCID: 0000-0003-0321-7152" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fairbairn_moraes-rego_eduardo"><b>de&nbsp;Fairbairn</b>&nbsp;Eduardo</a></span>, <a href="../../../author/santos_d-f_larissa"><b>Santos</b>&nbsp;Larissa</a></span>, <a href="../../../author/farias_b_marina"><b>Farias</b>&nbsp;Marina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
 Contribution - Numerical Modeling-Strategies for Sustainable Concrete Structures, pp. 120-129
 
 <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modeling%20of%20New%20Conceptions%20of%203D%20Printed%20Concrete%20Structures%20for%20Pumped%20Storage%20Hydropower" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+modeling+of+new+conceptions+of+3d+printed+concrete+structures+for+pumped+storage+hydropower&as_occt=title&as_sauthors=fairbairn&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133544966&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-07746-3_12" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

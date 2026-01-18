@@ -15,14 +15,15 @@ tags:
 ---
 
 #Imprinting Concrete Graded Transparency in 3D Concrete Printing Walls ([2023-03](date/2023/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2023_365.pdf) <a href="https://doi.org/10.52842/conf.caadria.2023.2.169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2023.2.169" target="_blank">10.52842/conf.caadria.2023.2.169</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2023_365.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2023.2.169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2023.2.169" target="_blank">10.52842/conf.caadria.2023.2.169</a>
 
 <a href="../../../author/chen_wei-ting"><b>Chen</b>&nbsp;Wei-Ting</a></span>, <a href="../../../author/sunny-anthraper_liya"><b>Sunny Anthraper</b>&nbsp;Liya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4820-4048" title="ORCID: 0000-0003-4820-4048" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skevaki_eleni"><b>Skevaki</b>&nbsp;Eleni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3034-8978" title="ORCID: 0000-0002-3034-8978" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anton_ana-maria"><b>Anton</b>&nbsp;Ana-Maria</a></span><br>
 Contribution - Proceedings of the 28th Conference on Computer Aided Architectural Design Research in Asia, pp. 169-178
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transparency"><button class="btn">#transparency</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Imprinting%20Concrete%20Graded%20Transparency%20in%203D%20Concrete%20Printing%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=imprinting+concrete+graded+transparency+in+3d+concrete+printing+walls&as_occt=title&as_sauthors=chen&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196720664&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2023.2.169" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

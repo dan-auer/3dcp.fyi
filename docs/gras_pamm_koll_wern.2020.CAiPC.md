@@ -18,14 +18,15 @@ tags:
 
 #Complex Architecture in Printed Concrete&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">The Case of the Innsbruck University 350th Anniversary Pavilion COHESION</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_106" target="_blank">10.1007/978-3-030-49916-7_106</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_106" target="_blank">10.1007/978-3-030-49916-7_106</a>
 
 <a href="../../../author/grasser_georg"><b>Grasser</b>&nbsp;Georg</a></span>, <a href="../../../author/pammer_lorenz"><b>Pammer</b>&nbsp;Lorenz</a></span>, <a href="../../../author/koll_harald"><b>Köll</b>&nbsp;Harald</a></span>, <a href="../../../author/werner_e"><b>Werner</b>&nbsp;E.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 1116-1127
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/pavilion"><button class="btn">#pavilion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Complex%20Architecture%20in%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=complex+architecture+in+printed+concrete&as_occt=title&as_sauthors=grasser&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083304851&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_106" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

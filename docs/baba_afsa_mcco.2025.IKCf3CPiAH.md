@@ -16,14 +16,15 @@ tags:
 ---
 
 #Investigating Key Competencies for 3D Concrete Printing in Affordable Housing ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784486139.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486139.003" target="_blank">10.1061/9780784486139.003</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784486139.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486139.003" target="_blank">10.1061/9780784486139.003</a>
 
 <a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b>&nbsp;Vida</a></span>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b>&nbsp;Kereshmeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span><br>
 Contribution - Computing in Civil Engineering, pp. 19-28
 
 <a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/competence"><button class="btn">#competence</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20Key%20Competencies%20for%203D%20Concrete%20Printing%20in%20Affordable%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+key+competencies+for+3d+concrete+printing+in+affordable+housing&as_occt=title&as_sauthors=babajaniniashirvani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784486139.003" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

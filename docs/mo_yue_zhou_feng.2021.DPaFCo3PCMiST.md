@@ -18,14 +18,15 @@ tags:
 ---
 
 #Dynamic Properties and Fractal Characteristics of 3D Printed Cement Mortar in SHPB-Test ([2021-09](date/2021/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/19/5554/pdf?version=1632800612) <a href="https://doi.org/10.3390/ma14195554" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195554" target="_blank">10.3390/ma14195554</a>
+<a href="https://www.mdpi.com/1996-1944/14/19/5554/pdf?version=1632800612" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14195554" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195554" target="_blank">10.3390/ma14195554</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0199-089X" title="ORCID: 0000-0002-0199-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mo_yixin"><b>Mo</b>&nbsp;Yixin</a></span>, <a href="../../../author/yue_songlin"><b>Yue</b>&nbsp;Songlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5509-0902" title="ORCID: 0000-0001-5509-0902" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_qizhen"><b>Zhou</b>&nbsp;Qizhen</a></span>, <a href="../../../author/feng_bowei"><b>Feng</b>&nbsp;Bowei</a></span>, <a href="../../../author/liu_xiao"><b>Liu</b>&nbsp;Xiao</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 19
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Properties%20and%20Fractal%20Characteristics%20of%203D%20Printed%20Cement%20Mortar%20in%20SHPB-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+properties+and+fractal+characteristics+of+3d+printed+cement+mortar+in+shpb-test&as_occt=title&as_sauthors=mo&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115724175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000709961200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14195554" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

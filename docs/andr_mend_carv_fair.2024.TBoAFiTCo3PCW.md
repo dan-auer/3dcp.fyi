@@ -19,14 +19,15 @@ tags:
 ---
 
 #Thermal Behavior of Air-Fluid in Triangular Cavities of 3D Printed Concrete Walls ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.55592/cilamce.v6i06.10312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55592/cilamce.v6i06.10312" target="_blank">10.55592/cilamce.v6i06.10312</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.55592/cilamce.v6i06.10312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55592/cilamce.v6i06.10312" target="_blank">10.55592/cilamce.v6i06.10312</a>
 
 <a href="../../../author/andrade_do-val_rodrigo"><b>Andrade</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span>, <a href="../../../author/carvalho-gonzaga-e-silva_beatriz_ana"><b>de&nbsp;Carvalho Gonzaga e Silva</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0321-7152" title="ORCID: 0000-0003-0321-7152" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fairbairn_moraes-rego_eduardo"><b>de&nbsp;Fairbairn</b>&nbsp;Eduardo</a></span>, <a href="../../../author/andrade_conde-carvalho_henrique"><b>de&nbsp;Andrade</b>&nbsp;Henrique</a></span><br>
 Contribution - Proceedings of the Joint XLV Ibero-Latin-American Congress on Computational Methods in Engineering
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/triangle"><button class="btn">#triangle</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Behavior%20of%20Air-Fluid%20in%20Triangular%20Cavities%20of%203D%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+behavior+of+air-fluid+in+triangular+cavities+of+3d+printed+concrete+walls&as_occt=title&as_sauthors=andrade&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.55592/cilamce.v6i06.10312" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

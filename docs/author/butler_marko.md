@@ -9,6 +9,60 @@ search:
 
 #  Butler Marko 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6116-1727" target="_blank">0000-0002-6116-1727</a>
+
+    First Contribution
+    : 2014-11-03
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 243
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
+        <li><a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> (2)</li>
+        <li><a href="../../../author/storch_florian"><b>Storch</b> Florian</a> (2)</li>
+        <li><a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> (2)</li>
+        <li><a href="../../../author/will_frank"><b>Will</b> Frank</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a>, <a href="../../../author/iqbal_arsalan"><b>Iqbal</b> Arsalan</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../nere_nath_iqba_butl.2019.ILQoEoCMfDC/">In-Line Quantification of Extrudability of Cementitious Materials for Digital Construction</a> (192)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (23)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (11)</li>
+        <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (46)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (14)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (13)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
+        <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>
   <li><a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/storch_florian"><b>Storch</b> Florian</a>, <a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../will_stor_plas_taub.2024.LSMPwRMC/">Large-Scale Monolithic Printing with Ready-Mixed Concrete:<br/>Challenges and Solutions</a></li>

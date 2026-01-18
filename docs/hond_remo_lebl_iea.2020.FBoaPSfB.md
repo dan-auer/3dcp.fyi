@@ -15,14 +15,15 @@ tags:
 ---
 
 #Fire Behavior of a Printed Sample for Building ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://enpc.hal.science/hal-02119379/file/232970.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_44" target="_blank">10.1007/978-3-030-49916-7_44</a>
+<a href="https://enpc.hal.science/hal-02119379/file/232970.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_44" target="_blank">10.1007/978-3-030-49916-7_44</a>
 
 <a href="../../../author/hondt_melody"><b>d'&nbsp;Hondt</b>&nbsp;Mélody</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/leblond_philippe"><b>Leblond</b>&nbsp;Philippe</a></span>, <a href="../../../author/iea_bunthan"><b>Iea</b>&nbsp;Bunthan</a></span>, <a href="../../../author/hynek_estelle"><b>Hynek</b>&nbsp;Estelle</a></span>, <a href="../../../author/pinoteau_nicolas"><b>Pinoteau</b>&nbsp;Nicolas</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 428-438
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/samples"><button class="btn">#samples</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fire%20Behavior%20of%20a%20Printed%20Sample%20for%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fire+behavior+of+a+printed+sample+for+building&as_occt=title&as_sauthors=hondt&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088244127&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_44" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

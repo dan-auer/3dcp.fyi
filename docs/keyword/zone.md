@@ -8,6 +8,10 @@ search:
 
 # #zone
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/cohesion"><button class="btn">#cohesion (3)</button></a> <a href="../../keyword/determination"><button class="btn">#determination (2)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b> Kamesh</a>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b> M.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sola_foru.2026.ARTMfDtPZoC3P/">A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers</a></li>
   <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../miri_baaj_pola.2025.EIi3PCTCZM/">Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #An Additive Manufacturing-Oriented Design Approach for Digital Construction ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-04-2025-0159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-04-2025-0159" target="_blank">10.1108/rpj-04-2025-0159</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-04-2025-0159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-04-2025-0159" target="_blank">10.1108/rpj-04-2025-0159</a>
 
 <a href="../../../author/sahu_akshay"><b>Sahu</b>&nbsp;Akshay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
 Journal Article - Rapid Prototyping Journal, pp. 1-17
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Additive%20Manufacturing-Oriented%20Design%20Approach%20for%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+additive+manufacturing-oriented+design+approach+for+digital+construction&as_occt=title&as_sauthors=sahu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001605440600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-04-2025-0159" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

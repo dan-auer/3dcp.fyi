@@ -22,14 +22,15 @@ tags:
 
 #RotoColumn&nbsp;([2022-09](date/2022/09))
 <div class="h1-like">A Continuous Digital Fabrication Framework for Casting Large-Scale Linear Concrete Hollow Elements</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-13249-0_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-13249-0_38" target="_blank">10.1007/978-3-031-13249-0_38</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-13249-0_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-13249-0_38" target="_blank">10.1007/978-3-031-13249-0_38</a>
 
 <a href="../../../author/mehdizadeh_samim"><b>Mehdizadeh</b>&nbsp;Samim</a></span>, <a href="../../../author/zimmermann_adrian"><b>Zimmermann</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0297-9884" title="ORCID: 0000-0003-0297-9884" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tessmann_oliver"><b>Tessmann</b>&nbsp;Oliver</a></span><br>
 Contribution - Proceedings of the Design Modelling Symposium, pp. 476-486
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=RotoColumn" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rotocolumn&as_occt=title&as_sauthors=mehdizadeh&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174980158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000870223800037" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-13249-0_38" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

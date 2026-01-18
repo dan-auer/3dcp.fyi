@@ -18,14 +18,15 @@ tags:
 ---
 
 #Strengthening and 3D Printing of Magnesium-Silicate-Hydrate Binder for Martian Construction ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784485736.092" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.092" target="_blank">10.1061/9780784485736.092</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784485736.092" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.092" target="_blank">10.1061/9780784485736.092</a>
 
 <a href="../../../author/gholami_shayan"><b>Gholami</b>&nbsp;Shayan</a></span>, <a href="../../../author/kim_yong-rak"><b>Kim</b>&nbsp;Yong-Rak</a></span>, <a href="../../../author/salehi_faezeh"><b>Salehi</b>&nbsp;Faezeh</a></span><br>
 Contribution - Earth and Space 2024
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Strengthening%20and%203D%20Printing%20of%20Magnesium-Silicate-Hydrate%20Binder%20for%20Martian%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=strengthening+and+3d+printing+of+magnesium-silicate-hydrate+binder+for+martian+construction&as_occt=title&as_sauthors=gholami&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207902347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784485736.092" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

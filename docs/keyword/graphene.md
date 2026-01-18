@@ -8,6 +8,10 @@ search:
 
 # #graphene
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (7)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (7)</button></a> <a href="../../keyword/property"><button class="btn">#property (7)</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>
   <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/wen_jun"><b>Wen</b> Jun</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/liu_yan"><b>Liu</b> Yan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jian_wen_gao_liu.2025.EoGOoPaMPo3PC/">Effect of Graphene Oxide on Physical and Mechanical Properties of 3D Printed Concrete</a></li>

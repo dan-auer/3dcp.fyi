@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Water Film and Paste Film Thicknesses on Printability of 3D Printed Low Cement UHPC ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e05008) <a href="https://doi.org/10.1016/j.cscm.2025.e05008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05008" target="_blank">10.1016/j.cscm.2025.e05008</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e05008" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05008" target="_blank">10.1016/j.cscm.2025.e05008</a>
 
 <a href="../../../author/shi_ye"><b>Shi</b>&nbsp;Ye</a></span>, <a href="../../../author/you_ge"><b>You</b>&nbsp;Ge</a></span>, <a href="../../../author/wu_pengtao"><b>Wu</b>&nbsp;Pengtao</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05008
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Water%20Film%20and%20Paste%20Film%20Thicknesses%20on%20Printability%20of%203D%20Printed%20Low%20Cement%20UHPC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+water+film+and+paste+film+thicknesses+on+printability+of+3d+printed+low+cement+uhpc&as_occt=title&as_sauthors=shi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009860874&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001533159700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

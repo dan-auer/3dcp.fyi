@@ -21,14 +21,15 @@ tags:
 ---
 
 #A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-023-00509-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-023-00509-5" target="_blank">10.1007/s40964-023-00509-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-023-00509-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-023-00509-5" target="_blank">10.1007/s40964-023-00509-5</a>
 
 <a href="../../../author/kumar_lalit"><b>Kumar</b>&nbsp;Lalit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2589-3234" title="ORCID: 0000-0002-2589-3234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muthu_nelson"><b>Muthu</b>&nbsp;Nelson</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Simple%20Potential%20Energy%20Formulation%20for%203D%20Concrete%20Printed%20Structures%20Considering%20the%20Shear%20Effects%20in%20the%20Build-Direction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+simple+potential+energy+formulation+for+3d+concrete+printed+structures+considering+the+shear+effects+in+the+build-direction&as_occt=title&as_sauthors=kumar&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174532560&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001087974400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-023-00509-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

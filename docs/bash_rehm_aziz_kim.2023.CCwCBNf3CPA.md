@@ -19,14 +19,15 @@ tags:
 
 #Cement Composites with Carbon-Based Nanomaterials for 3D Concrete Printing Applications&nbsp;([2023-02](date/2023/02))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/tcr.202200293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/tcr.202200293" target="_blank">10.1002/tcr.202200293</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/tcr.202200293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/tcr.202200293" target="_blank">10.1002/tcr.202200293</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8483-4448" title="ORCID: 0000-0001-8483-4448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/basha_inayath_shaik"><b>Basha</b>&nbsp;Shaik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5870-9616" title="ORCID: 0000-0002-5870-9616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rehman_ur_atta"><b>Rehman</b>&nbsp;Atta</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1537-2785" title="ORCID: 0000-0002-1537-2785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aziz_abdul_md"><b>Aziz</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
 Journal Article - Chemical Record
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cement%20Composites%20with%20Carbon-Based%20Nanomaterials%20for%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cement+composites+with+carbon-based+nanomaterials+for+3d+concrete+printing+applications&as_occt=title&as_sauthors=basha&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147802578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000930223600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/tcr.202200293" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

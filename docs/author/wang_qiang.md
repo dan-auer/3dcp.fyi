@@ -9,6 +9,60 @@ search:
 
 #  Wang Qiang 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-03-01
+    
+    Last Contribution
+    : 2025-12-29
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 50
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (3)</li>
+        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (2)</li>
+        <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (29)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (27)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (14)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (13)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>

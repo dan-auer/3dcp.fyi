@@ -15,14 +15,15 @@ tags:
 
 #Clay Bodies&nbsp;([2017-11](date/2017/11))
 <div class="h1-like">Crafting the Future with 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.2243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.2243" target="_blank">10.1002/ad.2243</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/ad.2243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.2243" target="_blank">10.1002/ad.2243</a>
 
 <a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span>, <a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span><br>
 Journal Article - Architectural Design, Vol. 87, Iss. 6, pp. 92-97
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Clay%20Bodies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=clay+bodies&as_occt=title&as_sauthors=rael&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032888311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000414347700013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/ad.2243" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

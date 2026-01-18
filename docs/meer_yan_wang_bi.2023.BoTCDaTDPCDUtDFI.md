@@ -17,14 +17,15 @@ tags:
 ---
 
 #Behavior of Traditional Concrete Dams and Three-Dimensional Printed Concrete Dams Under the Debris Flow Impact ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11629-023-8059-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11629-023-8059-9" target="_blank">10.1007/s11629-023-8059-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11629-023-8059-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11629-023-8059-9" target="_blank">10.1007/s11629-023-8059-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4241-3041" title="ORCID: 0000-0003-4241-3041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meere_hani"><b>Meere</b>&nbsp;Hani</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4456-5834" title="ORCID: 0000-0002-4456-5834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_shuaxing"><b>Yan</b>&nbsp;Shuaxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6172-4753" title="ORCID: 0000-0002-6172-4753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dongpo"><b>Wang</b>&nbsp;Dongpo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2631-6620" title="ORCID: 0000-0003-2631-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bi_yuzhang"><b>Bi</b>&nbsp;Yuzhang</a></span><br>
 Journal Article - Journal of Mountain Science, Vol. 20, Iss. 12, pp. 3703-3717
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Behavior%20of%20Traditional%20Concrete%20Dams%20and%20Three-Dimensional%20Printed%20Concrete%20Dams%20Under%20the%20Debris%20Flow%20Impact" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=behavior+of+traditional+concrete+dams+and+three-dimensional+printed+concrete+dams+under+the+debris+flow+impact&as_occt=title&as_sauthors=meere&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181241915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001135359800015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11629-023-8059-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

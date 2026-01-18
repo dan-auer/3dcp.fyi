@@ -18,14 +18,15 @@ tags:
 ---
 
 #Strength and Proportioning Design of 3D Printed Concrete (3DPC) Based on Aggregate-Gradation-Optimization ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11837-024-06461-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11837-024-06461-1" target="_blank">10.1007/s11837-024-06461-1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11837-024-06461-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11837-024-06461-1" target="_blank">10.1007/s11837-024-06461-1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongping"><b>Zhang</b>&nbsp;Hongping</a></span>, <a href="../../../author/duan_shuni"><b>Duan</b>&nbsp;Shuni</a></span>, <a href="../../../author/han_qi"><b>Han</b>&nbsp;Qi</a></span>, <a href="../../../author/he_qiangqiang"><b>He</b>&nbsp;Qiangqiang</a></span>, <a href="../../../author/shi_ziteng"><b>Shi</b>&nbsp;Ziteng</a></span>, <a href="../../../author/liu_lan"><b>Liu</b>&nbsp;Lan</a></span>, <a href="../../../author/qu_shuwei"><b>Qu</b>&nbsp;Shuwei</a></span><br>
 Journal Article - Journal of The Minerals, Metals & Materials
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Strength%20and%20Proportioning%20Design%20of%203D%20Printed%20Concrete%20%283DPC%29%20Based%20on%20Aggregate-Gradation-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=strength+and+proportioning+design+of+3d+printed+concrete+%283dpc%29+based+on+aggregate-gradation-optimization&as_occt=title&as_sauthors=zhang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189017585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001191064400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11837-024-06461-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

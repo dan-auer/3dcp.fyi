@@ -21,14 +21,15 @@ tags:
 
 #Geometric Conformity-Analysis for Automated Fabrication Processes Generating Ruled Surfaces&nbsp;([2009-09](date/2009/09))
 <div class="h1-like">Demonstration for Contour Crafting</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/13552540910993897" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/13552540910993897" target="_blank">10.1108/13552540910993897</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/13552540910993897" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/13552540910993897" target="_blank">10.1108/13552540910993897</a>
 
 <a href="../../../author/yeh_zhenghao"><b>Yeh</b>&nbsp;Zhenghao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 15, Iss. 5, pp. 361-369
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/conformity"><button class="btn">#conformity</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/demonstration"><button class="btn">#demonstration</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geometric%20Conformity-Analysis%20for%20Automated%20Fabrication%20Processes%20Generating%20Ruled%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geometric+conformity-analysis+for+automated+fabrication+processes+generating+ruled+surfaces&as_occt=title&as_sauthors=yeh&as_ylo=2007&as_yhi=2011&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-76649139479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000271479800008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/13552540910993897" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

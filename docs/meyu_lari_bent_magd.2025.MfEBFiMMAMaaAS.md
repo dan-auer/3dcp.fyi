@@ -25,7 +25,7 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/falsework"><button class="btn">#falsework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Methods%20for%20Earth-Based%20Falsework%20in%20Multi-Material%20Additive%20Manufacturing%20at%20an%20Architectural%20Scale" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=methods+for+earth-based+falsework+in+multi-material+additive+manufacturing+at+an+architectural+scale&as_occt=title&as_sauthors=meyuhas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

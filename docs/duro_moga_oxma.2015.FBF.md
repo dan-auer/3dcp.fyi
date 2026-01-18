@@ -22,14 +22,15 @@ tags:
 
 #Flow-Based Fabrication&nbsp;([2015-06](date/2015/06))
 <div class="h1-like">An Integrated Computational Workflow for Design and Digital Additive Manufacturing of Multifunctional Heterogeneously Structured Objects</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cad.2015.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cad.2015.05.005" target="_blank">10.1016/j.cad.2015.05.005</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cad.2015.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cad.2015.05.005" target="_blank">10.1016/j.cad.2015.05.005</a>
 
 <a href="../../../author/duro-royo_jorge"><b>Duro-Royo</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6296-2617" title="ORCID: 0000-0001-6296-2617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mogas-soldevila_laia"><b>Mogas-Soldevila</b>&nbsp;Laia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9222-4447" title="ORCID: 0000-0001-9222-4447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oxman_neri"><b>Oxman</b>&nbsp;Neri</a></span><br>
 Journal Article - Computer-Aided Design, Vol. 69, pp. 143-154
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flow-Based%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flow-based+fabrication&as_occt=title&as_sauthors=duro-royo&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84942363099&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000362858100014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cad.2015.05.005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Printability and Particle-Packing of 3D Printable Limestone-Calcined-Clay-Cement Composites ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" target="_blank">10.1016/j.conbuildmat.2021.122647</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122647" target="_blank">10.1016/j.conbuildmat.2021.122647</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0307-4614" title="ORCID: 0000-0003-0307-4614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_taohua"><b>Ye</b>&nbsp;Taohua</a></span>, <a href="../../../author/fang_yuan"><b>Fang</b>&nbsp;Yuan</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 282
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Particle-Packing%20of%203D%20Printable%20Limestone-Calcined-Clay-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+and+particle-packing+of+3d+printable+limestone-calcined-clay-cement+composites&as_occt=title&as_sauthors=long&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101063266&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000639114300028" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.122647" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

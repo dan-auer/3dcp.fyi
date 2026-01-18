@@ -8,7 +8,12 @@ search:
 
 # #model
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (201)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (164)</button></a> <a href="../../keyword/base"><button class="btn">#base (44)</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric (35)</button></a> <a href="../../keyword/material"><button class="btn">#material (31)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_lian.2026.BAo3CP/">Buildability Analysis of 3D Concrete Printing:<br/>A Finite Element Model Incorporating Segment-by-Segment Activation, Nozzle Constraint, and Extrusion Pressure</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
   <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>

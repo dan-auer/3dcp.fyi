@@ -17,14 +17,15 @@ tags:
 
 #Concluding Overview&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">Advancements in Building Materials Technology</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-95122-7.00011-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-95122-7.00011-3" target="_blank">10.1016/b978-0-323-95122-7.00011-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-323-95122-7.00011-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-95122-7.00011-3" target="_blank">10.1016/b978-0-323-95122-7.00011-3</a>
 
 <a href="../../../author/figueiredo_karoline"><b>Figueiredo</b>&nbsp;Karoline</a></span>, <a href="../../../author/hammad_w-a_ahmed"><b>Hammad</b>&nbsp;Ahmed</a></span>, <a href="../../../author/haddad_naked_assed"><b>Haddad</b>&nbsp;Assed</a></span><br>
 Contribution - Materials Selection for Sustainability in the Built Environment, pp. 227-240
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/conclusion"><button class="btn">#conclusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concluding%20Overview" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concluding+overview&as_occt=title&as_sauthors=figueiredo&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190048397&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-323-95122-7.00011-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

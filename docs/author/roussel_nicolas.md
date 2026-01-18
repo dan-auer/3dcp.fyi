@@ -9,7 +9,62 @@ search:
 
 #  Roussel Nicolas 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3457-9826" target="_blank">0000-0003-3457-9826</a>
+
+    First Contribution
+    : 2013-01-31
+    
+    Last Contribution
+    : 2026-01-15
+
+    Number Contributions
+    : 49
+
+    Number Citations
+    : 3887
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> (13)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (11)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (11)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (10)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a> (833)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (115)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (109)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (100)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (90)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (73)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (194)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (140)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (114)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (114)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (103)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/hassan_m"><b>Hassan</b> M.</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cane_hass_demo_keit.2026.FPToPCwaPD/">Fast Penetration Testing of Printable Concretes with a Portable Device:<br/>Robustness and Calibration</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
   <li><a href="../../../author/denis_l"><b>Denis</b> L.</a>, <a href="../../../author/omikrine-metalssi_o"><b>Omikrine-Metalssi</b> O.</a>, <a href="../../../author/karam-cabrerizo_r"><b>Karam-Cabrerizo</b> R.</a>, <a href="../../../author/barnes-davin_l"><b>Barnes-Davin</b> L.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../deni_omik_kara_barn.2024.IoVEADoPCM/">Impact of Very Early-Age Drying on Printed Concrete Microstructures</a></li>

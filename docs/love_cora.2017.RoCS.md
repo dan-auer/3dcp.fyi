@@ -18,14 +18,15 @@ tags:
 
 #Robots on Construction Sites&nbsp;([2017-04](date/2017/04))
 <div class="h1-like">The Potential and Challenges of On-Site Digital Fabrication</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1126/scirobotics.aan3674" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1126/scirobotics.aan3674" target="_blank">10.1126/scirobotics.aan3674</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1126/scirobotics.aan3674" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1126/scirobotics.aan3674" target="_blank">10.1126/scirobotics.aan3674</a>
 
 <a href="../../../author/loveridge_russell"><b>Loveridge</b>&nbsp;Russell</a></span>, <a href="../../../author/coray_tanja"><b>Coray</b>&nbsp;Tanja</a></span><br>
 Journal Article - Science Robotics, Vol. 2, Iss. 5
 
 <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robots%20on%20Construction%20Sites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robots+on+construction+sites&as_occt=title&as_sauthors=loveridge&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85056597891&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000441515700003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1126/scirobotics.aan3674" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Performance-Assessment of Topologically Optimised 3D Printable Concrete Sewer Cross-Section Using Finite Element Simulation ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-9625-4_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-9625-4_52" target="_blank">10.1007/978-981-99-9625-4_52</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-9625-4_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-9625-4_52" target="_blank">10.1007/978-981-99-9625-4_52</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9008-0419" title="ORCID: 0000-0001-9008-0419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suthar_mahendrabhai"><b>Suthar</b>&nbsp;Mahendrabhai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7452-2969" title="ORCID: 0000-0001-7452-2969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shariff_m_najeeb"><b>Shariff</b>&nbsp;Najeeb</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1635-1238" title="ORCID: 0000-0003-1635-1238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b>&nbsp;Prakash</a></span><br>
 Contribution - Recent Developments in Structural Engineering, pp. 547-556
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance-Assessment%20of%20Topologically%20Optimised%203D%20Printable%20Concrete%20Sewer%20Cross-Section%20Using%20Finite%20Element%20Simulation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance-assessment+of+topologically+optimised+3d+printable+concrete+sewer+cross-section+using+finite+element+simulation&as_occt=title&as_sauthors=suthar&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193241385&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-9625-4_52" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

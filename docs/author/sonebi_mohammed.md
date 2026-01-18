@@ -9,7 +9,62 @@ search:
 
 #  Sonebi Mohammed 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8196-7747" target="_blank">0000-0001-8196-7747</a>
+
+    First Contribution
+    : 2019-04-30
+    
+    Last Contribution
+    : 2026-01-08
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 661
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (14)</li>
+        <li><a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> (6)</li>
+        <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a> (6)</li>
+        <li><a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a> (5)</li>
+        <li><a href="../../../author/das_kumar_utpal"><b>Das</b> Utpal</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mech_bos_perr_silv.2020.EBAMwCBM/">Extrusion-Based Additive Manufacturing with Cement-Based Materials:<br/>Production Steps, Processes, and Their Underlying Physics</a> (410)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (51)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (44)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (43)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (43)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (41)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (45)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (30)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (25)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (23)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kaus_sone_amat_perr.2026.EoFABFaANotFPRaSBoPC/">Effect of Fly Ash, Basalt Fiber and Attapulgite Nanoclay on the Fresh Properties, Rheology and Shrinkage Behaviour of Printable Concrete</a></li>
   <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/amziane_sofiane"><b>Amziane</b> Sofiane</a>, <a href="../../../author/hamill_gerard"><b>Hamill</b> Gerard</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sone_kaus_amzi_hami.2025.OoRaHPo3CP/">Optimization of Rheological and Hardened Properties of 3D Concrete Printing</a></li>
   <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vare_barl_sone.2024.EoBFaNCtEEaBo3PM/">Evaluation of Basalt-Fibers and Nano-Clays to Enhance Extrudability and Buildability of 3D Printing Mortars</a></li>
   <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../kaus_sone_amat_perr.2023.EoNCotPoEB3PM/">Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar</a></li>

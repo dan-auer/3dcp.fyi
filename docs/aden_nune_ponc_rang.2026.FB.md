@@ -18,14 +18,15 @@ tags:
 
 #FAB-BIO&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">A Review of Bio-Based Materials Applied on 3D-Printed Living Walls</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_63" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_63" target="_blank">10.1007/978-981-95-1822-7_63</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_63" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_63" target="_blank">10.1007/978-981-95-1822-7_63</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2398-6354" title="ORCID: 0000-0003-2398-6354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aden_rashid_abdishukri"><b>Aden</b>&nbsp;Abdishukri</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-2507-1919" title="ORCID: 0009-0001-2507-1919" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nunez-montoya_paola_alejandra"><b>Nuñez Montoya</b>&nbsp;Alejandra</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-9899-1644" title="ORCID: 0009-0001-9899-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ponce_mari_josef"><b>Ponce</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b>&nbsp;Jaime</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 605-612
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=FAB-BIO" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fab-bio&as_occt=title&as_sauthors=aden&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_63" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

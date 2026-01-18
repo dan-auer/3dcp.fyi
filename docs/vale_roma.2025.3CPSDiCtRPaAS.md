@@ -16,14 +16,15 @@ tags:
 ---
 
 #3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes ([2025-09](date/2025/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dspace.vut.cz/bitstreams/03f381cd-332a-47d6-b8e1-b132b65b32d1/download) <a href="https://doi.org/10.13164/juniorstav.2025.25043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2025.25043" target="_blank">10.13164/juniorstav.2025.25043</a>
+<a href="https://dspace.vut.cz/bitstreams/03f381cd-332a-47d6-b8e1-b132b65b32d1/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.13164/juniorstav.2025.25043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2025.25043" target="_blank">10.13164/juniorstav.2025.25043</a>
 
 <a href="../../../author/valek_josef"><b>Válek</b>&nbsp;Josef</a></span>, <a href="../../../author/romanova_dorota"><b>Romanová</b>&nbsp;Dorota</a></span><br>
 Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Simulating%20Device%20in%20Comparison%20to%20Real%20Printing%20and%20Aggregate%20Substitutes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+simulating+device+in+comparison+to+real+printing+and+aggregate+substitutes&as_occt=title&as_sauthors=v%C3%A1lek&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.13164/juniorstav.2025.25043" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

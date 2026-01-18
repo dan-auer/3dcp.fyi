@@ -17,14 +17,15 @@ tags:
 
 #Circular Formwork&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">Recycling of 3D Printed Thermoplastic Formwork for Concrete</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/24751448.2023.2245724" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2023.2245724" target="_blank">10.1080/24751448.2023.2245724</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/24751448.2023.2245724" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2023.2245724" target="_blank">10.1080/24751448.2023.2245724</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8327-4159" title="ORCID: 0000-0002-8327-4159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akerman_marc"><b>Akerman</b>&nbsp;Marc</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0607-2059" title="ORCID: 0000-0003-0607-2059" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwendemann_daniel"><b>Schwendemann</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
 Journal Article - Technology|Architecture + Design, Vol. 7, Iss. 2, pp. 204-215
 
 <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/thermoplast"><button class="btn">#thermoplast</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Circular%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=circular+formwork&as_occt=title&as_sauthors=burger&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176757741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/24751448.2023.2245724" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Re-Imagining the Production of 3D Printed Ceramics Through the Incorporation of Waste Materials ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_43" target="_blank">10.1007/978-981-95-1822-7_43</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_43" target="_blank">10.1007/978-981-95-1822-7_43</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5902-4539" title="ORCID: 0000-0002-5902-4539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/melero-tur_sofia"><b>Melero-Tur</b>&nbsp;Sofía</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-1798-6354" title="ORCID: 0009-0007-1798-6354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jimenez-guerrero_adriano"><b>Jiménez-Guerrero</b>&nbsp;Adriano</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4094-923X" title="ORCID: 0000-0003-4094-923X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perez-fenoy_jose"><b>Pérez-Fenoy</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4605-3154" title="ORCID: 0000-0002-4605-3154" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbero-barrera_mar_maria"><b>del&nbsp;Barbero-Barrera</b>&nbsp;María</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 413-421
 
 <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Re-Imagining%20the%20Production%20of%203D%20Printed%20Ceramics%20Through%20the%20Incorporation%20of%20Waste%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=re-imagining+the+production+of+3d+printed+ceramics+through+the+incorporation+of+waste+materials&as_occt=title&as_sauthors=melero-tur&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_43" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

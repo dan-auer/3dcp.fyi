@@ -20,14 +20,15 @@ tags:
 
 #Study on the Instability of Early Age 3D Printing Cement-Based Structure&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Considering the Influence of Interface</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" target="_blank">10.1016/j.engfracmech.2025.111565</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfracmech.2025.111565" target="_blank">10.1016/j.engfracmech.2025.111565</a>
 
 <a href="../../../author/liu_renlong"><b>Liu</b>&nbsp;Renlong</a></span>, <a href="../../../author/tang_jiyu"><b>Tang</b>&nbsp;Jiyu</a></span>, <a href="../../../author/feng_hu"><b>Feng</b>&nbsp;Hu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_zhangqi"><b>Cheng</b>&nbsp;Zhangqi</a></span><br>
 Journal Article - Engineering Fracture Mechanics, No. 111565
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Instability%20of%20Early%20Age%203D%20Printing%20Cement-Based%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+instability+of+early+age+3d+printing+cement-based+structure&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017116200&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001587143600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engfracmech.2025.111565" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

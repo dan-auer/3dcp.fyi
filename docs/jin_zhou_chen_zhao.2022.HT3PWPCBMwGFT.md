@@ -20,14 +20,15 @@ tags:
 ---
 
 #High-Toughness 3D Printed White Portland-Cement-Based Materials with Glass-Fiber-Textile ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2021.131381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2021.131381" target="_blank">10.1016/j.matlet.2021.131381</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2021.131381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2021.131381" target="_blank">10.1016/j.matlet.2021.131381</a>
 
 <a href="../../../author/jin_yuan"><b>Jin</b>&nbsp;Yuan</a></span>, <a href="../../../author/zhou_xiaolong"><b>Zhou</b>&nbsp;Xiaolong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/huang_yongbo"><b>Huang</b>&nbsp;Yongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3615-6520" title="ORCID: 0000-0002-3615-6520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_piqi"><b>Zhao</b>&nbsp;Piqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
 Journal Article - Materials Letters, Vol. 309
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> <a href="../../keyword/toughness"><button class="btn">#toughness</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=High-Toughness%203D%20Printed%20White%20Portland-Cement-Based%20Materials%20with%20Glass-Fiber-Textile" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=high-toughness+3d+printed+white+portland-cement-based+materials+with+glass-fiber-textile&as_occt=title&as_sauthors=jin&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120476048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000736671700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2021.131381" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

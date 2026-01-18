@@ -18,14 +18,15 @@ tags:
 ---
 
 #Portland-Cement-Paste with Aligned Carbon-Fibers Exhibiting Exceptionally High Flexural Strength (>100 MPa) ([2016-08](date/2016/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" target="_blank">10.1016/j.cemconres.2016.08.011</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2016.08.011" target="_blank">10.1016/j.cemconres.2016.08.011</a>
 
 <a href="../../../author/hambach_manuel"><b>Hambach</b>&nbsp;Manuel</a></span>, <a href="../../../author/moller_hendrik"><b>Möller</b>&nbsp;Hendrik</a></span>, <a href="../../../author/neumann_thomas"><b>Neumann</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8105-2157" title="ORCID: 0000-0002-8105-2157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volkmer_dirk"><b>Volkmer</b>&nbsp;Dirk</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 89, pp. 80-86
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Portland-Cement-Paste%20with%20Aligned%20Carbon-Fibers%20Exhibiting%20Exceptionally%20High%20Flexural%20Strength%20%28%3E100%20MPa%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=portland-cement-paste+with+aligned+carbon-fibers+exhibiting+exceptionally+high+flexural+strength+%28%3E100+mpa%29&as_occt=title&as_sauthors=hambach&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84991735426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000388056000009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2016.08.011" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

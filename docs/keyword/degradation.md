@@ -8,6 +8,10 @@ search:
 
 # #degradation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/yuan_chengfang"><b>Yuan</b> Chengfang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC/">Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles</a></li>

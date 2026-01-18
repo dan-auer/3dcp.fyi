@@ -22,14 +22,15 @@ tags:
 ---
 
 #Experimental Study on Dynamic Mechanical Properties of 3D Printed Cement-Based Materials Under Splitting Tension After High Temperature ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02531) <a href="https://doi.org/10.1016/j.cscm.2023.e02531" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02531" target="_blank">10.1016/j.cscm.2023.e02531</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e02531" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e02531" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02531" target="_blank">10.1016/j.cscm.2023.e02531</a>
 
 <a href="../../../author/sun_houchao"><b>Sun</b>&nbsp;Houchao</a></span>, <a href="../../../author/li_furong"><b>Li</b>&nbsp;Furong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3849-3352" title="ORCID: 0000-0002-3849-3352" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_feiting"><b>Shi</b>&nbsp;Feiting</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02531
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Dynamic%20Mechanical%20Properties%20of%203D%20Printed%20Cement-Based%20Materials%20Under%20Splitting%20Tension%20After%20High%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+dynamic+mechanical+properties+of+3d+printed+cement-based+materials+under+splitting+tension+after+high+temperature&as_occt=title&as_sauthors=sun&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173265202&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001096380400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e02531" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

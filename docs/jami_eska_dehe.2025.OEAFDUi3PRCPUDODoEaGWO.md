@@ -19,14 +19,15 @@ tags:
 ---
 
 #Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.70357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70357" target="_blank">10.1002/suco.70357</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.70357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70357" target="_blank">10.1002/suco.70357</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9156-6103" title="ORCID: 0000-0001-9156-6103" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jamifar_vahid"><b>Jamifar</b>&nbsp;Vahid</a></span>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b>&nbsp;Hamid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Electric%20Arc%20Furnace%20Dust%20Utilization%20in%203D%20Printed%20Reinforced%20Cement%20Paste%20Using%20D%E2%80%90Optimal%20Design%20of%20Experiments%20and%20Gray%20Wolf%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+electric+arc+furnace+dust+utilization+in+3d+printed+reinforced+cement+paste+using+d%E2%80%90optimal+design+of+experiments+and+gray+wolf+optimization&as_occt=title&as_sauthors=jamifar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019376899&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001596797900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.70357" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Jiao Dengwu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8943-757X" target="_blank">0000-0002-8943-757X</a>
+
+    First Contribution
+    : 2019-08-13
+    
+    Last Contribution
+    : 2025-11-29
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 140
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (2)</li>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (2)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (2)</li>
+        <li><a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a> (2)</li>
+        <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a> (114)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (9)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (8)</li>
+        <li><a href="../../../author/lin_can"><b>Lin</b> Can</a> (7)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (8)</li>
+        <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (5)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>

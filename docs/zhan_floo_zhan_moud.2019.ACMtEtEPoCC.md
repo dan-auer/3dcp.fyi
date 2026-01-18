@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Cost-Model to Evaluate the Economic Performance of Contour Crafting ([2019-06](date/2019/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784482421.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784482421.078" target="_blank">10.1061/9780784482421.078</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784482421.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784482421.078" target="_blank">10.1061/9780784482421.078</a>
 
 <a href="../../../author/zhang_xun"><b>Zhang</b>&nbsp;Xun</a></span>, <a href="../../../author/flood_ian"><b>Flood</b>&nbsp;Ian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2046-8116" title="ORCID: 0000-0002-2046-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yuanxin"><b>Zhang</b>&nbsp;Yuanxin</a></span>, <a href="../../../author/moud_izadi_hashem"><b>Moud</b>&nbsp;Hashem</a></span>, <a href="../../../author/hatami_mohsen"><b>Hatami</b>&nbsp;Mohsen</a></span><br>
 Contribution - Computing in Civil Engineering 2019, pp. 618-625
 
 <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Cost-Model%20to%20Evaluate%20the%20Economic%20Performance%20of%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+cost-model+to+evaluate+the+economic+performance+of+contour+crafting&as_occt=title&as_sauthors=zhang&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068789014&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784482421.078" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

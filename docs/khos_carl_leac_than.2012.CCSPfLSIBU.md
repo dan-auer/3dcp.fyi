@@ -15,14 +15,15 @@ tags:
 ---
 
 #Contour Crafting Simulation-Plan for Lunar Settlement Infrastructure Build-Up ([2012-04](date/2012/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ntrs.nasa.gov/api/citations/20160010607/downloads/20160010607.pdf) <a href="https://doi.org/10.1061/9780784412190.155" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784412190.155" target="_blank">10.1061/9780784412190.155</a>
+<a href="https://ntrs.nasa.gov/api/citations/20160010607/downloads/20160010607.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784412190.155" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784412190.155" target="_blank">10.1061/9780784412190.155</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/carlson_anders"><b>Carlson</b>&nbsp;Anders</a></span>, <a href="../../../author/leach_neil"><b>Leach</b>&nbsp;Neil</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span><br>
 Contribution - Earth and Space 2012, pp. 1458-1467
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Contour%20Crafting%20Simulation-Plan%20for%20Lunar%20Settlement%20Infrastructure%20Build-Up" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=contour+crafting+simulation-plan+for+lunar+settlement+infrastructure+build-up&as_occt=title&as_sauthors=khoshnevis&as_ylo=2010&as_yhi=2014&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84874282187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784412190.155" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

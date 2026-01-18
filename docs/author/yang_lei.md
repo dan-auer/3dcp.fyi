@@ -9,6 +9,60 @@ search:
 
 #  Yang Lei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-04-13
+    
+    Last Contribution
+    : 2025-09-19
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 253
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (6)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (5)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (5)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (5)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (38)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (20)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (19)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (18)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (28)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (27)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (14)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (13)</li>
+        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (12)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
   <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>

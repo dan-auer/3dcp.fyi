@@ -16,14 +16,15 @@ tags:
 ---
 
 #Utilization of Solid Mine-Waste in the Building Materials for 3D Printing ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292951&type=printable) <a href="https://doi.org/10.1371/journal.pone.0292951" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1371/journal.pone.0292951" target="_blank">10.1371/journal.pone.0292951</a>
+<a href="https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0292951&type=printable" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1371/journal.pone.0292951" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1371/journal.pone.0292951" target="_blank">10.1371/journal.pone.0292951</a>
 
 <a href="../../../author/zhang_xiaowei"><b>Zhang</b>&nbsp;Xiaowei</a></span>, <a href="../../../author/guo_chuwen"><b>Guo</b>&nbsp;Chuwen</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2938-1618" title="ORCID: 0009-0000-2938-1618" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_jianhong"><b>Ma</b>&nbsp;Jianhong</a></span>, <a href="../../../author/jiao_huazhe"><b>Jiao</b>&nbsp;Huazhe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3346-1746" title="ORCID: 0000-0003-3346-1746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_mintae"><b>Kim</b>&nbsp;Mintae</a></span><br>
 Journal Article - PloS one, Vol. 18, Iss. 10, No. e0292951
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Solid%20Mine-Waste%20in%20the%20Building%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=utilization+of+solid+mine-waste+in+the+building+materials+for+3d+printing&as_occt=title&as_sauthors=zhang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174746188&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001099265800007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1371/journal.pone.0292951" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,7 +22,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thickness-Optimization%20of%203D%20Printed%20Structures%20Considering%20Structural%20Failure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thickness-optimization+of+3d+printed+structures+considering+structural+failure&as_occt=title&as_sauthors=mesnil&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408200532-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

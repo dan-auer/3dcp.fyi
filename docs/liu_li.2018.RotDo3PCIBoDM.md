@@ -16,14 +16,15 @@ tags:
 ---
 
 #Research on the Development of 3D Printing Construction Industry Based on Diamond-Model ([2018-08](date/2018/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784481721.020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784481721.020" target="_blank">10.1061/9780784481721.020</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784481721.020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784481721.020" target="_blank">10.1061/9780784481721.020</a>
 
 <a href="../../../author/liu_jingkuang"><b>Liu</b>&nbsp;Jingkuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1810-4639" title="ORCID: 0000-0002-1810-4639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_guokai"><b>Li</b>&nbsp;Guokai</a></span><br>
 Contribution - Proceedings of the International Conference on Construction and Real Estate Management, pp. 164-176
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Development%20of%203D%20Printing%20Construction%20Industry%20Based%20on%20Diamond-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+the+development+of+3d+printing+construction+industry+based+on+diamond-model&as_occt=title&as_sauthors=liu&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052375113&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784481721.020" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

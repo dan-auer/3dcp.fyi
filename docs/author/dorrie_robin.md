@@ -9,7 +9,62 @@ search:
 
 #  Dörrie Robin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8473-7218" target="_blank">0000-0001-8473-7218</a>
+
+    First Contribution
+    : 2021-08-27
+    
+    Last Contribution
+    : 2026-01-17
+
+    Number Contributions
+    : 23
+
+    Number Citations
+    : 125
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (22)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (7)</li>
+        <li><a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> (7)</li>
+        <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/arre_lidiana"><b>Arrè</b> Lidiana</a>, <a href="../../../author/kienbaum_gabriela"><b>Kienbaum</b> Gabriela</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../dorr_lagh_arre_kien.2022.CAMTfACPS/">Combined Additive Manufacturing Techniques for Adaptive Coastline Protection Structures</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (93)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (91)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (89)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (18)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (8)</li>
+        <li><a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a> (6)</li>
+        <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>

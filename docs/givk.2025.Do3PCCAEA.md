@@ -21,14 +21,15 @@ tags:
 
 #Durability of 3D Printed Concrete Containing Air-Entraining Agent&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Evaluating the Importance of Carbonation Resistance</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ecam-06-2025-0939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ecam-06-2025-0939" target="_blank">10.1108/ecam-06-2025-0939</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/ecam-06-2025-0939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ecam-06-2025-0939" target="_blank">10.1108/ecam-06-2025-0939</a>
 
 <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span><br>
 Journal Article - Engineering, Construction and Architectural Management, pp. 1-22
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/importance"><button class="btn">#importance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Durability%20of%203D%20Printed%20Concrete%20Containing%20Air-Entraining%20Agent" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=durability+of+3d+printed+concrete+containing+air-entraining+agent&as_occt=title&as_sauthors=givkashi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022688276&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001610003100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ecam-06-2025-0939" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

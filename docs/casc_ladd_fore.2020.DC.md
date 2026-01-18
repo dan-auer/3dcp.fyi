@@ -15,14 +15,15 @@ tags:
 
 #Digital Construction&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">3D Printing for Performative Houses</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_79" target="_blank">10.1007/978-3-030-49916-7_79</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_79" target="_blank">10.1007/978-3-030-49916-7_79</a>
 
 <a href="../../../author/cascone_paolo"><b>Cascone</b>&nbsp;Paolo</a></span>, <a href="../../../author/laddaga_maddalena"><b>Laddaga</b>&nbsp;Maddalena</a></span>, <a href="../../../author/forestiero_federico"><b>Forestiero</b>&nbsp;Federico</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 804-813
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+construction&as_occt=title&as_sauthors=cascone&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088261419&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_79" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

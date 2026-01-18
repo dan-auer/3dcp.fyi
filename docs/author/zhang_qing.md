@@ -9,6 +9,60 @@ search:
 
 #  Zhang Qing 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7518-2302" target="_blank">0000-0001-7518-2302</a>
+
+    First Contribution
+    : 2021-11-19
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 127
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (3)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (3)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
+        <li><a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> (2)</li>
+        <li><a href="../../../author/peraud_mickael"><b>Peraud</b> Mickaël</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a> (58)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (11)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (11)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (11)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (23)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (14)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (14)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (9)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nana_serge-auguste_w"><b>Nana</b> W.</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/blachier_christian"><b>Blachier</b> Christian</a>, <a href="../../../author/peraud_mickael"><b>Peraud</b> Mickaël</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../nana_baz_blac_pera.2024.MPo3PFRC/">Mechanical Performance of 3D Printed Fiber-Reinforced Concrete</a></li>
   <li><a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/begaud_fabienne"><b>Bégaud</b> Fabienne</a>, <a href="../../../author/khatib_omar"><b>Khatib</b> Omar</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_bega_khat.2024.QCoEMMTiEA3PM/">Quantitative Comparison of Elastic Modulus Measurement Techniques in Early-Age 3D Printable Mortar:<br/>Insights from Compression, Ultrasonic, and Microindentation Methods</a></li>

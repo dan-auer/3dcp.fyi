@@ -8,7 +8,12 @@ search:
 
 # #height
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (128)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (119)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (93)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (42)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (39)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_xin"><b>Zhang</b> Xin</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_xu_liu_sun.2026.EEWAi3PCwSPfHP/">Enhancing Electromagnetic Wave Absorption in 3D-Printed Concrete with Superabsorbent Polymers for High Performance</a></li>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
   <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>

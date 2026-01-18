@@ -19,14 +19,15 @@ tags:
 ---
 
 #Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2023.103683" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103683" target="_blank">10.1016/j.addma.2023.103683</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2023.103683" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103683" target="_blank">10.1016/j.addma.2023.103683</a>
 
 <a href="../../../author/zhu_jinggao"><b>Zhu</b>&nbsp;Jinggao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0357-4515" title="ORCID: 0000-0002-0357-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_xiaodan"><b>Ren</b>&nbsp;Xiaodan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3437-6703" title="ORCID: 0000-0003-3437-6703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervera_miguel"><b>Cervera</b>&nbsp;Miguel</a></span><br>
 Journal Article - Additive Manufacturing, No. 103683
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/collapse"><button class="btn">#collapse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Peridynamic%20Buildability-Analysis%20of%203D%20Printed%20Concrete%20Including%20Damage%2C%20Plastic%20Flow%20and%20Collapse" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=peridynamic+buildability-analysis+of+3d+printed+concrete+including+damage%2C+plastic+flow+and+collapse&as_occt=title&as_sauthors=zhu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164685195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001044662100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2023.103683" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #observation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (1)</button></a> <a href="../../keyword/early"><button class="btn">#early (1)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (1)</button></a> <a href="../../keyword/milling"><button class="btn">#milling (1)</button></a> <a href="../../keyword/print"><button class="btn">#print (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/provis_lloyd_john"><b>Provis</b> John</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xu_kola_prov_dobr.2022.AEToM3PCG/">An Early Trial on Milling 3D Printed Concrete Geometries:<br/>Observations and Insights of the Process</a></li>
 </ol>

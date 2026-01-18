@@ -20,14 +20,15 @@ tags:
 ---
 
 #Experimental Study on the Thermal Performance of 3D-Printed Earthen Wall Segment with Optimized Infill Pattern ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-201&type=chapterpdf) <a href="https://doi.org/10.1201/9781003658641-201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003658641-201" target="_blank">10.1201/9781003658641-201</a>
+<a href="https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.1201/9781003658641-201&type=chapterpdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003658641-201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003658641-201" target="_blank">10.1201/9781003658641-201</a>
 
 <a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b>&nbsp;Mohamad</a></span>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span><br>
 Contribution - Structures and Architecture, pp. 1692-1699
 
 <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Thermal%20Performance%20of%203D-Printed%20Earthen%20Wall%20Segment%20with%20Optimized%20Infill%20Pattern" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+the+thermal+performance+of+3d-printed+earthen+wall+segment+with+optimized+infill+pattern&as_occt=title&as_sauthors=hanifa&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003658641-201" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

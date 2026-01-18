@@ -18,14 +18,15 @@ tags:
 ---
 
 #Experimentally Verified FE Model of Bending Reinforced 3D-Printed Concrete Elements ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15376494.2025.2575929" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15376494.2025.2575929" target="_blank">10.1080/15376494.2025.2575929</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15376494.2025.2575929" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15376494.2025.2575929" target="_blank">10.1080/15376494.2025.2575929</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-7898-8664" title="ORCID: 0009-0002-7898-8664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/telichko_victor"><b>Telichko</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b>&nbsp;Galina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6875-754X" title="ORCID: 0000-0002-6875-754X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/levchenko_artem"><b>Levchenko</b>&nbsp;Artem</a></span><br>
 Journal Article - Mechanics of Advanced Materials and Structures, pp. 1-16
 
 <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/verification"><button class="btn">#verification</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimentally%20Verified%20FE%20Model%20of%20Bending%20Reinforced%203D-Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimentally+verified+fe+model+of+bending+reinforced+3d-printed+concrete+elements&as_occt=title&as_sauthors=telichko&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15376494.2025.2575929" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

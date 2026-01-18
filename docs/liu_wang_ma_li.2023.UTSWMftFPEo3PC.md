@@ -22,14 +22,15 @@ tags:
 
 #U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete&nbsp;([2022-11](date/2022/11))
 <div class="h1-like">A Novel Reinforcing Approach</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.133429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.133429" target="_blank">10.1016/j.matlet.2022.133429</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2022.133429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.133429" target="_blank">10.1016/j.matlet.2022.133429</a>
 
 <a href="../../../author/liu_miao"><b>Liu</b>&nbsp;Miao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <a href="../../../author/zhou_yuanyuan"><b>Zhou</b>&nbsp;Yuanyuan</a></span><br>
 Journal Article - Materials Letters, Vol. 331
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=U-Type%20Steel-Wire-Mesh%20for%20the%20Flexural%20Performance%20Enhancement%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=u-type+steel-wire-mesh+for+the+flexural+performance+enhancement+of+3d+printed+concrete&as_occt=title&as_sauthors=liu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141227889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000891322400008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2022.133429" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

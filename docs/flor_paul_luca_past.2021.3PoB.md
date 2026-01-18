@@ -16,14 +16,15 @@ tags:
 
 #3D Printing of Buildings&nbsp;([2020-10](date/2020/10))
 <div class="h1-like">Limits, Design, Advantages and Disadvantages</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-61118-7_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-61118-7_26" target="_blank">10.1007/978-3-030-61118-7_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-61118-7_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-61118-7_26" target="_blank">10.1007/978-3-030-61118-7_26</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8060-639X" title="ORCID: 0000-0002-8060-639X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/florea_vitalie"><b>Florea</b>&nbsp;Vitalie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2337-4702" title="ORCID: 0000-0003-2337-4702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paulet-crainiceanu_fideliu"><b>Păuleţ-Crăiniceanu</b>&nbsp;Fideliu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9022-2795" title="ORCID: 0000-0002-9022-2795" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luca_septimiu-george"><b>Luca</b>&nbsp;Septimiu-George</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6603-1294" title="ORCID: 0000-0002-6603-1294" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pastia_cristian"><b>Pastia</b>&nbsp;Cristian</a></span><br>
 Contribution - Critical Thinking in the Sustainable Rehabilitation and Risk Management of the Built Environment, pp. 298-308
 
 <a href="../../keyword/advantage"><button class="btn">#advantage</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/disadvantage"><button class="btn">#disadvantage</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+buildings&as_occt=title&as_sauthors=florea&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097416988&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-61118-7_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

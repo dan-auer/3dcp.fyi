@@ -19,14 +19,15 @@ tags:
 ---
 
 #Innovative Early-Age Mechanical Properties of 3D Printable Mortar Enhanced with SBR-Latex and Kaolin ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2024.2425974" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2024.2425974" target="_blank">10.1080/19648189.2024.2425974</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/19648189.2024.2425974" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2024.2425974" target="_blank">10.1080/19648189.2024.2425974</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1575-7068" title="ORCID: 0000-0003-1575-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yasin_mazhar"><b>Yasin</b>&nbsp;Mazhar</a></span>, <a href="../../../author/siddiqi_ahmad_zahid"><b>Siddiqi</b>&nbsp;Zahid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6880-4801" title="ORCID: 0000-0002-6880-4801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ur-rehman_atteq"><b>Ur Rehman</b>&nbsp;Atteq</a></span>, <a href="../../../author/noshin_sadaf"><b>Noshin</b>&nbsp;Sadaf</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3682-9673" title="ORCID: 0000-0003-3682-9673" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad-aslam_muhammad_hafiz"><b>Shahzad Aslam</b>&nbsp;Hafiz</a></span><br>
 Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-23
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Innovative%20Early-Age%20Mechanical%20Properties%20of%203D%20Printable%20Mortar%20Enhanced%20with%20SBR-Latex%20and%20Kaolin" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=innovative+early-age+mechanical+properties+of+3d+printable+mortar+enhanced+with+sbr-latex+and+kaolin&as_occt=title&as_sauthors=yasin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209665347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001350611300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/19648189.2024.2425974" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

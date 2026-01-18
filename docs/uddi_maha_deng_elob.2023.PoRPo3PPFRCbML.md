@@ -19,14 +19,15 @@ tags:
 ---
 
 #Prediction of Rheological Parameters of 3D Printed Polypropylene-Fiber-Reinforced Concrete by Machine Learning ([2023-03](date/2023/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.03.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.191" target="_blank">10.1016/j.matpr.2023.03.191</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.03.191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.191" target="_blank">10.1016/j.matpr.2023.03.191</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span>, <a href="../../../author/mahamoudou_faharidine"><b>Mahamoudou</b>&nbsp;Faharidine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4733-4596" title="ORCID: 0000-0003-4733-4596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deng_boyu"><b>Deng</b>&nbsp;Boyu</a></span>, <a href="../../../author/elobaid-musa_mohamed_moneef"><b>Elobaid Musa</b>&nbsp;Moneef</a></span>, <a href="../../../author/tim-sob_wilfried_landry"><b>Tim Sob</b>&nbsp;Landry</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Prediction%20of%20Rheological%20Parameters%20of%203D%20Printed%20Polypropylene-Fiber-Reinforced%20Concrete%20by%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=prediction+of+rheological+parameters+of+3d+printed+polypropylene-fiber-reinforced+concrete+by+machine+learning&as_occt=title&as_sauthors=uddin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151428294&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.03.191" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

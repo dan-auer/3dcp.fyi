@@ -20,14 +20,15 @@ tags:
 ---
 
 #Fracture Characterization of 3D Printed Ultra-High-Performance Fiber Concrete Beams Using Acoustic Emission ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc11.092368) <a href="https://doi.org/10.21012/fc11.092368" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc11.092368" target="_blank">10.21012/fc11.092368</a>
+<a href="https://doi.org/10.21012/fc11.092368" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc11.092368" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc11.092368" target="_blank">10.21012/fc11.092368</a>
 
 <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b>&nbsp;Vignesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b>&nbsp;Vaibhav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span><br>
 Contribution - Proceedings of the 11th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fracture%20Characterization%20of%203D%20Printed%20Ultra-High-Performance%20Fiber%20Concrete%20Beams%20Using%20Acoustic%20Emission" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fracture+characterization+of+3d+printed+ultra-high-performance+fiber+concrete+beams+using+acoustic+emission&as_occt=title&as_sauthors=ramamurthy&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc11.092368" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

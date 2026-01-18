@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1129&context=c3_2025) <a href="https://doi.org/10.5703/1288284318061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318061" target="_blank">10.5703/1288284318061</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1129&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318061" target="_blank">10.5703/1288284318061</a>
 
 <a href="../../../author/gu_yucun"><b>Gu</b>&nbsp;Yucun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7355-7737" title="ORCID: 0000-0002-7355-7737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_seongho"><b>Han</b>&nbsp;Seongho</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1431-0715" title="ORCID: 0000-0003-1431-0715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khayat_h_kamal"><b>Khayat</b>&nbsp;Kamal</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/kinetic"><button class="btn">#kinetic</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Absorption%20Kinetics%20of%20Superabsorbent%20Polymer%20on%203D%20Printing%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+absorption+kinetics+of+superabsorbent+polymer+on+3d+printing+characteristics&as_occt=title&as_sauthors=gu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318061" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

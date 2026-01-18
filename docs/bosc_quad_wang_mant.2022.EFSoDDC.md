@@ -14,14 +14,15 @@ tags:
 ---
 
 #Eco-Friendly, Set-on-Demand Digital Concrete ([2022-02](date/2022/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831538) <a href="https://doi.org/10.1089/3dp.2020.0350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0350" target="_blank">10.1089/3dp.2020.0350</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831538" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2020.0350" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0350" target="_blank">10.1089/3dp.2020.0350</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3448-3106" title="ORCID: 0000-0002-3448-3106" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boscaro_federica"><b>Boscaro</b>&nbsp;Federica</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quadranti_elia"><b>Quadranti</b>&nbsp;Elia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-0739" title="ORCID: 0000-0003-3941-0739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantellato_sara"><b>Mantellato</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 3-11
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%2C%20Set-on-Demand%20Digital%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=eco-friendly%2C+set-on-demand+digital+concrete&as_occt=title&as_sauthors=boscaro&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119252252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000688203800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2020.0350" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

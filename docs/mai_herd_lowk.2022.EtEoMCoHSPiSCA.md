@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluating the Effect of Methyl-Cellulose on Hardened State Properties in Selective Cement-Activation ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_43" target="_blank">10.1007/978-3-031-06116-5_43</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_43" target="_blank">10.1007/978-3-031-06116-5_43</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/herding_friedrich"><b>Herding</b>&nbsp;Friedrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 289-295
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Effect%20of%20Methyl-Cellulose%20on%20Hardened%20State%20Properties%20in%20Selective%20Cement-Activation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+the+effect+of+methyl-cellulose+on+hardened+state+properties+in+selective+cement-activation&as_occt=title&as_sauthors=mai+%28n%C3%A9e+dressler%29&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133175634&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_43" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

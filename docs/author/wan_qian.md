@@ -9,6 +9,60 @@ search:
 
 #  Wan Qian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1300-7693" target="_blank">0000-0003-1300-7693</a>
+
+    First Contribution
+    : 2020-07-06
+    
+    Last Contribution
+    : 2025-10-06
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 106
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (2)</li>
+        <li><a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a> (1)</li>
+        <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (48)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (42)</li>
+        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (23)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (16)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
+        <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (8)</li>
+        <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> (8)</li>
+        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>
   <li><a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF/">Material and Structural Fatigue-Performance of 18m Span Reinforced Arch Structure Manufactured by 3D Printing Concrete as Permanent Formwork</a></li>

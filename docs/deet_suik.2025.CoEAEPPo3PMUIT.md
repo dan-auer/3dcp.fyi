@@ -19,14 +19,15 @@ tags:
 ---
 
 #Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijmecsci.2025.111141" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2025.111141" target="_blank">10.1016/j.ijmecsci.2025.111141</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ijmecsci.2025.111141" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2025.111141" target="_blank">10.1016/j.ijmecsci.2025.111141</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6756-5151" title="ORCID: 0000-0001-6756-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deetman_h_arjen"><b>Deetman</b>&nbsp;Arjen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suiker_s-j_akke"><b>Suiker</b>&nbsp;Akke</a></span><br>
 Journal Article - International Journal of Mechanical Sciences, No. 111141
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Early-Age%20Elastic%E2%80%93Plastic%20Properties%20of%203D%20Printed%20Materials%20Using%20Indentation%20Testing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+early-age+elastic%E2%80%93plastic+properties+of+3d+printed+materials+using+indentation+testing&as_occt=title&as_sauthors=deetman&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ijmecsci.2025.111141" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

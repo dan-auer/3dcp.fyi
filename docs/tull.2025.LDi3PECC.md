@@ -18,14 +18,15 @@ tags:
 
 #Latest Developments in 3D-Printed Engineered Cementitious Composites&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Technologies, Prospects, and Challenges</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2571-6131/8/4/141/pdf?version=1763900141) <a href="https://doi.org/10.3390/ceramics8040141" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics8040141" target="_blank">10.3390/ceramics8040141</a>
+<a href="https://www.mdpi.com/2571-6131/8/4/141/pdf?version=1763900141" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ceramics8040141" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics8040141" target="_blank">10.3390/ceramics8040141</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2419-4383" title="ORCID: 0000-0003-2419-4383" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tulliani_jean-marc"><b>Tulliani</b>&nbsp;Jean-Marc</a></span><br>
 Journal Article - Ceramics, Vol. 8, Iss. 4, No. 141
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Latest%20Developments%20in%203D-Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=latest+developments+in+3d-printed+engineered+cementitious+composites&as_occt=title&as_sauthors=tulliani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ceramics8040141" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

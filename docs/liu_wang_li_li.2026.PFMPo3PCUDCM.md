@@ -19,14 +19,15 @@ tags:
 ---
 
 #Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.istruc.2025.110946" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110946" target="_blank">10.1016/j.istruc.2025.110946</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.110946" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110946" target="_blank">10.1016/j.istruc.2025.110946</a>
 
 <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/li_yang"><b>Li</b>&nbsp;Yang</a></span>, <a href="../../../author/li_xiulin"><b>Li</b>&nbsp;Xiulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5262-6476" title="ORCID: 0000-0001-5262-6476" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hexin"><b>Zhang</b>&nbsp;Hexin</a></span>, <a href="../../../author/zhang_lei"><b>Zhang</b>&nbsp;Lei</a></span><br>
 Journal Article - Structures, Vol. 84, No. 110946
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cool"><button class="btn">#cool</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Post-Fire%20Mechanical%20Properties%20of%203D%20Printed%20Concrete%20Under%20Different%20Cooling%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=post-fire+mechanical+properties+of+3d+printed+concrete+under+different+cooling+methods&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.110946" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

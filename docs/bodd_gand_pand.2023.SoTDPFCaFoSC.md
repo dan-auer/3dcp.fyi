@@ -18,14 +18,15 @@ tags:
 ---
 
 #Stability of Three-Dimensional Printable Foam-Concrete as Function of Surfactant Characteristics ([2022-12](date/2022/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-023-0964-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0964-z" target="_blank">10.1007/s11709-023-0964-z</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11709-023-0964-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-023-0964-z" target="_blank">10.1007/s11709-023-0964-z</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3530-8609" title="ORCID: 0000-0002-3530-8609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b>&nbsp;Indu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span><br>
 Journal Article - Frontiers of Structural and Civil Engineering
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Stability%20of%20Three-Dimensional%20Printable%20Foam-Concrete%20as%20Function%20of%20Surfactant%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=stability+of+three-dimensional+printable+foam-concrete+as+function+of+surfactant+characteristics&as_occt=title&as_sauthors=boddepalli&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165444556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001032296400003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11709-023-0964-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

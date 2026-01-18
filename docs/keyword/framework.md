@@ -8,6 +8,10 @@ search:
 
 # #framework
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (35)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (28)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (10)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (9)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/serra_valentina"><b>Serra</b> Valentina</a>, <a href="../../../author/callegari_guido"><b>Callegari</b> Guido</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../varg_card_serr_call.2026.DFfP3BCwCI/">DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills</a></li>
   <li><a href="../../../author/lapusan_ciprian"><b>Lapusan</b> Ciprian</a>, <a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b> Camelia</a>, <a href="../../../author/sosa_ioan"><b>Sosa</b> Ioan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lapu_negr_sosa.2026.MCDFfORSSi3CP/">Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing</a></li>

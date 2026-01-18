@@ -23,14 +23,15 @@ tags:
 
 #A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00133-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00133-x" target="_blank">10.1007/s41693-024-00133-x</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-024-00133-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00133-x" target="_blank">10.1007/s41693-024-00133-x</a>
 
 <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b>&nbsp;Paniz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
 Journal Article - Construction Robotics, Vol. 8, Iss. 2
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Integrating%20Vision-Based%20Sensing%20in%20Extrusion-Based%203D%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comprehensive+review+on+integrating+vision-based+sensing+in+extrusion-based+3d+printing+processes&as_occt=title&as_sauthors=farrokhsiar&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-024-00133-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

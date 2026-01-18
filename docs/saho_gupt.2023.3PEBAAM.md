@@ -21,14 +21,15 @@ tags:
 
 #3D Printable Earth-Based Alkali-Activated Materials&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">Role of Mix-Design and Clay-Rich Soil</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33465-8_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33465-8_27" target="_blank">10.1007/978-3-031-33465-8_27</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33465-8_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33465-8_27" target="_blank">10.1007/978-3-031-33465-8_27</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-2747-4976" title="ORCID: 0009-0000-2747-4976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahoo_pitabash"><b>Sahoo</b>&nbsp;Pitabash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_souradeep"><b>Gupta</b>&nbsp;Souradeep</a></span><br>
 Contribution - Bio-Based Building Materials, pp. 333-352
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Earth-Based%20Alkali-Activated%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+earth-based+alkali-activated+materials&as_occt=title&as_sauthors=sahoo&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162272794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33465-8_27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

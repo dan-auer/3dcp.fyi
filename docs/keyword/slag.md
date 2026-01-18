@@ -8,6 +8,10 @@ search:
 
 # #slag
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (49)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (34)</button></a> <a href="../../keyword/base"><button class="btn">#base (23)</button></a> <a href="../../keyword/property"><button class="btn">#property (22)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (21)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/isafca-kaya_tugce"><b>İsafça Kaya</b> Tuğçe</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC/">Combined Effect of Recycled Tire Steel Fiber and Blast Furnace Slag on the Mechanical Performance of 3D Printable Concrete</a></li>
   <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>

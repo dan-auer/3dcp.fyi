@@ -16,14 +16,15 @@ tags:
 ---
 
 #Cable-Suspended Robotic Contour Crafting System ([2007-04](date/2007/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2007.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2007.02.011" target="_blank">10.1016/j.autcon.2007.02.011</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2007.02.011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2007.02.011" target="_blank">10.1016/j.autcon.2007.02.011</a>
 
 <a href="../../../author/bosscher_paul"><b>Bosscher</b>&nbsp;Paul</a></span>, <a href="../../../author/williams_l_robert"><b>Williams</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2350-2241" title="ORCID: 0000-0003-2350-2241" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bryson_sebastian_l"><b>Bryson</b>&nbsp;L.</a></span>, <a href="../../../author/castro-lacouture_daniel"><b>Castro-Lacouture</b>&nbsp;Daniel</a></span><br>
 Journal Article - Automation in Construction, Vol. 17, Iss. 1, pp. 45-55
 
 <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cable-Suspended%20Robotic%20Contour%20Crafting%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cable-suspended+robotic+contour+crafting+system&as_occt=title&as_sauthors=bosscher&as_ylo=2005&as_yhi=2009&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-34547699059&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000250433300005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2007.02.011" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

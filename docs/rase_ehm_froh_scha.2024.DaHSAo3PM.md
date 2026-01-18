@@ -22,7 +22,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Holistic%20Suitability-Assessment%20of%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+and+holistic+suitability-assessment+of+3d+printable+mortar&as_occt=title&as_sauthors=rasehorn&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408190726-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

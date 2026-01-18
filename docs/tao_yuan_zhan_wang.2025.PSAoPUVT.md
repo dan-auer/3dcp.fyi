@@ -20,7 +20,7 @@ Contribution - Proceedings of the fib Symposium 2025
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pore%20Structure%20Analysis%20of%20Printcrete%20Under%20Varying%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pore+structure+analysis+of+printcrete+under+varying+temperature&as_occt=title&as_sauthors=tao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

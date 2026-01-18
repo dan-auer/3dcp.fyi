@@ -19,14 +19,15 @@ tags:
 ---
 
 #A Critical Review for Applying Three-Dimensional Concrete Wall Printing Technology in Egypt ([2019-04](date/2019/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2019.1596066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1596066" target="_blank">10.1080/00038628.2019.1596066</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2019.1596066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1596066" target="_blank">10.1080/00038628.2019.1596066</a>
 
 <a href="../../../author/geneidy_omar"><b>Geneidy</b>&nbsp;Omar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4650-0628" title="ORCID: 0000-0003-4650-0628" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ismaeel_se_walaa"><b>Ismaeel</b>&nbsp;Walaa</a></span>, <a href="../../../author/abbas_ayman"><b>Abbas</b>&nbsp;Ayman</a></span><br>
 Journal Article - Architectural Science Review, Vol. 62, Iss. 5, pp. 438-452
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20for%20Applying%20Three-Dimensional%20Concrete%20Wall%20Printing%20Technology%20in%20Egypt" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+critical+review+for+applying+three-dimensional+concrete+wall+printing+technology+in+egypt&as_occt=title&as_sauthors=geneidy&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85063952643&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000469648400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2019.1596066" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

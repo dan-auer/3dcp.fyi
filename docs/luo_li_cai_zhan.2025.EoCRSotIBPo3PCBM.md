@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effects of Carbonated Recycled Sand on the Interfacial Bonding Performance of 3D Printed Cement-Based Material ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111551" target="_blank">10.1016/j.jobe.2024.111551</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111551" target="_blank">10.1016/j.jobe.2024.111551</a>
 
 <a href="../../../author/luo_surong"><b>Luo</b>&nbsp;Surong</a></span>, <a href="../../../author/li_wenqiang"><b>Li</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/cai_yili"><b>Cai</b>&nbsp;Yili</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6146-9561" title="ORCID: 0000-0002-6146-9561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_kaijian"><b>Zhang</b>&nbsp;Kaijian</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 99, No. 111551
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Carbonated%20Recycled%20Sand%20on%20the%20Interfacial%20Bonding%20Performance%20of%203D%20Printed%20Cement-Based%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+carbonated+recycled+sand+on+the+interfacial+bonding+performance+of+3d+printed+cement-based+material&as_occt=title&as_sauthors=luo&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211966309&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001389681500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111551" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,14 +22,15 @@ tags:
 
 #Carbon Emission Assessment of 3D Printed Hybrid Modular Concrete Building&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">Work Breakdown Structure</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-0090-1_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-0090-1_26" target="_blank">10.1007/978-981-95-0090-1_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-0090-1_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-0090-1_26" target="_blank">10.1007/978-981-95-0090-1_26</a>
 
 <a href="../../../author/ye-htun_htet_thet"><b>Ye Htun</b>&nbsp;Thet</a></span>, <a href="../../../author/panuwatwanich_kriengsak"><b>Panuwatwanich</b>&nbsp;Kriengsak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b>&nbsp;Ganchai</a></span>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b>&nbsp;Passarin</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span><br>
 Contribution - Proceedings of the 18th East Asia-Pacific Conference on Structural Engineering and Construction, pp. 198-205
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/break"><button class="btn">#break</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Carbon%20Emission%20Assessment%20of%203D%20Printed%20Hybrid%20Modular%20Concrete%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=carbon+emission+assessment+of+3d+printed+hybrid+modular+concrete+building&as_occt=title&as_sauthors=ye+htun&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020018633&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-0090-1_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

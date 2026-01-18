@@ -20,14 +20,15 @@ tags:
 
 #The Technology of Graded Concrete&nbsp;([2016-12](date/2016/12))
 <div class="h1-like">From the Development of Concrete Mixtures and the Conceptual Design to the Automatized Manufacturing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.201600056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201600056" target="_blank">10.1002/best.201600056</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201600056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201600056" target="_blank">10.1002/best.201600056</a>
 
 <a href="../../../author/worner_mark"><b>Wörner</b>&nbsp;Mark</a></span>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b>&nbsp;Daniel</a></span>, <a href="../../../author/schuler_benjamin"><b>Schuler</b>&nbsp;Benjamin</a></span>, <a href="../../../author/pfinder_julian"><b>Pfinder</b>&nbsp;Julian</a></span>, <a href="../../../author/garrecht_harald"><b>Garrecht</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span>, <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 111, Iss. 12, pp. 794-805
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Technology%20of%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+technology+of+graded+concrete&as_occt=title&as_sauthors=w%C3%B6rner&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85003545022&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000390350100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201600056" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

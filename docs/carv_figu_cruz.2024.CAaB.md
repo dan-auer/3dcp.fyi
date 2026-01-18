@@ -16,14 +16,15 @@ tags:
 
 #Ceramic AM and Beyond&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">The Potential of Hybrid Construction Systems</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003403890-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-5" target="_blank">10.1201/9781003403890-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003403890-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003403890-5" target="_blank">10.1201/9781003403890-5</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5650-1221" title="ORCID: 0000-0002-5650-1221" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_joao"><b>Carvalho</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b>&nbsp;Paulo</a></span><br>
 Contribution - 3D Printing for Construction in the Transformation of the Building Industry, pp. 96-120
 
 <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Ceramic%20AM%20and%20Beyond" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ceramic+am+and+beyond&as_occt=title&as_sauthors=carvalho&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003403890-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

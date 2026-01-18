@@ -19,14 +19,15 @@ tags:
 ---
 
 #Numerical Assessment of Thermal Bridging Effects in 3D Printed Foam-Concrete Walls ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/2053-1591/ad82ac) <a href="https://doi.org/10.1088/2053-1591/ad82ac" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ad82ac" target="_blank">10.1088/2053-1591/ad82ac</a>
+<a href="https://doi.org/10.1088/2053-1591/ad82ac" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/2053-1591/ad82ac" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ad82ac" target="_blank">10.1088/2053-1591/ad82ac</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-4581-0860" title="ORCID: 0009-0009-4581-0860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chamatete_kunda"><b>Chamatete</b>&nbsp;Kunda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4688-6164" title="ORCID: 0000-0002-4688-6164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b>&nbsp;Çağlar</a></span><br>
 Journal Article - Materials Research Express, Iss. 11
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Assessment%20of%20Thermal%20Bridging%20Effects%20in%203D%20Printed%20Foam-Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+assessment+of+thermal+bridging+effects+in+3d+printed+foam-concrete+walls&as_occt=title&as_sauthors=chamatete&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207051487&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001332106900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/2053-1591/ad82ac" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

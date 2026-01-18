@@ -15,14 +15,15 @@ tags:
 ---
 
 #Geopolymer Formulation for Binder-Jet 3D Printing ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_16" target="_blank">10.1007/978-3-030-49916-7_16</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_16" target="_blank">10.1007/978-3-030-49916-7_16</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8005-1187" title="ORCID: 0000-0002-8005-1187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/voney_vera"><b>Voney</b>&nbsp;Vera</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6939-8366" title="ORCID: 0000-0002-6939-8366" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/odaglia_pietro"><b>Odaglia</b>&nbsp;Pietro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8892-9214" title="ORCID: 0000-0002-8892-9214" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brumaud_coralie"><b>Brumaud</b>&nbsp;Coralie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3533-7896" title="ORCID: 0000-0003-3533-7896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/habert_guillaume"><b>Habert</b>&nbsp;Guillaume</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 153-161
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/jet"><button class="btn">#jet</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geopolymer%20Formulation%20for%20Binder-Jet%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geopolymer+formulation+for+binder-jet+3d+printing&as_occt=title&as_sauthors=voney&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088244173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

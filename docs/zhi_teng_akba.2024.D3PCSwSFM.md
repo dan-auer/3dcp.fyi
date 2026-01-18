@@ -17,14 +17,15 @@ tags:
 ---
 
 #Designing 3D Printed Concrete Structures with Scaled Fabrication Models ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s44223-024-00070-3) <a href="https://doi.org/10.1007/s44223-024-00070-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00070-3" target="_blank">10.1007/s44223-024-00070-3</a>
+<a href="https://doi.org/10.1007/s44223-024-00070-3" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44223-024-00070-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00070-3" target="_blank">10.1007/s44223-024-00070-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_yefan"><b>Zhi</b>&nbsp;Yefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_teng"><b>Teng</b>&nbsp;Teng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span><br>
 Journal Article - Architectural Intelligence, Vol. 3, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printed%20Concrete%20Structures%20with%20Scaled%20Fabrication%20Models" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+3d+printed+concrete+structures+with+scaled+fabrication+models&as_occt=title&as_sauthors=zhi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44223-024-00070-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

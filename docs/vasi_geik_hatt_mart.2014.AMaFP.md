@@ -13,14 +13,15 @@ tags:
 ---
 
 #Advanced Methods and Future Perspectives ([2014-03](date/2014/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-94-017-8884-7_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-94-017-8884-7_5" target="_blank">10.1007/978-94-017-8884-7_5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-94-017-8884-7_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-94-017-8884-7_5" target="_blank">10.1007/978-94-017-8884-7_5</a>
 
 <a href="../../../author/vasilic_ksenija"><b>Vasilić</b>&nbsp;Ksenija</a></span>, <a href="../../../author/geiker_mette"><b>Geiker</b>&nbsp;Mette</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5687-4581" title="ORCID: 0000-0001-5687-4581" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hattel_jesper"><b>Hattel</b>&nbsp;Jesper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1326-0982" title="ORCID: 0000-0002-1326-0982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinie_laetitia"><b>Martinie</b>&nbsp;Laetitia</a></span>, <a href="../../../author/martys_s_nicos"><b>Martys</b>&nbsp;Nicos</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
 Contribution - Simulation of Fresh Concrete Flow, pp. 125-146
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Methods%20and%20Future%20Perspectives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advanced+methods+and+future+perspectives&as_occt=title&as_sauthors=vasili%C4%87&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84980002666&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000342576000006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-94-017-8884-7_5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

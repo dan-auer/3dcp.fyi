@@ -22,14 +22,15 @@ tags:
 
 #Optimizing 3D Geopolymer Concrete for Sustainable Construction&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">A Review of Material Selection, Printing Methods, and Properties</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41062-025-01970-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-01970-7" target="_blank">10.1007/s41062-025-01970-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41062-025-01970-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-01970-7" target="_blank">10.1007/s41062-025-01970-7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7770-1134" title="ORCID: 0000-0002-7770-1134" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maralapalle_vedprakash"><b>Maralapalle</b>&nbsp;Vedprakash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9615-7664" title="ORCID: 0000-0002-9615-7664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumavat_r_hemraj"><b>Kumavat</b>&nbsp;Hemraj</a></span>, <a href="../../../author/nadaf_b_maheboobsab"><b>Nadaf</b>&nbsp;Maheboobsab</a></span>, <a href="../../../author/zende_ahmad_aijaz"><b>Zende</b>&nbsp;Aijaz</a></span>, <a href="../../../author/mishra_sangita_s"><b>Mishra</b>&nbsp;S.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1136-2061" title="ORCID: 0000-0002-1136-2061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/iyer_rajiv"><b>Iyer</b>&nbsp;Rajiv</a></span><br>
 Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 5
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%203D%20Geopolymer%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+3d+geopolymer+concrete+for+sustainable+construction&as_occt=title&as_sauthors=maralapalle&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003304319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41062-025-01970-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

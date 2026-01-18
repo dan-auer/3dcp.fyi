@@ -20,14 +20,15 @@ tags:
 ---
 
 #Fused Filament-Fabrication Printer Modified to Dispense Cement-Paste for Concrete Additive Manufacturing Studies ([2020-11](date/2020/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.6028/jres.125.034) <a href="https://doi.org/10.6028/jres.125.034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.6028/jres.125.034" target="_blank">10.6028/jres.125.034</a>
+<a href="https://doi.org/10.6028/jres.125.034" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.6028/jres.125.034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.6028/jres.125.034" target="_blank">10.6028/jres.125.034</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span><br>
 Journal Article - Journal of Research of the National Institute of Standards and Technology, Vol. 125
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/fusion"><button class="btn">#fusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fused%20Filament-Fabrication%20Printer%20Modified%20to%20Dispense%20Cement-Paste%20for%20Concrete%20Additive%20Manufacturing%20Studies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fused+filament-fabrication+printer+modified+to+dispense+cement-paste+for+concrete+additive+manufacturing+studies&as_occt=title&as_sauthors=jones&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100112974&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000594186000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.6028/jres.125.034" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

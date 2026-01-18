@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Properties of Fiber-Reinforced Cementitious Composites Manufactured Using 3D Printing Technology ([2023-01](date/2023/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-15805-6_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-15805-6_8" target="_blank">10.1007/978-3-031-15805-6_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-15805-6_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-15805-6_8" target="_blank">10.1007/978-3-031-15805-6_8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9154-7056" title="ORCID: 0009-0005-9154-7056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yamamoto_shinya"><b>Yamamoto</b>&nbsp;Shinya</a></span>, <a href="../../../author/abe_hiroyuki"><b>Abe</b>&nbsp;Hiroyuki</a></span><br>
 Contribution - Strain-Hardening Cementitious Composites, pp. 69-78
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Fiber-Reinforced%20Cementitious%20Composites%20Manufactured%20Using%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+fiber-reinforced+cementitious+composites+manufactured+using+3d+printing+technology&as_occt=title&as_sauthors=ogura&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153060193&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-15805-6_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

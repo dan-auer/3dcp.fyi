@@ -8,6 +8,10 @@ search:
 
 # #freeform
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (5)</button></a> <a href="../../keyword/development"><button class="btn">#development (3)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ojeda_juan"><b>Ojeda</b> Juan</a>, <a href="../../../author/grebner_philipp"><b>Grebner</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ojed_greb_knaa_rose.2024.3PwWtFaSLSPfFF/">3D Printing with WAAM to Form and Stiffen Lightweight Steel Panels for Freeform Façades</a></li>
   <li><a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kwon_hyunchul"><b>Kwon</b> Hyunchul</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../amir_bagh_kwon.2024.NRAfFCCTCF3P/">New Reinforcement Approach for Freeform Concrete Components Through Carbon Fiber 3D Printing</a></li>

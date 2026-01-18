@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Jesus Manuel, Pessoa Sofia, Guimarães Ana, Rangel Bárbara, Alves Jorge
+title: Jesus Manuel, Pessoa Ana Sofia, Guimarães Ana, Rangel Bárbara, Alves Jorge
 description:
 tags:
  - construction
@@ -15,12 +15,12 @@ tags:
 ---
 
 #A Reflection on Sustainable Opportunities for 3D Printing in Construction ([2023-06](date/2023/06))
-<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b>&nbsp;Ana Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span><br>
 Contribution - Proceedings of the International Conference on Construction, Energy, Environment and Sustainability
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reflection"><button class="btn">#reflection</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Reflection%20on%20Sustainable%20Opportunities%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+reflection+on+sustainable+opportunities+for+3d+printing+in+construction&as_occt=title&as_sauthors=jesus&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
@@ -72,7 +72,7 @@ Contribution - Proceedings of the International Conference on Construction, Ener
 
     ```bibtex
     @inproceedings{jesu_pess_guim_rang.2023.ARoSOf3PiC,
-      author            = "Manuel Jesus and Sofia Pessoa and Ana Sofia Guimarães and Bárbara Rangel and Jorge Lino Alves",
+      author            = "Manuel Jesus and Ana Sofia Mendes Pessoa and Ana Sofia Guimarães and Bárbara Rangel and Jorge Lino Alves",
       title             = "A Reflection on Sustainable Opportunities for 3D Printing in Construction",
       year              = "2023",
       booktitle         = "Proceedings of the International Conference on Construction, Energy, Environment and Sustainability",
@@ -86,10 +86,10 @@ Contribution - Proceedings of the International Conference on Construction, Ener
 
     === "IEEE"
 
-    <span id="iee">M. Jesus, S. Pessoa, A. S. Guimarães, B. Rangel and J. L. Alves, “A Reflection on Sustainable Opportunities for 3D Printing in Construction”, in <i>Proceedings of the International Conference on Construction, Energy, Environment and Sustainability</i>,  2023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">M. Jesus, A. S. M. Pessoa, A. S. Guimarães, B. Rangel and J. L. Alves, “A Reflection on Sustainable Opportunities for 3D Printing in Construction”, in <i>Proceedings of the International Conference on Construction, Energy, Environment and Sustainability</i>,  2023.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Jesus, Manuel, Sofia Pessoa, Ana Sofia Guimarães, Bárbara Rangel, and Jorge Lino Alves. “A Reflection on Sustainable Opportunities for 3D Printing in Construction”. In <i>Proceedings of the International Conference on Construction, Energy, Environment and Sustainability</i>, edited by Julieta António, Nuno Simões, and Michael Lacasse, 2023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Jesus, Manuel, Ana Sofia Mendes Pessoa, Ana Sofia Guimarães, Bárbara Rangel, and Jorge Lino Alves. “A Reflection on Sustainable Opportunities for 3D Printing in Construction”. In <i>Proceedings of the International Conference on Construction, Energy, Environment and Sustainability</i>, edited by Julieta António, Nuno Simões, and Michael Lacasse, 2023.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

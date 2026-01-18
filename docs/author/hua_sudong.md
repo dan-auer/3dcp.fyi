@@ -9,6 +9,60 @@ search:
 
 #  Hua Sudong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0704-2655" target="_blank">0000-0002-0704-2655</a>
+
+    First Contribution
+    : 2021-06-17
+    
+    Last Contribution
+    : 2025-11-10
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 84
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (6)</li>
+        <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a> (3)</li>
+        <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a> (3)</li>
+        <li><a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> (2)</li>
+        <li><a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>, <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a>, <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>, <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM/">Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials</a> (29)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (18)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (13)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (5)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (5)</li>
+        <li><a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> (5)</li>
+        <li><a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a> (4)</li>
+        <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lu_hua_yue.2025.EoSEASoSWB3PC/">Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete</a></li>
   <li><a href="../../../author/jiang_shangjin"><b>Jiang</b> Shangjin</a>, <a href="../../../author/wang_yuntao"><b>Wang</b> Yuntao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jian_wang_hua_yue.2024.PaPCoLD3PEPFC/">Preparation and Performance Characterization of Low-Density 3D Printed Expanded Perlite-Foam-Concrete</a></li>

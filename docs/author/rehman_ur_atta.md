@@ -9,6 +9,60 @@ search:
 
 #  Rehman Atta 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5870-9616" target="_blank">0000-0002-5870-9616</a>
+
+    First Contribution
+    : 2020-06-15
+    
+    Last Contribution
+    : 2024-09-19
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 555
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> (13)</li>
+        <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a> (4)</li>
+        <li><a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> (3)</li>
+        <li><a href="../../../author/kang_manmin"><b>Kang</b> Manmin</a> (2)</li>
+        <li><a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a> (209)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (52)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (52)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (43)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (42)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (40)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (27)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (16)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (16)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (12)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (12)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/fakhrayee-nejad_siamak"><b>Fakhrayee Nejad</b> Siamak</a>, <a href="../../../author/ng_serina"><b>Ng</b> Serina</a>, <a href="../../../author/bose_baishakhi"><b>Bose</b> Baishakhi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mikh_fakh_ng_bose.2024.PIaAiCP/">Practical Insights and Advances in Concrete Pumping</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_manmin"><b>Kang</b> Manmin</a>, <a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_bash_choi.2024.KCToC/">Knife-Cut-Test of Concrete:<br/>The Introduction of a New Test-Method for Measurement of the Structural Build-Up of 3D Concrete Printing-Materials</a></li>

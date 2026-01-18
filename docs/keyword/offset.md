@@ -8,6 +8,10 @@ search:
 
 # #offset
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/filament"><button class="btn">#filament (2)</button></a> <a href="../../keyword/influence"><button class="btn">#influence (2)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_lopo_scot_cluc.2024.IoPPotDo3PLCCCM/">Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar:<br/>Overlap Between Filaments and Nozzle-Offset</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../liu_tran_nguy_guna.2023.3PoCMwMRCF/">3D Printing of Cementitious Mortar with Milled Recycled Carbon-Fibers:<br/>Influences of Filament Offset on Mechanical Properties</a></li>

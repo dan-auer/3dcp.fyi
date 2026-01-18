@@ -20,14 +20,15 @@ tags:
 ---
 
 #Investigation on Applicability of Spherical Electric Arc-Furnace-Slag as Fine Aggregate in Superplasticizer-Free 3D Printed Concrete ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" target="_blank">10.1016/j.conbuildmat.2021.126104</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.126104" target="_blank">10.1016/j.conbuildmat.2021.126104</a>
 
 <a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/qian_hao"><b>Qian</b>&nbsp;Hao</a></span>, <a href="../../../author/yao_xiao"><b>Yao</b>&nbsp;Xiao</a></span>, <a href="../../../author/gao_yanan"><b>Gao</b>&nbsp;Yanan</a></span>, <a href="../../../author/jiang_fan"><b>Jiang</b>&nbsp;Fan</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 319
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/sphere"><button class="btn">#sphere</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20Applicability%20of%20Spherical%20Electric%20Arc-Furnace-Slag%20as%20Fine%20Aggregate%20in%20Superplasticizer-Free%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+on+applicability+of+spherical+electric+arc-furnace-slag+as+fine+aggregate+in+superplasticizer-free+3d+printed+concrete&as_occt=title&as_sauthors=yue&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121263305&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000736977800002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.126104" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Kim Jung-Hoon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0471-6092" target="_blank">0000-0003-0471-6092</a>
+
+    First Contribution
+    : 2013-11-15
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 17
+
+    Number Citations
+    : 483
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (13)</li>
+        <li><a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a> (4)</li>
+        <li><a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> (3)</li>
+        <li><a href="../../../author/chung_jihoon"><b>Chung</b> Jihoon</a> (2)</li>
+        <li><a href="../../../author/kim_ik-gyeom"><b>Kim</b> Ik-Gyeom</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../rehm_kim.2021.3CP/">3D Concrete Printing:<br/>A Systematic Review of Rheology, Mix Designs, Mechanical, Microstructural, and Durability Characteristics</a> (209)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (48)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (47)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (46)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (44)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (40)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+        <li><a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a> (8)</li>
+        <li><a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> (8)</li>
+        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (8)</li>
+        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_manmin"><b>Kang</b> Manmin</a>, <a href="../../../author/basha_inayath_shaik"><b>Basha</b> Shaik</a>, <a href="../../../author/choi_kichang"><b>Choi</b> Kichang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_bash_choi.2024.KCToC/">Knife-Cut-Test of Concrete:<br/>The Introduction of a New Test-Method for Measurement of the Structural Build-Up of 3D Concrete Printing-Materials</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_kim.2024.NISST/">Nozzle-Integrated Slump-Scanner-Test:<br/>Development of an Automated Shape-Stability and Instantaneous Yield-Stress-Measurement-Method for the Set-on-Demand 3D Concrete Printing</a></li>

@@ -21,14 +21,15 @@ tags:
 
 #Rheology of Fiber-Reinforced Mortar for 3D Printing Construction&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Effect of Recycled Hybrid-Powder and Polyethylene-Fiber</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138126" target="_blank">10.1016/j.conbuildmat.2024.138126</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138126" target="_blank">10.1016/j.conbuildmat.2024.138126</a>
 
 <a href="../../../author/hou_shaodan"><b>Hou</b>&nbsp;Shaodan</a></span>, <a href="../../../author/wu_wenbo"><b>Wu</b>&nbsp;Wenbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5909-1715" title="ORCID: 0000-0002-5909-1715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_zhenhua"><b>Duan</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/zhou_shuai"><b>Zhou</b>&nbsp;Shuai</a></span>, <a href="../../../author/liang_chaofeng"><b>Liang</b>&nbsp;Chaofeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_jun"><b>Ye</b>&nbsp;Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 447, No. 138126
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20of%20Fiber-Reinforced%20Mortar%20for%203D%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+of+fiber-reinforced+mortar+for+3d+printing+construction&as_occt=title&as_sauthors=hou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202838356&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001308452800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138126" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

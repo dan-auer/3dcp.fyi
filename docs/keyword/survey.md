@@ -8,6 +8,10 @@ search:
 
 # #survey
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (1)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../jesu_teix_guim_rang.2025.F3SDoCHAt3PPBoCaLBM/">From 3D Survey Data of Cultural Heritage Artifacts to 3D Printed Prototypes Based on Cement and Lime-Based Mortars</a></li>
   <li><a href="../../../author/khalilidermani_mitra"><b>Khalilidermani</b> Mitra</a>, <a href="../../../author/knez_dariusz"><b>Knez</b> Dariusz</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../khal_knez.2023.ASoEHSwaFoES3PT/">A Survey on Extraterrestrial Habitation Structures with a Focus on Energy-Saving 3D Printing Techniques</a></li>

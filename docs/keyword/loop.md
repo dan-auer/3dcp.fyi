@@ -8,6 +8,10 @@ search:
 
 # #loop
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/closed"><button class="btn">#closed (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a>, <a href="../../../author/ivorra-martinez_juan"><b>Ivorra-Martinez</b> Juan</a>, <a href="../../../author/perejon_antonio"><b>Perejón</b> Antonio</a>, <a href="../../../author/sanchez-jimenez_e_pedro"><b>Sánchez-Jiménez</b> Pedro</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../cast_ivor_pere_sanc.2025.3PMLSfCLTES/">3D-Printed Mineral Limestone Structures for Calcium Looping Thermochemical Energy Storage:<br/>Reactivity and Performance Across Cycles</a></li>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>

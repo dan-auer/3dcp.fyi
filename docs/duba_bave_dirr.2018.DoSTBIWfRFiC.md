@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design of Space-Truss-Based Insulating Walls for Robotic Fabrication in Concrete ([2017-09](date/2017/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-01592008/file/Duballet_DMS_2017.pdf) <a href="https://doi.org/10.1007/978-981-10-6611-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-10-6611-5_39" target="_blank">10.1007/978-981-10-6611-5_39</a>
+<a href="https://hal.archives-ouvertes.fr/hal-01592008/file/Duballet_DMS_2017.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-10-6611-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-10-6611-5_39" target="_blank">10.1007/978-981-10-6611-5_39</a>
 
 <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span><br>
 Contribution - Proceedings of the Design Modelling Symposium, pp. 453-461
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Space-Truss-Based%20Insulating%20Walls%20for%20Robotic%20Fabrication%20in%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+of+space-truss-based+insulating+walls+for+robotic+fabrication+in+concrete&as_occt=title&as_sauthors=duballet&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-10-6611-5_39" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

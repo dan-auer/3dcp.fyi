@@ -14,14 +14,15 @@ tags:
 ---
 
 #Lightweight Reinforced Concrete Slab ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-13249-0_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-13249-0_36" target="_blank">10.1007/978-3-031-13249-0_36</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-13249-0_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-13249-0_36" target="_blank">10.1007/978-3-031-13249-0_36</a>
 
 <a href="../../../author/hansemann_georg"><b>Hansemann</b>&nbsp;Georg</a></span>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b>&nbsp;Christoph</a></span>, <a href="../../../author/schmid_robert"><b>Schmid</b>&nbsp;Robert</a></span>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b>&nbsp;Joshua</a></span>, <a href="../../../author/peters_stefan"><b>Peters</b>&nbsp;Stefan</a></span>, <a href="../../../author/trummer_andreas"><b>Trummer</b>&nbsp;Andreas</a></span><br>
 Contribution - Proceedings of the Design Modelling Symposium, pp. 456-466
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lightweight%20Reinforced%20Concrete%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lightweight+reinforced+concrete+slab&as_occt=title&as_sauthors=hansemann&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196971569&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000870223800036" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-13249-0_36" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

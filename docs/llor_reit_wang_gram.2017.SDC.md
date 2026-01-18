@@ -23,7 +23,7 @@ Contribution - Proceedings of the 11th High-Performance Concrete & 2nd Concrete 
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/flexibility"><button class="btn">#flexibility</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Smart%20Dynamic%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=smart+dynamic+casting&as_occt=title&as_sauthors=lloret-fritschi&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3929/ethz-b-000219663" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

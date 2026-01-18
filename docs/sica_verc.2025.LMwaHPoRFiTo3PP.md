@@ -19,14 +19,15 @@ tags:
 ---
 
 #Lightweight Mixtures with a High Proportion of Recycled Fillers in Terms of 3D Printing Parameters ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.e3s-conferences.org/articles/e3sconf/pdf/2025/67/e3sconf_aee2025_02001.pdf) <a href="https://doi.org/10.1051/e3sconf/202566702001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202566702001" target="_blank">10.1051/e3sconf/202566702001</a>
+<a href="https://www.e3s-conferences.org/articles/e3sconf/pdf/2025/67/e3sconf_aee2025_02001.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/e3sconf/202566702001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202566702001" target="_blank">10.1051/e3sconf/202566702001</a>
 
 <a href="../../../author/sicakova_alena"><b>Sičáková</b>&nbsp;Alena</a></span>, <a href="../../../author/vercimak_dominik"><b>Verčimák</b>&nbsp;Dominik</a></span><br>
 Journal Article - E3S Web of Conferences, Vol. 667, No. 02001
 
 <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lightweight%20Mixtures%20with%20a%20High%20Proportion%20of%20Recycled%20Fillers%20in%20Terms%20of%203D%20Printing%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lightweight+mixtures+with+a+high+proportion+of+recycled+fillers+in+terms+of+3d+printing+parameters&as_occt=title&as_sauthors=si%C4%8D%C3%A1kov%C3%A1&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/e3sconf/202566702001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

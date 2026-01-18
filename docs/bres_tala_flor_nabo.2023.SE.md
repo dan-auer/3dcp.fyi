@@ -18,14 +18,15 @@ tags:
 
 #Shape-Env&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2023_403.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2023.1.539" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.539" target="_blank">10.52842/conf.ecaade.2023.1.539</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2023_403.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2023.1.539" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.539" target="_blank">10.52842/conf.ecaade.2023.1.539</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b>&nbsp;Ardeshir</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-5756-5231" title="ORCID: 0009-0006-5756-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/florenzano_daniele"><b>Florenzano</b>&nbsp;Daniele</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
 Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 539-548
 
 <a href="../../keyword/camera"><button class="btn">#camera</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Shape-Env" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=shape-env&as_occt=title&as_sauthors=breseghello&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171846175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2023.1.539" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of the Rheological Behavior for Alkaline-Activated Cements of Metakaolin and Limestone for Its Potential Application in 3D Printing ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-024-01363-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-024-01363-3" target="_blank">10.1007/s40996-024-01363-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40996-024-01363-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-024-01363-3" target="_blank">10.1007/s40996-024-01363-3</a>
 
 <a href="../../../author/perales-santillan_e_m"><b>Perales-Santillan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4435-7485" title="ORCID: 0000-0003-4435-7485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diaz-aguilera_h_jorge"><b>Díaz-Aguilera</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5896-6006" title="ORCID: 0000-0002-5896-6006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-rangel_manual_jose"><b>Mendoza-Rangel</b>&nbsp;Jose</a></span><br>
 Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20the%20Rheological%20Behavior%20for%20Alkaline-Activated%20Cements%20of%20Metakaolin%20and%20Limestone%20for%20Its%20Potential%20Application%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+the+rheological+behavior+for+alkaline-activated+cements+of+metakaolin+and+limestone+for+its+potential+application+in+3d+printing&as_occt=title&as_sauthors=perales-santillan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184499239&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001158726700002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40996-024-01363-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

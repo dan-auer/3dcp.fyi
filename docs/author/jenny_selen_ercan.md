@@ -9,7 +9,62 @@ search:
 
 #  Jenny Ercan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6974-9296" target="_blank">0000-0001-6974-9296</a>
+
+    First Contribution
+    : 2012-10-12
+    
+    Last Contribution
+    : 2026-01-02
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 64
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (8)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (5)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (5)</li>
+        <li><a href="../../../author/jenny_david"><b>Jenny</b> David</a> (4)</li>
+        <li><a href="../../../author/tsai_ping-hsun"><b>Tsai</b> Ping-Hsun</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (24)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (23)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (22)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (22)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (21)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (10)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (8)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (8)</li>
+        <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> (6)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jenny_david"><b>Jenny</b> David</a>, <a href="../../../author/cutajar_sacha"><b>Cutajar</b> Sacha</a>, <a href="../../../author/chan_yen-fen"><b>Chan</b> Yen-Fen</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jenn_cuta_chan_jenn.2026.EtE/">Earth-to-Earth:<br/>Ultra-Thin 3D-Printed Clay Formwork for in-Situ Earth-Casting</a></li>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>
   <li><a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/gawel_abel"><b>Gawel</b> Abel</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jenn_gawe.2024.SCTOSRF/">Sustainable Construction Through On‐Site Robotic Fabrication:<br/>Past and Future Concepts</a></li>
   <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a>, <a href="../../../author/jenny_david"><b>Jenny</b> David</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../llor_jenn_jenn.2024.ANFoC/">A New Future of Construction:<br/>Digital Fabrication and Sustainability</a></li>

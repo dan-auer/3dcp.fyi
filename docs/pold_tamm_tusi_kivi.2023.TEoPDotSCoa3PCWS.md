@@ -18,14 +18,15 @@ tags:
 ---
 
 #The Effect of Printing-Direction on the Strength Characteristics of a 3D Printed Concrete Wall-Section ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/12/2917/pdf?version=1700722879) <a href="https://doi.org/10.3390/buildings13122917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13122917" target="_blank">10.3390/buildings13122917</a>
+<a href="https://www.mdpi.com/2075-5309/13/12/2917/pdf?version=1700722879" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13122917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13122917" target="_blank">10.3390/buildings13122917</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7959-6449" title="ORCID: 0000-0001-7959-6449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poldaru_mattias"><b>Põldaru</b>&nbsp;Mattias</a></span>, <a href="../../../author/tammkorv_karl"><b>Tammkõrv</b>&nbsp;Karl</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8597-7299" title="ORCID: 0000-0001-8597-7299" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tusik_tanel"><b>Tusik</b>&nbsp;Tanel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8726-070X" title="ORCID: 0000-0001-8726-070X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kiviste_mihkel"><b>Kiviste</b>&nbsp;Mihkel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0349-8348" title="ORCID: 0000-0002-0349-8348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puust_raido"><b>Puust</b>&nbsp;Raido</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 12, No. 2917
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Effect%20of%20Printing-Direction%20on%20the%20Strength%20Characteristics%20of%20a%203D%20Printed%20Concrete%20Wall-Section" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+effect+of+printing-direction+on+the+strength+characteristics+of+a+3d+printed+concrete+wall-section&as_occt=title&as_sauthors=p%C3%B5ldaru&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180617934&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001130643400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13122917" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Spray-Based 3D Concrete Printing-Parameter Design-Model&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Actionable Insight for High Printing Quality</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" target="_blank">10.1016/j.cemconcomp.2024.105446</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105446" target="_blank">10.1016/j.cemconcomp.2024.105446</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/cai_huachong"><b>Cai</b>&nbsp;Huachong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0902-4899" title="ORCID: 0000-0002-0902-4899" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hou_guanyu"><b>Hou</b>&nbsp;Guanyu</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 147, No. 105446
 
 <a href="../../keyword/action"><button class="btn">#action</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Spray-Based%203D%20Concrete%20Printing-Parameter%20Design-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=spray-based+3d+concrete+printing-parameter+design-model&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=EID not found for the given DOI&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001166922900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105446" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

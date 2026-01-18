@@ -18,14 +18,15 @@ tags:
 
 #Polyacrylonitrile-Fiber-Reinforced 3D Printed Concrete&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Effects of Fiber Length and Content</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110869" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110869" target="_blank">10.1016/j.jobe.2024.110869</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.110869" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110869" target="_blank">10.1016/j.jobe.2024.110869</a>
 
 <a href="../../../author/ma_wei"><b>Ma</b>&nbsp;Wei</a></span>, <a href="../../../author/wang_guosheng"><b>Wang</b>&nbsp;Guosheng</a></span>, <a href="../../../author/zhou_yaya"><b>Zhou</b>&nbsp;Yaya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2512-0140" title="ORCID: 0000-0003-2512-0140" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_qinghu"><b>Xu</b>&nbsp;Qinghu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8576-9430" title="ORCID: 0000-0001-8576-9430" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dai_yuntong"><b>Dai</b>&nbsp;Yuntong</a></span><br>
 Journal Article - Journal of Building Engineering, No. 110869
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Polyacrylonitrile-Fiber-Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=polyacrylonitrile-fiber-reinforced+3d+printed+concrete&as_occt=title&as_sauthors=ma&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205433255&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333309100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.110869" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -13,14 +13,15 @@ tags:
 
 #Special Issue&nbsp;([2018-04](date/2018/04))
 <div class="h1-like">NextGen Materials for 3D Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/4/555/pdf?version=1525347074) <a href="https://doi.org/10.3390/ma11040555" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11040555" target="_blank">10.3390/ma11040555</a>
+<a href="https://www.mdpi.com/1996-1944/11/4/555/pdf?version=1525347074" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma11040555" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11040555" target="_blank">10.3390/ma11040555</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4536-6199" title="ORCID: 0000-0003-4536-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chua_kai_chee"><b>Chua</b>&nbsp;Chee</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3640-0877" title="ORCID: 0000-0003-3640-0877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeong_yee_wai"><b>Yeong</b>&nbsp;Wai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5630-5266" title="ORCID: 0000-0001-5630-5266" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_jia"><b>An</b>&nbsp;Jia</a></span><br>
 Journal Article - Materials, Vol. 11, Iss. 4
 
 <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Special%20Issue" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=special+issue&as_occt=title&as_sauthors=chua&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045065640&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000434710200097" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma11040555" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

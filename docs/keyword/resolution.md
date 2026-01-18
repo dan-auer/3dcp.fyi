@@ -8,6 +8,10 @@ search:
 
 # #resolution
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/additive"><button class="btn">#additive (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (2)</button></a> <a href="../../keyword/height"><button class="btn">#height (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../nabo_bres.2022.AF/">Additive Formwork:<br/>Examining Design, Fabrication Space and Resolution for Bespoke Concrete Elements</a></li>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a></li>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Machine Learning-Based Prediction of Compressive Strength in Additive Manufacturing of Concrete Technology ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-8834-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-8834-0_1" target="_blank">10.1007/978-981-96-8834-0_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-8834-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-8834-0_1" target="_blank">10.1007/978-981-96-8834-0_1</a>
 
 <a href="../../../author/verma_shilpi"><b>Verma</b>&nbsp;Shilpi</a></span>, <a href="../../../author/parghi_anant"><b>Parghi</b>&nbsp;Anant</a></span><br>
 Contribution - Recent Advances in Structural Engineering, pp. 1-7
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning-Based%20Prediction%20of%20Compressive%20Strength%20in%20Additive%20Manufacturing%20of%20Concrete%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=machine+learning-based+prediction+of+compressive+strength+in+additive+manufacturing+of+concrete+technology&as_occt=title&as_sauthors=verma&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020822524&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-8834-0_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Camões Aires 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9677-3627" target="_blank">0000-0002-9677-3627</a>
+
+    First Contribution
+    : 2021-08-27
+    
+    Last Contribution
+    : 2026-01-02
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 6
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (4)</li>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (3)</li>
+        <li><a href="../../../author/costa_filipe-pereira-da-cunha_manuel"><b>Costa</b> Manuel</a> (2)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (2)</li>
+        <li><a href="../../../author/teixeira_vasco"><b>Teixeira</b> Vasco</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/segundo_rocha_iran"><b>Segundo</b> Iran</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/freitas_elisabete"><b>Freitas</b> Elisabete</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zaha_segu_pere_frei.2021.DoP3PCM/">Development of Photocatalytic 3D Printed Cementitious Mortars:<br/>Influence of the Curing, Spraying Time-Gaps and TiO2 Coating Rates</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
+        <li><a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> (5)</li>
+        <li><a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> (5)</li>
+        <li><a href="../../../author/pereira_joao"><b>Pereira</b> João</a> (5)</li>
+        <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> (2)</li>
+        <li><a href="../../../author/amjad_hassan"><b>Amjad</b> Hassan</a> (2)</li>
+        <li><a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b> Syed</a> (2)</li>
+        <li><a href="../../../author/imram_muhammad"><b>Imram</b> Muhammad</a> (2)</li>
+        <li><a href="../../../author/khan_ali_shayan"><b>Khan</b> Shayan</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>

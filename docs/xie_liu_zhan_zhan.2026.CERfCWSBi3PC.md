@@ -19,14 +19,15 @@ tags:
 ---
 
 #Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" target="_blank">10.1016/j.cemconcomp.2025.106333</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106333" target="_blank">10.1016/j.cemconcomp.2025.106333</a>
 
 <a href="../../../author/xie_xiangyu"><b>Xie</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6400-8608" title="ORCID: 0000-0001-6400-8608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuemei"><b>Liu</b>&nbsp;Xuemei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4733-031X" title="ORCID: 0000-0002-4733-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_nan"><b>Zhang</b>&nbsp;Nan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_lihai"><b>Zhang</b>&nbsp;Lihai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 165, No. 106333
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/capillary"><button class="btn">#capillary</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slip"><button class="btn">#slip</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Capillary%20Extrusion%20Rheometry%20for%20Characterising%20Wall%20Slip%20Behaviour%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=capillary+extrusion+rheometry+for+characterising+wall+slip+behaviour+in+3d+printed+concrete&as_occt=title&as_sauthors=xie&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016882897&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001584178400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106333" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

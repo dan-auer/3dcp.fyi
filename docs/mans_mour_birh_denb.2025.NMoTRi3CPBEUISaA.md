@@ -19,14 +19,15 @@ tags:
 ---
 
 #Noncontact Measurement of Thermal Resistance in 3D Concrete Printing Building Envelopes Using Infrared Sensing and Arduino ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/htj.70117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/htj.70117" target="_blank">10.1002/htj.70117</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/htj.70117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/htj.70117" target="_blank">10.1002/htj.70117</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6577-0722" title="ORCID: 0000-0002-6577-0722" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mansouri_abraham"><b>Mansouri</b>&nbsp;Abraham</a></span>, <a href="../../../author/mourad_bahaa"><b>Mourad</b>&nbsp;Bahaa</a></span>, <a href="../../../author/birhane_bezawit"><b>Birhane</b>&nbsp;Bezawit</a></span>, <a href="../../../author/denbel_nuhamin"><b>Denbel</b>&nbsp;Nuhamin</a></span>, <a href="../../../author/abreham_redet"><b>Abreham</b>&nbsp;Redet</a></span>, <a href="../../../author/abate_robe"><b>Abate</b>&nbsp;Robe</a></span>, <a href="../../../author/tesfaye_saron"><b>Tesfaye</b>&nbsp;Saron</a></span>, <a href="../../../author/tadesse-ewente_venus"><b>Tadesse Ewente</b>&nbsp;Venus</a></span>, <a href="../../../author/jayan_bejay"><b>Jayan</b>&nbsp;Bejay</a></span><br>
 Journal Article - Heat Transfer
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/infrared"><button class="btn">#infrared</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Noncontact%20Measurement%20of%20Thermal%20Resistance%20in%203D%20Concrete%20Printing%20Building%20Envelopes%20Using%20Infrared%20Sensing%20and%20Arduino" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=noncontact+measurement+of+thermal+resistance+in+3d+concrete+printing+building+envelopes+using+infrared+sensing+and+arduino&as_occt=title&as_sauthors=mansouri&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023449729&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/htj.70117" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

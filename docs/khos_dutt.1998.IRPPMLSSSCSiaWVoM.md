@@ -23,14 +23,15 @@ tags:
 ---
 
 #Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials ([1998-01](date/1998/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10667857.1998.11752766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10667857.1998.11752766" target="_blank">10.1080/10667857.1998.11752766</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/10667857.1998.11752766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10667857.1998.11752766" target="_blank">10.1080/10667857.1998.11752766</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/dutton_rosanne"><b>Dutton</b>&nbsp;Rosanne</a></span><br>
 Journal Article - Materials Technology, Vol. 13, Iss. 2, pp. 53-56
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/smooth"><button class="btn">#smooth</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Innovative%20Rapid%20Prototyping%20Process%20Makes%20Large-Sized%2C%20Smooth-Surfaced%20Complex%20Shapes%20in%20a%20Wide%20Variety%20of%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=innovative+rapid+prototyping+process+makes+large-sized%2C+smooth-surfaced+complex+shapes+in+a+wide+variety+of+materials&as_occt=title&as_sauthors=khoshnevis&as_ylo=1996&as_yhi=2000&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0032083513&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/10667857.1998.11752766" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

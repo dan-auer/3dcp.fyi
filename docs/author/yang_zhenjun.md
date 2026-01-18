@@ -9,6 +9,60 @@ search:
 
 #  Yang Zhenjun 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-08-23
+    
+    Last Contribution
+    : 2025-05-03
+
+    Number Contributions
+    : 4
+
+    Number Citations
+    : 9
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a> (2)</li>
+        <li><a href="../../../author/chi_yin"><b>Chi</b> Yin</a> (1)</li>
+        <li><a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a> (1)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (1)</li>
+        <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a>, <a href="../../../author/li_yaqi"><b>Li</b> Yaqi</a>, <a href="../../../author/qian_qiwei"><b>Qian</b> Qiwei</a>, <a href="../../../author/chi_yin"><b>Chi</b> Yin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../fern_li_qian_chi.2024.EoCAo3PaMPoUHPFRC/">Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (11)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (8)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (7)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (1)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (1)</li>
+        <li><a href="../../../author/wang_fei"><b>Wang</b> Fei</a> (1)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (1)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>
   <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../fern_yang.2025.SaMBoN3UBwDSFaSFCB/">Structural and Microstructural Behavior of Novel 3DP-UHPFRC Beam with Discrete Steel-Fibers and Steel-FRP Composite Bar</a></li>

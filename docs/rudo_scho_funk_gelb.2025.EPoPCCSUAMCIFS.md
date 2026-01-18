@@ -21,14 +21,15 @@ tags:
 ---
 
 #Efficient Production of Pre-Cast Concrete Staircases Using Additive-Manufactured, Component-Integrated Formworks Systems ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-73776-3_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_11" target="_blank">10.1007/978-3-031-73776-3_11</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-73776-3_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_11" target="_blank">10.1007/978-3-031-73776-3_11</a>
 
 <a href="../../../author/rudolph_enrico"><b>Rudolph</b>&nbsp;Enrico</a></span>, <a href="../../../author/schonfelder_daniel"><b>Schönfelder</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/funke_henrik"><b>Funke</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gelbrich_sandra"><b>Gelbrich</b>&nbsp;Sandra</a></span><br>
 Contribution - Environmental Challenges in Civil Engineering III, pp. 160-174
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/stair"><button class="btn">#stair</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Efficient%20Production%20of%20Pre-Cast%20Concrete%20Staircases%20Using%20Additive-Manufactured%2C%20Component-Integrated%20Formworks%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=efficient+production+of+pre-cast+concrete+staircases+using+additive-manufactured%2C+component-integrated+formworks+systems&as_occt=title&as_sauthors=rudolph&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208227610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-73776-3_11" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

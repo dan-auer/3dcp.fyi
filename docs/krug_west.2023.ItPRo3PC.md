@@ -15,14 +15,15 @@ tags:
 ---
 
 #Investigating the Poisson Ratio of 3D Printed Concrete ([2023-03](date/2023/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/5/3225/pdf?version=1677822669) <a href="https://doi.org/10.3390/app13053225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13053225" target="_blank">10.3390/app13053225</a>
+<a href="https://www.mdpi.com/2076-3417/13/5/3225/pdf?version=1677822669" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app13053225" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13053225" target="_blank">10.3390/app13053225</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0090-423X" title="ORCID: 0000-0003-0090-423X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b>&nbsp;Jacques</a></span>, <a href="../../../author/westhuizen_jean-pierre"><b>van der&nbsp;Westhuizen</b>&nbsp;Jean-Pierré</a></span><br>
 Journal Article - Applied Sciences, Vol. 13, Iss. 5
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/poisson"><button class="btn">#poisson</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Poisson%20Ratio%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+poisson+ratio+of+3d+printed+concrete&as_occt=title&as_sauthors=kruger&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149988418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000947592700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app13053225" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

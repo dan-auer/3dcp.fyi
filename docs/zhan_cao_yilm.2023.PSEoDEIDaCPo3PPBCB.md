@@ -22,14 +22,15 @@ tags:
 ---
 
 #Polymer Shape Effect on Damage-Evolution, Internal Defects and Crack Propagation of 3D Printed Polymer-Based Cementitious Backfill ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133386" target="_blank">10.1016/j.conbuildmat.2023.133386</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133386" target="_blank">10.1016/j.conbuildmat.2023.133386</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7203-6801" title="ORCID: 0000-0001-7203-6801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_huan"><b>Zhang</b>&nbsp;Huan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4086-4922" title="ORCID: 0000-0003-4086-4922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_shuai"><b>Cao</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8332-8471" title="ORCID: 0000-0001-8332-8471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yilmaz_erol"><b>Yilmaz</b>&nbsp;Erol</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 406, No. 133386
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Polymer%20Shape%20Effect%20on%20Damage-Evolution%2C%20Internal%20Defects%20and%20Crack%20Propagation%20of%203D%20Printed%20Polymer-Based%20Cementitious%20Backfill" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=polymer+shape+effect+on+damage-evolution%2C+internal+defects+and+crack+propagation+of+3d+printed+polymer-based+cementitious+backfill&as_occt=title&as_sauthors=zhang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171614752&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001106601700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133386" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

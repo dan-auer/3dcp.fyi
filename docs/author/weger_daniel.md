@@ -9,6 +9,60 @@ search:
 
 #  Weger Daniel 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3762-5592" target="_blank">0000-0003-3762-5592</a>
+
+    First Contribution
+    : 2018-01-25
+    
+    Last Contribution
+    : 2025-06-24
+
+    Number Contributions
+    : 25
+
+    Number Citations
+    : 922
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (16)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (11)</li>
+        <li><a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> (8)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (7)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a> (302)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (80)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (71)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (57)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (46)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (80)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (55)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (50)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (34)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gartner_benjamin"><b>Gartner</b> Benjamin</a>, <a href="../../../author/rausch_anne"><b>Rausch</b> Anne</a>, <a href="../../../author/schiessl-pecka_angelika"><b>Schießl-Pecka</b> Angelika</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wege_gart_raus_schi.2024.RoaRSF/">Realization of a Reinforced SPI Façade:<br/>Direction-Dependent Material-Properties and Durability-Assessment</a></li>

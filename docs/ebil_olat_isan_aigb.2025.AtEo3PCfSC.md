@@ -17,14 +17,15 @@ tags:
 
 #Assessing the Effects of 3D-Printed Concrete for Sustainable Construction&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">The Stakeholders' Perspective</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14455/isec.2025.12(1).con-22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).con-22" target="_blank">10.14455/isec.2025.12(1).con-22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14455/isec.2025.12(1).con-22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).con-22" target="_blank">10.14455/isec.2025.12(1).con-22</a>
 
 <a href="../../../author/ebiloma_ojimaojo_david"><b>Ebiloma</b>&nbsp;David</a></span>, <a href="../../../author/olatunbosun_olajumoke"><b>Olatunbosun</b>&nbsp;Olajumoke</a></span>, <a href="../../../author/isang_walter_inimbom"><b>Isang</b>&nbsp;Inimbom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b>&nbsp;Clinton</a></span><br>
 Journal Article - Proceedings of International Structural Engineering and Construction, Vol. 12, Iss. 1
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Effects%20of%203D-Printed%20Concrete%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessing+the+effects+of+3d-printed+concrete+for+sustainable+construction&as_occt=title&as_sauthors=ebiloma&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14455/isec.2025.12(1).con-22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

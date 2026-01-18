@@ -16,14 +16,15 @@ tags:
 ---
 
 #Adaptive Modular Spatial Structures for Shotcrete 3D Printing ([2019-05](date/2019/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2019.2.363" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2019.2.363" target="_blank">10.52842/conf.caadria.2019.2.363</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2019.2.363" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2019.2.363" target="_blank">10.52842/conf.caadria.2019.2.363</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5261-6726" title="ORCID: 0000-0002-5261-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hack_peter_norman"><b>Hack</b>&nbsp;Norman</a></span>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b>&nbsp;Hendrik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
 Contribution - Proceedings of the 24th Conference on Computer Aided Architectural Design Research in Asia, pp. 363-372
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Modular%20Spatial%20Structures%20for%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adaptive+modular+spatial+structures+for+shotcrete+3d+printing&as_occt=title&as_sauthors=hack&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068409640&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2019.2.363" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

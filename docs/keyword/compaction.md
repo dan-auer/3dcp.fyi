@@ -8,6 +8,10 @@ search:
 
 # #compaction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/self"><button class="btn">#self (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (2)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../silf.2024.CCCo3CaSCCStNF/">Composite Concrete Columns of 3DP Concrete and Self-Compacting Concrete Subjected to Normal Force</a></li>
   <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../vare_barl_perr.2023.NMMfNCT/">Nano-Modified Materials for New Construction Technologies:<br/>Self-Compacting and 3D Printing</a></li>

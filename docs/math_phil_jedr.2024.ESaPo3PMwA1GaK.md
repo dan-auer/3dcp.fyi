@@ -21,14 +21,15 @@ tags:
 
 #Enhancing Sustainability and Performance of 3D Printing Mortar with Alccofine 1203, GGBS, and Kaolin&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">Experimental Investigation and Mechanical Characterization</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-024-01481-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-024-01481-y" target="_blank">10.1007/s40996-024-01481-y</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40996-024-01481-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-024-01481-y" target="_blank">10.1007/s40996-024-01481-y</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b>&nbsp;Ashitta</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/philip_nivin"><b>Philip</b>&nbsp;Nivin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b>&nbsp;Agnieszka</a></span><br>
 Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Sustainability%20and%20Performance%20of%203D%20Printing%20Mortar%20with%20Alccofine%201203%2C%20GGBS%2C%20and%20Kaolin" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+sustainability+and+performance+of+3d+printing+mortar+with+alccofine+1203%2C+ggbs%2C+and+kaolin&as_occt=title&as_sauthors=mathew&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194715163&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40996-024-01481-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #Terra Fibrosum&nbsp;([2023-12](date/2023/12))
 <div class="h1-like">Continuous Fibers Reinforcement System for Robotized 3D Printing with Earth for Architecture</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pdf.blucher.com.br/designproceedings/sigradi2023/374.pdf) <a href="https://doi.org/10.5151/sigradi2023-374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-374" target="_blank">10.5151/sigradi2023-374</a>
+<a href="https://pdf.blucher.com.br/designproceedings/sigradi2023/374.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5151/sigradi2023-374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-374" target="_blank">10.5151/sigradi2023-374</a>
 
 <a href="../../../author/pazols_maximiliano"><b>Pazols</b>&nbsp;Maximiliano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7213-4572" title="ORCID: 0000-0002-7213-4572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raspall_felix"><b>Raspall</b>&nbsp;Félix</a></span><br>
 Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. 1394-1405
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Terra%20Fibrosum" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=terra+fibrosum&as_occt=title&as_sauthors=pazols&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5151/sigradi2023-374" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

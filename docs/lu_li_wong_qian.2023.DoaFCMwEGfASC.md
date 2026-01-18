@@ -19,14 +19,15 @@ tags:
 ---
 
 #Development of a Functional Cementitious Mixture with Expanded Graphite for Automated Spray Construction ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-14854" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-14854" target="_blank">10.1061/jmcee7.mteng-14854</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jmcee7.mteng-14854" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-14854" target="_blank">10.1061/jmcee7.mteng-14854</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0148-2879" title="ORCID: 0000-0002-0148-2879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_bing"><b>Lu</b>&nbsp;Bing</a></span>, <a href="../../../author/li_hongliang"><b>Li</b>&nbsp;Hongliang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3191-0827" title="ORCID: 0000-0003-3191-0827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_shunzhi"><b>Qian</b>&nbsp;Shunzhi</a></span><br>
 Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 8
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/graphite"><button class="btn">#graphite</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Functional%20Cementitious%20Mixture%20with%20Expanded%20Graphite%20for%20Automated%20Spray%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+functional+cementitious+mixture+with+expanded+graphite+for+automated+spray+construction&as_occt=title&as_sauthors=lu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160440815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001011005600040" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jmcee7.mteng-14854" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

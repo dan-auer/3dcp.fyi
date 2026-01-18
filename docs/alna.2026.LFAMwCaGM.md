@@ -18,14 +18,15 @@ tags:
 
 #Large Format Additive Manufacturing with Cementitious and Geo Materials&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">General Considerations, Drivers, and Context</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9783527844807.ch9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783527844807.ch9" target="_blank">10.1002/9783527844807.ch9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/9783527844807.ch9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783527844807.ch9" target="_blank">10.1002/9783527844807.ch9</a>
 
 <a href="../../../author/alnaggar_mohammed"><b>Alnaggar</b>&nbsp;Mohammed</a></span><br>
 Contribution - Large Format Additive Manufacturing, pp. 227-244
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/general"><button class="btn">#general</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large%20Format%20Additive%20Manufacturing%20with%20Cementitious%20and%20Geo%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large+format+additive+manufacturing+with+cementitious+and+geo+materials&as_occt=title&as_sauthors=alnaggar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/9783527844807.ch9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -80,6 +81,7 @@ Contribution - Large Format Additive Manufacturing, pp. 227-244
       year              = "2026",
       pages             = "227--244",
       booktitle         = "Large Format Additive Manufacturing: Polymers, Metals, and Ceramics",
+      editor            = "Daniel Moreno Nieto and Daniel Moreno Sánchez and Ahmed A. Hassen and Eric MacDonald and Sergio I. Molina Rubio",
     }
 
 
@@ -93,6 +95,6 @@ Contribution - Large Format Additive Manufacturing, pp. 227-244
 
     === "CMOS"
 
-    <span id="cmos">Alnaggar, Mohammed. “Large Format Additive Manufacturing with Cementitious and Geo Materials: General Considerations, Drivers, and Context”. In <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>, 227–44, 2026. https://doi.org/10.1002/9783527844807.ch9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Alnaggar, Mohammed. “Large Format Additive Manufacturing with Cementitious and Geo Materials: General Considerations, Drivers, and Context”. In <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>, edited by Daniel Moreno Nieto, Daniel Moreno Sánchez, Ahmed A. Hassen, Eric MacDonald, and Sergio I. Molina Rubio, 227–44, 2026. https://doi.org/10.1002/9783527844807.ch9.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

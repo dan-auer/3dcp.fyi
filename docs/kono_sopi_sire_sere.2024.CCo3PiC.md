@@ -18,14 +18,15 @@ tags:
 
 #Constituent Components of 3D Printing in Construction&nbsp;([2024-06](date/2024/06))
 <div class="h1-like">Mixture, Reinforcement and Their Main Characteristics</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1051/e3sconf/202453401009) <a href="https://doi.org/10.1051/e3sconf/202453401009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202453401009" target="_blank">10.1051/e3sconf/202453401009</a>
+<a href="https://doi.org/10.1051/e3sconf/202453401009" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/e3sconf/202453401009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/e3sconf/202453401009" target="_blank">10.1051/e3sconf/202453401009</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4664-8809" title="ORCID: 0000-0003-4664-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/konoplianyk_y_alexander"><b>Konoplianyk</b>&nbsp;Alexander</a></span>, <a href="../../../author/sopilnyak_artem"><b>Sopilnyak</b>&nbsp;Artem</a></span>, <a href="../../../author/sirenok_kyrylo"><b>Sirenok</b>&nbsp;Kyrylo</a></span>, <a href="../../../author/sereda_svitlana"><b>Sereda</b>&nbsp;Svitlana</a></span>, <a href="../../../author/yarova_tetyana"><b>Yarova</b>&nbsp;Tetyana</a></span><br>
 Journal Article - E3S Web of Conferences, Vol. 534, No. 01009
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/constitution"><button class="btn">#constitution</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Constituent%20Components%20of%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=constituent+components+of+3d+printing+in+construction&as_occt=title&as_sauthors=konoplianyk&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196374632&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/e3sconf/202453401009" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

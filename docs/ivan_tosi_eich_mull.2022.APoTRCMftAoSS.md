@@ -24,7 +24,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Production%20of%20Textile%20Reinforced%20Concrete%20Modules%20for%20the%20Assembly%20of%20Shell%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+production+of+textile+reinforced+concrete+modules+for+the+assembly+of+shell+structures&as_occt=title&as_sauthors=ivaniuk&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

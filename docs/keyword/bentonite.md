@@ -8,6 +8,10 @@ search:
 
 # #bentonite
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/modification"><button class="btn">#modification (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>
   <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a></li>

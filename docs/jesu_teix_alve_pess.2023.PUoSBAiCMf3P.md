@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Jesus Manuel, Teixeira João, Alves Jorge, Pessoa Sofia, Guimarães Ana, Rangel Bárbara
+title: Jesus Manuel, Teixeira João, Alves Jorge, Pessoa Ana Sofia, Guimarães Ana, Rangel Bárbara
 description:
 tags:
  - ash
@@ -16,14 +16,15 @@ tags:
 ---
 
 #Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-18130-6_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-18130-6_7" target="_blank">10.1007/978-3-031-18130-6_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-18130-6_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-18130-6_7" target="_blank">10.1007/978-3-031-18130-6_7</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_sofia"><b>Pessoa</b>&nbsp;Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6368-5348" title="ORCID: 0000-0002-6368-5348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b>&nbsp;Ana Sofia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span><br>
 Contribution - Materials Design and Applications IV, pp. 89-103
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Potential%20Use%20of%20Sugarcane-Bagasse-Ash%20in%20Cementitious%20Mortars%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=potential+use+of+sugarcane-bagasse-ash+in+cementitious+mortars+for+3d+printing&as_occt=title&as_sauthors=jesus&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141215516&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-18130-6_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -61,8 +62,9 @@ Contribution - Materials Design and Applications IV, pp. 89-103
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../teix_scha_rang_alve.2021.Do3PSMBoaBA/">Development of 3D Printing Sustainable Mortars Based on a Bibliometric Analysis</a></li>
       <li><a href="../../../author/ting_heng-andrew_guan"><b>Ting</b> Guan</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../ting_tay_qian_tan.2019.UoRGf3CP/">Utilization of Recycled Glass for 3D Concrete Printing:<br/>Rheological and Mechanical Properties</a></li>
     </ol>
-???+ bug "6 Citations"
+???+ bug "7 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_alve.2026.EoPPoCPwAP/">Evaluation of Printing Performance of Cementitious Pastes with Alternative Powders</a></li>
       <li><a href="../../../author/talukdar_h-m-javed-hossain_a"><b>Talukdar</b> A.</a>, <a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a>, <a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a>, <a href="../../../author/zahra_tatheer"><b>Zahra</b> Tatheer</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../talu_bele_fawz_zahr.2026.IotFaMPoLC3PCISBAaM/">Investigation on the Fresh and Mechanical Properties of Low Carbon 3D Printed Concrete Incorporating Sugarcane Bagasse Ash and Microfibers</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
       <li><a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/prathap_y"><b>Prathap</b> Y.</a>, <a href="../../../author/sandeep_ankit"><b>Sandeep</b> Ankit</a>, <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b> Keval</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../das_prat_sand_vagh.2025.RtMSRDaMCo3PC/">Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete</a></li>
@@ -78,7 +80,7 @@ Contribution - Materials Design and Applications IV, pp. 89-103
 
     ```bibtex
     @inproceedings{jesu_teix_alve_pess.2023.PUoSBAiCMf3P,
-      author            = "Manuel Jesus and João Teixeira and Jorge Lino Alves and Sofia Pessoa and Ana Sofia Guimarães and Bárbara Rangel",
+      author            = "Manuel Jesus and João Teixeira and Jorge Lino Alves and Ana Sofia Mendes Pessoa and Ana Sofia Guimarães and Bárbara Rangel",
       title             = "Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing",
       doi               = "10.1007/978-3-031-18130-6_7",
       year              = "2023",
@@ -95,10 +97,10 @@ Contribution - Materials Design and Applications IV, pp. 89-103
 
     === "IEEE"
 
-    <span id="iee">M. Jesus, J. Teixeira, J. L. Alves, S. Pessoa, A. S. Guimarães and B. Rangel, “Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing”, in <i>Materials Design and Applications IV</i>,  2023, vol. 168, pp. 89–103. doi: 10.1007/978-3-031-18130-6_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">M. Jesus, J. Teixeira, J. L. Alves, A. S. M. Pessoa, A. S. Guimarães and B. Rangel, “Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing”, in <i>Materials Design and Applications IV</i>,  2023, vol. 168, pp. 89–103. doi: 10.1007/978-3-031-18130-6_7.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Jesus, Manuel, João Teixeira, Jorge Lino Alves, Sofia Pessoa, Ana Sofia Guimarães, and Bárbara Rangel. “Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing”. In <i>Materials Design and Applications IV</i>, edited by Lucas F. M. da Silva, 168:89–103, 2023. https://doi.org/10.1007/978-3-031-18130-6_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Jesus, Manuel, João Teixeira, Jorge Lino Alves, Ana Sofia Mendes Pessoa, Ana Sofia Guimarães, and Bárbara Rangel. “Potential Use of Sugarcane-Bagasse-Ash in Cementitious Mortars for 3D Printing”. In <i>Materials Design and Applications IV</i>, edited by Lucas F. M. da Silva, 168:89–103, 2023. https://doi.org/10.1007/978-3-031-18130-6_7.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

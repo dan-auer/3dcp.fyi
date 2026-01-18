@@ -22,14 +22,15 @@ tags:
 ---
 
 #Combined Effect of Recycled Tire Steel Fiber and Blast Furnace Slag on the Mechanical Performance of 3D Printable Concrete ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/buildings15244564" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15244564" target="_blank">10.3390/buildings15244564</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15244564" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15244564" target="_blank">10.3390/buildings15244564</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-6037-1105" title="ORCID: 0009-0002-6037-1105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b>&nbsp;Fatih</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <a href="../../../author/isafca-kaya_tugce"><b>İsafça Kaya</b>&nbsp;Tuğçe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 24, No. 4564
 
 <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Combined%20Effect%20of%20Recycled%20Tire%20Steel%20Fiber%20and%20Blast%20Furnace%20Slag%20on%20the%20Mechanical%20Performance%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=combined+effect+of+recycled+tire+steel+fiber+and+blast+furnace+slag+on+the+mechanical+performance+of+3d+printable+concrete&as_occt=title&as_sauthors=akg%C3%BCm%C3%BC%C5%9F&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15244564" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

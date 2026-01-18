@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04777) <a href="https://doi.org/10.1016/j.cscm.2025.e04777" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04777" target="_blank">10.1016/j.cscm.2025.e04777</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04777" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04777" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04777" target="_blank">10.1016/j.cscm.2025.e04777</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span>, <a href="../../../author/yue_ziyi"><b>Yue</b>&nbsp;Ziyi</a></span>, <a href="../../../author/gerong_wangdui"><b>Gerong</b>&nbsp;Wangdui</a></span>, <a href="../../../author/wang_zhenyue"><b>Wang</b>&nbsp;Zhenyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6420-9984" title="ORCID: 0000-0002-6420-9984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiaoyue"><b>Zhang</b>&nbsp;Xiaoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <a href="../../../author/liao_minmao"><b>Liao</b>&nbsp;Minmao</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04777
 
 <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Orthotropy%20and%20Printing%20Patterns%20on%20the%20Bending%20Performance%20of%203D%20Printed%20Concrete%20Grid%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+orthotropy+and+printing+patterns+on+the+bending+performance+of+3d+printed+concrete+grid+components&as_occt=title&as_sauthors=chen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005089723&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001493708400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04777" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

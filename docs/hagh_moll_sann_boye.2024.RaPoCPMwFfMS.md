@@ -25,7 +25,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Printability%20of%20Cement-Paste%20Modified%20with%20Filler%20from%20Manufactured%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+and+printability+of+cement-paste+modified+with+filler+from+manufactured+sand&as_occt=title&as_sauthors=haghighat&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408161157-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

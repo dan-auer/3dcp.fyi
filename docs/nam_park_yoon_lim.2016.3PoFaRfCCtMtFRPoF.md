@@ -19,14 +19,15 @@ tags:
 ---
 
 #3D Printing of Fibers and Reinforcements for Cementitious Composites to Maximize the Fracture-Resisting Performance of FRCCs ([2016-06](date/2016/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc9.234) <a href="https://doi.org/10.21012/fc9.234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc9.234" target="_blank">10.21012/fc9.234</a>
+<a href="https://doi.org/10.21012/fc9.234" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc9.234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc9.234" target="_blank">10.21012/fc9.234</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7182-7211" title="ORCID: 0000-0002-7182-7211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nam_jun_young"><b>Nam</b>&nbsp;Young</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7953-1776" title="ORCID: 0000-0001-7953-1776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_woon_ji"><b>Park</b>&nbsp;Ji</a></span>, <a href="../../../author/yoon_hyun_seung"><b>Yoon</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7169-196X" title="ORCID: 0000-0001-7169-196X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_mook_yun"><b>Lim</b>&nbsp;Yun</a></span><br>
 Contribution - Proceedings of the 9th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/maximum"><button class="btn">#maximum</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Fibers%20and%20Reinforcements%20for%20Cementitious%20Composites%20to%20Maximize%20the%20Fracture-Resisting%20Performance%20of%20FRCCs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+fibers+and+reinforcements+for+cementitious+composites+to+maximize+the+fracture-resisting+performance+of+frccs&as_occt=title&as_sauthors=nam&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc9.234" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

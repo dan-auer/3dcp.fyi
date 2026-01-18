@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete ([2023-05](date/2023/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" target="_blank">10.1016/j.conbuildmat.2023.131859</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131859" target="_blank">10.1016/j.conbuildmat.2023.131859</a>
 
 <a href="../../../author/sasikumar_athira"><b>Sasikumar</b>&nbsp;Athira</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2977-8226" title="ORCID: 0009-0008-2977-8226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b>&nbsp;Dhayalini</a></span>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b>&nbsp;M.</a></span>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b>&nbsp;Vishnuvarthanan</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 392, No. 131859
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Coarse%20Aggregate%20Content%20on%20the%20Rheological%20and%20Buildability%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+coarse+aggregate+content+on+the+rheological+and+buildability+properties+of+3d+printable+concrete&as_occt=title&as_sauthors=sasikumar&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160533914&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001013417500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.131859" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

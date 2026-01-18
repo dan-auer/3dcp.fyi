@@ -15,14 +15,15 @@ tags:
 ---
 
 #Developing 3D Printable Concrete Using Quarry by-Products as Partial Replacement for Cement ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1121&context=c3_2025) <a href="https://doi.org/10.5703/1288284318057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318057" target="_blank">10.5703/1288284318057</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1121&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318057" target="_blank">10.5703/1288284318057</a>
 
 <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b>&nbsp;Tippabhotla</a></span>, <a href="../../../author/chau_bao"><b>Chau</b>&nbsp;Bao</a></span>, <a href="../../../author/tugelbayev_aidyn"><b>Tugelbayev</b>&nbsp;Aidyn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brand_s_alexander"><b>Brand</b>&nbsp;Alexander</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Developing%203D%20Printable%20Concrete%20Using%20Quarry%20by-Products%20as%20Partial%20Replacement%20for%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=developing+3d+printable+concrete+using+quarry+by-products+as+partial+replacement+for+cement&as_occt=title&as_sauthors=kamakshi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318057" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

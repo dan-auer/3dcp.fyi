@@ -16,14 +16,15 @@ tags:
 ---
 
 #CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136894" target="_blank">10.1016/j.conbuildmat.2024.136894</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.136894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136894" target="_blank">10.1016/j.conbuildmat.2024.136894</a>
 
 <a href="../../../author/zhong_kuangnan"><b>Zhong</b>&nbsp;Kuangnan</a></span>, <a href="../../../author/huang_shuai"><b>Huang</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhichao"><b>Liu</b>&nbsp;Zhichao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_fazhou"><b>Wang</b>&nbsp;Fazhou</a></span>, <a href="../../../author/hu_shuguang"><b>Hu</b>&nbsp;Shuguang</a></span>, <a href="../../../author/zhang_wenqin"><b>Zhang</b>&nbsp;Wenqin</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 436, No. 136894
 
 <a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=CO2-Absorbing%203D%20Printable%20Mixtures%20for%20Magnesium-Slag%20Valorization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=co2-absorbing+3d+printable+mixtures+for+magnesium-slag+valorization&as_occt=title&as_sauthors=zhong&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195062512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001255494400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.136894" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

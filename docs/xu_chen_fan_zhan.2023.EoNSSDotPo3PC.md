@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effect of Nano-Silica-Sol Dosage on the Properties of 3D Printed Concrete ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.108090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108090" target="_blank">10.1016/j.jobe.2023.108090</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.108090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.108090" target="_blank">10.1016/j.jobe.2023.108090</a>
 
 <a href="../../../author/xu_ping"><b>Xu</b>&nbsp;Ping</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-5640-0441" title="ORCID: 0009-0003-5640-0441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_tianyu"><b>Chen</b>&nbsp;Tianyu</a></span>, <a href="../../../author/fan_kaijun"><b>Fan</b>&nbsp;Kaijun</a></span>, <a href="../../../author/zhang_minxia"><b>Zhang</b>&nbsp;Minxia</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 80, No. 108090
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Silica-Sol%20Dosage%20on%20the%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+nano-silica-sol+dosage+on+the+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=xu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85176463782&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001112005900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.108090" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

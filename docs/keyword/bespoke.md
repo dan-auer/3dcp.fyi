@@ -8,6 +8,10 @@ search:
 
 # #bespoke
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (3)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/vangen_kathrina"><b>Vangen</b> Kathrina</a>, <a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wang_vang_burg_flat.2024.DFMPSfBLCMCC/">Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components</a></li>
   <li><a href="../../../author/fleckenstein_julia"><b>Fleckenstein</b> Julia</a>, <a href="../../../author/bertagna_federico"><b>Bertagna</b> Federico</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/fechner_mareen"><b>Fechner</b> Mareen</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../flec_bert_picc_fech.2023.RBTAM/">Revisiting Breuer Through Additive Manufacturing:<br/>Passive Solar-Control-Design-Strategies for Bespoke Concrete Building Envelope Elements</a></li>

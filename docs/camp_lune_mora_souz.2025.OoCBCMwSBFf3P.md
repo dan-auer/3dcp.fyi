@@ -17,14 +17,15 @@ tags:
 ---
 
 #Optimization of Clay-Based Ceramic Mixtures with Sugarcane Bagasse Fiber for 3D Printing ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04693) <a href="https://doi.org/10.1016/j.cscm.2025.e04693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04693" target="_blank">10.1016/j.cscm.2025.e04693</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04693" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04693" target="_blank">10.1016/j.cscm.2025.e04693</a>
 
 <a href="../../../author/campos_pante-leme_guilherme"><b>de&nbsp;Campos</b>&nbsp;Guilherme</a></span>, <a href="../../../author/lunelli_sinigaglia_pietro"><b>Lunelli</b>&nbsp;Pietro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2065-383X" title="ORCID: 0000-0002-2065-383X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moraes_guzi_elisangela"><b>de&nbsp;Moraes</b>&nbsp;Elisângela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7831-4451" title="ORCID: 0000-0002-7831-4451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_tramontin_marcelo"><b>Souza</b>&nbsp;Marcelo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0875-139X" title="ORCID: 0000-0002-0875-139X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_pedro-novaes_antonio"><b>de&nbsp;Oliveira</b>&nbsp;Antonio</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04693
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Clay-Based%20Ceramic%20Mixtures%20with%20Sugarcane%20Bagasse%20Fiber%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+of+clay-based+ceramic+mixtures+with+sugarcane+bagasse+fiber+for+3d+printing&as_occt=title&as_sauthors=campos&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003118857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001479500900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04693" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #3D Concrete Printing&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">From Mechanical Properties to Structural Analysis</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32511-3_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32511-3_22" target="_blank">10.1007/978-3-031-32511-3_22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-32511-3_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32511-3_22" target="_blank">10.1007/978-3-031-32511-3_22</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3865-4029" title="ORCID: 0000-0003-3865-4029" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/richter_christiane"><b>Richter</b>&nbsp;Christiane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5858-7508" title="ORCID: 0000-0002-5858-7508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jungwirth_jorg"><b>Jungwirth</b>&nbsp;Jörg</a></span><br>
 Contribution - Proceedings of the fib Symposium 2023, pp. 201-210
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing&as_occt=title&as_sauthors=richter&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164256572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-32511-3_22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #Tailings as a Sustainable Resource in 3D Printed Concrete for the Mining Industry&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">A Literature Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53375-4_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53375-4_7" target="_blank">10.1007/978-3-031-53375-4_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-53375-4_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53375-4_7" target="_blank">10.1007/978-3-031-53375-4_7</a>
 
 <a href="../../../author/alcayaga-restelli_adolfo"><b>Alcayaga Restelli</b>&nbsp;Adolfo</a></span>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b>&nbsp;Siva</a></span>, <a href="../../../author/arrue-munoz_francisco_ramon"><b>Arrué Muñoz</b>&nbsp;Ramón</a></span>, <a href="../../../author/canales_cristian"><b>Canales</b>&nbsp;Cristian</a></span>, <a href="../../../author/gomez_roberto"><b>Gómez</b>&nbsp;Roberto</a></span><br>
 Contribution - Recent Advances on the Mechanical Behavior of Materials, pp. 89-107
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tailings%20as%20a%20Sustainable%20Resource%20in%203D%20Printed%20Concrete%20for%20the%20Mining%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tailings+as+a+sustainable+resource+in+3d+printed+concrete+for+the+mining+industry&as_occt=title&as_sauthors=alcayaga+restelli&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193566963&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001298122200007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-53375-4_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

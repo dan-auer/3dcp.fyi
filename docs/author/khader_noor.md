@@ -9,6 +9,60 @@ search:
 
 #  Khader Noor 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4503-1444" target="_blank">0000-0003-4503-1444</a>
+
+    First Contribution
+    : 2021-06-08
+    
+    Last Contribution
+    : 2024-07-10
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 44
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (2)</li>
+        <li><a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a> (1)</li>
+        <li><a href="../../../author/lopez_william"><b>Lopez</b> William</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/bahar_mohammad"><b>Bahar</b> Mohammad</a>, <a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a>, <a href="../../../author/lopez_william"><b>Lopez</b> William</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../hack_baha_huhn_lope.2021.DoaRBMDDFWPfAMUS3P/">Development of a Robot-Based Multi-Directional Dynamic Fiber Winding Process for Additive Manufacturing Using Shotcrete 3D Printing</a> (29)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (14)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (11)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (8)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (7)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (14)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (11)</li>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (9)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../diel_lach_khad_hack.2024.RR/">Robotic Repair:<br/>In-Place 3D Printing for Repair of Building Components Using a Mobile Robot</a></li>
   <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/gosslar_joschua"><b>Gosslar</b> Joschua</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mai_goss_khad_lowk.2024.WfEB3P/">Workflow for Earth-Based 3D Printing</a></li>

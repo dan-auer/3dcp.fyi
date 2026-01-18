@@ -20,14 +20,15 @@ tags:
 
 #Three-Dimensional Concrete Printing for Sustainable Construction and Architecture&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">A Comprehensive Review</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.36922/jcau025370074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36922/jcau025370074" target="_blank">10.36922/jcau025370074</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.36922/jcau025370074" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.36922/jcau025370074" target="_blank">10.36922/jcau025370074</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-7591-7621" title="ORCID: 0009-0007-7591-7621" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adeel_muhammad"><b>Adeel</b>&nbsp;Muhammad</a></span><br>
 Journal Article - Journal of Chinese Architecture and Urbanism, Vol. 0, Iss. 0, No. 025370074
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Concrete%20Printing%20for%20Sustainable%20Construction%20and%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+concrete+printing+for+sustainable+construction+and+architecture&as_occt=title&as_sauthors=adeel&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.36922/jcau025370074" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 
 #Generative Structural Design&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">A Cross-Platform Design and Optimization Workflow for Additive Manufacturing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_53" target="_blank">10.1007/978-3-031-06116-5_53</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_53" target="_blank">10.1007/978-3-031-06116-5_53</a>
 
 <a href="../../../author/aziz_saqib"><b>Aziz</b>&nbsp;Saqib</a></span>, <a href="../../../author/kim_ji-su"><b>Kim</b>&nbsp;Ji-Su</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4118-3803" title="ORCID: 0000-0003-4118-3803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gengnagel_christoph"><b>Gengnagel</b>&nbsp;Christoph</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 357-363
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Generative%20Structural%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=generative+structural+design&as_occt=title&as_sauthors=aziz&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133212035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_53" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

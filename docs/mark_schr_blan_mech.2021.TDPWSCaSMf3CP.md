@@ -18,14 +18,15 @@ tags:
 ---
 
 #Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51733131) <a href="https://doi.org/10.14359/51733131" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733131" target="_blank">10.14359/51733131</a>
+<a href="https://www.concrete.org/publications/getarticle.aspx?m=icap&pubid=51733131" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733131" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733131" target="_blank">10.14359/51733131</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 301-310
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional-Printed%20Wood-Starch%20Composite%20as%20Support%20Material%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional-printed+wood-starch+composite+as+support+material+for+3d+concrete+printing&as_occt=title&as_sauthors=markin&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122160410&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800026" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733131" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

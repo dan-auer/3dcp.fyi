@@ -17,14 +17,15 @@ tags:
 ---
 
 #Influence of Foaming Agents and Stabilizers on Porosity in 3D Printed Foamed Concrete ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/pr13020403) <a href="https://doi.org/10.3390/pr13020403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13020403" target="_blank">10.3390/pr13020403</a>
+<a href="https://doi.org/10.3390/pr13020403" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/pr13020403" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr13020403" target="_blank">10.3390/pr13020403</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-9444-5699" title="ORCID: 0009-0004-9444-5699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <a href="../../../author/gora_michal"><b>Góra</b>&nbsp;Michał</a></span>, <a href="../../../author/rusin-zurek_karina"><b>Rusin-Żurek</b>&nbsp;Karina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8583-9459" title="ORCID: 0000-0002-8583-9459" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hebda_marek"><b>Hebda</b>&nbsp;Marek</a></span><br>
 Journal Article - Processes, Vol. 13, Iss. 2, No. 403
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stabilizer"><button class="btn">#stabilizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Foaming%20Agents%20and%20Stabilizers%20on%20Porosity%20in%203D%20Printed%20Foamed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+foaming+agents+and+stabilizers+on+porosity+in+3d+printed+foamed+concrete&as_occt=title&as_sauthors=rudziewicz&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218631724&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001429624100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/pr13020403" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

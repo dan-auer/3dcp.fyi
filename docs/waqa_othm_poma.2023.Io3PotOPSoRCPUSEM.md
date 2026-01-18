@@ -17,14 +17,15 @@ tags:
 ---
 
 #Impact of 3D Printing on the Overall Project Success of Residential Construction Projects Using Structural Equation Modelling ([2023-02](date/2023/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1660-4601/20/5/3800/pdf?version=1676972256) <a href="https://doi.org/10.3390/ijerph20053800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ijerph20053800" target="_blank">10.3390/ijerph20053800</a>
+<a href="https://www.mdpi.com/1660-4601/20/5/3800/pdf?version=1676972256" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ijerph20053800" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ijerph20053800" target="_blank">10.3390/ijerph20053800</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1059-0003" title="ORCID: 0000-0002-1059-0003" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waqar_ahsan"><b>Waqar</b>&nbsp;Ahsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6822-8122" title="ORCID: 0000-0001-6822-8122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/othman_idris"><b>Othman</b>&nbsp;Idris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6773-9112" title="ORCID: 0000-0002-6773-9112" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pomares_carlos_juan"><b>Pomares</b>&nbsp;Juan</a></span><br>
 Journal Article - International journal of environmental research and public health, Vol. 20, Iss. 5
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/equation"><button class="btn">#equation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/success"><button class="btn">#success</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%203D%20Printing%20on%20the%20Overall%20Project%20Success%20of%20Residential%20Construction%20Projects%20Using%20Structural%20Equation%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+3d+printing+on+the+overall+project+success+of+residential+construction+projects+using+structural+equation+modelling&as_occt=title&as_sauthors=waqar&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149939878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ijerph20053800" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

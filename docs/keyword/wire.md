@@ -8,6 +8,10 @@ search:
 
 # #wire
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/reinforcement"><button class="btn">#reinforcement (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/steel"><button class="btn">#steel (6)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/yu_fan"><b>Yu</b> Fan</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../lin_ding_yu_li.2025.SSo3pEBTSWMaIT/">Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments</a></li>

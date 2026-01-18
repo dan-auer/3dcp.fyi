@@ -17,14 +17,15 @@ tags:
 ---
 
 #Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://vietnamscience.vjst.vn/index.php/vjste/article/download/1169/426/1834) <a href="https://doi.org/10.31276/vjste.65(4).48-53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31276/vjste.65(4).48-53" target="_blank">10.31276/vjste.65(4).48-53</a>
+<a href="https://vietnamscience.vjst.vn/index.php/vjste/article/download/1169/426/1834" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.31276/vjste.65(4).48-53" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31276/vjste.65(4).48-53" target="_blank">10.31276/vjste.65(4).48-53</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7575-1265" title="ORCID: 0009-0006-7575-1265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/trinh_thanh_duy"><b>Trinh</b>&nbsp;Duy</a></span>, <a href="../../../author/nguyen_hoai-thu_thi"><b>Nguyen</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-5148-7866" title="ORCID: 0009-0007-5148-7866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/do_quang_trong"><b>Do</b>&nbsp;Trong</a></span>, <a href="../../../author/nguyen_anh_phan"><b>Nguyen</b>&nbsp;Phan</a></span><br>
-Journal Article - Ministry of Science and Technology, Vietnam, Vol. 65, Iss. 4, pp. 48-53
+Journal Article - Vietnam Journal of Science, Technology and Engineering, Vol. 65, Iss. 4, pp. 48-53
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Flexural%20Behavior%20of%20Printed%20Concrete%20Wide%20Beams%20Using%20Polypropylene-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+flexural+behavior+of+printed+concrete+wide+beams+using+polypropylene-fibers&as_occt=title&as_sauthors=pham&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.31276/vjste.65(4).48-53" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -80,7 +81,7 @@ Journal Article - Ministry of Science and Technology, Vietnam, Vol. 65, Iss. 4, 
       title             = "Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers",
       doi               = "10.31276/vjste.65(4).48-53",
       year              = "2023",
-      journal           = "Ministry of Science and Technology, Vietnam",
+      journal           = "Vietnam Journal of Science, Technology and Engineering",
       volume            = "65",
       number            = "4",
       pages             = "48--53",
@@ -93,10 +94,10 @@ Journal Article - Ministry of Science and Technology, Vietnam, Vol. 65, Iss. 4, 
 
     === "IEEE"
 
-    <span id="iee">T. L. Pham, D. T. Trinh, T. H. T. Nguyen, T. Q. Do and P. A. Nguyen, “Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers”, <i>Ministry of Science and Technology, Vietnam</i>, vol. 65, no. 4, pp. 48–53, 2023, doi: 10.31276/vjste.65(4).48-53.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">T. L. Pham, D. T. Trinh, T. H. T. Nguyen, T. Q. Do and P. A. Nguyen, “Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers”, <i>Vietnam Journal of Science, Technology and Engineering</i>, vol. 65, no. 4, pp. 48–53, 2023, doi: 10.31276/vjste.65(4).48-53.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Pham, Thi Loan, Duy Thanh Trinh, Thi Hoai Thu Nguyen, Trong Quang Do, and Phan Anh Nguyen. “Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers”. <i>Ministry of Science and Technology, Vietnam</i> 65, no. 4 (2023): 48–53. https://doi.org/10.31276/vjste.65(4).48-53.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Pham, Thi Loan, Duy Thanh Trinh, Thi Hoai Thu Nguyen, Trong Quang Do, and Phan Anh Nguyen. “Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers”. <i>Vietnam Journal of Science, Technology and Engineering</i> 65, no. 4 (2023): 48–53. https://doi.org/10.31276/vjste.65(4).48-53.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

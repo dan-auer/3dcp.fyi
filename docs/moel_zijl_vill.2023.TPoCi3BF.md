@@ -14,14 +14,15 @@ tags:
 ---
 
 #Thermal Performance of Cavities in 3DPC Building Façades ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://www.scielo.org.za/pdf/jsaice/v65n3/04.pdf) <a href="https://doi.org/10.17159/2309-8775/2023/v65n3a4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17159/2309-8775/2023/v65n3a4" target="_blank">10.17159/2309-8775/2023/v65n3a4</a>
+<a href="http://www.scielo.org.za/pdf/jsaice/v65n3/04.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.17159/2309-8775/2023/v65n3a4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17159/2309-8775/2023/v65n3a4" target="_blank">10.17159/2309-8775/2023/v65n3a4</a>
 
 <a href="../../../author/moelich_migael"><b>Moelich</b>&nbsp;Migael</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span><br>
 Journal Article - Journal of the South African Institution of Civil Engineering, Vol. 65, Iss. 3, pp. 39-52
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cavity"><button class="btn">#cavity</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Performance%20of%20Cavities%20in%203DPC%20Building%20Fa%C3%A7ades" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+performance+of+cavities+in+3dpc+building+fa%C3%A7ades&as_occt=title&as_sauthors=moelich&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175002057&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001076344600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.17159/2309-8775/2023/v65n3a4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

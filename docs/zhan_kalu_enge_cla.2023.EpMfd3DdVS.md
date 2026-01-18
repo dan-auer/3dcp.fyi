@@ -17,7 +17,7 @@ Contribution - Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquiu
 
 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Entwicklung%20praxisorientierter%20Methoden%20f%C3%BCr%20den%203D%20Druck%20des%20Verbundwerkstoffs%20Stahlbeton" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=entwicklung+praxisorientierter+methoden+f%C3%BCr+den+3d+druck+des+verbundwerkstoffs+stahlbeton&as_occt=title&as_sauthors=zhang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.18154/rwth-2023-06693" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

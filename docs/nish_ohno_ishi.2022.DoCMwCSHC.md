@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of Cementitious Metamaterial with Compressive Strain-Hardening Characteristics ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_21" target="_blank">10.1007/978-3-031-06116-5_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_21" target="_blank">10.1007/978-3-031-06116-5_21</a>
 
 <a href="../../../author/nishijo_keisuke"><b>Nishijo</b>&nbsp;Keisuke</a></span>, <a href="../../../author/ohno_motohiro"><b>Ohno</b>&nbsp;Motohiro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_tetsuya"><b>Ishida</b>&nbsp;Tetsuya</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 139-144
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cementitious%20Metamaterial%20with%20Compressive%20Strain-Hardening%20Characteristics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+cementitious+metamaterial+with+compressive+strain-hardening+characteristics&as_occt=title&as_sauthors=nishijo&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133162875&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

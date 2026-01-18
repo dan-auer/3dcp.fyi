@@ -8,7 +8,12 @@ search:
 
 # #filament
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (42)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (27)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (12)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (7)</button></a> <a href="../../keyword/material"><button class="btn">#material (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_busw_cava_xu.2026.IoIFVotFMaCSo3PC/">Influence of Inter-Filament Voids on the Failure Mechanism and Compressive Strength of 3D Printed Concrete</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
   <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../most_krug.2025.NOFSTTMBSi3PC/">Numerically Optimised Filament Surface Topology Towards Maximum Bond Strength in 3D Printed Concrete</a></li>
   <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_lakh_bela_merz.2025.FQDtACfFIDOSR3P/">From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #cfd
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/model"><button class="btn">#model (3)</button></a> <a href="../../keyword/flow"><button class="btn">#flow (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/niu_huaxian"><b>Niu</b> Huaxian</a>, <a href="../../../author/yu_bo"><b>Yu</b> Bo</a>, <a href="../../../author/hao_ji"><b>Hao</b> Ji</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../niu_yu_hao.2025.CBFFAoSNi3CP/">CFD-Based Flow Field Analysis of Spiral Nozzles in 3D Concrete Printing</a></li>
   <li><a href="../../../author/gasmi_abrar"><b>Gasmi</b> Abrar</a>, <a href="../../../author/guessasma_mohamed"><b>Guessasma</b> Mohamed</a>, <a href="../../../author/davidovits_ralph"><b>Davidovits</b> Ralph</a>, <a href="../../../author/pelegris_christine"><b>Pélegris</b> Christine</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gasm_gues_davi_pele.2025.UAEi3PGC/">Unveiling Additive Effects in 3D Printed Geopolymer Composites:<br/>A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition</a></li>

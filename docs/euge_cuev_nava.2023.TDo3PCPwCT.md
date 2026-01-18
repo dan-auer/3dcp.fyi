@@ -16,14 +16,15 @@ tags:
 ---
 
 #Temperature-Dependance of 3D Printed Concrete Produced with Copper-Tailings ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/cepa.2829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2829" target="_blank">10.1002/cepa.2829</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cepa.2829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2829" target="_blank">10.1002/cepa.2829</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-3820-8783" title="ORCID: 0009-0009-3820-8783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eugenin_claudia"><b>Eugenin</b>&nbsp;Claudia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1872-1493" title="ORCID: 0000-0002-1872-1493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b>&nbsp;Karla</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span><br>
 Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 802-811
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Temperature-Dependance%20of%203D%20Printed%20Concrete%20Produced%20with%20Copper-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=temperature-dependance+of+3d+printed+concrete+produced+with+copper-tailings&as_occt=title&as_sauthors=eugenin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cepa.2829" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

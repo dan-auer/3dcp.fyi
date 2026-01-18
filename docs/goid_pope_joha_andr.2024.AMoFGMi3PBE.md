@@ -17,14 +17,15 @@ tags:
 ---
 
 #Algorithmic Modeling of Functionally Graded Metamaterials in 3D Printed Building Envelopes ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44223-024-00068-x.pdf) <a href="https://doi.org/10.1007/s44223-024-00068-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00068-x" target="_blank">10.1007/s44223-024-00068-x</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44223-024-00068-x.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44223-024-00068-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00068-x" target="_blank">10.1007/s44223-024-00068-x</a>
 
 <a href="../../../author/goidea_ana"><b>Goidea</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5524-852X" title="ORCID: 0000-0001-5524-852X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/popescu_mariana"><b>Popescu</b>&nbsp;Mariana</a></span>, <a href="../../../author/johansson_tetov_anton"><b>Johansson</b>&nbsp;Anton</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4680-4496" title="ORCID: 0000-0003-4680-4496" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/andreen_david"><b>Andreén</b>&nbsp;David</a></span><br>
 Journal Article - Architectural Intelligence, Vol. 3, Iss. 1
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Algorithmic%20Modeling%20of%20Functionally%20Graded%20Metamaterials%20in%203D%20Printed%20Building%20Envelopes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=algorithmic+modeling+of+functionally+graded+metamaterials+in+3d+printed+building+envelopes&as_occt=title&as_sauthors=goidea&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44223-024-00068-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

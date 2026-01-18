@@ -18,14 +18,15 @@ tags:
 ---
 
 #Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing ([2020-09](date/2020/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10356/148257/2/Variable-geometry%20nozzle%20for%20surface%20quality%20enhancement%20in%203D%20concrete%20printing.pdf) <a href="https://doi.org/10.1016/j.addma.2020.101638" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101638" target="_blank">10.1016/j.addma.2020.101638</a>
+<a href="https://dr.ntu.edu.sg/bitstream/10356/148257/2/Variable-geometry%20nozzle%20for%20surface%20quality%20enhancement%20in%203D%20concrete%20printing.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2020.101638" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2020.101638" target="_blank">10.1016/j.addma.2020.101638</a>
 
 <a href="../../../author/lao_wenxin"><b>Lao</b>&nbsp;Wenxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0074-5101" title="ORCID: 0000-0003-0074-5101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b>&nbsp;Tegoeh</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 37
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Variable-Geometry%20Nozzle%20for%20Surface%20Quality%20Enhancement%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=variable-geometry+nozzle+for+surface+quality+enhancement+in+3d+concrete+printing&as_occt=title&as_sauthors=lao&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85092012016&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000609203100030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2020.101638" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

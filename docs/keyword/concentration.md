@@ -8,6 +8,10 @@ search:
 
 # #concentration
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/stress"><button class="btn">#stress (2)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (1)</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_wang_zhan_liu.2025.SB3PFC/">Spray-Based 3D Printed Foam Concrete:<br/>Stress Concentration Relieve Utilization</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #suspension
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid (2)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (2)</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kand_remk_rang_wani.2025.DaFoTUSSFf3P/">Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing</a></li>
   <li><a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a>, <a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../remk_kand_sant_gadt.2024.AHBCfaSLtSTi3PoS/">A Hybrid Binder Concept for a Swift Liquid-to-Solid Transition in 3D Printing of Suspensions</a></li>

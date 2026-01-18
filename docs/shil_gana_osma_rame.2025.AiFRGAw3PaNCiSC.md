@@ -18,14 +18,15 @@ tags:
 ---
 
 #Advancements in Fiber-Reinforced Geopolymer Along with 3D Printed and Nano Concrete in Sustainable Construction ([2025-08](date/2025/08))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jestch.2025.102162" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jestch.2025.102162" target="_blank">10.1016/j.jestch.2025.102162</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jestch.2025.102162" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jestch.2025.102162" target="_blank">10.1016/j.jestch.2025.102162</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shilar_a_fatheali"><b>Shilar</b>&nbsp;Fatheali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9895-1829" title="ORCID: 0000-0002-9895-1829" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ganachari_v_sharanabasava"><b>Ganachari</b>&nbsp;Sharanabasava</a></span>, <a href="../../../author/osman_a-abu_n"><b>Osman</b>&nbsp;N.</a></span>, <a href="../../../author/ramesh_s"><b>Ramesh</b>&nbsp;S.</a></span>, <a href="../../../author/soudagar_elahi-m_manzoore"><b>Soudagar</b>&nbsp;Manzoore</a></span>, <a href="../../../author/khan_m-yunus_t"><b>Khan</b>&nbsp;T.</a></span>, <a href="../../../author/ghori_waheedullah_syed"><b>Ghori</b>&nbsp;Syed</a></span>, <a href="../../../author/ali_azam_mohammed"><b>Ali</b>&nbsp;Mohammed</a></span><br>
 Journal Article - Engineering Science and Technology, an International Journal, Vol. 70
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancements%20in%20Fiber-Reinforced%20Geopolymer%20Along%20with%203D%20Printed%20and%20Nano%20Concrete%20in%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancements+in+fiber-reinforced+geopolymer+along+with+3d+printed+and+nano+concrete+in+sustainable+construction&as_occt=title&as_sauthors=shilar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012904386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001583417200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jestch.2025.102162" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

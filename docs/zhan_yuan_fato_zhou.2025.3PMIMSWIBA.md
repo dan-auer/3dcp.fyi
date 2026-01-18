@@ -22,14 +22,15 @@ tags:
 
 #3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Linking Hydration to Extrudability and Mechanical Performance</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.clema.2025.100358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clema.2025.100358" target="_blank">10.1016/j.clema.2025.100358</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.clema.2025.100358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clema.2025.100358" target="_blank">10.1016/j.clema.2025.100358</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1912-1414" title="ORCID: 0000-0002-1912-1414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jiao-long"><b>Zhang</b>&nbsp;Jiao-Long</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1542-3028" title="ORCID: 0000-0002-1542-3028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_yong"><b>Yuan</b>&nbsp;Yong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2342-9163" title="ORCID: 0000-0002-2342-9163" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b>&nbsp;Imoleayo</a></span>, <a href="../../../author/zhou_lujie"><b>Zhou</b>&nbsp;Lujie</a></span>, <a href="../../../author/liu_qing"><b>Liu</b>&nbsp;Qing</a></span><br>
 Journal Article - Cleaner Materials, No. 100358
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D-Printable%20Mortars%20Incorporating%20Municipal%20Solid%20Waste%20Incineration%20Bottom%20Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d-printable+mortars+incorporating+municipal+solid+waste+incineration+bottom+ash&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023127842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.clema.2025.100358" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,7 +22,7 @@ Contribution - Proceedings of the 2nd International RILEM Conference on Rheology
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hydration-Control%20of%20Ternary%20Cements%20for%20Digital%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hydration-control+of+ternary+cements+for+digital+fabrication+with+concrete&as_occt=title&as_sauthors=das&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

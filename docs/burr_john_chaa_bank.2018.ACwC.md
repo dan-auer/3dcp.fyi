@@ -20,14 +20,15 @@ tags:
 
 #Automated Construction with Concrete&nbsp;([2018-04](date/2018/04))
 <div class="h1-like">Response of Wall- and Beam-Sections to Blast-Loads</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784481349.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784481349.040" target="_blank">10.1061/9780784481349.040</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784481349.040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784481349.040" target="_blank">10.1061/9780784481349.040</a>
 
 <a href="../../../author/burroughs_f_jedadiah"><b>Burroughs</b>&nbsp;Jedadiah</a></span>, <a href="../../../author/johnson_f_carol"><b>Johnson</b>&nbsp;Carol</a></span>, <a href="../../../author/chaar_k_ghassan"><b>al&nbsp;Chaar</b>&nbsp;Ghassan</a></span>, <a href="../../../author/banko_l_marion"><b>Banko</b>&nbsp;Marion</a></span>, <a href="../../../author/case_p_michael"><b>Case</b>&nbsp;Michael</a></span><br>
 Contribution - Structures Conference 2018, pp. 412-424
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Construction%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+construction+with+concrete&as_occt=title&as_sauthors=burroughs&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85049341418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784481349.040" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

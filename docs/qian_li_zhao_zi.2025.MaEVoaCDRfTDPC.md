@@ -19,14 +19,15 @@ tags:
 ---
 
 #Modeling and Experimental Validation of a Cable-Driven Robot for Three-Dimensional Printing Construction ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/1.4067022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4067022" target="_blank">10.1115/1.4067022</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/1.4067022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/1.4067022" target="_blank">10.1115/1.4067022</a>
 
 <a href="../../../author/qian_sen"><b>Qian</b>&nbsp;Sen</a></span>, <a href="../../../author/li_changqi"><b>Li</b>&nbsp;Changqi</a></span>, <a href="../../../author/zhao_zeyap"><b>Zhao</b>&nbsp;Zeyap</a></span>, <a href="../../../author/zi_bin"><b>Zi</b>&nbsp;Bin</a></span><br>
 Journal Article - Journal of Mechanisms and Robotics, Vol. 17, Iss. 6
 
 <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%20and%20Experimental%20Validation%20of%20a%20Cable-Driven%20Robot%20for%20Three-Dimensional%20Printing%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling+and+experimental+validation+of+a+cable-driven+robot+for+three-dimensional+printing+construction&as_occt=title&as_sauthors=qian&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001099248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001511811000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/1.4067022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

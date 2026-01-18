@@ -22,14 +22,15 @@ tags:
 ---
 
 #Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete ([2025-10](date/2025/10))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.rineng.2025.107809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.107809" target="_blank">10.1016/j.rineng.2025.107809</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.rineng.2025.107809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.107809" target="_blank">10.1016/j.rineng.2025.107809</a>
 
 <a href="../../../author/sedighi_saeed"><b>Sedighi</b>&nbsp;Saeed</a></span>, <a href="../../../author/rahai_alireza"><b>Rahai</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span><br>
 Journal Article - Results in Engineering, No. 107809
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Criteria%20Optimization%20for%20Sustainable%20Concrete%20Mix%20Considering%20the%20Synergistic%20Effect%20of%20Recycled%20Steel%20Fiber%20and%20LC3%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-criteria+optimization+for+sustainable+concrete+mix+considering+the+synergistic+effect+of+recycled+steel+fiber+and+lc3+concrete&as_occt=title&as_sauthors=sedighi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020584125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.rineng.2025.107809" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

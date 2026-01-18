@@ -15,14 +15,15 @@ tags:
 ---
 
 #State of the Art of Mechanical Properties of 3D Printed Concrete ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03847) <a href="https://doi.org/10.1016/j.cscm.2024.e03847" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03847" target="_blank">10.1016/j.cscm.2024.e03847</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03847" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03847" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03847" target="_blank">10.1016/j.cscm.2024.e03847</a>
 
 <a href="../../../author/cai_jianguo"><b>Cai</b>&nbsp;Jianguo</a></span>, <a href="../../../author/wang_jingsong"><b>Wang</b>&nbsp;Jingsong</a></span>, <a href="../../../author/zhang_qian"><b>Zhang</b>&nbsp;Qian</a></span>, <a href="../../../author/du_caixia"><b>Du</b>&nbsp;Caixia</a></span>, <a href="../../../author/meloni_marco"><b>Meloni</b>&nbsp;Marco</a></span>, <a href="../../../author/feng_jian"><b>Feng</b>&nbsp;Jian</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e03847
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=State%20of%20the%20Art%20of%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=state+of+the+art+of+mechanical+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=cai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206684282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001338931600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03847" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

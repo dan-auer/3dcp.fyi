@@ -18,14 +18,15 @@ tags:
 ---
 
 #Improving Homogeneity of 3D Printed Cementitious Material-Distribution for Radial Tool-Path ([2023-03](date/2023/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2311-5521/8/3/87/pdf?version=1677749863) <a href="https://doi.org/10.3390/fluids8030087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fluids8030087" target="_blank">10.3390/fluids8030087</a>
+<a href="https://www.mdpi.com/2311-5521/8/3/87/pdf?version=1677749863" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/fluids8030087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/fluids8030087" target="_blank">10.3390/fluids8030087</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9868-6116" title="ORCID: 0000-0001-9868-6116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhixin"><b>Liu</b>&nbsp;Zhixin</a></span>, <a href="../../../author/ho_yao_jin"><b>Ho</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3029-2521" title="ORCID: 0000-0002-3029-2521" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wong_neng_teck"><b>Wong</b>&nbsp;Teck</a></span><br>
 Journal Article - Fluids, Vol. 8, Iss. 3
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/homogeneity"><button class="btn">#homogeneity</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Homogeneity%20of%203D%20Printed%20Cementitious%20Material-Distribution%20for%20Radial%20Tool-Path" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+homogeneity+of+3d+printed+cementitious+material-distribution+for+radial+tool-path&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151158689&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000955104400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/fluids8030087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

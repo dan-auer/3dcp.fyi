@@ -16,14 +16,15 @@ tags:
 ---
 
 #Use of Polymer Concrete for Large-Scale 3D Printing ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-12-2019-0316" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-12-2019-0316" target="_blank">10.1108/rpj-12-2019-0316</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-12-2019-0316" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-12-2019-0316" target="_blank">10.1108/rpj-12-2019-0316</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5066-7714" title="ORCID: 0000-0002-5066-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krcma_martin"><b>Krčma</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7398-5080" title="ORCID: 0000-0001-7398-5080" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skaroupka_david"><b>Škaroupka</b>&nbsp;David</a></span>, <a href="../../../author/vosynek_petr"><b>Vosynek</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2948-5198" title="ORCID: 0000-0003-2948-5198" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zikmund_tomas"><b>Zikmund</b>&nbsp;Tomáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7397-125X" title="ORCID: 0000-0002-7397-125X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaiser_jozef"><b>Kaiser</b>&nbsp;Jozef</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4668-8763" title="ORCID: 0000-0003-4668-8763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/palousek_david"><b>Paloušek</b>&nbsp;David</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 27, Iss. 3, pp. 465-474
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Polymer%20Concrete%20for%20Large-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=use+of+polymer+concrete+for+large-scale+3d+printing&as_occt=title&as_sauthors=kr%C4%8Dma&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85102191758&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000624497400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-12-2019-0316" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

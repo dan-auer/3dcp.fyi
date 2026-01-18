@@ -8,6 +8,10 @@ search:
 
 # #economic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (10)</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment (5)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
   <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Xia Ming 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5502-6548" target="_blank">0000-0001-5502-6548</a>
+
+    First Contribution
+    : 2017-07-01
+    
+    Last Contribution
+    : 2025-12-08
+
+    Number Contributions
+    : 28
+
+    Number Citations
+    : 1874
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (24)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (22)</li>
+        <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> (8)</li>
+        <li><a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> (5)</li>
+        <li><a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (512)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (40)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (36)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (34)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (34)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (114)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (53)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (52)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (48)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (48)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>
   <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>

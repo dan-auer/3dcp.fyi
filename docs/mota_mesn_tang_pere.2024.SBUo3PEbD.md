@@ -15,14 +15,15 @@ tags:
 ---
 
 #Structural Build-Up of 3D Printed Earth by Drying ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104492" target="_blank">10.1016/j.addma.2024.104492</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2024.104492" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104492" target="_blank">10.1016/j.addma.2024.104492</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3627-6431" title="ORCID: 0000-0003-3627-6431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/motamedi_mahan"><b>Motamedi</b>&nbsp;Mahan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5762-6037" title="ORCID: 0000-0001-5762-6037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesnil_romain"><b>Mesnil</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7149-8497" title="ORCID: 0000-0002-7149-8497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_anh-minh"><b>Tang</b>&nbsp;Anh-Minh</a></span>, <a href="../../../author/pereira_jean-michel"><b>Pereira</b>&nbsp;Jean-Michel</a></span>, <a href="../../../author/baverel_olivier"><b>Baverel</b>&nbsp;Olivier</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 95, No. 104492
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Build-Up%20of%203D%20Printed%20Earth%20by%20Drying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+build-up+of+3d+printed+earth+by+drying&as_occt=title&as_sauthors=motamedi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208099436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001354366400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2024.104492" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

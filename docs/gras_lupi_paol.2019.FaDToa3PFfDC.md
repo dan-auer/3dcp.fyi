@@ -15,14 +15,15 @@ tags:
 ---
 
 #Fabrication and Durability Testing of a 3D Printed Façade for Desert Climates ([2019-05](date/2019/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2019.05.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.05.023" target="_blank">10.1016/j.addma.2019.05.023</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2019.05.023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.05.023" target="_blank">10.1016/j.addma.2019.05.023</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1383-4373" title="ORCID: 0000-0003-1383-4373" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grassi_giulia"><b>Grassi</b>&nbsp;Giulia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1383-3063" title="ORCID: 0000-0003-1383-3063" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lupica-spagnolo_sonia"><b>Lupica Spagnolo</b>&nbsp;Sonia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4169-6126" title="ORCID: 0000-0002-4169-6126" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paoletti_ingrid"><b>Paoletti</b>&nbsp;Ingrid</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 28, pp. 439-444
 
 <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20and%20Durability%20Testing%20of%20a%203D%20Printed%20Fa%C3%A7ade%20for%20Desert%20Climates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication+and+durability+testing+of+a+3d+printed+fa%C3%A7ade+for+desert+climates&as_occt=title&as_sauthors=grassi&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066168804&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000492672300042" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2019.05.023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

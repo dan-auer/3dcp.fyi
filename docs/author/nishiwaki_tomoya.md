@@ -9,6 +9,60 @@ search:
 
 #  Nishiwaki Tomoya 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6745-3141" target="_blank">0000-0001-6745-3141</a>
+
+    First Contribution
+    : 2021-11-01
+    
+    Last Contribution
+    : 2025-10-27
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 26
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kajita_hideyuki"><b>Kajita</b> Hideyuki</a> (5)</li>
+        <li><a href="../../../author/kojima_shotaro"><b>Kojima</b> Shotaro</a> (4)</li>
+        <li><a href="../../../author/miyazawa_yuki"><b>Miyazawa</b> Yuki</a> (4)</li>
+        <li><a href="../../../author/ohno_kazunori"><b>Ohno</b> Kazunori</a> (4)</li>
+        <li><a href="../../../author/okada_yoshito"><b>Okada</b> Yoshito</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a> (10)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (17)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (14)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
+        <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a> (2)</li>
+        <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (2)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
+        <li><a href="../../../author/yu_fan"><b>Yu</b> Fan</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gao_shan"><b>Gao</b> Shan</a>, <a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a>, <a href="../../../author/yuan_jian"><b>Yuan</b> Jian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gao_li_yuan_nish.2025.MPo3PMTM/">Mechanical Properties of 3D-Printed Molybdenum Tailings Mortar</a></li>
   <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a></li>

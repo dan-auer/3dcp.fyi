@@ -8,6 +8,10 @@ search:
 
 # #orientation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (29)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (20)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (17)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (10)</button></a> <a href="../../keyword/base"><button class="btn">#base (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>

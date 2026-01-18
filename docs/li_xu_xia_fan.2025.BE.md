@@ -21,7 +21,7 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
 
 <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/facade"><button class="btn">#facade</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bio-Envelop" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bio-envelop&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

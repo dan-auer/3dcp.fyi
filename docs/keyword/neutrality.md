@@ -8,6 +8,10 @@ search:
 
 # #neutrality
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon (2)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (1)</button></a> <a href="../../keyword/earth"><button class="btn">#earth (1)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bhusal_shiva"><b>Bhusal</b> Shiva</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../bhus_sedg_hoja.2023.EtPaRaMPo3PEMfCNB/">Evaluating the Printability and Rheological and Mechanical Properties of 3D Printed Earthen Mixes for Carbon-Neutral Buildings</a></li>
   <li><a href="../../../author/wang_dingyi"><b>Wang</b> Dingyi</a>, <a href="../../../author/zhang_tingting"><b>Zhang</b> Tingting</a>, <a href="../../../author/guo_xudong"><b>Guo</b> Xudong</a>, <a href="../../../author/ling_dayi"><b>Ling</b> Dayi</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../wang_zhan_guo_ling.2022.TPo3PiFCN/">The Potential of 3D Printing in Facilitating Carbon Neutrality</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Fresh and Hardened Properties of 3D Printing Mortar Modified by Halloysite-Nanotube ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109828" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109828" target="_blank">10.1016/j.jobe.2024.109828</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109828" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109828" target="_blank">10.1016/j.jobe.2024.109828</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b>&nbsp;Mehrdad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zhu"><b>Pan</b>&nbsp;Zhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109828
 
 <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fresh%20and%20Hardened%20Properties%20of%203D%20Printing%20Mortar%20Modified%20by%20Halloysite-Nanotube" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fresh+and+hardened+properties+of+3d+printing+mortar+modified+by+halloysite-nanotube&as_occt=title&as_sauthors=razzaghian+ghadikolaee&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195421039&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001258022500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109828" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

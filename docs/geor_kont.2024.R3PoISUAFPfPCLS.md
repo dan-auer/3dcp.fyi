@@ -24,7 +24,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20on%20Inclined%20Surfaces%20Using%20Adaptive%20Formwork%20Principles%20for%20Prefabricated%20Curve-Like%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+3d+printing+on+inclined+surfaces+using+adaptive+formwork+principles+for+prefabricated+curve-like+structures&as_occt=title&as_sauthors=georgiou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

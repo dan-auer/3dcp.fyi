@@ -9,6 +9,60 @@ search:
 
 #  Ozbulut Osman 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3836-3416" target="_blank">0000-0003-3836-3416</a>
+
+    First Contribution
+    : 2021-03-22
+    
+    Last Contribution
+    : 2025-12-13
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 23
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a> (5)</li>
+        <li><a href="../../../author/ma_ji"><b>Ma</b> Ji</a> (3)</li>
+        <li><a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> (2)</li>
+        <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a> (2)</li>
+        <li><a href="../../../author/jiang_zhangfan"><b>Jiang</b> Zhangfan</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (19)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (11)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (10)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> (2)</li>
+        <li><a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> (2)</li>
+        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (2)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
+        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>
   <li><a href="../../../author/ramezani_mahyar"><b>Ramezani</b> Mahyar</a>, <a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/sherif_m_muhammad"><b>Sherif</b> Muhammad</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rame_kili_sher_arce.2026.RPaMRoBBGEAMCC/">Rheological Properties and Mechanical Response of Bio-Based Graphene Enhanced Additively Manufactured Cementitious Composites</a></li>

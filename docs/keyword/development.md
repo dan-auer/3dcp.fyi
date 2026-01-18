@@ -8,7 +8,12 @@ search:
 
 # #development
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (131)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (94)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (54)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (50)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (38)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wang_deng_liu.2026.RRIaGfRo3PC/">Robotic Rebar Insertion and Grouting for Reinforcement of 3D Printed Concrete:<br/>Technique Development and Bond Behavior Characterization</a></li>
   <li><a href="../../../author/bassi_utkarsh"><b>Bassi</b> Utkarsh</a>, <a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/verma_kumar_yash"><b>Verma</b> Yash</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bass_saha_bish_verm.2026.DAaDoaB3CP/">Design Analysis and Development of a Benchtop 3D Concrete Printer</a></li>
   <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../paul_lee_tay_amr.2025.DS3PCMUOSfCS/">Developing Sustainable 3D Printable Concrete Materials Using Olivine Sand for Carbon Sequestration</a></li>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>

@@ -8,7 +8,12 @@ search:
 
 # #paste
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (69)</button></a> <a href="../../keyword/print"><button class="btn">#print (50)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (28)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (21)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (19)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_alve.2026.EoPPoCPwAP/">Evaluation of Printing Performance of Cementitious Pastes with Alternative Powders</a></li>
   <li><a href="../../../author/jamifar_vahid"><b>Jamifar</b> Vahid</a>, <a href="../../../author/eskandari-naddaf_hamid"><b>Eskandari‐Naddaf</b> Hamid</a>, <a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../jami_eska_dehe.2025.OEAFDUi3PRCPUDODoEaGWO/">Optimizing Electric Arc Furnace Dust Utilization in 3D Printed Reinforced Cement Paste Using D‐Optimal Design of Experiments and Gray Wolf Optimization</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
   <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>

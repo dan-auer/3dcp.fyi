@@ -8,6 +8,10 @@ search:
 
 # #byproduct
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/industry"><button class="btn">#industry (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>
   <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a>, <a href="../../../author/daruari_harish"><b>Daruari</b> Harish</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a>, <a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../hani_daru_figu_mend.2024.ECoSECwNMaBSfR3P/">Embodied Carbon of Structural Earthen Composites with Natural Materials and Byproducts Suitable for Robotic 3D Printing</a></li>

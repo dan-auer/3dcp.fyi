@@ -17,14 +17,15 @@ tags:
 ---
 
 #Thermal and Structural Performance of Cork-Cement Composite for Additive Manufacturing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.ecaade.2024.1.265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.265" target="_blank">10.52842/conf.ecaade.2024.1.265</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2024.1.265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.265" target="_blank">10.52842/conf.ecaade.2024.1.265</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-6648-5524" title="ORCID: 0009-0006-6648-5524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b>&nbsp;Ohad</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3835-8386" title="ORCID: 0009-0009-3835-8386" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larianovsky_pavel"><b>Larianovsky</b>&nbsp;Pavel</a></span>, <a href="../../../author/natanian_jonathan"><b>Natanian</b>&nbsp;Jonathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2621-7350" title="ORCID: 0000-0002-2621-7350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprecher_aaron"><b>Sprecher</b>&nbsp;Aaron</a></span><br>
 Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 265-272
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20and%20Structural%20Performance%20of%20Cork-Cement%20Composite%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+and+structural+performance+of+cork-cement+composite+for+additive+manufacturing&as_occt=title&as_sauthors=meyuhas&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209825909&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2024.1.265" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

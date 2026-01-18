@@ -20,14 +20,15 @@ tags:
 ---
 
 #Interlayer Bonding Shear Performance and Constitutive Model of 3DPC with Different Fine Aggregate Gradations ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" target="_blank">10.1016/j.conbuildmat.2025.142024</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142024" target="_blank">10.1016/j.conbuildmat.2025.142024</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pei_qiang"><b>Pei</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-6980-6189" title="ORCID: 0009-0005-6980-6189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_yingzhu"><b>Zhong</b>&nbsp;Yingzhu</a></span>, <a href="../../../author/wang_shuai"><b>Wang</b>&nbsp;Shuai</a></span>, <a href="../../../author/zhang_luxi"><b>Zhang</b>&nbsp;Luxi</a></span>, <a href="../../../author/lai_yuhao"><b>Lai</b>&nbsp;Yuhao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 486, No. 142024
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interlayer%20Bonding%20Shear%20Performance%20and%20Constitutive%20Model%20of%203DPC%20with%20Different%20Fine%20Aggregate%20Gradations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interlayer+bonding+shear+performance+and+constitutive+model+of+3dpc+with+different+fine+aggregate+gradations&as_occt=title&as_sauthors=pei&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006995367&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001516280500008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

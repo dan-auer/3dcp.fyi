@@ -16,14 +16,15 @@ tags:
 
 #3D Printing Technology in Construction&nbsp;([2019-05](date/2019/05))
 <div class="h1-like">Results from a Survey</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/11250/2605136/2/10-1108_S2516-285320190000002044.pdf) <a href="https://doi.org/10.1108/s2516-285320190000002044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/s2516-285320190000002044" target="_blank">10.1108/s2516-285320190000002044</a>
+<a href="https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/11250/2605136/2/10-1108_S2516-285320190000002044.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1108/s2516-285320190000002044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/s2516-285320190000002044" target="_blank">10.1108/s2516-285320190000002044</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <a href="../../../author/shafqat_ali"><b>Shafqat</b>&nbsp;Ali</a></span>, <a href="../../../author/arica_emrah"><b>Arica</b>&nbsp;Emrah</a></span>, <a href="../../../author/okland_andreas"><b>Økland</b>&nbsp;Andreas</a></span><br>
 Contribution - Proceedings of the 10th Nordic Conference on Construction Economics and Organization, pp. 349-356
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/result"><button class="btn">#result</button></a> <a href="../../keyword/survey"><button class="btn">#survey</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technology%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+technology+in+construction&as_occt=title&as_sauthors=olsson&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090382569&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001316119300041" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/s2516-285320190000002044" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

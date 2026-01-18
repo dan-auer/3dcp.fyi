@@ -14,14 +14,15 @@ tags:
 ---
 
 #Cementitious Mortars for Sustainable 3D Printing ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-08224-4_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-08224-4_52" target="_blank">10.1007/978-3-032-08224-4_52</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-032-08224-4_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-08224-4_52" target="_blank">10.1007/978-3-032-08224-4_52</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1646-4665" title="ORCID: 0000-0002-1646-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_mafalda_ana"><b>Matos</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4166-9379" title="ORCID: 0000-0003-4166-9379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b>&nbsp;Paula</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8353-8663" title="ORCID: 0000-0001-8353-8663" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pinto_nuno"><b>Pinto</b>&nbsp;Nuno</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-6018" title="ORCID: 0000-0001-8626-6018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pimentel_mario"><b>Pimentel</b>&nbsp;Mário</a></span><br>
 Contribution - Proceedings of the 7th International Congress on Recovery, Maintenance and Rehabilitation of Buildings, pp. 613-623
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cementitious%20Mortars%20for%20Sustainable%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cementitious+mortars+for+sustainable+3d+printing&as_occt=title&as_sauthors=matos&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021804639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-032-08224-4_52" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

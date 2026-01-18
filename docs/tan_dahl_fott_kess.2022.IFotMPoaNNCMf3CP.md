@@ -23,14 +23,15 @@ tags:
 
 #Influencing Factors of the Mixing Performance of a Near-Nozzle Continuous Mixer for 3D Concrete Printing&nbsp;([2022-04](date/2022/04))
 <div class="h1-like">An Analysis Based on Spatial-Lacey-Mixing-Index</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.powtec.2022.117414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.powtec.2022.117414" target="_blank">10.1016/j.powtec.2022.117414</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.powtec.2022.117414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.powtec.2022.117414" target="_blank">10.1016/j.powtec.2022.117414</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5388-2890" title="ORCID: 0000-0002-5388-2890" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_yuan"><b>Tan</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1816-3679" title="ORCID: 0000-0003-1816-3679" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b>&nbsp;Maximilian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6392-0371" title="ORCID: 0000-0001-6392-0371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fottner_johannes"><b>Fottner</b>&nbsp;Johannes</a></span>, <a href="../../../author/kessler_stephan"><b>Kessler</b>&nbsp;Stephan</a></span><br>
 Journal Article - Powder Technology, Vol. 403
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influencing%20Factors%20of%20the%20Mixing%20Performance%20of%20a%20Near-Nozzle%20Continuous%20Mixer%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influencing+factors+of+the+mixing+performance+of+a+near-nozzle+continuous+mixer+for+3d+concrete+printing&as_occt=title&as_sauthors=tan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128992080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000798242100007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.powtec.2022.117414" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

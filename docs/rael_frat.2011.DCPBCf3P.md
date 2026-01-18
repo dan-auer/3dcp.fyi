@@ -16,14 +16,15 @@ tags:
 ---
 
 #Developing Concrete Polymer Building Components for 3D Printing ([2011-10](date/2011/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia11_152.content.pdf) <a href="https://doi.org/10.52842/conf.acadia.2011.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2011.152" target="_blank">10.52842/conf.acadia.2011.152</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia11_152.content.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2011.152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2011.152" target="_blank">10.52842/conf.acadia.2011.152</a>
 
 <a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span>, <a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span><br>
 Contribution - Proceedings of the 31st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 152-157
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Developing%20Concrete%20Polymer%20Building%20Components%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=developing+concrete+polymer+building+components+for+3d+printing&as_occt=title&as_sauthors=rael&as_ylo=2009&as_yhi=2013&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2011.152" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Jones Scott 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2415-1957" target="_blank">0000-0003-2415-1957</a>
+
+    First Contribution
+    : 2017-04-26
+    
+    Last Contribution
+    : 2024-09-04
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 1350
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/bentz_p_dale"><b>Bentz</b> Dale</a> (3)</li>
+        <li><a href="../../../author/bentz_r_isaiah"><b>Bentz</b> Isaiah</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (2)</li>
+        <li><a href="../../../author/peltz_a_max"><b>Peltz</b> Max</a> (2)</li>
+        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a> (990)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (32)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (32)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (26)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (26)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (47)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (41)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (38)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (36)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (31)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/mansour_stephan"><b>Mansour</b> Stephan</a>, <a href="../../../author/monkman_sean"><b>Monkman</b> Sean</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krei_krei_mans_monk.2024.ACiP/">Additive Construction in Practice:<br/>Realities of Acceptance Criteria</a></li>
   <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a></li>

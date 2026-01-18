@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheology and Buildability of Sustainable 3D Printed Magnesium-Potassium-Phosphate-Cement Composites Incorporating MgO-SiO2-K2HPO4 ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138048" target="_blank">10.1016/j.conbuildmat.2024.138048</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138048" target="_blank">10.1016/j.conbuildmat.2024.138048</a>
 
 <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/liu_minghao"><b>Liu</b>&nbsp;Minghao</a></span>, <a href="../../../author/kang_aihong"><b>Kang</b>&nbsp;Aihong</a></span>, <a href="../../../author/cai_xianhuan"><b>Cai</b>&nbsp;Xianhuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 446, No. 138048
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Buildability%20of%20Sustainable%203D%20Printed%20Magnesium-Potassium-Phosphate-Cement%20Composites%20Incorporating%20MgO-SiO2-K2HPO4" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+and+buildability+of+sustainable+3d+printed+magnesium-potassium-phosphate-cement+composites+incorporating+mgo-sio2-k2hpo4&as_occt=title&as_sauthors=zhao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202212533&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001320028700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138048" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Path-Planning-Optimization Framework for Concrete-Based Additive Manufacturing Processes ([2020-11](date/2020/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.promfg.2020.10.091) <a href="https://doi.org/10.1016/j.promfg.2020.10.091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.10.091" target="_blank">10.1016/j.promfg.2020.10.091</a>
+<a href="https://doi.org/10.1016/j.promfg.2020.10.091" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.promfg.2020.10.091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.10.091" target="_blank">10.1016/j.promfg.2020.10.091</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7666-2156" title="ORCID: 0000-0001-7666-2156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b>&nbsp;Alexios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2919-1659" title="ORCID: 0000-0003-2919-1659" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bikas_harry"><b>Bikas</b>&nbsp;Harry</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2912-9660" title="ORCID: 0000-0003-2912-9660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b>&nbsp;Panagis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0724-7957" title="ORCID: 0000-0003-0724-7957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stavropoulos_panagiotis"><b>Stavropoulos</b>&nbsp;Panagiotis</a></span><br>
 Journal Article - Procedia Manufacturing, Vol. 51, pp. 649-654
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Path-Planning-Optimization%20Framework%20for%20Concrete-Based%20Additive%20Manufacturing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+path-planning-optimization+framework+for+concrete-based+additive+manufacturing+processes&as_occt=title&as_sauthors=papacharalampopoulos&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099847183&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000863680700090" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.promfg.2020.10.091" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

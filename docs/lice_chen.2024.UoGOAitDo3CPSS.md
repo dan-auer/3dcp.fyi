@@ -18,14 +18,15 @@ tags:
 ---
 
 #Use of Genetic Optimization-Algorithms in the Design of 3D Concrete Printed Shell-Structures ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.ecaade.2024.1.213" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.213" target="_blank">10.52842/conf.ecaade.2024.1.213</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2024.1.213" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.213" target="_blank">10.52842/conf.ecaade.2024.1.213</a>
 
 <a href="../../../author/licen_jurij"><b>Licen</b>&nbsp;Jurij</a></span>, <a href="../../../author/chen_taole"><b>Chen</b>&nbsp;Taole</a></span><br>
 Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 213-222
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Genetic%20Optimization-Algorithms%20in%20the%20Design%20of%203D%20Concrete%20Printed%20Shell-Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=use+of+genetic+optimization-algorithms+in+the+design+of+3d+concrete+printed+shell-structures&as_occt=title&as_sauthors=licen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209780030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2024.1.213" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

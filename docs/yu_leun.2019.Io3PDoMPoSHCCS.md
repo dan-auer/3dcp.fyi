@@ -18,14 +18,15 @@ tags:
 ---
 
 #Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC) ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_24" target="_blank">10.1007/978-3-319-99519-9_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_24" target="_blank">10.1007/978-3-319-99519-9_24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5975-3494" title="ORCID: 0000-0001-5975-3494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_jing"><b>Yu</b>&nbsp;Jing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6811-9281" title="ORCID: 0000-0002-6811-9281" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leung_kin-ying_christopher"><b>Leung</b>&nbsp;Christopher</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 255-265
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%203D%20Printing-Direction%20on%20Mechanical%20Performance%20of%20Strain-Hardening%20Cementitious%20Composite%20%28SHCC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+3d+printing-direction+on+mechanical+performance+of+strain-hardening+cementitious+composite+%28shcc%29&as_occt=title&as_sauthors=yu&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052699653&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600024" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

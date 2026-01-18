@@ -20,14 +20,15 @@ tags:
 
 #Multi-Physics Analysis for Rubber-Cement Applications in Building and Architectural Fields&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">A Preliminary Analysis</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/12/15/5993/pdf) <a href="https://doi.org/10.3390/su12155993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12155993" target="_blank">10.3390/su12155993</a>
+<a href="https://www.mdpi.com/2071-1050/12/15/5993/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su12155993" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su12155993" target="_blank">10.3390/su12155993</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibai_abbas"><b>Sibai</b>&nbsp;Abbas</a></span>, <a href="../../../author/musacchi_ettore"><b>Musacchi</b>&nbsp;Ettore</a></span><br>
 Journal Article - Sustainability, Vol. 12, Iss. 15
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Physics%20Analysis%20for%20Rubber-Cement%20Applications%20in%20Building%20and%20Architectural%20Fields" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-physics+analysis+for+rubber-cement+applications+in+building+and+architectural+fields&as_occt=title&as_sauthors=valente&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089389053&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000559021700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su12155993" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

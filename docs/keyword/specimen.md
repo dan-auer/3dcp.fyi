@@ -8,6 +8,10 @@ search:
 
 # #specimen
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (5)</button></a> <a href="../../keyword/property"><button class="btn">#property (3)</button></a> <a href="../../keyword/test"><button class="btn">#test (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../xu_lin_chen.2025.NIoAi3PCSCtEoWIaPID/">Numerical Investigation of Anisotropic in 3D Printed Concrete Specimens Considering the Effects of Weak Interfaces and Pore-Induced Defects</a></li>
   <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a>, <a href="../../../author/huang_zhongkai"><b>Huang</b> Zhongkai</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_xu_chen_huan.2025.3PCTL/">3D Printed Concrete Tunnel Lining:<br/>Comparative Study on Mechanical Properties of Curved and Straight Printed Specimens</a></li>

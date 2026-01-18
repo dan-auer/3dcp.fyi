@@ -19,14 +19,15 @@ tags:
 ---
 
 #The Printable and Hardened Properties of Nano-Calcium Carbonate with Modified Polypropylene-Fibers for Cement-Based 3D Printing ([2023-02](date/2023/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" target="_blank">10.1016/j.conbuildmat.2023.130594</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.130594" target="_blank">10.1016/j.conbuildmat.2023.130594</a>
 
 <a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6490-2044" title="ORCID: 0000-0001-6490-2044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_zhenhua"><b>Zhou</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/xin_jie"><b>Xin</b>&nbsp;Jie</a></span>, <a href="../../../author/huang_mojia"><b>Huang</b>&nbsp;Mojia</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 369
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Printable%20and%20Hardened%20Properties%20of%20Nano-Calcium%20Carbonate%20with%20Modified%20Polypropylene-Fibers%20for%20Cement-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+printable+and+hardened+properties+of+nano-calcium+carbonate+with+modified+polypropylene-fibers+for+cement-based+3d+printing&as_occt=title&as_sauthors=liu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147545419&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000931820700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.130594" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

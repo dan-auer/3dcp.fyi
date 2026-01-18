@@ -19,14 +19,15 @@ tags:
 ---
 
 #Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.108819" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108819" target="_blank">10.1016/j.istruc.2025.108819</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.108819" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.108819" target="_blank">10.1016/j.istruc.2025.108819</a>
 
 <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b>&nbsp;Darssni</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9011-6928" title="ORCID: 0000-0001-9011-6928" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prem_ranjan_prabhat"><b>Prem</b>&nbsp;Prabhat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8051-8971" title="ORCID: 0000-0002-8051-8971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giridhar_greeshma"><b>Giridhar</b>&nbsp;Greeshma</a></span>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b>&nbsp;Gollapalli</a></span>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b>&nbsp;Srinivasan</a></span><br>
 Journal Article - Structures, Vol. 75, No. 108819
 
 <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Properties%20of%203D-Printed%20UHPC%20with%20Silica%20Sand%2C%20Copper%20Slag%2C%20and%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=time-dependent+properties+of+3d-printed+uhpc+with+silica+sand%2C+copper+slag%2C+and+fibers&as_occt=title&as_sauthors=ravichandran&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001555252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001464560600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.108819" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

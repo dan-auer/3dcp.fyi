@@ -18,14 +18,15 @@ tags:
 ---
 
 #Experimental Study on Structural Performance of Cast-in-Place Frame Printed Concrete Wall ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ijcsm.springeropen.com/counter/pdf/10.1186/s40069-023-00620-5) <a href="https://doi.org/10.1186/s40069-023-00620-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-023-00620-5" target="_blank">10.1186/s40069-023-00620-5</a>
+<a href="https://ijcsm.springeropen.com/counter/pdf/10.1186/s40069-023-00620-5" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1186/s40069-023-00620-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-023-00620-5" target="_blank">10.1186/s40069-023-00620-5</a>
 
 <a href="../../../author/fu_yanan"><b>Fu</b>&nbsp;Yanan</a></span>, <a href="../../../author/zhang_ying"><b>Zhang</b>&nbsp;Ying</a></span>, <a href="../../../author/wu_lei"><b>Wu</b>&nbsp;Lei</a></span><br>
 Journal Article - International Journal of Concrete Structures and Materials, Vol. 17, Iss. 1
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/frame"><button class="btn">#frame</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Structural%20Performance%20of%20Cast-in-Place%20Frame%20Printed%20Concrete%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+structural+performance+of+cast-in-place+frame+printed+concrete+wall&as_occt=title&as_sauthors=fu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175968342&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001096402200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1186/s40069-023-00620-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

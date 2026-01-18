@@ -24,14 +24,15 @@ tags:
 
 #Exploring Viscosity and Friction Through Temperature&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Understanding Self-Heating Dynamics of Non-Newtonian 3D Printable Construction Materials via CFD Modeling</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_54" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_54" target="_blank">10.1007/978-3-031-70031-6_54</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_54" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_54" target="_blank">10.1007/978-3-031-70031-6_54</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 465-473
 
 <a href="../../keyword/cfd"><button class="btn">#cfd</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/friction"><button class="btn">#friction</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/newton"><button class="btn">#newton</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Viscosity%20and%20Friction%20Through%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+viscosity+and+friction+through+temperature&as_occt=title&as_sauthors=jacquet&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203071342&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600054" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_54" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

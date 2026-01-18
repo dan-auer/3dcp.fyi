@@ -14,14 +14,15 @@ tags:
 ---
 
 #Appraising the Feasibility of 3D Printing Construction in New Zealand Housing ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/1084/pdf?version=1712938474) <a href="https://doi.org/10.3390/buildings14041084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041084" target="_blank">10.3390/buildings14041084</a>
+<a href="https://www.mdpi.com/2075-5309/14/4/1084/pdf?version=1712938474" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14041084" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041084" target="_blank">10.3390/buildings14041084</a>
 
 <a href="../../../author/khan_s_mohammad"><b>Khan</b>&nbsp;Mohammad</a></span>, <a href="../../../author/dani_alamsah_aflah"><b>Dani</b>&nbsp;Aflah</a></span>, <a href="../../../author/lim_b-p_james"><b>Lim</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8086-3070" title="ORCID: 0000-0002-8086-3070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roy_krishanu"><b>Roy</b>&nbsp;Krishanu</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 4, No. 1084
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Appraising%20the%20Feasibility%20of%203D%20Printing%20Construction%20in%20New%20Zealand%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=appraising+the+feasibility+of+3d+printing+construction+in+new+zealand+housing&as_occt=title&as_sauthors=khan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191406829&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001210335800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14041084" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

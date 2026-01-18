@@ -23,7 +23,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Ultra-Thin-Layered%203D%20Printed%20Hollow-Core%20Sections%20for%20Concrete%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ultra-thin-layered+3d+printed+hollow-core+sections+for+concrete+casting&as_occt=title&as_sauthors=vatandoost&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140973" target="_blank">10.1016/j.conbuildmat.2025.140973</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.140973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140973" target="_blank">10.1016/j.conbuildmat.2025.140973</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4827-9739" title="ORCID: 0000-0002-4827-9739" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b>&nbsp;Eka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 474, No. 140973
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Printability%20of%203D%20Printing%20Limestone%20Calcined%20Clay%20Cement%20Using%20Hydroxyethyl%20Cellulose%20Admixture%20and%20Silica%20Fume" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+the+printability+of+3d+printing+limestone+calcined+clay+cement+using+hydroxyethyl+cellulose+admixture+and+silica+fume&as_occt=title&as_sauthors=kurniati&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001688862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001465059900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.140973" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

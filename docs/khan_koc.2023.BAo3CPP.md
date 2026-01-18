@@ -20,14 +20,15 @@ tags:
 
 #Buildability-Analysis of 3D Concrete Printing Process&nbsp;([2023-03](date/2023/03))
 <div class="h1-like">A Parametric Study Using Design of Experiment-Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2227-9717/11/3/782/pdf?version=1678443260) <a href="https://doi.org/10.3390/pr11030782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr11030782" target="_blank">10.3390/pr11030782</a>
+<a href="https://www.mdpi.com/2227-9717/11/3/782/pdf?version=1678443260" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/pr11030782" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/pr11030782" target="_blank">10.3390/pr11030782</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4086-6787" title="ORCID: 0000-0002-4086-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_alim_shoukat"><b>Khan</b>&nbsp;Shoukat</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6543-8116" title="ORCID: 0000-0001-6543-8116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koc_muammer"><b>Koç</b>&nbsp;Muammer</a></span><br>
 Journal Article - Processes, Vol. 11, Iss. 3
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Buildability-Analysis%20of%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=buildability-analysis+of+3d+concrete+printing+process&as_occt=title&as_sauthors=khan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152275722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000959827900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/pr11030782" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

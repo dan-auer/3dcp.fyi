@@ -8,6 +8,10 @@ search:
 
 # #raw
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/material"><button class="btn">#material (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (4)</button></a> <a href="../../keyword/review"><button class="btn">#review (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b> Pietro</a>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b> Anthony</a>, <a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../sang_ross_poli_ross.2025.SREBAw3PF/">Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks:<br/>Parametric Modeling, Prototyping, and Laboratory Testing</a></li>
   <li><a href="../../../author/souza_araujo_eduarda"><b>Souza</b> Eduarda</a>, <a href="../../../author/rodrigues-e-silva_de-kassia_rafaela"><b>Rodrigues e Silva</b> Rafaela</a>, <a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b> Paulo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../souz_rodr_ribe.2024.OMftIMaRMfA/">Overburden Materials from the Iron Mining as Raw Materials for AAM:<br/>Preliminary Assessment of Mixes for 3D Concrete Printing</a></li>

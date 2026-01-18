@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.109719) <a href="https://doi.org/10.1016/j.jobe.2024.109719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109719" target="_blank">10.1016/j.jobe.2024.109719</a>
+<a href="https://doi.org/10.1016/j.jobe.2024.109719" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109719" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109719" target="_blank">10.1016/j.jobe.2024.109719</a>
 
 <a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_richard_chunhui"><b>Yang</b>&nbsp;Chunhui</a></span>, <a href="../../../author/mahil_ahmed"><b>Mahil</b>&nbsp;Ahmed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1912-8277" title="ORCID: 0000-0003-1912-8277" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_x_yixia"><b>Zhang</b>&nbsp;Yixia</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109719
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Review%20on%20Fresh%20and%20Rheological%20Properties%20of%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comprehensive+review+on+fresh+and+rheological+properties+of+3d+printable+cementitious+composites&as_occt=title&as_sauthors=rahman&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193933306&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001247590900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109719" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #magnetism
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (4)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/huang_junxiang"><b>Huang</b> Junxiang</a>, <a href="../../../author/peng_zeqin"><b>Peng</b> Zeqin</a>, <a href="../../../author/tan_xianzhong"><b>Tan</b> Xianzhong</a>, <a href="../../../author/gong_guofang"><b>Gong</b> Guofang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../huan_peng_tan_gong.2025.MAotMFA3PSFRC/">Mechanism Analysis of the Magnetic Field-Assisted 3D Printed Steel-Fiber-Reinforced Concrete</a></li>

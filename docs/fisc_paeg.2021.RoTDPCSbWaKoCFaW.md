@@ -20,14 +20,15 @@ tags:
 ---
 
 #Reinforcement of Three-Dimensional-Printed Concrete Structures by Weaving and Knitting of Continuous Fibers and Wires ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733127" target="_blank">10.14359/51733127</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733127" target="_blank">10.14359/51733127</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0663-3143" title="ORCID: 0000-0003-0663-3143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_gregor"><b>Fischer</b>&nbsp;Gregor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8063-0664" title="ORCID: 0000-0002-8063-0664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paegle_ieva"><b>Paegle</b>&nbsp;Ieva</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 255-262
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/knit"><button class="btn">#knit</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20of%20Three-Dimensional-Printed%20Concrete%20Structures%20by%20Weaving%20and%20Knitting%20of%20Continuous%20Fibers%20and%20Wires" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reinforcement+of+three-dimensional-printed+concrete+structures+by+weaving+and+knitting+of+continuous+fibers+and+wires&as_occt=title&as_sauthors=fischer&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122062768&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800022" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733127" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

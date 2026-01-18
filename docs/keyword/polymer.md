@@ -8,7 +8,12 @@ search:
 
 # #polymer
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (45)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (30)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (19)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (12)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (12)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_xin"><b>Zhang</b> Xin</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_xu_liu_sun.2026.EEWAi3PCwSPfHP/">Enhancing Electromagnetic Wave Absorption in 3D-Printed Concrete with Superabsorbent Polymers for High Performance</a></li>
   <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
   <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/oh_gyujong"><b>Oh</b> Gyujong</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM/">Effects of the Combined Incorporation of Superabsorbent Polymers and Polyvinyl Alcohol Fibers on Material Properties of 3D Printable Mortar:<br/>Rheology, Shrinkage, and Mechanical Behavior</a></li>
   <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zeng_jian_yan_sun.2025.3PoCCFRPRfCC/">3D Printing of Continuous Carbon Fiber-Reinforced Polymer Reinforcement for Concrete Columns</a></li>

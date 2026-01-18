@@ -13,14 +13,15 @@ tags:
 ---
 
 #Industrialising Concrete 3D Printing ([2020-04](date/2020/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2307/j.ctv13xprf6.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xprf6.31" target="_blank">10.2307/j.ctv13xprf6.31</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2307/j.ctv13xprf6.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xprf6.31" target="_blank">10.2307/j.ctv13xprf6.31</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3964-305X" title="ORCID: 0000-0002-3964-305X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b>&nbsp;Justin</a></span>, <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <a href="../../../author/bouyssou_charles"><b>Bouyssou</b>&nbsp;Charles</a></span>, <a href="../../../author/mallet_alban"><b>Mallet</b>&nbsp;Alban</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span>, <a href="../../../author/zakeri_mahriz"><b>Zakeri</b>&nbsp;Mahriz</a></span><br>
 Contribution - Design Transactions, pp. 158-165
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Industrialising%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=industrialising+concrete+3d+printing&as_occt=title&as_sauthors=gaudilli%C3%A8re-jami&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/j.ctv13xprf6.31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

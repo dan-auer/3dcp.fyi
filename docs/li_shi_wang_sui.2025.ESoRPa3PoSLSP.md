@@ -17,14 +17,15 @@ tags:
 ---
 
 #Experimental Study on Rheological Properties and 3D Printing of Simulated Lunar Soil Polymers ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112256" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112256" target="_blank">10.1016/j.jobe.2025.112256</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112256" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112256" target="_blank">10.1016/j.jobe.2025.112256</a>
 
 <a href="../../../author/li_liqing"><b>Li</b>&nbsp;Liqing</a></span>, <a href="../../../author/shi_zhenkun"><b>Shi</b>&nbsp;Zhenkun</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <a href="../../../author/sui_yi"><b>Sui</b>&nbsp;Yi</a></span>, <a href="../../../author/meng_siyuan"><b>Meng</b>&nbsp;Siyuan</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 104, No. 112256
 
 <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Rheological%20Properties%20and%203D%20Printing%20of%20Simulated%20Lunar%20Soil%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+rheological+properties+and+3d+printing+of+simulated+lunar+soil+polymers&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219660584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001442848900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112256" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

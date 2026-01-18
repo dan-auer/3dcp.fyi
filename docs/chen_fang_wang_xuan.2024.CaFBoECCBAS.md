@@ -21,14 +21,15 @@ tags:
 
 #Compressive and Flexural Behavior of Engineered Cementitious Composites-Based Auxetic Structures&nbsp;([2024-03](date/2024/03))
 <div class="h1-like">An Experimental and Numerical Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108999" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108999" target="_blank">10.1016/j.jobe.2024.108999</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.108999" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108999" target="_blank">10.1016/j.jobe.2024.108999</a>
 
 <a href="../../../author/chen_meng"><b>Chen</b>&nbsp;Meng</a></span>, <a href="../../../author/fang_shuai"><b>Fang</b>&nbsp;Shuai</a></span>, <a href="../../../author/wang_guangquan"><b>Wang</b>&nbsp;Guangquan</a></span>, <a href="../../../author/xuan_yiwei"><b>Xuan</b>&nbsp;Yiwei</a></span>, <a href="../../../author/gao_dianwei"><b>Gao</b>&nbsp;Dianwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9315-5209" title="ORCID: 0000-0002-9315-5209" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_mingzhong"><b>Zhang</b>&nbsp;Mingzhong</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 86, No. 108999
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Compressive%20and%20Flexural%20Behavior%20of%20Engineered%20Cementitious%20Composites-Based%20Auxetic%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=compressive+and+flexural+behavior+of+engineered+cementitious+composites-based+auxetic+structures&as_occt=title&as_sauthors=chen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187207462&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001202562700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.108999" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

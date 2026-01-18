@@ -20,14 +20,15 @@ tags:
 ---
 
 #An Indirect Methodology to Evaluate the Rheological Properties of a Digitally Fabricated Concrete Incorporating Corrosion Inhibitors ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70281-5_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_34" target="_blank">10.1007/978-3-031-70281-5_34</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70281-5_34" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_34" target="_blank">10.1007/978-3-031-70281-5_34</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2763-1430" title="ORCID: 0000-0002-2763-1430" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soave_francesco"><b>Soave</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1224-5449" title="ORCID: 0000-0002-1224-5449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b>&nbsp;Giovanni</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
 Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 301-309
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corrosion"><button class="btn">#corrosion</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/inhibitor"><button class="btn">#inhibitor</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Indirect%20Methodology%20to%20Evaluate%20the%20Rheological%20Properties%20of%20a%20Digitally%20Fabricated%20Concrete%20Incorporating%20Corrosion%20Inhibitors" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+indirect+methodology+to+evaluate+the+rheological+properties+of+a+digitally+fabricated+concrete+incorporating+corrosion+inhibitors&as_occt=title&as_sauthors=soave&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208925479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001462588000034" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70281-5_34" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

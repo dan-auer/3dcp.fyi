@@ -8,6 +8,10 @@ search:
 
 # #speed
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/influence"><button class="btn">#influence (3)</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle (3)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a>, <a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../apsa_tamb_supr_sury.2025.IoPSaNSoBo3PCW/">Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls:<br/>A Nonlinear Finite Element Study</a></li>
   <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>

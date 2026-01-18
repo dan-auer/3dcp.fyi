@@ -9,6 +9,60 @@ search:
 
 #  Markelow Maxim 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2025-07-06
+    
+    Last Contribution
+    : 2025-07-06
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 2
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kasprzhitskii_anton"><b>Kasprzhitskii</b> Anton</a> (1)</li>
+        <li><a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a> (1)</li>
+        <li><a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> (1)</li>
+        <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (1)</li>
+        <li><a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (6)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (4)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
+        <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (3)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/he_gang"><b>He</b> Gang</a> (1)</li>
+        <li><a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> (1)</li>
+        <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> (1)</li>
+        <li><a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> (1)</li>
+        <li><a href="../../../author/zhang_xiaoling"><b>Zhang</b> Xiaoling</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b> Georgy</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../raza_krav_besk_lazo.2025.3PoRMfSC/">3D Printing of Recycled Materials for Sustainable Construction:<br/>A Comprehensive Economic and Life Cycle Assessment</a></li>
 </ol>

@@ -21,14 +21,15 @@ tags:
 
 #Modifying Effect of Anionic Polyacrylamide Dose for Cement-Based 3DP Materials&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Printability and Mechanical Performance Tests</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" target="_blank">10.1016/j.conbuildmat.2022.127156</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127156" target="_blank">10.1016/j.conbuildmat.2022.127156</a>
 
 <a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/huang_mojia"><b>Huang</b>&nbsp;Mojia</a></span>, <a href="../../../author/xin_jie"><b>Xin</b>&nbsp;Jie</a></span>, <a href="../../../author/chen_pengfei"><b>Chen</b>&nbsp;Pengfei</a></span>, <a href="../../../author/wu_si"><b>Wu</b>&nbsp;Si</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 330
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modifying%20Effect%20of%20Anionic%20Polyacrylamide%20Dose%20for%20Cement-Based%203DP%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modifying+effect+of+anionic+polyacrylamide+dose+for+cement-based+3dp+materials&as_occt=title&as_sauthors=liu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127019180&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000788063300003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.127156" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

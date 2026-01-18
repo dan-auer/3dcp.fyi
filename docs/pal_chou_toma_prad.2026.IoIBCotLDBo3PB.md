@@ -20,14 +20,15 @@ tags:
 
 #Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">A Numerical Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-9712-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-9712-0_1" target="_blank">10.1007/978-981-96-9712-0_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-9712-0_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-9712-0_1" target="_blank">10.1007/978-981-96-9712-0_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pal_biswajit"><b>Pal</b>&nbsp;Biswajit</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chourasia_ajay"><b>Chourasia</b>&nbsp;Ajay</a></span>, <a href="../../../author/tomar_milan"><b>Tomar</b>&nbsp;Milan</a></span>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b>&nbsp;Kumar</a></span><br>
 Contribution - Futuristic Trends in Structural Engineering, pp. 1-15
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/deflection"><button class="btn">#deflection</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Interfilament%20Bond%20Characteristics%20on%20the%20Load%E2%80%93Deflection%20Behavior%20of%203D%20Printed%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+interfilament+bond+characteristics+on+the+load%E2%80%93deflection+behavior+of+3d+printed+beam&as_occt=title&as_sauthors=pal&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-9712-0_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

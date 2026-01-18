@@ -9,6 +9,60 @@ search:
 
 #  Hack Norman 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5261-6726" target="_blank">0000-0002-5261-6726</a>
+
+    First Contribution
+    : 2013-09-01
+    
+    Last Contribution
+    : 2025-12-12
+
+    Number Contributions
+    : 52
+
+    Number Citations
+    : 2093
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (29)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (22)</li>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (12)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (9)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a> (482)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (94)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (83)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (82)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (76)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (60)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (124)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (114)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (90)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (71)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (61)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacobi_ando"><b>Jacobi</b> Ando</a>, <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../jaco_zoll_hack_mai.2025.EoPPRiI3CP/">Encasement of Pre-Placed Reinforcement in Injection 3D Concrete Printing:<br/>The Effect of Rheology and Process Parameters</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>

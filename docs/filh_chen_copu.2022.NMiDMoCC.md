@@ -15,14 +15,15 @@ tags:
 ---
 
 #Nano-Modification in Digital Manufacturing of Cementitious Composites ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3Abb73c05f-fd29-4e11-97a6-5a2b46cce0ff/datastream/OBJ/download) <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" target="_blank">10.1016/b978-0-323-85229-6.00009-3</a>
+<a href="https://repository.tudelft.nl/islandora/object/uuid%3Abb73c05f-fd29-4e11-97a6-5a2b46cce0ff/datastream/OBJ/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-85229-6.00009-3" target="_blank">10.1016/b978-0-323-85229-6.00009-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3240-6024" title="ORCID: 0000-0003-3240-6024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/filho_franca-de-mendonca_fernando"><b>Filho</b>&nbsp;Fernando</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3399-9036" title="ORCID: 0000-0003-3399-9036" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yu"><b>Chen</b>&nbsp;Yu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2727-8577" title="ORCID: 0000-0002-2727-8577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b>&nbsp;Oğuzhan</a></span><br>
 Contribution - Recent Advances in Nano-Tailored Multi-Functional Cementitious Composites, pp. 251-275
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Nano-Modification%20in%20Digital%20Manufacturing%20of%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=nano-modification+in+digital+manufacturing+of+cementitious+composites&as_occt=title&as_sauthors=filho&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138345815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-323-85229-6.00009-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

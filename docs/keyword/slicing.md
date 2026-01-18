@@ -8,6 +8,10 @@ search:
 
 # #slicing
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/planar"><button class="btn">#planar (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/information"><button class="btn">#information (2)</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm (1)</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a>, <a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a>, <a href="../../../author/li_yichuan"><b>Li</b> Yichuan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../meib_kamh_foro_li.2026.NPSfHGSwNCI/">Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/yau_man_ho"><b>Yau</b> Ho</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_yau_lomb.2025.SINPSf3CP/">Stress-Informed Non-Planar Slicing for 3D Concrete Printing</a></li>

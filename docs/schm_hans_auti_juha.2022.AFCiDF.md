@@ -15,14 +15,15 @@ tags:
 ---
 
 #Adaptive Foam-Concrete in Digital Fabrication ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_4" target="_blank">10.1007/978-3-031-06116-5_4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_4" target="_blank">10.1007/978-3-031-06116-5_4</a>
 
 <a href="../../../author/schmid_robert"><b>Schmid</b>&nbsp;Robert</a></span>, <a href="../../../author/hansemann_georg"><b>Hansemann</b>&nbsp;Georg</a></span>, <a href="../../../author/autischer_michael"><b>Autischer</b>&nbsp;Michael</a></span>, <a href="../../../author/juhart_joachim"><b>Juhart</b>&nbsp;Joachim</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 22-28
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Foam-Concrete%20in%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adaptive+foam-concrete+in+digital+fabrication&as_occt=title&as_sauthors=schmid&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133166737&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

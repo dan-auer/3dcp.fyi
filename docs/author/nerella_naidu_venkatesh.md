@@ -9,6 +9,60 @@ search:
 
 #  Nerella Venkatesh 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8580-5320" target="_blank">0000-0002-8580-5320</a>
+
+    First Contribution
+    : 2013-12-25
+    
+    Last Contribution
+    : 2025-01-31
+
+    Number Contributions
+    : 44
+
+    Number Citations
+    : 4444
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (5)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (4)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (710)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (126)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (108)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (107)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (89)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (80)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (268)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (152)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (131)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (108)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (103)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/alos-shepherd_david"><b>Alós Shepherd</b> David</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/degen_robin"><b>Degen</b> Robin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../alos_dehn_kuhn_dege.2025.3CPoSWCSwTCP/">3D Concrete Printing of Solid Wall Cross-Sections with Truckmounted Concrete Pump:<br/>A Report on the First Printed Structure in Germany</a></li>
   <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>

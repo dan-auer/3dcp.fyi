@@ -9,6 +9,60 @@ search:
 
 #  Ghaffar Seyed 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-4694-9508" target="_blank">0000-0002-4694-9508</a>
+
+    First Contribution
+    : 2018-05-12
+    
+    Last Contribution
+    : 2025-06-23
+
+    Number Contributions
+    : 26
+
+    Number Citations
+    : 684
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> (16)</li>
+        <li><a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> (9)</li>
+        <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Al Noaimat</b> Yazeed</a> (8)</li>
+        <li><a href="../../../author/kheetan_j_mazen"><b>al Kheetan</b> Mazen</a> (7)</li>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a> (135)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (64)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (59)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (53)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (44)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (40)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (24)</li>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (18)</li>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (16)</li>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (16)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a></li>
   <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/seidy_eslam"><b>Seidy</b> Eslam</a>, <a href="../../../author/albar_m_abdulrahman"><b>Albar</b> Abdulrahman</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../noai_chou_seid_alba.2025.OLCCCfE3PPoLCM/">Optimizing Limestone Calcined Clay Cement for Enhanced 3D Printing Performance of Low-Carbon Materials</a></li>

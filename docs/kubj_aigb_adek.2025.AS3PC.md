@@ -18,14 +18,15 @@ tags:
 
 #Advancing Sustainable 3D-Printed Concrete&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">A Bibliometric Study on Financing Housing Options</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2025/05/matecconf_eppm-zec2024_02002.pdf) <a href="https://doi.org/10.1051/matecconf/202541102002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202541102002" target="_blank">10.1051/matecconf/202541102002</a>
+<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2025/05/matecconf_eppm-zec2024_02002.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/202541102002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202541102002" target="_blank">10.1051/matecconf/202541102002</a>
 
 <a href="../../../author/kubjana_lucy"><b>Kubjana</b>&nbsp;Lucy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b>&nbsp;Clinton</a></span>, <a href="../../../author/adekunle_peter"><b>Adekunle</b>&nbsp;Peter</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 411, No. 02002
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/finance"><button class="btn">#finance</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainable%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+sustainable+3d-printed+concrete&as_occt=title&as_sauthors=kubjana&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/202541102002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

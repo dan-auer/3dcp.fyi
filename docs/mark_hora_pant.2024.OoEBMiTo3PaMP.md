@@ -20,14 +20,15 @@ tags:
 
 #Optimization of Earth-Based Mixtures in Terms of 3D Printability and Mechanical Properties&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">Feasibility Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_6" target="_blank">10.1007/978-3-031-62690-6_6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-62690-6_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_6" target="_blank">10.1007/978-3-031-62690-6_6</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2601-8316" title="ORCID: 0000-0003-2601-8316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markovic_ivan"><b>Markovic</b>&nbsp;Ivan</a></span>, <a href="../../../author/horat_alexandra"><b>Horat</b>&nbsp;Alexandra</a></span>, <a href="../../../author/pantellini_danilo"><b>Pantellini</b>&nbsp;Danilo</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 52-59
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Earth-Based%20Mixtures%20in%20Terms%20of%203D%20Printability%20and%20Mechanical%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+of+earth-based+mixtures+in+terms+of+3d+printability+and+mechanical+properties&as_occt=title&as_sauthors=markovic&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200440521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001290430600006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-62690-6_6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

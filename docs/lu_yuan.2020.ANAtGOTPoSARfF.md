@@ -17,14 +17,15 @@ tags:
 ---
 
 #A New Algorithm to Get Optimized Target Plane on Six-Axis Robot for Fabrication ([2020-08](date/2020/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2020_062.pdf) <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" target="_blank">10.52842/conf.caadria.2020.2.393</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2020_062.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2020.2.393" target="_blank">10.52842/conf.caadria.2020.2.393</a>
 
 <a href="../../../author/lu_ming"><b>Lu</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
 Contribution - Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia, pp. 393-402
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/six"><button class="btn">#six</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Algorithm%20to%20Get%20Optimized%20Target%20Plane%20on%20Six-Axis%20Robot%20for%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+new+algorithm+to+get+optimized+target+plane+on+six-axis+robot+for+fabrication&as_occt=title&as_sauthors=lu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2020.2.393" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

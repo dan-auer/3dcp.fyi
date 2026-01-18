@@ -25,7 +25,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 86-93
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+printing&as_occt=title&as_sauthors=vasey&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

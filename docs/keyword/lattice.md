@@ -8,6 +8,10 @@ search:
 
 # #lattice
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (21)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (17)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (10)</button></a> <a href="../../keyword/model"><button class="btn">#model (7)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sant_raph_sant.2025.C3PoSOLBINIP/">Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns</a></li>
   <li><a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/yu_ke"><b>Yu</b> Ke</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM/">Numerical Simulation of 3D Printed Ultra High-Performance Concrete Using the Lattice Discrete Particle Model</a></li>

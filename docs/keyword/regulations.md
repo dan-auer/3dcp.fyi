@@ -8,6 +8,10 @@ search:
 
 # #regulations
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/component"><button class="btn">#component (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
   <li><a href="../../../author/posani_magda"><b>Posani</b> Magda</a>, <a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/du_yi"><b>Du</b> Yi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../posa_vone_odag_du.2025.LCIHRv3PSBC/">Low-Carbon Indoor Humidity Regulation via 3D Printed Superhygroscopic Building Components</a></li>

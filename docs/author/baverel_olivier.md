@@ -9,6 +9,60 @@ search:
 
 #  Baverel Olivier 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2017-08-17
+    
+    Last Contribution
+    : 2025-01-17
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 390
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (7)</li>
+        <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a> (5)</li>
+        <li><a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> (5)</li>
+        <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a> (5)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../duba_bave_dirr.2017.CoBSfC3P/">Classification of Building Systems for Concrete 3D Printing</a> (118)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (23)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (19)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (17)</li>
+        <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (32)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (30)</li>
+        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (25)</li>
+        <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a> (21)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (18)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../mesn_duba_bave.2025.SAo3P/">Structural Applications of 3D Printing</a></li>
   <li><a href="../../../author/motamedi_mahan"><b>Motamedi</b> Mahan</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/tang_anh-minh"><b>Tang</b> Anh-Minh</a>, <a href="../../../author/pereira_jean-michel"><b>Pereira</b> Jean-Michel</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mota_mesn_tang_pere.2024.SBUo3PEbD/">Structural Build-Up of 3D Printed Earth by Drying</a></li>

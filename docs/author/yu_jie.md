@@ -9,6 +9,60 @@ search:
 
 #  Yu Jie 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0922-3238" target="_blank">0000-0003-0922-3238</a>
+
+    First Contribution
+    : 2023-08-31
+    
+    Last Contribution
+    : 2025-12-10
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 93
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (11)</li>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (10)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (10)</li>
+        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (4)</li>
+        <li><a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (43)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (38)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (38)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (36)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (8)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (7)</li>
+        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (7)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (7)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>

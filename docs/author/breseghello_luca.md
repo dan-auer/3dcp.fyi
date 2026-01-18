@@ -9,6 +9,60 @@ search:
 
 #  Breseghello Luca 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5063-4595" target="_blank">0000-0001-5063-4595</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-11-25
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 190
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> (11)</li>
+        <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> (3)</li>
+        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (3)</li>
+        <li><a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a> (2)</li>
+        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a> (57)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (28)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (18)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (16)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (9)</li>
+        <li><a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> (7)</li>
+        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (7)</li>
+        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../varg_bres_silf.2025.CHF/">Circular Hybrid Façades:<br/>Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</a></li>
   <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../varg_west_bres_silf.2025.DoPSi3CPUPPP/">Design of Porous Structures in 3D Concrete Printing Using Procedural Print Patterns</a></li>

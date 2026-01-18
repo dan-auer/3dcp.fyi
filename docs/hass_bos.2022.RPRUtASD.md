@@ -18,14 +18,15 @@ tags:
 
 #Robotically Placed Reinforcement Using the Automated Screwing Device&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">An Application Perspective for 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_62" target="_blank">10.1007/978-3-031-06116-5_62</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_62" target="_blank">10.1007/978-3-031-06116-5_62</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9072-0113" title="ORCID: 0000-0001-9072-0113" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hass_lauri"><b>Hass</b>&nbsp;Lauri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 417-423
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/screw"><button class="btn">#screw</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotically%20Placed%20Reinforcement%20Using%20the%20Automated%20Screwing%20Device" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotically+placed+reinforcement+using+the+automated+screwing+device&as_occt=title&as_sauthors=hass&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133180798&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_62" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #Vibro-Extrusion&nbsp;([2009-04](date/2009/04))
 <div class="h1-like">A New Forming Process for Cement-Based Materials</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/adcr.2008.00030" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/adcr.2008.00030" target="_blank">10.1680/adcr.2008.00030</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/adcr.2008.00030" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/adcr.2008.00030" target="_blank">10.1680/adcr.2008.00030</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3305-7831" title="ORCID: 0000-0003-3305-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/estelle_patrice"><b>Estellé</b>&nbsp;Patrice</a></span>, <a href="../../../author/lanos_christophe"><b>Lanos</b>&nbsp;Christophe</a></span><br>
 Journal Article - Advances in Cement Research, Vol. 21, Iss. 3, pp. 125-133
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Vibro-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=vibro-extrusion&as_occt=title&as_sauthors=perrot&as_ylo=2007&as_yhi=2011&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-67649209528&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000266407700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/adcr.2008.00030" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

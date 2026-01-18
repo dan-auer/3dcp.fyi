@@ -24,7 +24,7 @@ Contribution - Proceedings of the IASS 2020 & 2021 Annual Symposium
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=New%20Calculation%20Approach%20for%20Selecting%20and%20Orienting%20the%20Reinforcing%20Material%20for%20Robotic%20Concrete%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=new+calculation+approach+for+selecting+and+orienting+the+reinforcing+material+for+robotic+concrete+manufacturing&as_occt=title&as_sauthors=baghdadi&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

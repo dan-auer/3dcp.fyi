@@ -8,6 +8,10 @@ search:
 
 # #contribution
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (1)</button></a> <a href="../../keyword/column"><button class="btn">#column (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../flor_lopo_scot_cluc.2024.TCo3PLFttCCoSC/">The Contribution of 3D Printed Lost Formworks to the Compressive Capacity of Structural Columns</a></li>

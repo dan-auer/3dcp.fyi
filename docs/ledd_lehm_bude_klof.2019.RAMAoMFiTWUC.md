@@ -17,14 +17,15 @@ tags:
 ---
 
 #Robot-Assisted, Magnetic Alignment of Microsteel Fibers in Thin-Walled UHPFRC Components ([2018-12](date/2018/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.201800083" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201800083" target="_blank">10.1002/best.201800083</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201800083" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201800083" target="_blank">10.1002/best.201800083</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ledderose_lukas"><b>Ledderose</b>&nbsp;Lukas</a></span>, <a href="../../../author/lehmberg_sven"><b>Lehmberg</b>&nbsp;Sven</a></span>, <a href="../../../author/budelmann_harald"><b>Budelmann</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 114, Iss. 1, pp. 33-42
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robot-Assisted%2C%20Magnetic%20Alignment%20of%20Microsteel%20Fibers%20in%20Thin-Walled%20UHPFRC%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robot-assisted%2C+magnetic+alignment+of+microsteel+fibers+in+thin-walled+uhpfrc+components&as_occt=title&as_sauthors=ledderose&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85058640140&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000454867100005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201800083" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

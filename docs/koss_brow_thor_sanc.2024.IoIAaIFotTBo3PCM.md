@@ -19,14 +19,15 @@ tags:
 ---
 
 #Influence of Internal Architecture and Ink Formulation on the Thermal Behavior of 3D Printed Cementitious Materials ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17235736) <a href="https://doi.org/10.3390/ma17235736" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17235736" target="_blank">10.3390/ma17235736</a>
+<a href="https://doi.org/10.3390/ma17235736" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17235736" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17235736" target="_blank">10.3390/ma17235736</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9929-5632" title="ORCID: 0000-0002-9929-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kosson_michael"><b>Kosson</b>&nbsp;Michael</a></span>, <a href="../../../author/brown_lesa"><b>Brown</b>&nbsp;Lesa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3480" title="ORCID: 0000-0002-1653-3480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thorne_garret"><b>Thorne</b>&nbsp;Garret</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2103-3229" title="ORCID: 0000-0002-2103-3229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanchez_florence"><b>Sanchez</b>&nbsp;Florence</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 23
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Internal%20Architecture%20and%20Ink%20Formulation%20on%20the%20Thermal%20Behavior%20of%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+internal+architecture+and+ink+formulation+on+the+thermal+behavior+of+3d+printed+cementitious+materials&as_occt=title&as_sauthors=kosson&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212583536&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001376409600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17235736" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

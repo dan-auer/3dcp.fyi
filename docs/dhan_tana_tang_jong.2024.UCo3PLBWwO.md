@@ -16,14 +16,15 @@ tags:
 ---
 
 #Uniaxial Compression on 3D Printed Load-Bearing Walls with Openings ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s42107-024-01149-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-024-01149-y" target="_blank">10.1007/s42107-024-01149-y</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42107-024-01149-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-024-01149-y" target="_blank">10.1007/s42107-024-01149-y</a>
 
 <a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b>&nbsp;Chamil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8596-5896" title="ORCID: 0000-0001-8596-5896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b>&nbsp;Ganchai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2117-327X" title="ORCID: 0000-0003-2117-327X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b>&nbsp;Somnuk</a></span>, <a href="../../../author/jongvisuttisun_passarin"><b>Jongvisuttisun</b>&nbsp;Passarin</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6355-7274" title="ORCID: 0009-0001-6355-7274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b>&nbsp;Chalermwut</a></span><br>
 Journal Article - Asian Journal of Civil Engineering
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Uniaxial%20Compression%20on%203D%20Printed%20Load-Bearing%20Walls%20with%20Openings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=uniaxial+compression+on+3d+printed+load-bearing+walls+with+openings&as_occt=title&as_sauthors=dhanasekara&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203295107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42107-024-01149-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

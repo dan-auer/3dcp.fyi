@@ -19,14 +19,15 @@ tags:
 
 #Durability of 3D Printed Concrete&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A Comparison of Extrusion 3D Printing, Shotcrete 3D Printing and Conventional Casting</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_33" target="_blank">10.1007/978-3-031-70031-6_33</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_33" target="_blank">10.1007/978-3-031-70031-6_33</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4621-0612" title="ORCID: 0000-0003-4621-0612" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bohler_david"><b>Böhler</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3182-5086" title="ORCID: 0000-0002-3182-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b>&nbsp;Inka</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 283-290
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Durability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=durability+of+3d+printed+concrete&as_occt=title&as_sauthors=b%C3%B6hler&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203048570&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600033" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_33" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Additive Manufacturing of Ultra-High-Performance Concrete&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">From Mechanical Characterization to Large-Scale Application</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1137&context=c3_2025) <a href="https://doi.org/10.5703/1288284318066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318066" target="_blank">10.5703/1288284318066</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1137&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318066" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318066" target="_blank">10.5703/1288284318066</a>
 
 <a href="../../../author/marrero-rosa_raul"><b>Marrero-Rosa</b>&nbsp;Raul</a></span>, <a href="../../../author/gomaa_shady"><b>Gomaa</b>&nbsp;Shady</a></span>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b>&nbsp;Elmer</a></span>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b>&nbsp;Hassan</a></span>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b>&nbsp;Ayesha</a></span>, <a href="../../../author/liu_jiaqi"><b>Liu</b>&nbsp;Jiaqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+ultra-high-performance+concrete&as_occt=title&as_sauthors=marrero-rosa&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318066" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

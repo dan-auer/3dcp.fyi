@@ -20,14 +20,15 @@ tags:
 ---
 
 #An Experimental Study on the Effect of a Viscosity-Modifying-Agent on the Rheological and Strength Behavior of 3D Printed Concrete ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1742-6596/2779/1/012087) <a href="https://doi.org/10.1088/1742-6596/2779/1/012087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2779/1/012087" target="_blank">10.1088/1742-6596/2779/1/012087</a>
+<a href="https://doi.org/10.1088/1742-6596/2779/1/012087" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/2779/1/012087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2779/1/012087" target="_blank">10.1088/1742-6596/2779/1/012087</a>
 
 <a href="../../../author/prathipati_r-r-teja_s"><b>Prathipati</b>&nbsp;S.</a></span>, <a href="../../../author/vardhan_j"><b>Vardhan</b>&nbsp;J.</a></span>, <a href="../../../author/murali_d"><b>Murali</b>&nbsp;D.</a></span>, <a href="../../../author/nithin_c"><b>Nithin</b>&nbsp;C.</a></span>, <a href="../../../author/karthik_sai_c"><b>Karthik</b>&nbsp;C.</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 012087
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20on%20the%20Effect%20of%20a%20Viscosity-Modifying-Agent%20on%20the%20Rheological%20and%20Strength%20Behavior%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+experimental+study+on+the+effect+of+a+viscosity-modifying-agent+on+the+rheological+and+strength+behavior+of+3d+printed+concrete&as_occt=title&as_sauthors=prathipati&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201522221&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/2779/1/012087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,8 +59,9 @@ Journal Article - Journal of Physics: Conference Series, Vol. 2779, Iss. 1, No. 
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>
 

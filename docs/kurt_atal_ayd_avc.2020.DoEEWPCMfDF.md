@@ -18,14 +18,15 @@ tags:
 ---
 
 #Design of Energy-Efficient White Portland Cement Mortars for Digital Fabrication ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_7" target="_blank">10.1007/978-3-030-49916-7_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_7" target="_blank">10.1007/978-3-030-49916-7_7</a>
 
 <a href="../../../author/kurt_sibel"><b>Kurt</b>&nbsp;Sibel</a></span>, <a href="../../../author/atalay_a_yigit"><b>Atalay</b>&nbsp;Yiğit</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7919-3105" title="ORCID: 0000-0001-7919-3105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aydin_eray_ozan"><b>Aydın</b>&nbsp;Ozan</a></span>, <a href="../../../author/avcioglu_berrak"><b>Avcıoğlu</b>&nbsp;Berrak</a></span>, <a href="../../../author/yildirim_tayfun"><b>Yıldırım</b>&nbsp;Tayfun</a></span>, <a href="../../../author/goktepe_b_gizem"><b>Göktepe</b>&nbsp;Gizem</a></span>, <a href="../../../author/emir_sedat"><b>Emir</b>&nbsp;Sedat</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3200-8595" title="ORCID: 0000-0003-3200-8595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paksoy_o_halime"><b>Paksoy</b>&nbsp;Halime</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 64-72
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Energy-Efficient%20White%20Portland%20Cement%20Mortars%20for%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+of+energy-efficient+white+portland+cement+mortars+for+digital+fabrication&as_occt=title&as_sauthors=kurt&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088267195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

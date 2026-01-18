@@ -13,14 +13,15 @@ tags:
 ---
 
 #A Critical Materials Perspective on 3DCP ([2025-12](date/2025/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/2795/3193) <a href="https://doi.org/10.52825/ocp.v7i.2795" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2795" target="_blank">10.52825/ocp.v7i.2795</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/2795/3193" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v7i.2795" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2795" target="_blank">10.52825/ocp.v7i.2795</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-9773-710X" title="ORCID: 0009-0001-9773-710X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b>&nbsp;Nadja</a></span><br>
 Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Materials%20Perspective%20on%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+critical+materials+perspective+on+3dcp&as_occt=title&as_sauthors=gaudilli%C3%A8re-jami&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v7i.2795" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Simulating Material Flow and Extrusion Dynamics in 3D Concrete Printing ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cma.2025.118575" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2025.118575" target="_blank">10.1016/j.cma.2025.118575</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cma.2025.118575" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2025.118575" target="_blank">10.1016/j.cma.2025.118575</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8353-8110" title="ORCID: 0000-0001-8353-8110" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_hao"><b>Yu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2013-9715" title="ORCID: 0000-0003-2013-9715" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_weiwei"><b>Zhang</b>&nbsp;Weiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0659-7541" title="ORCID: 0000-0003-0659-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_xiang_jia"><b>Liew</b>&nbsp;Jia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span><br>
 Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 449, No. 118575
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simulating%20Material%20Flow%20and%20Extrusion%20Dynamics%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simulating+material+flow+and+extrusion+dynamics+in+3d+concrete+printing&as_occt=title&as_sauthors=yu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022442418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001629494500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cma.2025.118575" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,8 +59,9 @@ Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 44
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mu_xiaoshao"><b>Mu</b> Xiaoshao</a>, <a href="../../../author/zhang_xiaoling"><b>Zhang</b> Xiaoling</a>, <a href="../../../author/he_gang"><b>He</b> Gang</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mu_zhan_he_liew.2026.TLC3CPTCCaWV/">Toward Low-Carbon 3D Concrete Printing Through Circular Construction and Waste Valorization</a></li>
     </ol>
 </div>
 

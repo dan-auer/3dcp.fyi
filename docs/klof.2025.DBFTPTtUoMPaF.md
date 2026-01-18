@@ -20,14 +20,15 @@ tags:
 
 #Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">A Personal Reflection from Research and Practice</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.70060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.70060" target="_blank">10.1002/bate.70060</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/bate.70060" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.70060" target="_blank">10.1002/bate.70060</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
 Journal Article - Bautechnik
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reflection"><button class="btn">#reflection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Building%20Fabrication%20%E2%80%93%20The%20Path%20Towards%20the%20Unity%20of%20Material%2C%20Process%20and%20Form" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+building+fabrication+%E2%80%93+the+path+towards+the+unity+of+material%2C+process+and+form&as_occt=title&as_sauthors=kloft&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/bate.70060" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ci-06-2024-0179" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-06-2024-0179" target="_blank">10.1108/ci-06-2024-0179</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/ci-06-2024-0179" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-06-2024-0179" target="_blank">10.1108/ci-06-2024-0179</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/floris_ignazio"><b>Floris</b>&nbsp;Ignazio</a></span>, <a href="../../../author/duran_dayan"><b>Duran</b>&nbsp;Dayan</a></span><br>
 Journal Article - Construction Innovation
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Unified%20Integration%20Approach%20for%20Bridging%20BIM%20Model%20to%203D%20Construction%20Printing%20and%20Scale%20Prototyping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=unified+integration+approach+for+bridging+bim+model+to+3d+construction+printing+and+scale+prototyping&as_occt=title&as_sauthors=sangiorgio&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216202093&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001406948200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ci-06-2024-0179" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

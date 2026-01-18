@@ -16,14 +16,15 @@ tags:
 
 #Rheology of Fresh Concrete&nbsp;([2019-09](date/2019/09))
 <div class="h1-like">Historical Perspective and Glance in the Future</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-22566-7_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_50" target="_blank">10.1007/978-3-030-22566-7_50</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-22566-7_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-22566-7_50" target="_blank">10.1007/978-3-030-22566-7_50</a>
 
 <a href="../../../author/shah_p_surendra"><b>Shah</b>&nbsp;Surendra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6253-6877" title="ORCID: 0000-0002-6253-6877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_hong_jae"><b>Kim</b>&nbsp;Jae</a></span><br>
 Contribution - Proceedings of the 2nd International RILEM Conference on Rheology and Processing of Construction Materials and the 9th International RILEM Symposium on Self-Compacting Concrete, pp. 432-439
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20of%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+of+fresh+concrete&as_occt=title&as_sauthors=shah&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85071511976&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-22566-7_50" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

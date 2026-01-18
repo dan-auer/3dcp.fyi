@@ -20,14 +20,15 @@ tags:
 ---
 
 #Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing ([2026-01](date/2026/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/16/1/202/pdf?version=1767343668) <a href="https://doi.org/10.3390/buildings16010202" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings16010202" target="_blank">10.3390/buildings16010202</a>
+<a href="https://www.mdpi.com/2075-5309/16/1/202/pdf?version=1767343668" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings16010202" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings16010202" target="_blank">10.3390/buildings16010202</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0995-6220" title="ORCID: 0000-0003-0995-6220" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lapusan_ciprian"><b>Lapusan</b>&nbsp;Ciprian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4391-3171" title="ORCID: 0000-0002-4391-3171" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b>&nbsp;Camelia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3289-5585" title="ORCID: 0000-0003-3289-5585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sosa_ioan"><b>Sosa</b>&nbsp;Ioan</a></span><br>
 Journal Article - Buildings, Vol. 16, Iss. 1, No. 202
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Criteria%20Decision%20Framework%20for%20Optimal%20Robotic%20System%20Selection%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-criteria+decision+framework+for+optimal+robotic+system+selection+in+3d+concrete+printing&as_occt=title&as_sauthors=lapusan&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings16010202" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Applications of 3D Printing Buildings Using Construction and Demolition Waste&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">Techniques and Considerations</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-032-00447-5_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-00447-5_15" target="_blank">10.1007/978-3-032-00447-5_15</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-032-00447-5_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-00447-5_15" target="_blank">10.1007/978-3-032-00447-5_15</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1959-3331" title="ORCID: 0000-0002-1959-3331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eid_abdulmohsen_zainab"><b>Eid</b>&nbsp;Zainab</a></span>, <a href="../../../author/almurbati_nehal"><b>Almurbati</b>&nbsp;Nehal</a></span><br>
 Contribution - Leveraging Advanced Technologies, pp. 159-168
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Applications%20of%203D%20Printing%20Buildings%20Using%20Construction%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=applications+of+3d+printing+buildings+using+construction+and+demolition+waste&as_occt=title&as_sauthors=eid&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013020968&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-032-00447-5_15" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

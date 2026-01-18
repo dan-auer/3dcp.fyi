@@ -19,14 +19,15 @@ tags:
 
 #Advancements in Low Carbon-Emission Cements for 3D Printing&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">A State-of-the-Art Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.7764/ric.00131.21) <a href="https://doi.org/10.7764/ric.00131.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7764/ric.00131.21" target="_blank">10.7764/ric.00131.21</a>
+<a href="https://doi.org/10.7764/ric.00131.21" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.7764/ric.00131.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7764/ric.00131.21" target="_blank">10.7764/ric.00131.21</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6437-3047" title="ORCID: 0000-0002-6437-3047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silvestro_laura"><b>Silvestro</b>&nbsp;Laura</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3409-2041" title="ORCID: 0000-0002-3409-2041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span><br>
 Journal Article - Revista Ingeniería de Construcción, Vol. 39, pp. 1-10
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancements%20in%20Low%20Carbon-Emission%20Cements%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancements+in+low+carbon-emission+cements+for+3d+printing&as_occt=title&as_sauthors=silvestro&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001586264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001399879000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7764/ric.00131.21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

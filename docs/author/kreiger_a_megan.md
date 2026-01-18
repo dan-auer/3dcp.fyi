@@ -9,6 +9,60 @@ search:
 
 #  Kreiger Megan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9721-9513" target="_blank">0000-0002-9721-9513</a>
+
+    First Contribution
+    : 2019-02-22
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 292
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (11)</li>
+        <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a> (4)</li>
+        <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> (4)</li>
+        <li><a href="../../../author/case_p_michael"><b>Case</b> Michael</a> (3)</li>
+        <li><a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/case_p_michael"><b>Case</b> Michael</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../krei_krei_case.2019.DotCPfRACC/">Development of the Construction Processes for Reinforced Additively Constructed Concrete</a> (113)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (17)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (15)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (14)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (11)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../digg_krei_krei_negr.2024.CSotUoTAtEaACB/">Case Study on the Use of Thermographic Analysis to Evaluate an Additively Constructed Building</a></li>
   <li><a href="../../../author/foiles_dreycen"><b>Foiles</b> Dreycen</a>, <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../foil_negr_krei_krei.2024.TEoCFARotPoACC/">The Effect of Coarse/Fine Aggregate Ratios on the Properties of Additively Constructed Concrete</a></li>

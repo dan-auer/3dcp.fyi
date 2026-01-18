@@ -20,7 +20,7 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lifecycle"><button class="btn">#lifecycle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cognitive%20Ecosystem%20for%20Lifecycle-Adaptive%20and%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cognitive+ecosystem+for+lifecycle-adaptive+and+sustainable+3d+concrete+printing&as_occt=title&as_sauthors=%C3%B6zdemir&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

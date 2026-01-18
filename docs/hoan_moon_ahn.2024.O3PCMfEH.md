@@ -19,14 +19,15 @@ tags:
 
 #Optimizing 3D Printed Concrete Mixtures for Extraterrestrial Habitats&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">A Machine Learning Framework</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784485736.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.002" target="_blank">10.1061/9780784485736.002</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784485736.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.002" target="_blank">10.1061/9780784485736.002</a>
 
 <a href="../../../author/hoang_duy_pham"><b>Hoang</b>&nbsp;Pham</a></span>, <a href="../../../author/moon_hyosoo"><b>Moon</b>&nbsp;Hyosoo</a></span>, <a href="../../../author/ahn_yonghan"><b>Ahn</b>&nbsp;Yonghan</a></span><br>
 Contribution - Earth and Space 2024
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%203D%20Printed%20Concrete%20Mixtures%20for%20Extraterrestrial%20Habitats" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+3d+printed+concrete+mixtures+for+extraterrestrial+habitats&as_occt=title&as_sauthors=hoang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207884686&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784485736.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #First Impressions on Three-Dimensional Printing with Earth-Based Mortar at the Faculty of Engineering of the University of Porto ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/2/312/pdf?version=1706003173) <a href="https://doi.org/10.3390/buildings14020312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020312" target="_blank">10.3390/buildings14020312</a>
+<a href="https://www.mdpi.com/2075-5309/14/2/312/pdf?version=1706003173" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14020312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020312" target="_blank">10.3390/buildings14020312</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4221-6673" title="ORCID: 0000-0002-4221-6673" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buson_marcio"><b>Buson</b>&nbsp;Márcio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span>, <a href="../../../author/rezende_antonio_marco"><b>Rezende</b>&nbsp;Marco</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 2, No. 312
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=First%20Impressions%20on%20Three-Dimensional%20Printing%20with%20Earth-Based%20Mortar%20at%20the%20Faculty%20of%20Engineering%20of%20the%20University%20of%20Porto" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=first+impressions+on+three-dimensional+printing+with+earth-based+mortar+at+the+faculty+of+engineering+of+the+university+of+porto&as_occt=title&as_sauthors=buson&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185724136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001170008200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14020312" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

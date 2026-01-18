@@ -18,14 +18,15 @@ tags:
 ---
 
 #Characteristics and Mechanism of the Particle-Migration Subject to the Shear Flow of Concrete Flow Under Pressure ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107693" target="_blank">10.1016/j.jobe.2023.107693</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.107693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107693" target="_blank">10.1016/j.jobe.2023.107693</a>
 
 <a href="../../../author/xie_xiangyu"><b>Xie</b>&nbsp;Xiangyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6400-8608" title="ORCID: 0000-0001-6400-8608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuemei"><b>Liu</b>&nbsp;Xuemei</a></span>, <a href="../../../author/ding_faxing"><b>Ding</b>&nbsp;Faxing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1282-992X" title="ORCID: 0000-0002-1282-992X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_lihai"><b>Zhang</b>&nbsp;Lihai</a></span><br>
 Journal Article - Journal of Building Engineering, No. 107693
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/migration"><button class="btn">#migration</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characteristics%20and%20Mechanism%20of%20the%20Particle-Migration%20Subject%20to%20the%20Shear%20Flow%20of%20Concrete%20Flow%20Under%20Pressure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characteristics+and+mechanism+of+the+particle-migration+subject+to+the+shear+flow+of+concrete+flow+under+pressure&as_occt=title&as_sauthors=xie&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171454587&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001082010500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.107693" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

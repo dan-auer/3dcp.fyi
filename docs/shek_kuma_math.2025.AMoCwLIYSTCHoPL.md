@@ -20,14 +20,15 @@ tags:
 ---
 
 #Additive Manufacturing of Concrete with Low Initial Yield Strength Through Controlled Heating of Printed Layers ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113823" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113823" target="_blank">10.1016/j.jobe.2025.113823</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113823" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113823" target="_blank">10.1016/j.jobe.2025.113823</a>
 
 <a href="../../../author/shekhar_shashank"><b>Shekhar</b>&nbsp;Shashank</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3518-4391" title="ORCID: 0000-0003-3518-4391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_manish"><b>Kumar</b>&nbsp;Manish</a></span>, <a href="../../../author/mathur_rishabh"><b>Mathur</b>&nbsp;Rishabh</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113823
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Concrete%20with%20Low%20Initial%20Yield%20Strength%20Through%20Controlled%20Heating%20of%20Printed%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+concrete+with+low+initial+yield+strength+through+controlled+heating+of+printed+layers&as_occt=title&as_sauthors=shekhar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019208521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001604957900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113823" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

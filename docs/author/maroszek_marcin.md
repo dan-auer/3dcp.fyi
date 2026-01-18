@@ -9,6 +9,60 @@ search:
 
 #  Maroszek Marcin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6554-4613" target="_blank">0000-0001-6554-4613</a>
+
+    First Contribution
+    : 2022-06-09
+    
+    Last Contribution
+    : 2025-11-05
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 65
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (11)</li>
+        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (9)</li>
+        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> (6)</li>
+        <li><a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a> (4)</li>
+        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/mroz_katarzyna"><b>Mróz</b> Katarzyna</a>, <a href="../../../author/kesek_rafal"><b>Kęsek</b> Rafał</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hage_maro_mroz_kese.2022.ILBSTi3PMMfCA/">Inter-Layer Bond Strength Testing in 3D Printed Mineral Materials for Construction Applications</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (33)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (23)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (20)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> (5)</li>
+        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (5)</li>
+        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (3)</li>
+        <li><a href="../../../author/makarenko_ruslan"><b>Makarenko</b> Ruslan</a> (3)</li>
+        <li><a href="../../../author/parmigiani_silvia"><b>Parmigiani</b> Silvia</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>

@@ -8,7 +8,12 @@ search:
 
 # #first
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (14)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/base"><button class="btn">#base (3)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ales_sous_uber.2026.SCf3PS/">Sensitive Concretes for 3D Printed Structures:<br/>First Physical and Electromechanical Characterization</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko.2025.GF3PCDWTiBP/">Globally First 3D‐Printed Concrete Drinking Water Tank in Barczewko, Poland</a></li>
   <li><a href="../../../author/alos-shepherd_david"><b>Alós Shepherd</b> David</a>, <a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/degen_robin"><b>Degen</b> Robin</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../alos_dehn_kuhn_dege.2025.3CPoSWCSwTCP/">3D Concrete Printing of Solid Wall Cross-Sections with Truckmounted Concrete Pump:<br/>A Report on the First Printed Structure in Germany</a></li>
   <li><a href="../../../author/unglaub_julian"><b>Unglaub</b> Julian</a>, <a href="../../../author/muggenburg_marc"><b>Müggenburg</b> Marc</a>, <a href="../../../author/jahns_hendrik"><b>Jahns</b> Hendrik</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ungl_mugg_jahn_klof.2024.TaDTtEFTRDAC/">Towards a Digital Twin to Enable First Time Right DED-Arc Components</a></li>

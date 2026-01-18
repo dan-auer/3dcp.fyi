@@ -18,14 +18,15 @@ tags:
 ---
 
 #Machine Learning Approximation of Water Transport in 3D-Printable Composites via Karsten Tube ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31462/icearc2025_ce_mat_874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_874" target="_blank">10.31462/icearc2025_ce_mat_874</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.31462/icearc2025_ce_mat_874" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_874" target="_blank">10.31462/icearc2025_ce_mat_874</a>
 
 <a href="../../../author/ersoy_seher"><b>Ersoy</b>&nbsp;Seher</a></span>, <a href="../../../author/abuqasim_shaima"><b>Abuqasim</b>&nbsp;Shaima</a></span>, <a href="../../../author/kurtay-yildiz_mine"><b>Kurtay Yıldız</b>&nbsp;Mine</a></span>, <a href="../../../author/ozturk_s_irfan"><b>Öztürk</b>&nbsp;İrfan</a></span>, <a href="../../../author/sari_a_furkan"><b>Sarı</b>&nbsp;Furkan</a></span>, <a href="../../../author/akyuz_m_busra"><b>Akyüz</b>&nbsp;Büşra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2684-1003" title="ORCID: 0000-0003-2684-1003" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marasli_muhammed"><b>Maraşlı</b>&nbsp;Muhammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0214-4986" title="ORCID: 0000-0002-0214-4986" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/emiroglu_mehmet"><b>Emiroğlu</b>&nbsp;Mehmet</a></span><br>
 Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference
 
 <a href="../../keyword/approximation"><button class="btn">#approximation</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/tube"><button class="btn">#tube</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning%20Approximation%20of%20Water%20Transport%20in%203D-Printable%20Composites%20via%20Karsten%20Tube" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=machine+learning+approximation+of+water+transport+in+3d-printable+composites+via+karsten+tube&as_occt=title&as_sauthors=ersoy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.31462/icearc2025_ce_mat_874" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

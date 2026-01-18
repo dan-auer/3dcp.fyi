@@ -17,14 +17,15 @@ tags:
 ---
 
 #An Experimental Study of Consistency and Strength Variation of 3D Printed Concrete Mixes ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-69626-8_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-69626-8_1" target="_blank">10.1007/978-3-031-69626-8_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-69626-8_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-69626-8_1" target="_blank">10.1007/978-3-031-69626-8_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0453-0012" title="ORCID: 0000-0002-0453-0012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vysochinskiy_dmitry"><b>Vysochinskiy</b>&nbsp;Dmitry</a></span>, <a href="../../../author/madsen_gunnar"><b>Madsen</b>&nbsp;Gunnar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7946-5094" title="ORCID: 0000-0001-7946-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lande_ingrid"><b>Lande</b>&nbsp;Ingrid</a></span><br>
 Contribution - Proceedings of the 1st International Conference on Net-Zero Built Environment, pp. 1-11
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/consistency"><button class="btn">#consistency</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Experimental%20Study%20of%20Consistency%20and%20Strength%20Variation%20of%203D%20Printed%20Concrete%20Mixes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+experimental+study+of+consistency+and+strength+variation+of+3d+printed+concrete+mixes&as_occt=title&as_sauthors=vysochinskiy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218452655&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-69626-8_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

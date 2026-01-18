@@ -8,6 +8,10 @@ search:
 
 # #estimation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a>, <a href="../../../author/yeomans_scott_julian"><b>Yeomans</b> Julian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../walz_kozl_yeom.2024.PH/">Printing Homes:<br/>Unit Cost Estimation for Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bono_duco_mesn_caro.2024.TLCFCMf3P/">Tailored Low-Carbon Footprint Cementitious Material for 3D Printing:<br/>Strategies for Rheology Adjustment and Mechanical Performance Estimation</a></li>

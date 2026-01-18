@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Systematic Review and Analysis of the Viability of 3D Printed Construction in Remote Environments ([2021-03](date/2021/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2021.103642) <a href="https://doi.org/10.1016/j.autcon.2021.103642" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103642" target="_blank">10.1016/j.autcon.2021.103642</a>
+<a href="https://doi.org/10.1016/j.autcon.2021.103642" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2021.103642" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103642" target="_blank">10.1016/j.autcon.2021.103642</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schuldt_j_steven"><b>Schuldt</b>&nbsp;Steven</a></span>, <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b>&nbsp;Jeneé</a></span>, <a href="../../../author/hoisington_j_andrew"><b>Hoisington</b>&nbsp;Andrew</a></span>, <a href="../../../author/delorit_d_justin"><b>Delorit</b>&nbsp;Justin</a></span><br>
 Journal Article - Automation in Construction, Vol. 125
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/remote"><button class="btn">#remote</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20and%20Analysis%20of%20the%20Viability%20of%203D%20Printed%20Construction%20in%20Remote%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+systematic+review+and+analysis+of+the+viability+of+3d+printed+construction+in+remote+environments&as_occt=title&as_sauthors=schuldt&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101827340&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000649683100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2021.103642" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

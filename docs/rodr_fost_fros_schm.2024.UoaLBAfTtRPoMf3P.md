@@ -18,14 +18,15 @@ tags:
 ---
 
 #Use of a Lignin-Based Admixture for Tailoring the Rheological Properties of Mortars for 3D Printing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_27" target="_blank">10.1007/978-3-031-70031-6_27</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_27" target="_blank">10.1007/978-3-031-70031-6_27</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3088-7701" title="ORCID: 0000-0002-3088-7701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b>&nbsp;Fabian</a></span>, <a href="../../../author/foster_e-o_kyle"><b>Foster</b>&nbsp;Kyle</a></span>, <a href="../../../author/fross_xavier"><b>Fross</b>&nbsp;Xavier</a></span>, <a href="../../../author/schmidt_roty"><b>Schmidt</b>&nbsp;Roty</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5628-2199" title="ORCID: 0000-0001-5628-2199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aday_n_anastasia"><b>Aday</b>&nbsp;Anastasia</a></span>, <a href="../../../author/odukomaiya_adewale"><b>Odukomaiya</b>&nbsp;Adewale</a></span>, <a href="../../../author/himmel_michael"><b>Himmel</b>&nbsp;Michael</a></span>, <a href="../../../author/griffin_michael"><b>Griffin</b>&nbsp;Michael</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 225-233
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20a%20Lignin-Based%20Admixture%20for%20Tailoring%20the%20Rheological%20Properties%20of%20Mortars%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=use+of+a+lignin-based+admixture+for+tailoring+the+rheological+properties+of+mortars+for+3d+printing&as_occt=title&as_sauthors=rodriguez&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203068518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600027" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

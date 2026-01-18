@@ -19,14 +19,15 @@ tags:
 
 #Application of 3D Printing Concepts in the Architecture Engineering and Construction Industry&nbsp;([2023-02](date/2023/02))
 <div class="h1-like">A Scientometric Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.02.158" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.02.158" target="_blank">10.1016/j.matpr.2023.02.158</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.02.158" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.02.158" target="_blank">10.1016/j.matpr.2023.02.158</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9996-6440" title="ORCID: 0000-0002-9996-6440" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasad_venkatesh_kudrekodlu"><b>Prasad</b>&nbsp;Kudrekodlu</a></span>, <a href="../../../author/vasugi_v"><b>Vasugi</b>&nbsp;V.</a></span>, <a href="../../../author/senthil-kumaran_g"><b>Senthil Kumaran</b>&nbsp;G.</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%203D%20Printing%20Concepts%20in%20the%20Architecture%20Engineering%20and%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+3d+printing+concepts+in+the+architecture+engineering+and+construction+industry&as_occt=title&as_sauthors=prasad&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149705237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.02.158" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Experimental and Numerical Investigation of an Innovative 3DPC Thin-Shell Structure ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/1/233/pdf?version=1674091156) <a href="https://doi.org/10.3390/buildings13010233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13010233" target="_blank">10.3390/buildings13010233</a>
+<a href="https://www.mdpi.com/2075-5309/13/1/233/pdf?version=1674091156" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13010233" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13010233" target="_blank">10.3390/buildings13010233</a>
 
 <a href="../../../author/du_wenfeng"><b>Du</b>&nbsp;Wenfeng</a></span>, <a href="../../../author/zhu_liming"><b>Zhu</b>&nbsp;Liming</a></span>, <a href="../../../author/zhang_hao"><b>Zhang</b>&nbsp;Hao</a></span>, <a href="../../../author/zhou_zhiyong"><b>Zhou</b>&nbsp;Zhiyong</a></span>, <a href="../../../author/wang_kewei"><b>Wang</b>&nbsp;Kewei</a></span>, <a href="../../../author/uddin_nasim"><b>Uddin</b>&nbsp;Nasim</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 1
 
 <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20Numerical%20Investigation%20of%20an%20Innovative%203DPC%20Thin-Shell%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+and+numerical+investigation+of+an+innovative+3dpc+thin-shell+structure&as_occt=title&as_sauthors=du&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146619368&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000915074100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13010233" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

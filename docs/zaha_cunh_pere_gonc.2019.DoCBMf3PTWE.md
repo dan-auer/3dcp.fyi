@@ -17,14 +17,15 @@ tags:
 ---
 
 #Development of Cement-Based Mortars for 3D Printing Through Wet Extrusion ([2019-03](date/2019/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repositorium.sdum.uminho.pt/bitstream/1822/74546/1/Full_Paper1_Behzad%20etal-IABSE_Guimaraes2019.pdf) <a href="https://doi.org/10.2749/guimaraes.2019.0540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/guimaraes.2019.0540" target="_blank">10.2749/guimaraes.2019.0540</a>
+<a href="https://repositorium.sdum.uminho.pt/bitstream/1822/74546/1/Full_Paper1_Behzad%20etal-IABSE_Guimaraes2019.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2749/guimaraes.2019.0540" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/guimaraes.2019.0540" target="_blank">10.2749/guimaraes.2019.0540</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span><br>
 Contribution - Proceedings of the 2019 IABSE Symposium, pp. 540-547
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wet"><button class="btn">#wet</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cement-Based%20Mortars%20for%203D%20Printing%20Through%20Wet%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+cement-based+mortars+for+3d+printing+through+wet+extrusion&as_occt=title&as_sauthors=zahabizadeh&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/guimaraes.2019.0540" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

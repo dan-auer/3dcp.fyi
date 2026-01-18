@@ -16,14 +16,15 @@ tags:
 
 #Faxing Structures to the Moon&nbsp;([2013-09](date/2013/09))
 <div class="h1-like">Freeform Additive Construction System (FACS)</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2013-5437" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2013-5437" target="_blank">10.2514/6.2013-5437</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2013-5437" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2013-5437" target="_blank">10.2514/6.2013-5437</a>
 
 <a href="../../../author/howe_a_scott"><b>Howe</b>&nbsp;Scott</a></span>, <a href="../../../author/wilcox_h_brian"><b>Wilcox</b>&nbsp;Brian</a></span>, <a href="../../../author/mcquin_christopher"><b>McQuin</b>&nbsp;Christopher</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4589-8665" title="ORCID: 0000-0002-4589-8665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/townsend_julie"><b>Townsend</b>&nbsp;Julie</a></span>, <a href="../../../author/rieber_r_richard"><b>Rieber</b>&nbsp;Richard</a></span>, <a href="../../../author/barmatz_martin"><b>Barmatz</b>&nbsp;Martin</a></span>, <a href="../../../author/leichty_john"><b>Leichty</b>&nbsp;John</a></span><br>
 Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Faxing%20Structures%20to%20the%20Moon" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=faxing+structures+to+the+moon&as_occt=title&as_sauthors=howe&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2013-5437" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

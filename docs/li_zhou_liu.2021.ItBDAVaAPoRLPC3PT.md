@@ -22,14 +22,15 @@ tags:
 ---
 
 #Integrating the Bio-Digital Aesthetic Value and Architecture Potential of Rapid-Liquid-Printed-Concrete 3D Printing Technology ([2021-04](date/2021/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1755-1315/768/1/012156) <a href="https://doi.org/10.1088/1755-1315/768/1/012156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/768/1/012156" target="_blank">10.1088/1755-1315/768/1/012156</a>
+<a href="https://doi.org/10.1088/1755-1315/768/1/012156" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/768/1/012156" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/768/1/012156" target="_blank">10.1088/1755-1315/768/1/012156</a>
 
 <a href="../../../author/li_chenshu"><b>Li</b>&nbsp;Chenshu</a></span>, <a href="../../../author/zhou_xiaoyan"><b>Zhou</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/liu_xingyu"><b>Liu</b>&nbsp;Xingyu</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 768, Iss. 1, No. 012156
 
 <a href="../../keyword/aesthetic"><button class="btn">#aesthetic</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrating%20the%20Bio-Digital%20Aesthetic%20Value%20and%20Architecture%20Potential%20of%20Rapid-Liquid-Printed-Concrete%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrating+the+bio-digital+aesthetic+value+and+architecture+potential+of+rapid-liquid-printed-concrete+3d+printing+technology&as_occt=title&as_sauthors=li&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106166956&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/768/1/012156" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

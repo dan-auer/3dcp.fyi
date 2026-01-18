@@ -18,14 +18,15 @@ tags:
 ---
 
 #Fabrication and Application of 3D Printed Concrete Structural Components in the Boshan Pedestrian Bridge Project ([2020-09](date/2020/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" target="_blank">10.2307/j.ctv13xpsvw.22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.22" target="_blank">10.2307/j.ctv13xpsvw.22</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <a href="../../../author/gao_yuan"><b>Gao</b>&nbsp;Yuan</a></span>, <a href="../../../author/sun_chenwei"><b>Sun</b>&nbsp;Chenwei</a></span>, <a href="../../../author/wang_zhi"><b>Wang</b>&nbsp;Zhi</a></span><br>
 Contribution - Fabricate 2020, pp. 140-147
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20and%20Application%20of%203D%20Printed%20Concrete%20Structural%20Components%20in%20the%20Boshan%20Pedestrian%20Bridge%20Project" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication+and+application+of+3d+printed+concrete+structural+components+in+the+boshan+pedestrian+bridge+project&as_occt=title&as_sauthors=xu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/j.ctv13xpsvw.22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

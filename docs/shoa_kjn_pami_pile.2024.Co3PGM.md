@@ -21,14 +21,15 @@ tags:
 
 #Characterization of 3D Printable Geopolymer Mortars&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">Effect of Binder Composition and Basalt-Fiber-Reinforcement</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03335) <a href="https://doi.org/10.1016/j.cscm.2024.e03335" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03335" target="_blank">10.1016/j.cscm.2024.e03335</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03335" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03335" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03335" target="_blank">10.1016/j.cscm.2024.e03335</a>
 
 <a href="../../../author/shoaei_parham"><b>Shoaei</b>&nbsp;Parham</a></span>, <a href="../../../author/kjoniksen_anna-lena"><b>Kjøniksen</b>&nbsp;Anna-Lena</a></span>, <a href="../../../author/pamies_ramon"><b>Pamies</b>&nbsp;Ramón</a></span>, <a href="../../../author/pilehvar_shima"><b>Pilehvar</b>&nbsp;Shima</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 20, No. e03335
 
 <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%203D%20Printable%20Geopolymer%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+3d+printable+geopolymer+mortars&as_occt=title&as_sauthors=shoaei&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194044578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001245010100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03335" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

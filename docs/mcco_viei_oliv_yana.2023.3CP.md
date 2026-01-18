@@ -14,14 +14,15 @@ tags:
 
 #3D Concrete Printing&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">Factors Affecting the US and Portugal</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-44006-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44006-9_24" target="_blank">10.1007/978-3-031-44006-9_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-44006-9_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44006-9_24" target="_blank">10.1007/978-3-031-44006-9_24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3827-0458" title="ORCID: 0000-0002-3827-0458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccoy_p_andrew"><b>McCoy</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vieira_gomes_manuel"><b>Vieira</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3042-0802" title="ORCID: 0000-0002-3042-0802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_jose_miguel"><b>Oliveira</b>&nbsp;Miguel</a></span>, <a href="../../../author/yanamala_akhileswar"><b>Yanamala</b>&nbsp;Akhileswar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6299-3042" title="ORCID: 0000-0001-6299-3042" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agee_philip"><b>Agee</b>&nbsp;Philip</a></span><br>
 Contribution - Proceedings of the 3rd International Congress on Engineering and Sustainability in the XXI Century, pp. 310-324
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing&as_occt=title&as_sauthors=mccoy&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-44006-9_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

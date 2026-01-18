@@ -19,14 +19,15 @@ tags:
 
 #Selective Paste-Intrusion&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">Stability of Cement-Paste Mixtures Towards Changing Ambient Temperature</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_44" target="_blank">10.1007/978-3-031-06116-5_44</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_44" target="_blank">10.1007/978-3-031-06116-5_44</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strasser_alexander"><b>Straßer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b>&nbsp;Carla</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 296-301
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Selective%20Paste-Intrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=selective+paste-intrusion&as_occt=title&as_sauthors=stra%C3%9Fer&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133173461&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_44" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

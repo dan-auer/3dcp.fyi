@@ -8,6 +8,10 @@ search:
 
 # #trajectory
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (3)</button></a> <a href="../../keyword/control"><button class="btn">#control (2)</button></a> <a href="../../keyword/generation"><button class="btn">#generation (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yamakawa_soji"><b>Yamakawa</b> Soji</a>, <a href="../../../author/vazquez-santiago_kyshalee"><b>Vazquez-Santiago</b> Kyshalee</a>, <a href="../../../author/xia_yixuan"><b>Xia</b> Yixuan</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yama_vazq_xia_ogur.2025.CS3PSfNTP/">Concrete Spray 3D Printing Simulator for Nozzle Trajectory Planning</a></li>
   <li><a href="../../../author/auer_daniel"><b>Auer</b> Daniel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/olabi_mohammad"><b>Olabi</b> Mohammad</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST/">Fiber-Reinforcement of 3D Printed Concrete by Material-Extrusion-Tool-Paths Aligned to Principal Stress-Trajectories</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Structural and Microstructural Behavior of Novel 3DP-UHPFRC Beam with Discrete Steel-Fibers and Steel-FRP Composite Bar ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.119641" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.119641" target="_blank">10.1016/j.engstruct.2025.119641</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.119641" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.119641" target="_blank">10.1016/j.engstruct.2025.119641</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9731-0245" title="ORCID: 0000-0002-9731-0245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernand_muhirwa"><b>Fernand</b>&nbsp;Muhirwa</a></span>, <a href="../../../author/yang_zhenjun"><b>Yang</b>&nbsp;Zhenjun</a></span><br>
 Journal Article - Engineering Structures, Vol. 327, No. 119641
 
 <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20and%20Microstructural%20Behavior%20of%20Novel%203DP-UHPFRC%20Beam%20with%20Discrete%20Steel-Fibers%20and%20Steel-FRP%20Composite%20Bar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+and+microstructural+behavior+of+novel+3dp-uhpfrc+beam+with+discrete+steel-fibers+and+steel-frp+composite+bar&as_occt=title&as_sauthors=fernand&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214523672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001397816000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.119641" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

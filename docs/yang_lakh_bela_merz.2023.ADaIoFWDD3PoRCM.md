@@ -20,14 +20,15 @@ tags:
 ---
 
 #Automatic Detection and Isolation of Filament-Width-Deviation During 3D Printing of Recycled Construction-Material ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tmech.2023.3313693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tmech.2023.3313693" target="_blank">10.1109/tmech.2023.3313693</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/tmech.2023.3313693" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tmech.2023.3313693" target="_blank">10.1109/tmech.2023.3313693</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xinrui"><b>Yang</b>&nbsp;Xinrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
 Journal Article - IEEE/ASME Transactions on Mechatronics, pp. 1-10
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/isolation"><button class="btn">#isolation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automatic%20Detection%20and%20Isolation%20of%20Filament-Width-Deviation%20During%203D%20Printing%20of%20Recycled%20Construction-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automatic+detection+and+isolation+of+filament-width-deviation+during+3d+printing+of+recycled+construction-material&as_occt=title&as_sauthors=yang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173298726&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001078309200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/tmech.2023.3313693" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

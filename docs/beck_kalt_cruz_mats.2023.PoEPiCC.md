@@ -19,7 +19,7 @@ Contribution - Beiträge zur 10. DAfStb-Jahrestagung mit 62. Forschungskolloquiu
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Possibilities%20of%20Extrusion-Production%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=possibilities+of+extrusion-production+in+concrete+construction&as_occt=title&as_sauthors=beckers&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

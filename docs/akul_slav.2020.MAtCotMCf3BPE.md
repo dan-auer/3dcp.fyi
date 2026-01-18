@@ -18,14 +18,15 @@ tags:
 ---
 
 #Methodical Approach to Calculation of the Maintenance Cost for 3D Built Printing Equipment ([2020-02](date/2020/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/753/5/052056) <a href="https://doi.org/10.1088/1757-899x/753/5/052056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/753/5/052056" target="_blank">10.1088/1757-899x/753/5/052056</a>
+<a href="https://doi.org/10.1088/1757-899x/753/5/052056" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/753/5/052056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/753/5/052056" target="_blank">10.1088/1757-899x/753/5/052056</a>
 
 <a href="../../../author/akulova_i"><b>Akulova</b>&nbsp;I.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8800-2657" title="ORCID: 0000-0001-8800-2657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slavcheva_stanislavovna_galina"><b>Slavcheva</b>&nbsp;Galina</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 753, Iss. 5
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/equipment"><button class="btn">#equipment</button></a> <a href="../../keyword/maintenance"><button class="btn">#maintenance</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Methodical%20Approach%20to%20Calculation%20of%20the%20Maintenance%20Cost%20for%203D%20Built%20Printing%20Equipment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=methodical+approach+to+calculation+of+the+maintenance+cost+for+3d+built+printing+equipment&as_occt=title&as_sauthors=akulova&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082099713&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/753/5/052056" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

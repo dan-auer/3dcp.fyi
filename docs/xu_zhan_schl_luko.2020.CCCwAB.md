@@ -13,14 +13,15 @@ tags:
 ---
 
 #Cementitious Cellular Composites with Auxetic Behavior ([2020-04](date/2020/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2020.103624) <a href="https://doi.org/10.1016/j.cemconcomp.2020.103624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2020.103624" target="_blank">10.1016/j.cemconcomp.2020.103624</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2020.103624" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2020.103624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2020.103624" target="_blank">10.1016/j.cemconcomp.2020.103624</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7474-4665" title="ORCID: 0000-0002-7474-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongzhi"><b>Zhang</b>&nbsp;Hongzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <a href="../../../author/lukovic_mladena"><b>Luković</b>&nbsp;Mladena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 111
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cementitious%20Cellular%20Composites%20with%20Auxetic%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cementitious+cellular+composites+with+auxetic+behavior&as_occt=title&as_sauthors=xu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083078950&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000540217400013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2020.103624" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

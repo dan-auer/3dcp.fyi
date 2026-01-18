@@ -16,14 +16,15 @@ tags:
 ---
 
 #Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing ([2023-04](date/2023/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-25795-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_6" target="_blank">10.1007/978-3-031-25795-7_6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-25795-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_6" target="_blank">10.1007/978-3-031-25795-7_6</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9411-5823" title="ORCID: 0000-0002-9411-5823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_archer_tomas"><b>de&nbsp;Carvalho</b>&nbsp;Tomás</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
 Contribution - Sustainable and Digital Building, pp. 73-87
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Incorporation%20of%20Forest%20Biomass-Based%20Fly-Ash%20in%20Cement%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=incorporation+of+forest+biomass-based+fly-ash+in+cement+for+3d+printing&as_occt=title&as_sauthors=joshi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204804663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-25795-7_6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

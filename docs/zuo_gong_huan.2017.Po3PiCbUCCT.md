@@ -16,14 +16,15 @@ tags:
 ---
 
 #Performance of 3D Printing in Construction by Using Computer-Control-Technology ([2017-07](date/2017/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pos.sissa.it/299/048/pdf) <a href="https://doi.org/10.22323/1.299.0048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22323/1.299.0048" target="_blank">10.22323/1.299.0048</a>
+<a href="https://pos.sissa.it/299/048/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22323/1.299.0048" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22323/1.299.0048" target="_blank">10.22323/1.299.0048</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <a href="../../../author/gong_jian"><b>Gong</b>&nbsp;Jian</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span><br>
 Contribution - Proceedings of the 7th International Conference on Computer Engineering and Networks
 
 <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%203D%20Printing%20in%20Construction%20by%20Using%20Computer-Control-Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+of+3d+printing+in+construction+by+using+computer-control-technology&as_occt=title&as_sauthors=zuo&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041668906&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22323/1.299.0048" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

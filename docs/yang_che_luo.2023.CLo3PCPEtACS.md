@@ -17,14 +17,15 @@ tags:
 ---
 
 #Calcium Leaching of 3D Printed Cement-Paste Exposed to Ammonium Chloride Solutions ([2023-08](date/2023/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/17/12688/pdf?version=1692762024) <a href="https://doi.org/10.3390/su151712688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su151712688" target="_blank">10.3390/su151712688</a>
+<a href="https://www.mdpi.com/2071-1050/15/17/12688/pdf?version=1692762024" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su151712688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su151712688" target="_blank">10.3390/su151712688</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span>, <a href="../../../author/luo_jie"><b>Luo</b>&nbsp;Jie</a></span><br>
 Journal Article - Sustainability, Vol. 15, Iss. 17, No. 12688
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/leach"><button class="btn">#leach</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Calcium%20Leaching%20of%203D%20Printed%20Cement-Paste%20Exposed%20to%20Ammonium%20Chloride%20Solutions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=calcium+leaching+of+3d+printed+cement-paste+exposed+to+ammonium+chloride+solutions&as_occt=title&as_sauthors=yang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170386962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001062738900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su151712688" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

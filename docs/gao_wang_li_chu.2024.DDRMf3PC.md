@@ -15,14 +15,15 @@ tags:
 ---
 
 #Data-Driven Rheological-Model for 3D Printable Concrete ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" target="_blank">10.1016/j.conbuildmat.2024.137912</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137912" target="_blank">10.1016/j.conbuildmat.2024.137912</a>
 
 <a href="../../../author/gao_jianhao"><b>Gao</b>&nbsp;Jianhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8534-9276" title="ORCID: 0000-0001-8534-9276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_chaofeng"><b>Wang</b>&nbsp;Chaofeng</a></span>, <a href="../../../author/li_jiaqi"><b>Li</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/chu_h_s"><b>Chu</b>&nbsp;S.</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 447, No. 137912
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Rheological-Model%20for%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+rheological-model+for+3d+printable+concrete&as_occt=title&as_sauthors=gao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202822554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001306324800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.137912" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

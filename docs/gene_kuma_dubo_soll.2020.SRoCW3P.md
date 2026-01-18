@@ -13,14 +13,15 @@ tags:
 ---
 
 #Simultaneous Reinforcement of Concrete While 3D Printing ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_87" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_87" target="_blank">10.1007/978-3-030-49916-7_87</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_87" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_87" target="_blank">10.1007/978-3-030-49916-7_87</a>
 
 <a href="../../../author/geneidy_omar"><b>Geneidy</b>&nbsp;Omar</a></span>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b>&nbsp;Sujay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubor_alexandre"><b>Dubor</b>&nbsp;Alexandre</a></span>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b>&nbsp;Aldo</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 895-905
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simultaneous%20Reinforcement%20of%20Concrete%20While%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simultaneous+reinforcement+of+concrete+while+3d+printing&as_occt=title&as_sauthors=geneidy&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088251812&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_87" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Leveraging Internal Curing Effect of Fly-Ash-Cenosphere for Alleviating Autogenous Shrinkage in 3D Printing ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128247" target="_blank">10.1016/j.conbuildmat.2022.128247</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.128247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128247" target="_blank">10.1016/j.conbuildmat.2022.128247</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3463-0858" title="ORCID: 0000-0002-3463-0858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_jie-lin"><b>Tao</b>&nbsp;Jie-Lin</a></span>, <a href="../../../author/lin_can"><b>Lin</b>&nbsp;Can</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7015-5719" title="ORCID: 0000-0001-7015-5719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zheng_shuyi"><b>Zheng</b>&nbsp;Shuyi</a></span>, <a href="../../../author/hong_chen-yu"><b>Hong</b>&nbsp;Chen-Yu</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 346, No. 128247
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cenosphere"><button class="btn">#cenosphere</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Leveraging%20Internal%20Curing%20Effect%20of%20Fly-Ash-Cenosphere%20for%20Alleviating%20Autogenous%20Shrinkage%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=leveraging+internal+curing+effect+of+fly-ash-cenosphere+for+alleviating+autogenous+shrinkage+in+3d+printing&as_occt=title&as_sauthors=tao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134610930&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000872954800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.128247" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

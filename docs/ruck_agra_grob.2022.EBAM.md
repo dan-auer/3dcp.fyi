@@ -21,14 +21,15 @@ tags:
 
 #Earth-Based Additive Manufacturing&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">A Field-Oriented Methodology for Evaluating Material-Printability</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2022.2154739" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2022.2154739" target="_blank">10.1080/00038628.2022.2154739</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2022.2154739" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2022.2154739" target="_blank">10.1080/00038628.2022.2154739</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7688-5683" title="ORCID: 0000-0001-7688-5683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruckrich_stefanie"><b>Rückrich</b>&nbsp;Stefanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8003-2878" title="ORCID: 0000-0001-8003-2878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agranati_galit"><b>Agranati</b>&nbsp;Galit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4683-4601" title="ORCID: 0000-0003-4683-4601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grobman_jacob_yasha"><b>Grobman</b>&nbsp;Yasha</a></span><br>
 Journal Article - Architectural Science Review, pp. 1-11
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Earth-Based%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=earth-based+additive+manufacturing&as_occt=title&as_sauthors=r%C3%BCckrich&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144127117&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000897063000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2022.2154739" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

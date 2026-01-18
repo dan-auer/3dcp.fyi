@@ -8,6 +8,10 @@ search:
 
 # #fatigue
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (2)</button></a> <a href="../../keyword/arch"><button class="btn">#arch (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/du_shizhao"><b>Du</b> Shizhao</a>, <a href="../../../author/kang_chunxia"><b>Kang</b> Chunxia</a>, <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../du_kang_du.2025.FPo3PRCSfTP/">Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements</a></li>
   <li><a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sre_stan.2025.EIotFBo3PSFRC/">Experimental Investigation of the Fatigue Behavior of 3D Printed Steel Fiber Reinforced Concrete</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #supplement
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/material"><button class="btn">#material (8)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (7)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/property"><button class="btn">#property (5)</button></a> <a href="../../keyword/influence"><button class="btn">#influence (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../flor_scot_cluc_lopo.2025.IoASCMaPPotMPo3PM/">Influence of Alternative Supplementary Cementitious Materials and Printing Parameters on the Mechanical Properties of 3D-Printed Mortars</a></li>

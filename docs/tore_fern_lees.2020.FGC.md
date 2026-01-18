@@ -23,14 +23,15 @@ tags:
 
 #Functionally Graded Concrete&nbsp;([2020-02](date/2020/02))
 <div class="h1-like">Design Objectives, Production Techniques and Analysis Methods for Layered and Continuously Graded Elements</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://eprints.whiterose.ac.uk/155595/1/Torelli%20et%20al%20-%202020%20-%20Functionally%20graded%20concrete.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2020.118040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118040" target="_blank">10.1016/j.conbuildmat.2020.118040</a>
+<a href="https://eprints.whiterose.ac.uk/155595/1/Torelli%20et%20al%20-%202020%20-%20Functionally%20graded%20concrete.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.118040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118040" target="_blank">10.1016/j.conbuildmat.2020.118040</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0607-695X" title="ORCID: 0000-0002-0607-695X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/torelli_giacomo"><b>Torelli</b>&nbsp;Giacomo</a></span>, <a href="../../../author/fernandez_gimenez_mar"><b>Fernández</b>&nbsp;Mar</a></span>, <a href="../../../author/lees_m_janet"><b>Lees</b>&nbsp;Janet</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 242
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Functionally%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=functionally+graded+concrete&as_occt=title&as_sauthors=torelli&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079388352&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000527388800026" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.118040" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/qpain66474.2025.11171958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/qpain66474.2025.11171958" target="_blank">10.1109/qpain66474.2025.11171958</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/qpain66474.2025.11171958" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/qpain66474.2025.11171958" target="_blank">10.1109/qpain66474.2025.11171958</a>
 
 <a href="../../../author/akter_usmi"><b>Akter</b>&nbsp;Usmi</a></span>, <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b>&nbsp;Syed</a></span>, <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b>&nbsp;Md.</a></span>, <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b>&nbsp;Saad</a></span><br>
 Contribution - Proceedings of the 2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking, pp. 1-6
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Data-Driven%20Ensemble%20Models%20Using%20Firefly%20Algorithm%20for%20Enhanced%203D%20Printed%20Concrete%20Strength%20Prediction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+of+data-driven+ensemble+models+using+firefly+algorithm+for+enhanced+3d+printed+concrete+strength+prediction&as_occt=title&as_sauthors=akter&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019060593&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/qpain66474.2025.11171958" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

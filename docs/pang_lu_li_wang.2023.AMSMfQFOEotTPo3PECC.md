@@ -23,14 +23,15 @@ tags:
 ---
 
 #A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites ([2023-02](date/2023/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106090" target="_blank">10.1016/j.jobe.2023.106090</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.106090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106090" target="_blank">10.1016/j.jobe.2023.106090</a>
 
 <a href="../../../author/pang_zhiming"><b>Pang</b>&nbsp;Zhiming</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <a href="../../../author/li_baoshan"><b>Li</b>&nbsp;Baoshan</a></span>, <a href="../../../author/wang_jiajie"><b>Wang</b>&nbsp;Jiajie</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 68
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Multi-Scale%20Model%20for%20Quantifying%20Fiber-Orientation%20Effects%20on%20the%20Tensile%20Properties%20of%203D%20Printed%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+multi-scale+model+for+quantifying+fiber-orientation+effects+on+the+tensile+properties+of+3d+printed+engineered+cementitious+composites&as_occt=title&as_sauthors=pang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147842951&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001010834600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.106090" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

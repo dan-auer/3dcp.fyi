@@ -19,14 +19,15 @@ tags:
 ---
 
 #Improving the Bonding Adhesion of the Cold Joints of Normal and Lightweight 3D Printing Mortars ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_54" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_54" target="_blank">10.1007/978-3-030-49916-7_54</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_54" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_54" target="_blank">10.1007/978-3-030-49916-7_54</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verian_p_kho"><b>Verian</b>&nbsp;Kho</a></span>, <a href="../../../author/ashcroft_jarron"><b>Ashcroft</b>&nbsp;Jarron</a></span>, <a href="../../../author/carli_d_matthew"><b>Carli</b>&nbsp;Matthew</a></span>, <a href="../../../author/bright_p_randall"><b>Bright</b>&nbsp;Randall</a></span>, <a href="../../../author/maandi_eerik"><b>Maandi</b>&nbsp;Eerik</a></span>, <a href="../../../author/avakian_avak"><b>Avakian</b>&nbsp;Avak</a></span>, <a href="../../../author/baaklini_edouard"><b>Baaklini</b>&nbsp;Edouard</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 527-536
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%20Bonding%20Adhesion%20of%20the%20Cold%20Joints%20of%20Normal%20and%20Lightweight%203D%20Printing%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+the+bonding+adhesion+of+the+cold+joints+of+normal+and+lightweight+3d+printing+mortars&as_occt=title&as_sauthors=verian&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088235521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_54" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

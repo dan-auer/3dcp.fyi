@@ -19,14 +19,15 @@ tags:
 ---
 
 #Research on 3D Printing Concrete Mechanical Properties-Prediction-Model Based on Machine-Learning ([2025-01](date/2025/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04254) <a href="https://doi.org/10.1016/j.cscm.2025.e04254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04254" target="_blank">10.1016/j.cscm.2025.e04254</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04254" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04254" target="_blank">10.1016/j.cscm.2025.e04254</a>
 
 <a href="../../../author/zhang_yonghong"><b>Zhang</b>&nbsp;Yonghong</a></span>, <a href="../../../author/cui_suping"><b>Cui</b>&nbsp;Suping</a></span>, <a href="../../../author/yang_bohao"><b>Yang</b>&nbsp;Bohao</a></span>, <a href="../../../author/wang_xinxin"><b>Wang</b>&nbsp;Xinxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1016-4191" title="ORCID: 0000-0003-1016-4191" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tao"><b>Liu</b>&nbsp;Tao</a></span><br>
 Journal Article - Case Studies in Construction Materials
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%203D%20Printing%20Concrete%20Mechanical%20Properties-Prediction-Model%20Based%20on%20Machine-Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+3d+printing+concrete+mechanical+properties-prediction-model+based+on+machine-learning&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215390694&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001405863200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04254" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

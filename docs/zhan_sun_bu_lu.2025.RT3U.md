@@ -16,14 +16,15 @@ tags:
 
 #Rheology-Tailored 3DP-UHPC&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">From Enhanced Printability to Impact Performance</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05227" target="_blank">10.1016/j.cscm.2025.e05227</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05227" target="_blank">10.1016/j.cscm.2025.e05227</a>
 
 <a href="../../../author/zhang_jiawei"><b>Zhang</b>&nbsp;Jiawei</a></span>, <a href="../../../author/sun_yuanfeng"><b>Sun</b>&nbsp;Yuanfeng</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bu_dechao"><b>Bu</b>&nbsp;Dechao</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05227
 
 <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology-Tailored%203DP-UHPC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology-tailored+3dp-uhpc&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014284920&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001563420200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05227" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

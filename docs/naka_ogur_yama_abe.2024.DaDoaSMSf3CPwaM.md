@@ -18,14 +18,15 @@ tags:
 ---
 
 #Design and Development of a Shape Measurement System for 3D Construction Printing with a Manipulator ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/case59546.2024.10711349" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/case59546.2024.10711349" target="_blank">10.1109/case59546.2024.10711349</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/case59546.2024.10711349" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/case59546.2024.10711349" target="_blank">10.1109/case59546.2024.10711349</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-2630-3448" title="ORCID: 0009-0003-2630-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakanishi_reina"><b>Nakanishi</b>&nbsp;Reina</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9154-7056" title="ORCID: 0009-0005-9154-7056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yamamoto_shinya"><b>Yamamoto</b>&nbsp;Shinya</a></span>, <a href="../../../author/abe_hiroyuki"><b>Abe</b>&nbsp;Hiroyuki</a></span>, <a href="../../../author/kikuchi_ryu"><b>Kikuchi</b>&nbsp;Ryu</a></span><br>
 Contribution - Proceedings of the 20th International Conference on Automation Science and Engineering, pp. 2684-2688
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Development%20of%20a%20Shape%20Measurement%20System%20for%203D%20Construction%20Printing%20with%20a%20Manipulator" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+development+of+a+shape+measurement+system+for+3d+construction+printing+with+a+manipulator&as_occt=title&as_sauthors=nakanishi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208267143&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001361783102045" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/case59546.2024.10711349" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

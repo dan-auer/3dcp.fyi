@@ -8,6 +8,10 @@ search:
 
 # #algorithm
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (15)</button></a> <a href="../../keyword/base"><button class="btn">#base (9)</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization (9)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/akter_usmi"><b>Akter</b> Usmi</a>, <a href="../../../author/rezvi_effti_syed"><b>Rezvi</b> Syed</a>, <a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b> Md.</a>, <a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../akte_rezv_ratu_kish.2025.OoDDEMUFAfE3PCSP/">Optimization of Data-Driven Ensemble Models Using Firefly Algorithm for Enhanced 3D Printed Concrete Strength Prediction</a></li>
   <li><a href="../../../author/wang_xiaoqi"><b>Wang</b> Xiaoqi</a>, <a href="../../../author/liu_xing"><b>Liu</b> Xing</a>, <a href="../../../author/xu_yanling"><b>Xu</b> Yanling</a>, <a href="../../../author/cao_jianfu"><b>Cao</b> Jianfu</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL/">A General Adaptive Layer Height Continuous Path Planning Algorithm for Concrete 3D Printing of Complex Porous Structures Based on Multi-Objective Optimization and Reinforcement Learning</a></li>

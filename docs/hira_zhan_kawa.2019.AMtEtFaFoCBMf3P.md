@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Method to Evaluate the Formability and Fluidity of Concrete-Based Materials for 3D Printing ([2019-06](date/2019/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1145/3328939.3329002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3328939.3329002" target="_blank">10.1145/3328939.3329002</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1145/3328939.3329002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3328939.3329002" target="_blank">10.1145/3328939.3329002</a>
 
 <a href="../../../author/hirayama_yuta"><b>Hirayama</b>&nbsp;Yuta</a></span>, <a href="../../../author/zhang_jiali"><b>Zhang</b>&nbsp;Jiali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0310-2577" title="ORCID: 0000-0002-0310-2577" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawahara_yoshihiro"><b>Kawahara</b>&nbsp;Yoshihiro</a></span><br>
 Contribution - Proceedings of the ACM Symposium on Computational Fabrication, pp. 1-10
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Method%20to%20Evaluate%20the%20Formability%20and%20Fluidity%20of%20Concrete-Based%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+method+to+evaluate+the+formability+and+fluidity+of+concrete-based+materials+for+3d+printing&as_occt=title&as_sauthors=hirayama&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068784822&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000507628500007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1145/3328939.3329002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

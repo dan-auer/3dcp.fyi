@@ -19,14 +19,15 @@ tags:
 ---
 
 #3D Printed Mortar with High Alumina-Cement as Alternative Solution for Standard Materials Used for 3D Printing ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.5604/01.3001.0053.8467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5604/01.3001.0053.8467" target="_blank">10.5604/01.3001.0053.8467</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.5604/01.3001.0053.8467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5604/01.3001.0053.8467" target="_blank">10.5604/01.3001.0053.8467</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4261-4946" title="ORCID: 0000-0002-4261-4946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olczyk_norbert"><b>Olczyk</b>&nbsp;Norbert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-8863-7976" title="ORCID: 0009-0008-8863-7976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gierszewska_natalia"><b>Gierszewska</b>&nbsp;Natalia</a></span><br>
 Journal Article - BUILDER, Vol. 314, Iss. 9, pp. 20-23
 
 <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Mortar%20with%20High%20Alumina-Cement%20as%20Alternative%20Solution%20for%20Standard%20Materials%20Used%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+mortar+with+high+alumina-cement+as+alternative+solution+for+standard+materials+used+for+3d+printing&as_occt=title&as_sauthors=olczyk&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5604/01.3001.0053.8467" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

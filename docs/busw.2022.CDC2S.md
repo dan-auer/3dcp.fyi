@@ -13,14 +13,15 @@ tags:
 
 #CCR Digital Concrete 2022 SI&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">Editorial</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/CCR_digital_concrete_2022_SI_Editorial/20211008/1/files/36124460.pdf) <a href="https://doi.org/10.1016/j.cemconres.2022.106839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106839" target="_blank">10.1016/j.cemconres.2022.106839</a>
+<a href="https://figshare.com/articles/journal_contribution/CCR_digital_concrete_2022_SI_Editorial/20211008/1/files/36124460.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2022.106839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106839" target="_blank">10.1016/j.cemconres.2022.106839</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 159
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=CCR%20Digital%20Concrete%202022%20SI" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ccr+digital+concrete+2022+si&as_occt=title&as_sauthors=buswell&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131357579&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000811869900003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2022.106839" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

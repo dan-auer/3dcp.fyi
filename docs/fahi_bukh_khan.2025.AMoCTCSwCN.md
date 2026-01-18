@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" target="_blank">10.1016/j.conbuildmat.2025.143753</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143753" target="_blank">10.1016/j.conbuildmat.2025.143753</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7301-4256" title="ORCID: 0009-0005-7301-4256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahim_abdullah"><b>al&nbsp;Fahim</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8318-8146" title="ORCID: 0000-0002-8318-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3889-4455" title="ORCID: 0000-0002-3889-4455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 495, No. 143753
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Carbonatable%20Ternary%20Cementitious%20Systems%20with%20Cellulose%20Nanocrystals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+carbonatable+ternary+cementitious+systems+with+cellulose+nanocrystals&as_occt=title&as_sauthors=fahim&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020860402&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001582737900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143753" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

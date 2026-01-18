@@ -14,14 +14,15 @@ tags:
 ---
 
 #Zigzag Reinforcement Method for 3D Concrete Printing ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/10/1721/pdf?version=1747660157) <a href="https://doi.org/10.3390/buildings15101721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15101721" target="_blank">10.3390/buildings15101721</a>
+<a href="https://www.mdpi.com/2075-5309/15/10/1721/pdf?version=1747660157" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15101721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15101721" target="_blank">10.3390/buildings15101721</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahadi_bahram"><b>Ahadi</b>&nbsp;Bahram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b>&nbsp;María</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 10, No. 1721
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Zigzag%20Reinforcement%20Method%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=zigzag+reinforcement+method+for+3d+concrete+printing&as_occt=title&as_sauthors=ahadi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006549647&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001496544200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15101721" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

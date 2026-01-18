@@ -23,14 +23,15 @@ tags:
 
 #Rapid Composite Formwork&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">An Automated and Customizable Process for Freeform Concrete Through Computational Design and Robotic Fabrication</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_86" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_86" target="_blank">10.1007/978-3-030-49916-7_86</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_86" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_86" target="_blank">10.1007/978-3-030-49916-7_86</a>
 
 <a href="../../../author/gardner_e_guy"><b>Gardner</b>&nbsp;Guy</a></span>, <a href="../../../author/forward_kristen"><b>Forward</b>&nbsp;Kristen</a></span>, <a href="../../../author/tse_kim"><b>Tse</b>&nbsp;Kim</a></span>, <a href="../../../author/sharma_karan"><b>Sharma</b>&nbsp;Karan</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 883-894
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rapid%20Composite%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rapid+composite+formwork&as_occt=title&as_sauthors=gardner&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088276288&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_86" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -13,14 +13,15 @@ tags:
 ---
 
 #Cost Viability of 3D Printed House in UK ([2018-03](date/2018/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/319/1/012061) <a href="https://doi.org/10.1088/1757-899x/319/1/012061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/319/1/012061" target="_blank">10.1088/1757-899x/319/1/012061</a>
+<a href="https://doi.org/10.1088/1757-899x/319/1/012061" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/319/1/012061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/319/1/012061" target="_blank">10.1088/1757-899x/319/1/012061</a>
 
 <a href="../../../author/tobi_l-mohd_a"><b>Tobi</b>&nbsp;A.</a></span>, <a href="../../../author/omar_a_s"><b>Omar</b>&nbsp;S.</a></span>, <a href="../../../author/yehia_z"><b>Yehia</b>&nbsp;Z.</a></span>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b>&nbsp;S.</a></span>, <a href="../../../author/hashim_a"><b>Hashim</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1632-0207" title="ORCID: 0000-0002-1632-0207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orhan_osman"><b>Orhan</b>&nbsp;Osman</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 319
 
 <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cost%20Viability%20of%203D%20Printed%20House%20in%20UK" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cost+viability+of+3d+printed+house+in+uk&as_occt=title&as_sauthors=tobi&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045668644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000447594200061" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/319/1/012061" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

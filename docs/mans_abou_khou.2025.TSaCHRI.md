@@ -20,14 +20,15 @@ tags:
 
 #Toward Spatial and Cognitive Human-Robot Interaction&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">A Game-Based Simulation for Concrete 3D Printing in Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/89_151_CCC2025_Paper.pdf) <a href="https://doi.org/10.22260/ccc2025/0090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/ccc2025/0090" target="_blank">10.22260/ccc2025/0090</a>
+<a href="https://www.iaarc.org/./publications/fulltext/89_151_CCC2025_Paper.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/ccc2025/0090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/ccc2025/0090" target="_blank">10.22260/ccc2025/0090</a>
 
 <a href="../../../author/mansour_ali"><b>Mansour</b>&nbsp;Ali</a></span>, <a href="../../../author/abou-khalil_amine"><b>Abou Khalil</b>&nbsp;Amine</a></span>, <a href="../../../author/khoury_hiam"><b>Khoury</b>&nbsp;Hiam</a></span><br>
 Contribution - Proceedings of the 14th Creative Construction Conference, pp. 750-755
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/human"><button class="btn">#human</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20Spatial%20and%20Cognitive%20Human-Robot%20Interaction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+spatial+and+cognitive+human-robot+interaction&as_occt=title&as_sauthors=mansour&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/ccc2025/0090" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

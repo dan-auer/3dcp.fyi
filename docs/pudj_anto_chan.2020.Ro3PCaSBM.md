@@ -15,14 +15,15 @@ tags:
 ---
 
 #Review on 3D Printed Concrete as Structural Beam Members ([2020-09](date/2020/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://repository.petra.ac.id/19006/10/4._Paper_Jimmy.pdf) <a href="https://doi.org/10.1088/1757-899x/930/1/012045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/930/1/012045" target="_blank">10.1088/1757-899x/930/1/012045</a>
+<a href="http://repository.petra.ac.id/19006/10/4._Paper_Jimmy.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/930/1/012045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/930/1/012045" target="_blank">10.1088/1757-899x/930/1/012045</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b>&nbsp;Pamuda</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6168-7094" title="ORCID: 0000-0001-6168-7094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antoni_antoni"><b>Antoni</b>&nbsp;Antoni</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chandra_jimmy"><b>Chandra</b>&nbsp;Jimmy</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 930, Iss. 1
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20on%203D%20Printed%20Concrete%20as%20Structural%20Beam%20Members" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+on+3d+printed+concrete+as+structural+beam+members&as_occt=title&as_sauthors=pudjisuryadi&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096832644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/930/1/012045" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

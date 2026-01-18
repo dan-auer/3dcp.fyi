@@ -18,14 +18,15 @@ tags:
 ---
 
 #Experience in On-Line Modification of Rheology and Strength Acquisition of 3D Printable Mortars ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_3" target="_blank">10.1007/978-3-319-99519-9_3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_3" target="_blank">10.1007/978-3-319-99519-9_3</a>
 
 <a href="../../../author/esnault_vivien"><b>Esnault</b>&nbsp;Vivien</a></span>, <a href="../../../author/labyad_a"><b>Labyad</b>&nbsp;A.</a></span>, <a href="../../../author/chantin_marjorie"><b>Chantin</b>&nbsp;Marjorie</a></span>, <a href="../../../author/toussaint_fabrice"><b>Toussaint</b>&nbsp;Fabrice</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 24-38
 
 <a href="../../keyword/acquisition"><button class="btn">#acquisition</button></a> <a href="../../keyword/experience"><button class="btn">#experience</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experience%20in%20On-Line%20Modification%20of%20Rheology%20and%20Strength%20Acquisition%20of%203D%20Printable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experience+in+on-line+modification+of+rheology+and+strength+acquisition+of+3d+printable+mortars&as_occt=title&as_sauthors=esnault&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052713268&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

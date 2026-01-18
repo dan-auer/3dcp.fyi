@@ -8,6 +8,10 @@ search:
 
 # #slab
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (35)</button></a> <a href="../../keyword/print"><button class="btn">#print (31)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (16)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (11)</button></a> <a href="../../keyword/rib"><button class="btn">#rib (11)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/knychalla_bruno"><b>Knychalla</b> Bruno</a>, <a href="../../../author/wiesner_christian"><b>Wiesner</b> Christian</a>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b> Patrick</a>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b> Magdalena</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../knyc_wies_sonn_kowa.2025.IFF/">Integrated Fiber Forms:<br/>Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</a></li>
   <li><a href="../../../author/kalmykov_oleg"><b>Kalmykov</b> Oleg</a>, <a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/furman_inna"><b>Furman</b> Inna</a>, <a href="../../../author/demianenko_ivan"><b>Demianenko</b> Ivan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../kalm_rezn_furm_demi.2025.EToaCGFSMU3T/">Experimental Testing of a Complex-Geometry Floor Slab Manufactured Using 3DCP Technology</a></li>

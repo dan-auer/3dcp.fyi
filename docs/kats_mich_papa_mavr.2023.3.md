@@ -14,14 +14,15 @@ tags:
 
 #3BUILD&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">First 3D Printed Structure in Greece</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33187-9_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33187-9_62" target="_blank">10.1007/978-3-031-33187-9_62</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33187-9_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33187-9_62" target="_blank">10.1007/978-3-031-33187-9_62</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9104-584X" title="ORCID: 0000-0002-9104-584X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/katsiotis_marios"><b>Katsiotis</b>&nbsp;Marios</a></span>, <a href="../../../author/michalis_k_vasileios"><b>Michalis</b>&nbsp;Vasileios</a></span>, <a href="../../../author/papargyriou_despoina"><b>Papargyriou</b>&nbsp;Despoina</a></span>, <a href="../../../author/mavratzotis_emmanouil"><b>Mavratzotis</b>&nbsp;Emmanouil</a></span>, <a href="../../../author/savvidou_martha"><b>Savvidou</b>&nbsp;Martha</a></span>, <a href="../../../author/mavrelos_theodoros"><b>Mavrelos</b>&nbsp;Theodoros</a></span>, <a href="../../../author/almpani_despoina"><b>Almpani</b>&nbsp;Despoina</a></span>, <a href="../../../author/tsilikas_ioannis"><b>Tsilikas</b>&nbsp;Ioannis</a></span>, <a href="../../../author/kalligeros_christos"><b>Kalligeros</b>&nbsp;Christos</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3496-0619" title="ORCID: 0000-0003-3496-0619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vasileiou_georgios"><b>Vasileiou</b>&nbsp;Georgios</a></span>, <a href="../../../author/papageorgiou_dimitrios"><b>Papageorgiou</b>&nbsp;Dimitrios</a></span>, <a href="../../../author/stavridou_athina"><b>Stavridou</b>&nbsp;Athina</a></span>, <a href="../../../author/spitas_vasilios"><b>Spitas</b>&nbsp;Vasilios</a></span><br>
 Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 673-682
 
 <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3BUILD" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3build&as_occt=title&as_sauthors=katsiotis&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162088817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33187-9_62" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

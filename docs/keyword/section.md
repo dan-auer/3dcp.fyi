@@ -8,6 +8,10 @@ search:
 
 # #section
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/cross"><button class="btn">#cross (9)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (6)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sifan_mohamed"><b>Sifan</b> Mohamed</a>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b> Irindu</a>, <a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b> Sunday</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sifa_upas_pool_popo.2025.FPaDoLWPw3PCaSLCS/">Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections</a></li>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_alha.2025.TFBoECCEOW3PSMoSaHS/">The Flexural Behavior of Engineered Cementitious Composites (ECC) One-Way 3D Printed Slabs Made of Solid and Hollow Sections</a></li>

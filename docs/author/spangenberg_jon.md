@@ -9,6 +9,60 @@ search:
 
 #  Spangenberg Jon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5411-6821" target="_blank">0000-0002-5411-6821</a>
+
+    First Contribution
+    : 2014-03-26
+    
+    Last Contribution
+    : 2025-07-05
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 383
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (9)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (9)</li>
+        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (5)</li>
+        <li><a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> (4)</li>
+        <li><a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a> (123)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (33)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (30)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (30)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (23)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
+        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (13)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (13)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (13)</li>
+        <li><a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jacq_kawa_span.2025.UtSBu3PCBM/">Unveiling the Structural Build-up 3D Printable Cement-Based Materials:<br/>From Small Amplitude Oscillatory Shear (SAOS) To Extensional (SAOE) Rheological Workflows</a></li>

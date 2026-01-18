@@ -8,6 +8,10 @@ search:
 
 # #decision
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria (3)</button></a> <a href="../../keyword/support"><button class="btn">#support (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lapusan_ciprian"><b>Lapusan</b> Ciprian</a>, <a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b> Camelia</a>, <a href="../../../author/sosa_ioan"><b>Sosa</b> Ioan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lapu_negr_sosa.2026.MCDFfORSSi3CP/">Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/latha_p"><b>Latha</b> P.</a>, <a href="../../../author/shanmugavelu_a_v"><b>Shanmugavelu</b> V.</a>, <a href="../../../author/tamilmani_a"><b>Tamilmani</b> A.</a>, <a href="../../../author/thayalnayaki_d"><b>Thayalnayaki</b> D.</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../lath_shan_tami_thay.2024.E3CPETaCSUSDTaRFT/">Evaluating 3D Concrete Printing Effectiveness Through a Comparative Study Using SVM, Decision Trees, and Random Forest Techniques</a></li>

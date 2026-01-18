@@ -18,14 +18,15 @@ tags:
 ---
 
 #Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139503" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139503" target="_blank">10.1016/j.conbuildmat.2024.139503</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139503" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139503" target="_blank">10.1016/j.conbuildmat.2024.139503</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-8882-2057" title="ORCID: 0009-0000-8882-2057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qingwei"><b>Wang</b>&nbsp;Qingwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <a href="../../../author/liu_qi"><b>Liu</b>&nbsp;Qi</a></span>, <a href="../../../author/yang_junhao"><b>Yang</b>&nbsp;Junhao</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 458, No. 139503
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/gravity"><button class="btn">#gravity</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%203D%20Printing%20Process%20and%20Filament%20Shape%20of%20Cementitious%20Materials%20in%20Low%20Gravity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+the+3d+printing+process+and+filament+shape+of+cementitious+materials+in+low+gravity&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211453745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001386390700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139503" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

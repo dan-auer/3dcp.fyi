@@ -9,6 +9,60 @@ search:
 
 #  Graser Konrad 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8129-6787" target="_blank">0000-0001-8129-6787</a>
+
+    First Contribution
+    : 2018-05-01
+    
+    Last Contribution
+    : 2023-06-14
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 262
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> (3)</li>
+        <li><a href="../../../author/baur_marco"><b>Baur</b> Marco</a> (2)</li>
+        <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> (2)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (2)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a>, <a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/joss_samuel"><b>Joss</b> Samuel</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../soto_agus_hunh_joss.2018.PoDFiC/">Productivity of Digital Fabrication in Construction:<br/>Cost and Time-Analysis of a Robotically Built Wall</a> (165)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (23)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (20)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (20)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (20)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (26)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (19)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (19)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (18)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (17)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a></li>
   <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b> Aniko</a>, <a href="../../../author/hall_m_daniel"><b>Hall</b> Daniel</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../gras_kahl_hall.2021.DH/">DFAB HOUSE:<br/>Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Implementation of a Surrogate-Model for a Novel Path‐Based Finite-Element-Simulation for Additive Manufacturing-Processes in Construction ([2023-03](date/2023/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pamm.202200273) <a href="https://doi.org/10.1002/pamm.202200273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/pamm.202200273" target="_blank">10.1002/pamm.202200273</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/pamm.202200273" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/pamm.202200273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/pamm.202200273" target="_blank">10.1002/pamm.202200273</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3949-0310" title="ORCID: 0000-0003-3949-0310" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b>&nbsp;Virama</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6809-7118" title="ORCID: 0000-0001-6809-7118" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hurkamp_andre"><b>Hürkamp</b>&nbsp;André</a></span><br>
 Journal Article - Proceedings in Applied Mathematics and Mechanics, Vol. 22, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Implementation%20of%20a%20Surrogate-Model%20for%20a%20Novel%20Path%E2%80%90Based%20Finite-Element-Simulation%20for%20Additive%20Manufacturing-Processes%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=implementation+of+a+surrogate-model+for+a+novel+path%E2%80%90based+finite-element-simulation+for+additive+manufacturing-processes+in+construction&as_occt=title&as_sauthors=ekanayaka&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/pamm.202200273" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

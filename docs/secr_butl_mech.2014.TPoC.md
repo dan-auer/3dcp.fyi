@@ -16,14 +16,15 @@ tags:
 
 #Testing Pumpability of Concrete&nbsp;([2014-11](date/2014/11))
 <div class="h1-like">From Laboratory into Practice</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.201400072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.201400072" target="_blank">10.1002/bate.201400072</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/bate.201400072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.201400072" target="_blank">10.1002/bate.201400072</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8679-2325" title="ORCID: 0000-0001-8679-2325" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/secrieru_egor"><b>Secrieru</b>&nbsp;Egor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6116-1727" title="ORCID: 0000-0002-6116-1727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/butler_marko"><b>Butler</b>&nbsp;Marko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Bautechnik, Vol. 91, Iss. 11, pp. 797-811
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Testing%20Pumpability%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=testing+pumpability+of+concrete&as_occt=title&as_sauthors=secrieru&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84917708530&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000344594900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/bate.201400072" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

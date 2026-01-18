@@ -21,14 +21,15 @@ tags:
 
 #Potential of 3D Printed Steel Fiber Reinforced Concrete Components for the Protection of Critical Infrastructure&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">Impact and Free-Fall Tests</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202300040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202300040" target="_blank">10.1002/best.202300040</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202300040" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202300040" target="_blank">10.1002/best.202300040</a>
 
 <a href="../../../author/zohrabyan_vahan"><b>Zohrabyan</b>&nbsp;Vahan</a></span>, <a href="../../../author/zoller_raphael"><b>Zöller</b>&nbsp;Raphael</a></span>, <a href="../../../author/gradic_simon"><b>Gradic</b>&nbsp;Simon</a></span>, <a href="../../../author/braml_thomas"><b>Braml</b>&nbsp;Thomas</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Potential%20of%203D%20Printed%20Steel%20Fiber%20Reinforced%20Concrete%20Components%20for%20the%20Protection%20of%20Critical%20Infrastructure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=potential+of+3d+printed+steel+fiber+reinforced+concrete+components+for+the+protection+of+critical+infrastructure&as_occt=title&as_sauthors=zohrabyan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163778541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001021563300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202300040" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-025-02785-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02785-9" target="_blank">10.1617/s11527-025-02785-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-025-02785-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-025-02785-9" target="_blank">10.1617/s11527-025-02785-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9503-2851" title="ORCID: 0000-0002-9503-2851" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_baixi"><b>Chen</b>&nbsp;Baixi</a></span>, <a href="../../../author/yang_lei"><b>Yang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8628-8070" title="ORCID: 0000-0002-8628-8070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_sheng"><b>Jiang</b>&nbsp;Sheng</a></span><br>
 Journal Article - Materials and Structures, Vol. 58, Iss. 8
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curvature"><button class="btn">#curvature</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/inclination"><button class="btn">#inclination</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Stochastic%20Analysis%20of%203D%20Concrete%20Printing%20Process%20with%20Curvature%20and%20Inclination%20by%20Explainable%20Data-Driven%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=stochastic+analysis+of+3d+concrete+printing+process+with+curvature+and+inclination+by+explainable+data-driven+modelling&as_occt=title&as_sauthors=chen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016718325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001576135200004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-025-02785-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -24,14 +24,15 @@ tags:
 
 #Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Interpreting Nonlinear Synergies Among Binder Components and Proportions</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.32604/cmes.2025.073088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32604/cmes.2025.073088" target="_blank">10.32604/cmes.2025.073088</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.32604/cmes.2025.073088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32604/cmes.2025.073088" target="_blank">10.32604/cmes.2025.073088</a>
 
 <a href="../../../author/abbas_m_yassir"><b>Abbas</b>&nbsp;Yassir</a></span>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b>&nbsp;Abdulaziz</a></span><br>
 Journal Article - Computer Modeling in Engineering & Sciences, Vol. 145, Iss. 2, pp. 1789-1819
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Explainable%20Data-Driven%20Modeling%20for%20Optimized%20Mix%20Design%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=explainable+data-driven+modeling+for+optimized+mix+design+of+3d-printed+concrete&as_occt=title&as_sauthors=abbas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023050811&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.32604/cmes.2025.073088" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

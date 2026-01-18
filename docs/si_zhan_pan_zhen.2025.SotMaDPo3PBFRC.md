@@ -17,14 +17,15 @@ tags:
 ---
 
 #Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" target="_blank">10.1016/j.conbuildmat.2025.141464</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141464" target="_blank">10.1016/j.conbuildmat.2025.141464</a>
 
 <a href="../../../author/si_qi"><b>Si</b>&nbsp;Qi</a></span>, <a href="../../../author/zhang_wenna"><b>Zhang</b>&nbsp;Wenna</a></span>, <a href="../../../author/pan_zhihong"><b>Pan</b>&nbsp;Zhihong</a></span>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b>&nbsp;Jianqiang</a></span>, <a href="../../../author/yu_chaomin"><b>Yu</b>&nbsp;Chaomin</a></span>, <a href="../../../author/zhang_guohe"><b>Zhang</b>&nbsp;Guohe</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 478, No. 141464
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Mechanical%20and%20Durability%20Properties%20of%203D-Printed%20Bamboo%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+mechanical+and+durability+properties+of+3d-printed+bamboo+fiber-reinforced+concrete&as_occt=title&as_sauthors=si&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003156237&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001480885600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.141464" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

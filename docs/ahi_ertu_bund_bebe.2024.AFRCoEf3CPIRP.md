@@ -20,14 +20,15 @@ tags:
 ---
 
 #Automated Flow-Rate-Control of Extrusion for 3D Concrete Printing Incorporating Rheological Parameters ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105319" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105319" target="_blank">10.1016/j.autcon.2024.105319</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105319" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105319" target="_blank">10.1016/j.autcon.2024.105319</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8400-2537" title="ORCID: 0000-0001-8400-2537" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahi_ogulcan"><b>Ahi</b>&nbsp;Oğulcan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1652-782X" title="ORCID: 0000-0003-1652-782X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ertunc_ozgur"><b>Ertunç</b>&nbsp;Özgür</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span><br>
 Journal Article - Automation in Construction, Vol. 160, No. 105319
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Flow-Rate-Control%20of%20Extrusion%20for%203D%20Concrete%20Printing%20Incorporating%20Rheological%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+flow-rate-control+of+extrusion+for+3d+concrete+printing+incorporating+rheological+parameters&as_occt=title&as_sauthors=ahi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184749500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001182009800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105319" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

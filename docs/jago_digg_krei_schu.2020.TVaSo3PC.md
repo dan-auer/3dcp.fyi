@@ -15,14 +15,15 @@ tags:
 
 #The Viability and Simplicity of 3D Printed Construction&nbsp;([2020-04](date/2020/04))
 <div class="h1-like">A Military Case Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/5/4/35/pdf?version=1586173866) <a href="https://doi.org/10.3390/infrastructures5040035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures5040035" target="_blank">10.3390/infrastructures5040035</a>
+<a href="https://www.mdpi.com/2412-3811/5/4/35/pdf?version=1586173866" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/infrastructures5040035" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures5040035" target="_blank">10.3390/infrastructures5040035</a>
 
 <a href="../../../author/jagoda_a_jenee"><b>Jagoda</b>&nbsp;Jeneé</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2052-0946" title="ORCID: 0000-0003-2052-0946" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b>&nbsp;Brandy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9721-9513" title="ORCID: 0000-0002-9721-9513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kreiger_a_megan"><b>Kreiger</b>&nbsp;Megan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4234-7454" title="ORCID: 0000-0002-4234-7454" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schuldt_j_steven"><b>Schuldt</b>&nbsp;Steven</a></span><br>
 Journal Article - Infrastructures, Vol. 5, Iss. 4
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Viability%20and%20Simplicity%20of%203D%20Printed%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+viability+and+simplicity+of+3d+printed+construction&as_occt=title&as_sauthors=jagoda&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083317260&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000623635300005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/infrastructures5040035" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

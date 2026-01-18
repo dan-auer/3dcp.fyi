@@ -16,14 +16,15 @@ tags:
 ---
 
 #Numerical Simulation of Multi-Layer 3D Concrete Printing ([2021-10](date/2021/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/142/145) <a href="https://doi.org/10.21809/rilemtechlett.2021.142" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2021.142" target="_blank">10.21809/rilemtechlett.2021.142</a>
+<a href="https://letters.rilem.net/index.php/rilem/article/download/142/145" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21809/rilemtechlett.2021.142" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2021.142" target="_blank">10.21809/rilemtechlett.2021.142</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stang_henrik"><b>Stang</b>&nbsp;Henrik</a></span><br>
 Journal Article - RILEM Technical Letters, Vol. 6, pp. 119-123
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%20Multi-Layer%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulation+of+multi-layer+3d+concrete+printing&as_occt=title&as_sauthors=spangenberg&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119604975&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21809/rilemtechlett.2021.142" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

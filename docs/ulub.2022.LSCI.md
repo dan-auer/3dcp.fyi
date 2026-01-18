@@ -15,14 +15,15 @@ tags:
 
 #Lunar Shelter Construction Issues&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">The State of the Art Towards 3D Printing Technologies</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" target="_blank">10.1016/j.actaastro.2022.03.033</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2022.03.033" target="_blank">10.1016/j.actaastro.2022.03.033</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0871-7391" title="ORCID: 0000-0003-0871-7391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b>&nbsp;Serdar</a></span><br>
 Journal Article - Acta Astronautica, Vol. 195, pp. 318-343
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lunar%20Shelter%20Construction%20Issues" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lunar+shelter+construction+issues&as_occt=title&as_sauthors=ulubeyli&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127137316&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000780329300006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.actaastro.2022.03.033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -76,8 +77,9 @@ Journal Article - Acta Astronautica, Vol. 195, pp. 318-343
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ bug "8 Citations"
+???+ bug "9 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/driouich_anas"><b>Driouich</b> Anas</a>, <a href="../../../author/dalconi_chiara_maria"><b>Dalconi</b> Maria</a>, <a href="../../../author/franchin_giorgia"><b>Franchin</b> Giorgia</a>, <a href="../../../author/bettanini_carlo"><b>Bettanini</b> Carlo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../drio_dalc_fran_bett.2026.OoAARSfLCb3P/">Optimization of Alkali-Activated Regolith Simulants for Lunar Construction by 3D Printing</a></li>
       <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
       <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/liu_qi"><b>Liu</b> Qi</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_han_liu_yang.2025.Rot3PPaFSoCMiLG/">Research on the 3D Printing Process and Filament Shape of Cementitious Materials in Low Gravity</a></li>
       <li><a href="../../../author/venugopal-reddy_p"><b>Venugopal Reddy</b> P.</a>, <a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a>, <a href="../../../author/roy_dipankar"><b>Roy</b> Dipankar</a>, <a href="../../../author/alaneme_uwadiegwu_george"><b>Alaneme</b> George</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../venu_nakk_roy_alan.2024.EtUoRFAi3P/">Evaluating the Use of Recycled Fine Aggregates in 3D Printing:<br/>A Systematic Review</a></li>

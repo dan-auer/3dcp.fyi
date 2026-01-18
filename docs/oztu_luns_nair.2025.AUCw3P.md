@@ -17,14 +17,15 @@ tags:
 
 #Advancing Underwater Construction with 3D Printing&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">A Two-Stage Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1132&context=c3_2025) <a href="https://doi.org/10.5703/1288284318063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318063" target="_blank">10.5703/1288284318063</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1132&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318063" target="_blank">10.5703/1288284318063</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2365-9388" title="ORCID: 0000-0003-2365-9388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_onur"><b>Ozturk</b>&nbsp;Onur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3663-4515" title="ORCID: 0009-0003-3663-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lunsford_caleb"><b>Lunsford</b>&nbsp;Caleb</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b>&nbsp;Sriramya</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Underwater%20Construction%20with%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+underwater+construction+with+3d+printing&as_occt=title&as_sauthors=ozturk&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318063" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

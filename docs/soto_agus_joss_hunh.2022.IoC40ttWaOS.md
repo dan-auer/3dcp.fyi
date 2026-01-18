@@ -15,14 +15,15 @@ tags:
 ---
 
 #Implications of Construction 4.0 to the Workforce and Organizational Structures ([2019-05](date/2019/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://discovery.ucl.ac.uk/10075076/1/Agusti%20Juan_Implications%20of%20Construction%204.0%20to%20the%20workforce%20and%20organizational%20structures_AAM.pdf) <a href="https://doi.org/10.1080/15623599.2019.1616414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2019.1616414" target="_blank">10.1080/15623599.2019.1616414</a>
+<a href="https://discovery.ucl.ac.uk/10075076/1/Agusti%20Juan_Implications%20of%20Construction%204.0%20to%20the%20workforce%20and%20organizational%20structures_AAM.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15623599.2019.1616414" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2019.1616414" target="_blank">10.1080/15623599.2019.1616414</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soto_garcia_borja"><b>de&nbsp;Soto</b>&nbsp;Borja</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2385-6210" title="ORCID: 0000-0002-2385-6210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b>&nbsp;Isolda</a></span>, <a href="../../../author/joss_samuel"><b>Joss</b>&nbsp;Samuel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1296-2384" title="ORCID: 0000-0002-1296-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b>&nbsp;Jens</a></span><br>
 Journal Article - International Journal of Construction Management, Vol. 22, Iss. 2, pp. 205-217
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/organization"><button class="btn">#organization</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Implications%20of%20Construction%204.0%20to%20the%20Workforce%20and%20Organizational%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=implications+of+construction+4.0+to+the+workforce+and+organizational+structures&as_occt=title&as_sauthors=soto&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066063580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000469541200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15623599.2019.1616414" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

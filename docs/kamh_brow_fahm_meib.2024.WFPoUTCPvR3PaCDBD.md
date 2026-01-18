@@ -19,14 +19,15 @@ tags:
 ---
 
 #Waste-Free Production of Ultra-Thin Concrete Panels via Robotic 3D Printing and CNC Dynamic Bed Device ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_12" target="_blank">10.1007/978-3-031-70031-6_12</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_12" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_12" target="_blank">10.1007/978-3-031-70031-6_12</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-2224-0355" title="ORCID: 0009-0003-2224-0355" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_jacob"><b>Brown</b>&nbsp;Jacob</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9859-160X" title="ORCID: 0009-0004-9859-160X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fahmy_ali"><b>Fahmy</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 99-106
 
 <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cnc"><button class="btn">#cnc</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Waste-Free%20Production%20of%20Ultra-Thin%20Concrete%20Panels%20via%20Robotic%203D%20Printing%20and%20CNC%20Dynamic%20Bed%20Device" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=waste-free+production+of+ultra-thin+concrete+panels+via+robotic+3d+printing+and+cnc+dynamic+bed+device&as_occt=title&as_sauthors=kamhawi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203025396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_12" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

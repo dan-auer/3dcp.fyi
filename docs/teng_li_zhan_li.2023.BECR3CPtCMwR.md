@@ -18,14 +18,15 @@ tags:
 ---
 
 #BIM-Enabled Collaborative-Robots 3D Concrete Printing to Construct MiC with Reinforcement ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.hkie.org.hk/hkietransactions/doc.php?id=932) <a href="https://doi.org/10.33430/v30n1thie-2022-0023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.33430/v30n1thie-2022-0023" target="_blank">10.33430/v30n1thie-2022-0023</a>
+<a href="https://www.hkie.org.hk/hkietransactions/doc.php?id=932" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.33430/v30n1thie-2022-0023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.33430/v30n1thie-2022-0023" target="_blank">10.33430/v30n1thie-2022-0023</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4562-6480" title="ORCID: 0000-0003-4562-6480" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_fei"><b>Teng</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/zhang_dong"><b>Zhang</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3187-9041" title="ORCID: 0000-0002-3187-9041" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_heng"><b>Li</b>&nbsp;Heng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span><br>
 Journal Article - HKIE Transactions, Vol. 30, Iss. 1, pp. 106-115
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/collaboration"><button class="btn">#collaboration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=BIM-Enabled%20Collaborative-Robots%203D%20Concrete%20Printing%20to%20Construct%20MiC%20with%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bim-enabled+collaborative-robots+3d+concrete+printing+to+construct+mic+with+reinforcement&as_occt=title&as_sauthors=teng&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184209018&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.33430/v30n1thie-2022-0023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

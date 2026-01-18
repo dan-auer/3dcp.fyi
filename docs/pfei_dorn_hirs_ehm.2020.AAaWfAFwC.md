@@ -16,14 +16,15 @@ tags:
 ---
 
 #Architectural Applications and Workflows for Additive Fabrication with Concrete ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_92" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_92" target="_blank">10.1007/978-3-030-49916-7_92</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_92" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_92" target="_blank">10.1007/978-3-030-49916-7_92</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2946-9270" title="ORCID: 0000-0002-2946-9270" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pfeiffer_sven"><b>Pfeiffer</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0938-4261" title="ORCID: 0000-0002-0938-4261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hirsch_tamino"><b>Hirsch</b>&nbsp;Tamino</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0118-7797" title="ORCID: 0000-0003-0118-7797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ehm_clemens"><b>Ehm</b>&nbsp;Clemens</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span>, <a href="../../../author/vassiliadis_dimitrios"><b>Vassiliadis</b>&nbsp;Dimitrios</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 946-955
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Architectural%20Applications%20and%20Workflows%20for%20Additive%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=architectural+applications+and+workflows+for+additive+fabrication+with+concrete&as_occt=title&as_sauthors=pfeiffer&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088270071&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_92" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

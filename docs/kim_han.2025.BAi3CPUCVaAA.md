@@ -18,14 +18,15 @@ tags:
 ---
 
 #Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114374" target="_blank">10.1016/j.jobe.2025.114374</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114374" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114374" target="_blank">10.1016/j.jobe.2025.114374</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-5112-772X" title="ORCID: 0009-0004-5112-772X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_yoon-chul"><b>Kim</b>&nbsp;Yoon-Chul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-3922" title="ORCID: 0000-0002-5281-3922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_tong-seok"><b>Han</b>&nbsp;Tong-Seok</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114374
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/annotation"><button class="btn">#annotation</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Buildability%20Analysis%20in%203D%20Concrete%20Printing%20Using%20Computer%20Vision%20and%20Automated%20Annotation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=buildability+analysis+in+3d+concrete+printing+using+computer+vision+and+automated+annotation&as_occt=title&as_sauthors=kim&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019247747&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001605005400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114374" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

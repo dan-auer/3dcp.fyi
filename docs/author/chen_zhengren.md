@@ -9,6 +9,55 @@ search:
 
 #  Chen Zhengren 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2026-01-01
+    
+    Last Contribution
+    : 2026-01-01
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 0
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_zheng"><b>Li</b> Zheng</a> (1)</li>
+        <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> (1)</li>
+        <li><a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a> (1)</li>
+        <li><a href="../../../author/zhou_xuhong"><b>Zhou</b> Xuhong</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a> (0)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (2)</li>
+        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (1)</li>
+        <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a> (1)</li>
+        <li><a href="../../../author/mogra_mihir"><b>Mogra</b> Mihir</a> (1)</li>
+        <li><a href="../../../author/zidan_yousef"><b>Abu Zidan</b> Yousef</a> (1)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><i>N/A</i></li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
 </ol>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Transforming Construction Waste into Resources for 3D Printed Concrete ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/103_Transforming_Construction_Waste_into_Resources_for_3D_Printed_Concrete (1).pdf) <a href="https://doi.org/10.22260/isarc2025/0103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0103" target="_blank">10.22260/isarc2025/0103</a>
+<a href="https://www.iaarc.org/./publications/fulltext/103_Transforming_Construction_Waste_into_Resources_for_3D_Printed_Concrete (1).pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0103" target="_blank">10.22260/isarc2025/0103</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8935-5793" title="ORCID: 0000-0002-8935-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b>&nbsp;Ekaterina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/lazorenko_georgy"><b>Lazorenko</b>&nbsp;Georgy</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 792-796
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Transforming%20Construction%20Waste%20into%20Resources%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=transforming+construction+waste+into+resources+for+3d+printed+concrete&as_occt=title&as_sauthors=kravchenko&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016654852&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0103" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

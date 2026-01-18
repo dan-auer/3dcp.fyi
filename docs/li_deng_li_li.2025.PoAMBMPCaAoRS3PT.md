@@ -20,14 +20,15 @@ tags:
 ---
 
 #Performance of Active-Magnesia-Based Magnesium Phosphate Cement and Application of Rapid-Solidification 3D Printing Technology ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.25.00025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.25.00025" target="_blank">10.1680/jmacr.25.00025</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmacr.25.00025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.25.00025" target="_blank">10.1680/jmacr.25.00025</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2364-6616" title="ORCID: 0000-0003-2364-6616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_nan"><b>Li</b>&nbsp;Nan</a></span>, <a href="../../../author/deng_yongjie"><b>Deng</b>&nbsp;Yongjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2008-2977" title="ORCID: 0000-0002-2008-2977" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_weihong"><b>Li</b>&nbsp;Weihong</a></span>, <a href="../../../author/li_lingyu"><b>Li</b>&nbsp;Lingyu</a></span>, <a href="../../../author/yu_hongfa"><b>Yu</b>&nbsp;Hongfa</a></span>, <a href="../../../author/ma_haiyan"><b>Ma</b>&nbsp;Haiyan</a></span>, <a href="../../../author/fan_haotian"><b>Fan</b>&nbsp;Haotian</a></span>, <a href="../../../author/yu_weimin"><b>Yu</b>&nbsp;Weimin</a></span>, <a href="../../../author/wang_xiaoming"><b>Wang</b>&nbsp;Xiaoming</a></span><br>
 Journal Article - Magazine of Concrete Research
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%20Active-Magnesia-Based%20Magnesium%20Phosphate%20Cement%20and%20Application%20of%20Rapid-Solidification%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+of+active-magnesia-based+magnesium+phosphate+cement+and+application+of+rapid-solidification+3d+printing+technology&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmacr.25.00025" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

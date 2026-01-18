@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Review of Lunar Regolith Based Alkali Activated Materials and Sintered Regolith for Use as a Construction Material ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.actaastro.2025.03.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2025.03.032" target="_blank">10.1016/j.actaastro.2025.03.032</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.actaastro.2025.03.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.actaastro.2025.03.032" target="_blank">10.1016/j.actaastro.2025.03.032</a>
 
 <a href="../../../author/pederson_federico"><b>Pederson</b>&nbsp;Federico</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2935-1601" title="ORCID: 0009-0008-2935-1601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ellersick_liam"><b>Ellersick</b>&nbsp;Liam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-1370" title="ORCID: 0000-0001-5720-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_heejeong"><b>Kim</b>&nbsp;Heejeong</a></span><br>
 Journal Article - Acta Astronautica, Vol. 232, pp. 502-515
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Lunar%20Regolith%20Based%20Alkali%20Activated%20Materials%20and%20Sintered%20Regolith%20for%20Use%20as%20a%20Construction%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+lunar+regolith+based+alkali+activated+materials+and+sintered+regolith+for+use+as+a+construction+material&as_occt=title&as_sauthors=pederson&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001872711&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001463913400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.actaastro.2025.03.032" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

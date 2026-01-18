@@ -19,14 +19,15 @@ tags:
 ---
 
 #Additive Manufacturing and Multi-Objective Optimization of Graded Polystyrene-Aggregate Concrete Structures ([2015-10](date/2015/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-24208-8_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-24208-8_19" target="_blank">10.1007/978-3-319-24208-8_19</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-24208-8_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-24208-8_19" target="_blank">10.1007/978-3-319-24208-8_19</a>
 
 <a href="../../../author/duballet_romain"><b>Duballet</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosselin_m_clement"><b>Gosselin</b>&nbsp;Clément</a></span>, <a href="../../../author/roux_philippe"><b>Roux</b>&nbsp;Philippe</a></span><br>
 Contribution - Proceedings of the Design Modelling Symposium 2015, pp. 225-235
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/objective"><button class="btn">#objective</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20and%20Multi-Objective%20Optimization%20of%20Graded%20Polystyrene-Aggregate%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+and+multi-objective+optimization+of+graded+polystyrene-aggregate+concrete+structures&as_occt=title&as_sauthors=duballet&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-24208-8_19" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

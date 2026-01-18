@@ -16,14 +16,15 @@ tags:
 ---
 
 #Variation of the Adhesion Between Concrete Printed Layers in a 3D Concrete Printed Structure ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-7434-4_102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-7434-4_102" target="_blank">10.1007/978-981-99-7434-4_102</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-7434-4_102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-7434-4_102" target="_blank">10.1007/978-981-99-7434-4_102</a>
 
 <a href="../../../author/dang_thuy-hang_thi"><b>Dang</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span><br>
 Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 971-978
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Variation%20of%20the%20Adhesion%20Between%20Concrete%20Printed%20Layers%20in%20a%203D%20Concrete%20Printed%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=variation+of+the+adhesion+between+concrete+printed+layers+in+a+3d+concrete+printed+structure&as_occt=title&as_sauthors=dang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180154325&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-7434-4_102" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

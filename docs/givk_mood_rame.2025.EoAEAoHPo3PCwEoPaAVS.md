@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure ([2025-02](date/2025/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-19488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-19488" target="_blank">10.1061/jmcee7.mteng-19488</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jmcee7.mteng-19488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-19488" target="_blank">10.1061/jmcee7.mteng-19488</a>
 
 <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3397-443X" title="ORCID: 0000-0002-3397-443X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moodi_faramarz"><b>Moodi</b>&nbsp;Faramarz</a></span>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b>&nbsp;Amir</a></span><br>
 Journal Article - Journal of Materials in Civil Engineering, Vol. 37, Iss. 5
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/emphasis"><button class="btn">#emphasis</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Air-Entraining%20Agent%20on%20Hardened%20Properties%20of%203D%20Printed%20Concrete%20with%20Emphasis%20on%20Permeability%20and%20Air%20Void%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+air-entraining+agent+on+hardened+properties+of+3d+printed+concrete+with+emphasis+on+permeability+and+air+void+structure&as_occt=title&as_sauthors=givkashi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219625961&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001445388800010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jmcee7.mteng-19488" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

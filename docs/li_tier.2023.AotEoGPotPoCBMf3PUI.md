@@ -19,14 +19,15 @@ tags:
 ---
 
 #Analysis of the Effect of Glass-Powder on the Printability of Cement-Based Materials for 3D Printing Using ImageJ ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1557/s43579-023-00479-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1557/s43579-023-00479-3" target="_blank">10.1557/s43579-023-00479-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1557/s43579-023-00479-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1557/s43579-023-00479-3" target="_blank">10.1557/s43579-023-00479-3</a>
 
 <a href="../../../author/li_te"><b>Li</b>&nbsp;Te</a></span>, <a href="../../../author/tier_laire"><b>Tier</b>&nbsp;Laire</a></span><br>
 Journal Article - MRS Communications
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20the%20Effect%20of%20Glass-Powder%20on%20the%20Printability%20of%20Cement-Based%20Materials%20for%203D%20Printing%20Using%20ImageJ" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+of+the+effect+of+glass-powder+on+the+printability+of+cement-based+materials+for+3d+printing+using+imagej&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171145752&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001079828400002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1557/s43579-023-00479-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

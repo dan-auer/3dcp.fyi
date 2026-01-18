@@ -18,14 +18,15 @@ tags:
 ---
 
 #Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading ([2022-02](date/2022/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" target="_blank">10.1016/j.ijimpeng.2022.104205</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijimpeng.2022.104205" target="_blank">10.1016/j.ijimpeng.2022.104205</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4374-868X" title="ORCID: 0000-0002-4374-868X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yekai"><b>Yang</b>&nbsp;Yekai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8907-8493" title="ORCID: 0000-0001-8907-8493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_chengqing"><b>Wu</b>&nbsp;Chengqing</a></span>, <a href="../../../author/liu_zhongxian"><b>Liu</b>&nbsp;Zhongxian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2457-1994" title="ORCID: 0000-0003-2457-1994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_jun"><b>Li</b>&nbsp;Jun</a></span>, <a href="../../../author/yang_ting"><b>Yang</b>&nbsp;Ting</a></span>, <a href="../../../author/jiang_xiquan"><b>Jiang</b>&nbsp;Xiquan</a></span><br>
 Journal Article - International Journal of Impact Engineering, Vol. 164
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characteristics%20of%203D%20Printing%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete%20Under%20Impact%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characteristics+of+3d+printing+ultra-high-performance+fiber-reinforced+concrete+under+impact+loading&as_occt=title&as_sauthors=yang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125545482&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000791291300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ijimpeng.2022.104205" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #reef
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/artificial"><button class="btn">#artificial (12)</button></a> <a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/design"><button class="btn">#design (7)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (4)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cimini_jacopo"><b>Cimini</b> Jacopo</a>, <a href="../../../author/meroni_lorenzo"><b>Meroni</b> Lorenzo</a>, <a href="../../../author/chiantore_mariachiara"><b>Chiantore</b> Mariachiara</a>, <a href="../../../author/albicini_paolo"><b>Albicini</b> Paolo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cimi_mero_chia_albi.2026.ACiMAR/">Addressing Challenges in Marine Algal Restoration:<br/>Lessons Learned from 3D-Printed Structures on Artificial Reefs</a></li>
   <li><a href="../../../author/berman_ofer"><b>Berman</b> Ofer</a>, <a href="../../../author/zavadsky_andrey"><b>Zavadsky</b> Andrey</a>, <a href="../../../author/drimer_nitai"><b>Drimer</b> Nitai</a>, <a href="../../../author/shashar_nadav"><b>Shashar</b> Nadav</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../berm_zava_drim_shas.2025.APC3PAR/">A Pure Ceramic 3D Printed Artificial Reef:<br/>Stability and Response</a></li>

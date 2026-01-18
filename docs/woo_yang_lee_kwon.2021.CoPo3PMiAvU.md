@@ -16,14 +16,15 @@ tags:
 ---
 
 #Comparison of Properties of 3D Printed Mortar in Air vs. Underwater ([2021-10](date/2021/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/19/5888/pdf?version=1633943320) <a href="https://doi.org/10.3390/ma14195888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195888" target="_blank">10.3390/ma14195888</a>
+<a href="https://www.mdpi.com/1996-1944/14/19/5888/pdf?version=1633943320" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14195888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14195888" target="_blank">10.3390/ma14195888</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1327-6327" title="ORCID: 0000-0002-1327-6327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/woo_seong-jin"><b>Woo</b>&nbsp;Seong-Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jun-mo"><b>Yang</b>&nbsp;Jun-Mo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 19
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Properties%20of%203D%20Printed%20Mortar%20in%20Air%20vs.%20Underwater" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparison+of+properties+of+3d+printed+mortar+in+air+vs.+underwater&as_occt=title&as_sauthors=woo&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116980214&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000726756100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14195888" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

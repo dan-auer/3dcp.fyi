@@ -9,6 +9,60 @@ search:
 
 #  Ruiz Gaby 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3835-9708" target="_blank">0000-0003-3835-9708</a>
+
+    First Contribution
+    : 2022-07-29
+    
+    Last Contribution
+    : 2025-02-12
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 26
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (7)</li>
+        <li><a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> (7)</li>
+        <li><a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> (7)</li>
+        <li><a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> (7)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (13)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (10)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (8)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (8)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (2)</li>
+        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (2)</li>
+        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> (2)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (1)</li>
+        <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
   <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a></li>

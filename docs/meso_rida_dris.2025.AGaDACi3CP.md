@@ -16,14 +16,15 @@ tags:
 ---
 
 #Addressing Geometrical and Dimensional Accuracy Challenges in 3D Concrete Printing ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-94889-3_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-94889-3_21" target="_blank">10.1007/978-3-031-94889-3_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-94889-3_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-94889-3_21" target="_blank">10.1007/978-3-031-94889-3_21</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b>&nbsp;Mouad</a></span>, <a href="../../../author/rida_foulki"><b>Rida</b>&nbsp;Foulki</a></span>, <a href="../../../author/driss_amegouz"><b>Driss</b>&nbsp;Amegouz</a></span><br>
 Contribution - Advances in Additive Manufacturing, pp. 260-270
 
 <a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Addressing%20Geometrical%20and%20Dimensional%20Accuracy%20Challenges%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=addressing+geometrical+and+dimensional+accuracy+challenges+in+3d+concrete+printing&as_occt=title&as_sauthors=mesoudy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012923838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-94889-3_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

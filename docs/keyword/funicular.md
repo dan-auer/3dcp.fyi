@@ -8,6 +8,10 @@ search:
 
 # #funicular
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/beam"><button class="btn">#beam (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/welch_ryan"><b>Welch</b> Ryan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chai_oror_zhi_welc.2024.DAfaPTFCB/">Design Approach for a Post-Tensioned Funicular Concrete Beam</a></li>
   <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/vakhshouri_pouria"><b>Vakhshouri</b> Pouria</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../oror_chai_zhi_vakh.2024.ESoaFCBP/">Experimental Study of a Funicular Concrete Beam Prototype</a></li>

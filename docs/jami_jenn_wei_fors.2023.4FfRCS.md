@@ -19,7 +19,7 @@ Contribution - Proceedings of the IASS 2023 Annual Symposium
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=4D%20Formwork%20for%20Robotic%20Concrete%20Spraying" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=4d+formwork+for+robotic+concrete+spraying&as_occt=title&as_sauthors=jami&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

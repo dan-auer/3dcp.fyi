@@ -19,14 +19,15 @@ tags:
 ---
 
 #LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00817-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00817-4" target="_blank">10.1007/s40964-024-00817-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-024-00817-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00817-4" target="_blank">10.1007/s40964-024-00817-4</a>
 
 <a href="../../../author/martin_michael"><b>Martin</b>&nbsp;Michael</a></span>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b>&nbsp;Hunter</a></span>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=LiDAR-Based%20Real-Time%20Geometrical%20Inspection%20for%20Large-Scale%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lidar-based+real-time+geometrical+inspection+for+large-scale+additive+manufacturing&as_occt=title&as_sauthors=martin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205311120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001321575800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-024-00817-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

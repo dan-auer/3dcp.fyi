@@ -19,14 +19,15 @@ tags:
 
 #Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">Correction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1617/s11527-022-02091-8.pdf) <a href="https://doi.org/10.1617/s11527-022-02091-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-022-02091-8" target="_blank">10.1617/s11527-022-02091-8</a>
+<a href="https://link.springer.com/content/pdf/10.1617/s11527-022-02091-8.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-022-02091-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-022-02091-8" target="_blank">10.1617/s11527-022-02091-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9931-7224" title="ORCID: 0000-0001-9931-7224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b>&nbsp;Behzad</a></span>, <a href="../../../author/pereira_joao"><b>Pereira</b>&nbsp;João</a></span>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b>&nbsp;Claúdia</a></span>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3580-4271" title="ORCID: 0000-0003-3580-4271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b>&nbsp;Vítor</a></span><br>
 Journal Article - Materials and Structures, Vol. 56, Iss. 1
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correction"><button class="btn">#correction</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20the%20Printing-Direction%20and%20Age%20on%20the%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+the+printing-direction+and+age+on+the+mechanical+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=zahabizadeh&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145240541&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000905041800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-022-02091-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

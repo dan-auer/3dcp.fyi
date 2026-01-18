@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Comprehensive Analysis on Material Properties and Specialized Applications in 3D Concrete Printing ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-3165-0_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_10" target="_blank">10.1007/978-981-96-3165-0_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-3165-0_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_10" target="_blank">10.1007/978-981-96-3165-0_10</a>
 
 <a href="../../../author/bhowmik_anirban"><b>Bhowmik</b>&nbsp;Anirban</a></span>, <a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b>&nbsp;Biswajoy</a></span>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b>&nbsp;Prakash</a></span><br>
 Contribution - Recent Advances in Additive Manufacturing, pp. 133-147
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comprehensive%20Analysis%20on%20Material%20Properties%20and%20Specialized%20Applications%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comprehensive+analysis+on+material+properties+and+specialized+applications+in+3d+concrete+printing&as_occt=title&as_sauthors=bhowmik&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006876464&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-3165-0_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,7 +9,62 @@ search:
 
 #  Pan Jinlong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2838-4849" target="_blank">0000-0002-2838-4849</a>
+
+    First Contribution
+    : 2019-07-31
+    
+    Last Contribution
+    : 2026-01-05
+
+    Number Contributions
+    : 25
+
+    Number Citations
+    : 1277
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (16)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
+        <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> (9)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (4)</li>
+        <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (320)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (97)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (87)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (70)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (67)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (65)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (54)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (51)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (48)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (45)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>
   <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #air
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (24)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (18)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (7)</button></a> <a href="../../keyword/property"><button class="btn">#property (7)</button></a> <a href="../../keyword/void"><button class="btn">#void (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../givk.2025.Do3PCCAEA/">Durability of 3D Printed Concrete Containing Air-Entraining Agent:<br/>Evaluating the Importance of Carbonation Resistance</a></li>
   <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>

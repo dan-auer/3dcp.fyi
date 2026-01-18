@@ -15,14 +15,15 @@ tags:
 ---
 
 #Experimental Study on the Thermal Performance of 3D Printed Enclosing Structures ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/15/12/4230/pdf?version=1654762099) <a href="https://doi.org/10.3390/en15124230" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15124230" target="_blank">10.3390/en15124230</a>
+<a href="https://www.mdpi.com/1996-1073/15/12/4230/pdf?version=1654762099" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/en15124230" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en15124230" target="_blank">10.3390/en15124230</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2673-4566" title="ORCID: 0000-0003-2673-4566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nemova_darya"><b>Nemova</b>&nbsp;Darya</a></span>, <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b>&nbsp;Evgeny</a></span>, <a href="../../../author/andreeva_darya"><b>Andreeva</b>&nbsp;Darya</a></span>, <a href="../../../author/khorobrov_svyatoslav"><b>Khorobrov</b>&nbsp;Svyatoslav</a></span>, <a href="../../../author/olshevskiy_vyacheslav"><b>Olshevskiy</b>&nbsp;Vyacheslav</a></span>, <a href="../../../author/vasileva_irina"><b>Vasileva</b>&nbsp;Irina</a></span>, <a href="../../../author/zaborova_daria"><b>Zaborova</b>&nbsp;Daria</a></span>, <a href="../../../author/musorina_tatiana"><b>Musorina</b>&nbsp;Tatiana</a></span><br>
 Journal Article - Energies, Vol. 15, Iss. 12, No. 4230
 
 <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Thermal%20Performance%20of%203D%20Printed%20Enclosing%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+the+thermal+performance+of+3d+printed+enclosing+structures&as_occt=title&as_sauthors=nemova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132206578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000815971600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/en15124230" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

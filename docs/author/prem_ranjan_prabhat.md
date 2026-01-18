@@ -9,6 +9,60 @@ search:
 
 #  Prem Prabhat 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9011-6928" target="_blank">0000-0001-9011-6928</a>
+
+    First Contribution
+    : 2022-04-27
+    
+    Last Contribution
+    : 2025-09-24
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 145
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (6)</li>
+        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (6)</li>
+        <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (4)</li>
+        <li><a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> (3)</li>
+        <li><a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a> (80)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (29)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (24)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (20)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (20)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (7)</li>
+        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> (7)</li>
+        <li><a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> (5)</li>
+        <li><a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> (4)</li>
+        <li><a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rabul_s-nitish_h"><b>Rabul</b> H.</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/rathan-rt_siva_arjun"><b>Rathan RT</b> Arjun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P/">Development of Fly Ash and Limestone Calcined Clay-Based Mixtures for Concrete 3D Printing</a></li>
   <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a>, <a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ravi_prem_bhas_mahe.2025.TDPo3PPaFHSCICSaaAFA/">Time-Dependent Properties of 3D Printable Plain and Fibered High Strength Concrete Incorporating Copper Slag as an Alternate Fine Aggregate</a></li>

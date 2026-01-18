@@ -18,14 +18,15 @@ tags:
 ---
 
 #Improving the Dimensional Accuracy in Selective Cement-Activation by w/c-Ratio Gradation ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_43" target="_blank">10.1007/978-3-031-70031-6_43</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_43" target="_blank">10.1007/978-3-031-70031-6_43</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1124-6295" title="ORCID: 0000-0003-1124-6295" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/herding_friedrich"><b>Herding</b>&nbsp;Friedrich</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 370-377
 
 <a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%20Dimensional%20Accuracy%20in%20Selective%20Cement-Activation%20by%20w/c-Ratio%20Gradation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+the+dimensional+accuracy+in+selective+cement-activation+by+w%2Fc-ratio+gradation&as_occt=title&as_sauthors=herding&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203086021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600043" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_43" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

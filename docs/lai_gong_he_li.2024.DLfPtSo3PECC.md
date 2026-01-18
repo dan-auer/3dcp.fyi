@@ -18,14 +18,15 @@ tags:
 ---
 
 #Deep Learning for Predicting the Strength of 3D Printable Engineered Cementitious Composites ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/eebda60612.2024.10485827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/eebda60612.2024.10485827" target="_blank">10.1109/eebda60612.2024.10485827</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/eebda60612.2024.10485827" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/eebda60612.2024.10485827" target="_blank">10.1109/eebda60612.2024.10485827</a>
 
 <a href="../../../author/lai_xin"><b>Lai</b>&nbsp;Xin</a></span>, <a href="../../../author/gong_chen"><b>Gong</b>&nbsp;Chen</a></span>, <a href="../../../author/he_enpei"><b>He</b>&nbsp;Enpei</a></span>, <a href="../../../author/li_yinmian"><b>Li</b>&nbsp;Yinmian</a></span>, <a href="../../../author/zhou_yixin"><b>Zhou</b>&nbsp;Yixin</a></span>, <a href="../../../author/zhang_fang"><b>Zhang</b>&nbsp;Fang</a></span><br>
 Contribution - Proceedings of the 2024 IEEE 3rd International Conference on Electrical Engineering, Big Data and Algorithms, pp. 52-56
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Deep%20Learning%20for%20Predicting%20the%20Strength%20of%203D%20Printable%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=deep+learning+for+predicting+the+strength+of+3d+printable+engineered+cementitious+composites&as_occt=title&as_sauthors=lai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191172763&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/eebda60612.2024.10485827" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Chen Chun 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2019-09-01
+    
+    Last Contribution
+    : 2024-09-23
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 591
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (8)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (7)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (6)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (47)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (34)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (33)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (24)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (64)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (34)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (30)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (26)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (25)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a>, <a href="../../../author/shi_yifan"><b>Shi</b> Yifan</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP/">Early-Age Shrinkage Mitigation and Quantitative Study on Water Loss Kinetics of 3D Printed Foam-Concrete Modified with Superabsorbent Polymers</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>

@@ -19,14 +19,15 @@ tags:
 
 #Additive Manufacturing for Repair&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">Continual Construction Through Bio-Based Materials</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/12038328) <a href="https://doi.org/10.1089/3dp.2023.0344" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0344" target="_blank">10.1089/3dp.2023.0344</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/12038328" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2023.0344" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0344" target="_blank">10.1089/3dp.2023.0344</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3093-8556" title="ORCID: 0000-0002-3093-8556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b>&nbsp;Mette</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b>&nbsp;Ruxandra-Stefania</a></span>, <a href="../../../author/nielsen_dalager_stine"><b>Nielsen</b>&nbsp;Stine</a></span>, <a href="../../../author/sonne_konrad"><b>Sonne</b>&nbsp;Konrad</a></span>, <a href="../../../author/eppinger_carl"><b>Eppinger</b>&nbsp;Carl</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 12, Iss. 2, pp. 112-121
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/continuity"><button class="btn">#continuity</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Repair" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+for+repair&as_occt=title&as_sauthors=thomsen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003304027&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001454698800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2023.0344" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

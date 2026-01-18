@@ -24,7 +24,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fuzzy"><button class="btn">#fuzzy</button></a> <a href="../../keyword/logic"><button class="btn">#logic</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Neural%20Networks%20and%20Fuzzy%20Logic%20Applied%20to%20Concrete%20Rheology%20for%20the%20Study%20of%20Printability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=artificial+neural+networks+and+fuzzy+logic+applied+to+concrete+rheology+for+the+study+of+printability&as_occt=title&as_sauthors=marcucci&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

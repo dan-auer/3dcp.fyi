@@ -14,14 +14,15 @@ tags:
 ---
 
 #Making a Case for 3D Printing for Housing Delivery in South Africa ([2020-01](date/2020/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ijhma-11-2019-0111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ijhma-11-2019-0111" target="_blank">10.1108/ijhma-11-2019-0111</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/ijhma-11-2019-0111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ijhma-11-2019-0111" target="_blank">10.1108/ijhma-11-2019-0111</a>
 
 <a href="../../../author/aghimien_douglas"><b>Aghimien</b>&nbsp;Douglas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2866-3706" title="ORCID: 0000-0003-2866-3706" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b>&nbsp;Clinton</a></span>, <a href="../../../author/aghimien_lerato"><b>Aghimien</b>&nbsp;Lerato</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8848-7823" title="ORCID: 0000-0002-8848-7823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thwala_didibhuku_wellington"><b>Thwala</b>&nbsp;Wellington</a></span>, <a href="../../../author/ndlovu_lebu"><b>Ndlovu</b>&nbsp;Lebu</a></span><br>
 Journal Article - International Journal of Housing Markets and Analysis, Vol. 13, Iss. 4, pp. 565-581
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/delievery"><button class="btn">#delievery</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Making%20a%20Case%20for%203D%20Printing%20for%20Housing%20Delivery%20in%20South%20Africa" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=making+a+case+for+3d+printing+for+housing+delivery+in+south+africa&as_occt=title&as_sauthors=aghimien&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85078895280&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000511476400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ijhma-11-2019-0111" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

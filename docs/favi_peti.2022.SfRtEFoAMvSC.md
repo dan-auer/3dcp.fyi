@@ -18,14 +18,15 @@ tags:
 ---
 
 #Strategies for Reducing the Environmental Footprint of Additive Manufacturing via Sprayed Concrete ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_16" target="_blank">10.1007/978-3-031-06116-5_16</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_16" target="_blank">10.1007/978-3-031-06116-5_16</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5883-3396" title="ORCID: 0000-0001-5883-3396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/favier_aurelie"><b>Favier</b>&nbsp;Aurélie</a></span>, <a href="../../../author/petit_agnes"><b>Petit</b>&nbsp;Agnès</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 105-110
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/footprint"><button class="btn">#footprint</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Strategies%20for%20Reducing%20the%20Environmental%20Footprint%20of%20Additive%20Manufacturing%20via%20Sprayed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=strategies+for+reducing+the+environmental+footprint+of+additive+manufacturing+via+sprayed+concrete&as_occt=title&as_sauthors=favier&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133167072&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

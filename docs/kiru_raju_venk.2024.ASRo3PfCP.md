@@ -14,14 +14,15 @@ tags:
 ---
 
 #A Short Review of 3D Printing from Construction Perspective ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-0072-1_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_24" target="_blank">10.1007/978-981-97-0072-1_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-0072-1_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_24" target="_blank">10.1007/978-981-97-0072-1_24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7859-1099" title="ORCID: 0000-0001-7859-1099" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kiruthiga_k"><b>Kiruthiga</b>&nbsp;K.</a></span>, <a href="../../../author/raju_vijaya-bhaskar_k"><b>Raju</b>&nbsp;K.</a></span>, <a href="../../../author/venkatakrishnaiah_r"><b>Venkatakrishnaiah</b>&nbsp;R.</a></span><br>
 Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 261-273
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Short%20Review%20of%203D%20Printing%20from%20Construction%20Perspective" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+short+review+of+3d+printing+from+construction+perspective&as_occt=title&as_sauthors=kiruthiga&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190284411&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-0072-1_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

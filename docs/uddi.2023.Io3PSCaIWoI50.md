@@ -16,14 +16,15 @@ tags:
 ---
 
 #Influence of 3D Printable Sustainable Concrete and Industrial Waste on Industry 5.0 ([2022-12](date/2022/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" target="_blank">10.4018/978-1-6684-6113-6.ch008</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4018/978-1-6684-6113-6.ch008" target="_blank">10.4018/978-1-6684-6113-6.ch008</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span><br>
 Contribution - Implications of Industry 5.0 on Environmental Sustainability, pp. 156-191
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%203D%20Printable%20Sustainable%20Concrete%20and%20Industrial%20Waste%20on%20Industry%205.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+3d+printable+sustainable+concrete+and+industrial+waste+on+industry+5.0&as_occt=title&as_sauthors=uddin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151463048&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4018/978-1-6684-6113-6.ch008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

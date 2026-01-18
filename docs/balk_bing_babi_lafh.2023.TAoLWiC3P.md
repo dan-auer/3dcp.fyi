@@ -16,14 +16,15 @@ tags:
 
 #The Analysis of Lean Wastes in Construction 3D Printing&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">A Case Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2023/0087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0087" target="_blank">10.22260/isarc2023/0087</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2023/0087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0087" target="_blank">10.22260/isarc2023/0087</a>
 
 <a href="../../../author/balkhy_wassim"><b>al&nbsp;Balkhy</b>&nbsp;Wassim</a></span>, <a href="../../../author/bing_scott"><b>Bing</b>&nbsp;Scott</a></span>, <a href="../../../author/babidi_saad"><b>el&nbsp;Babidi</b>&nbsp;Saad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b>&nbsp;Laure</a></span><br>
 Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Analysis%20of%20Lean%20Wastes%20in%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+analysis+of+lean+wastes+in+construction+3d+printing&as_occt=title&as_sauthors=balkhy&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172875373&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2023/0087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

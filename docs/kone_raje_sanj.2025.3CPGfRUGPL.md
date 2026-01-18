@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10298436.2025.2599876" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10298436.2025.2599876" target="_blank">10.1080/10298436.2025.2599876</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/10298436.2025.2599876" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10298436.2025.2599876" target="_blank">10.1080/10298436.2025.2599876</a>
 
 <a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b>&nbsp;Bahirathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Journal Article - International Journal of Pavement Engineering, Vol. 26, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete-Printed%20Geocell%20for%20Reinforcing%20Unbound%20Granular%20Pavement%20Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete-printed+geocell+for+reinforcing+unbound+granular+pavement+layers&as_occt=title&as_sauthors=koneswaran&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/10298436.2025.2599876" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

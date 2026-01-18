@@ -9,6 +9,60 @@ search:
 
 #  Zivkovic Sasa 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2018-09-14
+    
+    Last Contribution
+    : 2024-06-17
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 30
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a> (2)</li>
+        <li><a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a> (2)</li>
+        <li><a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> (2)</li>
+        <li><a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a> (2)</li>
+        <li><a href="../../../author/amador_robert"><b>Amador</b> Robert</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/battaglia_a_christopher"><b>Battaglia</b> Christopher</a>, <a href="../../../author/miller_fields_martin"><b>Miller</b> Martin</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../batt_mill_zivk.2019.SA3PoODCCLS/">Sub-Additive 3D Printing of Optimized Double Curved Concrete Lattice Structures</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (5)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (4)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> (5)</li>
+        <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> (3)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (3)</li>
+        <li><a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a> (3)</li>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../spen_gene_stra_nair.2024.CG/">Concrete Gyroid:<br/>An Additive Manufacturing (AM) Method to 3D Print Gyroid Geometries with a Cementitious Material</a></li>
   <li><a href="../../../author/lok_leslie"><b>Lok</b> Leslie</a>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a>, <a href="../../../author/zerbe_hikmat"><b>Zerbe</b> Hikmat</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lok_zivk_meye_zerb.2024.HoC/">House of Cores</a></li>

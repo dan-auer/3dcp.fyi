@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evolution of Early-Age Mechanical and Failure Behavior of 3D Printed Polymer Concrete ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-72955-3_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-72955-3_59" target="_blank">10.1007/978-3-031-72955-3_59</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-72955-3_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-72955-3_59" target="_blank">10.1007/978-3-031-72955-3_59</a>
 
 <a href="../../../author/najvani_amin-dehghani_mohammad"><b>Najvani</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5301-1510" title="ORCID: 0000-0001-5301-1510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/murcia_heras_daniel"><b>Murcia</b>&nbsp;Daniel</a></span>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b>&nbsp;Mahmoud</a></span><br>
 Contribution - Concrete-Polymer Composites in Circular Economy, pp. 577-584
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evolution%20of%20Early-Age%20Mechanical%20and%20Failure%20Behavior%20of%203D%20Printed%20Polymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evolution+of+early-age+mechanical+and+failure+behavior+of+3d+printed+polymer+concrete&as_occt=title&as_sauthors=najvani&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210580171&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-72955-3_59" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

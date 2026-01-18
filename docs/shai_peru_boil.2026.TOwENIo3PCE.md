@@ -18,14 +18,15 @@ tags:
 ---
 
 #Topology Optimization with Experimental-Numerical Investigation of 3D-Printed Concrete Elements ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" target="_blank">10.1016/j.conbuildmat.2025.144887</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144887" target="_blank">10.1016/j.conbuildmat.2025.144887</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7250-5364" title="ORCID: 0000-0001-7250-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaik_sameer_khaja"><b>Shaik</b>&nbsp;Khaja</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5755-3800" title="ORCID: 0000-0001-5755-3800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b>&nbsp;Mallikarjun</a></span>, <a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b>&nbsp;Charan</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 506, No. 144887
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Topology%20Optimization%20with%20Experimental-Numerical%20Investigation%20of%203D-Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=topology+optimization+with+experimental-numerical+investigation+of+3d-printed+concrete+elements&as_occt=title&as_sauthors=shaik&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.144887" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

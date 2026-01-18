@@ -20,14 +20,15 @@ tags:
 ---
 
 #Feasibility Study to Control Fiber-Distribution for Enhancement of Composite Properties via Three-Dimensional Printing ([2018-02](date/2018/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15376494.2018.1432809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15376494.2018.1432809" target="_blank">10.1080/15376494.2018.1432809</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15376494.2018.1432809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15376494.2018.1432809" target="_blank">10.1080/15376494.2018.1432809</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7182-7211" title="ORCID: 0000-0002-7182-7211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nam_jun_young"><b>Nam</b>&nbsp;Young</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6525-6806" title="ORCID: 0000-0001-6525-6806" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hwang_kwang_young"><b>Hwang</b>&nbsp;Young</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7953-1776" title="ORCID: 0000-0001-7953-1776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_woon_ji"><b>Park</b>&nbsp;Ji</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7169-196X" title="ORCID: 0000-0001-7169-196X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_mook_yun"><b>Lim</b>&nbsp;Yun</a></span><br>
 Journal Article - Mechanics of Advanced Materials and Structures, Vol. 26, Iss. 5, pp. 465-469
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20to%20Control%20Fiber-Distribution%20for%20Enhancement%20of%20Composite%20Properties%20via%20Three-Dimensional%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+study+to+control+fiber-distribution+for+enhancement+of+composite+properties+via+three-dimensional+printing&as_occt=title&as_sauthors=nam&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041499845&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000476584100009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15376494.2018.1432809" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

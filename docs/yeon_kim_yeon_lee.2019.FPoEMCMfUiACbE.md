@@ -19,14 +19,15 @@ tags:
 ---
 
 #Fresh Properties of EVA-Modified Cementitious Mixtures for Use in Additive Construction by Extrusion ([2019-07](date/2019/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/14/2292/pdf?version=1563411098) <a href="https://doi.org/10.3390/ma12142292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12142292" target="_blank">10.3390/ma12142292</a>
+<a href="https://www.mdpi.com/1996-1944/12/14/2292/pdf?version=1563411098" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma12142292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12142292" target="_blank">10.3390/ma12142292</a>
 
 <a href="../../../author/yeon_kyu-seok"><b>Yeon</b>&nbsp;Kyu-Seok</a></span>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b>&nbsp;Kwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span>, <a href="../../../author/lee_jun_hee"><b>Lee</b>&nbsp;Hee</a></span><br>
 Journal Article - Materials, Vol. 12, Iss. 14
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20of%20EVA-Modified%20Cementitious%20Mixtures%20for%20Use%20in%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fresh+properties+of+eva-modified+cementitious+mixtures+for+use+in+additive+construction+by+extrusion&as_occt=title&as_sauthors=yeon&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070441487&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000480454300080" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma12142292" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

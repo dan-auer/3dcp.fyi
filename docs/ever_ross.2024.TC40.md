@@ -25,14 +25,15 @@ tags:
 
 #Towards Construction 4.0&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">Computational Circular Design and Additive Manufacturing for Architecture Through Robotic Fabrication with Sustainable Materials and Open-Source Tools</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-36922-3_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_17" target="_blank">10.1007/978-3-031-36922-3_17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-36922-3_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_17" target="_blank">10.1007/978-3-031-36922-3_17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0200-6433" title="ORCID: 0000-0003-0200-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eversmann_philipp"><b>Eversmann</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1680-7717" title="ORCID: 0000-0003-1680-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_andrea"><b>Rossi</b>&nbsp;Andrea</a></span><br>
 Contribution - Architecture and Design for Industry 4.0, pp. 291-314
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/source"><button class="btn">#source</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Construction%204.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+construction+4.0&as_occt=title&as_sauthors=eversmann&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175150636&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-36922-3_17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

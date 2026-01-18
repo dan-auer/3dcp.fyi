@@ -16,14 +16,15 @@ tags:
 ---
 
 #Controlling Three-Dimensional-Printable Concrete with Vibration ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51734150" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734150" target="_blank">10.14359/51734150</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51734150" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734150" target="_blank">10.14359/51734150</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4234-6267" title="ORCID: 0000-0002-4234-6267" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pattaje-sooryanarayana_karthik"><b>Pattaje Sooryanarayana</b>&nbsp;Karthik</a></span>, <a href="../../../author/hawkins_a_kathleen"><b>Hawkins</b>&nbsp;Kathleen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lange_a_david"><b>Lange</b>&nbsp;David</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 353-358
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Controlling%20Three-Dimensional-Printable%20Concrete%20with%20Vibration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=controlling+three-dimensional-printable+concrete+with+vibration&as_occt=title&as_sauthors=pattaje+sooryanarayana&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121622056&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800031" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51734150" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

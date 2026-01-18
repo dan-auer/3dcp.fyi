@@ -9,6 +9,60 @@ search:
 
 #  Henke Klaudius 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6589-6053" target="_blank">0000-0001-6589-6053</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2024-08-11
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 98
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (4)</li>
+        <li><a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> (4)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (3)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a> (32)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (28)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (16)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (15)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (13)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (12)</li>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (11)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (9)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/buschmann_birger"><b>Buschmann</b> Birger</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a>, <a href="../../../author/asshoff_carsten"><b>Asshoff</b> Carsten</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../busc_henk_assh_talk.2024.AMoWCPbILF/">Additive Manufacturing of Wood-Composite-Parts by Individual Layer Fabrication:<br/>Influence of Process Parameters on Product Properties</a></li>
   <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wege_talk_lowk_henk.2022.AMoFFCEbSBwCSBC/">Additive Manufacturing of Free-Formed Concrete Elements by Selective Binding with Calcium Silicate-Based Cements</a></li>

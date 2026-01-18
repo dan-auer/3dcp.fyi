@@ -8,7 +8,12 @@ search:
 
 # #load
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (52)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (36)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (17)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (17)</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing (14)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a>, <a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC/">Effects of Pore Defects on Interfacial Bonding Between Rebar and 3D Printed Coarse Aggregate Concrete Under Multiple Loading Conditions</a></li>
   <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/tomar_milan"><b>Tomar</b> Milan</a>, <a href="../../../author/pradeep_r_kumar"><b>Pradeep</b> Kumar</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pal_chou_toma_prad.2026.IoIBCotLDBo3PB/">Influence of Interfilament Bond Characteristics on the Load–Deflection Behavior of 3D Printed Beam:<br/>A Numerical Study</a></li>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../pfle_radl_sam_vill.2025.3CPoTWLBRS/">3D Concrete Printing of Thin-Walled Load-Bearing Reinforced Structures</a></li>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>

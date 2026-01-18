@@ -8,6 +8,10 @@ search:
 
 # #multi
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (75)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (48)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (22)</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization (19)</button></a> <a href="../../keyword/material"><button class="btn">#material (17)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lapusan_ciprian"><b>Lapusan</b> Ciprian</a>, <a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b> Camelia</a>, <a href="../../../author/sosa_ioan"><b>Sosa</b> Ioan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lapu_negr_sosa.2026.MCDFfORSSi3CP/">Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>

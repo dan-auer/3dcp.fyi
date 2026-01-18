@@ -16,14 +16,15 @@ tags:
 ---
 
 #Digital Concrete Production with Vertical Textile Reinforcement ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/77/247) <a href="https://doi.org/10.52825/ocp.v1i.77" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.77" target="_blank">10.52825/ocp.v1i.77</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/77/247" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v1i.77" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.77" target="_blank">10.52825/ocp.v1i.77</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dittel_gozdem"><b>Dittel</b>&nbsp;Gözdem</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheurer_martin"><b>Scheurer</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6950-5435" title="ORCID: 0000-0001-6950-5435" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dringenberg_steffen"><b>Dringenberg</b>&nbsp;Steffen</a></span>, <a href="../../../author/jitton_velasco_joaquin"><b>Jitton</b>&nbsp;Joaquin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span><br>
 Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 35-43
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> <a href="../../keyword/vertical"><button class="btn">#vertical</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Concrete%20Production%20with%20Vertical%20Textile%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+concrete+production+with+vertical+textile+reinforcement&as_occt=title&as_sauthors=dittel&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v1i.77" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

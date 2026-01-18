@@ -13,14 +13,15 @@ tags:
 ---
 
 #From Control to Uncertainty in 3D Printing with Clay ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2018_104.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2018.2.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2018.2.021" target="_blank">10.52842/conf.ecaade.2018.2.021</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2018_104.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2018.2.021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2018.2.021" target="_blank">10.52842/conf.ecaade.2018.2.021</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span><br>
 Contribution - Proceedings of the 36th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 21-30
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Control%20to%20Uncertainty%20in%203D%20Printing%20with%20Clay" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+control+to+uncertainty+in+3d+printing+with+clay&as_occt=title&as_sauthors=g%C3%BCrsoy&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105564543&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2018.2.021" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

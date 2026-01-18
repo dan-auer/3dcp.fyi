@@ -19,14 +19,15 @@ tags:
 ---
 
 #Pragmatic Design Decision Support for Additive Construction Using Formal Knowledge and Its Prospects for Synergy with a Feedback Mechanism ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/12/2072/pdf?version=1671496195) <a href="https://doi.org/10.3390/buildings12122072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12122072" target="_blank">10.3390/buildings12122072</a>
+<a href="https://www.mdpi.com/2075-5309/12/12/2072/pdf?version=1671496195" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12122072" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12122072" target="_blank">10.3390/buildings12122072</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1385-071X" title="ORCID: 0000-0003-1385-071X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_chao"><b>Li</b>&nbsp;Chao</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0296-9205" title="ORCID: 0000-0003-0296-9205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zahedi_ata"><b>Zahedi</b>&nbsp;Ata</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8974-0926" title="ORCID: 0000-0001-8974-0926" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petzold_frank"><b>Petzold</b>&nbsp;Frank</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 12
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/knowledge"><button class="btn">#knowledge</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pragmatic%20Design%20Decision%20Support%20for%20Additive%20Construction%20Using%20Formal%20Knowledge%20and%20Its%20Prospects%20for%20Synergy%20with%20a%20Feedback%20Mechanism" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pragmatic+design+decision+support+for+additive+construction+using+formal+knowledge+and+its+prospects+for+synergy+with+a+feedback+mechanism&as_occt=title&as_sauthors=li&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144885815&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000900560700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12122072" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -66,8 +67,9 @@ Journal Article - Buildings, Vol. 12, Iss. 12
       <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a></li>
       <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a></li>
     </ol>
-???+ bug "2 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../guer_asen_fern.2026.LFAMwCaC/">Large‐Format Additive Manufacturing with Cement and Clays:<br/>Characterization Methods</a></li>
       <li><a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/petzold_frank"><b>Petzold</b> Frank</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_petz.2025.ODMoDD/">Ontology-Driven Mixture-of-Domain Documentation:<br/>A Backbone Approach Enabling Question Answering for Additive Construction</a></li>
       <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a></li>
     </ol>

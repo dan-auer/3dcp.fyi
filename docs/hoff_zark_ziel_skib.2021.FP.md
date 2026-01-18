@@ -14,14 +14,15 @@ tags:
 
 #Foundation Piles&nbsp;([2021-05](date/2021/05))
 <div class="h1-like">A New Feature for Concrete 3D Printers</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/10/2545/pdf?version=1621236743) <a href="https://doi.org/10.3390/ma14102545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14102545" target="_blank">10.3390/ma14102545</a>
+<a href="https://www.mdpi.com/1996-1944/14/10/2545/pdf?version=1621236743" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14102545" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14102545" target="_blank">10.3390/ma14102545</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2418-4759" title="ORCID: 0000-0003-2418-4759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hoffmann_marcin"><b>Hoffmann</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0084-2569" title="ORCID: 0000-0003-0084-2569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zarkiewicz_krzysztof"><b>Żarkiewicz</b>&nbsp;Krzysztof</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7949-1831" title="ORCID: 0000-0001-7949-1831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zielinski_adam"><b>Zieliński</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5946-5270" title="ORCID: 0000-0002-5946-5270" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchewka_lukasz"><b>Marchewka</b>&nbsp;Łukasz</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 10
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foundation"><button class="btn">#foundation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Foundation%20Piles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=foundation+piles&as_occt=title&as_sauthors=hoffmann&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85106647520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000662603300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14102545" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 
 #Cocoon&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">3D Printed Clay Formwork for Concrete Casting</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia21_400.pdf) <a href="https://doi.org/10.52842/conf.acadia.2021.400" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2021.400" target="_blank">10.52842/conf.acadia.2021.400</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia21_400.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2021.400" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2021.400" target="_blank">10.52842/conf.acadia.2021.400</a>
 
 <a href="../../../author/bruce_mackenzie"><b>Bruce</b>&nbsp;Mackenzie</a></span>, <a href="../../../author/clune_gabrielle"><b>Clune</b>&nbsp;Gabrielle</a></span>, <a href="../../../author/xie_ruxin"><b>Xie</b>&nbsp;Ruxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mozaffari_salma"><b>Mozaffari</b>&nbsp;Salma</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span><br>
 Contribution - Proceedings of the 41st Annual Conference of the Association for Computer Aided Design in Architecture, pp. 400-409
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cocoon" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cocoon&as_occt=title&as_sauthors=bruce&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2021.400" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

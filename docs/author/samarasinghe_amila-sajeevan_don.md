@@ -9,6 +9,60 @@ search:
 
 #  Samarasinghe Don 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0401-2482" target="_blank">0000-0003-0401-2482</a>
+
+    First Contribution
+    : 2024-06-14
+    
+    Last Contribution
+    : 2025-11-21
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 3
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a> (5)</li>
+        <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a> (3)</li>
+        <li><a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
+        <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/zou_kelvin"><b>Zou</b> Kelvin</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../ma_sama_roti_zou.2024.SCLo3PB/">Supply Chain Landscape of 3D Printed Buildings:<br/>A Stakeholder Decision Support Framework</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (7)</li>
+        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (7)</li>
+        <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> (5)</li>
+        <li><a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> (5)</li>
+        <li><a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
+        <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a> (1)</li>
+        <li><a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> (1)</li>
+        <li><a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b> Daniel</a> (1)</li>
+        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ma_jiayue"><b>Ma</b> Jiayue</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/zuo_kelvin"><b>Zuo</b> Kelvin</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ma_sama_roti_zuo.2025.ERMf3CPSCS/">Establishing Research Methods for 3D Concrete Printing Supply Chain Studies:<br/>Insights from Literature and Practice</a></li>
   <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a>, <a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../bajw_flem_sama_bao.2025.So3PT/">Sustainability of 3D Printing Technology:<br/>A Review on Research Trends and Developments</a></li>

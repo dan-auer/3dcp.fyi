@@ -15,14 +15,15 @@ tags:
 ---
 
 #Printing by Yield-Stress Fluid-Shaping ([2023-08](date/2023/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2023.103752) <a href="https://doi.org/10.1016/j.addma.2023.103752" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103752" target="_blank">10.1016/j.addma.2023.103752</a>
+<a href="https://doi.org/10.1016/j.addma.2023.103752" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2023.103752" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2023.103752" target="_blank">10.1016/j.addma.2023.103752</a>
 
 <a href="../../../author/geffrault_anatole"><b>Geffrault</b>&nbsp;Anatole</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1783-5448" title="ORCID: 0000-0002-1783-5448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b>&nbsp;Hela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3980-0825" title="ORCID: 0000-0003-3980-0825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coussot_philippe"><b>Coussot</b>&nbsp;Philippe</a></span><br>
 Journal Article - Additive Manufacturing, No. 103752
 
 <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing%20by%20Yield-Stress%20Fluid-Shaping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing+by+yield-stress+fluid-shaping&as_occt=title&as_sauthors=geffrault&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169502063&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001070911500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2023.103752" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

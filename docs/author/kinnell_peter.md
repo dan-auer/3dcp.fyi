@@ -9,6 +9,60 @@ search:
 
 #  Kinnell Peter 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-06-05
+    
+    Last Contribution
+    : 2025-04-19
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 192
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (11)</li>
+        <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> (9)</li>
+        <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> (8)</li>
+        <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> (7)</li>
+        <li><a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a> (54)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (47)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (36)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (34)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (33)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (17)</li>
+        <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> (17)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (16)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
   <li><a href="../../../author/farhan_azziz_abdul"><b>Farhan</b> Abdul</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../farh_xu_dobr_kola.2024.Q3CPPW/">Quantifying 3D Concrete Printing Production Waste</a></li>

@@ -14,14 +14,15 @@ tags:
 ---
 
 #Exploratory Investigation of Solid Freeform Construction ([1997-02](date/1997/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" target="_blank">10.1016/s0926-5805(96)00166-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/s0926-5805(96)00166-5" target="_blank">10.1016/s0926-5805(96)00166-5</a>
 
 <a href="../../../author/pegna_joseph"><b>Pegna</b>&nbsp;Joseph</a></span><br>
 Journal Article - Automation in Construction, Vol. 5, Iss. 5, pp. 427-437
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploratory%20Investigation%20of%20Solid%20Freeform%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploratory+investigation+of+solid+freeform+construction&as_occt=title&as_sauthors=pegna&as_ylo=1995&as_yhi=1999&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0031073205&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/s0926-5805(96)00166-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -42,8 +43,9 @@ Journal Article - Automation in Construction, Vol. 5, Iss. 5, pp. 427-437
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "229 Citations"
+???+ bug "230 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kechagia_aikaterini"><b>Kechagia</b> Aikaterini</a>, <a href="../../../author/tzounis_lazaros"><b>Tzounis</b> Lazaros</a>, <a href="../../../author/kechagias_john"><b>Kechagias</b> John</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kech_tzou_kech.2026.3PC/">3D Printing Concrete:<br/>A Short Review of Systems and Materials</a></li>
       <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
       <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xue_wang_lee_huan.2026.EoAtBRo3PC/">Effect of Aggregate-to-Binder Ratio on 3D Printed Concrete:<br/>Printability, Mechanics, and Shrinkage</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>

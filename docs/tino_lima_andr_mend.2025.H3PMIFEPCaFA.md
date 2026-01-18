@@ -22,14 +22,15 @@ tags:
 
 #Hybrid 3D Printable Mixtures Incorporating Fine Earth, Portland Cement, and Fly Ash&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">A Sustainable Alternative to Cement-Intensive Systems</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44242-025-00089-3.pdf) <a href="https://doi.org/10.1007/s44242-025-00089-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44242-025-00089-3" target="_blank">10.1007/s44242-025-00089-3</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44242-025-00089-3.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44242-025-00089-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44242-025-00089-3" target="_blank">10.1007/s44242-025-00089-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9480-1535" title="ORCID: 0000-0001-9480-1535" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b>&nbsp;Matheus</a></span>, <a href="../../../author/lima-moura-paiva_rayane"><b>de&nbsp;Lima Moura Paiva</b>&nbsp;Rayane</a></span>, <a href="../../../author/andrade_draeger_luiza"><b>de&nbsp;Andrade</b>&nbsp;Luiza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
 Journal Article - Low-Carbon Materials and Green Construction, Vol. 3, Iss. 1
 
 <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hybrid%203D%20Printable%20Mixtures%20Incorporating%20Fine%20Earth%2C%20Portland%20Cement%2C%20and%20Fly%20Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hybrid+3d+printable+mixtures+incorporating+fine+earth%2C+portland+cement%2C+and+fly+ash&as_occt=title&as_sauthors=tinoco&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44242-025-00089-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

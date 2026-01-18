@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Characterization of Layer-by-Layer Interface in Concrete Elements Obtained by Additive Manufacturing ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_48" target="_blank">10.1007/978-3-030-49916-7_48</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_48" target="_blank">10.1007/978-3-030-49916-7_48</a>
 
 <a href="../../../author/napolitano_rosanna"><b>Napolitano</b>&nbsp;Rosanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1565-0538" title="ORCID: 0000-0002-1565-0538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giudice_lorenzo"><b>del&nbsp;Giudice</b>&nbsp;Lorenzo</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 468-477
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Characterization%20of%20Layer-by-Layer%20Interface%20in%20Concrete%20Elements%20Obtained%20by%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+characterization+of+layer-by-layer+interface+in+concrete+elements+obtained+by+additive+manufacturing&as_occt=title&as_sauthors=napolitano&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088257933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_48" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

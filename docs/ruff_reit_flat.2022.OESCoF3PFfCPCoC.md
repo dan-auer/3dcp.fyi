@@ -18,14 +18,15 @@ tags:
 ---
 
 #Overcoming Environmental Stress-Cracking of FDM 3D Printed Formwork for Counter-Pressure Casting of Concrete ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831541) <a href="https://doi.org/10.1089/3dp.2021.0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0006" target="_blank">10.1089/3dp.2021.0006</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831541" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2021.0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0006" target="_blank">10.1089/3dp.2021.0006</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7957-3201" title="ORCID: 0000-0002-7957-3201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruffray_nicolas"><b>Ruffray</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5235-7541" title="ORCID: 0000-0002-5235-7541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiter_lex"><b>Reiter</b>&nbsp;Lex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 122-131
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Overcoming%20Environmental%20Stress-Cracking%20of%20FDM%203D%20Printed%20Formwork%20for%20Counter-Pressure%20Casting%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=overcoming+environmental+stress-cracking+of+fdm+3d+printed+formwork+for+counter-pressure+casting+of+concrete&as_occt=title&as_sauthors=ruffray&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129284945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000695672800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2021.0006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

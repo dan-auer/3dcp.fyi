@@ -9,6 +9,60 @@ search:
 
 #  Rangeard Damien 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5281-5944" target="_blank">0000-0002-5281-5944</a>
+
+    First Contribution
+    : 2012-06-10
+    
+    Last Contribution
+    : 2024-07-10
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 1188
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (13)</li>
+        <li><a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> (4)</li>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (3)</li>
+        <li><a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> (3)</li>
+        <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a> (609)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (27)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (25)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (24)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (22)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (21)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (86)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (72)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (44)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (42)</li>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (39)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b> Simon</a>, <a href="../../../author/audren_mathieu"><b>Audren</b> Mathieu</a>, <a href="../../../author/lely_nathan"><b>Lely</b> Nathan</a>, <a href="../../../author/borgne_tangi"><b>Borgne</b> Tangi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../guih_audr_lely_borg.2024.MaMoFPEbCEM/">Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials</a></li>
   <li><a href="../../../author/barjuei_shojaei_erfan"><b>Barjuei</b> Erfan</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/marie_f"><b>Marie</b> F.</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../barj_cour_rang_mari.2022.RTVBCoIMfLWSiC3PA/">Real-Time Vision-Based Control of Industrial Manipulators for Layer-Width Setting in Concrete 3D Printing Applications</a></li>

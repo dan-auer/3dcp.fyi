@@ -16,14 +16,15 @@ tags:
 ---
 
 #Lightweight Portland Cement Mixtures with Perlite for 3D Printing of Concrete Structures ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-44603-0_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44603-0_49" target="_blank">10.1007/978-3-031-44603-0_49</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-44603-0_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-44603-0_49" target="_blank">10.1007/978-3-031-44603-0_49</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6717-1619" title="ORCID: 0000-0002-6717-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b>&nbsp;Gintautas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1200-635X" title="ORCID: 0000-0002-1200-635X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/girskas_giedrius"><b>Girskas</b>&nbsp;Giedrius</a></span>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b>&nbsp;Lyudmyla</a></span><br>
 Contribution - Modern Building Materials, Structures and Techniques, pp. 479-489
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lightweight%20Portland%20Cement%20Mixtures%20with%20Perlite%20for%203D%20Printing%20of%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lightweight+portland+cement+mixtures+with+perlite+for+3d+printing+of+concrete+structures&as_occt=title&as_sauthors=skripki%C5%ABnas&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175967811&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-44603-0_49" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,7 +21,7 @@ Contribution - The Young Concrete Researchers, Engineers and Technologist Sympos
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Conceptualising%20the%20Behavior%20of%203D%20Printed%20Concrete%20Structures%20in%20Fire" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=conceptualising+the+behavior+of+3d+printed+concrete+structures+in+fire&as_occt=title&as_sauthors=pillay&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

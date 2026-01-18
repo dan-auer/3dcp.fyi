@@ -16,14 +16,15 @@ tags:
 ---
 
 #Impact of Drying of 3D Printed Cementitious Pastes on Their Degree of Hydration ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_32" target="_blank">10.1007/978-3-031-06116-5_32</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_32" target="_blank">10.1007/978-3-031-06116-5_32</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1918-5450" title="ORCID: 0000-0002-1918-5450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghantous_maria_rita"><b>Ghantous</b>&nbsp;Rita</a></span>, <a href="../../../author/valadez-carranza_yvette"><b>Valadez-Carranza</b>&nbsp;Yvette</a></span>, <a href="../../../author/reese_r_steven"><b>Reese</b>&nbsp;Steven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2859-7980" title="ORCID: 0000-0003-2859-7980" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weiss_jason_william"><b>Weiss</b>&nbsp;William</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 216-221
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/degree"><button class="btn">#degree</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Drying%20of%203D%20Printed%20Cementitious%20Pastes%20on%20Their%20Degree%20of%20Hydration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+drying+of+3d+printed+cementitious+pastes+on+their+degree+of+hydration&as_occt=title&as_sauthors=ghantous&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133166386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_32" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

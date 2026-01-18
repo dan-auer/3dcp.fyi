@@ -8,6 +8,10 @@ search:
 
 # #compound
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/design"><button class="btn">#design (2)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (2)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (2)</button></a> <a href="../../keyword/platform"><button class="btn">#platform (2)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b> Magdalena</a>, <a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../huty_bank_tyli.2024.TfAPoHPBCf3P/">Technology for Automated Production of High-Performance Building Compounds for 3D Printing</a></li>
   <li><a href="../../../author/keating_j_steven"><b>Keating</b> Steven</a>, <a href="../../../author/spielberg_a_nathan"><b>Spielberg</b> Nathan</a>, <a href="../../../author/klein_john"><b>Klein</b> John</a>, <a href="../../../author/oxman_neri"><b>Oxman</b> Neri</a> <a href="../../../date/2014/05">(2014-05)</a><br><a href="../../../keat_spie_klei_oxma.2014.ACAAtDC/">A Compound Arm Approach to Digital Construction:<br/>A Mobile Large-Scale Platform for On-Site Sensing, Design, and Digital Fabrication</a></li>

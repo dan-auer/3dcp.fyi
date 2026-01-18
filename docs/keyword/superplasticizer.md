@@ -8,6 +8,10 @@ search:
 
 # #superplasticizer
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (9)</button></a> <a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/paste"><button class="btn">#paste (4)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/megahed_mai"><b>Megahed</b> Mai</a>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mega_abou.2025.TS3CP/">Toward Sustainable 3D Concrete Printing:<br/>Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</a></li>
   <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_seka.2025.Ei3P/">Extrudability in 3D Printing:<br/>A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</a></li>

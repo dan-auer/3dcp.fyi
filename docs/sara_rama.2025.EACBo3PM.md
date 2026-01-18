@@ -21,14 +21,15 @@ tags:
 
 #Early Age Creep Behavior of 3D Printable Mortar&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Hydration and Viscoelasticity Coupling Model</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mechmat.2025.105484" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mechmat.2025.105484" target="_blank">10.1016/j.mechmat.2025.105484</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mechmat.2025.105484" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mechmat.2025.105484" target="_blank">10.1016/j.mechmat.2025.105484</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-2501-5814" title="ORCID: 0009-0007-2501-5814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saravanan_pradeep"><b>Saravanan</b>&nbsp;Pradeep</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0391-8952" title="ORCID: 0000-0003-0391-8952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b>&nbsp;Ananth</a></span><br>
 Journal Article - Mechanics of Materials, No. 105484
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/couple"><button class="btn">#couple</button></a> <a href="../../keyword/creep"><button class="btn">#creep</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Early%20Age%20Creep%20Behavior%20of%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=early+age+creep+behavior+of+3d+printable+mortar&as_occt=title&as_sauthors=saravanan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015136777&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001568197300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mechmat.2025.105484" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Polymer-Cement Concrete Based on Polyvinyl-Acetate Dispersion for Construction 3D Printing ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-21120-1_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21120-1_11" target="_blank">10.1007/978-3-031-21120-1_11</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-21120-1_11" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21120-1_11" target="_blank">10.1007/978-3-031-21120-1_11</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b>&nbsp;Anastasiia</a></span>, <a href="../../../author/sokolnikova_s"><b>Sokolnikova</b>&nbsp;S.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9593-8653" title="ORCID: 0000-0002-9593-8653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b>&nbsp;Maria</a></span><br>
 Contribution - Proceedings of the 6th International Conference on Construction, Architecture and Technosphere Safety, pp. 108-117
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dispersion"><button class="btn">#dispersion</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Polymer-Cement%20Concrete%20Based%20on%20Polyvinyl-Acetate%20Dispersion%20for%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=polymer-cement+concrete+based+on+polyvinyl-acetate+dispersion+for+construction+3d+printing&as_occt=title&as_sauthors=puzatova+%28nee+sharanova%29&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151059080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-21120-1_11" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

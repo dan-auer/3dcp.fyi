@@ -23,7 +23,7 @@ Contribution - Proceedings of the IASS 2022 Annual Symposium
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20of%20Building%20Floor%20Beam%20Layout%20by%20Optimization%20Algorithms%20Regarding%20the%20Concrete%20Printing%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+of+building+floor+beam+layout+by+optimization+algorithms+regarding+the+concrete+printing+techniques&as_occt=title&as_sauthors=baghdadi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

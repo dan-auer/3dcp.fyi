@@ -19,14 +19,15 @@ tags:
 ---
 
 #Novel Strategy for Enhancing Rheological Properties and Interlayer Bonding in Underwater 3D Concrete Printing ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141281" target="_blank">10.1016/j.conbuildmat.2025.141281</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.141281" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141281" target="_blank">10.1016/j.conbuildmat.2025.141281</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0574-0326" title="ORCID: 0000-0003-0574-0326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yang"><b>Wang</b>&nbsp;Yang</a></span>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b>&nbsp;Liu-Chao</a></span>, <a href="../../../author/chen_song-gui"><b>Chen</b>&nbsp;Song-Gui</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 475, No. 141281
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Novel%20Strategy%20for%20Enhancing%20Rheological%20Properties%20and%20Interlayer%20Bonding%20in%20Underwater%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=novel+strategy+for+enhancing+rheological+properties+and+interlayer+bonding+in+underwater+3d+concrete+printing&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002280152&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001469960400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.141281" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

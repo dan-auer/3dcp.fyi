@@ -16,14 +16,15 @@ tags:
 ---
 
 #Mechanical Properties of Concrete Lintel Produced by 3D Printing ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0136911" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0136911" target="_blank">10.1063/5.0136911</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1063/5.0136911" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0136911" target="_blank">10.1063/5.0136911</a>
 
 <a href="../../../author/machovec_jan"><b>Machovec</b>&nbsp;Jan</a></span>, <a href="../../../author/stadler_marek"><b>Štádler</b>&nbsp;Marek</a></span>, <a href="../../../author/kamenicky_josef"><b>Kamenický</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3918-3647" title="ORCID: 0000-0002-3918-3647" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reiterman_pavel"><b>Reiterman</b>&nbsp;Pavel</a></span><br>
 Contribution - 24th Topical Conference on Radio-Frequency Power in Plasmas
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lintel"><button class="btn">#lintel</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Concrete%20Lintel%20Produced%20by%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+concrete+lintel+produced+by+3d+printing&as_occt=title&as_sauthors=machovec&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177054382&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1063/5.0136911" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

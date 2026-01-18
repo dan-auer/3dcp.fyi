@@ -8,6 +8,10 @@ search:
 
 # #mineral
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (15)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon (10)</button></a> <a href="../../keyword/material"><button class="btn">#material (8)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
   <li><a href="../../../author/ding_yong"><b>Ding</b> Yong</a>, <a href="../../../author/kindler_oswin_robert"><b>Kindler</b> Robert</a>, <a href="../../../author/cen_tianyu"><b>Cen</b> Tianyu</a>, <a href="../../../author/chen_xiulin"><b>Chen</b> Xiulin</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P/">Valorization of Demolition Waste and Biomass Byproduct into Sustainable Building Materials via Carbon Mineralization and 3D Printing</a></li>

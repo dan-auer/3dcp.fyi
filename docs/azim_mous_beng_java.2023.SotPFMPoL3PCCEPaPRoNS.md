@@ -22,14 +22,15 @@ tags:
 ---
 
 #Study on the Post-Fire Mechanical Properties of Lightweight 3D Printed Concrete Containing Expanded Perlite as Partial Replacement of Natural Sand ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jmacr.23.00159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00159" target="_blank">10.1680/jmacr.23.00159</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmacr.23.00159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmacr.23.00159" target="_blank">10.1680/jmacr.23.00159</a>
 
 <a href="../../../author/azimi_zahir"><b>Azimi</b>&nbsp;Zahir</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b>&nbsp;Habib</a></span>, <a href="../../../author/javadi_a_akbar"><b>Javadi</b>&nbsp;Akbar</a></span><br>
 Journal Article - Magazine of Concrete Research, pp. 1-27
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Post-Fire%20Mechanical%20Properties%20of%20Lightweight%203D%20Printed%20Concrete%20Containing%20Expanded%20Perlite%20as%20Partial%20Replacement%20of%20Natural%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+post-fire+mechanical+properties+of+lightweight+3d+printed+concrete+containing+expanded+perlite+as+partial+replacement+of+natural+sand&as_occt=title&as_sauthors=azimi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180928058&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001141820000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmacr.23.00159" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

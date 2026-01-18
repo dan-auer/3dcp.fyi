@@ -16,14 +16,15 @@ tags:
 
 #3D Printing and Buildings&nbsp;([2018-04](date/2018/04))
 <div class="h1-like">A Technology Review and Future Outlook</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/24751448.2018.1420968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2018.1420968" target="_blank">10.1080/24751448.2018.1420968</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/24751448.2018.1420968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/24751448.2018.1420968" target="_blank">10.1080/24751448.2018.1420968</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7076-9729" title="ORCID: 0000-0001-7076-9729" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_hongxi"><b>Yin</b>&nbsp;Hongxi</a></span>, <a href="../../../author/qu_ming"><b>Qu</b>&nbsp;Ming</a></span>, <a href="../../../author/zhang_haiyan"><b>Zhang</b>&nbsp;Haiyan</a></span>, <a href="../../../author/lim_yechan"><b>Lim</b>&nbsp;YeChan</a></span><br>
 Journal Article - Technology|Architecture + Design, Vol. 2, Iss. 1, pp. 94-111
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20and%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+and+buildings&as_occt=title&as_sauthors=yin&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85063972657&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/24751448.2018.1420968" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

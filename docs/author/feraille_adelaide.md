@@ -9,6 +9,60 @@ search:
 
 #  Féraille Adélaïde 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-01-17
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 92
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a> (5)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (3)</li>
+        <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a> (3)</li>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (2)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../kuzm_duco_fera_rous.2022.EIoEBAM/">Environmental Impact of Extrusion-Based Additive Manufacturing:<br/>Generic Model, Power-Measurements and Influence of Printing-Resolution</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (16)</li>
+        <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> (14)</li>
+        <li><a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> (14)</li>
+        <li><a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> (14)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (12)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (11)</li>
+        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (9)</li>
+        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (7)</li>
+        <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/feraille_adelaide"><b>Féraille</b> Adélaïde</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kuzm_roux_fera.2025.EIo3CP/">Environmental Impact of 3D Concrete Printing</a></li>
   <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/gall_corentin"><b>Gall</b> Corentin</a>, <a href="../../../author/saade_myriam"><b>Saadé</b> Myriam</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../roux_arch_gall_saad.2024.TSM/">Towards Sustainable Material:<br/>Optimizing Geopolymer Mortar Formulations for 3D Printing</a></li>

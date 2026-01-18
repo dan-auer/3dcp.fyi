@@ -18,14 +18,15 @@ tags:
 ---
 
 #Robotic 3D Printing of Mineral Foam for a Lightweight Composite Concrete Slab ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2022_357.pdf) <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" target="_blank">10.52842/conf.caadria.2022.2.061</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2022_357.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2022.2.061" target="_blank">10.52842/conf.caadria.2022.2.061</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szabo_anna"><b>Szabó</b>&nbsp;Anna</a></span>, <a href="../../../author/zanini_michele"><b>Zanini</b>&nbsp;Michele</a></span>, <a href="../../../author/heusi_alex"><b>Heusi</b>&nbsp;Alex</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Contribution - Proceedings of the 27th Conference on Computer Aided Architectural Design Research in Asia, pp. 61-70
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Mineral%20Foam%20for%20a%20Lightweight%20Composite%20Concrete%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+3d+printing+of+mineral+foam+for+a+lightweight+composite+concrete+slab&as_occt=title&as_sauthors=bedarf&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2022.2.061" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

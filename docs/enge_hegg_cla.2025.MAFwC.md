@@ -20,14 +20,15 @@ tags:
 
 #Multimodal Automated Fabrication with Concrete&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2025.104689) <a href="https://doi.org/10.1016/j.addma.2025.104689" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104689" target="_blank">10.1016/j.addma.2025.104689</a>
+<a href="https://doi.org/10.1016/j.addma.2025.104689" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2025.104689" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104689" target="_blank">10.1016/j.addma.2025.104689</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/engel_sven"><b>Engel</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hegger_josef"><b>Hegger</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
 Journal Article - Additive Manufacturing, No. 104689
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/ceiling"><button class="btn">#ceiling</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multimodal%20Automated%20Fabrication%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multimodal+automated+fabrication+with+concrete&as_occt=title&as_sauthors=engel&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217672639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001427636500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2025.104689" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

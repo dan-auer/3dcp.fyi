@@ -16,14 +16,15 @@ tags:
 ---
 
 #DfAM Framework for Prefabricated 3DP Building Components with Cellular Infills ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_24" target="_blank">10.1007/978-981-95-1822-7_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_24" target="_blank">10.1007/978-981-95-1822-7_24</a>
 
 <a href="../../../author/vargas_diego_juan"><b>Vargas</b>&nbsp;Juan</a></span>, <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b>&nbsp;Valeria</a></span>, <a href="../../../author/serra_valentina"><b>Serra</b>&nbsp;Valentina</a></span>, <a href="../../../author/callegari_guido"><b>Callegari</b>&nbsp;Guido</a></span>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b>&nbsp;Stefano</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 229-238
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/dfam"><button class="btn">#dfam</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=DfAM%20Framework%20for%20Prefabricated%203DP%20Building%20Components%20with%20Cellular%20Infills" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dfam+framework+for+prefabricated+3dp+building+components+with+cellular+infills&as_occt=title&as_sauthors=vargas&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

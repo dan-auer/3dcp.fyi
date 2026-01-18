@@ -16,14 +16,15 @@ tags:
 
 #Comparison of Printable Inorganic Binders&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">Key Properties for 3D Printable Materials</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_6" target="_blank">10.1007/978-3-030-49916-7_6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_6" target="_blank">10.1007/978-3-030-49916-7_6</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0938-4261" title="ORCID: 0000-0002-0938-4261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hirsch_tamino"><b>Hirsch</b>&nbsp;Tamino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6431-1199" title="ORCID: 0000-0001-6431-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorn_tobias"><b>Dorn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0118-7797" title="ORCID: 0000-0003-0118-7797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ehm_clemens"><b>Ehm</b>&nbsp;Clemens</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 53-63
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparison%20of%20Printable%20Inorganic%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparison+of+printable+inorganic+binders&as_occt=title&as_sauthors=hirsch&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088236195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

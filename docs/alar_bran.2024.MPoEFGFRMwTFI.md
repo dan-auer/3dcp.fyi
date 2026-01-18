@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Performance of Extruded Functionally-Graded Fiber-Reinforced Mortar with Targeted Fiber-Injection ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" target="_blank">10.1016/j.cemconcomp.2024.105896</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105896" target="_blank">10.1016/j.cemconcomp.2024.105896</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-0044-8879" title="ORCID: 0009-0002-0044-8879" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alarrak_rashed"><b>Alarrak</b>&nbsp;Rashed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brand_s_alexander"><b>Brand</b>&nbsp;Alexander</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 105896
 
 <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Extruded%20Functionally-Graded%20Fiber-Reinforced%20Mortar%20with%20Targeted%20Fiber-Injection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+performance+of+extruded+functionally-graded+fiber-reinforced+mortar+with+targeted+fiber-injection&as_occt=title&as_sauthors=alarrak&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212542178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001392550300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105896" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

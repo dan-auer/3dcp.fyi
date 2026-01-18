@@ -14,14 +14,15 @@ tags:
 ---
 
 #New Conceptions and Constructive Methods for Pumped Storage Hydropower-Plants ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33211-1_76" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33211-1_76" target="_blank">10.1007/978-3-031-33211-1_76</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33211-1_76" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33211-1_76" target="_blank">10.1007/978-3-031-33211-1_76</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0321-7152" title="ORCID: 0000-0003-0321-7152" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fairbairn_moraes-rego_eduardo"><b>de&nbsp;Fairbairn</b>&nbsp;Eduardo</a></span>, <a href="../../../author/santos_d-f_larissa"><b>Santos</b>&nbsp;Larissa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span>, <a href="../../../author/farias_b_marina"><b>Farias</b>&nbsp;Marina</a></span>, <a href="../../../author/andrade_g-m_rodolfo"><b>Andrade</b>&nbsp;Rodolfo</a></span>, <a href="../../../author/flores_q_alfredo"><b>Flores</b>&nbsp;Alfredo</a></span><br>
 Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 840-850
 
 <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=New%20Conceptions%20and%20Constructive%20Methods%20for%20Pumped%20Storage%20Hydropower-Plants" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=new+conceptions+and+constructive+methods+for+pumped+storage+hydropower-plants&as_occt=title&as_sauthors=fairbairn&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162130261&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33211-1_76" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

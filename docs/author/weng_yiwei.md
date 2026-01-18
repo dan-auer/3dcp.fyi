@@ -9,6 +9,60 @@ search:
 
 #  Weng Yiwei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5637-1415" target="_blank">0000-0001-5637-1415</a>
+
+    First Contribution
+    : 2018-01-04
+    
+    Last Contribution
+    : 2025-12-14
+
+    Number Contributions
+    : 48
+
+    Number Citations
+    : 1911
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (27)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (20)</li>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (15)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (13)</li>
+        <li><a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> (12)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a> (232)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (82)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (79)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (65)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (61)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (57)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (65)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (65)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (52)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (50)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (49)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a>, <a href="../../../author/li_shouzhen"><b>Li</b> Shouzhen</a>, <a href="../../../author/qiu_jin"><b>Qiu</b> Jin</a>, <a href="../../../author/chen_cheng"><b>Chen</b> Cheng</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_li_qiu_chen.2025.EIoTPo3PCEStRH/">Experimental Investigation on Thermal Performance of 3D Printed Concrete Elements Subjected to Radiant Heating</a></li>
   <li><a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/lin_xiaoshan"><b>Lin</b> Xiaoshan</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../xu_yu_teng_lin.2026.AoRTaICMi3PECC/">Application of Recycled Tile as Internal Curing Material in 3D-Printed Engineered Cementitious Composites</a></li>

@@ -26,7 +26,7 @@ Contribution - Proceedings of the XXVIII Conference of the Ibero-American Societ
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Force-Flow%20Based%203D%20Printing%20of%20Structural%20Elements%20Inspired%20by%20the%20Traditional%20Architecture%20of%20Cross-Vaults" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=force-flow+based+3d+printing+of+structural+elements+inspired+by+the+traditional+architecture+of+cross-vaults&as_occt=title&as_sauthors=dimitriou&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

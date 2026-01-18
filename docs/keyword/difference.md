@@ -8,6 +8,10 @@ search:
 
 # #difference
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (49)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (38)</button></a> <a href="../../keyword/property"><button class="btn">#property (19)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (16)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (14)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../naka_zhou_hash_sugi.2025.AEMoFBo3PCwDPP/">Acoustic Emission Monitoring of Fracture Behaviour of 3D Printed Concrete with Different Printing Paths</a></li>

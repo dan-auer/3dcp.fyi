@@ -17,14 +17,15 @@ tags:
 ---
 
 #Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtsust.2024.100704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtsust.2024.100704" target="_blank">10.1016/j.mtsust.2024.100704</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mtsust.2024.100704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtsust.2024.100704" target="_blank">10.1016/j.mtsust.2024.100704</a>
 
 <a href="../../../author/zhou_longfei"><b>Zhou</b>&nbsp;Longfei</a></span>, <a href="../../../author/gou_mifeng"><b>Gou</b>&nbsp;Mifeng</a></span>, <a href="../../../author/ji_jiankai"><b>Ji</b>&nbsp;Jiankai</a></span>, <a href="../../../author/hou_xinran"><b>Hou</b>&nbsp;Xinran</a></span>, <a href="../../../author/zhang_haibo"><b>Zhang</b>&nbsp;Haibo</a></span><br>
 Journal Article - Materials Today Sustainability, Vol. 25, No. 100704
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Durability%20and%20Hardened%20Properties%20of%203D%20Printed%20Concrete%20Containing%20Bauxite-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=durability+and+hardened+properties+of+3d+printed+concrete+containing+bauxite-tailings&as_occt=title&as_sauthors=zhou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184755095&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001181881200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mtsust.2024.100704" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

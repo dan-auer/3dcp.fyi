@@ -16,14 +16,15 @@ tags:
 ---
 
 #On-Demand Additive Manufacturing of Functionally Graded Concrete ([2020-02](date/2020/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/17452759.2019.1709009?needAccess=true&) <a href="https://doi.org/10.1080/17452759.2019.1709009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2019.1709009" target="_blank">10.1080/17452759.2019.1709009</a>
+<a href="https://www.tandfonline.com/doi/pdf/10.1080/17452759.2019.1709009?needAccess=true&" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2019.1709009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2019.1709009" target="_blank">10.1080/17452759.2019.1709009</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <a href="../../../author/brunschot_caj_maikel"><b>van&nbsp;Brunschot</b>&nbsp;Maikel</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 15, Iss. 2, pp. 194-210
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On-Demand%20Additive%20Manufacturing%20of%20Functionally%20Graded%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on-demand+additive+manufacturing+of+functionally+graded+concrete&as_occt=title&as_sauthors=ahmed&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079138624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000515238200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2019.1709009" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

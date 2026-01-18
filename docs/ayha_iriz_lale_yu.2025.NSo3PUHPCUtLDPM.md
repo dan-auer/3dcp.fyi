@@ -20,14 +20,15 @@ tags:
 ---
 
 #Numerical Simulation of 3D Printed Ultra High-Performance Concrete Using the Lattice Discrete Particle Model ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1301) <a href="https://doi.org/10.21012/fc12.1301" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1301" target="_blank">10.21012/fc12.1301</a>
+<a href="https://doi.org/10.21012/fc12.1301" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1301" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1301" target="_blank">10.21012/fc12.1301</a>
 
 <a href="../../../author/ayhan_bahar"><b>Ayhan</b>&nbsp;Bahar</a></span>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b>&nbsp;Elmer</a></span>, <a href="../../../author/lale_erol"><b>Lale</b>&nbsp;Erol</a></span>, <a href="../../../author/yu_ke"><b>Yu</b>&nbsp;Ke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3338-6013" title="ORCID: 0000-0002-3338-6013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/troemner_matthew"><b>Troemner</b>&nbsp;Matthew</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%203D%20Printed%20Ultra%20High-Performance%20Concrete%20Using%20the%20Lattice%20Discrete%20Particle%20Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulation+of+3d+printed+ultra+high-performance+concrete+using+the+lattice+discrete+particle+model&as_occt=title&as_sauthors=ayhan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1301" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

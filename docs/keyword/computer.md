@@ -8,6 +8,10 @@ search:
 
 # #computer
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (38)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (28)</button></a> <a href="../../keyword/base"><button class="btn">#base (12)</button></a> <a href="../../keyword/vision"><button class="btn">#vision (12)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
   <li><a href="../../../author/kim_yoon-chul"><b>Kim</b> Yoon-Chul</a>, <a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kim_han.2025.BAi3CPUCVaAA/">Buildability Analysis in 3D Concrete Printing Using Computer Vision and Automated Annotation</a></li>

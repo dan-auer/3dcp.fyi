@@ -17,14 +17,15 @@ tags:
 
 #3D Printed Earth Architecture&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">Design Approach for a Performative Habitat</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.27" target="_blank">10.2307/jj.11374766.27</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2307/jj.11374766.27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.27" target="_blank">10.2307/jj.11374766.27</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubor_alexandre"><b>Dubor</b>&nbsp;Alexandre</a></span>, <a href="../../../author/cabay_edouard"><b>Cabay</b>&nbsp;Edouard</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3243-4698" title="ORCID: 0009-0003-3243-4698" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tayoun_yara"><b>Tayoun</b>&nbsp;Yara</a></span>, <a href="../../../author/carrasco_oriol"><b>Carrasco</b>&nbsp;Oriol</a></span>, <a href="../../../author/carnevale_elisabetta"><b>Carnevale</b>&nbsp;Elisabetta</a></span>, <a href="../../../author/chamorro_eduardo"><b>Chamorro</b>&nbsp;Eduardo</a></span>, <a href="../../../author/huygues_vincent"><b>Huygues</b>&nbsp;Vincent</a></span><br>
 Contribution - Fabricate 2024, pp. 180-187
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Earth%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+earth+architecture&as_occt=title&as_sauthors=dubor&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/jj.11374766.27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

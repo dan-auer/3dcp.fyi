@@ -9,7 +9,62 @@ search:
 
 #  Bai Guoliang 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-07-27
+    
+    Last Contribution
+    : 2026-01-12
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 443
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (11)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (11)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (9)</li>
+        <li><a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> (5)</li>
+        <li><a href="../../../author/wang_youqiang"><b>Wang</b> Youqiang</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a> (99)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (53)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (39)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (38)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (29)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (27)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (22)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (19)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (15)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a>, <a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC/">Effects of Pore Defects on Interfacial Bonding Between Rebar and 3D Printed Coarse Aggregate Concrete Under Multiple Loading Conditions</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
   <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../wu_liu_liu_bai.2024.MotIoMSPSotTMPo3PCwRS/">Mechanism of the Influence of Multi-Scale Pore-Structure on the Triaxial Mechanical Properties of 3D Printed Concrete with Recycled Sand</a></li>

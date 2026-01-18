@@ -17,14 +17,15 @@ tags:
 
 #3D Printer Robot for Civil Construction&nbsp;([2021-08](date/2021/08))
 <div class="h1-like">A Bond Graph Approach</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/spin52536.2021.9566091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/spin52536.2021.9566091" target="_blank">10.1109/spin52536.2021.9566091</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/spin52536.2021.9566091" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/spin52536.2021.9566091" target="_blank">10.1109/spin52536.2021.9566091</a>
 
 <a href="../../../author/khandelwal_vaatsuly"><b>Khandelwal</b>&nbsp;Vaatsuly</a></span>, <a href="../../../author/bhatia_vibhav"><b>Bhatia</b>&nbsp;Vibhav</a></span>, <a href="../../../author/dogra_vinay"><b>Dogra</b>&nbsp;Vinay</a></span>, <a href="../../../author/sharma_shivam"><b>Sharma</b>&nbsp;Shivam</a></span>, <a href="../../../author/chhabra_vidula"><b>Chhabra</b>&nbsp;Vidula</a></span>, <a href="../../../author/singh_rajmeet"><b>Singh</b>&nbsp;Rajmeet</a></span>, <a href="../../../author/kumar_deepak"><b>Kumar</b>&nbsp;Deepak</a></span>, <a href="../../../author/bera_kumar_tarun"><b>Bera</b>&nbsp;Tarun</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Signal Processing and Integrated Networks, pp. 169-174
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/graph"><button class="btn">#graph</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printer%20Robot%20for%20Civil%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printer+robot+for+civil+construction&as_occt=title&as_sauthors=khandelwal&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126214731&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/spin52536.2021.9566091" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

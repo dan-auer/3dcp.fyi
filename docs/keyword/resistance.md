@@ -8,6 +8,10 @@ search:
 
 # #resistance
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (36)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (26)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (7)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (6)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a></li>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>

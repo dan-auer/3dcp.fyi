@@ -18,14 +18,15 @@ tags:
 ---
 
 #Development of Processes for the Automated Planning and Production of Individual Reinforced Concrete Elements ([2022-02](date/2022/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202100102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202100102" target="_blank">10.1002/best.202100102</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202100102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202100102" target="_blank">10.1002/best.202100102</a>
 
 <a href="../../../author/zoller_raphael"><b>Zöller</b>&nbsp;Raphael</a></span>, <a href="../../../author/ochlast_andreas"><b>Ochlast</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2411-1106" title="ORCID: 0000-0002-2411-1106" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zimmert_florian"><b>Zimmert</b>&nbsp;Florian</a></span>, <a href="../../../author/braml_thomas"><b>Braml</b>&nbsp;Thomas</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 4, pp. 222-234
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/individuality"><button class="btn">#individuality</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Processes%20for%20the%20Automated%20Planning%20and%20Production%20of%20Individual%20Reinforced%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+processes+for+the+automated+planning+and+production+of+individual+reinforced+concrete+elements&as_occt=title&as_sauthors=z%C3%B6ller&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124895878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000755173100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202100102" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

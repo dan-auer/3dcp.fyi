@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheological Response of Magnetorheological Cementitious Inks Tuned for Active Control in Digital Construction ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733128" target="_blank">10.14359/51733128</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733128" target="_blank">10.14359/51733128</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6923-349X" title="ORCID: 0000-0002-6923-349X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/deshmukh_s_aparna"><b>Deshmukh</b>&nbsp;Aparna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2786-3493" title="ORCID: 0000-0002-2786-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heintzkill_t_reed"><b>Heintzkill</b>&nbsp;Reed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8443-8557" title="ORCID: 0000-0002-8443-8557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huerta_a_rosalba"><b>Huerta</b>&nbsp;Rosalba</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8343-5453" title="ORCID: 0000-0001-8343-5453" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sobolev_konstantin"><b>Sobolev</b>&nbsp;Konstantin</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 263-274
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Response%20of%20Magnetorheological%20Cementitious%20Inks%20Tuned%20for%20Active%20Control%20in%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+response+of+magnetorheological+cementitious+inks+tuned+for+active+control+in+digital+construction&as_occt=title&as_sauthors=deshmukh&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122084709&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800023" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733128" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

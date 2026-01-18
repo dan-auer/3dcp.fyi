@@ -22,14 +22,15 @@ tags:
 ---
 
 #Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15397734.2024.2377266" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15397734.2024.2377266" target="_blank">10.1080/15397734.2024.2377266</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15397734.2024.2377266" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15397734.2024.2377266" target="_blank">10.1080/15397734.2024.2377266</a>
 
 <a href="../../../author/sahai_rajan"><b>Sahai</b>&nbsp;Rajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bisht_singh_ravindra"><b>Bisht</b>&nbsp;Ravindra</a></span>, <a href="../../../author/singh_siddharth"><b>Singh</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b>&nbsp;Soraj</a></span><br>
 Journal Article - Mechanics Based Design of Structures and Machines, pp. 1-30
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/gantry"><button class="btn">#gantry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design-Analysis%20and%20Development%20of%20a%20Gantry%20Robot%20for%20Multi-Layer%203D%20Concrete%20Printing%20with%20Simulation%20and%20Experimental%20Validation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design-analysis+and+development+of+a+gantry+robot+for+multi-layer+3d+concrete+printing+with+simulation+and+experimental+validation&as_occt=title&as_sauthors=sahai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198737304&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001270355300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15397734.2024.2377266" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

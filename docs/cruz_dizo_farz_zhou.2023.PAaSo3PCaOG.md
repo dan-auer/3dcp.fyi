@@ -15,14 +15,15 @@ tags:
 ---
 
 #Performance, Applications, and Sustainability of 3D Printed Cement and Other Geomaterials ([2023-04](date/2023/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1557/s43579-023-00358-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1557/s43579-023-00358-x" target="_blank">10.1557/s43579-023-00358-x</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1557/s43579-023-00358-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1557/s43579-023-00358-x" target="_blank">10.1557/s43579-023-00358-x</a>
 
 <a href="../../../author/cruz_gil"><b>Cruz</b>&nbsp;Gil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5076-2391" title="ORCID: 0000-0002-5076-2391" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dizon_ryan-c_john"><b>Dizon</b>&nbsp;John</a></span>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span>, <a href="../../../author/margarito_marianito"><b>Margarito</b>&nbsp;Marianito</a></span>, <a href="../../../author/garcia_alfred_joseph"><b>Garcia</b>&nbsp;Joseph</a></span>, <a href="../../../author/liza_p_fred"><b>Liza</b>&nbsp;Fred</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2899-4778" title="ORCID: 0000-0002-2899-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/advincula_c_rigoberto"><b>Advincula</b>&nbsp;Rigoberto</a></span><br>
 Journal Article - MRS Communications
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%2C%20Applications%2C%20and%20Sustainability%20of%203D%20Printed%20Cement%20and%20Other%20Geomaterials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance%2C+applications%2C+and+sustainability+of+3d+printed+cement+and+other+geomaterials&as_occt=title&as_sauthors=cruz&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152451433&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000967642100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1557/s43579-023-00358-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

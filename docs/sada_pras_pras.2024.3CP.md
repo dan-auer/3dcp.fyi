@@ -20,14 +20,15 @@ tags:
 
 #3D Cement Printing&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">DFMA Guideline of Patterned Load-Bearing Walls for Small Residential Units</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-4049-3_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-4049-3_2" target="_blank">10.1007/978-981-99-4049-3_2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-4049-3_2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-4049-3_2" target="_blank">10.1007/978-981-99-4049-3_2</a>
 
 <a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b>&nbsp;Wannapol</a></span>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b>&nbsp;Santirak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4860-7357" title="ORCID: 0000-0003-4860-7357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b>&nbsp;Lapyote</a></span><br>
 Contribution - Proceedings of 5th International Conference on Civil Engineering and Architecture, pp. 19-28
 
 <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dfma"><button class="btn">#dfma</button></a> <a href="../../keyword/guideline"><button class="btn">#guideline</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Cement%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+cement+printing&as_occt=title&as_sauthors=sadakorn&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174449533&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-4049-3_2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

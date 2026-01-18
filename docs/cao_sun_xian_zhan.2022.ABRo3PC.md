@@ -13,14 +13,15 @@ tags:
 ---
 
 #A Brief Review of 3D Printed Concrete ([2022-12](date/2022/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://drpress.org/ojs/index.php/HSET/article/download/4204/4056) <a href="https://doi.org/10.54097/hset.v28i.4204" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.54097/hset.v28i.4204" target="_blank">10.54097/hset.v28i.4204</a>
+<a href="https://drpress.org/ojs/index.php/HSET/article/download/4204/4056" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.54097/hset.v28i.4204" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.54097/hset.v28i.4204" target="_blank">10.54097/hset.v28i.4204</a>
 
 <a href="../../../author/cao_chenyu"><b>Cao</b>&nbsp;Chenyu</a></span>, <a href="../../../author/sun_dongsheng"><b>Sun</b>&nbsp;Dongsheng</a></span>, <a href="../../../author/xian_zhijun"><b>Xian</b>&nbsp;Zhijun</a></span>, <a href="../../../author/zhang_hengyu"><b>Zhang</b>&nbsp;Hengyu</a></span><br>
 Journal Article - Highlights in Science, Engineering and Technology, Vol. 28, pp. 374-380
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Brief%20Review%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+brief+review+of+3d+printed+concrete&as_occt=title&as_sauthors=cao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.54097/hset.v28i.4204" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

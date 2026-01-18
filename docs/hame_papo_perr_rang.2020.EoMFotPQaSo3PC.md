@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effect of Metallic Fibers on the Print Quality and Strength of 3D Printed Concrete ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-02932031/file/Hameed%20et%20al%202020_Effect%20of%20Metallic%20Fibers%20on%20the%20Print%20Quality%20and%20Strength%20of%203D%20Printed%20Concrete.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_45" target="_blank">10.1007/978-3-030-49916-7_45</a>
+<a href="https://hal.archives-ouvertes.fr/hal-02932031/file/Hameed%20et%20al%202020_Effect%20of%20Metallic%20Fibers%20on%20the%20Print%20Quality%20and%20Strength%20of%203D%20Printed%20Concrete.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_45" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_45" target="_blank">10.1007/978-3-030-49916-7_45</a>
 
 <a href="../../../author/hameed_rashid"><b>Hameed</b>&nbsp;Rashid</a></span>, <a href="../../../author/papon_aurelie"><b>Papon</b>&nbsp;Aurélie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 439-448
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metallic%20Fibers%20on%20the%20Print%20Quality%20and%20Strength%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+metallic+fibers+on+the+print+quality+and+strength+of+3d+printed+concrete&as_occt=title&as_sauthors=hameed&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088234557&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_45" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Review of Binder-Jetting 3D Printing in the Construction Industry ([2022-01](date/2022/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-021-00252-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-021-00252-9" target="_blank">10.1007/s40964-021-00252-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-021-00252-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-021-00252-9" target="_blank">10.1007/s40964-021-00252-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8650-8056" title="ORCID: 0000-0001-8650-8056" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chu_h_shaohua"><b>Chu</b>&nbsp;Shaohua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3798-4969" title="ORCID: 0000-0002-3798-4969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b>&nbsp;Anastasiia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6323-3368" title="ORCID: 0000-0002-6323-3368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dini_enrico"><b>Dini</b>&nbsp;Enrico</a></span><br>
 Journal Article - Progress in Additive Manufacturing, Vol. None, Iss. None
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20of%20Binder-Jetting%203D%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+of+binder-jetting+3d+printing+in+the+construction+industry&as_occt=title&as_sauthors=shakor&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123267497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000745458300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-021-00252-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

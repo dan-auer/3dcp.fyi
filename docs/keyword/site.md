@@ -8,6 +8,10 @@ search:
 
 # #site
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (20)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (16)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (11)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (10)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a></li>
   <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../benz_nguy_klem.2026.RTVBDDfLSoSEAM/">Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing:<br/>Annotated Dataset and Dual-Model Framework</a></li>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effect of Nano-Clay on the Printability of Extrusion-Based 3D Printable Mortar ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.17756/nwj.2023-s2-010) <a href="https://doi.org/10.17756/nwj.2023-s2-010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17756/nwj.2023-s2-010" target="_blank">10.17756/nwj.2023-s2-010</a>
+<a href="https://doi.org/10.17756/nwj.2023-s2-010" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.17756/nwj.2023-s2-010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17756/nwj.2023-s2-010" target="_blank">10.17756/nwj.2023-s2-010</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6989-1660" title="ORCID: 0000-0002-6989-1660" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushik_sandipan"><b>Kaushik</b>&nbsp;Sandipan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8196-7747" title="ORCID: 0000-0001-8196-7747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sonebi_mohammed"><b>Sonebi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7237-6512" title="ORCID: 0000-0002-7237-6512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amato_giuseppina"><b>Amato</b>&nbsp;Giuseppina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6400-1083" title="ORCID: 0000-0002-6400-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_kumar_utpal"><b>Das</b>&nbsp;Utpal</a></span><br>
 Journal Article - NanoWorld Journal, Vol. 9
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Clay%20on%20the%20Printability%20of%20Extrusion-Based%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+nano-clay+on+the+printability+of+extrusion-based+3d+printable+mortar&as_occt=title&as_sauthors=kaushik&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174294878&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.17756/nwj.2023-s2-010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

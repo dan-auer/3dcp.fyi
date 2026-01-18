@@ -8,7 +8,13 @@ search:
 
 # #comparison
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (20)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (16)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> <a href="../../keyword/material"><button class="btn">#material (5)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../fede_sibe_tosi_ziel.2026.EASMo3PCMCoMTaLCA/">Early-Age Shrinkage Monitoring of 3D-Printed Cementitious Mixtures: Comparison of Measuring Techniques and Low-Cost Alternatives</a></li>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/chen_zhuo"><b>Chen</b> Zhuo</a>, <a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_chen_leus_klof.2026.S3PRCB/">Shotcrete 3D Printed Reinforced Concrete Beam:<br/>Design, Testing, and Comparison Against Conventional Cast Reinforced Concrete Solution</a></li>
   <li><a href="../../../author/valek_josef"><b>Válek</b> Josef</a>, <a href="../../../author/romanova_dorota"><b>Romanová</b> Dorota</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../vale_roma.2025.3CPSDiCtRPaAS/">3D Concrete Printing Simulating Device in Comparison to Real Printing and Aggregate Substitutes</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>
   <li><a href="../../../author/kim_ki-yeol"><b>Kim</b> Ki-Yeol</a>, <a href="../../../author/lim_dong-kyu"><b>Lim</b> Dong-Kyu</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kim_lim_choi.2025.CoPMfVCM/">Comparison of Pumping Mechanism for Various Cementitious Materials</a></li>

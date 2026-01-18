@@ -12,14 +12,15 @@ tags:
 ---
 
 #Optimizing Reinforcement ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/97-98/241) <a href="https://doi.org/10.52825/ocp.v1i.83" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.83" target="_blank">10.52825/ocp.v1i.83</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/97-98/241" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v1i.83" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.83" target="_blank">10.52825/ocp.v1i.83</a>
 
 <a href="../../../author/orlinski_adam"><b>Orlinski</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2923-0750" title="ORCID: 0000-0003-2923-0750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rycke_klaas"><b>de&nbsp;Rycke</b>&nbsp;Klaas</a></span>, <a href="../../../author/heimrath_moritz"><b>Heimrath</b>&nbsp;Moritz</a></span><br>
 Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 97-98
 
 <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+reinforcement&as_occt=title&as_sauthors=orlinski&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v1i.83" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

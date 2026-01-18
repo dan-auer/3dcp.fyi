@@ -18,14 +18,15 @@ tags:
 
 #Digital Reproduction of Historical Building Ornamental Components&nbsp;([2017-01](date/2017/01))
 <div class="h1-like">From 3D Scanning to 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2017.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.01.010" target="_blank">10.1016/j.autcon.2017.01.010</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2017.01.010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2017.01.010" target="_blank">10.1016/j.autcon.2017.01.010</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3239-1304" title="ORCID: 0000-0002-3239-1304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/love_ed_peter"><b>Love</b>&nbsp;Peter</a></span><br>
 Journal Article - Automation in Construction, Vol. 76, pp. 85-96
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reproducibility"><button class="btn">#reproducibility</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Reproduction%20of%20Historical%20Building%20Ornamental%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+reproduction+of+historical+building+ornamental+components&as_occt=title&as_sauthors=xu&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85010416796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000394068900008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2017.01.010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -52,8 +53,9 @@ Journal Article - Automation in Construction, Vol. 76, pp. 85-96
       <li><a href="../../../author/perkins_isaac"><b>Perkins</b> Isaac</a>, <a href="../../../author/skitmore_martin"><b>Skitmore</b> Martin</a> <a href="../../../date/2015/03">(2015-03)</a><br><a href="../../../perk_skit.2015.TDPitCI/">Three-Dimensional Printing in the Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
     </ol>
-???+ bug "45 Citations"
+???+ bug "46 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/norouzi_yasaman"><b>Norouzi</b> Yasaman</a>, <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../noro_dixi.2026.ARoAaCoUHf3PiC/">A Review of Advantages and Challenges of Using Hempcrete for 3D Printing in Construction</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/dias_ricardo"><b>Dias</b> Ricardo</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../jesu_dias_teix_delg.2025.Oo3PCaLBMfBHR/">Optimisation of 3D Printable Cement- and Lime-Based Mortars for Built Heritage Rehabilitation</a></li>
       <li><a href="../../../author/murtaza_ghulam"><b>Murtaza</b> Ghulam</a>, <a href="../../../author/baldinelli_giorgio"><b>Baldinelli</b> Giorgio</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../murt_bald.2025.RA/">Revolutionizing Architecture:<br/>3D Printing in Large Construction Industry and Strategic Innovations for Enhanced Performance</a></li>

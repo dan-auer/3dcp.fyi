@@ -12,14 +12,15 @@ tags:
 ---
 
 #Purview of 3DP in the Indian Built Environment Sector ([2017-06](date/2017/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.proeng.2017.07.194) <a href="https://doi.org/10.1016/j.proeng.2017.07.194" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2017.07.194" target="_blank">10.1016/j.proeng.2017.07.194</a>
+<a href="https://doi.org/10.1016/j.proeng.2017.07.194" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.proeng.2017.07.194" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2017.07.194" target="_blank">10.1016/j.proeng.2017.07.194</a>
 
 <a href="../../../author/anjum_taqdees"><b>Anjum</b>&nbsp;Taqdees</a></span>, <a href="../../../author/dongre_poorvesh"><b>Dongre</b>&nbsp;Poorvesh</a></span>, <a href="../../../author/misbah_fozail"><b>Misbah</b>&nbsp;Fozail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3649-8213" title="ORCID: 0000-0002-3649-8213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanyam_ps-nihar_v"><b>Nanyam</b>&nbsp;V.</a></span><br>
 Contribution - Proceedings of the Creative Construction Conference 2017, pp. 228-235
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Purview%20of%203DP%20in%20the%20Indian%20Built%20Environment%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=purview+of+3dp+in+the+indian+built+environment+sector&as_occt=title&as_sauthors=anjum&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85030320927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000418465300030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.proeng.2017.07.194" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

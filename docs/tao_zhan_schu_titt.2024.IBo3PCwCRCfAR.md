@@ -17,14 +17,15 @@ tags:
 ---
 
 #Interfacial Bonding of 3D Printable Concrete with Chemically Reactive Coating for Automatic Repair ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2024.100333) <a href="https://doi.org/10.1016/j.dibe.2024.100333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100333" target="_blank">10.1016/j.dibe.2024.100333</a>
+<a href="https://doi.org/10.1016/j.dibe.2024.100333" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2024.100333" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2024.100333" target="_blank">10.1016/j.dibe.2024.100333</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2633-5605" title="ORCID: 0000-0002-2633-5605" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yi"><b>Zhang</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7718-3189" title="ORCID: 0000-0002-7718-3189" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tittelboom_kim"><b>van&nbsp;Tittelboom</b>&nbsp;Kim</a></span><br>
 Journal Article - Developments in the Built Environment, No. 100333
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/coat"><button class="btn">#coat</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Bonding%20of%203D%20Printable%20Concrete%20with%20Chemically%20Reactive%20Coating%20for%20Automatic%20Repair" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interfacial+bonding+of+3d+printable+concrete+with+chemically+reactive+coating+for+automatic+repair&as_occt=title&as_sauthors=tao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183467217&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001171502500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2024.100333" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

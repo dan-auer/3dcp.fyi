@@ -9,6 +9,60 @@ search:
 
 #  Gaspar Florindo 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7031-6260" target="_blank">0000-0001-7031-6260</a>
+
+    First Contribution
+    : 2019-11-08
+    
+    Last Contribution
+    : 2025-07-17
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 31
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a> (3)</li>
+        <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a> (2)</li>
+        <li><a href="../../../author/rodrigues_ana"><b>Rodrigues</b> Ana</a> (2)</li>
+        <li><a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b> Augusto</a> (2)</li>
+        <li><a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/brun_francis"><b>Brun</b> Francis</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../brun_gasp_mate_vito.2020.ESo3PoCwO/">Experimental Study on 3D Printing of Concrete with Overhangs</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (11)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (10)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (9)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (9)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (2)</li>
+        <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (2)</li>
+        <li><a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> (2)</li>
+        <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a> (2)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
   <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Influence of Structuration-Rate, with Hydration-Accelerating Admixture, on the Physical and Mechanical Properties of Concrete for 3D Printing ([2022-11](date/2022/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" target="_blank">10.1016/j.conbuildmat.2022.129826</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129826" target="_blank">10.1016/j.conbuildmat.2022.129826</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b>&nbsp;Ariane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1692-3710" title="ORCID: 0000-0002-1692-3710" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quintanilha_carvalho_lucas"><b>Quintanilha</b>&nbsp;Lucas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/repette_longuini_wellington"><b>Repette</b>&nbsp;Wellington</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 363
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Structuration-Rate%2C%20with%20Hydration-Accelerating%20Admixture%2C%20on%20the%20Physical%20and%20Mechanical%20Properties%20of%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+structuration-rate%2C+with+hydration-accelerating+admixture%2C+on+the+physical+and+mechanical+properties+of+concrete+for+3d+printing&as_occt=title&as_sauthors=rubin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145769936&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000897115400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129826" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

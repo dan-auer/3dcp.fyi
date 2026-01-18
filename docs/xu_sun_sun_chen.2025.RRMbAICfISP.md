@@ -20,14 +20,15 @@ tags:
 
 #Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Towards 3D Concrete Printing Applications</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" target="_blank">10.1016/j.conbuildmat.2025.143631</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143631" target="_blank">10.1016/j.conbuildmat.2025.143631</a>
 
 <a href="../../../author/xu_bin"><b>Xu</b>&nbsp;Bin</a></span>, <a href="../../../author/sun_zhaoyang"><b>Sun</b>&nbsp;Zhaoyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_ming"><b>Sun</b>&nbsp;Ming</a></span>, <a href="../../../author/chen_binmeng"><b>Chen</b>&nbsp;Binmeng</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 495, No. 143631
 
 <a href="../../keyword/adjustment"><button class="btn">#adjustment</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Realizing%20Rheological%20Manipulation%20by%20Adjusting%20Initiator%20Concentrations%20for%20In-Situ%20Polymerization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=realizing+rheological+manipulation+by+adjusting+initiator+concentrations+for+in-situ+polymerization&as_occt=title&as_sauthors=xu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015949495&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001575070800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143631" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

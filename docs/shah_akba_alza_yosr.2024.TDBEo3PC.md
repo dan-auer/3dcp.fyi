@@ -21,14 +21,15 @@ tags:
 
 #Time-Dependent Buildability Evaluation of 3D Printed Concrete&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">Experimental Validation and Numerical Simulation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2380508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2380508" target="_blank">10.1080/21650373.2024.2380508</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2024.2380508" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2380508" target="_blank">10.1080/21650373.2024.2380508</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4847-6246" title="ORCID: 0000-0003-4847-6246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahzad_qamar"><b>Shahzad</b>&nbsp;Qamar</a></span>, <a href="../../../author/akbar_muhammad"><b>Akbar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alzara_majed"><b>Alzara</b>&nbsp;Majed</a></span>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b>&nbsp;Ahmed</a></span>, <a href="../../../author/abbas_nadeem"><b>Abbas</b>&nbsp;Nadeem</a></span>, <a href="../../../author/zaghloul_r_yasser"><b>Zaghloul</b>&nbsp;Yasser</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-15
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dependency"><button class="btn">#dependency</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Time-Dependent%20Buildability%20Evaluation%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=time-dependent+buildability+evaluation+of+3d+printed+concrete&as_occt=title&as_sauthors=shahzad&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199258748&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001273857500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2024.2380508" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

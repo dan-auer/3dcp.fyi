@@ -8,6 +8,10 @@ search:
 
 # #critical
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (27)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (22)</button></a> <a href="../../keyword/review"><button class="btn">#review (21)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (10)</button></a> <a href="../../keyword/material"><button class="btn">#material (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../gaud.2025.ACMPo3/">A Critical Materials Perspective on 3DCP</a></li>
   <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>

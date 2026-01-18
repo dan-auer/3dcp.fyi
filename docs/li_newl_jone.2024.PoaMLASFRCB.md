@@ -22,14 +22,15 @@ tags:
 
 #Performance of a Multi-Layer Aligned Steel-Fiber-Reinforced Concrete Beam&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">A Preliminary Investigation Towards 3D Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03615) <a href="https://doi.org/10.1016/j.cscm.2024.e03615" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03615" target="_blank">10.1016/j.cscm.2024.e03615</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03615" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03615" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03615" target="_blank">10.1016/j.cscm.2024.e03615</a>
 
 <a href="../../../author/li_xiaoteng"><b>Li</b>&nbsp;Xiaoteng</a></span>, <a href="../../../author/newlands_moray"><b>Newlands</b>&nbsp;Moray</a></span>, <a href="../../../author/jones_rod"><b>Jones</b>&nbsp;Rod</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e03615
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%20a%20Multi-Layer%20Aligned%20Steel-Fiber-Reinforced%20Concrete%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+of+a+multi-layer+aligned+steel-fiber-reinforced+concrete+beam&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200804388&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001294403800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03615" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114493" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114493" target="_blank">10.1016/j.jobe.2025.114493</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114493" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114493" target="_blank">10.1016/j.jobe.2025.114493</a>
 
 <a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b>&nbsp;J.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3616-3146" title="ORCID: 0000-0003-3616-3146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b>&nbsp;Masoud</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4561-0972" title="ORCID: 0000-0003-4561-0972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b>&nbsp;Mojtaba</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4959-3479" title="ORCID: 0000-0003-4959-3479" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duran-herrera_alejandro"><b>Durán-Herrera</b>&nbsp;Alejandro</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114493
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Anionic%20Biopolymers%20to%20Enhance%20Concrete%20Rheological%20Properties%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=anionic+biopolymers+to+enhance+concrete+rheological+properties+for+3d+printing+applications&as_occt=title&as_sauthors=gonz%C3%A1lez-avi%C3%B1a&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020671822&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001609480400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114493" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #The Rheological and Mechanical Properties of 3D-Printed Geopolymers&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04679) <a href="https://doi.org/10.1016/j.cscm.2025.e04679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04679" target="_blank">10.1016/j.cscm.2025.e04679</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04679" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04679" target="_blank">10.1016/j.cscm.2025.e04679</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seloglu_maksut"><b>Seloglu</b>&nbsp;Maksut</a></span>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>al&nbsp;Bakri Abdullah</b>&nbsp;Mohd</a></span>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b>&nbsp;Rafiza</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8639-1089" title="ORCID: 0000-0001-8639-1089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mydin_azree-othuman_md"><b>Mydin</b>&nbsp;Md</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04679
 
 <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Rheological%20and%20Mechanical%20Properties%20of%203D-Printed%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+rheological+and+mechanical+properties+of+3d-printed+geopolymers&as_occt=title&as_sauthors=tanyildizi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003916037&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001494533200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04679" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

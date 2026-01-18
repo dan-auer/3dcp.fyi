@@ -16,14 +16,15 @@ tags:
 ---
 
 #Trajectory-Planning for Concrete Element Fabrication with Optimal Control ([2021-10](date/2021/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/iecon48115.2021.9589695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iecon48115.2021.9589695" target="_blank">10.1109/iecon48115.2021.9589695</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/iecon48115.2021.9589695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iecon48115.2021.9589695" target="_blank">10.1109/iecon48115.2021.9589695</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blagojevic_boris"><b>Blagojevic</b>&nbsp;Boris</a></span>, <a href="../../../author/schonemann_benjamin"><b>Schonemann</b>&nbsp;Benjamin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3501-1861" title="ORCID: 0000-0003-3501-1861" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nigl_david"><b>Nigl</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span><br>
 Contribution - Proceedings of the 47th Annual Conference of the IEEE Industrial Electronics Society, pp. 1-6
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Trajectory-Planning%20for%20Concrete%20Element%20Fabrication%20with%20Optimal%20Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=trajectory-planning+for+concrete+element+fabrication+with+optimal+control&as_occt=title&as_sauthors=blagojevic&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119519556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000767230603114" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/iecon48115.2021.9589695" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

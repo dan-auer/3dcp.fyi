@@ -17,14 +17,15 @@ tags:
 ---
 
 #Hydraulic and Geotechnical Assessments of a Large 3D Printed Artificial Reef in Sands ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/cmsb.67042.0985" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/cmsb.67042.0985" target="_blank">10.1680/cmsb.67042.0985</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/cmsb.67042.0985" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/cmsb.67042.0985" target="_blank">10.1680/cmsb.67042.0985</a>
 
 <a href="../../../author/escobar-valencia_esteban"><b>Escobar-Valencia</b>&nbsp;Esteban</a></span>, <a href="../../../author/capet_j"><b>Capet</b>&nbsp;J.</a></span>, <a href="../../../author/briere_j"><b>Brière</b>&nbsp;J.</a></span>, <a href="../../../author/ferngau_e"><b>Ferngau</b>&nbsp;E.</a></span><br>
 Contribution - Coasts, Marine Structures and Breakwaters 2023
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/hydraulic"><button class="btn">#hydraulic</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hydraulic%20and%20Geotechnical%20Assessments%20of%20a%20Large%203D%20Printed%20Artificial%20Reef%20in%20Sands" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hydraulic+and+geotechnical+assessments+of+a+large+3d+printed+artificial+reef+in+sands&as_occt=title&as_sauthors=escobar-valencia&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190635159&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/cmsb.67042.0985" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

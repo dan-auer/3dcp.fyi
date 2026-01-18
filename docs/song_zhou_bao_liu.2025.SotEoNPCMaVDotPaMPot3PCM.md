@@ -20,14 +20,15 @@ tags:
 ---
 
 #Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/22/4036/pdf?version=1762677630) <a href="https://doi.org/10.3390/buildings15224036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224036" target="_blank">10.3390/buildings15224036</a>
+<a href="https://www.mdpi.com/2075-5309/15/22/4036/pdf?version=1762677630" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15224036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15224036" target="_blank">10.3390/buildings15224036</a>
 
 <a href="../../../author/song_qiang"><b>Song</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_guangyu"><b>Zhou</b>&nbsp;Guangyu</a></span>, <a href="../../../author/bao_hailing"><b>Bao</b>&nbsp;Hailing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1650-2542" title="ORCID: 0000-0003-1650-2542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_qiong"><b>Liu</b>&nbsp;Qiong</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 22, No. 4036
 
 <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Effects%20of%20Nozzle%20Proximal%20Carbonation%20Mixing%20and%20Vacuum%20Dewatering%20on%20the%20Printability%20and%20Mechanical%20Properties%20of%20the%203D%20Printed%20Construction%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+effects+of+nozzle+proximal+carbonation+mixing+and+vacuum+dewatering+on+the+printability+and+mechanical+properties+of+the+3d+printed+construction+mortar&as_occt=title&as_sauthors=song&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023099653&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001624078900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15224036" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

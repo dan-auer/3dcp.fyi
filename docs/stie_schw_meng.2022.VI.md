@@ -19,14 +19,15 @@ tags:
 
 #Volumetric Intersections&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Modularization Approaches for Freeform Prefab Concrete Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202100047) <a href="https://doi.org/10.1002/cend.202100047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cend.202100047" target="_blank">10.1002/cend.202100047</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202100047" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cend.202100047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cend.202100047" target="_blank">10.1002/cend.202100047</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3854-0016" title="ORCID: 0000-0002-3854-0016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stieler_david"><b>Stieler</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4974-9808" title="ORCID: 0000-0003-4974-9808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwinn_tobias"><b>Schwinn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menges_achim"><b>Menges</b>&nbsp;Achim</a></span><br>
 Journal Article - Civil Engineering Design, Vol. 4, Iss. 1
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/intersection"><button class="btn">#intersection</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Volumetric%20Intersections" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=volumetric+intersections&as_occt=title&as_sauthors=stieler&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cend.202100047" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Quantifying the Complexity of 3D Printed Concrete Elements ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2021/0136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2021/0136" target="_blank">10.22260/isarc2021/0136</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2021/0136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2021/0136" target="_blank">10.22260/isarc2021/0136</a>
 
 <a href="../../../author/pekuss_raitis"><b>Pekuss</b>&nbsp;Raitis</a></span>, <a href="../../../author/ancupane_amelija"><b>Ancupane</b>&nbsp;Amelija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soto_garcia_borja"><b>de&nbsp;Soto</b>&nbsp;Borja</a></span><br>
 Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Quantifying%20the%20Complexity%20of%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=quantifying+the+complexity+of+3d+printed+concrete+elements&as_occt=title&as_sauthors=pekuss&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2021/0136" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

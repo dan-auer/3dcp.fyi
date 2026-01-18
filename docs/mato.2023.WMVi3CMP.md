@@ -14,14 +14,15 @@ tags:
 ---
 
 #Waste Marble Valorisation in 3D Cementitious Materials Printing ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003345084-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003345084-9" target="_blank">10.1201/9781003345084-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003345084-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003345084-9" target="_blank">10.1201/9781003345084-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1646-4665" title="ORCID: 0000-0002-1646-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matos_mafalda_ana"><b>Matos</b>&nbsp;Ana</a></span><br>
 Contribution - Selected Papers from the 6th International Conference Wastes, pp. 51-56
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Waste%20Marble%20Valorisation%20in%203D%20Cementitious%20Materials%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=waste+marble+valorisation+in+3d+cementitious+materials+printing&as_occt=title&as_sauthors=matos&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185838974&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001517469700009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003345084-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Kul Anil 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4985-0797" target="_blank">0000-0003-4985-0797</a>
+
+    First Contribution
+    : 2021-05-12
+    
+    Last Contribution
+    : 2025-10-28
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 206
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (5)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (5)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (4)</li>
+        <li><a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> (4)</li>
+        <li><a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a> (64)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (40)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (35)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (17)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (15)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (46)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (41)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (24)</li>
+        <li><a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> (16)</li>
+        <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kul_koca.2025.PAoDaOPi3CPoWE/">Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements</a></li>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kul_koca_alde_yld.2024.3POPAAMDfBMW/">3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes</a></li>

@@ -9,6 +9,57 @@ search:
 
 #  Barve Prasad 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-07-08
+    
+    Last Contribution
+    : 2024-07-08
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 4
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a> (1)</li>
+        <li><a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (16)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (15)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (14)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a> (1)</li>
+        <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a> (1)</li>
+        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (1)</li>
+        <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a> (1)</li>
+        <li><a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a></li>
 </ol>

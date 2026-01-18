@@ -15,14 +15,15 @@ tags:
 ---
 
 #Concrete, the Predestined Building Material for Additive Manufacturing ([2018-09](date/2018/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201870903) <a href="https://doi.org/10.1002/best.201870903" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201870903" target="_blank">10.1002/best.201870903</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201870903" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201870903" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201870903" target="_blank">10.1002/best.201870903</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 113, Iss. 9, No. 631
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%2C%20the%20Predestined%20Building%20Material%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete%2C+the+predestined+building+material+for+additive+manufacturing&as_occt=title&as_sauthors=lowke&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052815078&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000443681500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201870903" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #synthesis
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/modification"><button class="btn">#modification (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yassin_m_ahmed"><b>Yassin</b> Ahmed</a>, <a href="../../../author/hafez_ahmed_mohamed"><b>Hafez</b> Mohamed</a>, <a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yass_hafe_aboe.2025.EaNIotEoDToSFotFBaMPo3CCPPwCCIAP/">Experimental and Numerical Investigation on the Effect of Different Types of Synthetic Fibers on the Flexure Behavior and Mechanical Properties of 3D Cementitious Composite Printing Provided with Cement CEM II/A-P</a></li>
   <li><a href="../../../author/abdelmohsen_sherif"><b>Abdelmohsen</b> Sherif</a>, <a href="../../../author/massoud_passant"><b>Massoud</b> Passant</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../abde_mass.2024.SF/">Synthetic Fabrications:<br/>Lessons from Integrating Robotic Clay-Fabrication in Architectural Education</a></li>

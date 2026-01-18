@@ -22,14 +22,15 @@ tags:
 ---
 
 #Compressive Performance of PVA Fiber-Reinforced 3D Concrete Printing Permanent Formwork Composite Columns Reinforced with BFRP-Bars ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111174" target="_blank">10.1016/j.jobe.2024.111174</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111174" target="_blank">10.1016/j.jobe.2024.111174</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6360-2402" title="ORCID: 0000-0001-6360-2402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_bing"><b>Liu</b>&nbsp;Bing</a></span>, <a href="../../../author/cheng_xiao-ming"><b>Cheng</b>&nbsp;Xiao-Ming</a></span>, <a href="../../../author/wang_lian-gang"><b>Wang</b>&nbsp;Lian-Gang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8905-4384" title="ORCID: 0000-0002-8905-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_kai"><b>Qian</b>&nbsp;Kai</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111174
 
 <a href="../../keyword/bar"><button class="btn">#bar</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Performance%20of%20PVA%20Fiber-Reinforced%203D%20Concrete%20Printing%20Permanent%20Formwork%20Composite%20Columns%20Reinforced%20with%20BFRP-Bars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=compressive+performance+of+pva+fiber-reinforced+3d+concrete+printing+permanent+formwork+composite+columns+reinforced+with+bfrp-bars&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208107946&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001353397300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111174" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

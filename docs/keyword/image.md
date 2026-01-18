@@ -8,6 +8,10 @@ search:
 
 # #image
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/base"><button class="btn">#base (6)</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation (6)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
   <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>

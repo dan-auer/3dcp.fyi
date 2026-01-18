@@ -18,14 +18,15 @@ tags:
 ---
 
 #Printability-Assessment of Cement-Based Materials Using Uniaxial Compression-Test ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_47" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_47" target="_blank">10.1007/978-3-031-06116-5_47</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_47" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_47" target="_blank">10.1007/978-3-031-06116-5_47</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/harbouz_ilhame"><b>Harbouz</b>&nbsp;Ilhame</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roziere_emmanuel"><b>Rozière</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 318-323
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability-Assessment%20of%20Cement-Based%20Materials%20Using%20Uniaxial%20Compression-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability-assessment+of+cement-based+materials+using+uniaxial+compression-test&as_occt=title&as_sauthors=harbouz&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133181311&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_47" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

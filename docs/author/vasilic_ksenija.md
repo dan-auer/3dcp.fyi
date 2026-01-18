@@ -9,6 +9,60 @@ search:
 
 #  Vasilić Ksenija 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2014-03-26
+    
+    Last Contribution
+    : 2025-02-22
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 123
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (3)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a> (72)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (70)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (55)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (46)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (43)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (38)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (12)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (11)</li>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../vasi.2024.SAoC3P/">Standardization Aspects of Concrete 3D Printing</a></li>
   <li><a href="../../../author/vasilic_ksenija"><b>Vasilić</b> Ksenija</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../vasi.2024.AMwC/">Additive Manufacturing with Concrete:<br/>The Path to Practical Implementation</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #ceramic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/clay"><button class="btn">#clay (6)</button></a> <a href="../../keyword/waste"><button class="btn">#waste (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/melero-tur_sofia"><b>Melero-Tur</b> Sofía</a>, <a href="../../../author/jimenez-guerrero_adriano"><b>Jiménez-Guerrero</b> Adriano</a>, <a href="../../../author/perez-fenoy_jose"><b>Pérez-Fenoy</b> José</a>, <a href="../../../author/barbero-barrera_mar_maria"><b>Barbero-Barrera</b> María</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mele_jime_pere_barb.2026.RItPo3PCTtIoWM/">Re-Imagining the Production of 3D Printed Ceramics Through the Incorporation of Waste Materials</a></li>
   <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>

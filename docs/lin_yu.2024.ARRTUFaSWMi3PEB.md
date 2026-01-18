@@ -24,7 +24,7 @@ Contribution - fib Symposium 2024
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Rapid%20Reinforcement-Technique%20Using%20FRP%20and%20Steel-Wire%20Mesh%20in%203D%20Printed%20ECC%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+rapid+reinforcement-technique+using+frp+and+steel-wire+mesh+in+3d+printed+ecc+beams&as_occt=title&as_sauthors=lin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

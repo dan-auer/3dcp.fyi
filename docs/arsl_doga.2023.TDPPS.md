@@ -14,14 +14,15 @@ tags:
 
 #Three-Dimensional, Printable Paving Stone&nbsp;([2023-04](date/2023/04))
 <div class="h1-like">A Preliminary Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4605/13/1/18/pdf?version=1676454051) <a href="https://doi.org/10.3390/materproc2023013018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/materproc2023013018" target="_blank">10.3390/materproc2023013018</a>
+<a href="https://www.mdpi.com/2673-4605/13/1/18/pdf?version=1676454051" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/materproc2023013018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/materproc2023013018" target="_blank">10.3390/materproc2023013018</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0368-5653" title="ORCID: 0000-0002-0368-5653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arslan_volkan"><b>Arslan</b>&nbsp;Volkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2721-4450" title="ORCID: 0000-0002-2721-4450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dogan_zekeriya"><b>Dogan</b>&nbsp;Zekeriya</a></span><br>
 Contribution - 10th MATBUD
 
 <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%2C%20Printable%20Paving%20Stone" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional%2C+printable+paving+stone&as_occt=title&as_sauthors=arslan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/materproc2023013018" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

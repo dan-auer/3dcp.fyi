@@ -19,14 +19,15 @@ tags:
 
 #Interface Bonding in 3D-Printed Concrete&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">Experimental Evaluation and Numerical Modeling</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003677895-97" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003677895-97" target="_blank">10.1201/9781003677895-97</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003677895-97" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003677895-97" target="_blank">10.1201/9781003677895-97</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miri_sadat_zahra"><b>Miri</b>&nbsp;Zahra</a></span>, <a href="../../../author/aurilio_m_r"><b>Aurilio</b>&nbsp;R.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polak_anna_maria"><b>Polak</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baaj_hassan"><b>Baaj</b>&nbsp;Hassan</a></span><br>
 Contribution - Engineering Materials, Structures, Systems and Methods for a More Sustainable Future, pp. 205-206
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interface%20Bonding%20in%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interface+bonding+in+3d-printed+concrete&as_occt=title&as_sauthors=miri&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022969984&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003677895-97" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

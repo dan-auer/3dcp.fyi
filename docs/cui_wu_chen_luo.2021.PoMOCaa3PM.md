@@ -14,14 +14,15 @@ tags:
 ---
 
 #Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" target="_blank">10.1016/j.conbuildmat.2021.122677</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.122677" target="_blank">10.1016/j.conbuildmat.2021.122677</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4391-004X" title="ORCID: 0000-0003-4391-004X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_peng"><b>Cui</b>&nbsp;Peng</a></span>, <a href="../../../author/wu_chun-ran"><b>Wu</b>&nbsp;Chun-ran</a></span>, <a href="../../../author/chen_jie"><b>Chen</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1034-9524" title="ORCID: 0000-0003-1034-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_fuming"><b>Luo</b>&nbsp;Fuming</a></span>, <a href="../../../author/kou_shi-cong"><b>Kou</b>&nbsp;Shi-cong</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 282
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preparation%20of%20Magnesium-Oxysulfate%20Cement%20as%20a%203D%20Printing%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preparation+of+magnesium-oxysulfate+cement+as+a+3d+printing+material&as_occt=title&as_sauthors=cui&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101574646&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000639114300035" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.122677" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

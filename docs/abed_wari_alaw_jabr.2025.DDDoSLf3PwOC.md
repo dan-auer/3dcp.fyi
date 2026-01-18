@@ -15,14 +15,15 @@ tags:
 ---
 
 #Data-Driven Design of Sustainable LC³ for 3D Printing with Omani Clays ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.rineng.2025.108061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108061" target="_blank">10.1016/j.rineng.2025.108061</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.rineng.2025.108061" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108061" target="_blank">10.1016/j.rineng.2025.108061</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2920-9284" title="ORCID: 0000-0002-2920-9284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b>&nbsp;Mohammadmadhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8975-7362" title="ORCID: 0000-0002-8975-7362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waris_bilal_muhammad"><b>Waris</b>&nbsp;Muhammad</a></span>, <a href="../../../author/alawi_khamis_mubarak"><b>al&nbsp;Alawi</b>&nbsp;Mubarak</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9913-5631" title="ORCID: 0000-0001-9913-5631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jabri_saif_khalifa"><b>al&nbsp;Jabri</b>&nbsp;Khalifa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1411-0051" title="ORCID: 0000-0003-1411-0051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rezazadeh_mohammadali"><b>Rezazadeh</b>&nbsp;Mohammadali</a></span><br>
 Journal Article - Results in Engineering, No. 108061
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Design%20of%20Sustainable%20LC%C2%B3%20for%203D%20Printing%20with%20Omani%20Clays" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+design+of+sustainable+lc%C2%B3+for+3d+printing+with+omani+clays&as_occt=title&as_sauthors=abedi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021259983&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.rineng.2025.108061" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

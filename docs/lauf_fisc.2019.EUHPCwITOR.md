@@ -18,14 +18,15 @@ tags:
 ---
 
 #Efficient Ultra-High Performance Concrete with Innovative Trajectory-Oriented "Reinforcement" ([2019-04](date/2019/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/cepa.976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.976" target="_blank">10.1002/cepa.976</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cepa.976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.976" target="_blank">10.1002/cepa.976</a>
 
 <a href="../../../author/lauff_philipp"><b>Lauff</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_oliver"><b>Fischer</b>&nbsp;Oliver</a></span><br>
 Journal Article - ce/papers, Vol. 3, Iss. 2, pp. 82-88
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Efficient%20Ultra-High%20Performance%20Concrete%20with%20Innovative%20Trajectory-Oriented%20%22Reinforcement%22" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=efficient+ultra-high+performance+concrete+with+innovative+trajectory-oriented+%22reinforcement%22&as_occt=title&as_sauthors=lauff&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cepa.976" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

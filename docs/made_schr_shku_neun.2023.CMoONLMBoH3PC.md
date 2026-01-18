@@ -18,14 +18,15 @@ tags:
 ---
 
 #Constitutive Modeling of Orthotropic Non-Linear Mechanical Behavior of Hardened 3D Printed Concrete ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s00707-023-03706-z.pdf) <a href="https://doi.org/10.1007/s00707-023-03706-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00707-023-03706-z" target="_blank">10.1007/s00707-023-03706-z</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s00707-023-03706-z.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00707-023-03706-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00707-023-03706-z" target="_blank">10.1007/s00707-023-03706-z</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1780-4227" title="ORCID: 0000-0003-1780-4227" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mader_thomas"><b>Mader</b>&nbsp;Thomas</a></span>, <a href="../../../author/schreter-fleischhacker_magdalena"><b>Schreter-Fleischhacker</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1472-2840" title="ORCID: 0000-0003-1472-2840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shkundalova_olena"><b>Shkundalova</b>&nbsp;Olena</a></span>, <a href="../../../author/neuner_matthias"><b>Neuner</b>&nbsp;Matthias</a></span>, <a href="../../../author/hofstetter_gunter"><b>Hofstetter</b>&nbsp;Günter</a></span><br>
 Journal Article - Acta Mechanica
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/linear"><button class="btn">#linear</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Constitutive%20Modeling%20of%20Orthotropic%20Non-Linear%20Mechanical%20Behavior%20of%20Hardened%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=constitutive+modeling+of+orthotropic+non-linear+mechanical+behavior+of+hardened+3d+printed+concrete&as_occt=title&as_sauthors=mader&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169575120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001057655900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00707-023-03706-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #The Multi-Storey Concrete Printing Construction Technology ([2020-11](date/2020/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-72404-7_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-72404-7_40" target="_blank">10.1007/978-3-030-72404-7_40</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-72404-7_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-72404-7_40" target="_blank">10.1007/978-3-030-72404-7_40</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0911-5341" title="ORCID: 0000-0003-0911-5341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krotov_oleg"><b>Krotov</b>&nbsp;Oleg</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5616-1191" title="ORCID: 0000-0002-5616-1191" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lazarev_yuriy"><b>Lazarev</b>&nbsp;Yuriy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0423-4958" title="ORCID: 0000-0003-0423-4958" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/velichkin_viktor"><b>Velichkin</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4865-5319" title="ORCID: 0000-0002-4865-5319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petrochenko_marina"><b>Petrochenko</b>&nbsp;Marina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3981-973X" title="ORCID: 0000-0002-3981-973X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belyaeva_svetlana"><b>Belyaeva</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4573-6794" title="ORCID: 0000-0003-4573-6794" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/andrade-romero_marcelo"><b>de&nbsp;Andrade Romero</b>&nbsp;Marcelo</a></span><br>
 Contribution - Proceedings of the International Scientific Conference on Energy, Environmental and Construction Engineering, pp. 411-420
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Multi-Storey%20Concrete%20Printing%20Construction%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+multi-storey+concrete+printing+construction+technology&as_occt=title&as_sauthors=krotov&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107267551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-72404-7_40" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

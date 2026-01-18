@@ -19,7 +19,7 @@ Journal Article - DBV Rundschreiben, Vol. 278, pp. 4-9
 
 <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Standardization%20Aspects%20of%203D%20Printing%20with%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=standardization+aspects+of+3d+printing+with+concrete&as_occt=title&as_sauthors=vasili%C4%87&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Experimental Characterization of Anisotropic Mechanical Behavior and Failure-Mechanisms of Hardened Printed Concrete ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17163931) <a href="https://doi.org/10.3390/ma17163931" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17163931" target="_blank">10.3390/ma17163931</a>
+<a href="https://doi.org/10.3390/ma17163931" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17163931" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17163931" target="_blank">10.3390/ma17163931</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/glotz_theresa"><b>Glotz</b>&nbsp;Theresa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petryna_yuri"><b>Petryna</b>&nbsp;Yuri</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 16
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Characterization%20of%20Anisotropic%20Mechanical%20Behavior%20and%20Failure-Mechanisms%20of%20Hardened%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+characterization+of+anisotropic+mechanical+behavior+and+failure-mechanisms+of+hardened+printed+concrete&as_occt=title&as_sauthors=glotz&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202436173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001304898600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17163931" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #Traditional and Modern Methods of Construction&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">Comparative Study of the Sustainability of Single‐Family Homes</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202400802) <a href="https://doi.org/10.1002/suco.202400802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202400802" target="_blank">10.1002/suco.202400802</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202400802" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.202400802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202400802" target="_blank">10.1002/suco.202400802</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1538-4567" title="ORCID: 0000-0002-1538-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/josa_irene"><b>Josa</b>&nbsp;Irene</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8016-1677" title="ORCID: 0000-0002-8016-1677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente_albert"><b>de la&nbsp;Fuente</b>&nbsp;Albert</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Traditional%20and%20Modern%20Methods%20of%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=traditional+and+modern+methods+of+construction&as_occt=title&as_sauthors=josa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208815400&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001354214400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.202400802" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

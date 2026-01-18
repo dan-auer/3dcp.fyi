@@ -8,7 +8,12 @@ search:
 
 # #age
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/early"><button class="btn">#early (77)</button></a> <a href="../../keyword/print"><button class="btn">#print (56)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (40)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (25)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (18)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../fede_sibe_tosi_ziel.2026.EASMo3PCMCoMTaLCA/">Early-Age Shrinkage Monitoring of 3D-Printed Cementitious Mixtures: Comparison of Measuring Techniques and Low-Cost Alternatives</a></li>
   <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_suik.2025.CoEAEPPo3PMUIT/">Characterization of Early-Age Elastic–Plastic Properties of 3D Printed Materials Using Indentation Testing</a></li>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>

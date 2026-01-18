@@ -19,14 +19,15 @@ tags:
 ---
 
 #Flow Characteristics of Cement Mortar with Varied Silica-Fume for Additive Construction ([2022-10](date/2022/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-2676-3_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-2676-3_16" target="_blank">10.1007/978-981-99-2676-3_16</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-2676-3_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-2676-3_16" target="_blank">10.1007/978-981-99-2676-3_16</a>
 
 <a href="../../../author/diwan_anushree"><b>Diwan</b>&nbsp;Anushree</a></span>, <a href="../../../author/patel_singh_shiv"><b>Patel</b>&nbsp;Shiv</a></span>, <a href="../../../author/pal_ankit"><b>Pal</b>&nbsp;Ankit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/shukla_p_j"><b>Shukla</b>&nbsp;J.</a></span>, <a href="../../../author/panthi_k_s"><b>Panthi</b>&nbsp;S.</a></span>, <a href="../../../author/agrawal_ramakant"><b>Agrawal</b>&nbsp;Ramakant</a></span><br>
 Contribution - Proceedings from the International Conference on Recent Advances in Civil Engineering, pp. 191-201
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flow%20Characteristics%20of%20Cement%20Mortar%20with%20Varied%20Silica-Fume%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flow+characteristics+of+cement+mortar+with+varied+silica-fume+for+additive+construction&as_occt=title&as_sauthors=diwan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174440481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-2676-3_16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -59,8 +60,9 @@ Contribution - Proceedings from the International Conference on Recent Advances 
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../teix_jesu_rang_alve.2026.EoPPoCPwAP/">Evaluation of Printing Performance of Cementitious Pastes with Alternative Powders</a></li>
     </ol>
 </div>
 

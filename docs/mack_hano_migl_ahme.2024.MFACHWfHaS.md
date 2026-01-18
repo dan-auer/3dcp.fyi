@@ -17,14 +17,15 @@ tags:
 ---
 
 #Multi-Functional Additively Constructed Honeycomb Walls for Housing and Sheltering ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.138941) <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" target="_blank">10.1016/j.conbuildmat.2024.138941</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138941" target="_blank">10.1016/j.conbuildmat.2024.138941</a>
 
 <a href="../../../author/mackin_anthony"><b>Mackin</b>&nbsp;Anthony</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-2997-0740" title="ORCID: 0009-0002-2997-0740" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hanoun_zaid"><b>Hanoun</b>&nbsp;Zaid</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-9602-688X" title="ORCID: 0009-0006-9602-688X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/migliorino_jenna"><b>Migliorino</b>&nbsp;Jenna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6226-7040" title="ORCID: 0000-0001-6226-7040" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_mohamed-aly_aly"><b>Ahmed</b>&nbsp;Aly</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantawy_m_islam"><b>Mantawy</b>&nbsp;Islam</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 452, No. 138941
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/honeycomb"><button class="btn">#honeycomb</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Functional%20Additively%20Constructed%20Honeycomb%20Walls%20for%20Housing%20and%20Sheltering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-functional+additively+constructed+honeycomb+walls+for+housing+and+sheltering&as_occt=title&as_sauthors=mackin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207336130&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001348261700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138941" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

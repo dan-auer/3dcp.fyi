@@ -17,14 +17,15 @@ tags:
 
 #Evolution of Additive Manufacturing in Civil Infrastructure Systems&nbsp;([2021-07](date/2021/07))
 <div class="h1-like">A Ten-Year Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2412-3811/6/8/108/pdf?version=1628074189) <a href="https://doi.org/10.3390/infrastructures6080108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures6080108" target="_blank">10.3390/infrastructures6080108</a>
+<a href="https://www.mdpi.com/2412-3811/6/8/108/pdf?version=1628074189" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/infrastructures6080108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/infrastructures6080108" target="_blank">10.3390/infrastructures6080108</a>
 
 <a href="../../../author/jamali_koosha"><b>Jamali</b>&nbsp;Koosha</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7922-2746" title="ORCID: 0000-0001-7922-2746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaushal_vinayak"><b>Kaushal</b>&nbsp;Vinayak</a></span>, <a href="../../../author/najafi_mohammad"><b>Najafi</b>&nbsp;Mohammad</a></span><br>
 Journal Article - Infrastructures, Vol. 6, Iss. 8
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evolution%20of%20Additive%20Manufacturing%20in%20Civil%20Infrastructure%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evolution+of+additive+manufacturing+in+civil+infrastructure+systems&as_occt=title&as_sauthors=jamali&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112080412&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000691210800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/infrastructures6080108" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

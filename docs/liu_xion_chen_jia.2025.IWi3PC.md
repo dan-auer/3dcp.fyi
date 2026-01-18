@@ -19,14 +19,15 @@ tags:
 
 #Industrial Waste in 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">A Mechanistic Review on Rheological Control and Printability</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114033" target="_blank">10.1016/j.jobe.2025.114033</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114033" target="_blank">10.1016/j.jobe.2025.114033</a>
 
 <a href="../../../author/liu_ruiying"><b>Liu</b>&nbsp;Ruiying</a></span>, <a href="../../../author/xiong_zhongming"><b>Xiong</b>&nbsp;Zhongming</a></span>, <a href="../../../author/chen_xuan"><b>Chen</b>&nbsp;Xuan</a></span>, <a href="../../../author/jia_qiong"><b>Jia</b>&nbsp;Qiong</a></span>, <a href="../../../author/liu_jiarui"><b>Liu</b>&nbsp;Jiarui</a></span>, <a href="../../../author/liu_yue"><b>Liu</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114033
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Industrial%20Waste%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=industrial+waste+in+3d+printed+concrete&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015986486&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001578352700010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

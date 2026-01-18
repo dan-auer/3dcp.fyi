@@ -9,6 +9,60 @@ search:
 
 #  Eichenauer Martin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-02-22
+    
+    Last Contribution
+    : 2022-09-07
+
+    Number Contributions
+    : 4
+
+    Number Citations
+    : 40
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (4)</li>
+        <li><a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> (4)</li>
+        <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ivan_eich_tosi_mull.2022.3PaAoFMUPSHCBC/">3D Printing and Assembling of Frame Modules Using Printable Strain-Hardening Cement-Based Composites</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (9)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (8)</li>
+        <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a> (6)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (16)</li>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (11)</li>
+        <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> (8)</li>
+        <li><a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> (5)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ivan_tosi_eich_mull.2022.APoTRCMftAoSS/">Automated Production of Textile Reinforced Concrete Modules for the Assembly of Shell Structures</a></li>
   <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tosi_eich_ivan_lord.2022.DaOoFFSfMC3P/">Design and Optimization of Free-Form Surfaces for Modular Concrete 3D Printing</a></li>

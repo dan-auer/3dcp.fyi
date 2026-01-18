@@ -17,14 +17,15 @@ tags:
 ---
 
 #Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105681" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105681" target="_blank">10.1016/j.autcon.2024.105681</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105681" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105681" target="_blank">10.1016/j.autcon.2024.105681</a>
 
 <a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b>&nbsp;Payam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noorvand_hassan"><b>Noorvand</b>&nbsp;Hassan</a></span>, <a href="../../../author/lamendola_joseph"><b>Lamendola</b>&nbsp;Joseph</a></span>, <a href="../../../author/hassan_m_marwa"><b>Hassan</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Journal Article - Automation in Construction, Vol. 166, No. 105681
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Strength%20Monitoring%20of%203D%20Printed%20Structures%20via%20Embedded%20Sensors" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+strength+monitoring+of+3d+printed+structures+via+embedded+sensors&as_occt=title&as_sauthors=banijamali&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200860407&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001291484600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105681" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

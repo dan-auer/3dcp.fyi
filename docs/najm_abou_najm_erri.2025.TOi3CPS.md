@@ -17,14 +17,15 @@ tags:
 
 #Topological Optimization in 3D Concrete Printing Structures&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/icoa66896.2025.11236952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icoa66896.2025.11236952" target="_blank">10.1109/icoa66896.2025.11236952</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/icoa66896.2025.11236952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icoa66896.2025.11236952" target="_blank">10.1109/icoa66896.2025.11236952</a>
 
 <a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b>&nbsp;Asmae</a></span>, <a href="../../../author/abouelmajd_mohamed"><b>Abouelmajd</b>&nbsp;Mohamed</a></span>, <a href="../../../author/najm-eddine_youssef"><b>Najm-Eddine</b>&nbsp;Youssef</a></span>, <a href="../../../author/erritali_ilham"><b>Erritali</b>&nbsp;Ilham</a></span>, <a href="../../../author/arroub_ismail"><b>Arroub</b>&nbsp;Ismail</a></span>, <a href="../../../author/bahlaoui_ahmed"><b>Bahlaoui</b>&nbsp;Ahmed</a></span>, <a href="../../../author/lagache_manuel"><b>Lagache</b>&nbsp;Manuel</a></span>, <a href="../../../author/belhouideg_soufiane"><b>Belhouideg</b>&nbsp;Soufiane</a></span><br>
 Contribution - 2025 11th International Conference on Optimization and Applications (ICOA), pp. 1-6
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Topological%20Optimization%20in%203D%20Concrete%20Printing%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=topological+optimization+in+3d+concrete+printing+structures&as_occt=title&as_sauthors=najm-eddine&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/icoa66896.2025.11236952" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

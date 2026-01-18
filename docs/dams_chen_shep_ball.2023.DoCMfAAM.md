@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of Cementitious Mortars for Aerial Additive Manufacturing ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/1/641/pdf?version=1672812579) <a href="https://doi.org/10.3390/app13010641" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13010641" target="_blank">10.3390/app13010641</a>
+<a href="https://www.mdpi.com/2076-3417/13/1/641/pdf?version=1672812579" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app13010641" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app13010641" target="_blank">10.3390/app13010641</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0719-7398" title="ORCID: 0000-0003-0719-7398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_binling"><b>Chen</b>&nbsp;Binling</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span><br>
 Journal Article - Applied Sciences, Vol. 13, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cementitious%20Mortars%20for%20Aerial%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+cementitious+mortars+for+aerial+additive+manufacturing&as_occt=title&as_sauthors=dams&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145868011&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000909164900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app13010641" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

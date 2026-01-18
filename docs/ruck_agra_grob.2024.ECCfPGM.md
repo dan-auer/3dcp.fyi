@@ -19,14 +19,15 @@ tags:
 
 #Evaluating Clay Characteristics for Printable Geo-Materials&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">A Case Study of Clay-Sand Mixes</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/6/1576/pdf?version=1716996311) <a href="https://doi.org/10.3390/buildings14061576" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14061576" target="_blank">10.3390/buildings14061576</a>
+<a href="https://www.mdpi.com/2075-5309/14/6/1576/pdf?version=1716996311" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14061576" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14061576" target="_blank">10.3390/buildings14061576</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7688-5683" title="ORCID: 0000-0001-7688-5683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ruckrich_stefanie"><b>Rückrich</b>&nbsp;Stefanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8003-2878" title="ORCID: 0000-0001-8003-2878" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/agranati_galit"><b>Agranati</b>&nbsp;Galit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4683-4601" title="ORCID: 0000-0003-4683-4601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/grobman_jacob_yasha"><b>Grobman</b>&nbsp;Yasha</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 6, No. 1576
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20Clay%20Characteristics%20for%20Printable%20Geo-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+clay+characteristics+for+printable+geo-materials&as_occt=title&as_sauthors=r%C3%BCckrich&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197268786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001254612700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14061576" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

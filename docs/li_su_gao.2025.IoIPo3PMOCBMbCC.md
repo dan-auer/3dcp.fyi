@@ -20,14 +20,15 @@ tags:
 ---
 
 #Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2025.06.180) <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" target="_blank">10.1016/j.jmrt.2025.06.180</a>
+<a href="https://doi.org/10.1016/j.jmrt.2025.06.180" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.06.180" target="_blank">10.1016/j.jmrt.2025.06.180</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qiyan"><b>Li</b>&nbsp;Qiyan</a></span>, <a href="../../../author/su_anshuang"><b>Su</b>&nbsp;Anshuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaojian"><b>Gao</b>&nbsp;Xiaojian</a></span><br>
 Journal Article - Journal of Materials Research and Technology
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%20Interlayer%20Performance%20of%203D%20Printable%20Magnesium%20Oxysulfate%20Cement-Based%20Materials%20by%20Carbonation%20Curing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improvement+of+interlayer+performance+of+3d+printable+magnesium+oxysulfate+cement-based+materials+by+carbonation+curing&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001522853200010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmrt.2025.06.180" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

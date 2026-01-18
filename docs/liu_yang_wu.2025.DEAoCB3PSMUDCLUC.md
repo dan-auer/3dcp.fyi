@@ -22,14 +22,15 @@ tags:
 ---
 
 #Damage Evolution Analysis of Cement-Based 3D Printing Similar Materials Under Different Cyclic Loading-Unloading Conditions ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113276" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113276" target="_blank">10.1016/j.jobe.2025.113276</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113276" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113276" target="_blank">10.1016/j.jobe.2025.113276</a>
 
 <a href="../../../author/liu_shun"><b>Liu</b>&nbsp;Shun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1471-6224" title="ORCID: 0000-0002-1471-6224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xiaobin"><b>Yang</b>&nbsp;Xiaobin</a></span>, <a href="../../../author/wu_jianing"><b>Wu</b>&nbsp;Jianing</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113276
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/similarity"><button class="btn">#similarity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Damage%20Evolution%20Analysis%20of%20Cement-Based%203D%20Printing%20Similar%20Materials%20Under%20Different%20Cyclic%20Loading-Unloading%20Conditions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=damage+evolution+analysis+of+cement-based+3d+printing+similar+materials+under+different+cyclic+loading-unloading+conditions&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008782943&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001522461600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113276" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

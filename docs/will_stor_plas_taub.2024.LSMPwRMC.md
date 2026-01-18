@@ -27,7 +27,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ready"><button class="btn">#ready</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%20Monolithic%20Printing%20with%20Ready-Mixed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-scale+monolithic+printing+with+ready-mixed+concrete&as_occt=title&as_sauthors=will&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408150621-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

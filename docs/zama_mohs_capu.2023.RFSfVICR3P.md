@@ -17,14 +17,15 @@ tags:
 ---
 
 #Reconfigurable Formwork System for Vision-Informed Conformal Robotic 3D Printing ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2023_317.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2023.1.387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.387" target="_blank">10.52842/conf.ecaade.2023.1.387</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2023_317.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2023.1.387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.387" target="_blank">10.52842/conf.ecaade.2023.1.387</a>
 
 <a href="../../../author/zamani_alireza"><b>Zamani</b>&nbsp;Alireza</a></span>, <a href="../../../author/mohseni_alale"><b>Mohseni</b>&nbsp;Alale</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4790-0394" title="ORCID: 0000-0002-4790-0394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b>&nbsp;Özgüç</a></span><br>
 Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 387-396
 
 <a href="../../keyword/conformity"><button class="btn">#conformity</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reconfigurable%20Formwork%20System%20for%20Vision-Informed%20Conformal%20Robotic%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reconfigurable+formwork+system+for+vision-informed+conformal+robotic+3d+printing&as_occt=title&as_sauthors=zamani&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171835760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2023.1.387" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

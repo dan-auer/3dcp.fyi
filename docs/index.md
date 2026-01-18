@@ -13,7 +13,7 @@ search:
 <div class="grid" markdown>
 
 Relax, this isn't another review paper on 3D Concrete Printing (3DCP). Instead, we've curated an exhaustive database that offers a detailed look at the State of the Art in 3D-printing in the construction industry, mostly, but not exclusively, involving cementitious materials and extrusion-based manufacturing. To guarantee the dataset's quality and consistency, we've taken the extra step of manually curating each entry over the last six years. The project is open-source, 
-licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community to help keep the database current and comprehensive.<br><br><br>[:ti-download: Download `*.bib` data (2.32 MB), last updated on 2026-01-06](https://github.com/dan-auer/3dcp.fyi/releases/download/2026-01-06/3dcp_fyi.bib){ .md-button .md-button--primary }
+licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community to help keep the database current and comprehensive.<br><br><br>[:ti-download: Download `*.bib` data (2.34 MB), last updated on 2026-01-18](https://github.com/dan-auer/3dcp.fyi/releases/download/2026-01-18/3dcp_fyi.txt){ .md-button .md-button--primary }
 
 ``` title="If our database has been helpful to you, please consider citing our work!"
 @inproceedings{auer_bos_fisc.2024.3dcp.fyi,
@@ -38,7 +38,7 @@ licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community t
 
     ---
 
-    Discover <b><span style="color:var(--md-typeset-a-color);">4694</span></b>  articles. Find what you need by searching titles, authors, keywords, or abstracts.
+    Discover <b><span style="color:var(--md-typeset-a-color);">4735</span></b>  articles. Find what you need by searching titles, authors, keywords, or abstracts.
 
     [:ti-arrow-narrow-right: View an Example](mech_titt_kaze_krei.2022.ARfQCoHaHPC/)
 
@@ -46,7 +46,7 @@ licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community t
 
     ---
 
-    Each article is automatically tagged with relevant keywords from a controlled vocabulary of <b><span style="color:var(--md-typeset-a-color);">1030</span></b> terms, using a combination of fuzzy string matching and semantic similarity.
+    Each article is automatically tagged with relevant keywords from a controlled vocabulary of <b><span style="color:var(--md-typeset-a-color);">1031</span></b> terms, using a combination of fuzzy string matching and semantic similarity.
 
     [:ti-arrow-narrow-right: View by Keyword](keyword)
 
@@ -54,7 +54,7 @@ licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community t
 
     ---
 
-    Start exploring contributions from <b><span style="color:var(--md-typeset-a-color);">8603</span></b> authors. Authors with more than four publications are listed here, everyone else is just a search away. ORCiDs are provided, if available.
+    Start exploring contributions from <b><span style="color:var(--md-typeset-a-color);">8685</span></b> authors. Authors with more than four publications are listed here, everyone else is just a search away. ORCiDs are provided, if available.
 
     [:ti-arrow-narrow-right: View by Author](author)
 
@@ -64,7 +64,7 @@ licenced under CC BY-NC-SA 4.0 and we welcome contributions from the community t
 
     ---
 
-    The database spans research from its beginnings in <b><span style="color:var(--md-typeset-a-color);">1997-02 to 2026--01</span></b>, organized chronologically by month.
+    The database spans research from its beginnings in <b><span style="color:var(--md-typeset-a-color);">1997-02 to 2026-01</span></b>, organized chronologically by month.
 
     [:ti-arrow-narrow-right: View by Date](date)
 

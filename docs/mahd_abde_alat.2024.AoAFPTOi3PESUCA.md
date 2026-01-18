@@ -19,14 +19,15 @@ tags:
 ---
 
 #Assessment of Air-Flow Performance Through Openings in 3D Printed Earthen Structure Using CFD Analysis ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_49" target="_blank">10.1007/978-3-031-70031-6_49</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_49" target="_blank">10.1007/978-3-031-70031-6_49</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-2862-5530" title="ORCID: 0009-0006-2862-5530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alatassi_adel"><b>Alatassi</b>&nbsp;Adel</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 423-430
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cfd"><button class="btn">#cfd</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20Air-Flow%20Performance%20Through%20Openings%20in%203D%20Printed%20Earthen%20Structure%20Using%20CFD%20Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessment+of+air-flow+performance+through+openings+in+3d+printed+earthen+structure+using+cfd+analysis&as_occt=title&as_sauthors=mahdy&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203087507&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600049" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_49" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

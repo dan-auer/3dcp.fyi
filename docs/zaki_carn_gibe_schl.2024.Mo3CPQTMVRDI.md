@@ -16,14 +16,15 @@ tags:
 ---
 
 #Monitoring of 3D Concrete Printing Quality Through Multi-View RGB-D Images ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0127" target="_blank">10.22260/isarc2024/0127</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2024/0127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0127" target="_blank">10.22260/isarc2024/0127</a>
 
 <a href="../../../author/zaki_magdy-ahmed_ahmed"><b>Zaki</b>&nbsp;Ahmed</a></span>, <a href="../../../author/carnevale_marco"><b>Carnevale</b>&nbsp;Marco</a></span>, <a href="../../../author/giberti_hermes"><b>Giberti</b>&nbsp;Hermes</a></span>, <a href="../../../author/schlette_christian"><b>Schlette</b>&nbsp;Christian</a></span><br>
 Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Monitoring%20of%203D%20Concrete%20Printing%20Quality%20Through%20Multi-View%20RGB-D%20Images" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=monitoring+of+3d+concrete+printing+quality+through+multi-view+rgb-d+images&as_occt=title&as_sauthors=zaki&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199643072&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2024/0127" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

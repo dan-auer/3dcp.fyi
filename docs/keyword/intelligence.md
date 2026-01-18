@@ -8,6 +8,10 @@ search:
 
 # #intelligence
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (15)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial (10)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (8)</button></a> <a href="../../keyword/review"><button class="btn">#review (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
   <li><a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/madurwar_v_kamlesh"><b>Madurwar</b> Kamlesh</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bhag_pand_madu_raut.2025.LCAo3PBMTSDOaEIAUCIT/">Life Cycle Assessment of 3D-Printed Building Materials Towards Sustainability-Driven Optimization and Environmental Impact Analysis Using Computational Intelligence Techniques</a></li>

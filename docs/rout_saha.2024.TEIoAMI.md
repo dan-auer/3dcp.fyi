@@ -14,14 +14,15 @@ tags:
 ---
 
 #The Economic Impact of Additive Manufacturing Industries ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-5949-5_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-5949-5_15" target="_blank">10.1007/978-981-99-5949-5_15</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-5949-5_15" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-5949-5_15" target="_blank">10.1007/978-981-99-5949-5_15</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8592-7355" title="ORCID: 0000-0001-8592-7355" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/routray_l_krutika"><b>Routray</b>&nbsp;Krutika</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5302-5197" title="ORCID: 0000-0001-5302-5197" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saha_sunirmal"><b>Saha</b>&nbsp;Sunirmal</a></span><br>
 Contribution - Practical Implementations of Additive Manufacturing Technologies, pp. 309-323
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Economic%20Impact%20of%20Additive%20Manufacturing%20Industries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+economic+impact+of+additive+manufacturing+industries&as_occt=title&as_sauthors=routray&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174460976&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-5949-5_15" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

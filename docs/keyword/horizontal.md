@@ -8,6 +8,10 @@ search:
 
 # #horizontal
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (1)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/szogi_tamas"><b>Szögi</b> Tamás</a>, <a href="../../../author/kapitany_kristof"><b>Kapitány</b> Kristóf</a>, <a href="../../../author/solyom_sandor"><b>Sólyom</b> Sándor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../szog_kapi_soly.2024.Co3CPHSTEADA/">Characterization of 3D Concrete Printed Horizontal Structures Through Early-Age Deformation-Analysis</a></li>
   <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>

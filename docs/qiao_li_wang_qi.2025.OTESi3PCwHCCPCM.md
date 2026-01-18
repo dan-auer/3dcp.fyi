@@ -21,14 +21,15 @@ tags:
 ---
 
 #Optimizing Thermal Energy Storage in 3D Printed Concrete with Hollow Ceramsite Composite Phase Change Materials ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04688) <a href="https://doi.org/10.1016/j.cscm.2025.e04688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04688" target="_blank">10.1016/j.cscm.2025.e04688</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04688" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04688" target="_blank">10.1016/j.cscm.2025.e04688</a>
 
 <a href="../../../author/qiao_zhigang"><b>Qiao</b>&nbsp;Zhigang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/wang_fei"><b>Wang</b>&nbsp;Fei</a></span>, <a href="../../../author/qi_yongle"><b>Qi</b>&nbsp;Yongle</a></span>, <a href="../../../author/zheng_wukui"><b>Zheng</b>&nbsp;Wukui</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04688
 
 <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Thermal%20Energy%20Storage%20in%203D%20Printed%20Concrete%20with%20Hollow%20Ceramsite%20Composite%20Phase%20Change%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+thermal+energy+storage+in+3d+printed+concrete+with+hollow+ceramsite+composite+phase+change+materials&as_occt=title&as_sauthors=qiao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003414635&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001482329900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04688" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

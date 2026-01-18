@@ -15,14 +15,15 @@ tags:
 ---
 
 #The Selection and Design of Earthen Materials for 3D Printing ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" target="_blank">10.1016/j.conbuildmat.2023.133114</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133114" target="_blank">10.1016/j.conbuildmat.2023.133114</a>
 
 <a href="../../../author/ji_yameng"><b>Ji</b>&nbsp;Yameng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poullain_philippe"><b>Poullain</b>&nbsp;Philippe</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1242-089X" title="ORCID: 0000-0003-1242-089X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leklou_nordine_ali"><b>Leklou</b>&nbsp;Ali</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 404, No. 133114
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Selection%20and%20Design%20of%20Earthen%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+selection+and+design+of+earthen+materials+for+3d+printing&as_occt=title&as_sauthors=ji&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171762255&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001077453300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133114" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

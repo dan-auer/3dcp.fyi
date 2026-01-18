@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of Plasticity and Determination of Deformation Index of 3D Printed Composite Cement-Based Materials ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2391476) <a href="https://doi.org/10.1080/17452759.2024.2391476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2391476" target="_blank">10.1080/17452759.2024.2391476</a>
+<a href="https://doi.org/10.1080/17452759.2024.2391476" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2024.2391476" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2391476" target="_blank">10.1080/17452759.2024.2391476</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9799-6374" title="ORCID: 0000-0001-9799-6374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongping"><b>Zhang</b>&nbsp;Hongping</a></span>, <a href="../../../author/duan_shuni"><b>Duan</b>&nbsp;Shuni</a></span>, <a href="../../../author/hu_zhichao"><b>Hu</b>&nbsp;Zhichao</a></span>, <a href="../../../author/liu_litao"><b>Liu</b>&nbsp;Litao</a></span>, <a href="../../../author/han_qi"><b>Han</b>&nbsp;Qi</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Plasticity%20and%20Determination%20of%20Deformation%20Index%20of%203D%20Printed%20Composite%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+plasticity+and+determination+of+deformation+index+of+3d+printed+composite+cement-based+materials&as_occt=title&as_sauthors=zhang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202971000&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001302818600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2024.2391476" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

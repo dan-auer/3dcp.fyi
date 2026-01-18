@@ -16,14 +16,15 @@ tags:
 ---
 
 #Rheological Control of 3D Printable Cement-Paste and Mortars ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_7" target="_blank">10.1007/978-3-319-99519-9_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_7" target="_blank">10.1007/978-3-319-99519-9_7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7435-2493" title="ORCID: 0000-0002-7435-2493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentz_p_dale"><b>Bentz</b>&nbsp;Dale</a></span>, <a href="../../../author/martys_s_nicos"><b>Martys</b>&nbsp;Nicos</a></span>, <a href="../../../author/george_l_william"><b>George</b>&nbsp;William</a></span>, <a href="../../../author/thomas_austin"><b>Thomas</b>&nbsp;Austin</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 70-80
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Control%20of%203D%20Printable%20Cement-Paste%20and%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+control+of+3d+printable+cement-paste+and+mortars&as_occt=title&as_sauthors=jones&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052704654&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

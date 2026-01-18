@@ -20,14 +20,15 @@ tags:
 ---
 
 #Investigating the Strength Performance of 3D Printed Fiber-Reinforced Concrete Using Applicable Predictive Models ([2025-08](date/2025/08))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1515/rams-2025-0125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/rams-2025-0125" target="_blank">10.1515/rams-2025-0125</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1515/rams-2025-0125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/rams-2025-0125" target="_blank">10.1515/rams-2025-0125</a>
 
 <a href="../../../author/lu_qianyang"><b>Lu</b>&nbsp;Qianyang</a></span>, <a href="../../../author/mei_song"><b>Mei</b>&nbsp;Song</a></span>, <a href="../../../author/ateah_h_ali"><b>al&nbsp;Ateah</b>&nbsp;Ali</a></span>, <a href="../../../author/alsubeai_ali"><b>Alsubeai</b>&nbsp;Ali</a></span>, <a href="../../../author/eldin_mohie_mohammad"><b>Eldin</b>&nbsp;Mohammad</a></span>, <a href="../../../author/ahmed_mohamed_hafez"><b>Ahmed</b>&nbsp;Hafez</a></span><br>
 Journal Article - Reviews on Advanced Materials Science, Vol. 64, Iss. 1
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Strength%20Performance%20of%203D%20Printed%20Fiber-Reinforced%20Concrete%20Using%20Applicable%20Predictive%20Models" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+strength+performance+of+3d+printed+fiber-reinforced+concrete+using+applicable+predictive+models&as_occt=title&as_sauthors=lu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013389908&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001548681000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1515/rams-2025-0125" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Development of an Adaptive Slicing Algorithm of Laminated Object Manufacturing Based 3D Printing for Freeform Formwork ([2022-08](date/2022/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/9/1335/pdf?version=1663725128) <a href="https://doi.org/10.3390/buildings12091335" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091335" target="_blank">10.3390/buildings12091335</a>
+<a href="https://www.mdpi.com/2075-5309/12/9/1335/pdf?version=1663725128" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12091335" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091335" target="_blank">10.3390/buildings12091335</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1929-3563" title="ORCID: 0000-0003-1929-3563" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_dongyoun"><b>Lee</b>&nbsp;Dongyoun</a></span>, <a href="../../../author/hong_junho"><b>Hong</b>&nbsp;Junho</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 9
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/laminate"><button class="btn">#laminate</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slicing"><button class="btn">#slicing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20Adaptive%20Slicing%20Algorithm%20of%20Laminated%20Object%20Manufacturing%20Based%203D%20Printing%20for%20Freeform%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+an+adaptive+slicing+algorithm+of+laminated+object+manufacturing+based+3d+printing+for+freeform+formwork&as_occt=title&as_sauthors=lee&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138812115&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000858572600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12091335" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

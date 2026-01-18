@@ -17,14 +17,15 @@ tags:
 ---
 
 #Fiber-Orientation Modeling During Extrusion-Based 3D Concrete Printing ([2022-05](date/2022/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1201/9781003316404-25) <a href="https://doi.org/10.1201/9781003316404-25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003316404-25" target="_blank">10.1201/9781003316404-25</a>
+<a href="https://doi.org/10.1201/9781003316404-25" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003316404-25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003316404-25" target="_blank">10.1201/9781003316404-25</a>
 
 <a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5067-464X" title="ORCID: 0000-0002-5067-464X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b>&nbsp;Vladislav</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
 Contribution - Proceedings of the Conference on Computational Modelling of Concrete and Concrete Structures, pp. 202-211
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fiber-Orientation%20Modeling%20During%20Extrusion-Based%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fiber-orientation+modeling+during+extrusion-based+3d+concrete+printing&as_occt=title&as_sauthors=reinold&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003316404-25" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

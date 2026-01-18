@@ -19,14 +19,15 @@ tags:
 ---
 
 #Optimizing Three-Dimensional Printing Binder Composed of Ordinary-Portland-Cement and Calcium-Sulfoaluminate-Cement with Retarders ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733120" target="_blank">10.14359/51733120</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733120" target="_blank">10.14359/51733120</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zuo_shenghao"><b>Zuo</b>&nbsp;Shenghao</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span>, <a href="../../../author/wu_qihong"><b>Wu</b>&nbsp;Qihong</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 155-165
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/retarder"><button class="btn">#retarder</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Three-Dimensional%20Printing%20Binder%20Composed%20of%20Ordinary-Portland-Cement%20and%20Calcium-Sulfoaluminate-Cement%20with%20Retarders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+three-dimensional+printing+binder+composed+of+ordinary-portland-cement+and+calcium-sulfoaluminate-cement+with+retarders&as_occt=title&as_sauthors=yuan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122131319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733120" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

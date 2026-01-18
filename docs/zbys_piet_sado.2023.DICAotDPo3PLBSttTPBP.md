@@ -22,14 +22,15 @@ tags:
 ---
 
 #Data-Image-Correlation-Analysis of the Destruction-Process of 3D Printable Layered Beams Subjected to the Three-Point Bending Process ([2023-04](date/2023/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tafmec.2023.103891" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2023.103891" target="_blank">10.1016/j.tafmec.2023.103891</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.tafmec.2023.103891" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2023.103891" target="_blank">10.1016/j.tafmec.2023.103891</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6108-2992" title="ORCID: 0000-0001-6108-2992" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b>&nbsp;Wojciech</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4877-9135" title="ORCID: 0000-0002-4877-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietras_daniel"><b>Pietras</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9212-8340" title="ORCID: 0000-0001-9212-8340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadowski_tomasz"><b>Sadowski</b>&nbsp;Tomasz</a></span><br>
 Journal Article - Theoretical and Applied Fracture Mechanics
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/point"><button class="btn">#point</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Image-Correlation-Analysis%20of%20the%20Destruction-Process%20of%203D%20Printable%20Layered%20Beams%20Subjected%20to%20the%20Three-Point%20Bending%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-image-correlation-analysis+of+the+destruction-process+of+3d+printable+layered+beams+subjected+to+the+three-point+bending+process&as_occt=title&as_sauthors=zbyszy%C5%84ski&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152243610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000983529500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.tafmec.2023.103891" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

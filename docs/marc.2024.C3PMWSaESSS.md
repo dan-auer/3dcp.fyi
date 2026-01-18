@@ -26,7 +26,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solar"><button class="btn">#solar</button></a> <a href="../../keyword/storage"><button class="btn">#storage</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%203D%20Printed%20Marine%20Wind%2C%20Solar%20and%20Energy%20Storage%20Support%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete+3d+printed+marine+wind%2C+solar+and+energy+storage+support+structures&as_occt=title&as_sauthors=marchment&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408190942-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

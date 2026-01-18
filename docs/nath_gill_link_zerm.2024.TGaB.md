@@ -15,14 +15,15 @@ tags:
 
 #To Grow a Building&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Soil and Seeds 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2023.0357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0357" target="_blank">10.1089/3dp.2023.0357</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2023.0357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0357" target="_blank">10.1089/3dp.2023.0357</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0496-0554" title="ORCID: 0000-0003-0496-0554" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nathansohn_nof"><b>Nathansohn</b>&nbsp;Nof</a></span>, <a href="../../../author/gillis_elisheva"><b>Gillis</b>&nbsp;Elisheva</a></span>, <a href="../../../author/linker_gitit"><b>Linker</b>&nbsp;Gitit</a></span>, <a href="../../../author/zermati_noa"><b>Zermati</b>&nbsp;Noa</a></span>, <a href="../../../author/segal_adi"><b>Segal</b>&nbsp;Adi</a></span>, <a href="../../../author/freedman_danny"><b>Freedman</b>&nbsp;Danny</a></span>, <a href="../../../author/partook_hila_rebecca"><b>Partook</b>&nbsp;Rebecca</a></span>, <a href="../../../author/naim_or"><b>Naim</b>&nbsp;Or</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/growth"><button class="btn">#growth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=To%20Grow%20a%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=to+grow+a+building&as_occt=title&as_sauthors=nathansohn&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208943085&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001347967900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2023.0357" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

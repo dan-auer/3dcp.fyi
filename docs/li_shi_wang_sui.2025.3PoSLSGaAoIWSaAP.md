@@ -19,14 +19,15 @@ tags:
 ---
 
 #3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.115099" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115099" target="_blank">10.1016/j.jobe.2025.115099</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.115099" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115099" target="_blank">10.1016/j.jobe.2025.115099</a>
 
 <a href="../../../author/li_liqing"><b>Li</b>&nbsp;Liqing</a></span>, <a href="../../../author/shi_zhenkun"><b>Shi</b>&nbsp;Zhenkun</a></span>, <a href="../../../author/wang_lei"><b>Wang</b>&nbsp;Lei</a></span>, <a href="../../../author/sui_yi"><b>Sui</b>&nbsp;Yi</a></span>, <a href="../../../author/xi_banglu"><b>Xi</b>&nbsp;Banglu</a></span><br>
 Journal Article - Journal of Building Engineering, No. 115099
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/weak"><button class="btn">#weak</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Simulated%20Lunar%20Soil%20Geopolymer%20and%20Analysis%20of%20Its%20Weak%20Surface%20and%20Anisotropic%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+simulated+lunar+soil+geopolymer+and+analysis+of+its+weak+surface+and+anisotropic+performance&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.115099" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Simulation-Based Investigation of Sustainability Aspects of 3D Printed Structures ([2020-08](date/2020/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2020.101735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.101735" target="_blank">10.1016/j.jobe.2020.101735</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2020.101735" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2020.101735" target="_blank">10.1016/j.jobe.2020.101735</a>
 
 <a href="../../../author/mahadevan_meera"><b>Mahadevan</b>&nbsp;Meera</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-9883" title="ORCID: 0000-0002-0273-9883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/francis_ann"><b>Francis</b>&nbsp;Ann</a></span>, <a href="../../../author/thomas_albert"><b>Thomas</b>&nbsp;Albert</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 32
 
 <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Simulation-Based%20Investigation%20of%20Sustainability%20Aspects%20of%203D%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+simulation-based+investigation+of+sustainability+aspects+of+3d+printed+structures&as_occt=title&as_sauthors=mahadevan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091567189&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000588052000180" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2020.101735" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Application of 3D Printing Technology in the Construction Industry and Its Development Prospects ([2021-12](date/2021/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.atlantis-press.com/article/125975086.pdf) <a href="https://doi.org/10.2991/ahis.k.220601.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2991/ahis.k.220601.002" target="_blank">10.2991/ahis.k.220601.002</a>
+<a href="https://www.atlantis-press.com/article/125975086.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2991/ahis.k.220601.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2991/ahis.k.220601.002" target="_blank">10.2991/ahis.k.220601.002</a>
 
 <a href="../../../author/yin_jian"><b>Yin</b>&nbsp;Jian</a></span>, <a href="../../../author/suo_yiru"><b>Suo</b>&nbsp;Yiru</a></span>, <a href="../../../author/lv_tao"><b>Lv</b>&nbsp;Tao</a></span>, <a href="../../../author/ma_kaisi"><b>Ma</b>&nbsp;Kaisi</a></span>, <a href="../../../author/wang_xincheng"><b>Wang</b>&nbsp;Xincheng</a></span>, <a href="../../../author/zhang_zhonghua"><b>Zhang</b>&nbsp;Zhonghua</a></span><br>
 Contribution - Proceedings of the 2021 International Conference on Smart Technologies and Systems for Internet of Things
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%203D%20Printing%20Technology%20in%20the%20Construction%20Industry%20and%20Its%20Development%20Prospects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+3d+printing+technology+in+the+construction+industry+and+its+development+prospects&as_occt=title&as_sauthors=yin&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2991/ahis.k.220601.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

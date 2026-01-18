@@ -20,14 +20,15 @@ tags:
 
 #The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">A Preliminary Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120728) <a href="https://doi.org/10.1016/j.engstruct.2025.120728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120728" target="_blank">10.1016/j.engstruct.2025.120728</a>
+<a href="https://doi.org/10.1016/j.engstruct.2025.120728" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.120728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120728" target="_blank">10.1016/j.engstruct.2025.120728</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4066-6598" title="ORCID: 0000-0003-4066-6598" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cisowski_adam"><b>Cisowski</b>&nbsp;Adam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7632-6782" title="ORCID: 0000-0002-7632-6782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b>&nbsp;Michał</a></span><br>
 Journal Article - Engineering Structures
 
 <a href="../../keyword/concentration"><button class="btn">#concentration</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Influence%20of%20the%20Cross-Sectional%20Geometry%20on%20Stress%20Concentration%20in%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+influence+of+the+cross-sectional+geometry+on+stress+concentration+in+3d+printed+concrete+elements&as_occt=title&as_sauthors=cisowski&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007523818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001508415100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.120728" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #DEM Modeling of Advanced Manufacturing Technologies&nbsp;([2024-06](date/2024/06))
 <div class="h1-like">From SLS to 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00419-024-02615-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00419-024-02615-4" target="_blank">10.1007/s00419-024-02615-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00419-024-02615-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00419-024-02615-4" target="_blank">10.1007/s00419-024-02615-4</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8974-496X" title="ORCID: 0000-0001-8974-496X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quintana-ruiz_dario_osvaldo"><b>Quintana-Ruiz</b>&nbsp;Osvaldo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6770-9634" title="ORCID: 0000-0002-6770-9634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/campello_de-morais-barreto_eduardo"><b>Campello</b>&nbsp;Eduardo</a></span><br>
 Journal Article - Archive of Applied Mechanics
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=DEM%20Modeling%20of%20Advanced%20Manufacturing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dem+modeling+of+advanced+manufacturing+technologies&as_occt=title&as_sauthors=quintana-ruiz&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196316275&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001250360500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00419-024-02615-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

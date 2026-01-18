@@ -22,7 +22,7 @@ Contribution - fib Symposium 2024
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resilience"><button class="btn">#resilience</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Resilience%20for%203D%20Concrete%20Printed%20Homes%20in%20New%20Zealand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+resilience+for+3d+concrete+printed+homes+in+new+zealand&as_occt=title&as_sauthors=loporcaro&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

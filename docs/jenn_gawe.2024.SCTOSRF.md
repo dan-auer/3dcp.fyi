@@ -18,14 +18,15 @@ tags:
 
 #Sustainable Construction Through On‐Site Robotic Fabrication&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Past and Future Concepts</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.3104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3104" target="_blank">10.1002/ad.3104</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/ad.3104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3104" target="_blank">10.1002/ad.3104</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenny_selen_ercan"><b>Jenny</b>&nbsp;Ercan</a></span>, <a href="../../../author/gawel_abel"><b>Gawel</b>&nbsp;Abel</a></span><br>
 Journal Article - Architectural Design, Vol. 94, Iss. 5, pp. 118-125
 
 <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Construction%20Through%20On%E2%80%90Site%20Robotic%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+construction+through+on%E2%80%90site+robotic+fabrication&as_occt=title&as_sauthors=jenny&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203378781&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001310531700012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/ad.3104" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Impact Performance of 3D Printed ECC Inspired by Biological Bouligand Structure ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" target="_blank">10.1016/j.conbuildmat.2025.143826</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143826" target="_blank">10.1016/j.conbuildmat.2025.143826</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-0686-1616" title="ORCID: 0009-0001-0686-1616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bu_dechao"><b>Bu</b>&nbsp;Dechao</a></span>, <a href="../../../author/zhang_jiawei"><b>Zhang</b>&nbsp;Jiawei</a></span>, <a href="../../../author/wu_gan"><b>Wu</b>&nbsp;Gan</a></span>, <a href="../../../author/xia_zixu"><b>Xia</b>&nbsp;Zixu</a></span>, <a href="../../../author/zhang_hongrui"><b>Zhang</b>&nbsp;Hongrui</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 496, No. 143826
 
 <a href="../../keyword/bouligand"><button class="btn">#bouligand</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/inspiration"><button class="btn">#inspiration</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20Performance%20of%203D%20Printed%20ECC%20Inspired%20by%20Biological%20Bouligand%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+performance+of+3d+printed+ecc+inspired+by+biological+bouligand+structure&as_occt=title&as_sauthors=bu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017231052&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001587751500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143826" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

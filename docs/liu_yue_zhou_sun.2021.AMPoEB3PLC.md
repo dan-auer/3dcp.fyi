@@ -18,14 +18,15 @@ tags:
 ---
 
 #Anisotropic Mechanical Properties of Extrusion-Based 3D Printed Layered Concrete ([2021-08](date/2021/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s10853-021-06416-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-021-06416-w" target="_blank">10.1007/s10853-021-06416-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s10853-021-06416-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s10853-021-06416-w" target="_blank">10.1007/s10853-021-06416-w</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9675-5955" title="ORCID: 0000-0002-9675-5955" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chenkang"><b>Liu</b>&nbsp;Chenkang</a></span>, <a href="../../../author/yue_songlin"><b>Yue</b>&nbsp;Songlin</a></span>, <a href="../../../author/zhou_cong"><b>Zhou</b>&nbsp;Cong</a></span>, <a href="../../../author/sun_honglei"><b>Sun</b>&nbsp;Honglei</a></span>, <a href="../../../author/deng_shuxin"><b>Deng</b>&nbsp;Shuxin</a></span>, <a href="../../../author/gao_fei"><b>Gao</b>&nbsp;Fei</a></span>, <a href="../../../author/tan_yizhong"><b>Tan</b>&nbsp;Yizhong</a></span><br>
 Journal Article - Journal of Materials Science, Vol. 56, Iss. 30, pp. 16851-16864
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Anisotropic%20Mechanical%20Properties%20of%20Extrusion-Based%203D%20Printed%20Layered%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=anisotropic+mechanical+properties+of+extrusion-based+3d+printed+layered+concrete&as_occt=title&as_sauthors=liu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112534556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000685378200005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s10853-021-06416-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

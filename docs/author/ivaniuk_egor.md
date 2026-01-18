@@ -9,6 +9,60 @@ search:
 
 #  Ivaniuk Egor 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0905-9557" target="_blank">0000-0002-0905-9557</a>
+
+    First Contribution
+    : 2021-02-06
+    
+    Last Contribution
+    : 2025-01-31
+
+    Number Contributions
+    : 17
+
+    Number Citations
+    : 468
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
+        <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> (7)</li>
+        <li><a href="../../../author/lordick_daniel"><b>Lordick</b> Daniel</a> (6)</li>
+        <li><a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a> (4)</li>
+        <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a> (171)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (89)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (79)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (54)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (43)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (37)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (44)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (15)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/pukhkaiev_dmytro"><b>Pukhkaiev</b> Dmytro</a>, <a href="../../../author/reichle_mathias"><b>Reichle</b> Mathias</a>, <a href="../../../author/zhao_wanqi"><b>Zhao</b> Wanqi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ivan_pukh_reic_zhao.2025.RAoMCSUF/">Robotic Assembly of Modular Concrete Shells Using Falsework</a></li>
   <li><a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/li_dianmo"><b>Li</b> Dianmo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_nere_li_zhan.2024.BACP3PC/">Biochar-Augmented Climate-Positive 3D Printable Concrete</a></li>

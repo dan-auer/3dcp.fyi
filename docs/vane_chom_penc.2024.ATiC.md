@@ -15,14 +15,15 @@ tags:
 
 #Additive Technologies in Construction&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Shifting the Paradigm of Building</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.13164/juniorstav.2024.24045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2024.24045" target="_blank">10.13164/juniorstav.2024.24045</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.13164/juniorstav.2024.24045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.13164/juniorstav.2024.24045" target="_blank">10.13164/juniorstav.2024.24045</a>
 
 <a href="../../../author/vanek_vojtech"><b>Vaněk</b>&nbsp;Vojtěch</a></span>, <a href="../../../author/chomova_stepanka"><b>Chomová</b>&nbsp;Štěpánka</a></span>, <a href="../../../author/pencik_jan"><b>Pěnčík</b>&nbsp;Jan</a></span><br>
 Contribution - Proceedings 26th International Scientific Conference Of Civil Engineering, pp. 1-9
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Technologies%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+technologies+in+construction&as_occt=title&as_sauthors=van%C4%9Bk&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.13164/juniorstav.2024.24045" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #setting
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (28)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (21)</button></a> <a href="../../keyword/demand"><button class="btn">#demand (18)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (11)</button></a> <a href="../../keyword/time"><button class="btn">#time (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/samouh_hamza"><b>Samouh</b> Hamza</a>, <a href="../../../author/garg_nishant"><b>Garg</b> Nishant</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../digg_samo_garg.2025.PCSTvIT/">Predicting Cementitious Set Times via Infrared Thermography:<br/>Potential Implications on Real-Time Quality Control During 3D Concrete Printing</a></li>
   <li><a href="../../../author/gonsalves_a_nicolas"><b>Gonsalves</b> Nicolas</a>, <a href="../../../author/morgan_ashlei"><b>Morgan</b> Ashlei</a>, <a href="../../../author/thiele_heidi"><b>Thiele</b> Heidi</a>, <a href="../../../author/olarra_andre"><b>Olarra</b> Andre</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gons_morg_thie_olar.2025.3PoSIURSCCwBA/">3D Printing of Sustainable Infrastructure Using Rapid-Set Clay Concrete with Biobased Additives</a></li>

@@ -22,14 +22,15 @@ tags:
 
 #Determination of Optimum VMA Utilization Dosage in Cementitious Systems&nbsp;([2023-04](date/2023/04))
 <div class="h1-like">In Terms of Rheological and Flowability Properties</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2023.03.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.550" target="_blank">10.1016/j.matpr.2023.03.550</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2023.03.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2023.03.550" target="_blank">10.1016/j.matpr.2023.03.550</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8915-879X" title="ORCID: 0000-0002-8915-879X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahin_gizem_hatice"><b>Şahin</b>&nbsp;Hatice</a></span>, <a href="../../../author/temel_muge"><b>Temel</b>&nbsp;Müge</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/dosage"><button class="btn">#dosage</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/vma"><button class="btn">#vma</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Optimum%20VMA%20Utilization%20Dosage%20in%20Cementitious%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=determination+of+optimum+vma+utilization+dosage+in+cementitious+systems&as_occt=title&as_sauthors=%C5%9Fahin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151541519&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2023.03.550" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

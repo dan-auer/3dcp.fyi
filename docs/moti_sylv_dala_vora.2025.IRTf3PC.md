@@ -21,14 +21,15 @@ tags:
 
 #Innovative Reinforcement Techniques for 3D-Printed Concrete&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">The Impact of Shape Memory Alloys on Flexural Strength and Crack Mitigation</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.nxmate.2025.101052" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.nxmate.2025.101052" target="_blank">10.1016/j.nxmate.2025.101052</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.nxmate.2025.101052" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.nxmate.2025.101052" target="_blank">10.1016/j.nxmate.2025.101052</a>
 
 <a href="../../../author/motiani_ronak"><b>Motiani</b>&nbsp;Ronak</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-3852-2246" title="ORCID: 0009-0009-3852-2246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sylvain_keunang_saha"><b>Sylvain</b>&nbsp;Saha</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3703-0169" title="ORCID: 0000-0003-3703-0169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dalal_p_sejal"><b>Dalal</b>&nbsp;Sejal</a></span>, <a href="../../../author/vora_jay"><b>Vora</b>&nbsp;Jay</a></span>, <a href="../../../author/chaudhari_rakesh"><b>Chaudhari</b>&nbsp;Rakesh</a></span><br>
 Journal Article - Next Materials, Vol. 9, No. 101052
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Innovative%20Reinforcement%20Techniques%20for%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=innovative+reinforcement+techniques+for+3d-printed+concrete&as_occt=title&as_sauthors=motiani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013193124&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.nxmate.2025.101052" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

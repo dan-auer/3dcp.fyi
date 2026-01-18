@@ -8,6 +8,10 @@ search:
 
 # #statistics
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (4)</button></a> <a href="../../keyword/model"><button class="btn">#model (4)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_yang_jian.2025.SAo3CPPwCaIbEDDM/">Stochastic Analysis of 3D Concrete Printing Process with Curvature and Inclination by Explainable Data-Driven Modelling</a></li>
   <li><a href="../../../author/youssef_passant"><b>Youssef</b> Passant</a>, <a href="../../../author/feky_s_muhammad"><b>Feky</b> Muhammad</a>, <a href="../../../author/ragab_m_ahmed"><b>Ragab</b> Ahmed</a>, <a href="../../../author/serag_i_mohamed"><b>Serag</b> Mohamed</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../yous_feky_raga_sera.2025.GCf3PA/">Geopolymer Composites for 3D Printing Applications:<br/>A Statistical Analysis Approach</a></li>

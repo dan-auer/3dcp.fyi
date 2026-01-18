@@ -9,7 +9,62 @@ search:
 
 #  Chen Zhaohui 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2498-576X" target="_blank">0000-0002-2498-576X</a>
+
+    First Contribution
+    : 2023-09-16
+    
+    Last Contribution
+    : 2026-01-12
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 116
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (8)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (7)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (7)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (7)</li>
+        <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a> (88)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (39)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (38)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (34)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (25)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (5)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/sun_xiao"><b>Sun</b> Xiao</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liao_sun_chen.2026.STaPOf3CPBoDFS/">Simultaneous Topology and Path Optimization for 3D Concrete Printing Based on Discrete Frame Structures</a></li>
   <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
   <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>

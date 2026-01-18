@@ -19,14 +19,15 @@ tags:
 
 #Digital Planting&nbsp;([2020-08](date/2020/08))
 <div class="h1-like">Fabrication of Integrated Concrete Green Wall via Additive Manufacturing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2020.1.145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2020.1.145" target="_blank">10.52842/conf.caadria.2020.1.145</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2020.1.145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2020.1.145" target="_blank">10.52842/conf.caadria.2020.1.145</a>
 
 <a href="../../../author/wang_shian"><b>Wang</b>&nbsp;Shian</a></span>, <a href="../../../author/liu_chi"><b>Liu</b>&nbsp;Chi</a></span>, <a href="../../../author/zhang_li_guo"><b>Zhang</b>&nbsp;Guo</a></span>, <a href="../../../author/luo_huan_qi"><b>Luo</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4489-7858" title="ORCID: 0009-0000-4489-7858" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weishun"><b>Xu</b>&nbsp;Weishun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7213-4572" title="ORCID: 0000-0002-7213-4572" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raspall_felix"><b>Raspall</b>&nbsp;Félix</a></span><br>
 Contribution - Proceedings of the 25th Conference on Computer Aided Architectural Design Research in Asia, pp. 145-151
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Planting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+planting&as_occt=title&as_sauthors=wang&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2020.1.145" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

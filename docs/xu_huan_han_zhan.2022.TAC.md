@@ -19,14 +19,15 @@ tags:
 
 #Toward Automated Construction&nbsp;([2022-08](date/2022/08))
 <div class="h1-like">The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e01442) <a href="https://doi.org/10.1016/j.cscm.2022.e01442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01442" target="_blank">10.1016/j.cscm.2022.e01442</a>
+<a href="https://doi.org/10.1016/j.cscm.2022.e01442" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2022.e01442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e01442" target="_blank">10.1016/j.cscm.2022.e01442</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_shuyi"><b>Huang</b>&nbsp;Shuyi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3292-979X" title="ORCID: 0000-0003-3292-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_dong"><b>Han</b>&nbsp;Dong</a></span>, <a href="../../../author/zhang_zhiling"><b>Zhang</b>&nbsp;Zhiling</a></span>, <a href="../../../author/gao_yuan"><b>Gao</b>&nbsp;Yuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span>, <a href="../../../author/zhang_daobo"><b>Zhang</b>&nbsp;Daobo</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 17
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20Automated%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+automated+construction&as_occt=title&as_sauthors=xu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137162479&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000852049200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2022.e01442" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Methodology for the Design and Optimization of Potassium Silicate-Activated Slag Used as the Binder of 3D Printable Materials ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142536) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" target="_blank">10.1016/j.conbuildmat.2025.142536</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142536" target="_blank">10.1016/j.conbuildmat.2025.142536</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5381-1144" title="ORCID: 0000-0002-5381-1144" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_yanjuan"><b>Chen</b>&nbsp;Yanjuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6936-828X" title="ORCID: 0000-0002-6936-828X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahier_hubert"><b>Rahier</b>&nbsp;Hubert</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 490, No. 142536
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Methodology%20for%20the%20Design%20and%20Optimization%20of%20Potassium%20Silicate-Activated%20Slag%20Used%20as%20the%20Binder%20of%203D%20Printable%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=methodology+for+the+design+and+optimization+of+potassium+silicate-activated+slag+used+as+the+binder+of+3d+printable+materials&as_occt=title&as_sauthors=chen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010183379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001534923400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142536" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

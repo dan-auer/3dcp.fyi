@@ -18,14 +18,15 @@ tags:
 
 #Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">A Roadmap for New Zealand</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-4051-5_74" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4051-5_74" target="_blank">10.1007/978-981-96-4051-5_74</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-4051-5_74" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4051-5_74" target="_blank">10.1007/978-981-96-4051-5_74</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-5465-1998" title="ORCID: 0009-0001-5465-1998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_jimmy"><b>Zhou</b>&nbsp;Jimmy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7513-8942" title="ORCID: 0000-0001-7513-8942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_zhenan"><b>Feng</b>&nbsp;Zhenan</a></span><br>
 Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 763-772
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/global"><button class="btn">#global</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Examining%20Global%20Policy%20Influences%20on%20the%20Adoption%20of%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=examining+global+policy+influences+on+the+adoption+of+3d+concrete+printing+technology&as_occt=title&as_sauthors=zhou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003630601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-4051-5_74" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332241291247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332241291247" target="_blank">10.1177/13694332241291247</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/13694332241291247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332241291247" target="_blank">10.1177/13694332241291247</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9627-162X" title="ORCID: 0000-0001-9627-162X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_ning"><b>An</b>&nbsp;Ning</a></span>, <a href="../../../author/wang_huai"><b>Wang</b>&nbsp;Huai</a></span>, <a href="../../../author/le_liu"><b>Le</b>&nbsp;Liu</a></span>, <a href="../../../author/li_shuo"><b>Li</b>&nbsp;Shuo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8438-095X" title="ORCID: 0000-0001-8438-095X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_peijun"><b>Wang</b>&nbsp;Peijun</a></span>, <a href="../../../author/liu_mei"><b>Liu</b>&nbsp;Mei</a></span><br>
 Journal Article - Advances in Structural Engineering
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Monitoring%20of%20Extrudability%20and%20Buildability%20in%203D%20Concrete%20Printing%20Based%20on%20Target%20Detection%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=real-time+monitoring+of+extrudability+and+buildability+in+3d+concrete+printing+based+on+target+detection+method&as_occt=title&as_sauthors=an&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208186804&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001346286500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/13694332241291247" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Digital Design and Fabrication of Clay Formwork for Concrete Casting ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2023.104969) <a href="https://doi.org/10.1016/j.autcon.2023.104969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104969" target="_blank">10.1016/j.autcon.2023.104969</a>
+<a href="https://doi.org/10.1016/j.autcon.2023.104969" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2023.104969" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104969" target="_blank">10.1016/j.autcon.2023.104969</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5364-3849" title="ORCID: 0000-0002-5364-3849" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mozaffari_salma"><b>Mozaffari</b>&nbsp;Salma</a></span>, <a href="../../../author/bruce_mackenzie"><b>Bruce</b>&nbsp;Mackenzie</a></span>, <a href="../../../author/clune_gabrielle"><b>Clune</b>&nbsp;Gabrielle</a></span>, <a href="../../../author/xie_ruxin"><b>Xie</b>&nbsp;Ruxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0456-2460" title="ORCID: 0000-0002-0456-2460" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcgee_wesley"><b>McGee</b>&nbsp;Wesley</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1469-9345" title="ORCID: 0000-0003-1469-9345" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adel_arash"><b>Adel</b>&nbsp;Arash</a></span><br>
 Journal Article - Automation in Construction, Vol. 154, No. 104969
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Design%20and%20Fabrication%20of%20Clay%20Formwork%20for%20Concrete%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+design+and+fabrication+of+clay+formwork+for+concrete+casting&as_occt=title&as_sauthors=mozaffari&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162197236&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001022590800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2023.104969" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

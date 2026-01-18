@@ -15,14 +15,15 @@ tags:
 ---
 
 #Development of Variable Residential Buildings with 3D Printed Walls ([2022-10](date/2022/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/1796/pdf?version=1666851186) <a href="https://doi.org/10.3390/buildings12111796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111796" target="_blank">10.3390/buildings12111796</a>
+<a href="https://www.mdpi.com/2075-5309/12/11/1796/pdf?version=1666851186" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12111796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111796" target="_blank">10.3390/buildings12111796</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banda_pablo"><b>Banda</b>&nbsp;Pablo</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 11
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Variable%20Residential%20Buildings%20with%203D%20Printed%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+variable+residential+buildings+with+3d+printed+walls&as_occt=title&as_sauthors=garc%C3%ADa-alvarado&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141830582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000880933200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12111796" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #deposition
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (7)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (6)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_l_chenglin"><b>Li</b> Chenglin</a>, <a href="../../../author/jiao_c_y"><b>Jiao</b> Y.</a>, <a href="../../../author/ren_kai"><b>Ren</b> Kai</a>, <a href="../../../author/liu_n"><b>Liu</b> N.</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_jiao_ren_liu.2026.ANPMSfDRMAM/">A Novel Pivot-Move Strategy for Dual-Robot Manipulator Additive Manufacturing:<br/>Enabling Collision Avoidance Without Halting Deposition</a></li>
   <li><a href="../../../author/gasmi_abrar"><b>Gasmi</b> Abrar</a>, <a href="../../../author/guessasma_mohamed"><b>Guessasma</b> Mohamed</a>, <a href="../../../author/davidovits_ralph"><b>Davidovits</b> Ralph</a>, <a href="../../../author/pelegris_christine"><b>Pélegris</b> Christine</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gasm_gues_davi_pele.2025.UAEi3PGC/">Unveiling Additive Effects in 3D Printed Geopolymer Composites:<br/>A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition</a></li>

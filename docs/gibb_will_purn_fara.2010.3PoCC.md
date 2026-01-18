@@ -13,14 +13,15 @@ tags:
 ---
 
 #3D Printing of Cement Composites ([2013-07](date/2013/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://wrap.warwick.ac.uk/4465/1/WRAP_Gibbons_GG_AAC_final.pdf) <a href="https://doi.org/10.1179/174367509x12472364600878" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1179/174367509x12472364600878" target="_blank">10.1179/174367509x12472364600878</a>
+<a href="http://wrap.warwick.ac.uk/4465/1/WRAP_Gibbons_GG_AAC_final.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1179/174367509x12472364600878" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1179/174367509x12472364600878" target="_blank">10.1179/174367509x12472364600878</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8722-6165" title="ORCID: 0000-0001-8722-6165" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gibbons_john_gregory"><b>Gibbons</b>&nbsp;Gregory</a></span>, <a href="../../../author/williams_reuben"><b>Williams</b>&nbsp;Reuben</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6099-3804" title="ORCID: 0000-0002-6099-3804" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/purnell_phil"><b>Purnell</b>&nbsp;Phil</a></span>, <a href="../../../author/farahi_elham"><b>Farahi</b>&nbsp;Elham</a></span><br>
 Journal Article - Advances in Applied Ceramics, Vol. 109, Iss. 5, pp. 287-290
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+cement+composites&as_occt=title&as_sauthors=gibbons&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-77954189862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000279451500006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1179/174367509x12472364600878" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

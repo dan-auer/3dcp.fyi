@@ -18,14 +18,15 @@ tags:
 
 #Empowering 3D Printed Concrete&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">Discovering the Impact of Steel Fiber Reinforcement on Mechanical Performance</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0181/pdf) <a href="https://doi.org/10.1515/rams-2025-0181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/rams-2025-0181" target="_blank">10.1515/rams-2025-0181</a>
+<a href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0181/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1515/rams-2025-0181" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1515/rams-2025-0181" target="_blank">10.1515/rams-2025-0181</a>
 
 <a href="../../../author/tong_zhongling"><b>Tong</b>&nbsp;Zhongling</a></span>, <a href="../../../author/guan_qingtao"><b>Guan</b>&nbsp;Qingtao</a></span>, <a href="../../../author/elabbasy_a-abdou_ahmed"><b>Elabbasy</b>&nbsp;Ahmed</a></span>, <a href="../../../author/ateah_h_ali"><b>al&nbsp;Ateah</b>&nbsp;Ali</a></span>, <a href="../../../author/maglad_m_ahmed"><b>Maglad</b>&nbsp;Ahmed</a></span>, <a href="../../../author/alharthai_mohammad"><b>Alharthai</b>&nbsp;Mohammad</a></span><br>
 Journal Article - Reviews on Advanced Materials Science, Vol. 64, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Empowering%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=empowering+3d+printed+concrete&as_occt=title&as_sauthors=tong&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001635130500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1515/rams-2025-0181" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

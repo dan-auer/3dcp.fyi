@@ -15,14 +15,15 @@ tags:
 ---
 
 #Sustainable Uses of 3D Printing Applied to Concrete Structures ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/engproc2024079055) <a href="https://doi.org/10.3390/engproc2024079055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/engproc2024079055" target="_blank">10.3390/engproc2024079055</a>
+<a href="https://doi.org/10.3390/engproc2024079055" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/engproc2024079055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/engproc2024079055" target="_blank">10.3390/engproc2024079055</a>
 
 <a href="../../../author/csotar_hanna"><b>Csótár</b>&nbsp;Hanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3369-8823" title="ORCID: 0000-0003-3369-8823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baranyai_gusztav"><b>Baranyai</b>&nbsp;Gusztáv</a></span>, <a href="../../../author/szalai_szabolcs"><b>Szalai</b>&nbsp;Szabolcs</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7298-9960" title="ORCID: 0000-0001-7298-9960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_szabolcs"><b>Fischer</b>&nbsp;Szabolcs</a></span><br>
 Journal Article - Engineering Proceedings, Vol. 79, Iss. 1, No. 55
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Uses%20of%203D%20Printing%20Applied%20to%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+uses+of+3d+printing+applied+to+concrete+structures&as_occt=title&as_sauthors=cs%C3%B3t%C3%A1r&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213454557&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/engproc2024079055" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Robot-Controlled Fabrication of Sprayed Concrete Elements as a Cyber-Physical-System ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_94" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_94" target="_blank">10.1007/978-3-030-49916-7_94</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_94" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_94" target="_blank">10.1007/978-3-030-49916-7_94</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3967-9255" title="ORCID: 0000-0002-3967-9255" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vukorep_ilija"><b>Vukorep</b>&nbsp;Ilija</a></span>, <a href="../../../author/zimmermann_gregor"><b>Zimmermann</b>&nbsp;Gregor</a></span>, <a href="../../../author/sablotny_tino"><b>Sablotny</b>&nbsp;Tino</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 967-977
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robot-Controlled%20Fabrication%20of%20Sprayed%20Concrete%20Elements%20as%20a%20Cyber-Physical-System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robot-controlled+fabrication+of+sprayed+concrete+elements+as+a+cyber-physical-system&as_occt=title&as_sauthors=vukorep&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088246319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_94" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

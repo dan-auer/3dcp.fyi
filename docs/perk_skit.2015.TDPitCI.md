@@ -17,14 +17,15 @@ tags:
 
 #Three-Dimensional Printing in the Construction Industry&nbsp;([2015-03](date/2015/03))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15623599.2015.1012136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2015.1012136" target="_blank">10.1080/15623599.2015.1012136</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15623599.2015.1012136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2015.1012136" target="_blank">10.1080/15623599.2015.1012136</a>
 
 <a href="../../../author/perkins_isaac"><b>Perkins</b>&nbsp;Isaac</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7135-1201" title="ORCID: 0000-0001-7135-1201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skitmore_martin"><b>Skitmore</b>&nbsp;Martin</a></span><br>
 Journal Article - International Journal of Construction Management, Vol. 15, Iss. 1, pp. 1-9
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printing+in+the+construction+industry&as_occt=title&as_sauthors=perkins&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84961323123&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000354478900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15623599.2015.1012136" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

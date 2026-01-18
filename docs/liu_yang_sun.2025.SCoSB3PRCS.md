@@ -24,14 +24,15 @@ tags:
 
 #Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112552" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112552" target="_blank">10.1016/j.jobe.2025.112552</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112552" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112552" target="_blank">10.1016/j.jobe.2025.112552</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6909-8286" title="ORCID: 0000-0001-6909-8286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xiongfei"><b>Liu</b>&nbsp;Xiongfei</a></span>, <a href="../../../author/yang_xiaojie"><b>Yang</b>&nbsp;Xiaojie</a></span>, <a href="../../../author/sun_yuhang"><b>Sun</b>&nbsp;Yuhang</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112552
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/spray"><button class="btn">#spray</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/synchronization"><button class="btn">#synchronization</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synchronous%20Construction%20of%20Spray-Based%203D%20Printed%20Reinforced%20Concrete%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synchronous+construction+of+spray-based+3d+printed+reinforced+concrete+structure&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001672199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001464864300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112552" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #An Open PLC-Based Robot-Control-System for 3D Concrete Printing ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2218-6581/12/4/96/pdf?version=1688390059) <a href="https://doi.org/10.3390/robotics12040096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/robotics12040096" target="_blank">10.3390/robotics12040096</a>
+<a href="https://www.mdpi.com/2218-6581/12/4/96/pdf?version=1688390059" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/robotics12040096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/robotics12040096" target="_blank">10.3390/robotics12040096</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7620-4494" title="ORCID: 0000-0002-7620-4494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kajzr_daniel"><b>Kajzr</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-3625-3653" title="ORCID: 0009-0005-3625-3653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/myslivec_tomas"><b>Myslivec</b>&nbsp;Tomáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-4172" title="ORCID: 0000-0003-2355-4172" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cernohorsky_josef"><b>Černohorský</b>&nbsp;Josef</a></span><br>
 Journal Article - Robotics, Vol. 12, Iss. 4, No. 96
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/open"><button class="btn">#open</button></a> <a href="../../keyword/plc"><button class="btn">#plc</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Open%20PLC-Based%20Robot-Control-System%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+open+plc-based+robot-control-system+for+3d+concrete+printing&as_occt=title&as_sauthors=kajzr&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169431294&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001057414700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/robotics12040096" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

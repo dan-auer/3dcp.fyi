@@ -17,14 +17,15 @@ tags:
 ---
 
 #Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s41598-025-22990-4.pdf) <a href="https://doi.org/10.1038/s41598-025-22990-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-22990-4" target="_blank">10.1038/s41598-025-22990-4</a>
+<a href="https://www.nature.com/articles/s41598-025-22990-4.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1038/s41598-025-22990-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s41598-025-22990-4" target="_blank">10.1038/s41598-025-22990-4</a>
 
 <a href="../../../author/bates_rhys"><b>Bates</b>&nbsp;Rhys</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
 Journal Article - Scientific Reports, Vol. 15, Iss. 1, No. 39419
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%203D-Printed%20Concrete%20Columns%20with%20GFRP%20Rebars%20Under%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+of+3d-printed+concrete+columns+with+gfrp+rebars+under+axial+compression&as_occt=title&as_sauthors=bates&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021423079&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001615081400031" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1038/s41598-025-22990-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #acoustic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (14)</button></a> <a href="../../keyword/emission"><button class="btn">#emission (9)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic (5)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lara_yamile"><b>Lara</b> Yamile</a>, <a href="../../../author/gianoli_pablo"><b>Gianoli</b> Pablo</a>, <a href="../../../author/gonzalez_elizabeth"><b>Gonzalez</b> Elizabeth</a>, <a href="../../../author/abreu_ana"><b>Abreu</b> Ana</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lara_gian_gonz_abre.2026.EoAMAAM/">Evaluation of Additively Manufactured Acoustic Absorbing Metamaterials</a></li>
   <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_chen_ge_zhan.2026.MBaDEo3PECCaET/">Mechanical Behavior and Damage Evolution of 3D-Printed Engineered Cementitious Composites at Elevated Temperatures:<br/>Insights from Acoustic Emission Characterization</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Wang Hailong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6107-5095" target="_blank">0000-0002-6107-5095</a>
+
+    First Contribution
+    : 2020-03-05
+    
+    Last Contribution
+    : 2025-12-09
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 283
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (16)</li>
+        <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (5)</li>
+        <li><a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> (4)</li>
+        <li><a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a> (3)</li>
+        <li><a href="../../../author/wang_qun"><b>Wang</b> Qun</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a> (79)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (54)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (37)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (36)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (35)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (15)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (15)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (14)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (13)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>

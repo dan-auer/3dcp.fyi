@@ -17,14 +17,15 @@ tags:
 
 #Effect of Metakaolin and Biochar Addition on the Performance of 3D Concrete Printing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">A Meta-Analysis Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/17/23/10725/pdf?version=1764497160) <a href="https://doi.org/10.3390/su172310725" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su172310725" target="_blank">10.3390/su172310725</a>
+<a href="https://www.mdpi.com/2071-1050/17/23/10725/pdf?version=1764497160" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su172310725" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su172310725" target="_blank">10.3390/su172310725</a>
 
 <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b>&nbsp;Waleed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2789-4406" title="ORCID: 0000-0003-2789-4406" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadrolodabaee_payam"><b>Sadrolodabaee</b>&nbsp;Payam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8056-5316" title="ORCID: 0000-0001-8056-5316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nowakowski_jozef_daniel"><b>Nowakowski</b>&nbsp;Daniel</a></span>, <a href="../../../author/rahman_mujib"><b>Rahman</b>&nbsp;Mujib</a></span><br>
 Journal Article - Sustainability, Vol. 17, Iss. 23, No. 10725
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Metakaolin%20and%20Biochar%20Addition%20on%20the%20Performance%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+metakaolin+and+biochar+addition+on+the+performance+of+3d+concrete+printing&as_occt=title&as_sauthors=iqbal&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su172310725" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

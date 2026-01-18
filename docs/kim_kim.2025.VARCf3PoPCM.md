@@ -18,14 +18,15 @@ tags:
 ---
 
 #Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.115145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115145" target="_blank">10.1016/j.jobe.2025.115145</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.115145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115145" target="_blank">10.1016/j.jobe.2025.115145</a>
 
 <a href="../../../author/kim_mo_seung"><b>Kim</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6253-6877" title="ORCID: 0000-0002-6253-6877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_hong_jae"><b>Kim</b>&nbsp;Jae</a></span><br>
 Journal Article - Journal of Building Engineering, No. 115145
 
 <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/precast"><button class="btn">#precast</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Vibration-Assisted%20Rheological%20Control%20for%203D%20Printing%20of%20Precast%20Concrete%20Modules" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=vibration-assisted+rheological+control+for+3d+printing+of+precast+concrete+modules&as_occt=title&as_sauthors=kim&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.115145" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

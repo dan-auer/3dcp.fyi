@@ -8,6 +8,10 @@ search:
 
 # #slurry
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/activation"><button class="btn">#activation (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rama_pasu_mech_sanj.2024.PHMoGaOSfHAACi3CP/">Print-Head Mixing of Geopolymer and OPC Slurries for Hybrid Alkali-Activated Cement in 3D Concrete Printing</a></li>
   <li><a href="../../../author/rech_arianna"><b>Rech</b> Arianna</a>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b> Ruxandra-Stefania</a>, <a href="../../../author/colmo_claudia"><b>Colmo</b> Claudia</a>, <a href="../../../author/rossi_gabriella"><b>Rossi</b> Gabriella</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../rech_chiu_colm_ross.2022.WBBSf3PTCE/">Waste-Based Biopolymer-Slurry for 3D Printing Targeting Construction Elements</a></li>

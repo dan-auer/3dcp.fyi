@@ -20,14 +20,15 @@ tags:
 ---
 
 #Incremental Formulation of Early-Age Concrete in the Finite Strain Range for the Modelling of 3D Concrete Printing ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-07746-3_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-07746-3_26" target="_blank">10.1007/978-3-031-07746-3_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-07746-3_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-07746-3_26" target="_blank">10.1007/978-3-031-07746-3_26</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2227-258X" title="ORCID: 0000-0002-2227-258X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nedjar_boumediene"><b>Nedjar</b>&nbsp;Boumediene</a></span>, <a href="../../../author/awada_zeinab"><b>Awada</b>&nbsp;Zeinab</a></span><br>
 Contribution - Numerical Modeling-Strategies for Sustainable Concrete Structures
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/incremental"><button class="btn">#incremental</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/range"><button class="btn">#range</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Incremental%20Formulation%20of%20Early-Age%20Concrete%20in%20the%20Finite%20Strain%20Range%20for%20the%20Modelling%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=incremental+formulation+of+early-age+concrete+in+the+finite+strain+range+for+the+modelling+of+3d+concrete+printing&as_occt=title&as_sauthors=nedjar&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133533675&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-07746-3_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

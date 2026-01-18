@@ -8,6 +8,10 @@ search:
 
 # #requirement
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/material"><button class="btn">#material (5)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (4)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/cheung_hang_lok"><b>Cheung</b> Lok</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_cheu.2025.MLLMfA3CP/">Multimodal Large Language Models for Adaptive 3D Concrete Printing:<br/>Real-Time Control of Materials and Settings According to Performance Requirements and Environmental Conditions</a></li>
   <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a>, <a href="../../../author/mardani_naz"><b>Mardani</b> Naz</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sahi_mard_mard.2024.PRaOMPoHVFA3PC/">Performance Requirements and Optimum Mix Proportion of High-Volume Fly-Ash 3D Printable Concrete</a></li>

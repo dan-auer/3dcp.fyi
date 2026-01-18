@@ -18,14 +18,15 @@ tags:
 ---
 
 #Impact of Robotic 3D Printing Process Parameters on Inter-Layer Bond Strength ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2022.104478" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104478" target="_blank">10.1016/j.autcon.2022.104478</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2022.104478" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2022.104478" target="_blank">10.1016/j.autcon.2022.104478</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7901-9705" title="ORCID: 0000-0001-7901-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farahbakhsh_mehdi"><b>Farahbakhsh</b>&nbsp;Mehdi</a></span>, <a href="../../../author/rybkowski_k_zofia"><b>Rybkowski</b>&nbsp;Zofia</a></span>, <a href="../../../author/zakira_umme"><b>Zakira</b>&nbsp;Umme</a></span>, <a href="../../../author/kalantar_negar"><b>Kalantar</b>&nbsp;Negar</a></span>, <a href="../../../author/onifade_ibrahim"><b>Onifade</b>&nbsp;Ibrahim</a></span><br>
 Journal Article - Automation in Construction, Vol. 142
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Robotic%203D%20Printing%20Process%20Parameters%20on%20Inter-Layer%20Bond%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+robotic+3d+printing+process+parameters+on+inter-layer+bond+strength&as_occt=title&as_sauthors=farahbakhsh&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134429092&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000862259100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2022.104478" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

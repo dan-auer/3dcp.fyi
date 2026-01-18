@@ -23,14 +23,15 @@ tags:
 
 #Instrumentation of the Extruder Nozzle Using Load Cells&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Towards an In-Line Quality-Control Device for 3D Printed Cement-Based Materials</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_17" target="_blank">10.1007/978-3-031-70031-6_17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_17" target="_blank">10.1007/978-3-031-70031-6_17</a>
 
 <a href="../../../author/barry_mamadou"><b>Barry</b>&nbsp;Mamadou</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2098-963X" title="ORCID: 0000-0003-2098-963X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jacquet_yohan"><b>Jacquet</b>&nbsp;Yohan</a></span>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 142-149
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cell"><button class="btn">#cell</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/instrument"><button class="btn">#instrument</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Instrumentation%20of%20the%20Extruder%20Nozzle%20Using%20Load%20Cells" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=instrumentation+of+the+extruder+nozzle+using+load+cells&as_occt=title&as_sauthors=barry&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203026071&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

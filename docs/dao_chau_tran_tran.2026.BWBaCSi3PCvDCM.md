@@ -18,14 +18,15 @@ tags:
 ---
 
 #Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.115163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115163" target="_blank">10.1016/j.jobe.2025.115163</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.115163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.115163" target="_blank">10.1016/j.jobe.2025.115163</a>
 
 <a href="../../../author/dao_trang"><b>Dao</b>&nbsp;Trang</a></span>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b>&nbsp;Vinh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span><br>
 Journal Article - Journal of Building Engineering, No. 115163
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Balancing%20Workability%2C%20Buildability%2C%20and%20Carbon%20Sequestration%20in%203D%20Printed%20Concrete%20via%20Direct%20CO2%20Mineralization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=balancing+workability%2C+buildability%2C+and+carbon+sequestration+in+3d+printed+concrete+via+direct+co2+mineralization&as_occt=title&as_sauthors=dao&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.115163" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

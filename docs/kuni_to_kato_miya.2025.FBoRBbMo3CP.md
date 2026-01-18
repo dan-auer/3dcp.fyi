@@ -15,14 +15,15 @@ tags:
 ---
 
 #Failure Behavior of RC Beams by Means of 3D Concrete Printing ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1151) <a href="https://doi.org/10.21012/fc12.1151" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1151" target="_blank">10.21012/fc12.1151</a>
+<a href="https://doi.org/10.21012/fc12.1151" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1151" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1151" target="_blank">10.21012/fc12.1151</a>
 
 <a href="../../../author/kunieda_minoru"><b>Kunieda</b>&nbsp;Minoru</a></span>, <a href="../../../author/to_shunya"><b>To</b>&nbsp;Shunya</a></span>, <a href="../../../author/kato_tatsuyoshi"><b>Kato</b>&nbsp;Tatsuyoshi</a></span>, <a href="../../../author/miyajima_akira"><b>Miyajima</b>&nbsp;Akira</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Failure%20Behavior%20of%20RC%20Beams%20by%20Means%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=failure+behavior+of+rc+beams+by+means+of+3d+concrete+printing&as_occt=title&as_sauthors=kunieda&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1151" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

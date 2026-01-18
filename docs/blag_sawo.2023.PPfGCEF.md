@@ -15,14 +15,15 @@ tags:
 ---
 
 #Path-Planning for Graded Concrete Element Fabrication ([2023-04](date/2023/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-023-00096-5.pdf) <a href="https://doi.org/10.1007/s41693-023-00096-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00096-5" target="_blank">10.1007/s41693-023-00096-5</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41693-023-00096-5.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-023-00096-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00096-5" target="_blank">10.1007/s41693-023-00096-5</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2637-6527" title="ORCID: 0000-0003-2637-6527" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blagojevic_boris"><b>Blagojevic</b>&nbsp;Boris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6910-2473" title="ORCID: 0000-0002-6910-2473" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sawodny_oliver"><b>Sawodny</b>&nbsp;Oliver</a></span><br>
 Journal Article - Construction Robotics
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Path-Planning%20for%20Graded%20Concrete%20Element%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=path-planning+for+graded+concrete+element+fabrication&as_occt=title&as_sauthors=blagojevic&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-023-00096-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

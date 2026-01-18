@@ -14,14 +14,15 @@ tags:
 ---
 
 #Filament-Reinforced 3D Printing of Clay ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/18/6253/pdf?version=1695114914) <a href="https://doi.org/10.3390/ma16186253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16186253" target="_blank">10.3390/ma16186253</a>
+<a href="https://www.mdpi.com/1996-1944/16/18/6253/pdf?version=1695114914" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma16186253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16186253" target="_blank">10.3390/ma16186253</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1614-8563" title="ORCID: 0000-0003-1614-8563" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jauk_julian"><b>Jauk</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3086-6326" title="ORCID: 0000-0003-3086-6326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosch_lukas"><b>Gosch</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9017-0569" title="ORCID: 0000-0002-9017-0569" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vasatko_hana"><b>Vašatko</b>&nbsp;Hana</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1445-206X" title="ORCID: 0000-0003-1445-206X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/konigsberger_markus"><b>Königsberger</b>&nbsp;Markus</a></span>, <a href="../../../author/schlusche_johannes"><b>Schlusche</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8682-2026" title="ORCID: 0000-0002-8682-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stavric_milena"><b>Stavric</b>&nbsp;Milena</a></span><br>
 Journal Article - Materials, Vol. 16, Iss. 18
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Filament-Reinforced%203D%20Printing%20of%20Clay" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=filament-reinforced+3d+printing+of+clay&as_occt=title&as_sauthors=jauk&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172735703&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001071826600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma16186253" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

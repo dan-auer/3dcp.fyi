@@ -14,14 +14,15 @@ tags:
 ---
 
 #The Sustainable Lightness of Digital Fabrication ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/ad.3092" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3092" target="_blank">10.1002/ad.3092</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/ad.3092" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/ad.3092" target="_blank">10.1002/ad.3092</a>
 
 <a href="../../../author/carpo_mario"><b>Carpo</b>&nbsp;Mario</a></span><br>
 Journal Article - Architectural Design, Vol. 94, Iss. 5, pp. 14-21
 
 <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Sustainable%20Lightness%20of%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+sustainable+lightness+of+digital+fabrication&as_occt=title&as_sauthors=carpo&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203368714&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001310531700015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/ad.3092" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

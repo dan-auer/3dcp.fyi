@@ -18,14 +18,15 @@ tags:
 ---
 
 #Aggregate Moisture-Content and Fresh Property-Control-Measures in Cementitious Mortars ([2021-05](date/2021/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.11159/iccste21.130) <a href="https://doi.org/10.11159/iccste21.130" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste21.130" target="_blank">10.11159/iccste21.130</a>
+<a href="https://doi.org/10.11159/iccste21.130" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.11159/iccste21.130" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste21.130" target="_blank">10.11159/iccste21.130</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8789-0733" title="ORCID: 0000-0002-8789-0733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenkins_christen_morgan"><b>Jenkins</b>&nbsp;Morgan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6699-2020" title="ORCID: 0000-0001-6699-2020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brand_s_alexander"><b>Brand</b>&nbsp;Alexander</a></span><br>
 Contribution - Proceedings of the 6th International Conference on Civil, Structural and Transportation Engineering
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/moist"><button class="btn">#moist</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Aggregate%20Moisture-Content%20and%20Fresh%20Property-Control-Measures%20in%20Cementitious%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=aggregate+moisture-content+and+fresh+property-control-measures+in+cementitious+mortars&as_occt=title&as_sauthors=jenkins&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123421768&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.11159/iccste21.130" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

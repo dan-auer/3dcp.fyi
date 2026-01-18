@@ -9,6 +9,60 @@ search:
 
 #  Nah So 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-1564-201X" target="_blank">0000-0002-1564-201X</a>
+
+    First Contribution
+    : 2025-05-24
+    
+    Last Contribution
+    : 2025-05-24
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 2
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (1)</li>
+        <li><a href="../../../author/psarras_peter"><b>Psarras</b> Peter</a> (1)</li>
+        <li><a href="../../../author/wang_kun-yu"><b>Wang</b> Kun-Yu</a> (1)</li>
+        <li><a href="../../../author/yang_shu"><b>Yang</b> Shu</a> (1)</li>
+        <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/nah_hee_so"><b>Nah</b> So</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yu_teng_nah_chai.2025.3CPoTPMSfECCaS/">3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (1)</li>
+        <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> (1)</li>
+        <li><a href="../../../author/trousset_leon"><b>Trousset</b> Leon</a> (1)</li>
+        <li><a href="../../../author/waligun_blaise"><b>Waligun</b> Blaise</a> (1)</li>
+        <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (1)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b> Luisa</a> (1)</li>
+        <li><a href="../../../author/garcia_ader"><b>Garcia</b> Ader</a> (1)</li>
+        <li><a href="../../../author/garcia_claudia"><b>Garcia</b> Claudia</a> (1)</li>
+        <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (1)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yu_kun-hao"><b>Yu</b> Kun-Hao</a>, <a href="../../../author/teng_teng"><b>Teng</b> Teng</a>, <a href="../../../author/nah_hee_so"><b>Nah</b> So</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yu_teng_nah_chai.2025.3CPoTPMSfECCaS/">3D Concrete Printing of Triply Periodic Minimum Surfaces for Enhanced Carbon Capture and Storage</a></li>
 </ol>

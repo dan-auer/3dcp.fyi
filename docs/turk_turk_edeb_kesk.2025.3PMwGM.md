@@ -17,14 +17,15 @@ tags:
 
 #3D Printable Mortars with Green Materials&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Sustainable Solutions with Nanocellulose</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2025.2579932" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2579932" target="_blank">10.1080/19648189.2025.2579932</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/19648189.2025.2579932" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2579932" target="_blank">10.1080/19648189.2025.2579932</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5882-4043" title="ORCID: 0000-0001-5882-4043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/turk_ayse"><b>Türk</b>&nbsp;Ayşe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8156-0354" title="ORCID: 0000-0002-8156-0354" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/turk_furkan"><b>Türk</b>&nbsp;Furkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2098-580X" title="ORCID: 0000-0002-2098-580X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/edebali_serpil"><b>Edebali</b>&nbsp;Serpil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9517-9116" title="ORCID: 0000-0002-9517-9116" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keskin_sultan_ulku"><b>Keskin</b>&nbsp;Ülkü</a></span><br>
 Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-26
 
 <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Mortars%20with%20Green%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+mortars+with+green+materials&as_occt=title&as_sauthors=t%C3%BCrk&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020953767&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001607491900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/19648189.2025.2579932" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

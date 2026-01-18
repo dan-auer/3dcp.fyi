@@ -17,14 +17,15 @@ tags:
 ---
 
 #Research on 3DPC Construction Method for Structural High-Performance Component Generation ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-5693-6_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5693-6_21" target="_blank">10.1007/978-981-96-5693-6_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-5693-6_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5693-6_21" target="_blank">10.1007/978-981-96-5693-6_21</a>
 
 <a href="../../../author/zhou_zhuang"><b>Zhou</b>&nbsp;Zhuang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <a href="../../../author/zhou_haining"><b>Zhou</b>&nbsp;Haining</a></span>, <a href="../../../author/liang_yuan"><b>Liang</b>&nbsp;Yuan</a></span>, <a href="../../../author/sun_chengpeng"><b>Sun</b>&nbsp;Chengpeng</a></span>, <a href="../../../author/bi_kang"><b>Bi</b>&nbsp;Kang</a></span><br>
 Contribution - Advances in Computer Science and Ubiquitous Computing, pp. 135-140
 
 <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%203DPC%20Construction%20Method%20for%20Structural%20High-Performance%20Component%20Generation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+3dpc+construction+method+for+structural+high-performance+component+generation&as_occt=title&as_sauthors=zhou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006837422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-5693-6_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #external
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/gravity"><button class="btn">#gravity (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
   <li><a href="../../../author/peerzada_basit_abdul"><b>Peerzada</b> Abdul</a>, <a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b> Prasad</a>, <a href="../../../author/roberts_james"><b>Roberts</b> James</a>, <a href="../../../author/biehl_adam"><b>Biehl</b> Adam</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../peer_rang_robe_bieh.2022.IoEVotGFCoCM/">Influence of External Vibration on the Gravitational Flow Characteristics of Cementitious Materials:<br/>A Perspective from Application in Additive Manufacturing</a></li>

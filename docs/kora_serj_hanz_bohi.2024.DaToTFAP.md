@@ -22,7 +22,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/frequency"><button class="btn">#frequency</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%20and%20Testing%20of%20Tailored%20Frequency%20Acoustic%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+and+testing+of+tailored+frequency+acoustic+panels&as_occt=title&as_sauthors=korat+bensa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408191439-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

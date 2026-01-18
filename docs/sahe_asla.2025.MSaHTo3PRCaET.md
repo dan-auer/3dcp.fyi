@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Strength and Heat Tolerance of 3D Printed Rubberised Concrete at Elevated Temperatures ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.113483) <a href="https://doi.org/10.1016/j.jobe.2025.113483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113483" target="_blank">10.1016/j.jobe.2025.113483</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.113483" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113483" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113483" target="_blank">10.1016/j.jobe.2025.113483</a>
 
 <a href="../../../author/sahebi_soleyman"><b>Sahebi</b>&nbsp;Soleyman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113483
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/heat"><button class="btn">#heat</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/tolerance"><button class="btn">#tolerance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Strength%20and%20Heat%20Tolerance%20of%203D%20Printed%20Rubberised%20Concrete%20at%20Elevated%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+strength+and+heat+tolerance+of+3d+printed+rubberised+concrete+at+elevated+temperatures&as_occt=title&as_sauthors=sahebi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012219826&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001545867400006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113483" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

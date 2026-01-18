@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automated Design and Additive Construction of Regolith-Shielded Lunar Habitats ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52202/078374-0045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52202/078374-0045" target="_blank">10.52202/078374-0045</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52202/078374-0045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52202/078374-0045" target="_blank">10.52202/078374-0045</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-5756-5231" title="ORCID: 0009-0006-5756-5231" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/florenzano_daniele"><b>Florenzano</b>&nbsp;Daniele</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2315-8786" title="ORCID: 0000-0003-2315-8786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sumini_valentina"><b>Sumini</b>&nbsp;Valentina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
 Contribution - Proceedings of the 22nd IAA Symposium on Building Blocks for Future Space Exploration and Development, pp. 435-449
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Design%20and%20Additive%20Construction%20of%20Regolith-Shielded%20Lunar%20Habitats" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+design+and+additive+construction+of+regolith-shielded+lunar+habitats&as_occt=title&as_sauthors=florenzano&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218499582&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52202/078374-0045" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

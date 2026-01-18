@@ -9,6 +9,60 @@ search:
 
 #  Baghdadi Abtin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1259-6174" target="_blank">0000-0003-1259-6174</a>
+
+    First Contribution
+    : 2021-08-27
+    
+    Last Contribution
+    : 2025-12-14
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 40
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (5)</li>
+        <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a> (3)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (2)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../dorr_freu_herr_bagh.2023.AFFORIfS3P/">Automated Force-Flow-Oriented Reinforcement Integration for Shotcrete 3D Printing</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (35)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (30)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (29)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (23)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (13)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (8)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (7)</li>
+        <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a> (7)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Performance of 3D Printed Beams and Slabs Using Self-Sensing Cementitious Composites and DIC Method ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1424-8220/23/20/8486/pdf?version=1697435833) <a href="https://doi.org/10.3390/s23208486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/s23208486" target="_blank">10.3390/s23208486</a>
+<a href="https://www.mdpi.com/1424-8220/23/20/8486/pdf?version=1697435833" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/s23208486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/s23208486" target="_blank">10.3390/s23208486</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-0010-4039" title="ORCID: 0009-0006-0010-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zhuming"><b>Li</b>&nbsp;Zhuming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
 Journal Article - Sensors, Vol. 23, Iss. 20
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance%20of%203D%20Printed%20Beams%20and%20Slabs%20Using%20Self-Sensing%20Cementitious%20Composites%20and%20DIC%20Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance+of+3d+printed+beams+and+slabs+using+self-sensing+cementitious+composites+and+dic+method&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175275262&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001093513300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/s23208486" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

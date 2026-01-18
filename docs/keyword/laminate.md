@@ -8,6 +8,10 @@ search:
 
 # #laminate
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/adaption"><button class="btn">#adaption (1)</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm (1)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
   <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/du_gaoming"><b>Du</b> Gaoming</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/lin_gongshun"><b>Lin</b> Gongshun</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../feng_du_carv_lin.2024.FAo3CPBLMGS/">Failure-Analysis of 3D Concrete Printing Bolted Laminates Mimicking Geological Strata</a></li>

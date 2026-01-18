@@ -18,14 +18,15 @@ tags:
 ---
 
 #The Role of Different Clay Types in Achieving Low-Carbon 3D Printed Concretes ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14072194) <a href="https://doi.org/10.3390/buildings14072194" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072194" target="_blank">10.3390/buildings14072194</a>
+<a href="https://doi.org/10.3390/buildings14072194" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14072194" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072194" target="_blank">10.3390/buildings14072194</a>
 
 <a href="../../../author/hanratty_niall"><b>Hanratty</b>&nbsp;Niall</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2898-1827" title="ORCID: 0000-0003-2898-1827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_mehran"><b>Khan</b>&nbsp;Mehran</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 7, No. 2194
 
 <a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Role%20of%20Different%20Clay%20Types%20in%20Achieving%20Low-Carbon%203D%20Printed%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+role+of+different+clay+types+in+achieving+low-carbon+3d+printed+concretes&as_occt=title&as_sauthors=hanratty&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199619679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001276758200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14072194" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

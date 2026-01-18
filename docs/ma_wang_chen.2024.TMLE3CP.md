@@ -22,14 +22,15 @@ tags:
 
 #Trustworthy Machine Learning-Enhanced 3D Concrete Printing&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Predicting Bond Strength and Designing Reinforcement Embedment Length</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105754" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105754" target="_blank">10.1016/j.autcon.2024.105754</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105754" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105754" target="_blank">10.1016/j.autcon.2024.105754</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-5292-6016" title="ORCID: 0009-0003-5292-6016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_xin-rui"><b>Ma</b>&nbsp;Xin-Rui</a></span>, <a href="../../../author/wang_xian-lin"><b>Wang</b>&nbsp;Xian-Lin</a></span>, <a href="../../../author/chen_shi-zi"><b>Chen</b>&nbsp;Shi-Zi</a></span><br>
 Journal Article - Automation in Construction, Vol. 168, No. 105754
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Trustworthy%20Machine%20Learning-Enhanced%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=trustworthy+machine+learning-enhanced+3d+concrete+printing&as_occt=title&as_sauthors=ma&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203413512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333686600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105754" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

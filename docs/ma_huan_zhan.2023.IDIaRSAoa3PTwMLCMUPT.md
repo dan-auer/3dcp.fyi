@@ -19,14 +19,15 @@ tags:
 ---
 
 #Inner Damage-Identification and Residual Strength-Assessment of a 3D Printed Tunnel with Marble-Like Cementitious Materials Using Piezoelectric Transducers ([2023-04](date/2023/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jrmge.2022.08.004) <a href="https://doi.org/10.1016/j.jrmge.2022.08.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jrmge.2022.08.004" target="_blank">10.1016/j.jrmge.2022.08.004</a>
+<a href="https://doi.org/10.1016/j.jrmge.2022.08.004" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jrmge.2022.08.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jrmge.2022.08.004" target="_blank">10.1016/j.jrmge.2022.08.004</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <a href="../../../author/huang_chen"><b>Huang</b>&nbsp;Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9241-9367" title="ORCID: 0000-0001-9241-9367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_junfei"><b>Zhang</b>&nbsp;Junfei</a></span><br>
 Journal Article - Journal of Rock Mechanics and Geotechnical Engineering, Vol. 15, Iss. 4, pp. 838-851
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/residual"><button class="btn">#residual</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Inner%20Damage-Identification%20and%20Residual%20Strength-Assessment%20of%20a%203D%20Printed%20Tunnel%20with%20Marble-Like%20Cementitious%20Materials%20Using%20Piezoelectric%20Transducers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=inner+damage-identification+and+residual+strength-assessment+of+a+3d+printed+tunnel+with+marble-like+cementitious+materials+using+piezoelectric+transducers&as_occt=title&as_sauthors=ma&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138587255&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000990032100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jrmge.2022.08.004" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

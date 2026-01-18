@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Framework for Process Anomaly Detection in 3D Concrete Printing ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.105056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105056" target="_blank">10.1016/j.addma.2025.105056</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2025.105056" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.105056" target="_blank">10.1016/j.addma.2025.105056</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3867-820X" title="ORCID: 0000-0002-3867-820X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_yuxin"><b>Lin</b>&nbsp;Yuxin</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-0764-9469" title="ORCID: 0009-0007-0764-9469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/watson_christopher"><b>Watson</b>&nbsp;Christopher</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1047-8078" title="ORCID: 0000-0003-1047-8078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barton_kira"><b>Barton</b>&nbsp;Kira</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span><br>
 Journal Article - Additive Manufacturing, No. 105056
 
 <a href="../../keyword/anomaly"><button class="btn">#anomaly</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Framework%20for%20Process%20Anomaly%20Detection%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+framework+for+process+anomaly+detection+in+3d+concrete+printing&as_occt=title&as_sauthors=kamhawi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2025.105056" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

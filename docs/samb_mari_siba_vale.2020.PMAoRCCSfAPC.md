@@ -19,14 +19,15 @@ tags:
 ---
 
 #Preliminary Mechanical Analysis of Rubber-Cement Composites Suitable for Additive Process Construction ([2020-08](date/2020/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/4/3/120/pdf?version=1597818901) <a href="https://doi.org/10.3390/jcs4030120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs4030120" target="_blank">10.3390/jcs4030120</a>
+<a href="https://www.mdpi.com/2504-477X/4/3/120/pdf?version=1597818901" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/jcs4030120" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs4030120" target="_blank">10.3390/jcs4030120</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0974-2129" title="ORCID: 0000-0002-0974-2129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sambucci_matteo"><b>Sambucci</b>&nbsp;Matteo</a></span>, <a href="../../../author/marini_danilo"><b>Marini</b>&nbsp;Danilo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0982-970X" title="ORCID: 0000-0002-0982-970X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sibai_abbas"><b>Sibai</b>&nbsp;Abbas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6298-3693" title="ORCID: 0000-0002-6298-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valente_marco"><b>Valente</b>&nbsp;Marco</a></span><br>
 Journal Article - Journal of Composites Science, Vol. 4, Iss. 3
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preliminary%20Mechanical%20Analysis%20of%20Rubber-Cement%20Composites%20Suitable%20for%20Additive%20Process%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preliminary+mechanical+analysis+of+rubber-cement+composites+suitable+for+additive+process+construction&as_occt=title&as_sauthors=sambucci&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104548186&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000582116800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/jcs4030120" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

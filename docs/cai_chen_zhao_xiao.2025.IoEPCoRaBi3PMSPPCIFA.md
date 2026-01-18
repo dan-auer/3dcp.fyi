@@ -21,14 +21,15 @@ tags:
 ---
 
 #Impact of Early Particle Characteristics on Rheology and Buildability in 3D-Printed Magnesium Silicon Potassium Phosphate Cement Incorporating Fly Ash ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114884" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114884" target="_blank">10.1016/j.jobe.2025.114884</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114884" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114884" target="_blank">10.1016/j.jobe.2025.114884</a>
 
 <a href="../../../author/cai_xianhuan"><b>Cai</b>&nbsp;Xianhuan</a></span>, <a href="../../../author/chen_fan"><b>Chen</b>&nbsp;Fan</a></span>, <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/xiao_peng"><b>Xiao</b>&nbsp;Peng</a></span>, <a href="../../../author/zhang_yao"><b>Zhang</b>&nbsp;Yao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114884
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silicon"><button class="btn">#silicon</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Early%20Particle%20Characteristics%20on%20Rheology%20and%20Buildability%20in%203D-Printed%20Magnesium%20Silicon%20Potassium%20Phosphate%20Cement%20Incorporating%20Fly%20Ash" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+early+particle+characteristics+on+rheology+and+buildability+in+3d-printed+magnesium+silicon+potassium+phosphate+cement+incorporating+fly+ash&as_occt=title&as_sauthors=cai&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114884" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

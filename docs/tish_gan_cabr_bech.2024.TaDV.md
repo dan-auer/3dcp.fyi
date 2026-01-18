@@ -22,7 +22,7 @@ Contribution - Proceedings, pp. 655-664
 
 <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20a%20Digital%20Vernacular" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+a+digital+vernacular&as_occt=title&as_sauthors=tish&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

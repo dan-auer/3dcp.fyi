@@ -17,14 +17,15 @@ tags:
 ---
 
 #Seismic Performance of F3D Free-Form Structures Using Small-Scale Shaking Table Tests ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/8/2868/pdf?version=1649911011) <a href="https://doi.org/10.3390/ma15082868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15082868" target="_blank">10.3390/ma15082868</a>
+<a href="https://www.mdpi.com/1996-1944/15/8/2868/pdf?version=1649911011" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma15082868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15082868" target="_blank">10.3390/ma15082868</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5903-2152" title="ORCID: 0000-0001-5903-2152" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_jae_min"><b>Park</b>&nbsp;Min</a></span>, <a href="../../../author/cheon_gain"><b>Cheon</b>&nbsp;Gain</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1804-4004" title="ORCID: 0000-0003-1804-4004" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alemayehu_wondimu_robel"><b>Alemayehu</b>&nbsp;Robel</a></span>, <a href="../../../author/ju_k_young"><b>Ju</b>&nbsp;Young</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1804-4004" title="ORCID: 0000-0003-1804-4004" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alemayehu_wondimu_robel"><b>Alemayehu</b>&nbsp;Robel</a></span>, <a href="../../../author/ju_k_young"><b>Ju</b>&nbsp;Young</a></span><br>
 Journal Article - Materials, Vol. 15, Iss. 8
 
 <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/table"><button class="btn">#table</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Seismic%20Performance%20of%20F3D%20Free-Form%20Structures%20Using%20Small-Scale%20Shaking%20Table%20Tests" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=seismic+performance+of+f3d+free-form+structures+using+small-scale+shaking+table+tests&as_occt=title&as_sauthors=park&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129044518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000785260400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma15082868" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

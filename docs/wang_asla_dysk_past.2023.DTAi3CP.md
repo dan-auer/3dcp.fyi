@@ -15,14 +15,15 @@ tags:
 ---
 
 #Digital Twin Applications in 3D Concrete Printing ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/3/2124/pdf?version=1674453811) <a href="https://doi.org/10.3390/su15032124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15032124" target="_blank">10.3390/su15032124</a>
+<a href="https://www.mdpi.com/2071-1050/15/3/2124/pdf?version=1674453811" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su15032124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15032124" target="_blank">10.3390/su15032124</a>
 
 <a href="../../../author/wang_yuxin"><b>Wang</b>&nbsp;Yuxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5524-2566" title="ORCID: 0000-0001-5524-2566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dyskin_arcady"><b>Dyskin</b>&nbsp;Arcady</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8522-143X" title="ORCID: 0000-0002-8522-143X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pasternak_elena"><b>Pasternak</b>&nbsp;Elena</a></span><br>
 Journal Article - Sustainability, Vol. 15, Iss. 3
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Twin%20Applications%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+twin+applications+in+3d+concrete+printing&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148008551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000930324900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su15032124" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

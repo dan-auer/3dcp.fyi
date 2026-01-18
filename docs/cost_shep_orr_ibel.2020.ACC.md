@@ -19,14 +19,15 @@ tags:
 
 #Automating Concrete Construction&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">Digital Design of Non-Prismatic Reinforced Concrete Beams</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_84" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_84" target="_blank">10.1007/978-3-030-49916-7_84</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_84" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_84" target="_blank">10.1007/978-3-030-49916-7_84</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3113-9270" title="ORCID: 0000-0002-3113-9270" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_eduardo"><b>Costa</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2687-6353" title="ORCID: 0000-0003-2687-6353" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_j_john"><b>Orr</b>&nbsp;John</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5266-4832" title="ORCID: 0000-0002-5266-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ibell_j_tim"><b>Ibell</b>&nbsp;Tim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9701-9853" title="ORCID: 0000-0002-9701-9853" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oval_robin"><b>Oval</b>&nbsp;Robin</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 863-872
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/prism"><button class="btn">#prism</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automating%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automating+concrete+construction&as_occt=title&as_sauthors=costa&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088276690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_84" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

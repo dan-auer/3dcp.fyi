@@ -20,14 +20,15 @@ tags:
 ---
 
 #Evaluation of Fresh, Hardened, and Durability Properties of Three-Dimensional Concrete Printed Pipes ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51749126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51749126" target="_blank">10.14359/51749126</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51749126" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51749126" target="_blank">10.14359/51749126</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasani_alireza"><b>Hasani</b>&nbsp;Alireza</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorafshan_sattar"><b>Dorafshan</b>&nbsp;Sattar</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 122, Iss. 6, pp. 73-84
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Fresh%2C%20Hardened%2C%20and%20Durability%20Properties%20of%20Three-Dimensional%20Concrete%20Printed%20Pipes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+fresh%2C+hardened%2C+and+durability+properties+of+three-dimensional+concrete+printed+pipes&as_occt=title&as_sauthors=hasani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001633618700006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51749126" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

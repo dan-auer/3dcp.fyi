@@ -14,14 +14,15 @@ tags:
 ---
 
 #Evaluation of Cementitious Mixes for Printing ([2020-05](date/2020/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-55115-5_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-55115-5_56" target="_blank">10.1007/978-3-030-55115-5_56</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-55115-5_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-55115-5_56" target="_blank">10.1007/978-3-030-55115-5_56</a>
 
 <a href="../../../author/vishruthi_m"><b>Vishruthi</b>&nbsp;M.</a></span>, <a href="../../../author/raghavendra_s"><b>Raghavendra</b>&nbsp;S.</a></span>, <a href="../../../author/ravi-teja_y"><b>Ravi Teja</b>&nbsp;Y.</a></span>, <a href="../../../author/anand_b_k"><b>Anand</b>&nbsp;K.</a></span><br>
 Contribution - Proceedings of the 1st International Conference on Structural Engineering and Construction Management, pp. 611-623
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Cementitious%20Mixes%20for%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+cementitious+mixes+for+printing&as_occt=title&as_sauthors=vishruthi&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097523825&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-55115-5_56" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

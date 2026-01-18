@@ -20,14 +20,15 @@ tags:
 
 #Time-Varying Work Performance of Cementitious 3D Printing Mortar&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Effect of SAC, H-PC and HPMC</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04809) <a href="https://doi.org/10.1016/j.cscm.2025.e04809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04809" target="_blank">10.1016/j.cscm.2025.e04809</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04809" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04809" target="_blank">10.1016/j.cscm.2025.e04809</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_lixiong"><b>Cai</b>&nbsp;Lixiong</a></span>, <a href="../../../author/chen_feida"><b>Chen</b>&nbsp;Feida</a></span>, <a href="../../../author/xie_dingkun"><b>Xie</b>&nbsp;Dingkun</a></span>, <a href="../../../author/ye_keming"><b>Ye</b>&nbsp;Keming</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04809
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/workforce"><button class="btn">#workforce</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Time-Varying%20Work%20Performance%20of%20Cementitious%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=time-varying+work+performance+of+cementitious+3d+printing+mortar&as_occt=title&as_sauthors=cai&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005572516&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001502540400002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04809" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

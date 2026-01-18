@@ -17,14 +17,15 @@ tags:
 ---
 
 #Review on the Developments of Structure, Construction Automation, and Monitoring of Intelligent Construction ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/11/1890/pdf?version=1668178889) <a href="https://doi.org/10.3390/buildings12111890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111890" target="_blank">10.3390/buildings12111890</a>
+<a href="https://www.mdpi.com/2075-5309/12/11/1890/pdf?version=1668178889" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12111890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12111890" target="_blank">10.3390/buildings12111890</a>
 
 <a href="../../../author/liu_kewei"><b>Liu</b>&nbsp;Kewei</a></span>, <a href="../../../author/meng_qingfei"><b>Meng</b>&nbsp;Qingfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9577-4540" title="ORCID: 0000-0001-9577-4540" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kong_qingzhao"><b>Kong</b>&nbsp;Qingzhao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8667-4692" title="ORCID: 0000-0002-8667-4692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xihong"><b>Zhang</b>&nbsp;Xihong</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 11
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20on%20the%20Developments%20of%20Structure%2C%20Construction%20Automation%2C%20and%20Monitoring%20of%20Intelligent%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+on+the+developments+of+structure%2C+construction+automation%2C+and+monitoring+of+intelligent+construction&as_occt=title&as_sauthors=liu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149473663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000894402500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12111890" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

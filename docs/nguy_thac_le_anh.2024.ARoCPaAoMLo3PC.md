@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Review of Current Progress and Application of Machine Learning on 3D Printed Concrete ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-7434-4_71" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-7434-4_71" target="_blank">10.1007/978-981-99-7434-4_71</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-7434-4_71" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-7434-4_71" target="_blank">10.1007/978-981-99-7434-4_71</a>
 
 <a href="../../../author/nguyen_anh-thu_ho"><b>Nguyen</b>&nbsp;Ho</a></span>, <a href="../../../author/thach_thao_nguyen"><b>Thach</b>&nbsp;Nguyen</a></span>, <a href="../../../author/le_hoai_quang"><b>Le</b>&nbsp;Quang</a></span>, <a href="../../../author/anh_yonghan"><b>Anh</b>&nbsp;Yonghan</a></span><br>
 Contribution - Proceedings of the 3rd International Conference on Sustainable Civil Engineering and Architecture, pp. 703-710
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Current%20Progress%20and%20Application%20of%20Machine%20Learning%20on%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+current+progress+and+application+of+machine+learning+on+3d+printed+concrete&as_occt=title&as_sauthors=nguyen&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180150556&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-7434-4_71" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

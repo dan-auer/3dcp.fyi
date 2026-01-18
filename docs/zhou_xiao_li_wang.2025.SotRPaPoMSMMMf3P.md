@@ -19,14 +19,15 @@ tags:
 ---
 
 #Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" target="_blank">10.1016/j.conbuildmat.2025.143293</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.143293" target="_blank">10.1016/j.conbuildmat.2025.143293</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-5951-5304" title="ORCID: 0009-0008-5951-5304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_yuecheng"><b>Zhou</b>&nbsp;Yuecheng</a></span>, <a href="../../../author/xiao_sai"><b>Xiao</b>&nbsp;Sai</a></span>, <a href="../../../author/li_haonian"><b>Li</b>&nbsp;Haonian</a></span>, <a href="../../../author/wang_chong"><b>Wang</b>&nbsp;Chong</a></span>, <a href="../../../author/li_fuhai"><b>Li</b>&nbsp;Fuhai</a></span>, <a href="../../../author/liu_gengyuan"><b>Liu</b>&nbsp;Gengyuan</a></span>, <a href="../../../author/chen_zhao"><b>Chen</b>&nbsp;Zhao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 493, No. 143293
 
 <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Rheological%20Properties%20and%20Printability%20of%20Multi-Scale%20Material%20Modified%20Mortar%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+rheological+properties+and+printability+of+multi-scale+material+modified+mortar+for+3d+printing&as_occt=title&as_sauthors=zhou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013838525&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001564108700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.143293" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

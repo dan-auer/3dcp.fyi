@@ -17,14 +17,15 @@ tags:
 ---
 
 #Large Format Additive Manufacturing with Cement and Clay Applications ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9783527844807.ch10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783527844807.ch10" target="_blank">10.1002/9783527844807.ch10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/9783527844807.ch10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783527844807.ch10" target="_blank">10.1002/9783527844807.ch10</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-5795-0229" title="ORCID: 0009-0002-5795-0229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_elis"><b>Ribeiro</b>&nbsp;Elis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span><br>
 Contribution - Large Format Additive Manufacturing, pp. 245-268
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large%20Format%20Additive%20Manufacturing%20with%20Cement%20and%20Clay%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large+format+additive+manufacturing+with+cement+and+clay+applications&as_occt=title&as_sauthors=teixeira&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/9783527844807.ch10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -69,6 +70,7 @@ Contribution - Large Format Additive Manufacturing, pp. 245-268
       year              = "2026",
       pages             = "245--268",
       booktitle         = "Large Format Additive Manufacturing: Polymers, Metals, and Ceramics",
+      editor            = "Daniel Moreno Nieto and Daniel Moreno Sánchez and Ahmed A. Hassen and Eric MacDonald and Sergio I. Molina Rubio",
     }
 
 
@@ -82,6 +84,6 @@ Contribution - Large Format Additive Manufacturing, pp. 245-268
 
     === "CMOS"
 
-    <span id="cmos">Teixeira, João, Manuel Jesus, Elis Ribeiro, Bárbara Rangel, Jorge Lino Alves, and Lino Maia. “Large Format Additive Manufacturing with Cement and Clay Applications”. In <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>, 245–68, 2026. https://doi.org/10.1002/9783527844807.ch10.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Teixeira, João, Manuel Jesus, Elis Ribeiro, Bárbara Rangel, Jorge Lino Alves, and Lino Maia. “Large Format Additive Manufacturing with Cement and Clay Applications”. In <i>Large Format Additive Manufacturing: Polymers, Metals, and Ceramics</i>, edited by Daniel Moreno Nieto, Daniel Moreno Sánchez, Ahmed A. Hassen, Eric MacDonald, and Sergio I. Molina Rubio, 245–68, 2026. https://doi.org/10.1002/9783527844807.ch10.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

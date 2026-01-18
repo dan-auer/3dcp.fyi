@@ -18,14 +18,15 @@ tags:
 ---
 
 #Fundamentals of Development for Adaptive Formwork for Free Formed Concrete Shells and Walls ([2014-12](date/2014/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.201400081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.201400081" target="_blank">10.1002/bate.201400081</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/bate.201400081" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.201400081" target="_blank">10.1002/bate.201400081</a>
 
 <a href="../../../author/michel_matthias"><b>Michel</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/knaack_ulrich"><b>Knaack</b>&nbsp;Ulrich</a></span><br>
 Journal Article - Bautechnik, Vol. 91, Iss. 12, pp. 845-853
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/fundament"><button class="btn">#fundament</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fundamentals%20of%20Development%20for%20Adaptive%20Formwork%20for%20Free%20Formed%20Concrete%20Shells%20and%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fundamentals+of+development+for+adaptive+formwork+for+free+formed+concrete+shells+and+walls&as_occt=title&as_sauthors=michel&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84914816172&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000345979300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/bate.201400081" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

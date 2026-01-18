@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Study of the Effects of MWCNTs on the Fresh and Hardened State Properties of 3D Printable Concrete ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02913) <a href="https://doi.org/10.1016/j.cscm.2024.e02913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02913" target="_blank">10.1016/j.cscm.2024.e02913</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e02913" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e02913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02913" target="_blank">10.1016/j.cscm.2024.e02913</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8304-4716" title="ORCID: 0000-0002-8304-4716" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dulaj_albanela"><b>Dulaj</b>&nbsp;Albanela</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e02913
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20of%20the%20Effects%20of%20MWCNTs%20on%20the%20Fresh%20and%20Hardened%20State%20Properties%20of%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+study+of+the+effects+of+mwcnts+on+the+fresh+and+hardened+state+properties+of+3d+printable+concrete&as_occt=title&as_sauthors=dulaj&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185514083&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001174034200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e02913" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

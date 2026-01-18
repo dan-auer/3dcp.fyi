@@ -19,14 +19,15 @@ tags:
 ---
 
 #Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" target="_blank">10.1016/j.conbuildmat.2024.139559</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139559" target="_blank">10.1016/j.conbuildmat.2024.139559</a>
 
 <a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/yin_xuexiang"><b>Yin</b>&nbsp;Xuexiang</a></span>, <a href="../../../author/yang_mingyu"><b>Yang</b>&nbsp;Mingyu</a></span>, <a href="../../../author/chen_tianxiang"><b>Chen</b>&nbsp;Tianxiang</a></span>, <a href="../../../author/guo_xun"><b>Guo</b>&nbsp;Xun</a></span>, <a href="../../../author/xiang_bin"><b>Xiang</b>&nbsp;Bin</a></span>, <a href="../../../author/zhao_xinzhen"><b>Zhao</b>&nbsp;Xinzhen</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 458, No. 139559
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Damage%20Behavior%20and%20Anisotropic%20Mechanism%20of%203D%20Printed%20Reinforced%20Concrete%20Subjected%20to%20Penetration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+damage+behavior+and+anisotropic+mechanism+of+3d+printed+reinforced+concrete+subjected+to+penetration&as_occt=title&as_sauthors=du&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212129474&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001390812200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139559" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

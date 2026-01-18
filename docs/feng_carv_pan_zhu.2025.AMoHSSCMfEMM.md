@@ -18,14 +18,15 @@ tags:
 ---
 
 #Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.144802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144802" target="_blank">10.1016/j.conbuildmat.2025.144802</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.144802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.144802" target="_blank">10.1016/j.conbuildmat.2025.144802</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9348-9874" title="ORCID: 0000-0002-9348-9874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_xiaowei"><b>Feng</b>&nbsp;Xiaowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5272-608X" title="ORCID: 0000-0001-5272-608X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvelli_valter"><b>Carvelli</b>&nbsp;Valter</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4308-1210" title="ORCID: 0000-0003-4308-1210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_dongjiang"><b>Pan</b>&nbsp;Dongjiang</a></span>, <a href="../../../author/zhu_chuankai"><b>Zhu</b>&nbsp;Chuankai</a></span>, <a href="../../../author/lin_gongshun"><b>Lin</b>&nbsp;Gongshun</a></span>, <a href="../../../author/li_ziwei"><b>Li</b>&nbsp;Ziwei</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 505, No. 144802
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Hybrid%20Straw-Soil-Cement%20Materials%20for%20Enhanced%20Mine%20Models" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+hybrid+straw-soil-cement+materials+for+enhanced+mine+models&as_occt=title&as_sauthors=feng&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105024069104&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.144802" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

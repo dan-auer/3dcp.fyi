@@ -20,14 +20,15 @@ tags:
 ---
 
 #Additive Fabrication of Large-Scale Customizable Formwork Using Robotic Fiber-Reinforced Polymer Winding ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831540) <a href="https://doi.org/10.1089/3dp.2020.0358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0358" target="_blank">10.1089/3dp.2020.0358</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831540" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2020.0358" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0358" target="_blank">10.1089/3dp.2020.0358</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3795-3852" title="ORCID: 0000-0003-3795-3852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ou_ya"><b>Ou</b>&nbsp;Ya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <a href="../../../author/zhu_guan-qi"><b>Zhu</b>&nbsp;Guan-Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1760-0451" title="ORCID: 0000-0003-1760-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/luo_dan"><b>Luo</b>&nbsp;Dan</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 2, pp. 109-121
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Fabrication%20of%20Large-Scale%20Customizable%20Formwork%20Using%20Robotic%20Fiber-Reinforced%20Polymer%20Winding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+fabrication+of+large-scale+customizable+formwork+using+robotic+fiber-reinforced+polymer+winding&as_occt=title&as_sauthors=ou&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129250161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000696633200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2020.0358" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

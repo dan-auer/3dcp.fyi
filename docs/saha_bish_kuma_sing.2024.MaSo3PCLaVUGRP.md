@@ -18,14 +18,15 @@ tags:
 ---
 
 #Modeling and Simulation of 3D Printed Concrete Layers and Validation Using Gantry Robotic Printer ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-5423-6_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-5423-6_49" target="_blank">10.1007/978-981-97-5423-6_49</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-5423-6_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-5423-6_49" target="_blank">10.1007/978-981-97-5423-6_49</a>
 
 <a href="../../../author/sahai_rajan"><b>Sahai</b>&nbsp;Rajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bisht_singh_ravindra"><b>Bisht</b>&nbsp;Ravindra</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6206-6169" title="ORCID: 0000-0001-6206-6169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_shivam"><b>Kumar</b>&nbsp;Shivam</a></span>, <a href="../../../author/singh_siddharth"><b>Singh</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b>&nbsp;Soraj</a></span><br>
 Contribution - Recent Advances in Machines, Mechanisms, Materials and Design, pp. 615-630
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/gantry"><button class="btn">#gantry</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%20and%20Simulation%20of%203D%20Printed%20Concrete%20Layers%20and%20Validation%20Using%20Gantry%20Robotic%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling+and+simulation+of+3d+printed+concrete+layers+and+validation+using+gantry+robotic+printer&as_occt=title&as_sauthors=sahai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206997866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-5423-6_49" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

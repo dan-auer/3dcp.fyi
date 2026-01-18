@@ -17,14 +17,15 @@ tags:
 ---
 
 #Upscaling of Copper Slag-Based Geopolymer to 3D Printing Technology ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/22/5581/pdf?version=1731657387) <a href="https://doi.org/10.3390/ma17225581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17225581" target="_blank">10.3390/ma17225581</a>
+<a href="https://www.mdpi.com/1996-1944/17/22/5581/pdf?version=1731657387" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17225581" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17225581" target="_blank">10.3390/ma17225581</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5155-1940" title="ORCID: 0000-0002-5155-1940" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kozub_barbara"><b>Kozub</b>&nbsp;Barbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6219-3256" title="ORCID: 0000-0001-6219-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sitarz_mateusz"><b>Sitarz</b>&nbsp;Mateusz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9541-2494" title="ORCID: 0000-0001-9541-2494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gadek_szymon"><b>Gądek</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6383-7639" title="ORCID: 0000-0002-6383-7639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ziejewska_celina"><b>Ziejewska</b>&nbsp;Celina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 22
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/copper"><button class="btn">#copper</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/upscaling"><button class="btn">#upscaling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Upscaling%20of%20Copper%20Slag-Based%20Geopolymer%20to%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=upscaling+of+copper+slag-based+geopolymer+to+3d+printing+technology&as_occt=title&as_sauthors=kozub&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210244156&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001365665900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17225581" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -77,8 +78,9 @@ Journal Article - Materials, Vol. 17, Iss. 22
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>
 

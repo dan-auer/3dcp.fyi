@@ -9,6 +9,60 @@ search:
 
 #  Martinelli Antônio 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3885-9104" target="_blank">0000-0003-3885-9104</a>
+
+    First Contribution
+    : 2022-08-19
+    
+    Last Contribution
+    : 2025-03-04
+
+    Number Contributions
+    : 4
+
+    Number Citations
+    : 25
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> (4)</li>
+        <li><a href="../../../author/silva_felipe-domingos_iago"><b>da Silva</b> Iago</a> (3)</li>
+        <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a> (2)</li>
+        <li><a href="../../../author/xavier_a-c_allynson"><b>Xavier</b> Allynson</a> (2)</li>
+        <li><a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (19)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (13)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (10)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (3)</li>
+        <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (3)</li>
+        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (2)</li>
+        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (2)</li>
+        <li><a href="../../../author/tamimi_k_adil"><b>Al Tamimi</b> Adil</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
   <li><a href="../../../author/nobrega_christinna-secundo-lopes_anna"><b>Nóbrega</b> Anna</a>, <a href="../../../author/queiroz-junior_carlos_cleanto"><b>Queiroz Junior</b> Cleanto</a>, <a href="../../../author/souza_rossine-medeiros_wendell"><b>Souza</b> Wendell</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../nobr_quei_souz_cabr.2024.CMfSEAUCCi3P/">Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing</a></li>

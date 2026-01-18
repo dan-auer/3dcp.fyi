@@ -18,14 +18,15 @@ tags:
 ---
 
 #Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01014-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01014-7" target="_blank">10.1007/s40964-025-01014-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-025-01014-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01014-7" target="_blank">10.1007/s40964-025-01014-7</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akhrif_iatimad"><b>Akhrif</b>&nbsp;Iatimad</a></span>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span>, <a href="../../../author/rihani_nadir"><b>Rihani</b>&nbsp;Nadir</a></span>, <a href="../../../author/igwe_chukwunenye_nnamdi"><b>Igwe</b>&nbsp;Nnamdi</a></span>, <a href="../../../author/baalal_eddine_salah"><b>Baalal</b>&nbsp;Salah</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Earth-Based%20Materials%203D%20Printing%2C%20Extrudability%20and%20Buildability%20Numerical%20Investigations" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=earth-based+materials+3d+printing%2C+extrudability+and+buildability+numerical+investigations&as_occt=title&as_sauthors=akhrif&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000219195&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001434841200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-025-01014-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

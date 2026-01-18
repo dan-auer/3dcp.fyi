@@ -15,14 +15,15 @@ tags:
 ---
 
 #Sustainable Supply Chain Models for 3D Printed Houses ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/16258312.2023.2298186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/16258312.2023.2298186" target="_blank">10.1080/16258312.2023.2298186</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/16258312.2023.2298186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/16258312.2023.2298186" target="_blank">10.1080/16258312.2023.2298186</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2770-4513" title="ORCID: 0000-0002-2770-4513" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rogers_helen"><b>Rogers</b>&nbsp;Helen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0580-4118" title="ORCID: 0000-0002-0580-4118" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srivastava_mohit"><b>Srivastava</b>&nbsp;Mohit</a></span>, <a href="../../../author/tsakou_myriam-elissavet"><b>Tsakou</b>&nbsp;Myriam-Elissavet</a></span>, <a href="../../../author/prashad_anisha"><b>Prashad</b>&nbsp;Anisha</a></span><br>
 Journal Article - Supply Chain Forum: An International Journal, pp. 1-16
 
 <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/supply"><button class="btn">#supply</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Supply%20Chain%20Models%20for%203D%20Printed%20Houses" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+supply+chain+models+for+3d+printed+houses&as_occt=title&as_sauthors=rogers&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181504132&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001137345800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/16258312.2023.2298186" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

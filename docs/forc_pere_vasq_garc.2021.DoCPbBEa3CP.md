@@ -17,14 +17,15 @@ tags:
 ---
 
 #Development of Communication Protocols Between BIM Elements and 3D Concrete Printing ([2021-08](date/2021/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771) <a href="https://doi.org/10.3390/app11167226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11167226" target="_blank">10.3390/app11167226</a>
+<a href="https://www.mdpi.com/2076-3417/11/16/7226/pdf?version=1628160771" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app11167226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11167226" target="_blank">10.3390/app11167226</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcael_eric"><b>Forcael</b>&nbsp;Eric</a></span>, <a href="../../../author/perez_javier"><b>Pérez</b>&nbsp;Javier</a></span>, <a href="../../../author/vasquez_alvaro"><b>Vásquez</b>&nbsp;Álvaro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2409-1026" title="ORCID: 0000-0003-2409-1026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orozco_francisco"><b>Orozco</b>&nbsp;Francisco</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9885-806X" title="ORCID: 0009-0008-9885-806X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sepulveda-morales_javier_luis"><b>Sepúlveda-Morales</b>&nbsp;Luis</a></span><br>
 Journal Article - Applied Sciences, Vol. 11, Iss. 16
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/communication"><button class="btn">#communication</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/protocol"><button class="btn">#protocol</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Communication%20Protocols%20Between%20BIM%20Elements%20and%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+communication+protocols+between+bim+elements+and+3d+concrete+printing&as_occt=title&as_sauthors=forcael&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112326224&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000688571100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app11167226" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Approaching Rectangular Extrudate in 3D Printing for Building and Construction by Experimental Iteration of Nozzle Design ([2017-08](date/2017/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dr.ntu.edu.sg/bitstream/10220/44502/1/ApproachingRectangularExtrudatein3DPrintingf.pdf) <a href="https://doi.org/10.32656/sff.2017.208" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32656/sff.2017.208" target="_blank">10.32656/sff.2017.208</a>
+<a href="https://dr.ntu.edu.sg/bitstream/10220/44502/1/ApproachingRectangularExtrudatein3DPrintingf.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.32656/sff.2017.208" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.32656/sff.2017.208" target="_blank">10.32656/sff.2017.208</a>
 
 <a href="../../../author/lao_wenxin"><b>Lao</b>&nbsp;Wenxin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1507-1509" title="ORCID: 0000-0003-1507-1509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingyang"><b>Li</b>&nbsp;Mingyang</a></span>, <a href="../../../author/masia_lorenzo"><b>Masia</b>&nbsp;Lorenzo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3583-1723" title="ORCID: 0000-0002-3583-1723" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_jen_ming"><b>Tan</b>&nbsp;Ming</a></span><br>
 Contribution - Proceedings of the 2017 Annual International Solid Freeform Fabrication Symposium, pp. 2612-2623
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/iteration"><button class="btn">#iteration</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Approaching%20Rectangular%20Extrudate%20in%203D%20Printing%20for%20Building%20and%20Construction%20by%20Experimental%20Iteration%20of%20Nozzle%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=approaching+rectangular+extrudate+in+3d+printing+for+building+and+construction+by+experimental+iteration+of+nozzle+design&as_occt=title&as_sauthors=lao&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.32656/sff.2017.208" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

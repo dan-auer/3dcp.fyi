@@ -8,6 +8,10 @@ search:
 
 # #delievery
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/development"><button class="btn">#development (2)</button></a> <a href="../../keyword/system"><button class="btn">#system (2)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b> Liubov</a>, <a href="../../../author/pustovgar_andrey"><b>Pustovgar</b> Andrey</a>, <a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b> Aleksey</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../adam_pust_adam.2024.AtPaRoDSUDT3CPI/">Assessing the Prospects and Risks of Delivering Sustainable Urban Development Through 3D Concrete Printing Implementation</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../plac_schw.2023.FPtS/">From Process to System:<br/>A Review on the Implications of Concrete 3D Printing on Project Delivery</a></li>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization ([2025-08](date/2025/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/17/3989/pdf?version=1756193811) <a href="https://doi.org/10.3390/ma18173989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18173989" target="_blank">10.3390/ma18173989</a>
+<a href="https://www.mdpi.com/1996-1944/18/17/3989/pdf?version=1756193811" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18173989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18173989" target="_blank">10.3390/ma18173989</a>
 
 <a href="../../../author/yang_shuai"><b>Yang</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3031-5065" title="ORCID: 0000-0003-3031-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_fei"><b>Li</b>&nbsp;Fei</a></span>, <a href="../../../author/lu_ya"><b>Lu</b>&nbsp;Ya</a></span>, <a href="../../../author/xu_xiaoming"><b>Xu</b>&nbsp;Xiaoming</a></span>, <a href="../../../author/zhou_huajie"><b>Zhou</b>&nbsp;Huajie</a></span>, <a href="../../../author/zhou_lian"><b>Zhou</b>&nbsp;Lian</a></span>, <a href="../../../author/wei_yongkang"><b>Wei</b>&nbsp;Yongkang</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 17, No. 3989
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20of%20the%20Printing%20Characteristics%20of%20a%203D%20Printing%20Solution%20for%20the%20Purpose%20of%20Process%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+of+the+printing+characteristics+of+a+3d+printing+solution+for+the+purpose+of+process+optimization&as_occt=title&as_sauthors=yang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015374773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001569959300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18173989" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -70,8 +71,9 @@ Journal Article - Materials, Vol. 18, Iss. 17, No. 3989
       <li><a href="../../../author/wang_qing"><b>Wang</b> Qing</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/li_jie"><b>Li</b> Jie</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_ren_li.2023.DRMfP3PCB/">Damage-Rheology Model for Predicting 3D Printed Concrete Buildability</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>
 

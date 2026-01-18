@@ -18,14 +18,15 @@ tags:
 
 #Additive Manufacturing for Civil Infrastructure Design and Construction&nbsp;([2018-06](date/2018/06))
 <div class="h1-like">Current State and Gaps</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/msec2018-6688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2018-6688" target="_blank">10.1115/msec2018-6688</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/msec2018-6688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2018-6688" target="_blank">10.1115/msec2018-6688</a>
 
 <a href="../../../author/bhardwaj_abhinav"><b>Bhardwaj</b>&nbsp;Abhinav</a></span>, <a href="../../../author/zou_na"><b>Zou</b>&nbsp;Na</a></span>, <a href="../../../author/pei_zhijian"><b>Pei</b>&nbsp;Zhijian</a></span><br>
 Contribution - Proceedings of the ASME 2018 International Manufacturing Science and Engineering Conference
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Civil%20Infrastructure%20Design%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+for+civil+infrastructure+design+and+construction&as_occt=title&as_sauthors=bhardwaj&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85055045298&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/msec2018-6688" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

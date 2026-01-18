@@ -23,14 +23,15 @@ tags:
 
 #Energy Efficient Multi-Robotic 3D Printing for Large-Scale Construction&nbsp;([2021-06](date/2021/06))
 <div class="h1-like">Could This Technique Contribute to Sustainability of Future Buildings?</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/msec2021-63787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2021-63787" target="_blank">10.1115/msec2021-63787</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/msec2021-63787" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/msec2021-63787" target="_blank">10.1115/msec2021-63787</a>
 
 <a href="../../../author/haghighi_azadeh"><b>Haghighi</b>&nbsp;Azadeh</a></span>, <a href="../../../author/mohammed_abdullah"><b>Mohammed</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8679-8049" title="ORCID: 0000-0001-8679-8049" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_lihui"><b>Wang</b>&nbsp;Lihui</a></span><br>
 Contribution - Manufacturing Processes; Manufacturing Systems; Nano/Micro/Meso Manufacturing; Quality and Reliability
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Energy%20Efficient%20Multi-Robotic%203D%20Printing%20for%20Large-Scale%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=energy+efficient+multi-robotic+3d+printing+for+large-scale+construction&as_occt=title&as_sauthors=haghighi&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112550443&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/msec2021-63787" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

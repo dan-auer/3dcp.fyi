@@ -8,7 +8,12 @@ search:
 
 # #penetration
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (13)</button></a> <a href="../../keyword/test"><button class="btn">#test (8)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/stress"><button class="btn">#stress (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/hassan_m"><b>Hassan</b> M.</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cane_hass_demo_keit.2026.FPToPCwaPD/">Fast Penetration Testing of Printable Concretes with a Portable Device:<br/>Robustness and Calibration</a></li>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../fasi_libr.2026.TPTfRiLAoSYSD3CPP/">Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process</a></li>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
   <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../fasi_libr.2025.TAISSYSMf3CP/">Towards Accurate In-Situ Static Yield Stress Measurement for 3D Concrete Printing:<br/>A Study on Novel Fast Penetration Test</a></li>

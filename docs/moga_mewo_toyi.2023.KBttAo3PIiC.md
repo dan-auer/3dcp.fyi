@@ -23,7 +23,7 @@ Contribution - Proceedings of 13th International Conference on Construction in t
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/empirical"><button class="btn">#empirical</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Key%20Barriers%20to%20the%20Adoption%20of%203D%20Printing%20Innovation%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=key+barriers+to+the+adoption+of+3d+printing+innovation+in+construction&as_occt=title&as_sauthors=mogaji&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

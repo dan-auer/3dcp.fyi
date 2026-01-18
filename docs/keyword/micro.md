@@ -8,6 +8,10 @@ search:
 
 # #micro
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (60)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (35)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (35)</button></a> <a href="../../keyword/property"><button class="btn">#property (21)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (20)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../shil_shil.2025.PBAo3PGRDMaLCA/">Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment</a></li>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC/">Evaluation and Optimization of 3D-Printed Concrete Based on Flowability Considering Printability and Micro-Pore Characteristics</a></li>

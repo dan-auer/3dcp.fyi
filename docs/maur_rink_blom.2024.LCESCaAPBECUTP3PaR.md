@@ -21,14 +21,15 @@ tags:
 ---
 
 #Low-Carbon Embodied, Self-Cleaning, and Air-Purifying Building Envelope Components Using TiO2 Photocatalysis, 3D Printing, and Recycling ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/coatings14091228) <a href="https://doi.org/10.3390/coatings14091228" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/coatings14091228" target="_blank">10.3390/coatings14091228</a>
+<a href="https://doi.org/10.3390/coatings14091228" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/coatings14091228" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/coatings14091228" target="_blank">10.3390/coatings14091228</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7458-1667" title="ORCID: 0000-0002-7458-1667" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maury-ramirez_anibal"><b>Maury-Ramírez</b>&nbsp;Aníbal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0139-2531" title="ORCID: 0000-0002-0139-2531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rinke_mario"><b>Rinke</b>&nbsp;Mario</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0510-8067" title="ORCID: 0000-0002-0510-8067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blom_johan"><b>Blom</b>&nbsp;Johan</a></span><br>
 Journal Article - Coatings, Vol. 14, Iss. 9, No. 1228
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/cleaning"><button class="btn">#cleaning</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/purity"><button class="btn">#purity</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Low-Carbon%20Embodied%2C%20Self-Cleaning%2C%20and%20Air-Purifying%20Building%20Envelope%20Components%20Using%20TiO2%20Photocatalysis%2C%203D%20Printing%2C%20and%20Recycling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=low-carbon+embodied%2C+self-cleaning%2C+and+air-purifying+building+envelope+components+using+tio2+photocatalysis%2C+3d+printing%2C+and+recycling&as_occt=title&as_sauthors=maury-ram%C3%ADrez&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205220129&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001326132700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/coatings14091228" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

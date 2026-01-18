@@ -8,6 +8,10 @@ search:
 
 # #masonry
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior (3)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kul_koca_alde_yld.2024.3POPAAMDfBMW/">3D Printable One-Part Alkali-Activated Mortar Derived from Brick-Masonry-Wastes</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>

@@ -20,14 +20,15 @@ tags:
 
 #Adaptive Tool-Path&nbsp;([2021-07](date/2021/07))
 <div class="h1-like">Enhanced Design and Process-Control for Robotic 3DCP</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://findresearcher.sdu.dk/ws/files/201701176/Breseghello_Naboni_Adaptive_Toolpath_...ol_for_Robotic_3DCP_camera_ready.pdf) <a href="https://doi.org/10.1007/978-981-19-1280-1_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-1280-1_19" target="_blank">10.1007/978-981-19-1280-1_19</a>
+<a href="https://findresearcher.sdu.dk/ws/files/201701176/Breseghello_Naboni_Adaptive_Toolpath_...ol_for_Robotic_3DCP_camera_ready.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-19-1280-1_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-1280-1_19" target="_blank">10.1007/978-981-19-1280-1_19</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span><br>
 Contribution - Proceedings of the 19th International Conference on Computer-Aided Architectural Design Futures, pp. 301-316
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Tool-Path" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adaptive+tool-path&as_occt=title&as_sauthors=breseghello&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127684916&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000787752600019" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-19-1280-1_19" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

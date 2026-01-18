@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical and Early Long-Term Property Assessment of Foamed 3D-Printable Geopolymer Composite ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/12/2837/pdf?version=1750076929) <a href="https://doi.org/10.3390/ma18122837" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18122837" target="_blank">10.3390/ma18122837</a>
+<a href="https://www.mdpi.com/1996-1944/18/12/2837/pdf?version=1750076929" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18122837" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18122837" target="_blank">10.3390/ma18122837</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4280-0025" title="ORCID: 0000-0003-4280-0025" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gailitis_rihards"><b>Gailitis</b>&nbsp;Rihards</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8469-4828" title="ORCID: 0000-0001-8469-4828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/radina_liga"><b>Radina</b>&nbsp;Liga</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8367-7927" title="ORCID: 0000-0002-8367-7927" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pakrastins_leonids"><b>Pakrastins</b>&nbsp;Leonids</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3993-0873" title="ORCID: 0000-0003-3993-0873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sprince_andina"><b>Sprince</b>&nbsp;Andina</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 12
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/length"><button class="btn">#length</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/term"><button class="btn">#term</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Early%20Long-Term%20Property%20Assessment%20of%20Foamed%203D-Printable%20Geopolymer%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+early+long-term+property+assessment+of+foamed+3d-printable+geopolymer+composite&as_occt=title&as_sauthors=gailitis&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009002175&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001515979400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18122837" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

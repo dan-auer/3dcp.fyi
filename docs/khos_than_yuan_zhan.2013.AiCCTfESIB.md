@@ -16,14 +16,15 @@ tags:
 ---
 
 #Advances in Contour Crafting Technology for Extraterrestrial Settlement Infrastructure Buildup ([2013-09](date/2013/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2013-5438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2013-5438" target="_blank">10.2514/6.2013-5438</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2013-5438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2013-5438" target="_blank">10.2514/6.2013-5438</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/thangavelu_madhu"><b>Thangavelu</b>&nbsp;Madhu</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span><br>
 Contribution - Proceedings of AIAA SPACE 2013 Conference and Exposition
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/buildup"><button class="btn">#buildup</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Contour%20Crafting%20Technology%20for%20Extraterrestrial%20Settlement%20Infrastructure%20Buildup" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advances+in+contour+crafting+technology+for+extraterrestrial+settlement+infrastructure+buildup&as_occt=title&as_sauthors=khoshnevis&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2013-5438" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

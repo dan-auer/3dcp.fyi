@@ -18,14 +18,15 @@ tags:
 ---
 
 #Evaluation of Permanent 3D Printed Formwork of a Bridge Pier Using Non-Destructive Testing Methods ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2025.142708) <a href="https://doi.org/10.1016/j.conbuildmat.2025.142708" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142708" target="_blank">10.1016/j.conbuildmat.2025.142708</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2025.142708" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142708" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142708" target="_blank">10.1016/j.conbuildmat.2025.142708</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shiotani_tomoki"><b>Shiotani</b>&nbsp;Tomoki</a></span>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b>&nbsp;Hisafumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <a href="../../../author/okude_nobuhiro"><b>Okude</b>&nbsp;Nobuhiro</a></span>, <a href="../../../author/artur_sagradyan"><b>Artur</b>&nbsp;Sagradyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_tetsuya"><b>Ishida</b>&nbsp;Tetsuya</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 491, No. 142708
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Permanent%203D%20Printed%20Formwork%20of%20a%20Bridge%20Pier%20Using%20Non-Destructive%20Testing%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+permanent+3d+printed+formwork+of+a+bridge+pier+using+non-destructive+testing+methods&as_occt=title&as_sauthors=shiotani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010566427&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001533593700005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142708" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

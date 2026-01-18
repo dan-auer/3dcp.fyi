@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of Additive for Concrete 3D Printer by Using Local Materials ([2023-03](date/2023/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-6368-3_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-6368-3_8" target="_blank">10.1007/978-981-99-6368-3_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-6368-3_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-6368-3_8" target="_blank">10.1007/978-981-99-6368-3_8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6932-6944" title="ORCID: 0000-0002-6932-6944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b>&nbsp;Mohsin</a></span>, <a href="../../../author/shiwazi_amira"><b>al&nbsp;Shiwazi</b>&nbsp;Amira</a></span>, <a href="../../../author/kindi_ghassan"><b>al&nbsp;Kindi</b>&nbsp;Ghassan</a></span>, <a href="../../../author/sawafi_bushra"><b>al&nbsp;Sawafi</b>&nbsp;Bushra</a></span>, <a href="../../../author/balushi_usman_yousuf"><b>al&nbsp;Balushi</b>&nbsp;Yousuf</a></span><br>
 Contribution - Proceedings of the 3rd International Civil Engineering and Architecture Conference, pp. 81-89
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Additive%20for%20Concrete%203D%20Printer%20by%20Using%20Local%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+additive+for+concrete+3d+printer+by+using+local+materials&as_occt=title&as_sauthors=qureshi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185847745&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001558394500008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-6368-3_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

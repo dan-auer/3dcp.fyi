@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical Properties of Lightweight Cementitious Cellular Composites Incorporating Micro-Encapsulated Phase-Change-Material ([2021-12](date/2021/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/24/7586/pdf?version=1639134747) <a href="https://doi.org/10.3390/ma14247586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14247586" target="_blank">10.3390/ma14247586</a>
+<a href="https://www.mdpi.com/1996-1944/14/24/7586/pdf?version=1639134747" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14247586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14247586" target="_blank">10.3390/ma14247586</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3674-0153" title="ORCID: 0000-0002-3674-0153" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_zixia"><b>Wu</b>&nbsp;Zixia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 24
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Lightweight%20Cementitious%20Cellular%20Composites%20Incorporating%20Micro-Encapsulated%20Phase-Change-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+lightweight+cementitious+cellular+composites+incorporating+micro-encapsulated+phase-change-material&as_occt=title&as_sauthors=wu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121263597&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000738363700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14247586" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Intelligent Prediction of Dynamic Yield-Stress in 3D Printing Concrete Based on Machine Learning ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://madison-proceedings.com/index.php/aetr/article/download/1397/1393) <a href="https://doi.org/10.56028/aetr.6.1.468.2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.56028/aetr.6.1.468.2023" target="_blank">10.56028/aetr.6.1.468.2023</a>
+<a href="https://madison-proceedings.com/index.php/aetr/article/download/1397/1393" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.56028/aetr.6.1.468.2023" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.56028/aetr.6.1.468.2023" target="_blank">10.56028/aetr.6.1.468.2023</a>
 
 <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/fu_junen"><b>Fu</b>&nbsp;Junen</a></span>, <a href="../../../author/yang_wenya"><b>Yang</b>&nbsp;Wenya</a></span>, <a href="../../../author/he_huanzhou"><b>He</b>&nbsp;Huanzhou</a></span>, <a href="../../../author/ren_qiubing"><b>Ren</b>&nbsp;Qiubing</a></span>, <a href="../../../author/luo_chuanglian"><b>Luo</b>&nbsp;Chuanglian</a></span><br>
 Journal Article - Advances in Engineering Technology Research, Vol. 6, Iss. 1, No. 468
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Intelligent%20Prediction%20of%20Dynamic%20Yield-Stress%20in%203D%20Printing%20Concrete%20Based%20on%20Machine%20Learning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=intelligent+prediction+of+dynamic+yield-stress+in+3d+printing+concrete+based+on+machine+learning&as_occt=title&as_sauthors=geng&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.56028/aetr.6.1.468.2023" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

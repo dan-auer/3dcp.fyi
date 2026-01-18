@@ -21,14 +21,15 @@ tags:
 ---
 
 #Impact of Pre-Soaked Lime-Water-Carbonized Recycled Fine Aggregate on Mechanical Properties and Pore-Structure of 3D Printed Mortar ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109190" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109190" target="_blank">10.1016/j.jobe.2024.109190</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109190" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109190" target="_blank">10.1016/j.jobe.2024.109190</a>
 
 <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <a href="../../../author/zhang_yaqi"><b>Zhang</b>&nbsp;Yaqi</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhang_meixiang"><b>Zhang</b>&nbsp;Meixiang</a></span>, <a href="../../../author/tong_jiaqi"><b>Tong</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/guo_shuqi"><b>Guo</b>&nbsp;Shuqi</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109190
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/lime"><button class="btn">#lime</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Pre-Soaked%20Lime-Water-Carbonized%20Recycled%20Fine%20Aggregate%20on%20Mechanical%20Properties%20and%20Pore-Structure%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+pre-soaked+lime-water-carbonized+recycled+fine+aggregate+on+mechanical+properties+and+pore-structure+of+3d+printed+mortar&as_occt=title&as_sauthors=ding&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190319987&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001230790600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109190" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

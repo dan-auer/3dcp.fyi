@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effects of Modifying-Agent on Rheology and Workability of Alkali-Activated Slag-Paste for 3D Extrusion-Forming ([2021-07](date/2021/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" target="_blank">10.1016/j.conbuildmat.2021.124062</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124062" target="_blank">10.1016/j.conbuildmat.2021.124062</a>
 
 <a href="../../../author/lv_xuesen"><b>Lv</b>&nbsp;Xuesen</a></span>, <a href="../../../author/qin_yao"><b>Qin</b>&nbsp;Yao</a></span>, <a href="../../../author/liang_hang"><b>Liang</b>&nbsp;Hang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1818-8470" title="ORCID: 0000-0003-1818-8470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_xuemin"><b>Cui</b>&nbsp;Xuemin</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 302
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Modifying-Agent%20on%20Rheology%20and%20Workability%20of%20Alkali-Activated%20Slag-Paste%20for%203D%20Extrusion-Forming" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+modifying-agent+on+rheology+and+workability+of+alkali-activated+slag-paste+for+3d+extrusion-forming&as_occt=title&as_sauthors=lv&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85111252110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000691816200004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.124062" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

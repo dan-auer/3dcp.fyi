@@ -19,14 +19,15 @@ tags:
 ---
 
 #An Overview on the Rheology, Mechanical Properties, Durability, 3D Printing, and Microstructural Performance of Nanomaterials in Cementitious Composites ([2021-05](date/2021/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/11/2950/pdf?version=1622643618) <a href="https://doi.org/10.3390/ma14112950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14112950" target="_blank">10.3390/ma14112950</a>
+<a href="https://www.mdpi.com/1996-1944/14/11/2950/pdf?version=1622643618" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14112950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14112950" target="_blank">10.3390/ma14112950</a>
 
 <a href="../../../author/song_hongwei"><b>Song</b>&nbsp;Hongwei</a></span>, <a href="../../../author/li_xinle"><b>Li</b>&nbsp;Xinle</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 11
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Overview%20on%20the%20Rheology%2C%20Mechanical%20Properties%2C%20Durability%2C%203D%20Printing%2C%20and%20Microstructural%20Performance%20of%20Nanomaterials%20in%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+overview+on+the+rheology%2C+mechanical+properties%2C+durability%2C+3d+printing%2C+and+microstructural+performance+of+nanomaterials+in+cementitious+composites&as_occt=title&as_sauthors=song&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108554585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000660274500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14112950" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

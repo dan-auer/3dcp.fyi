@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Novel Large-Scale 3D Printing Apparatus for Complex Geological Models and Its Application ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00603-025-04598-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00603-025-04598-2" target="_blank">10.1007/s00603-025-04598-2</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00603-025-04598-2" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00603-025-04598-2" target="_blank">10.1007/s00603-025-04598-2</a>
 
 <a href="../../../author/mei_shiming"><b>Mei</b>&nbsp;Shiming</a></span>, <a href="../../../author/li_zheng-wei"><b>Li</b>&nbsp;Zheng-Wei</a></span>, <a href="../../../author/he_guo_ben"><b>He</b>&nbsp;Ben</a></span>, <a href="../../../author/song_jiaqi"><b>Song</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/zhang_mingyu"><b>Zhang</b>&nbsp;Mingyu</a></span>, <a href="../../../author/zhang_wei"><b>Zhang</b>&nbsp;Wei</a></span><br>
 Journal Article - Rock Mechanics and Rock Engineering
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Large-Scale%203D%20Printing%20Apparatus%20for%20Complex%20Geological%20Models%20and%20Its%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+novel+large-scale+3d+printing+apparatus+for+complex+geological+models+and+its+application&as_occt=title&as_sauthors=mei&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005549871&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001490532100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00603-025-04598-2" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

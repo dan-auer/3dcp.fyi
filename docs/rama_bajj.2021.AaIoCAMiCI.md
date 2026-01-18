@@ -19,14 +19,15 @@ tags:
 
 #Applicability and Integration of Concrete Additive Manufacturing in Construction Industry&nbsp;([2021-01](date/2021/01))
 <div class="h1-like">A Case Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/0954405420986102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0954405420986102" target="_blank">10.1177/0954405420986102</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/0954405420986102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/0954405420986102" target="_blank">10.1177/0954405420986102</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4327-5736" title="ORCID: 0000-0003-4327-5736" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramadany_mohamed"><b>Ramadany</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8551-913X" title="ORCID: 0000-0002-8551-913X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajjou_saad_mohamed"><b>Bajjou</b>&nbsp;Mohamed</a></span><br>
 Journal Article - Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, Vol. 235, Iss. 8, pp. 1338-1348
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Applicability%20and%20Integration%20of%20Concrete%20Additive%20Manufacturing%20in%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=applicability+and+integration+of+concrete+additive+manufacturing+in+construction+industry&as_occt=title&as_sauthors=ramadany&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100552956&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000648403500006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/0954405420986102" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Investigation of Low-Carbon 3D Printed Concrete ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.trpro.2023.11.550) <a href="https://doi.org/10.1016/j.trpro.2023.11.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.trpro.2023.11.550" target="_blank">10.1016/j.trpro.2023.11.550</a>
+<a href="https://doi.org/10.1016/j.trpro.2023.11.550" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.trpro.2023.11.550" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.trpro.2023.11.550" target="_blank">10.1016/j.trpro.2023.11.550</a>
 
 <a href="../../../author/natanzi_s_atteyeh"><b>Natanzi</b>&nbsp;Atteyeh</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2159-2634" title="ORCID: 0000-0003-2159-2634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mcnally_ciaran"><b>McNally</b>&nbsp;Ciaran</a></span><br>
 Journal Article - Transportation Research Procedia, Vol. 72, pp. 3696-3702
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20of%20Low-Carbon%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+investigation+of+low-carbon+3d+printed+concrete&as_occt=title&as_sauthors=natanzi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182939066&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.trpro.2023.11.550" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #3DCP.fyi&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A Comprehensive Citation Network Graph on the State of the Art in 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_62" target="_blank">10.1007/978-3-031-70031-6_62</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_62" target="_blank">10.1007/978-3-031-70031-6_62</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9701-7807" title="ORCID: 0000-0002-9701-7807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auer_daniel"><b>Auer</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0528-5634" title="ORCID: 0000-0003-0528-5634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fischer_oliver"><b>Fischer</b>&nbsp;Oliver</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 533-538
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/citation"><button class="btn">#citation</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/graph"><button class="btn">#graph</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3DCP.fyi" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3dcp.fyi&as_occt=title&as_sauthors=auer&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203065130&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600062" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_62" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 
 #Cadenza&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">3D Printed Formwork for a Free-Form Stair</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-68275-9_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68275-9_42" target="_blank">10.1007/978-3-031-68275-9_42</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-68275-9_42" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-68275-9_42" target="_blank">10.1007/978-3-031-68275-9_42</a>
 
 <a href="../../../author/chousou_georgia"><b>Chousou</b>&nbsp;Georgia</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8864-9751" title="ORCID: 0009-0003-8864-9751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoo_angela"><b>Yoo</b>&nbsp;Angela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2607-2331" title="ORCID: 0000-0002-2607-2331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jipa_mihail-andrei"><b>Jipa</b>&nbsp;Mihail-Andrei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Contribution - Scalable Disruptors, pp. 520-532
 
 <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stair"><button class="btn">#stair</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cadenza" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cadenza&as_occt=title&as_sauthors=chousou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-68275-9_42" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

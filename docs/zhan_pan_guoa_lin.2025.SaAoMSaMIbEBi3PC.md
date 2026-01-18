@@ -20,14 +20,15 @@ tags:
 ---
 
 #Simulation and Analysis of Material Stacking and Migration Induced by Extrusion Behavior in 3D Printed Concrete ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04605) <a href="https://doi.org/10.1016/j.cscm.2025.e04605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04605" target="_blank">10.1016/j.cscm.2025.e04605</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04605" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04605" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04605" target="_blank">10.1016/j.cscm.2025.e04605</a>
 
 <a href="../../../author/zhang_ziqi"><b>Zhang</b>&nbsp;Ziqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/guoa_rongxin"><b>Guoa</b>&nbsp;Rongxin</a></span>, <a href="../../../author/lin_runsheng"><b>Lin</b>&nbsp;Runsheng</a></span>, <a href="../../../author/fu_chaoshu"><b>Fu</b>&nbsp;Chaoshu</a></span>, <a href="../../../author/luo_zhiqiang"><b>Luo</b>&nbsp;Zhiqiang</a></span>, <a href="../../../author/guan_dian"><b>Guan</b>&nbsp;Dian</a></span>, <a href="../../../author/li_xiang"><b>Li</b>&nbsp;Xiang</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04605
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/migration"><button class="btn">#migration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/stack"><button class="btn">#stack</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simulation%20and%20Analysis%20of%20Material%20Stacking%20and%20Migration%20Induced%20by%20Extrusion%20Behavior%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simulation+and+analysis+of+material+stacking+and+migration+induced+by+extrusion+behavior+in+3d+printed+concrete&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001819845&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001463951000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04605" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

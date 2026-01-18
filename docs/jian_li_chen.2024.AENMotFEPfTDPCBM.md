@@ -20,14 +20,15 @@ tags:
 ---
 
 #An Extended Numerical Model of the First Exothermic Peak for Three Dimensional Printed Cement-Based Materials ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s11709-024-1036-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1036-8" target="_blank">10.1007/s11709-024-1036-8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s11709-024-1036-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s11709-024-1036-8" target="_blank">10.1007/s11709-024-1036-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6815-7432" title="ORCID: 0000-0001-6815-7432" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_wei"><b>Jiang</b>&nbsp;Wei</a></span>, <a href="../../../author/li_wenqian"><b>Li</b>&nbsp;Wenqian</a></span>, <a href="../../../author/chen_xi"><b>Chen</b>&nbsp;Xi</a></span><br>
 Journal Article - Frontiers of Structural and Civil Engineering
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/peak"><button class="btn">#peak</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Extended%20Numerical%20Model%20of%20the%20First%20Exothermic%20Peak%20for%20Three%20Dimensional%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+extended+numerical+model+of+the+first+exothermic+peak+for+three+dimensional+printed+cement-based+materials&as_occt=title&as_sauthors=jiang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192564585&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001221023000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s11709-024-1036-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

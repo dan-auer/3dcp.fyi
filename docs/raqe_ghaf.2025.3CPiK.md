@@ -18,14 +18,15 @@ tags:
 
 #3D Concrete Printing in Kuwait&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">Stakeholder Insights for Sustainable Waste Management Solutions</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su17010200) <a href="https://doi.org/10.3390/su17010200" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su17010200" target="_blank">10.3390/su17010200</a>
+<a href="https://doi.org/10.3390/su17010200" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su17010200" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su17010200" target="_blank">10.3390/su17010200</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9761-4433" title="ORCID: 0000-0002-9761-4433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raqeb_hanan"><b>al&nbsp;Raqeb</b>&nbsp;Hanan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span><br>
 Journal Article - Sustainability, Vol. 17, Iss. 1, No. 200
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20in%20Kuwait" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+in+kuwait&as_occt=title&as_sauthors=raqeb&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214523247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001393873700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su17010200" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

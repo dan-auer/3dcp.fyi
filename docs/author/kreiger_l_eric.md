@@ -9,6 +9,60 @@ search:
 
 #  Kreiger Eric 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6160-9448" target="_blank">0000-0002-6160-9448</a>
+
+    First Contribution
+    : 2019-04-06
+    
+    Last Contribution
+    : 2024-11-20
+
+    Number Contributions
+    : 20
+
+    Number Citations
+    : 588
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> (11)</li>
+        <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a> (4)</li>
+        <li><a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> (4)</li>
+        <li><a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> (3)</li>
+        <li><a href="../../../author/masud_arif"><b>Masud</b> Arif</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a> (194)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (39)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (39)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (36)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (40)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (31)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (25)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (19)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (18)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gomaa_shady"><b>Gomaa</b> Shady</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/rosa_marrero_raul"><b>Rosa</b> Raul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../goma_iriz_ahme_rosa.2024.3PoUHPC/">3D Printing of Ultra-High-Performance Concrete:<br/>Shape Stability for Various Printing Systems</a></li>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../digg_krei_krei_negr.2024.CSotUoTAtEaACB/">Case Study on the Use of Thermographic Analysis to Evaluate an Additively Constructed Building</a></li>

@@ -17,14 +17,15 @@ tags:
 
 #3D Printed Artificial Coral Reefs&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">Design and Manufacture</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s44242-024-00056-4) <a href="https://doi.org/10.1007/s44242-024-00056-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44242-024-00056-4" target="_blank">10.1007/s44242-024-00056-4</a>
+<a href="https://doi.org/10.1007/s44242-024-00056-4" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44242-024-00056-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44242-024-00056-4" target="_blank">10.1007/s44242-024-00056-4</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8377-214X" title="ORCID: 0000-0002-8377-214X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yi_jie"><b>Huang</b>&nbsp;Jie</a></span><br>
 Journal Article - Low-Carbon Materials and Green Construction, Vol. 2, Iss. 1
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/coral"><button class="btn">#coral</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Artificial%20Coral%20Reefs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+artificial+coral+reefs&as_occt=title&as_sauthors=pham&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003769298&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44242-024-00056-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

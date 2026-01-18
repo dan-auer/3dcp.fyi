@@ -9,6 +9,60 @@ search:
 
 #  Straßer Alexander 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0293-3392" target="_blank">0000-0003-0293-3392</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2024-09-12
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 49
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (8)</li>
+        <li><a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> (8)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (3)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (3)</li>
+        <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/baier_daniel"><b>Baier</b> Daniel</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/prottung_sophia"><b>Prottung</b> Sophia</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_baie_stra_prot.2020.RPBPbCotSPIMwWaAAM/">Reinforced Particle-Bed Printing by Combination of the Selective Paste-Intrusion Method with Wire and Arc Additive Manufacturing:<br/>A First Feasibility Study</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (24)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (23)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (17)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (15)</li>
+        <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (10)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (8)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (7)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/haynack_alexander"><b>Haynack</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../stra_hayn_kran_gehl.2024.AMbtSPI/">Additive Manufacturing by the Selective Paste-Intrusion:<br/>Effect of the Distance of the Print Nozzle to the Particle-Bed on the Print Quality</a></li>
   <li><a href="../../../author/krakovska_ema"><b>Krakovská</b> Ema</a>, <a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../krak_brie_stra_kran.2024.FHLCC/">Functionally Hybridised Lightweight Concrete Components:<br/>Monolithic Building Construction Using Selective Paste-Intrusion</a></li>

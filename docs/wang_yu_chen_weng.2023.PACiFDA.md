@@ -20,14 +20,15 @@ tags:
 
 #Promoting Additive Construction in Fast-Developing Areas&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100271) <a href="https://doi.org/10.1016/j.dibe.2023.100271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100271" target="_blank">10.1016/j.dibe.2023.100271</a>
+<a href="https://doi.org/10.1016/j.dibe.2023.100271" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2023.100271" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100271" target="_blank">10.1016/j.dibe.2023.100271</a>
 
 <a href="../../../author/wang_qiang-chen"><b>Wang</b>&nbsp;Qiang-Chen</a></span>, <a href="../../../author/yu_si-nan"><b>Yu</b>&nbsp;Si-Nan</a></span>, <a href="../../../author/chen_zi-xiao"><b>Chen</b>&nbsp;Zi-Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5637-1415" title="ORCID: 0000-0001-5637-1415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weng_yiwei"><b>Weng</b>&nbsp;Yiwei</a></span>, <a href="../../../author/yue_jin"><b>Yue</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9433-4033" title="ORCID: 0000-0001-9433-4033" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuan"><b>Liu</b>&nbsp;Xuan</a></span><br>
 Journal Article - Developments in the Built Environment, No. 100271
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/fast"><button class="btn">#fast</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/promotion"><button class="btn">#promotion</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Promoting%20Additive%20Construction%20in%20Fast-Developing%20Areas" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=promoting+additive+construction+in+fast-developing+areas&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179626933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001126045900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2023.100271" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Adding Glass-Fibers to 3D Printable Mortar&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Effects on Printability and Material-Anisotropy</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/9/2295/pdf?version=1694240386) <a href="https://doi.org/10.3390/buildings13092295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092295" target="_blank">10.3390/buildings13092295</a>
+<a href="https://www.mdpi.com/2075-5309/13/9/2295/pdf?version=1694240386" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13092295" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13092295" target="_blank">10.3390/buildings13092295</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7563-5364" title="ORCID: 0000-0002-7563-5364" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_gu_leo"><b>Li</b>&nbsp;Leo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3237-9188" title="ORCID: 0000-0002-3237-9188" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_bofeng"><b>Xiao</b>&nbsp;Bofeng</a></span>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b>&nbsp;Cong-Mi</a></span>, <a href="../../../author/xie_hui-zhu"><b>Xie</b>&nbsp;Hui-Zhu</a></span>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b>&nbsp;Albert</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 9, No. 2295
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adding%20Glass-Fibers%20to%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adding+glass-fibers+to+3d+printable+mortar&as_occt=title&as_sauthors=li&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172787602&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001077275500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13092295" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

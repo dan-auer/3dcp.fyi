@@ -16,14 +16,15 @@ tags:
 
 #Progress and Prospects of 3D and 4D Printing in Sustainable Development&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A Scientometric Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tem.2024.3452952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tem.2024.3452952" target="_blank">10.1109/tem.2024.3452952</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/tem.2024.3452952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tem.2024.3452952" target="_blank">10.1109/tem.2024.3452952</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8196-5503" title="ORCID: 0000-0002-8196-5503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sood_kumar_sandeep"><b>Sood</b>&nbsp;Sandeep</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-4042-3846" title="ORCID: 0009-0005-4042-3846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lamba_singh_yogveer"><b>Lamba</b>&nbsp;Yogveer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8053-5050" title="ORCID: 0000-0002-8053-5050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/singh_kumar_ashutosh"><b>Singh</b>&nbsp;Ashutosh</a></span><br>
 Journal Article - IEEE Transactions on Engineering Management, pp. 1-11
 
 <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Progress%20and%20Prospects%20of%203D%20and%204D%20Printing%20in%20Sustainable%20Development" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=progress+and+prospects+of+3d+and+4d+printing+in+sustainable+development&as_occt=title&as_sauthors=sood&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203547417&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313343000003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/tem.2024.3452952" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

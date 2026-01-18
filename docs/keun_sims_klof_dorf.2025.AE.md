@@ -16,14 +16,15 @@ tags:
 
 #AMC Edu&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Lab Design to Learn About Additive Manufacturing in Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dl.acm.org/doi/pdf/10.1145/3713043.3728843) <a href="https://doi.org/10.1145/3713043.3728843" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3713043.3728843" target="_blank">10.1145/3713043.3728843</a>
+<a href="https://dl.acm.org/doi/pdf/10.1145/3713043.3728843" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1145/3713043.3728843" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1145/3713043.3728843" target="_blank">10.1145/3713043.3728843</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1985-2313" title="ORCID: 0000-0002-1985-2313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keune_anna"><b>Keune</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-1688-3956" title="ORCID: 0009-0009-1688-3956" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/simsic_ziva"><b>Simšič</b>&nbsp;Živa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span><br>
 Contribution - Proceedings of the 24th Interaction Design and Children, pp. 565-574
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=AMC%20Edu" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=amc+edu&as_occt=title&as_sauthors=keune&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010307160&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001543444600036" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1145/3713043.3728843" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

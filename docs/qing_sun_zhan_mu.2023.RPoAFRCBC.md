@@ -17,14 +17,15 @@ tags:
 ---
 
 #Research Progress on Aligned Fiber-Reinforced Cement-Based Composites ([2022-12](date/2022/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129578" target="_blank">10.1016/j.conbuildmat.2022.129578</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.129578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129578" target="_blank">10.1016/j.conbuildmat.2022.129578</a>
 
 <a href="../../../author/qing_longbang"><b>Qing</b>&nbsp;Longbang</a></span>, <a href="../../../author/sun_honglei"><b>Sun</b>&nbsp;Honglei</a></span>, <a href="../../../author/zhang_yuebo"><b>Zhang</b>&nbsp;Yuebo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1534-444X" title="ORCID: 0000-0003-1534-444X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mu_ru"><b>Mu</b>&nbsp;Ru</a></span>, <a href="../../../author/bi_mengdi"><b>Bi</b>&nbsp;Mengdi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 363
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20Progress%20on%20Aligned%20Fiber-Reinforced%20Cement-Based%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+progress+on+aligned+fiber-reinforced+cement-based+composites&as_occt=title&as_sauthors=qing&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143546571&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000897436100005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129578" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

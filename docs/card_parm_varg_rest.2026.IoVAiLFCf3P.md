@@ -19,14 +19,15 @@ tags:
 
 #Incorporation of Vitrified Ashes in Lightweight Foamed Concrete for 3D Printing&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">Thermal and Mechanical Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_31" target="_blank">10.1007/978-981-95-1822-7_31</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_31" target="_blank">10.1007/978-981-95-1822-7_31</a>
 
 <a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b>&nbsp;Valeria</a></span>, <a href="../../../author/parmigiani_silvia"><b>Parmigiani</b>&nbsp;Silvia</a></span>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b>&nbsp;Juan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/restuccia_luciana"><b>Restuccia</b>&nbsp;Luciana</a></span>, <a href="../../../author/fabrizio_enrico"><b>Fabrizio</b>&nbsp;Enrico</a></span>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b>&nbsp;Stefano</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 295-303
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Incorporation%20of%20Vitrified%20Ashes%20in%20Lightweight%20Foamed%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=incorporation+of+vitrified+ashes+in+lightweight+foamed+concrete+for+3d+printing&as_occt=title&as_sauthors=c%C3%A1rdenas&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

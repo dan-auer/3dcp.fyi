@@ -8,6 +8,10 @@ search:
 
 # #advance
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (48)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (39)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (20)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (17)</button></a> <a href="../../keyword/material"><button class="btn">#material (17)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b> Juan</a>, <a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b> Ayla</a>, <a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b> Aloysious</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../buga_hajj_ssen_rang.2026.ACBaSCitIP/">Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula:<br/>Addressing the Potential of Timber Residues for 3D Printing</a></li>
   <li><a href="../../../author/athira_r"><b>Athira</b> R.</a>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b> Dhanya</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../athi_sath.2026.Ro3PAiGC/">Review of 3D Printing Advancements in Geopolymer Concrete:<br/>Current Challenges and Future Directions</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #girder
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization (4)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/stress"><button class="btn">#stress (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/pfleger_marc-patrick"><b>Pfleger</b> Marc-Patrick</a>, <a href="../../../author/sam_nina"><b>Sam</b> Nina</a>, <a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a>, <a href="../../../author/vill_markus"><b>Vill</b> Markus</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../pfle_sam_radl_vill.2024.DDDPaPoSOCGwITU3P/">Data-Driven Design-Process and Production of Stress-Optimized Concrete Girders with Integrated Tendons Using 3D Printing</a></li>
   <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a></li>

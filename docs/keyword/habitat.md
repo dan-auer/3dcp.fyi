@@ -8,6 +8,10 @@ search:
 
 # #habitat
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/design"><button class="btn">#design (6)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (5)</button></a> <a href="../../keyword/mars"><button class="btn">#mars (5)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
   <li><a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/sumini_valentina"><b>Sumini</b> Valentina</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_sumi_nabo.2024.ADaACoRSLH/">Automated Design and Additive Construction of Regolith-Shielded Lunar Habitats</a></li>

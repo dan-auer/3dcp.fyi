@@ -14,14 +14,15 @@ tags:
 ---
 
 #Felt-Concrete Composites in Architecture and Design ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/84/253) <a href="https://doi.org/10.52825/ocp.v1i.84" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.84" target="_blank">10.52825/ocp.v1i.84</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/84/253" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v1i.84" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.84" target="_blank">10.52825/ocp.v1i.84</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8488-2108" title="ORCID: 0000-0001-8488-2108" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/becker_mirco"><b>Becker</b>&nbsp;Mirco</a></span><br>
 Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, No. 115
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Felt-Concrete%20Composites%20in%20Architecture%20and%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=felt-concrete+composites+in+architecture+and+design&as_occt=title&as_sauthors=becker&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v1i.84" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

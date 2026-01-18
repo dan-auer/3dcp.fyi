@@ -19,14 +19,15 @@ tags:
 
 #Advancing Raw Earth Reinforcement for 3D Printed Architecture&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Durability-Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-71867-0_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-71867-0_40" target="_blank">10.1007/978-3-031-71867-0_40</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-71867-0_40" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-71867-0_40" target="_blank">10.1007/978-3-031-71867-0_40</a>
 
 <a href="../../../author/nashed-kabalan_ola"><b>Nashed Kabalan</b>&nbsp;Ola</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9114-1439" title="ORCID: 0000-0001-9114-1439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ciblac_thierry"><b>Ciblac</b>&nbsp;Thierry</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4048-1446" title="ORCID: 0000-0003-4048-1446" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marceau_sandrine"><b>Marceau</b>&nbsp;Sandrine</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5114-1351" title="ORCID: 0000-0002-5114-1351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roy_robert"><b>le&nbsp;Roy</b>&nbsp;Robert</a></span><br>
 Contribution - Proceedings of the 11th International Conference of Ar.Tec., pp. 592-603
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Raw%20Earth%20Reinforcement%20for%203D%20Printed%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+raw+earth+reinforcement+for+3d+printed+architecture&as_occt=title&as_sauthors=nashed+kabalan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209884122&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001416973300040" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-71867-0_40" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

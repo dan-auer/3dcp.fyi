@@ -14,14 +14,15 @@ tags:
 ---
 
 #Architectural Evaluation of 3D Printed Buildings ([2021-06](date/2021/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/11/6/254/pdf?version=1623738849) <a href="https://doi.org/10.3390/buildings11060254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings11060254" target="_blank">10.3390/buildings11060254</a>
+<a href="https://www.mdpi.com/2075-5309/11/6/254/pdf?version=1623738849" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings11060254" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings11060254" target="_blank">10.3390/buildings11060254</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b>&nbsp;Pablo</a></span><br>
 Journal Article - Buildings, Vol. 11, Iss. 6
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Architectural%20Evaluation%20of%203D%20Printed%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=architectural+evaluation+of+3d+printed+buildings&as_occt=title&as_sauthors=garc%C3%ADa-alvarado&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108738442&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000666791900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings11060254" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

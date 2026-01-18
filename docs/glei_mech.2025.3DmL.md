@@ -17,7 +17,7 @@ Contribution - Proceedings of the Earth Builder Summit 2025
 
 <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D-Druck%20mit%20Lehm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d-druck+mit+lehm&as_occt=title&as_sauthors=gleiser&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -9,6 +9,60 @@ search:
 
 #  Bong Shin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9187-8155" target="_blank">0000-0002-9187-8155</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2024-06-21
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 859
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (17)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (12)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (8)</li>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> (5)</li>
+        <li><a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a> (216)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (64)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (58)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (45)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (43)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (64)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (24)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (21)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (21)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (20)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bong_du.2024.SAMoCwLCM/">Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials</a></li>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>

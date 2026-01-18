@@ -26,7 +26,7 @@ Contribution - Proceedings of the 42nd Conference on Education and Research in C
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proof"><button class="btn">#proof</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20a%20Decentralized%20Physical%20Infrastructure%20for%20Additive%20Manufacturing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+a+decentralized+physical+infrastructure+for+additive+manufacturing+in+architecture&as_occt=title&as_sauthors=dounas&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

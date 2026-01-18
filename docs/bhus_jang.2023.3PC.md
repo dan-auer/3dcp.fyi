@@ -23,14 +23,15 @@ tags:
 
 #3D Printed Concrete&nbsp;([2023-05](date/2023/05))
 <div class="h1-like">A Comprehensive Review of Raw Material’s Properties, Synthesis, Performance, and Potential Field Applications</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" target="_blank">10.1016/j.conbuildmat.2023.131614</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131614" target="_blank">10.1016/j.conbuildmat.2023.131614</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2385-8539" title="ORCID: 0000-0003-2385-8539" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhushan-jindal_bharat"><b>Bhushan Jindal</b>&nbsp;Bharat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9896-0274" title="ORCID: 0000-0002-9896-0274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jangra_parveen"><b>Jangra</b>&nbsp;Parveen</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 387
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete&as_occt=title&as_sauthors=bhushan+jindal&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85158895132&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001008818400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.131614" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

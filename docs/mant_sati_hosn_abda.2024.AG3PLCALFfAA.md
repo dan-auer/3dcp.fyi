@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0163" target="_blank">10.22260/isarc2024/0163</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2024/0163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0163" target="_blank">10.22260/isarc2024/0163</a>
 
 <a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b>&nbsp;Bharadwaj</a></span>, <a href="../../../author/sati_ala"><b>Sati</b>&nbsp;Ala</a></span>, <a href="../../../author/hosny_fatma"><b>Hosny</b>&nbsp;Fatma</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4304-7234" title="ORCID: 0000-0002-4304-7234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_mohamed"><b>Abdallah</b>&nbsp;Mohamed</a></span>, <a href="../../../author/dabous_saleh"><b>abu&nbsp;Dabous</b>&nbsp;Saleh</a></span><br>
 Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Generic%203D%20Printing%20Life%20Cycle%20Assessment%20%28LCA%29%20Framework%20for%20AEC%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+generic+3d+printing+life+cycle+assessment+%28lca%29+framework+for+aec+applications&as_occt=title&as_sauthors=mantha&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199613679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2024/0163" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -62,8 +63,9 @@ Contribution - Proceedings of the 41st International Symposium on Automation and
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/norouzi_yasaman"><b>Norouzi</b> Yasaman</a>, <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../noro_dixi.2026.ARoAaCoUHf3PiC/">A Review of Advantages and Challenges of Using Hempcrete for 3D Printing in Construction</a></li>
     </ol>
 </div>
 

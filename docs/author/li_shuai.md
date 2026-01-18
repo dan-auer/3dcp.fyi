@@ -9,6 +9,60 @@ search:
 
 #  Li Shuai 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6079-4832" target="_blank">0000-0001-6079-4832</a>
+
+    First Contribution
+    : 2021-11-19
+    
+    Last Contribution
+    : 2025-10-24
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 262
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (11)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (5)</li>
+        <li><a href="../../../author/fox_kate"><b>Fox</b> Kate</a> (2)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
+        <li><a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a> (89)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (52)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (34)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (34)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (30)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (24)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (18)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (13)</li>
+        <li><a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> (11)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (10)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/corelli_jaide"><b>Corelli</b> Jaide</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/fan_linhua"><b>Fan</b> Linhua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_core_tran_fan.2025.3PCC/">3D Printable Cellulose Concrete:<br/>A Review and Pathway to Future Research</a></li>

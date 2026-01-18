@@ -18,14 +18,15 @@ tags:
 
 #Key Variables Influencing the Performance of 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">A Comprehensive Analysis</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92801-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_1" target="_blank">10.1007/978-3-031-92801-7_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-92801-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_1" target="_blank">10.1007/978-3-031-92801-7_1</a>
 
 <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b>&nbsp;Salim</a></span>, <a href="../../../author/das_busan_bibhuti"><b>Das</b>&nbsp;Bibhuti</a></span>, <a href="../../../author/adak_dibyendu"><b>Adak</b>&nbsp;Dibyendu</a></span><br>
 Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 3-32
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Key%20Variables%20Influencing%20the%20Performance%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=key+variables+influencing+the+performance+of+3d+printed+concrete&as_occt=title&as_sauthors=barbhuiya&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-92801-7_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

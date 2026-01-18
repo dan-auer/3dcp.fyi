@@ -9,6 +9,60 @@ search:
 
 #  Gantner Stefan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6756-8942" target="_blank">0000-0001-6756-8942</a>
+
+    First Contribution
+    : 2020-03-01
+    
+    Last Contribution
+    : 2025-05-09
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 154
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (12)</li>
+        <li><a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> (8)</li>
+        <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> (8)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (7)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/brohmann_leon"><b>Brohmann</b> Leon</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_mai_broh_gant.2020.I3CPI/">Injection 3D Concrete Printing (I3DCP):<br/>Basic Principles and Case Studies</a> (38)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (75)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (73)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (70)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (34)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (33)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (29)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (18)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (13)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (12)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (12)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/rennen_philipp"><b>Rennen</b> Philipp</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gant_renn_amir_roth.2025.RFW/">Robotic Frame Winding:<br/>Prefabricated Fiber Structures as Formwork and Reinforcement for Digitally Fabricated Shell-Like Concrete Elements</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>

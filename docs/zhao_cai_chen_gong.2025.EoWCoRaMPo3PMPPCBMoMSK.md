@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effect of Wollastonite-Content on Rheology and Mechanical Properties of 3D Printed Magnesium-Potassium-Phosphate-Cement-Based Material of MgO-SiO2-K2HPO4 ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" target="_blank">10.1016/j.conbuildmat.2024.139729</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139729" target="_blank">10.1016/j.conbuildmat.2024.139729</a>
 
 <a href="../../../author/zhao_zhihui"><b>Zhao</b>&nbsp;Zhihui</a></span>, <a href="../../../author/cai_xianhuan"><b>Cai</b>&nbsp;Xianhuan</a></span>, <a href="../../../author/chen_fan"><b>Chen</b>&nbsp;Fan</a></span>, <a href="../../../author/gong_yongfan"><b>Gong</b>&nbsp;Yongfan</a></span>, <a href="../../../author/xiao_peng"><b>Xiao</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3547-5407" title="ORCID: 0000-0002-3547-5407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_lingchao"><b>Lu</b>&nbsp;Lingchao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 458, No. 139729
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Wollastonite-Content%20on%20Rheology%20and%20Mechanical%20Properties%20of%203D%20Printed%20Magnesium-Potassium-Phosphate-Cement-Based%20Material%20of%20MgO-SiO2-K2HPO4" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+wollastonite-content+on+rheology+and+mechanical+properties+of+3d+printed+magnesium-potassium-phosphate-cement-based+material+of+mgo-sio2-k2hpo4&as_occt=title&as_sauthors=zhao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212934522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001400135300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139729" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

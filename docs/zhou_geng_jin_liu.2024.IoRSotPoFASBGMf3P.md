@@ -20,14 +20,15 @@ tags:
 ---
 
 #Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing ([2024-06](date/2024/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/12/2992/pdf?version=1718721947) <a href="https://doi.org/10.3390/ma17122992" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17122992" target="_blank">10.3390/ma17122992</a>
+<a href="https://www.mdpi.com/1996-1944/17/12/2992/pdf?version=1718721947" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17122992" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17122992" target="_blank">10.3390/ma17122992</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-0093-0763" title="ORCID: 0009-0005-0093-0763" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_zhijie"><b>Zhou</b>&nbsp;Zhijie</a></span>, <a href="../../../author/geng_jian"><b>Geng</b>&nbsp;Jian</a></span>, <a href="../../../author/jin_chen"><b>Jin</b>&nbsp;Chen</a></span>, <a href="../../../author/liu_genjin"><b>Liu</b>&nbsp;Genjin</a></span>, <a href="../../../author/xia_zhenjiang"><b>Xia</b>&nbsp;Zhenjiang</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 12
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/residual"><button class="btn">#residual</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Residue%20Soil%20on%20the%20Properties%20of%20Fly-Ash-Slag-Based%20Geopolymer%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+residue+soil+on+the+properties+of+fly-ash-slag-based+geopolymer+materials+for+3d+printing&as_occt=title&as_sauthors=zhou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197233358&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001256350800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17122992" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

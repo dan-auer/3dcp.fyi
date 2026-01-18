@@ -14,14 +14,15 @@ tags:
 ---
 
 #Research Status and Prospect of Machine Learning in Construction 3D Printing ([2023-02](date/2023/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01952) <a href="https://doi.org/10.1016/j.cscm.2023.e01952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01952" target="_blank">10.1016/j.cscm.2023.e01952</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e01952" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e01952" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01952" target="_blank">10.1016/j.cscm.2023.e01952</a>
 
 <a href="../../../author/geng_songyuan"><b>Geng</b>&nbsp;Songyuan</a></span>, <a href="../../../author/luo_qiling"><b>Luo</b>&nbsp;Qiling</a></span>, <a href="../../../author/liu_kun"><b>Liu</b>&nbsp;Kun</a></span>, <a href="../../../author/li_yunchao"><b>Li</b>&nbsp;Yunchao</a></span>, <a href="../../../author/hou_yuchen"><b>Hou</b>&nbsp;Yuchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4760-0009" title="ORCID: 0000-0002-4760-0009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_wujian"><b>Long</b>&nbsp;Wujian</a></span><br>
 Journal Article - Case Studies in Construction Materials
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20Status%20and%20Prospect%20of%20Machine%20Learning%20in%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+status+and+prospect+of+machine+learning+in+construction+3d+printing&as_occt=title&as_sauthors=geng&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149638481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000951369700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e01952" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

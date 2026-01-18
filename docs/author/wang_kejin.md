@@ -9,6 +9,60 @@ search:
 
 #  Wang Kejin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7466-3451" target="_blank">0000-0002-7466-3451</a>
+
+    First Contribution
+    : 2019-12-23
+    
+    Last Contribution
+    : 2025-10-05
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 122
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> (4)</li>
+        <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a> (4)</li>
+        <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> (3)</li>
+        <li><a href="../../../author/qin_hantang"><b>Qin</b> Hantang</a> (3)</li>
+        <li><a href="../../../author/sritharan_sri"><b>Sritharan</b> Sri</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/zhang_xiao"><b>Zhang</b> Xiao</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mani_wi_zhan_wang.2020.CCMfC3P/">Characterizing Cement Mixtures for Concrete 3D Printing</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (28)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (18)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (15)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lyu_wang_doyl_lafl.2025.G3PCCBaWWTBP/">Green 3D Printing Concrete Containing Biochar and Waste Wind Turbine Blade Powder</a></li>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/cardinali_amelia"><b>Cardinali</b> Amelia</a>, <a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lafl_card_lyu.2025.E3PCCwRCFfWTB/">Enhancing 3D-Printed Cementitious Composites with Recycled Carbon Fibers from Wind Turbine Blades</a></li>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Printability and Rheological Properties of 3D Printing Ultra-High Ductility Magnesium Phosphate Cement-Based Composites ([2025-12](date/2025/12))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" target="_blank">10.1016/j.jmrt.2025.11.161</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.11.161" target="_blank">10.1016/j.jmrt.2025.11.161</a>
 
 <a href="../../../author/feng_hu"><b>Feng</b>&nbsp;Hu</a></span>, <a href="../../../author/yuan_xiang"><b>Yuan</b>&nbsp;Xiang</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-1646-8543" title="ORCID: 0009-0001-1646-8543" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_zhenyu"><b>Yu</b>&nbsp;Zhenyu</a></span>, <a href="../../../author/guo_aofei"><b>Guo</b>&nbsp;Aofei</a></span>, <a href="../../../author/zheng_xuhui"><b>Zheng</b>&nbsp;Xuhui</a></span>, <a href="../../../author/huang_yuyang"><b>Huang</b>&nbsp;Yuyang</a></span>, <a href="../../../author/zhou_guosen"><b>Zhou</b>&nbsp;Guosen</a></span><br>
 Journal Article - Journal of Materials Research and Technology
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/ductility"><button class="btn">#ductility</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Rheological%20Properties%20of%203D%20Printing%20Ultra-High%20Ductility%20Magnesium%20Phosphate%20Cement-Based%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+and+rheological+properties+of+3d+printing+ultra-high+ductility+magnesium+phosphate+cement-based+composites&as_occt=title&as_sauthors=feng&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmrt.2025.11.161" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

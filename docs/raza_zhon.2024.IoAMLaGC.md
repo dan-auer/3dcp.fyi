@@ -18,14 +18,15 @@ tags:
 
 #Integration of Additive Manufacturing, Lean and Green Construction&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">A Conceptual Framework</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2024.06.018) <a href="https://doi.org/10.1016/j.procir.2024.06.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2024.06.018" target="_blank">10.1016/j.procir.2024.06.018</a>
+<a href="https://doi.org/10.1016/j.procir.2024.06.018" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.procir.2024.06.018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2024.06.018" target="_blank">10.1016/j.procir.2024.06.018</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
 Journal Article - Procedia CIRP, Vol. 128, pp. 180-185
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Additive%20Manufacturing%2C%20Lean%20and%20Green%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integration+of+additive+manufacturing%2C+lean+and+green+construction&as_occt=title&as_sauthors=raza&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208811580&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001502028600029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.procir.2024.06.018" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

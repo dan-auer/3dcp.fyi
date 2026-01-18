@@ -9,7 +9,62 @@ search:
 
 #  Sun Jingting 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2161-8216" target="_blank">0000-0003-2161-8216</a>
+
+    First Contribution
+    : 2021-03-30
+    
+    Last Contribution
+    : 2026-01-10
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 124
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (5)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (4)</li>
+        <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (4)</li>
+        <li><a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> (3)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a> (53)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (29)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (23)</li>
+        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (14)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (13)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> (10)</li>
+        <li><a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> (6)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (4)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (4)</li>
+        <li><a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/qi_deng"><b>Qi</b> Deng</a>, <a href="../../../author/abden_jaynul_md"><b>Abden</b> Md</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sing_sun_qi_abde.2026.EGPSf3PC/">Evaluating Glass Powder Substitution for 3D Printed Concrete:<br/>Effects on Thermal Properties and Embodied Carbon</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wei_jun"><b>Wei</b> Jun</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ding_wei_sun_feng.2026.ESoTPo3PCwRSaP/">Experimental Study on Thermal Properties of 3D Printed Concrete with Recycled Sand and Powder</a></li>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xing_sun.2025.HTCaCf3PWISGE/">Heat Transfer Calculation and Correction for 3D Printed Walls Incorporating Surface Geometry Effects</a></li>

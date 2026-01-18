@@ -8,6 +8,10 @@ search:
 
 # #irregularity
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/fabrication"><button class="btn">#fabrication (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/customization"><button class="btn">#customization (2)</button></a> <a href="../../keyword/shape"><button class="btn">#shape (2)</button></a> <a href="../../keyword/slab"><button class="btn">#slab (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a>, <a href="../../../author/dai_yuntong"><b>Dai</b> Yuntong</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ma_chen_dai_zhou.2025.MPo3PCISF/">Mechanical Properties of 3D Printed Concrete Irregular Structural Formwork:<br/>Experimental Study and Finite Element Analysis</a></li>
   <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ribe_mora_silv_bran.2024.R3FoCFSfIP/">Robotic 3DCP Fabrication of Custom-Fit Slabs for Irregular Pontoons</a></li>

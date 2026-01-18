@@ -18,14 +18,15 @@ tags:
 
 #Towards Smart Construction&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Development of an Automated Small Scale 3D Concrete Printer</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/scse65633.2025.11031018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/scse65633.2025.11031018" target="_blank">10.1109/scse65633.2025.11031018</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/scse65633.2025.11031018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/scse65633.2025.11031018" target="_blank">10.1109/scse65633.2025.11031018</a>
 
 <a href="../../../author/musathik_am_a"><b>Musathik</b>&nbsp;A.</a></span>, <a href="../../../author/ashfak_hm_m"><b>Ashfak</b>&nbsp;M.</a></span>, <a href="../../../author/arif_ama_m"><b>Arif</b>&nbsp;M.</a></span>, <a href="../../../author/samaraweera_gtd_b"><b>Samaraweera</b>&nbsp;B.</a></span>, <a href="../../../author/wijesinghe_mis_w"><b>Wijesinghe</b>&nbsp;W.</a></span>, <a href="../../../author/indrajith_akp_p"><b>Indrajith</b>&nbsp;P.</a></span>, <a href="../../../author/hirshan_r"><b>Hirshan</b>&nbsp;R.</a></span>, <a href="../../../author/jeyakaran_t"><b>Jeyakaran</b>&nbsp;T.</a></span>, <a href="../../../author/kumara_gcw_w"><b>Kumara</b>&nbsp;W.</a></span><br>
 Contribution - Proceedings of the 2025 International Research Conference on Smart Computing and Systems Engineering, pp. 1-7
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Smart%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+smart+construction&as_occt=title&as_sauthors=musathik&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009460208&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/scse65633.2025.11031018" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

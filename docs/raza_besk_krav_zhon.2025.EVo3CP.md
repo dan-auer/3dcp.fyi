@@ -18,14 +18,15 @@ tags:
 
 #Economic Viability of 3D Concrete Printing&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Comparative Study with Traditional Construction Method</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/104_Economic_Viability_of_3D_Concrete_Printing__A_Comparative_Study_with_Traditional_Construction_Method.pdf) <a href="https://doi.org/10.22260/isarc2025/0104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0104" target="_blank">10.22260/isarc2025/0104</a>
+<a href="https://www.iaarc.org/./publications/fulltext/104_Economic_Viability_of_3D_Concrete_Printing__A_Comparative_Study_with_Traditional_Construction_Method.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0104" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0104" target="_blank">10.22260/isarc2025/0104</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8935-5793" title="ORCID: 0000-0002-8935-5793" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b>&nbsp;Ekaterina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 797-804
 
 <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/economic"><button class="btn">#economic</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Economic%20Viability%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=economic+viability+of+3d+concrete+printing&as_occt=title&as_sauthors=raza&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016609217&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0104" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

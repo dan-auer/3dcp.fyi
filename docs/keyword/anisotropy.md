@@ -8,6 +8,10 @@ search:
 
 # #anisotropy
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (74)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (59)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (34)</button></a> <a href="../../keyword/property"><button class="btn">#property (25)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (20)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>

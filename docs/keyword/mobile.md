@@ -8,6 +8,10 @@ search:
 
 # #mobile
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (10)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (10)</button></a> <a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (5)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liang_jingwen"><b>Liang</b> Jingwen</a>, <a href="../../../author/zeng_zuo"><b>Zeng</b> Zuo</a>, <a href="../../../author/wang_penglin"><b>Wang</b> Penglin</a>, <a href="../../../author/wang_zhongxu"><b>Wang</b> Zhongxu</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lian_zeng_wang_wang.2025.ERM3PS/">Emergency Response Mobile 3D Printing System:<br/>A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</a></li>
   <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/leutenegger_stefan"><b>Leutenegger</b> Stefan</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dorf_diel_leut_jenn.2024.ACiEC/">Advancing Construction in Existing Contexts:<br/>Prospects and Barriers of 3D Printing with Mobile Robots for Building Maintenance and Repair</a></li>

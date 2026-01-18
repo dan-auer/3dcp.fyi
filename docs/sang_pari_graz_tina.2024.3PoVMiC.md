@@ -18,14 +18,15 @@ tags:
 
 #3D Printing of Viscous Materials in Construction&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">New Design Paradigm, from Small Components to Entire Structures</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-36922-3_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_30" target="_blank">10.1007/978-3-031-36922-3_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-36922-3_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_30" target="_blank">10.1007/978-3-031-36922-3_30</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6421-900X" title="ORCID: 0000-0001-6421-900X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_fabio"><b>Parisi</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3961-7721" title="ORCID: 0000-0003-3961-7721" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graziano_vito_angelo"><b>Graziano</b>&nbsp;Angelo</a></span>, <a href="../../../author/tina_giosmary"><b>Tina</b>&nbsp;Giosmary</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_nicola"><b>Parisi</b>&nbsp;Nicola</a></span><br>
 Contribution - Architecture and Design for Industry 4.0, pp. 521-537
 
 <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Viscous%20Materials%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+viscous+materials+in+construction&as_occt=title&as_sauthors=sangiorgio&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175197720&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-36922-3_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

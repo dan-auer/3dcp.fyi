@@ -20,14 +20,15 @@ tags:
 
 #Additive Manufacturing in Construction&nbsp;([2021-05](date/2021/05))
 <div class="h1-like">A Review on Technologies, Processes, Materials, and Their Applications of 3D and 4D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/mdp2.253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/mdp2.253" target="_blank">10.1002/mdp2.253</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/mdp2.253" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/mdp2.253" target="_blank">10.1002/mdp2.253</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0972-0587" title="ORCID: 0000-0002-0972-0587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pacillo_arcangelo_gerardo"><b>Pacillo</b>&nbsp;Gerardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9620-4870" title="ORCID: 0000-0002-9620-4870" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranocchiai_giovanna"><b>Ranocchiai</b>&nbsp;Giovanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1256-2620" title="ORCID: 0000-0002-1256-2620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/loccarini_federica"><b>Loccarini</b>&nbsp;Federica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9636-8544" title="ORCID: 0000-0001-9636-8544" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fagone_mario"><b>Fagone</b>&nbsp;Mario</a></span><br>
 Journal Article - Material Design & Processing Communications, Vol. 3, Iss. 5
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+in+construction&as_occt=title&as_sauthors=pacillo&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107196670&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/mdp2.253" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

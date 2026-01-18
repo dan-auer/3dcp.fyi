@@ -17,14 +17,15 @@ tags:
 ---
 
 #Research on the Mechanical Properties and Frost-Resistance of Aeolian Sand 3D Printed Mortar ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02332) <a href="https://doi.org/10.1016/j.cscm.2023.e02332" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02332" target="_blank">10.1016/j.cscm.2023.e02332</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e02332" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e02332" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02332" target="_blank">10.1016/j.cscm.2023.e02332</a>
 
 <a href="../../../author/wang_hao"><b>Wang</b>&nbsp;Hao</a></span>, <a href="../../../author/jiang_minghui"><b>Jiang</b>&nbsp;Minghui</a></span>, <a href="../../../author/hang_meiyan"><b>Hang</b>&nbsp;Meiyan</a></span>, <a href="../../../author/zhou_gangming"><b>Zhou</b>&nbsp;Gangming</a></span>, <a href="../../../author/sun_mengjie"><b>Sun</b>&nbsp;Mengjie</a></span>, <a href="../../../author/liu_xiangju"><b>Liu</b>&nbsp;Xiangju</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02332
 
 <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Mechanical%20Properties%20and%20Frost-Resistance%20of%20Aeolian%20Sand%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+the+mechanical+properties+and+frost-resistance+of+aeolian+sand+3d+printed+mortar&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166023256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001050743700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e02332" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

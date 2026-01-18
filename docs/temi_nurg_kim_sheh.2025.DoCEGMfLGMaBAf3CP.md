@@ -20,14 +20,15 @@ tags:
 ---
 
 #Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70093) <a href="https://doi.org/10.1002/suco.70093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70093" target="_blank">10.1002/suco.70093</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70093" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.70093" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70093" target="_blank">10.1002/suco.70093</a>
 
 <a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b>&nbsp;Bakbergen</a></span>, <a href="../../../author/nurgaliuly_dias"><b>Nurgaliuly</b>&nbsp;Dias</a></span>, <a href="../../../author/kim_r_j"><b>Kim</b>&nbsp;J.</a></span>, <a href="../../../author/shehab_essam"><b>Shehab</b>&nbsp;Essam</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Cost-Effective%20Geopolymer%20Mortars%20from%20Low-Grade%20Metakaolin%20and%20Bottom%20Ash%20for%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+cost-effective+geopolymer+mortars+from+low-grade+metakaolin+and+bottom+ash+for+3d+construction+printing&as_occt=title&as_sauthors=temirzakuly&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003130374&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001467959800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.70093" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

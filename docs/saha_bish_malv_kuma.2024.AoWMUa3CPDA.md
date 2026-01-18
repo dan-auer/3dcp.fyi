@@ -20,14 +20,15 @@ tags:
 
 #Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41403-024-00452-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41403-024-00452-z" target="_blank">10.1007/s41403-024-00452-z</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41403-024-00452-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41403-024-00452-z" target="_blank">10.1007/s41403-024-00452-z</a>
 
 <a href="../../../author/sahai_rajan"><b>Sahai</b>&nbsp;Rajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5833-3703" title="ORCID: 0000-0001-5833-3703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bisht_singh_ravindra"><b>Bisht</b>&nbsp;Ravindra</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-1636-7827" title="ORCID: 0009-0003-1636-7827" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b>&nbsp;Nitesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6206-6169" title="ORCID: 0000-0001-6206-6169" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kumar_shivam"><b>Kumar</b>&nbsp;Shivam</a></span>, <a href="../../../author/singh_siddharth"><b>Singh</b>&nbsp;Siddharth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8927-8302" title="ORCID: 0000-0002-8927-8302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b>&nbsp;Soraj</a></span><br>
 Journal Article - Transactions of the Indian National Academy of Engineering
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Aspects%20of%20Waste-Material-Utilization%20and%203D%20Concrete%20Printer%20Development-Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=aspects+of+waste-material-utilization+and+3d+concrete+printer+development-approach&as_occt=title&as_sauthors=sahai&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41403-024-00452-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

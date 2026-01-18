@@ -14,14 +14,15 @@ tags:
 ---
 
 #Process Chain Development for Additive Manufacturing of Cemented Carbide ([2018-06](date/2018/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jmapro.2018.05.036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmapro.2018.05.036" target="_blank">10.1016/j.jmapro.2018.05.036</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmapro.2018.05.036" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmapro.2018.05.036" target="_blank">10.1016/j.jmapro.2018.05.036</a>
 
 <a href="../../../author/kumar_sanjay"><b>Kumar</b>&nbsp;Sanjay</a></span><br>
 Journal Article - Journal of Manufacturing Processes, Vol. 34, pp. 121-130
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Process%20Chain%20Development%20for%20Additive%20Manufacturing%20of%20Cemented%20Carbide" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=process+chain+development+for+additive+manufacturing+of+cemented+carbide&as_occt=title&as_sauthors=kumar&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85048464086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000442172000012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmapro.2018.05.036" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

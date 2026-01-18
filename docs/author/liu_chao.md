@@ -9,7 +9,62 @@ search:
 
 #  Liu Chao 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8799-7100" target="_blank">0000-0002-8799-7100</a>
+
+    First Contribution
+    : 2021-06-30
+    
+    Last Contribution
+    : 2026-01-12
+
+    Number Contributions
+    : 33
+
+    Number Citations
+    : 1038
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (19)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (16)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (11)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (113)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (101)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (71)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (67)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (67)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (63)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (32)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (30)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (30)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (28)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a>, <a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC/">Effects of Pore Defects on Interfacial Bonding Between Rebar and 3D Printed Coarse Aggregate Concrete Under Multiple Loading Conditions</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
   <li><a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_ji_cui_shi.2025.RPoQCMoC3PBoCV/">Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision</a></li>
   <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>

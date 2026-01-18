@@ -8,7 +8,12 @@ search:
 
 # #content
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (16)</button></a> <a href="../../keyword/print"><button class="btn">#print (15)</button></a> <a href="../../keyword/property"><button class="btn">#property (14)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (12)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (11)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/costa_comerlato_gabriel"><b>Costa</b> Gabriel</a>, <a href="../../../author/maas_pyetra"><b>Maas</b> Pyetra</a>, <a href="../../../author/doerner_gabriel"><b>Doerner</b> Gabriel</a>, <a href="../../../author/nazario_samara"><b>Nazário</b> Samara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cost_maas_doer_naza.2026.RtCCi3CPMTPPRI/">Reducing the Cement Content in 3D Concrete Printing Mixtures Through Porcelain Polishing Residue Incorporation</a></li>
   <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
   <li><a href="../../../author/mani_aravindhraj"><b>Mani</b> Aravindhraj</a>, <a href="../../../author/sekar_kumar_muthu"><b>Sekar</b> Muthu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../mani_seka.2025.Ei3P/">Extrudability in 3D Printing:<br/>A Comprehensive Approach to S/C, W/C Ratios and Superplasticizer Content</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>

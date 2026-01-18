@@ -8,6 +8,10 @@ search:
 
 # #dynamic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (37)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (24)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (11)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (11)</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid (10)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a>, <a href="../../../author/norford_k_leslie"><b>Norford</b> Leslie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alva_curt_muel_norf.2026.EtDTPoWCTSO/">Enhancing the Dynamic Thermal Performance of Wall Components Through Shape Optimization:<br/>Method and Application to Extruded Blocks and 3D-Printed Walls</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>

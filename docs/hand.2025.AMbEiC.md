@@ -14,14 +14,15 @@ tags:
 ---
 
 #Additive Manufacturing by Extrusion in Ceramics ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-63471-0_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-63471-0_20" target="_blank">10.1007/978-3-031-63471-0_20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-63471-0_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-63471-0_20" target="_blank">10.1007/978-3-031-63471-0_20</a>
 
 <a href="../../../author/handle_frank"><b>Händle</b>&nbsp;Frank</a></span><br>
 Contribution - The Art of Ceramic Extrusion, pp. 161-182
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20by%20Extrusion%20in%20Ceramics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+by+extrusion+in+ceramics&as_occt=title&as_sauthors=h%C3%A4ndle&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-63471-0_20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

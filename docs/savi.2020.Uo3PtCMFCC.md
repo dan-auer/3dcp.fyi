@@ -20,14 +20,15 @@ tags:
 
 #Use of 3D Printing to Create Multi-Functional Cementitious Composites&nbsp;([2020-09](date/2020/09))
 <div class="h1-like">Review, Challenges and Opportunities</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://letters.rilem.net/index.php/rilem/article/download/113/110) <a href="https://doi.org/10.21809/rilemtechlett.2020.113" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2020.113" target="_blank">10.21809/rilemtechlett.2020.113</a>
+<a href="http://letters.rilem.net/index.php/rilem/article/download/113/110" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21809/rilemtechlett.2020.113" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2020.113" target="_blank">10.21809/rilemtechlett.2020.113</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
 Journal Article - RILEM Technical Letters, Vol. 5, pp. 17-25
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Use%20of%203D%20Printing%20to%20Create%20Multi-Functional%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=use+of+3d+printing+to+create+multi-functional+cementitious+composites&as_occt=title&as_sauthors=%C5%A1avija&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091972341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21809/rilemtechlett.2020.113" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

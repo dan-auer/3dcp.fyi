@@ -19,14 +19,15 @@ tags:
 ---
 
 #Impact of BIM and 3D Printing Technologies on Production Process and Productivity of Pre-Cast Concrete in Construction Project ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/15623599.2024.2349831" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2024.2349831" target="_blank">10.1080/15623599.2024.2349831</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/15623599.2024.2349831" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/15623599.2024.2349831" target="_blank">10.1080/15623599.2024.2349831</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/berawi_ali_mohammed"><b>Berawi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-051X" title="ORCID: 0000-0003-3941-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sari_mustika"><b>Sari</b>&nbsp;Mustika</a></span>, <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b>&nbsp;Astiti</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2197-1378" title="ORCID: 0000-0003-2197-1378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miraj_perdana"><b>Miraj</b>&nbsp;Perdana</a></span>, <a href="../../../author/susantono_bambang"><b>Susantono</b>&nbsp;Bambang</a></span>, <a href="../../../author/woodhead_roy"><b>Woodhead</b>&nbsp;Roy</a></span><br>
 Journal Article - International Journal of Construction Management, pp. 1-11
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20BIM%20and%203D%20Printing%20Technologies%20on%20Production%20Process%20and%20Productivity%20of%20Pre-Cast%20Concrete%20in%20Construction%20Project" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+bim+and+3d+printing+technologies+on+production+process+and+productivity+of+pre-cast+concrete+in+construction+project&as_occt=title&as_sauthors=berawi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193988827&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001230015900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/15623599.2024.2349831" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

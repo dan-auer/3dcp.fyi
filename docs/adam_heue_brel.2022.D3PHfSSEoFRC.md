@@ -23,14 +23,15 @@ tags:
 
 #Dynamic 3D Print-Head for Spatial Strand-Extrusion of Fiber-Reinforced Concrete&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Requirements, Development and Application</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-022-00066-3.pdf) <a href="https://doi.org/10.1007/s41693-022-00066-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00066-3" target="_blank">10.1007/s41693-022-00066-3</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41693-022-00066-3.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-022-00066-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00066-3" target="_blank">10.1007/s41693-022-00066-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0960-0777" title="ORCID: 0000-0003-0960-0777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adams_julian_thomas"><b>Adams</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1517-7012" title="ORCID: 0000-0003-1517-7012" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heuer_christoph"><b>Heuer</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1463-7515" title="ORCID: 0000-0003-1463-7515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b>&nbsp;Sigrid</a></span><br>
 Journal Article - Construction Robotics, Vol. 6, Iss. 1, pp. 1-13
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/strand"><button class="btn">#strand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%203D%20Print-Head%20for%20Spatial%20Strand-Extrusion%20of%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+3d+print-head+for+spatial+strand-extrusion+of+fiber-reinforced+concrete&as_occt=title&as_sauthors=adams&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-022-00066-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

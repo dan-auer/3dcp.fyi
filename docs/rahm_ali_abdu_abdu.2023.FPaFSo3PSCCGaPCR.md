@@ -20,14 +20,15 @@ tags:
 ---
 
 #Fresh Properties and Flexural Strength of 3D Printing Sustainable Concrete Containing GGBS as Partial Cement Replacement ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1755-1315/1205/1/012042/pdf) <a href="https://doi.org/10.1088/1755-1315/1205/1/012042" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1205/1/012042" target="_blank">10.1088/1755-1315/1205/1/012042</a>
+<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1205/1/012042/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/1205/1/012042" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1205/1/012042" target="_blank">10.1088/1755-1315/1205/1/012042</a>
 
 <a href="../../../author/rahmat_f_n"><b>Rahmat</b>&nbsp;N.</a></span>, <a href="../../../author/ali_noorwirdawati"><b>Ali</b>&nbsp;Noorwirdawati</a></span>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b>&nbsp;Siti</a></span>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b>&nbsp;Noor</a></span>, <a href="../../../author/salleh_norhafizah"><b>Salleh</b>&nbsp;Norhafizah</a></span>, <a href="../../../author/shahidan_shahiron"><b>Shahidan</b>&nbsp;Shahiron</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1205, Iss. 1, No. 012042
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fresh%20Properties%20and%20Flexural%20Strength%20of%203D%20Printing%20Sustainable%20Concrete%20Containing%20GGBS%20as%20Partial%20Cement%20Replacement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fresh+properties+and+flexural+strength+of+3d+printing+sustainable+concrete+containing+ggbs+as+partial+cement+replacement&as_occt=title&as_sauthors=rahmat&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169816359&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/1205/1/012042" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

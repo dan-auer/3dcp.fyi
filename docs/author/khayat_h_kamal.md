@@ -9,6 +9,60 @@ search:
 
 #  Khayat Kamal 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1431-0715" target="_blank">0000-0003-1431-0715</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-12-09
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 456
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> (5)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (5)</li>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> (4)</li>
+        <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a> (4)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../arun_nema_rana_bong.2021.FOEoUHPCFb3P/">Fiber-Orientation Effects on Ultra-High-Performance Concrete Formed by 3D Printing</a> (210)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (58)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (58)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (39)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (39)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (38)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (29)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (22)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (15)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (15)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (15)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU/">Methodology for Surface Defect Assessment in 3D Concrete Printing Using Computer-Vision and Ultrasonic Testing Considering Structural Build-Up</a></li>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gu_han_khay.2025.EoAKoSPo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics</a></li>

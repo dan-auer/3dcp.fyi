@@ -9,6 +9,60 @@ search:
 
 #  Bernhard Mathias 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5128-4723" target="_blank">0000-0002-5128-4723</a>
+
+    First Contribution
+    : 2016-10-31
+    
+    Last Contribution
+    : 2024-08-26
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 560
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (5)</li>
+        <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a> (4)</li>
+        <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> (3)</li>
+        <li><a href="../../../author/giesecke_rena"><b>Giesecke</b> Rena</a> (2)</li>
+        <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a> (482)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (3)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (3)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (3)</li>
+        <li><a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (39)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (32)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (27)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (26)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/vakhshouri_pouria"><b>Vakhshouri</b> Pouria</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../oror_chai_zhi_vakh.2024.ESoaFCBP/">Experimental Study of a Funicular Concrete Beam Prototype</a></li>
   <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a></li>

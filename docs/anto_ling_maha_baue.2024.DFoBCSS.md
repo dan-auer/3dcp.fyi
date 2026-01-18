@@ -14,14 +14,15 @@ tags:
 ---
 
 #Digital Fabrication of Biologically Cemented Spatial Structures ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2023.0339" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0339" target="_blank">10.1089/3dp.2023.0339</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2023.0339" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0339" target="_blank">10.1089/3dp.2023.0339</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-9713-5047" title="ORCID: 0009-0004-9713-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antorveza-paez_karen"><b>Antorveza Paez</b>&nbsp;Karen</a></span>, <a href="../../../author/ling_shin_andrea"><b>Ling</b>&nbsp;Andrea</a></span>, <a href="../../../author/mahamaliyev_nijat"><b>Mahamaliyev</b>&nbsp;Nijat</a></span>, <a href="../../../author/bauer_georg"><b>Bauer</b>&nbsp;Georg</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing
 
 <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20of%20Biologically%20Cemented%20Spatial%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+of+biologically+cemented+spatial+structures&as_occt=title&as_sauthors=antorveza+paez&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198716032&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001261836900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2023.0339" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

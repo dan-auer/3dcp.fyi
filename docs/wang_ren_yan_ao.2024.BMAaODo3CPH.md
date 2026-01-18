@@ -18,14 +18,15 @@ tags:
 ---
 
 #Blockage-Mechanism-Analysis and Optimization Design of 3D Concrete Print-Head ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2024.2338526" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2338526" target="_blank">10.1080/21650373.2024.2338526</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2024.2338526" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2338526" target="_blank">10.1080/21650373.2024.2338526</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4556-3005" title="ORCID: 0000-0002-4556-3005" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yibo"><b>Wang</b>&nbsp;Yibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9562-3336" title="ORCID: 0000-0002-9562-3336" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_changzai"><b>Ren</b>&nbsp;Changzai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8793-3510" title="ORCID: 0000-0002-8793-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_ming"><b>Yan</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5971-8055" title="ORCID: 0000-0002-5971-8055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ao_chenyang"><b>Ao</b>&nbsp;Chenyang</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, Vol. 13, Iss. 5, pp. 786-798
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Blockage-Mechanism-Analysis%20and%20Optimization%20Design%20of%203D%20Concrete%20Print-Head" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=blockage-mechanism-analysis+and+optimization+design+of+3d+concrete+print-head&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189993257&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001227133900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2024.2338526" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

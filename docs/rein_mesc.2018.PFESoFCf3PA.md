@@ -18,14 +18,15 @@ tags:
 ---
 
 #Particle-Finite-Element-Simulation of Fresh Concrete for 3D Printing Applications ([2018-10](date/2018/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-658-23627-4_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-658-23627-4_24" target="_blank">10.1007/978-3-658-23627-4_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-658-23627-4_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-658-23627-4_24" target="_blank">10.1007/978-3-658-23627-4_24</a>
 
 <a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
 Contribution - Forschungskolloquium 2018 Grasellenbach, pp. 68-70
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Particle-Finite-Element-Simulation%20of%20Fresh%20Concrete%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=particle-finite-element-simulation+of+fresh+concrete+for+3d+printing+applications&as_occt=title&as_sauthors=reinold&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-658-23627-4_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

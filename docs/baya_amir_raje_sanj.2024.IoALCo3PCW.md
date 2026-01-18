@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigation of Axial Load Capacity of 3D Printed Concrete Wall ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsendh.steng-12148" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-12148" target="_blank">10.1061/jsendh.steng-12148</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jsendh.steng-12148" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-12148" target="_blank">10.1061/jsendh.steng-12148</a>
 
 <a href="../../../author/bayatkashkooli_samira"><b>Bayatkashkooli</b>&nbsp;Samira</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1206-770X" title="ORCID: 0000-0002-1206-770X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amirsardari_anita"><b>Amirsardari</b>&nbsp;Anita</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/hashemi_javad"><b>Hashemi</b>&nbsp;Javad</a></span><br>
 Journal Article - Journal of Structural Engineering, Vol. 150, Iss. 8
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Axial%20Load%20Capacity%20of%203D%20Printed%20Concrete%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+axial+load+capacity+of+3d+printed+concrete+wall&as_occt=title&as_sauthors=bayatkashkooli&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193593030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001246293900009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jsendh.steng-12148" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

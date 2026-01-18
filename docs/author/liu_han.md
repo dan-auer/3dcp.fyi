@@ -9,6 +9,60 @@ search:
 
 #  Liu Han 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3057-522X" target="_blank">0000-0003-3057-522X</a>
+
+    First Contribution
+    : 2024-05-07
+    
+    Last Contribution
+    : 2025-09-29
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 14
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> (6)</li>
+        <li><a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> (4)</li>
+        <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (4)</li>
+        <li><a href="../../../author/lopes-sousa_nilton_israel"><b>Lopes Sousa</b> Israel</a> (2)</li>
+        <li><a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../liu_lafl_ales_uber.2024.3PSSCCUGaCMF/">3D Printed Self-Sensing Cementitious Composites Using Graphite and Carbon-Micro-Fibers</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (2)</li>
+        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (2)</li>
+        <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (2)</li>
+        <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a> (2)</li>
+        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>
   <li><a href="../../../author/lopes-sousa_nilton_israel"><b>Lopes Sousa</b> Israel</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../lope_liu_ales_lafl.2025.PPo3PCCDwCM/">Piezoresistive Performance of 3D Printed Cementitious Composites Doped with Carbon Microfibers</a></li>

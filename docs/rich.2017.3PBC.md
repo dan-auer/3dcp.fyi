@@ -16,14 +16,15 @@ tags:
 
 #3D Printing Becomes Concrete&nbsp;([2017-10](date/2017/10))
 <div class="h1-like">Exploring the Structural Potential of Concrete 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.56330/qvsi5222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.56330/qvsi5222" target="_blank">10.56330/qvsi5222</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.56330/qvsi5222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.56330/qvsi5222" target="_blank">10.56330/qvsi5222</a>
 
 <a href="../../../author/richardson_victoria"><b>Richardson</b>&nbsp;Victoria</a></span><br>
 Journal Article - The Structural Engineer, Vol. 95, Iss. 10, pp. 10-17
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Becomes%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+becomes+concrete&as_occt=title&as_sauthors=richardson&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85075613922&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.56330/qvsi5222" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -52,7 +53,7 @@ Journal Article - The Structural Engineer, Vol. 95, Iss. 10, pp. 10-17
     <ol  class = "bordered-list" reversed>
       <li><a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a>, <a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b> Yusuf</a>, <a href="../../../author/orr_lachlan"><b>Orr</b> Lachlan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../dams_chen_kaya_orr.2024.FPaADoPCMfAAM/">Fresh Properties and Autonomous Deposition of Pseudoplastic Cementitious Mortars for Aerial Additive Manufacturing</a></li>
       <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a></li>
-      <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
+      <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a></li>
       <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../pier_perr.2019.3PbSBiaPB/">3D Printing by Selective Binding in a Particle-Bed:<br/>Principles and Challenges</a></li>
       <li><a href="../../../author/kaufhold_julia"><b>Kaufhold</b> Julia</a>, <a href="../../../author/kohl_johannes"><b>Kohl</b> Johannes</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../kauf_kohl_nere_schr.2019.WBSMfEBDC/">Wood-Based Support Material for Extrusion-Based Digital Construction</a></li>
     </ol>

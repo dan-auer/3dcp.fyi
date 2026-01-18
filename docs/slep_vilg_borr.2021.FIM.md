@@ -18,14 +18,15 @@ tags:
 
 #Fabrication Information Modeling&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">Closing the Gap between Building Information Modeling and Digital Fabrication</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://mediatum.ub.tum.de/doc/1634177/document.pdf) <a href="https://doi.org/10.22260/isarc2021/0004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2021/0004" target="_blank">10.22260/isarc2021/0004</a>
+<a href="https://mediatum.ub.tum.de/doc/1634177/document.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2021/0004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2021/0004" target="_blank">10.22260/isarc2021/0004</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4271-2076" title="ORCID: 0000-0003-4271-2076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vilgertshofer_simon"><b>Vilgertshofer</b>&nbsp;Simon</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Contribution - Proceedings of the 38th International Symposium on Automation and Robotics in Construction, pp. 9-15
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/gap"><button class="btn">#gap</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20Information%20Modeling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication+information+modeling&as_occt=title&as_sauthors=slepicka&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2021/0004" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

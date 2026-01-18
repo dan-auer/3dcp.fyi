@@ -20,14 +20,15 @@ tags:
 
 #Additively Constructed Plain Concrete Pipes&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">Structural Performance and Site Implementation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-2013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-2013" target="_blank">10.1061/jaeied.aeeng-2013</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jaeied.aeeng-2013" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-2013" target="_blank">10.1061/jaeied.aeeng-2013</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-0171-5047" title="ORCID: 0009-0008-0171-5047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasani_alireza"><b>Hasani</b>&nbsp;Alireza</a></span>, <a href="../../../author/besharatian_boshra"><b>Besharatian</b>&nbsp;Boshra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8307-9193" title="ORCID: 0000-0002-8307-9193" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorafshan_sattar"><b>Dorafshan</b>&nbsp;Sattar</a></span><br>
 Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 3
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/plain"><button class="btn">#plain</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additively%20Constructed%20Plain%20Concrete%20Pipes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additively+constructed+plain+concrete+pipes&as_occt=title&as_sauthors=hasani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004002863&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jaeied.aeeng-2013" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 
 #On-Site Deployment of 3D Printing for the Building Construction&nbsp;([2018-06](date/2018/06))
 <div class="h1-like">The Case of YhnovaTM</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2018/22/matecconf_matbud2018_01001.pdf) <a href="https://doi.org/10.1051/matecconf/201816301001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/201816301001" target="_blank">10.1051/matecconf/201816301001</a>
+<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2018/22/matecconf_matbud2018_01001.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/201816301001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/201816301001" target="_blank">10.1051/matecconf/201816301001</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poullain_philippe"><b>Poullain</b>&nbsp;Philippe</a></span>, <a href="../../../author/paquet_elodie"><b>Paquet</b>&nbsp;Elodie</a></span>, <a href="../../../author/garnier_sebastien"><b>Garnier</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0505-4545" title="ORCID: 0000-0003-0505-4545" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/furet_benoit"><b>Furet</b>&nbsp;Benoît</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 163, No. 01001
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On-Site%20Deployment%20of%203D%20Printing%20for%20the%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on-site+deployment+of+3d+printing+for+the+building+construction&as_occt=title&as_sauthors=poullain&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85049366088&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000467978100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/201816301001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 
 #From Waste to Strength&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Recycled Steel Fibers for Sustainable 3D Printing of Cementitious Composites</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.31462/icearc2025_ce_mat_321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_321" target="_blank">10.31462/icearc2025_ce_mat_321</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.31462/icearc2025_ce_mat_321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.31462/icearc2025_ce_mat_321" target="_blank">10.31462/icearc2025_ce_mat_321</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b>&nbsp;Mohammad</a></span>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b>&nbsp;Naeem</a></span>, <a href="../../../author/amjad_umar"><b>Amjad</b>&nbsp;Umar</a></span>, <a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b>&nbsp;Hamad</a></span>, <a href="../../../author/maurya_raj_muni"><b>Maurya</b>&nbsp;Muni</a></span><br>
 Contribution - Proceedings of the 4th International Civil Engineering & Architecture Conference
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Waste%20to%20Strength" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+waste+to+strength&as_occt=title&as_sauthors=irshidat&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.31462/icearc2025_ce_mat_321" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

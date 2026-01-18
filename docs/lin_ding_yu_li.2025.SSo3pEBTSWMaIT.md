@@ -19,14 +19,15 @@ tags:
 ---
 
 #Synergistic Strengthening of 3D‑printed ECC Beams Through Steel-Wire Mesh and Interfaces Treatments ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.121205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121205" target="_blank">10.1016/j.engstruct.2025.121205</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.121205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121205" target="_blank">10.1016/j.engstruct.2025.121205</a>
 
 <a href="../../../author/lin_manfang"><b>Lin</b>&nbsp;Manfang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <a href="../../../author/yu_fan"><b>Yu</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9477-6824" title="ORCID: 0000-0002-9477-6824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_lingzhi"><b>Li</b>&nbsp;Lingzhi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8396-4213" title="ORCID: 0000-0002-8396-4213" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_kequan"><b>Yu</b>&nbsp;Kequan</a></span><br>
 Journal Article - Engineering Structures, Vol. 343, No. 121205
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Strengthening%20of%203D%E2%80%91printed%20ECC%20Beams%20Through%20Steel-Wire%20Mesh%20and%20Interfaces%20Treatments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synergistic+strengthening+of+3d%E2%80%91printed+ecc+beams+through+steel-wire+mesh+and+interfaces+treatments&as_occt=title&as_sauthors=lin&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013845206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001595263200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.121205" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

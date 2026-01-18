@@ -9,6 +9,60 @@ search:
 
 #  Lao Wenxin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2017-08-09
+    
+    Last Contribution
+    : 2020-09-30
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 239
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (7)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (7)</li>
+        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a> (3)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (3)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../weng_li_liu_lao.2019.PaFPoaD3PFRCCuET/">Printability and Fire Performance of a Developed 3D Printable Fiber-Reinforced Cementitious Composites under Elevated Temperatures</a> (73)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (21)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (15)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (14)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (13)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (26)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (25)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (23)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (17)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tjahjowidodo_tegoeh"><b>Tjahjowidodo</b> Tegoeh</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../lao_li_tjah.2021.VGNfSQEi3CP/">Variable-Geometry Nozzle for Surface Quality Enhancement in 3D Concrete Printing</a></li>
   <li><a href="../../../author/lao_wenxin"><b>Lao</b> Wenxin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC/">Improving Surface-Finish-Quality in Extrusion-Based 3D Concrete Printing Using Machine-Learning-Based Extrudate-Geometry-Control</a></li>

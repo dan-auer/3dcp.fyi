@@ -16,14 +16,15 @@ tags:
 
 #Discussion&nbsp;([2021-04](date/2021/04))
 <div class="h1-like">Commentary on 3D Printing Set to Transform the Construction Industry</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jstbu.21.00024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jstbu.21.00024" target="_blank">10.1680/jstbu.21.00024</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jstbu.21.00024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jstbu.21.00024" target="_blank">10.1680/jstbu.21.00024</a>
 
 <a href="../../../author/mullett_paul"><b>Mullett</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/perry_paul"><b>Perry</b>&nbsp;Paul</a></span><br>
 Journal Article - Proceedings of the Institution of Civil Engineers - Structures and Buildings, Vol. 174, Iss. 4, pp. 336-337
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Discussion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=discussion&as_occt=title&as_sauthors=mullett&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105609384&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000648734600007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jstbu.21.00024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

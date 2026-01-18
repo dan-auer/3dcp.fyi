@@ -9,6 +9,60 @@ search:
 
 #  Paul Gavin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3478-0020" target="_blank">0000-0002-3478-0020</a>
+
+    First Contribution
+    : 2017-07-01
+    
+    Last Contribution
+    : 2024-02-07
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 299
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> (8)</li>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (8)</li>
+        <li><a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> (2)</li>
+        <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> (1)</li>
+        <li><a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../shak_neja_paul.2019.ASitEoDNSaFRi3PM/">A Study into the Effect of Different Nozzles Shapes and Fiber-Reinforcement in 3D Printed Mortar</a> (95)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (19)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (18)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (15)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (15)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (22)</li>
+        <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> (14)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (14)</li>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (11)</li>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/isaac_geoff"><b>Isaac</b> Geoff</a>, <a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/pietroni_nico"><b>Pietroni</b> Nico</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../isaa_nich_paul_piet.2024.AS/">Automated Shotcrete:<br/>A More Sustainable Construction Technology</a></li>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../shak_neja_paul_gowr.2021.EoDOASSRaHCoMBo3PCMwawGFiPB3/">Effects of Different Orientation-Angle, Size, Surface-Roughness, and Heat-Curing on Mechanical Behavior of 3D Printed Cement-Mortar with and without Glass-Fiber in Powder-Based 3DP</a></li>

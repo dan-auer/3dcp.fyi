@@ -22,14 +22,15 @@ tags:
 ---
 
 #Life Cycle-Based Sustainability Assessment of Optimized 3D Printable Concrete Mixes Incorporating Scms and Recycled Aggregates ([2025-10](date/2025/10))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.rineng.2025.108002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108002" target="_blank">10.1016/j.rineng.2025.108002</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.rineng.2025.108002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2025.108002" target="_blank">10.1016/j.rineng.2025.108002</a>
 
 <a href="../../../author/nair_r_sajitha"><b>Nair</b>&nbsp;Sajitha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3411-8352" title="ORCID: 0000-0002-3411-8352" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nagarajan_praveen"><b>Nagarajan</b>&nbsp;Praveen</a></span>, <a href="../../../author/thampi_g_santosh"><b>Thampi</b>&nbsp;Santosh</a></span>, <a href="../../../author/das_sudha"><b>Das</b>&nbsp;Sudha</a></span>, <a href="../../../author/rajesh_p"><b>Rajesh</b>&nbsp;P.</a></span><br>
 Journal Article - Results in Engineering, No. 108002
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle-Based%20Sustainability%20Assessment%20of%20Optimized%203D%20Printable%20Concrete%20Mixes%20Incorporating%20Scms%20and%20Recycled%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle-based+sustainability+assessment+of+optimized+3d+printable+concrete+mixes+incorporating+scms+and+recycled+aggregates&as_occt=title&as_sauthors=nair&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021079426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.rineng.2025.108002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

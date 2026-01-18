@@ -17,14 +17,15 @@ tags:
 ---
 
 #Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.energy.2024.132265) <a href="https://doi.org/10.1016/j.energy.2024.132265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.energy.2024.132265" target="_blank">10.1016/j.energy.2024.132265</a>
+<a href="https://doi.org/10.1016/j.energy.2024.132265" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.energy.2024.132265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.energy.2024.132265" target="_blank">10.1016/j.energy.2024.132265</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4716-8498" title="ORCID: 0000-0002-4716-8498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sovetova_meruyert"><b>Sovetova</b>&nbsp;Meruyert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7046-3308" title="ORCID: 0000-0001-7046-3308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calautit_kaiser_john"><b>Calautit</b>&nbsp;John</a></span><br>
 Journal Article - Energy, Vol. 305, No. 132265
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Parameters%20on%20the%20Thermal%20Properties%20of%203D%20Printed%20Construction%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+printing+parameters+on+the+thermal+properties+of+3d+printed+construction+structures&as_occt=title&as_sauthors=sovetova&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197744719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001347440700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.energy.2024.132265" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

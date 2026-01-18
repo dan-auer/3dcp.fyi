@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Assessment of Durability in 3D Printed Cementitious Materials ([2025-12](date/2025/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://reference-global.com/2/v2/download/article/10.2478/cee-2025-0101.pdf) <a href="https://doi.org/10.2478/cee-2025-0101" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/cee-2025-0101" target="_blank">10.2478/cee-2025-0101</a>
+<a href="https://reference-global.com/2/v2/download/article/10.2478/cee-2025-0101.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2478/cee-2025-0101" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/cee-2025-0101" target="_blank">10.2478/cee-2025-0101</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9459-8039" title="ORCID: 0000-0001-9459-8039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hurtig_karel"><b>Hurtig</b>&nbsp;Karel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2615-1873" title="ORCID: 0000-0002-2615-1873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/citek_david"><b>Čítek</b>&nbsp;David</a></span>, <a href="../../../author/holy_milan"><b>Holý</b>&nbsp;Milan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-888X" title="ORCID: 0000-0001-5069-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kotes_peter"><b>Koteš</b>&nbsp;Peter</a></span>, <a href="../../../author/citek_adam"><b>Čítek</b>&nbsp;Adam</a></span><br>
 Journal Article - Civil and Environmental Engineering, Vol. 21, Iss. 2, pp. 1384-1401
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Assessment%20of%20Durability%20in%203D%20Printed%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+assessment+of+durability+in+3d+printed+cementitious+materials&as_occt=title&as_sauthors=hurtig&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105024004196&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2478/cee-2025-0101" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -10,14 +10,15 @@ tags:
 ---
 
 #Gradientenbeton ([2018-11](date/2018/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9783433609330.ch6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783433609330.ch6" target="_blank">10.1002/9783433609330.ch6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/9783433609330.ch6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9783433609330.ch6" target="_blank">10.1002/9783433609330.ch6</a>
 
 <a href="../../../author/schmeer_daniel"><b>Schmeer</b>&nbsp;Daniel</a></span>, <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span><br>
 Contribution - Beton Kalender 2019, pp. 455-476
 
 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Gradientenbeton" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=gradientenbeton&as_occt=title&as_sauthors=schmeer&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/9783433609330.ch6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

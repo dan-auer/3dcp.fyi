@@ -17,14 +17,15 @@ tags:
 ---
 
 #Rheological Characterization of Three-Dimensional-Printed Polymer Concrete ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733123" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733123" target="_blank">10.14359/51733123</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733123" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733123" target="_blank">10.14359/51733123</a>
 
 <a href="../../../author/murcia_heras"><b>Murcia</b>&nbsp;Heras</a></span>, <a href="../../../author/abdellatef_mohammed"><b>Abdellatef</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0037-5086" title="ORCID: 0000-0002-0037-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/genedy_moneeb"><b>Genedy</b>&nbsp;Moneeb</a></span>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b>&nbsp;Mahmoud</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 189-200
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Characterization%20of%20Three-Dimensional-Printed%20Polymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+characterization+of+three-dimensional-printed+polymer+concrete&as_occt=title&as_sauthors=murcia&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122071244&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733123" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

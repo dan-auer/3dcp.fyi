@@ -8,7 +8,12 @@ search:
 
 # #phase
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/material"><button class="btn">#material (18)</button></a> <a href="../../keyword/print"><button class="btn">#print (18)</button></a> <a href="../../keyword/change"><button class="btn">#change (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (16)</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/er_yusuf"><b>Er</b> Yusuf</a>, <a href="../../../author/guler_onur"><b>Güler</b> Onur</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../genc_er_gule_usta.2026.RNAwPCMB3PAiCfSFaDTES/">Replacing Natural Aggregates with Phase Change Material-Based 3D Printed Aggregates in Concrete for Structural Function and Dual Thermal Energy Storage</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_ren_titt_schu.2025.LIi3PCBM/">Layer Interface in 3D Printed Cement-Based Materials:<br/>Heterogeneous Phase Distribution and New Insights into Formation Mechanism</a></li>
   <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/subasi_serkan"><b>Subaşı</b> Serkan</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../genc_node_suba_usta.2025.Po3PCCMPCM/">Properties of 3D Printed Concrete Containing Microencapsulated Phase Change Material</a></li>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/awawdeh_m_najemaldeen"><b>Awawdeh</b> Najemaldeen</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_awaw.2025.MoECWU3PCwPCM/">Mitigation of Energy Crisis Worldwide Using 3D-Printed Concrete with Phase Change Materials</a></li>

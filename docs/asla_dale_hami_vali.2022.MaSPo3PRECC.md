@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical and Shrinkage Performance of 3D Printed Rubberised Engineered Cementitious Composites ([2022-05](date/2022/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" target="_blank">10.1016/j.conbuildmat.2022.127665</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127665" target="_blank">10.1016/j.conbuildmat.2022.127665</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <a href="../../../author/dale_ryan"><b>Dale</b>&nbsp;Ryan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5563-8613" title="ORCID: 0000-0002-5563-8613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamidi_fatemeh"><b>Hamidi</b>&nbsp;Fatemeh</a></span>, <a href="../../../author/valizadeh_afsaneh"><b>Valizadeh</b>&nbsp;Afsaneh</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 339
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Shrinkage%20Performance%20of%203D%20Printed%20Rubberised%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+shrinkage+performance+of+3d+printed+rubberised+engineered+cementitious+composites&as_occt=title&as_sauthors=aslani&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129697458&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000804148500002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.127665" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

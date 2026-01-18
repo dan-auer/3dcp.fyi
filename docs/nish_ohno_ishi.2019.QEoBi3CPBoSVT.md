@@ -18,14 +18,15 @@ tags:
 ---
 
 #Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test ([2019-12](date/2019/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-8079-6_174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8079-6_174" target="_blank">10.1007/978-981-15-8079-6_174</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-15-8079-6_174" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8079-6_174" target="_blank">10.1007/978-981-15-8079-6_174</a>
 
 <a href="../../../author/nishijo_keisuke"><b>Nishijo</b>&nbsp;Keisuke</a></span>, <a href="../../../author/ohno_motohiro"><b>Ohno</b>&nbsp;Motohiro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7875-1101" title="ORCID: 0000-0001-7875-1101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ishida_tetsuya"><b>Ishida</b>&nbsp;Tetsuya</a></span><br>
 Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 1891-1901
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Evaluation%20of%20Buildability%20in%203D%20Concrete%20Printing%20Based%20on%20Shear-Vane-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=quantitative+evaluation+of+buildability+in+3d+concrete+printing+based+on+shear-vane-test&as_occt=title&as_sauthors=nishijo&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104128439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-15-8079-6_174" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,58 @@ search:
 
 #  Sari Mustika 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3941-051X" target="_blank">0000-0003-3941-051X</a>
+
+    First Contribution
+    : 2024-05-23
+    
+    Last Contribution
+    : 2025-09-05
+
+    Number Contributions
+    : 3
+
+    Number Citations
+    : 3
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a> (3)</li>
+        <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (3)</li>
+        <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (2)</li>
+        <li><a href="../../../author/bakri_fatimah_helty"><b>Bakri</b> Helty</a> (1)</li>
+        <li><a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a>, <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bera_sari_okta_mira.2024.IoBa3PToPPaPoPCCiCP/">Impact of BIM and 3D Printing Technologies on Production Process and Productivity of Pre-Cast Concrete in Construction Project</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (4)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (4)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/campana_wilmer"><b>Campaña</b> Wilmer</a> (1)</li>
+        <li><a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b> Laura</a> (1)</li>
+        <li><a href="../../../author/orobio_armando"><b>Orobio</b> Armando</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/taswin_faustin_william"><b>Taswin</b> William</a>, <a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB/">Work Breakdown Structure and Construction Process Framework for a Hybrid 3D-Printed Modular Building</a></li>
   <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/bakri_fatimah_helty"><b>Bakri</b> Helty</a>, <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../bera_sari_bakr_mira.2025.3PTfPC/">3D Printing Technology for Precast Concrete:<br/>A Business Process Perspective from Indonesian Construction Sector</a></li>

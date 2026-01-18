@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluating the Performance of Recycled Aggregate Concrete Incorporating 3D-Printed Concrete Waste as Aggregate Using the Rebound Hammer Test ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.heliyon.2025.e42745) <a href="https://doi.org/10.1016/j.heliyon.2025.e42745" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2025.e42745" target="_blank">10.1016/j.heliyon.2025.e42745</a>
+<a href="https://doi.org/10.1016/j.heliyon.2025.e42745" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.heliyon.2025.e42745" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2025.e42745" target="_blank">10.1016/j.heliyon.2025.e42745</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0499-8256" title="ORCID: 0000-0002-0499-8256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mengistu_mindaye_girum"><b>Mengistu</b>&nbsp;Girum</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5587-3835" title="ORCID: 0000-0001-5587-3835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nemes_rita"><b>Nemes</b>&nbsp;Rita</a></span><br>
 Journal Article - Heliyon, No. e42745
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Performance%20of%20Recycled%20Aggregate%20Concrete%20Incorporating%203D-Printed%20Concrete%20Waste%20as%20Aggregate%20Using%20the%20Rebound%20Hammer%20Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+the+performance+of+recycled+aggregate+concrete+incorporating+3d-printed+concrete+waste+as+aggregate+using+the+rebound+hammer+test&as_occt=title&as_sauthors=mengistu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217898948&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.heliyon.2025.e42745" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

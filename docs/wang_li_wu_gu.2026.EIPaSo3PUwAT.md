@@ -16,14 +16,15 @@ tags:
 ---
 
 #Enhancing Interlayer Properties and Sustainability of 3D-Printed UHPC with Antimony Tailings ([2025-12](date/2025/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/16/1/53/pdf?version=1766481019) <a href="https://doi.org/10.3390/buildings16010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings16010053" target="_blank">10.3390/buildings16010053</a>
+<a href="https://www.mdpi.com/2075-5309/16/1/53/pdf?version=1766481019" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings16010053" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings16010053" target="_blank">10.3390/buildings16010053</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/li_baidian"><b>Li</b>&nbsp;Baidian</a></span>, <a href="../../../author/wu_fei"><b>Wu</b>&nbsp;Fei</a></span>, <a href="../../../author/gu_kan"><b>Gu</b>&nbsp;Kan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8902-4778" title="ORCID: 0000-0001-8902-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tan_yi"><b>Tan</b>&nbsp;Yi</a></span>, <a href="../../../author/zhou_xiang"><b>Zhou</b>&nbsp;Xiang</a></span>, <a href="../../../author/he_hongyuan"><b>He</b>&nbsp;Hongyuan</a></span>, <a href="../../../author/zhang_yufa"><b>Zhang</b>&nbsp;Yufa</a></span><br>
 Journal Article - Buildings, Vol. 16, Iss. 1, No. 53
 
 <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Interlayer%20Properties%20and%20Sustainability%20of%203D-Printed%20UHPC%20with%20Antimony%20Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+interlayer+properties+and+sustainability+of+3d-printed+uhpc+with+antimony+tailings&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings16010053" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

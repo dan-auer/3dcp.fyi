@@ -20,14 +20,15 @@ tags:
 
 #Integrating Parametric Design with Robotic Additive Manufacturing for 3D Clay Printing&nbsp;([2017-07](date/2017/07))
 <div class="h1-like">An Experimental Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2018/0128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2018/0128" target="_blank">10.22260/isarc2018/0128</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2018/0128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2018/0128" target="_blank">10.22260/isarc2018/0128</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b>&nbsp;Odysseas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tryfonos_george"><b>Tryfonos</b>&nbsp;George</a></span><br>
 Contribution - Proceedings of the 35th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrating%20Parametric%20Design%20with%20Robotic%20Additive%20Manufacturing%20for%203D%20Clay%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrating+parametric+design+with+robotic+additive+manufacturing+for+3d+clay+printing&as_occt=title&as_sauthors=kontovourkis&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085407818&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2018/0128" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

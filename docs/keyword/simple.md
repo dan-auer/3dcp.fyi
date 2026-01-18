@@ -8,6 +8,10 @@ search:
 
 # #simple
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/technique"><button class="btn">#technique (3)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (1)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
   <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD/">A Simple Potential Energy Formulation for 3D Concrete Printed Structures Considering the Shear Effects in the Build-Direction</a></li>

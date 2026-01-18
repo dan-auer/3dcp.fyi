@@ -19,14 +19,15 @@ tags:
 
 #Emerging Horizons in 3D Printed Cement-Based Materials with Nano-Material-Integration&nbsp;([2023-12](date/2023/12))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" target="_blank">10.1016/j.conbuildmat.2023.134815</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134815" target="_blank">10.1016/j.conbuildmat.2023.134815</a>
 
 <a href="../../../author/khan_ali_shayan"><b>Khan</b>&nbsp;Shayan</a></span>, <a href="../../../author/ghazi_mutahir-ullah_syed"><b>Ghazi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2271-9051" title="ORCID: 0000-0003-2271-9051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amjad_hassan"><b>Amjad</b>&nbsp;Hassan</a></span>, <a href="../../../author/imram_muhammad"><b>Imram</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9532-4096" title="ORCID: 0000-0002-9532-4096" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khushnood_arsalan_rao"><b>Khushnood</b>&nbsp;Rao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 411, No. 134815
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/horizontal"><button class="btn">#horizontal</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Emerging%20Horizons%20in%203D%20Printed%20Cement-Based%20Materials%20with%20Nano-Material-Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=emerging+horizons+in+3d+printed+cement-based+materials+with+nano-material-integration&as_occt=title&as_sauthors=khan&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181733880&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001164854000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.134815" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

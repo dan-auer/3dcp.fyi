@@ -19,14 +19,15 @@ tags:
 ---
 
 #Experimental Study on the Effect of Water-Binder Ratio on 3D Printing Form of Concrete Mortar ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-95932-5_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-95932-5_5" target="_blank">10.1007/978-3-031-95932-5_5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-95932-5_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-95932-5_5" target="_blank">10.1007/978-3-031-95932-5_5</a>
 
 <a href="../../../author/liu_nana"><b>Liu</b>&nbsp;Nana</a></span>, <a href="../../../author/wang_jie"><b>Wang</b>&nbsp;Jie</a></span><br>
 Contribution - Proceedings of the 6th International Conference on Civil, Architecture and Disaster Prevention and Control, pp. 36-45
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20the%20Effect%20of%20Water-Binder%20Ratio%20on%203D%20Printing%20Form%20of%20Concrete%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+the+effect+of+water-binder+ratio+on+3d+printing+form+of+concrete+mortar&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017372546&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-95932-5_5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

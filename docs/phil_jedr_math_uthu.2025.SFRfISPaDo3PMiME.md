@@ -21,14 +21,15 @@ tags:
 ---
 
 #Steel Fiber Reinforcement for Improved Structural Performance and Durability of 3D Printed Mortar in Marine Environments ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40996-025-02040-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-025-02040-9" target="_blank">10.1007/s40996-025-02040-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40996-025-02040-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40996-025-02040-9" target="_blank">10.1007/s40996-025-02040-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0353-2630" title="ORCID: 0000-0002-0353-2630" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/philip_nivin"><b>Philip</b>&nbsp;Nivin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4395-0447" title="ORCID: 0000-0003-4395-0447" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jedrzejewska_agnieszka"><b>Jędrzejewska</b>&nbsp;Agnieszka</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4050-9803" title="ORCID: 0009-0000-4050-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b>&nbsp;Ashitta</a></span>, <a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b>&nbsp;Susan</a></span><br>
 Journal Article - Iranian Journal of Science and Technology, Transactions of Civil Engineering
 
 <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Steel%20Fiber%20Reinforcement%20for%20Improved%20Structural%20Performance%20and%20Durability%20of%203D%20Printed%20Mortar%20in%20Marine%20Environments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=steel+fiber+reinforcement+for+improved+structural+performance+and+durability+of+3d+printed+mortar+in+marine+environments&as_occt=title&as_sauthors=philip&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017389493&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40996-025-02040-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

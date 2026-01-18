@@ -18,14 +18,15 @@ tags:
 ---
 
 #Technology for Automated Production of High-Performance Building Compounds for 3D Printing ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/15/3829/pdf?version=1722603051) <a href="https://doi.org/10.3390/ma17153829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17153829" target="_blank">10.3390/ma17153829</a>
+<a href="https://www.mdpi.com/1996-1944/17/15/3829/pdf?version=1722603051" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17153829" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17153829" target="_blank">10.3390/ma17153829</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9171-0575" title="ORCID: 0009-0007-9171-0575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hutyra_adam"><b>Hutyra</b>&nbsp;Adam</a></span>, <a href="../../../author/bankosz_magdalena"><b>Bańkosz</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2761-6185" title="ORCID: 0000-0002-2761-6185" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b>&nbsp;Bożena</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 15, No. 3829
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/compound"><button class="btn">#compound</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Technology%20for%20Automated%20Production%20of%20High-Performance%20Building%20Compounds%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=technology+for+automated+production+of+high-performance+building+compounds+for+3d+printing&as_occt=title&as_sauthors=hutyra&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200768854&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001286944900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17153829" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

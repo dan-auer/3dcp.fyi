@@ -19,14 +19,15 @@ tags:
 ---
 
 #Interfacial Properties of Three-Dimensional-Printed Permanent Formwork with Cast-in-Place Concrete ([2022-11](date/2022/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2021.0213" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0213" target="_blank">10.1089/3dp.2021.0213</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2021.0213" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2021.0213" target="_blank">10.1089/3dp.2021.0213</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/yang_yu"><b>Yang</b>&nbsp;Yu</a></span>, <a href="../../../author/hu_yuanyuan"><b>Hu</b>&nbsp;Yuanyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Interfacial%20Properties%20of%20Three-Dimensional-Printed%20Permanent%20Formwork%20with%20Cast-in-Place%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=interfacial+properties+of+three-dimensional-printed+permanent+formwork+with+cast-in-place+concrete&as_occt=title&as_sauthors=wang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180548618&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000885117900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2021.0213" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

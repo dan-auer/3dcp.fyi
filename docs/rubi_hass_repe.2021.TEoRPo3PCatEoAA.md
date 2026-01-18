@@ -18,14 +18,15 @@ tags:
 ---
 
 #The Evaluation of Rheological Parameters of 3D Printable Concretes and the Effect of Accelerating-Admixture ([2021-01](date/2021/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" target="_blank">10.1016/j.conbuildmat.2020.122221</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.122221" target="_blank">10.1016/j.conbuildmat.2020.122221</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b>&nbsp;Ariane</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0885-2342" title="ORCID: 0000-0002-0885-2342" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasse_amanda_jessica"><b>Hasse</b>&nbsp;Jéssica</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0697-2794" title="ORCID: 0000-0003-0697-2794" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/repette_longuini_wellington"><b>Repette</b>&nbsp;Wellington</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 276
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Evaluation%20of%20Rheological%20Parameters%20of%203D%20Printable%20Concretes%20and%20the%20Effect%20of%20Accelerating-Admixture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+evaluation+of+rheological+parameters+of+3d+printable+concretes+and+the+effect+of+accelerating-admixture&as_occt=title&as_sauthors=rubin&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099840989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000634522000045" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.122221" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

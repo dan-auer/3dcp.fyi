@@ -21,14 +21,15 @@ tags:
 ---
 
 #Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach ([2023-04](date/2023/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.104863" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104863" target="_blank">10.1016/j.autcon.2023.104863</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2023.104863" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.104863" target="_blank">10.1016/j.autcon.2023.104863</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/tan_qing_bing"><b>Tan</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span>, <a href="../../../author/spicek_nikola"><b>Spicek</b>&nbsp;Nikola</a></span><br>
 Journal Article - Automation in Construction, Vol. 151
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/logistics"><button class="btn">#logistics</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Logistic-Cost-Analysis%20for%203D%20Printing%20Construction%20Projects%20Using%20a%20Multi-Stage%20Network-Based%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=logistic-cost-analysis+for+3d+printing+construction+projects+using+a+multi-stage+network-based+approach&as_occt=title&as_sauthors=besklubova&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152596011&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001054845200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2023.104863" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Comparative Environmental Value-Stream-Assessment of Off-Site and On-Site 3D Construction Printing Processes ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2024.10.200) <a href="https://doi.org/10.1016/j.procir.2024.10.200" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2024.10.200" target="_blank">10.1016/j.procir.2024.10.200</a>
+<a href="https://doi.org/10.1016/j.procir.2024.10.200" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.procir.2024.10.200" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2024.10.200" target="_blank">10.1016/j.procir.2024.10.200</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6291-1713" title="ORCID: 0000-0001-6291-1713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3011-2009" title="ORCID: 0000-0002-3011-2009" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhong_y_ray"><b>Zhong</b>&nbsp;Ray</a></span><br>
 Journal Article - Procedia CIRP, Vol. 130, pp. 1012-1019
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/value"><button class="btn">#value</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Environmental%20Value-Stream-Assessment%20of%20Off-Site%20and%20On-Site%203D%20Construction%20Printing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+environmental+value-stream-assessment+of+off-site+and+on-site+3d+construction+printing+processes&as_occt=title&as_sauthors=raza&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213029888&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.procir.2024.10.200" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

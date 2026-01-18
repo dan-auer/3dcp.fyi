@@ -18,14 +18,15 @@ tags:
 
 #Toward Autonomous Architecture&nbsp;([2017-04](date/2017/04))
 <div class="h1-like">The Convergence of Digital Design, Robotics, and the Built Environment</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://discovery.ucl.ac.uk/10044044/1/Pawar_Toward_autonomous_architecture.pdf) <a href="https://doi.org/10.1126/scirobotics.aan3686" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1126/scirobotics.aan3686" target="_blank">10.1126/scirobotics.aan3686</a>
+<a href="https://discovery.ucl.ac.uk/10044044/1/Pawar_Toward_autonomous_architecture.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1126/scirobotics.aan3686" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1126/scirobotics.aan3686" target="_blank">10.1126/scirobotics.aan3686</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1963-5201" title="ORCID: 0000-0003-1963-5201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pawar_m_vijay"><b>Pawar</b>&nbsp;Vijay</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3644-3906" title="ORCID: 0000-0003-3644-3906" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stuart-smith_robert"><b>Stuart-Smith</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7682-635X" title="ORCID: 0000-0001-7682-635X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scully_peter"><b>Scully</b>&nbsp;Peter</a></span><br>
 Journal Article - Science Robotics, Vol. 2, Iss. 5
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/convergence"><button class="btn">#convergence</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20Autonomous%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+autonomous+architecture&as_occt=title&as_sauthors=pawar&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85056597624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000441515700004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1126/scirobotics.aan3686" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

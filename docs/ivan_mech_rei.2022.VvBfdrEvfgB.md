@@ -10,14 +10,15 @@ tags:
 ---
 
 #Vergleich von Bewertungsmethoden für die rheologischen Eigenschaften von frisch gedrucktem Beton ([2022-09](date/2022/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://tud.qucosa.de/api/qucosa%3A81868/attachment/ATT-0/) <a href="https://doi.org/10.25368/2022.386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25368/2022.386" target="_blank">10.25368/2022.386</a>
+<a href="https://tud.qucosa.de/api/qucosa%3A81868/attachment/ATT-0/" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.25368/2022.386" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25368/2022.386" target="_blank">10.25368/2022.386</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4012-4203" title="ORCID: 0000-0003-4012-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivanova_irina"><b>Ivanova</b>&nbsp;Irina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6763-3633" title="ORCID: 0000-0002-6763-3633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reissig_silvia"><b>Reißig</b>&nbsp;Silvia</a></span><br>
 Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 109-114
 
 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Vergleich%20von%20Bewertungsmethoden%20f%C3%BCr%20die%20rheologischen%20Eigenschaften%20von%20frisch%20gedrucktem%20Beton" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=vergleich+von+bewertungsmethoden+f%C3%BCr+die+rheologischen+eigenschaften+von+frisch+gedrucktem+beton&as_occt=title&as_sauthors=ivanova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.25368/2022.386" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

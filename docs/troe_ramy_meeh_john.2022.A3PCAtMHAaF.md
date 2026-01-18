@@ -17,14 +17,15 @@ tags:
 ---
 
 #A 3D Printing-Centered Approach to Mars-Habitat Architecture and Fabrication ([2021-09](date/2021/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)as.1943-5525.0001359" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)as.1943-5525.0001359" target="_blank">10.1061/(asce)as.1943-5525.0001359</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/(asce)as.1943-5525.0001359" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)as.1943-5525.0001359" target="_blank">10.1061/(asce)as.1943-5525.0001359</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3338-6013" title="ORCID: 0000-0002-3338-6013" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/troemner_matthew"><b>Troemner</b>&nbsp;Matthew</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7118-4973" title="ORCID: 0000-0002-7118-4973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramyar_elham"><b>Ramyar</b>&nbsp;Elham</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4521-5713" title="ORCID: 0000-0002-4521-5713" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meehan_jonathan"><b>Meehan</b>&nbsp;Jonathan</a></span>, <a href="../../../author/johnson_benton"><b>Johnson</b>&nbsp;Benton</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6050-4281" title="ORCID: 0000-0002-6050-4281" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/goudarzi_nima"><b>Goudarzi</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
 Journal Article - Journal of Aerospace Engineering, Vol. 35, Iss. 1
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/center"><button class="btn">#center</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%203D%20Printing-Centered%20Approach%20to%20Mars-Habitat%20Architecture%20and%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+3d+printing-centered+approach+to+mars-habitat+architecture+and+fabrication&as_occt=title&as_sauthors=troemner&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115782843&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000719534800029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/(asce)as.1943-5525.0001359" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

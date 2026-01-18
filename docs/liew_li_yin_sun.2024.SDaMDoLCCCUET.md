@@ -18,14 +18,15 @@ tags:
 ---
 
 #Structural Deterioration and Mechanical Degradation of Limestone-Calcined-Clay-Cement Under Elevated Temperature ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_22" target="_blank">10.1007/978-3-031-64269-2_22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_22" target="_blank">10.1007/978-3-031-64269-2_22</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span>, <a href="../../../author/li_gen"><b>Li</b>&nbsp;Gen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <a href="../../../author/sun_jinhua"><b>Sun</b>&nbsp;Jinhua</a></span>, <a href="../../../author/kodur_kumar-r_venkatesh"><b>Kodur</b>&nbsp;Venkatesh</a></span><br>
 Contribution - Construction 3D Printing, pp. 174-180
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/degradation"><button class="btn">#degradation</button></a> <a href="../../keyword/elevation"><button class="btn">#elevation</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Deterioration%20and%20Mechanical%20Degradation%20of%20Limestone-Calcined-Clay-Cement%20Under%20Elevated%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+deterioration+and+mechanical+degradation+of+limestone-calcined-clay-cement+under+elevated+temperature&as_occt=title&as_sauthors=liew&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201313881&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800022" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

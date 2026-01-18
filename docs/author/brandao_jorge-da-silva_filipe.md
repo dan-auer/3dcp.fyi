@@ -9,6 +9,60 @@ search:
 
 #  Brandão Filipe 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3378-0176" target="_blank">0000-0002-3378-0176</a>
+
+    First Contribution
+    : 2024-04-17
+    
+    Last Contribution
+    : 2026-01-02
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 6
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (8)</li>
+        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (7)</li>
+        <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a> (3)</li>
+        <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a> (3)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ribe_mora_silv_bran.2024.R3FoCFSfIP/">Robotic 3DCP Fabrication of Custom-Fit Slabs for Irregular Pontoons</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (7)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (7)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> (1)</li>
+        <li><a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> (1)</li>
+        <li><a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b> Eleftheria</a> (1)</li>
+        <li><a href="../../../author/pemas_sotirios"><b>Pemas</b> Sotirios</a> (1)</li>
+        <li><a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>

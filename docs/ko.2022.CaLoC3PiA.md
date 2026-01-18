@@ -15,14 +15,15 @@ tags:
 ---
 
 #Constraints and Limitations of Concrete 3D Printing in Architecture ([2021-06](date/2021/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jedt-11-2020-0456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jedt-11-2020-0456" target="_blank">10.1108/jedt-11-2020-0456</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/jedt-11-2020-0456" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jedt-11-2020-0456" target="_blank">10.1108/jedt-11-2020-0456</a>
 
 <a href="../../../author/ko_chien-ho"><b>Ko</b>&nbsp;Chien-Ho</a></span><br>
 Journal Article - Journal of Engineering, Design and Technology, Vol. 20, Iss. 5
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constraint"><button class="btn">#constraint</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Constraints%20and%20Limitations%20of%20Concrete%203D%20Printing%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=constraints+and+limitations+of+concrete+3d+printing+in+architecture&as_occt=title&as_sauthors=ko&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108615379&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000667326500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/jedt-11-2020-0456" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Additive Manufacturing&nbsp;([2022-01](date/2022/01))
 <div class="h1-like">A Review of Current 3D Concrete Printing on Materials, Methods, Applications, Properties and Challenges</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0120868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0120868" target="_blank">10.1063/5.0120868</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1063/5.0120868" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0120868" target="_blank">10.1063/5.0120868</a>
 
 <a href="../../../author/bakar_syamir-abu_muhammad"><b>Bakar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/saude_nasuha"><b>Saude</b>&nbsp;Nasuha</a></span>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b>&nbsp;Mustaffa</a></span>, <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b>&nbsp;Nur</a></span><br>
 Contribution - Proceedings of the 1st International Conference on Frontier of Digital Technology Towards a Sustainable Society
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing&as_occt=title&as_sauthors=bakar&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163092921&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1063/5.0120868" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Recycling 3D Printed Concrete Waste for Normal Strength Concrete Production ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/3/1142/pdf?version=1706546372) <a href="https://doi.org/10.3390/app14031142" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14031142" target="_blank">10.3390/app14031142</a>
+<a href="https://www.mdpi.com/2076-3417/14/3/1142/pdf?version=1706546372" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app14031142" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14031142" target="_blank">10.3390/app14031142</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0499-8256" title="ORCID: 0000-0002-0499-8256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mengistu_mindaye_girum"><b>Mengistu</b>&nbsp;Girum</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5587-3835" title="ORCID: 0000-0001-5587-3835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nemes_rita"><b>Nemes</b>&nbsp;Rita</a></span><br>
 Journal Article - Applied Sciences, Vol. 14, Iss. 3, No. 1142
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/normal"><button class="btn">#normal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recycling%203D%20Printed%20Concrete%20Waste%20for%20Normal%20Strength%20Concrete%20Production" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recycling+3d+printed+concrete+waste+for+normal+strength+concrete+production&as_occt=title&as_sauthors=mengistu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192498985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001160384400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app14031142" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

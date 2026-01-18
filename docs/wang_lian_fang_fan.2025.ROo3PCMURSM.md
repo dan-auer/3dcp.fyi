@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheological Optimization of 3D-Printed Cementitious Materials Using Response Surface Methodology ([2025-08](date/2025/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/17/3933/pdf?version=1755859765) <a href="https://doi.org/10.3390/ma18173933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18173933" target="_blank">10.3390/ma18173933</a>
+<a href="https://www.mdpi.com/1996-1944/18/17/3933/pdf?version=1755859765" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18173933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18173933" target="_blank">10.3390/ma18173933</a>
 
 <a href="../../../author/wang_cheinfei"><b>Wang</b>&nbsp;Cheinfei</a></span>, <a href="../../../author/lian_junyin"><b>Lian</b>&nbsp;Junyin</a></span>, <a href="../../../author/fang_yunhui"><b>Fang</b>&nbsp;Yunhui</a></span>, <a href="../../../author/fan_guangming"><b>Fan</b>&nbsp;Guangming</a></span>, <a href="../../../author/yang_yixin"><b>Yang</b>&nbsp;Yixin</a></span>, <a href="../../../author/huang_wenkai"><b>Huang</b>&nbsp;Wenkai</a></span>, <a href="../../../author/shi_shuqin"><b>Shi</b>&nbsp;Shuqin</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 17, No. 3933
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Optimization%20of%203D-Printed%20Cementitious%20Materials%20Using%20Response%20Surface%20Methodology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+optimization+of+3d-printed+cementitious+materials+using+response+surface+methodology&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015971831&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001569984100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18173933" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

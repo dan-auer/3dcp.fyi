@@ -18,14 +18,15 @@ tags:
 ---
 
 #Evaluating 3D Concrete Printing Effectiveness Through a Comparative Study Using SVM, Decision Trees, and Random Forest Techniques ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003596776-48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003596776-48" target="_blank">10.1201/9781003596776-48</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003596776-48" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003596776-48" target="_blank">10.1201/9781003596776-48</a>
 
 <a href="../../../author/latha_p"><b>Latha</b>&nbsp;P.</a></span>, <a href="../../../author/shanmugavelu_a_v"><b>Shanmugavelu</b>&nbsp;V.</a></span>, <a href="../../../author/tamilmani_a"><b>Tamilmani</b>&nbsp;A.</a></span>, <a href="../../../author/thayalnayaki_d"><b>Thayalnayaki</b>&nbsp;D.</a></span>, <a href="../../../author/santhosh_j"><b>Santhosh</b>&nbsp;J.</a></span>, <a href="../../../author/rosaline_j-princess_s"><b>Rosaline</b>&nbsp;S.</a></span><br>
 Contribution - Sustainable Materials, Structures and IoT, pp. 235-240
 
 <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/decision"><button class="btn">#decision</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/random"><button class="btn">#random</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%203D%20Concrete%20Printing%20Effectiveness%20Through%20a%20Comparative%20Study%20Using%20SVM%2C%20Decision%20Trees%2C%20and%20Random%20Forest%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+3d+concrete+printing+effectiveness+through+a+comparative+study+using+svm%2C+decision+trees%2C+and+random+forest+techniques&as_occt=title&as_sauthors=latha&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214175927&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003596776-48" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

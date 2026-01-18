@@ -14,14 +14,15 @@ tags:
 
 #No Reinforcement&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">Compression-Only Structures</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/82/242) <a href="https://doi.org/10.52825/ocp.v1i.82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.82" target="_blank">10.52825/ocp.v1i.82</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/82/242" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v1i.82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.82" target="_blank">10.52825/ocp.v1i.82</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, No. 3
 
 <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=No%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=no+reinforcement&as_occt=title&as_sauthors=block&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v1i.82" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

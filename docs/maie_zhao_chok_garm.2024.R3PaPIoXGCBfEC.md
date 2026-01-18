@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheology, 3D Printing, and Particle-Interactions of Xanthan-Gum-Clay Binder for Earth Concrete ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107551" target="_blank">10.1016/j.cemconres.2024.107551</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2024.107551" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107551" target="_blank">10.1016/j.cemconres.2024.107551</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7238-2384" title="ORCID: 0000-0001-7238-2384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maierdan_yierfan"><b>Maierdan</b>&nbsp;Yierfan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7591-864X" title="ORCID: 0000-0001-7591-864X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_diandian"><b>Zhao</b>&nbsp;Diandian</a></span>, <a href="../../../author/choksi_harsh_pooja"><b>Choksi</b>&nbsp;Pooja</a></span>, <a href="../../../author/garmonina_maria"><b>Garmonina</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 182, No. 107551
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%2C%203D%20Printing%2C%20and%20Particle-Interactions%20of%20Xanthan-Gum-Clay%20Binder%20for%20Earth%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology%2C+3d+printing%2C+and+particle-interactions+of+xanthan-gum-clay+binder+for+earth+concrete&as_occt=title&as_sauthors=maierdan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194457786&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001248483800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2024.107551" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-024-13198-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-13198-3" target="_blank">10.1007/s00170-024-13198-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00170-024-13198-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-13198-3" target="_blank">10.1007/s00170-024-13198-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3128-7692" title="ORCID: 0000-0003-3128-7692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nobrega_christinna-secundo-lopes_anna"><b>Nóbrega</b>&nbsp;Anna</a></span>, <a href="../../../author/queiroz-junior_carlos_cleanto"><b>de&nbsp;Queiroz Junior</b>&nbsp;Cleanto</a></span>, <a href="../../../author/souza_rossine-medeiros_wendell"><b>de&nbsp;Souza</b>&nbsp;Wendell</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b>&nbsp;Antônio</a></span><br>
 Journal Article - The International Journal of Advanced Manufacturing Technology
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Computational%20Modeling%20for%20Structural%20Element%20Analysis%20Using%20Cement%20Composites%20in%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=computational+modeling+for+structural+element+analysis+using+cement+composites+in+3d+printing&as_occt=title&as_sauthors=n%C3%B3brega&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184459082&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001157598500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00170-024-13198-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

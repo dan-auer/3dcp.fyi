@@ -18,14 +18,15 @@ tags:
 ---
 
 #Design, Fabrication and Testing of a Prototype, Thin-Vaulted, Unreinforced Concrete Floor ([2017-02](date/2017/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://www.block.arch.ethz.ch/brg/files/liew_lopez_van_mele_block_2017_-_design_fabrication_and_testing_of_a_prototype_thin-vaulted_unreinforced_concrete_floor_1486982593.pdf) <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" target="_blank">10.1016/j.engstruct.2017.01.075</a>
+<a href="http://www.block.arch.ethz.ch/brg/files/liew_lopez_van_mele_block_2017_-_design_fabrication_and_testing_of_a_prototype_thin-vaulted_unreinforced_concrete_floor_1486982593.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2017.01.075" target="_blank">10.1016/j.engstruct.2017.01.075</a>
 
 <a href="../../../author/liew_a"><b>Liew</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3544-618X" title="ORCID: 0000-0002-3544-618X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lopez_lopez_d"><b>López</b>&nbsp;D.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Journal Article - Engineering Structures, Vol. 137, pp. 323-335
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/vault"><button class="btn">#vault</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Fabrication%20and%20Testing%20of%20a%20Prototype%2C%20Thin-Vaulted%2C%20Unreinforced%20Concrete%20Floor" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design%2C+fabrication+and+testing+of+a+prototype%2C+thin-vaulted%2C+unreinforced+concrete+floor&as_occt=title&as_sauthors=liew&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85012056762&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000395606100022" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2017.01.075" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

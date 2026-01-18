@@ -21,14 +21,15 @@ tags:
 ---
 
 #An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138215" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138215" target="_blank">10.1016/j.conbuildmat.2024.138215</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138215" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138215" target="_blank">10.1016/j.conbuildmat.2024.138215</a>
 
 <a href="../../../author/ma_liangzhu"><b>Ma</b>&nbsp;Liangzhu</a></span>, <a href="../../../author/yin_deshun"><b>Yin</b>&nbsp;Deshun</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1938-3088" title="ORCID: 0009-0004-1938-3088" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_jiangtao"><b>Ren</b>&nbsp;Jiangtao</a></span>, <a href="../../../author/tian_mingyuan"><b>Tian</b>&nbsp;Mingyuan</a></span>, <a href="../../../author/chen_xuan"><b>Chen</b>&nbsp;Xuan</a></span>, <a href="../../../author/li_lirui"><b>Li</b>&nbsp;Lirui</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 447, No. 138215
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Effective%20Thixotropic%20Structural-Dynamics%20Rheological-Model%20for%203D%20Printed%20Concrete%20Materials%20in%20the%20Flow-State" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+effective+thixotropic+structural-dynamics+rheological-model+for+3d+printed+concrete+materials+in+the+flow-state&as_occt=title&as_sauthors=ma&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203023373&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001309485500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138215" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

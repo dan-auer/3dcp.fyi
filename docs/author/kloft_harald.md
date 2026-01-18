@@ -9,7 +9,63 @@ search:
 
 #  Kloft Harald 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4891-869X" target="_blank">0000-0003-4891-869X</a>
+
+    First Contribution
+    : 2015-08-20
+    
+    Last Contribution
+    : 2026-01-17
+
+    Number Contributions
+    : 70
+
+    Number Citations
+    : 1367
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (30)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (29)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (22)</li>
+        <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a> (12)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (11)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../busw_silv_bos_schi.2020.APCFfDaDDFwC/">A Process Classification Framework for Defining and Describing Digital Fabrication with Concrete</a> (199)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (118)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (115)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (97)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (94)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (75)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (75)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (69)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (49)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (43)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (42)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/chen_zhuo"><b>Chen</b> Zhuo</a>, <a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_chen_leus_klof.2026.S3PRCB/">Shotcrete 3D Printed Reinforced Concrete Beam:<br/>Design, Testing, and Comparison Against Conventional Cast Reinforced Concrete Solution</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>

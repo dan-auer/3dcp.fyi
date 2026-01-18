@@ -8,6 +8,10 @@ search:
 
 # #prediction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (66)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (59)</button></a> <a href="../../keyword/model"><button class="btn">#model (29)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (25)</button></a> <a href="../../keyword/learn"><button class="btn">#learn (19)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/eisazadeh_hamid"><b>Eisazadeh</b> Hamid</a>, <a href="../../../author/chatroudi_hosseini_narges"><b>Chatroudi</b> Narges</a>, <a href="../../../author/alizadeh_roozbeh"><b>Alizadeh</b> Roozbeh</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC/">AI-Based Prediction and Numerical Analysis of Mechanical and Microstructural Parameters of Carbon Fiber Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>

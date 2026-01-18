@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of the Addition of Graphite and Graphene-Oxide in the Mechanical Properties and Adsorption of CO2 in Cementitious Filaments ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ces.2024.120116" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ces.2024.120116" target="_blank">10.1016/j.ces.2024.120116</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ces.2024.120116" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ces.2024.120116" target="_blank">10.1016/j.ces.2024.120116</a>
 
 <a href="../../../author/corso_marla"><b>Corso</b>&nbsp;Marla</a></span>, <a href="../../../author/silva_douglas-leles_maicon"><b>da&nbsp;Silva</b>&nbsp;Maicon</a></span>, <a href="../../../author/cardoso_aparecida-reitz_flavia"><b>Cardoso</b>&nbsp;Flávia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7965-8961" title="ORCID: 0000-0001-7965-8961" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heck_cristaldo_stenio"><b>Heck</b>&nbsp;Stenio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9677-4139" title="ORCID: 0000-0001-9677-4139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rezende_cristina-soto-herek_luciana"><b>Rezende</b>&nbsp;Luciana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8986-1231" title="ORCID: 0000-0002-8986-1231" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sastre_marques_rodolfo"><b>Sastre</b>&nbsp;Rodolfo</a></span><br>
 Journal Article - Chemical Engineering Science, Vol. 294, No. 120116
 
 <a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/graphite"><button class="btn">#graphite</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20the%20Addition%20of%20Graphite%20and%20Graphene-Oxide%20in%20the%20Mechanical%20Properties%20and%20Adsorption%20of%20CO2%20in%20Cementitious%20Filaments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+the+addition+of+graphite+and+graphene-oxide+in+the+mechanical+properties+and+adsorption+of+co2+in+cementitious+filaments&as_occt=title&as_sauthors=corso&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190319251&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001229924500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ces.2024.120116" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

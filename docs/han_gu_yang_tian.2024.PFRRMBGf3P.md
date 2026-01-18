@@ -20,14 +20,15 @@ tags:
 
 #PVA-Fiber-Reinforced Red Mud-Based Geopolymer for 3D Printing&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Printability, Mechanical Properties and Microanalysis</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110733" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110733" target="_blank">10.1016/j.jobe.2024.110733</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.110733" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110733" target="_blank">10.1016/j.jobe.2024.110733</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-2372-9531" title="ORCID: 0009-0003-2372-9531" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_kang"><b>Han</b>&nbsp;Kang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-2691-7778" title="ORCID: 0009-0005-2691-7778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gu_fei"><b>Gu</b>&nbsp;Fei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2771-6362" title="ORCID: 0000-0002-2771-6362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tian_xinchen"><b>Tian</b>&nbsp;Xinchen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2387-6403" title="ORCID: 0000-0003-2387-6403" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_xiangqin"><b>Du</b>&nbsp;Xiangqin</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 97, No. 110733
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=PVA-Fiber-Reinforced%20Red%20Mud-Based%20Geopolymer%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pva-fiber-reinforced+red+mud-based+geopolymer+for+3d+printing&as_occt=title&as_sauthors=han&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203851840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001317750700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.110733" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

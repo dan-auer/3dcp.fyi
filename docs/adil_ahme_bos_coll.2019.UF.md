@@ -11,14 +11,15 @@ tags:
 ---
 
 #Unprintable Forms ([2019-10](date/2019/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia19_168.pdf) <a href="https://doi.org/10.52842/conf.acadia.2019.168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.168" target="_blank">10.52842/conf.acadia.2019.168</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia19_168.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2019.168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2019.168" target="_blank">10.52842/conf.acadia.2019.168</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5556-2452" title="ORCID: 0000-0002-5556-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adilenidou_yota"><b>Adilenidou</b>&nbsp;Yota</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7250-9752" title="ORCID: 0000-0001-7250-9752" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b>&nbsp;Zeeshan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <a href="../../../author/colletti_marjan"><b>Colletti</b>&nbsp;Marjan</a></span><br>
 Contribution - Proceedings of the 39th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 168-177
 
 <a href="../../keyword/form"><button class="btn">#form</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Unprintable%20Forms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=unprintable+forms&as_occt=title&as_sauthors=adilenidou&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2019.168" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

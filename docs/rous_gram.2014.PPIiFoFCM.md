@@ -15,14 +15,15 @@ tags:
 ---
 
 #Physical Phenomena Involved in Flows of Fresh Cementitious Materials ([2014-03](date/2014/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-94-017-8884-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-94-017-8884-7_1" target="_blank">10.1007/978-94-017-8884-7_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-94-017-8884-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-94-017-8884-7_1" target="_blank">10.1007/978-94-017-8884-7_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <a href="../../../author/gram_annika"><b>Gram</b>&nbsp;Annika</a></span><br>
 Contribution - Simulation of Fresh Concrete Flow, pp. 1-24
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Physical%20Phenomena%20Involved%20in%20Flows%20of%20Fresh%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=physical+phenomena+involved+in+flows+of+fresh+cementitious+materials&as_occt=title&as_sauthors=roussel&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84980018588&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000342576000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-94-017-8884-7_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

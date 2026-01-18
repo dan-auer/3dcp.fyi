@@ -8,6 +8,10 @@ search:
 
 # #overview
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (4)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a></li>
   <li><a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/palermo_alessandro"><b>Palermo</b> Alessandro</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lopo_scot_cluc_pale.2024.SRf3CPHiNZ/">Sustainable Resilience for 3D Concrete Printed Homes in New Zealand:<br/>A Three Years Research Government Funding Overview</a></li>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Influence of PVA- and PP-Fibers at Different Volume Fractions on Mechanical Properties of 3D Printed Concrete ([2019-12](date/2019/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-8079-6_185" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8079-6_185" target="_blank">10.1007/978-981-15-8079-6_185</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-15-8079-6_185" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8079-6_185" target="_blank">10.1007/978-981-15-8079-6_185</a>
 
 <a href="../../../author/pham_luong"><b>Pham</b>&nbsp;Luong</a></span>, <a href="../../../author/lin_xiaoshan"><b>Lin</b>&nbsp;Xiaoshan</a></span>, <a href="../../../author/gravina_j_r"><b>Gravina</b>&nbsp;R.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
 Contribution - Proceedings of the 16th East Asian-Pacific Conference on Structural Engineering and Construction, pp. 2013-2024
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20PVA-%20and%20PP-Fibers%20at%20Different%20Volume%20Fractions%20on%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+pva-+and+pp-fibers+at+different+volume+fractions+on+mechanical+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=pham&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104143291&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-15-8079-6_185" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

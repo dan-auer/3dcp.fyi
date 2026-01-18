@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effect of Accelerated Curing and Layer Deformations on Structural Failure During Extrusion-Based 3D Printing ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2021.106586) <a href="https://doi.org/10.1016/j.cemconres.2021.106586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106586" target="_blank">10.1016/j.cemconres.2021.106586</a>
+<a href="https://doi.org/10.1016/j.cemconres.2021.106586" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2021.106586" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106586" target="_blank">10.1016/j.cemconres.2021.106586</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9960-3666" title="ORCID: 0000-0002-9960-3666" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suiker_s-j_akke"><b>Suiker</b>&nbsp;Akke</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 151
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Accelerated%20Curing%20and%20Layer%20Deformations%20on%20Structural%20Failure%20During%20Extrusion-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+accelerated+curing+and+layer+deformations+on+structural+failure+during+extrusion-based+3d+printing&as_occt=title&as_sauthors=suiker&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118493368&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000720842700002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2021.106586" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -65,8 +66,9 @@ Journal Article - Cement and Concrete Research, Vol. 151
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ bug "19 Citations"
+???+ bug "20 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/alessandro_antonella"><b>Alessandro</b> Antonella</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ales_sous_uber.2026.SCf3PS/">Sensitive Concretes for 3D Printed Structures:<br/>First Physical and Electromechanical Characterization</a></li>
       <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cui_guo_liu_da.2025.QAo3PCTQVI/">Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>
       <li><a href="../../../author/park_ji-seul"><b>Park</b> Ji-seul</a>, <a href="../../../author/jeong_seung-su"><b>Jeong</b> Seung-Su</a>, <a href="../../../author/hong_seungkee"><b>Hong</b> Seungkee</a>, <a href="../../../author/lee_seohyung"><b>Lee</b> Seohyung</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../park_jeon_hong_lee.2025.MMfPoSSoCSD3CP/">Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing</a></li>

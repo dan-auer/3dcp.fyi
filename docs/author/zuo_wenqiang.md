@@ -9,6 +9,60 @@ search:
 
 #  Zuo Wenqiang 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2820-6559" target="_blank">0000-0002-2820-6559</a>
+
+    First Contribution
+    : 2019-06-22
+    
+    Last Contribution
+    : 2024-11-26
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 456
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (7)</li>
+        <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> (6)</li>
+        <li><a href="../../../author/geng_zifan"><b>Geng</b> Zifan</a> (4)</li>
+        <li><a href="../../../author/she_wei"><b>She</b> Wei</a> (4)</li>
+        <li><a href="../../../author/pan_hao"><b>Pan</b> Hao</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a> (188)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (25)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (19)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (24)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (22)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (22)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (17)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_haoyu"><b>Lu</b> Haoyu</a>, <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>, <a href="../../../author/wang_junkai"><b>Wang</b> Junkai</a>, <a href="../../../author/shi_zhaoxin"><b>Shi</b> Zhaoxin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lu_zhan_wang_shi.2025.PToSLIfYSAo3PC/">Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete</a></li>
   <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../keit_zuo_cane_aime.2024.XRTIiEDEi3CP/">X-Ray Tomography Insights into Early Drying Effects in 3D Concrete Printing</a></li>

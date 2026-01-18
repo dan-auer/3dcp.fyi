@@ -19,14 +19,15 @@ tags:
 ---
 
 #Construction Technology of the Curved Mars House Digital Hotel Project in China Using Concrete 3D Printing ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_30" target="_blank">10.1007/978-3-031-64269-2_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_30" target="_blank">10.1007/978-3-031-64269-2_30</a>
 
 <a href="../../../author/lin_xiqiang"><b>Lin</b>&nbsp;Xiqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6107-5095" title="ORCID: 0000-0002-6107-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_hailong"><b>Wang</b>&nbsp;Hailong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0708-9565" title="ORCID: 0000-0003-0708-9565" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_xiaoyan"><b>Sun</b>&nbsp;Xiaoyan</a></span>, <a href="../../../author/kikhia_wael"><b>Kikhia</b>&nbsp;Wael</a></span>, <a href="../../../author/wu_zhennan"><b>Wu</b>&nbsp;Zhennan</a></span>, <a href="../../../author/lan_lu"><b>Lan</b>&nbsp;Lu</a></span>, <a href="../../../author/zhao_jiawei"><b>Zhao</b>&nbsp;Jiawei</a></span><br>
 Contribution - Construction 3D Printing, pp. 241-250
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Construction%20Technology%20of%20the%20Curved%20Mars%20House%20Digital%20Hotel%20Project%20in%20China%20Using%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=construction+technology+of+the+curved+mars+house+digital+hotel+project+in+china+using+concrete+3d+printing&as_occt=title&as_sauthors=lin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201310162&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

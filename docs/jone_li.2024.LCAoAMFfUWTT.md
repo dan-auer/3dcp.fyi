@@ -17,14 +17,15 @@ tags:
 ---
 
 #Life Cycle Assessment of Additively Manufactured Foundations for Ultratall Wind Turbine Towers ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/we.2947) <a href="https://doi.org/10.1002/we.2947" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/we.2947" target="_blank">10.1002/we.2947</a>
+<a href="https://doi.org/10.1002/we.2947" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/we.2947" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/we.2947" target="_blank">10.1002/we.2947</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-4705-2768" title="ORCID: 0009-0009-4705-2768" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_es_kathryn"><b>Jones</b>&nbsp;Kathryn</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
 Journal Article - Wind Energy
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/foundation"><button class="btn">#foundation</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Additively%20Manufactured%20Foundations%20for%20Ultratall%20Wind%20Turbine%20Towers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+additively+manufactured+foundations+for+ultratall+wind+turbine+towers&as_occt=title&as_sauthors=jones&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204387596&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001315709400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/we.2947" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

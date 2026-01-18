@@ -9,6 +9,60 @@ search:
 
 #  Niedermeier Roland 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-03-03
+    
+    Last Contribution
+    : 2021-03-03
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 5
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/grosse_u_christian"><b>Grosse</b> Christian</a> (1)</li>
+        <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> (1)</li>
+        <li><a href="../../../author/peter_a_malte"><b>Peter</b> Malte</a> (1)</li>
+        <li><a href="../../../author/raith_manuel"><b>Raith</b> Manuel</a> (1)</li>
+        <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/niedermeier_roland"><b>Niedermeier</b> Roland</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../rutz_lauf_nied_fisc.2021.IoFAoPaMCiaCCFCM/">Influence of Fiber-Alignment on Pseudoductility and Micro-Cracking in a Cementitious Carbon-Fiber Composite Material</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (3)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (3)</li>
+        <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a> (2)</li>
+        <li><a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> (2)</li>
+        <li><a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> (1)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> (2)</li>
+        <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> (2)</li>
+        <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a> (2)</li>
+        <li><a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/niedermeier_roland"><b>Niedermeier</b> Roland</a>, <a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../rutz_lauf_nied_fisc.2021.IoFAoPaMCiaCCFCM/">Influence of Fiber-Alignment on Pseudoductility and Micro-Cracking in a Cementitious Carbon-Fiber Composite Material</a></li>
 </ol>

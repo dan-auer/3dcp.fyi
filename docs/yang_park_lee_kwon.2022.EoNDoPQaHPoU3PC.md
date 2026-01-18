@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete ([2022-12](date/2022/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/1/34/pdf?version=1672304361) <a href="https://doi.org/10.3390/ma16010034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16010034" target="_blank">10.3390/ma16010034</a>
+<a href="https://www.mdpi.com/1996-1944/16/1/34/pdf?version=1672304361" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma16010034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16010034" target="_blank">10.3390/ma16010034</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jun-mo"><b>Yang</b>&nbsp;Jun-Mo</a></span>, <a href="../../../author/park_in-beom"><b>Park</b>&nbsp;In-Beom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9789-3348" title="ORCID: 0000-0002-9789-3348" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwon_hongkyu"><b>Kwon</b>&nbsp;Hongkyu</a></span><br>
 Journal Article - Materials, Vol. 16, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/detail"><button class="btn">#detail</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nozzle%20Details%20on%20Print%20Quality%20and%20Hardened%20Properties%20of%20Underwater%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+nozzle+details+on+print+quality+and+hardened+properties+of+underwater+3d+printed+concrete&as_occt=title&as_sauthors=yang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145650452&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000909022100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma16010034" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

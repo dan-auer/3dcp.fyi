@@ -8,6 +8,10 @@ search:
 
 # #crystal
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose (4)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (2)</button></a> <a href="../../keyword/paste"><button class="btn">#paste (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a>, <a href="../../../author/schackow_adilson"><b>Schackow</b> Adilson</a>, <a href="../../../author/effting_carmeane"><b>Effting</b> Carmeane</a>, <a href="../../../author/matos_ricardo_paulo"><b>Matos</b> Paulo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC/">The Effect of Crystalline Nanocellulose on the Rheology, Hydration of Cement Pastes, and Buildability of 3D-Printed Concrete</a></li>
   <li><a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a>, <a href="../../../author/fuente-gonzalez_elena"><b>Fuente González</b> Elena</a>, <a href="../../../author/garcia-calvo_luis_jose"><b>García Calvo</b> José</a>, <a href="../../../author/carballosa_pedro"><b>Carballosa</b> Pedro</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../jara_fuen_garc_carb.2024.NCCtRSDi3PoCM/">Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials</a></li>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of 3D Printing Geometrical Monocline on Behaviors of Curved Timoshenko Beams Based on Isogeometric Analyses ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2023.105659" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.105659" target="_blank">10.1016/j.istruc.2023.105659</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2023.105659" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.105659" target="_blank">10.1016/j.istruc.2023.105659</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <a href="../../../author/chen_huaikun"><b>Chen</b>&nbsp;Huaikun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <a href="../../../author/zhu_peng"><b>Zhu</b>&nbsp;Peng</a></span>, <a href="../../../author/chen_jingbin"><b>Chen</b>&nbsp;Jingbin</a></span>, <a href="../../../author/kong_xiangrui"><b>Kong</b>&nbsp;Xiangrui</a></span><br>
 Journal Article - Structures, Vol. 58, No. 105659
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/isogeometric"><button class="btn">#isogeometric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%203D%20Printing%20Geometrical%20Monocline%20on%20Behaviors%20of%20Curved%20Timoshenko%20Beams%20Based%20on%20Isogeometric%20Analyses" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+3d+printing+geometrical+monocline+on+behaviors+of+curved+timoshenko+beams+based+on+isogeometric+analyses&as_occt=title&as_sauthors=wu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178498346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001132591200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2023.105659" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #adsorption
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/composite"><button class="btn">#composite (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/chung_sang-yeop"><b>Chung</b> Sang-Yeop</a>, <a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../cuev_chun_siko_step.2024.PoNWaL3PCCwRG/">Performance of Normal-Weight and Lightweight 3D Printed Cementitious Composites with Recycled Glass:<br/>Sorption and Microstructural Perspective</a></li>
   <li><a href="../../../author/rider_bo"><b>Rider</b> Bo</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a></li>

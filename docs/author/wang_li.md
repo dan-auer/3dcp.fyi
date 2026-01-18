@@ -9,6 +9,60 @@ search:
 
 #  Wang Li 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1286-4407" target="_blank">0000-0003-1286-4407</a>
+
+    First Contribution
+    : 2017-08-30
+    
+    Last Contribution
+    : 2025-11-07
+
+    Number Contributions
+    : 72
+
+    Number Citations
+    : 3803
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (60)</li>
+        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (20)</li>
+        <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (13)</li>
+        <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (8)</li>
+        <li><a href="../../../author/wang_fang"><b>Wang</b> Fang</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a> (435)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (135)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (134)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (125)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (124)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (105)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (125)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (99)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (85)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (71)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (68)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
   <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>

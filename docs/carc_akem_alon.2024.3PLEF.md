@@ -16,14 +16,15 @@ tags:
 
 #3D Printed Lightweight Earth Fiber&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">From Tiles to Tessellations</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1089/3dp.2023.0341" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0341" target="_blank">10.1089/3dp.2023.0341</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2023.0341" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0341" target="_blank">10.1089/3dp.2023.0341</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0925-5865" title="ORCID: 0000-0002-0925-5865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b>&nbsp;Olga</a></span>, <a href="../../../author/akemah_tashania"><b>Akemah</b>&nbsp;Tashania</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3804-6541" title="ORCID: 0000-0003-3804-6541" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alon_lola"><b>ben&nbsp;Alon</b>&nbsp;Lola</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing
 
 <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tessellation"><button class="btn">#tessellation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Lightweight%20Earth%20Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+lightweight+earth+fiber&as_occt=title&as_sauthors=carcassi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205939733&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001322066500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2023.0341" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

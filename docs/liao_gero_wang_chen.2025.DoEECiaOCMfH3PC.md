@@ -19,14 +19,15 @@ tags:
 ---
 
 #Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsendh.steng-13933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-13933" target="_blank">10.1061/jsendh.steng-13933</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jsendh.steng-13933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsendh.steng-13933" target="_blank">10.1061/jsendh.steng-13933</a>
 
 <a href="../../../author/liao_minmao"><b>Liao</b>&nbsp;Minmao</a></span>, <a href="../../../author/gerong_wangdui"><b>Gerong</b>&nbsp;Wangdui</a></span>, <a href="../../../author/wang_pengfei"><b>Wang</b>&nbsp;Pengfei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2498-576X" title="ORCID: 0000-0002-2498-576X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhaohui"><b>Chen</b>&nbsp;Zhaohui</a></span><br>
 Journal Article - Journal of Structural Engineering, Vol. 151, Iss. 11
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/constant"><button class="btn">#constant</button></a> <a href="../../keyword/constitutive"><button class="btn">#constitutive</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Determination%20of%20Elastic%20Engineering%20Constants%20in%20an%20Orthotropic%20Constitutive%20Model%20for%20Hardened%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=determination+of+elastic+engineering+constants+in+an+orthotropic+constitutive+model+for+hardened+3d-printed+concrete&as_occt=title&as_sauthors=liao&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014328764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001571263600027" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jsendh.steng-13933" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

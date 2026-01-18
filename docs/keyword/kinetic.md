@@ -8,6 +8,10 @@ search:
 
 # #kinetic
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer (3)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gu_han_khay.2025.EoAKoSPo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Memari Ali 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1000-7129" target="_blank">0000-0003-1000-7129</a>
+
+    First Contribution
+    : 2019-11-08
+    
+    Last Contribution
+    : 2025-05-10
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 326
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (14)</li>
+        <li><a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> (11)</li>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (8)</li>
+        <li><a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> (7)</li>
+        <li><a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a> (97)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (40)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (40)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (27)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (27)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (15)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (9)</li>
+        <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> (9)</li>
+        <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a> (8)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../amin_mema.2025.DoELwCf3P/">Development of EPS Light‐weight Concrete for 3D Printing</a></li>
   <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../amin_mema.2024.AoABi3CPfMPE/">Analysis of Anisotropic Behavior in 3D Concrete Printing for Mechanical Property Evaluation</a></li>

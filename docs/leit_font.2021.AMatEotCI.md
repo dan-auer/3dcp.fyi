@@ -18,14 +18,15 @@ tags:
 
 #Additive Manufacturing and the Evolution of the Construction Industry&nbsp;([2021-07](date/2021/07))
 <div class="h1-like">A Systematic Literature Review 2015-2021</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/dasa53625.2021.9682363" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/dasa53625.2021.9682363" target="_blank">10.1109/dasa53625.2021.9682363</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/dasa53625.2021.9682363" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/dasa53625.2021.9682363" target="_blank">10.1109/dasa53625.2021.9682363</a>
 
 <a href="../../../author/leite_gabriela"><b>Leite</b>&nbsp;Gabriela</a></span>, <a href="../../../author/fontana_elisa_marcele"><b>Fontana</b>&nbsp;Marcele</a></span><br>
 Contribution - International Conference on Decision Aid Sciences and Application, pp. 294-298
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20and%20the%20Evolution%20of%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+and+the+evolution+of+the+construction+industry&as_occt=title&as_sauthors=leite&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125786867&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000779330100055" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/dasa53625.2021.9682363" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

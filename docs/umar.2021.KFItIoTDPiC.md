@@ -17,14 +17,15 @@ tags:
 ---
 
 #Key Factors Influencing the Implementation of Three-Dimensional Printing in Construction ([2021-08](date/2021/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://eprints.kingston.ac.uk/id/eprint/48214/6/Umar-T-48214-AAM.pdf) <a href="https://doi.org/10.1680/jmapl.19.00029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmapl.19.00029" target="_blank">10.1680/jmapl.19.00029</a>
+<a href="https://eprints.kingston.ac.uk/id/eprint/48214/6/Umar-T-48214-AAM.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jmapl.19.00029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jmapl.19.00029" target="_blank">10.1680/jmapl.19.00029</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1197-8181" title="ORCID: 0000-0002-1197-8181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/umar_tariq"><b>Umar</b>&nbsp;Tariq</a></span><br>
 Journal Article - Proceedings of the Institution of Civil Engineers - Management, Procurement and Law, Vol. 174, Iss. 3
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Key%20Factors%20Influencing%20the%20Implementation%20of%20Three-Dimensional%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=key+factors+influencing+the+implementation+of+three-dimensional+printing+in+construction&as_occt=title&as_sauthors=umar&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103884382&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000686328400004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jmapl.19.00029" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #From Analogue to Digital&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">Evolution of Building Machines Towards Reforming Production and Customization of Housing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-36922-3_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_23" target="_blank">10.1007/978-3-031-36922-3_23</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-36922-3_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36922-3_23" target="_blank">10.1007/978-3-031-36922-3_23</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8964-0076" title="ORCID: 0000-0002-8964-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carbone_carlo"><b>Carbone</b>&nbsp;Carlo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1537-7893" title="ORCID: 0000-0002-1537-7893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohamed_eid_basem"><b>Mohamed</b>&nbsp;Basem</a></span><br>
 Contribution - Architecture and Design for Industry 4.0, pp. 387-409
 
 <a href="../../keyword/analog"><button class="btn">#analog</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Analogue%20to%20Digital" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+analogue+to+digital&as_occt=title&as_sauthors=carbone&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175179199&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-36922-3_23" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

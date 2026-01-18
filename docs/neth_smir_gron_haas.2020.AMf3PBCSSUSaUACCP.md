@@ -19,14 +19,15 @@ tags:
 ---
 
 #A Method for 3D Printing Bio-Cemented Spatial Structures Using Sand and Urease-Active-Calcium-Carbonate-Powder ([2020-08](date/2020/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2020.109032) <a href="https://doi.org/10.1016/j.matdes.2020.109032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2020.109032" target="_blank">10.1016/j.matdes.2020.109032</a>
+<a href="https://doi.org/10.1016/j.matdes.2020.109032" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2020.109032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2020.109032" target="_blank">10.1016/j.matdes.2020.109032</a>
 
 <a href="../../../author/nething_christoph"><b>Nething</b>&nbsp;Christoph</a></span>, <a href="../../../author/smirnova_maya"><b>Smirnova</b>&nbsp;Maya</a></span>, <a href="../../../author/groning_ad_janosch"><b>Gröning</b>&nbsp;Janosch</a></span>, <a href="../../../author/haase_walter"><b>Haase</b>&nbsp;Walter</a></span>, <a href="../../../author/stolz_andreas"><b>Stolz</b>&nbsp;Andreas</a></span>, <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span><br>
 Journal Article - Materials & Design, Vol. 195
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Method%20for%203D%20Printing%20Bio-Cemented%20Spatial%20Structures%20Using%20Sand%20and%20Urease-Active-Calcium-Carbonate-Powder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+method+for+3d+printing+bio-cemented+spatial+structures+using+sand+and+urease-active-calcium-carbonate-powder&as_occt=title&as_sauthors=nething&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089344840&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000576531100005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2020.109032" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

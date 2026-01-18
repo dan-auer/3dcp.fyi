@@ -17,14 +17,15 @@ tags:
 ---
 
 #Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1088/2631-8695/adee78" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2631-8695/adee78" target="_blank">10.1088/2631-8695/adee78</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1088/2631-8695/adee78" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2631-8695/adee78" target="_blank">10.1088/2631-8695/adee78</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-3775-8037" title="ORCID: 0009-0002-3775-8037" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khare_bhaskar_karan"><b>Khare</b>&nbsp;Karan</a></span>, <a href="../../../author/khan_n_subim"><b>Khan</b>&nbsp;Subim</a></span>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b>&nbsp;Dhirajkumar</a></span>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b>&nbsp;Pavankumar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-3120" title="ORCID: 0000-0002-7576-3120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pingale_d_ajay"><b>Pingale</b>&nbsp;Ajay</a></span><br>
 Journal Article - Engineering Research Express
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Development%20of%20a%20Nozzle%20Assembly%20for%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+development+of+a+nozzle+assembly+for+3d+concrete+printing+applications&as_occt=title&as_sauthors=khare&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011588760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/2631-8695/adee78" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

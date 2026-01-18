@@ -16,14 +16,15 @@ tags:
 ---
 
 #Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105881" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105881" target="_blank">10.1016/j.autcon.2024.105881</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105881" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105881" target="_blank">10.1016/j.autcon.2024.105881</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-8882-2057" title="ORCID: 0009-0000-8882-2057" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_qingwei"><b>Wang</b>&nbsp;Qingwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <a href="../../../author/yang_junhao"><b>Yang</b>&nbsp;Junhao</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span><br>
 Journal Article - Automation in Construction, Vol. 169, No. 105881
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20Printing%20and%20Rheological%20Parameters%20for%203D%20Printing%20with%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+printing+and+rheological+parameters+for+3d+printing+with+cementitious+materials&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209728246&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001365171300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105881" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

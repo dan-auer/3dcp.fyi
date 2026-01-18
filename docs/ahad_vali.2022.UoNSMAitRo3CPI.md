@@ -16,14 +16,15 @@ tags:
 ---
 
 #Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry ([2022-11](date/2022/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.21125/iceri.2022.1898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21125/iceri.2022.1898" target="_blank">10.21125/iceri.2022.1898</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.21125/iceri.2022.1898" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21125/iceri.2022.1898" target="_blank">10.21125/iceri.2022.1898</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5043-2990" title="ORCID: 0000-0002-5043-2990" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahadi_bahram"><b>Ahadi</b>&nbsp;Bahram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8643-7921" title="ORCID: 0000-0001-8643-7921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b>&nbsp;María</a></span><br>
 Contribution - Proceedings, pp. 7470-7479
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Use%20of%20Nitinol-Shape%20Memory%20Alloy%20in%20the%20Reinforcement%20of%203D%20Concrete%20Printing%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=use+of+nitinol-shape+memory+alloy+in+the+reinforcement+of+3d+concrete+printing+industry&as_occt=title&as_sauthors=ahadi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21125/iceri.2022.1898" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

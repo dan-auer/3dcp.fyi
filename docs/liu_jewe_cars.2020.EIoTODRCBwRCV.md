@@ -20,14 +20,15 @@ tags:
 ---
 
 #Experimental Investigation of Topology-Optimized Deep Reinforced Concrete Beams with Reduced Concrete Volume ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://dspace.mit.edu/bitstream/1721.1/138422.2/4/LiuJewettCarstensen.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_61" target="_blank">10.1007/978-3-030-49916-7_61</a>
+<a href="https://dspace.mit.edu/bitstream/1721.1/138422.2/4/LiuJewettCarstensen.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_61" target="_blank">10.1007/978-3-030-49916-7_61</a>
 
 <a href="../../../author/liu_yan"><b>Liu</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2785-5095" title="ORCID: 0000-0003-2785-5095" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jewett_l_jackson"><b>Jewett</b>&nbsp;Jackson</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1885-2338" title="ORCID: 0000-0002-1885-2338" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carstensen_v_josephine"><b>Carstensen</b>&nbsp;Josephine</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 601-611
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20of%20Topology-Optimized%20Deep%20Reinforced%20Concrete%20Beams%20with%20Reduced%20Concrete%20Volume" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+investigation+of+topology-optimized+deep+reinforced+concrete+beams+with+reduced+concrete+volume&as_occt=title&as_sauthors=liu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088253424&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_61" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

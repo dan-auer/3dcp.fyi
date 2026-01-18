@@ -9,6 +9,60 @@ search:
 
 #  Yang Lin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6910-2596" target="_blank">0000-0002-6910-2596</a>
+
+    First Contribution
+    : 2019-01-03
+    
+    Last Contribution
+    : 2025-11-01
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 646
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (9)</li>
+        <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (9)</li>
+        <li><a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> (7)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (6)</li>
+        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (320)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (40)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (36)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (33)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (30)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (27)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (21)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (21)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (19)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (18)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>
   <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>

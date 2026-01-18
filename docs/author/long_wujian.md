@@ -9,6 +9,60 @@ search:
 
 #  Long Wujian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-4760-0009" target="_blank">0000-0002-4760-0009</a>
+
+    First Contribution
+    : 2019-08-16
+    
+    Last Contribution
+    : 2025-05-26
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 261
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> (7)</li>
+        <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> (7)</li>
+        <li><a href="../../../author/lin_can"><b>Lin</b> Can</a> (3)</li>
+        <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> (3)</li>
+        <li><a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../long_tao_lin_gu.2019.RaBoSCBCCMCCf3P/">Rheology and Buildability of Sustainable Cement-Based Composites Containing Micro-Crystalline Cellulose for 3D Printing</a> (131)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (37)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (30)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (25)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (24)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (9)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (7)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
   <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

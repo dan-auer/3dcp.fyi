@@ -20,14 +20,15 @@ tags:
 ---
 
 #Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.70401/jbde.2025.0020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.70401/jbde.2025.0020" target="_blank">10.70401/jbde.2025.0020</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.70401/jbde.2025.0020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.70401/jbde.2025.0020" target="_blank">10.70401/jbde.2025.0020</a>
 
 <a href="../../../author/zhang_genbao"><b>Zhang</b>&nbsp;Genbao</a></span>, <a href="../../../author/chen_lingke"><b>Chen</b>&nbsp;Lingke</a></span>, <a href="../../../author/liu_miao"><b>Liu</b>&nbsp;Miao</a></span>, <a href="../../../author/morsy_m_amr"><b>Morsy</b>&nbsp;Amr</a></span>, <a href="../../../author/ding_haibin"><b>Ding</b>&nbsp;Haibin</a></span>, <a href="../../../author/he_ran"><b>He</b>&nbsp;Ran</a></span>, <a href="../../../author/luo_xiao"><b>Luo</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span><br>
 Journal Article - Journal of Building Design and Environment
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/mesh"><button class="btn">#mesh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Shear%20Properties%20of%20U-Shaped%20Steel%20Wire%20Mesh%20Reinforced%203D%20Printed%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+the+shear+properties+of+u-shaped+steel+wire+mesh+reinforced+3d+printed+composites&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.70401/jbde.2025.0020" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

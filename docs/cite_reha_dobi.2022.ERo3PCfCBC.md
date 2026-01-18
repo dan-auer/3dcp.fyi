@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Research on 3D Printed Construction from Cement-Based Composites ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.5593/sgem2022/6.1/s27.30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5593/sgem2022/6.1/s27.30" target="_blank">10.5593/sgem2022/6.1/s27.30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.5593/sgem2022/6.1/s27.30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5593/sgem2022/6.1/s27.30" target="_blank">10.5593/sgem2022/6.1/s27.30</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2615-1873" title="ORCID: 0000-0002-2615-1873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/citek_david"><b>Čítek</b>&nbsp;David</a></span>, <a href="../../../author/rehacek_stanislav"><b>Rehacek</b>&nbsp;Stanislav</a></span>, <a href="../../../author/dobias_daniel"><b>Dobias</b>&nbsp;Daniel</a></span><br>
 Contribution - Proceedings of the 22nd SGEM International Multidisciplinary Scientific GeoConference 2022, pp. 233-240
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Research%20on%203D%20Printed%20Construction%20from%20Cement-Based%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+research+on+3d+printed+construction+from+cement-based+composites&as_occt=title&as_sauthors=%C4%8D%C3%ADtek&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151253452&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5593/sgem2022/6.1/s27.30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

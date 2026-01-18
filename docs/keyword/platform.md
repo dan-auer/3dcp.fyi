@@ -8,6 +8,10 @@ search:
 
 # #platform
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (4)</button></a> <a href="../../keyword/design"><button class="btn">#design (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
   <li><a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB/">A 3D Printing Platform for Design and Manufacturing of Multi-Functional Cementitious Construction Components and Its Validation for a Post-Tensioned Beam</a></li>

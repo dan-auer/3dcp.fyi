@@ -9,6 +9,60 @@ search:
 
 #  Rodriguez Fabian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3088-7701" target="_blank">0000-0002-3088-7701</a>
+
+    First Contribution
+    : 2021-06-11
+    
+    Last Contribution
+    : 2025-12-26
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 68
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (6)</li>
+        <li><a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> (6)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (6)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (4)</li>
+        <li><a href="../../../author/aday_n_anastasia"><b>Aday</b> Anastasia</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a> (41)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (19)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
+        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (15)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (14)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (11)</li>
+        <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (10)</li>
+        <li><a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a> (7)</li>
+        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>

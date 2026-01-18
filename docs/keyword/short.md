@@ -8,7 +8,12 @@ search:
 
 # #short
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (6)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (6)</button></a> <a href="../../keyword/review"><button class="btn">#review (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kechagia_aikaterini"><b>Kechagia</b> Aikaterini</a>, <a href="../../../author/tzounis_lazaros"><b>Tzounis</b> Lazaros</a>, <a href="../../../author/kechagias_john"><b>Kechagias</b> John</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kech_tzou_kech.2026.3PC/">3D Printing Concrete:<br/>A Short Review of Systems and Materials</a></li>
   <li><a href="../../../author/yamamoto_yujin"><b>Yamamoto</b> Yujin</a>, <a href="../../../author/kinomura_koji"><b>Kinomura</b> Koji</a>, <a href="../../../author/murata_satoshi"><b>Murata</b> Satoshi</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yama_kino_mura_asau.2025.SPoRCSb3PCPFwSF/">Seismic Performance of RC Column Surrounded by 3D Printed Concrete Permanent Formwork with Short Fiber</a></li>
   <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_wang_sun_sing.2025.CPaDEoCSCwSFSCbCFR3PM/">Compressive Performance and Damage Evolution of Concrete Short Columns with Shell-Filling Structure Confined by Continuous Fiber Reinforced 3D Printed Mortar</a></li>
   <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a>, <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../nies_chaj.2025.EoMotPoFCCf3P/">Effect of Materials on the Properties of Fresh Cementitious Composites for 3D Printing:<br/>Short Review</a></li>

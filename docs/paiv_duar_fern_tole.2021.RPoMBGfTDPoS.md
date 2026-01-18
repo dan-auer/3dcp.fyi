@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheological Properties of Metakaolin-Based Geopolymers for Three-Dimensional Printing of Structures ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733122" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733122" target="_blank">10.14359/51733122</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733122" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733122" target="_blank">10.14359/51733122</a>
 
 <a href="../../../author/paiva_dm_maria"><b>Paiva</b>&nbsp;Maria</a></span>, <a href="../../../author/duarte-fonseca-rocha_larissa"><b>Duarte Fonseca Rocha</b>&nbsp;Larissa</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-7983-1520" title="ORCID: 0009-0009-7983-1520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez_ikeda-castrillon_letizia"><b>Fernandez</b>&nbsp;Letízia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <a href="../../../author/silva_ccm_emilio"><b>Silva</b>&nbsp;Emílio</a></span>, <a href="../../../author/neumann_reiner"><b>Neumann</b>&nbsp;Reiner</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 177-187
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20of%20Metakaolin-Based%20Geopolymers%20for%20Three-Dimensional%20Printing%20of%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+properties+of+metakaolin-based+geopolymers+for+three-dimensional+printing+of+structures&as_occt=title&as_sauthors=paiva&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122104917&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800016" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733122" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

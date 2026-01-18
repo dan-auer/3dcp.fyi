@@ -17,14 +17,15 @@ tags:
 
 #Unpacking the Dynamics of 3D Concrete Printing Adoption&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">An Integrated UTAUT-TOE Approach</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/tem.2024.3399227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tem.2024.3399227" target="_blank">10.1109/tem.2024.3399227</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/tem.2024.3399227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/tem.2024.3399227" target="_blank">10.1109/tem.2024.3399227</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8818-9674" title="ORCID: 0000-0002-8818-9674" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_yilong"><b>Han</b>&nbsp;Yilong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0961-7950" title="ORCID: 0000-0002-0961-7950" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhu_lin"><b>Zhu</b>&nbsp;Lin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1104-9921" title="ORCID: 0000-0002-1104-9921" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xue_rui"><b>Xue</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5680-6677" title="ORCID: 0000-0001-5680-6677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chenyu"><b>Liu</b>&nbsp;Chenyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span><br>
 Journal Article - IEEE Transactions on Engineering Management, pp. 1-12
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Unpacking%20the%20Dynamics%20of%203D%20Concrete%20Printing%20Adoption" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=unpacking+the+dynamics+of+3d+concrete+printing+adoption&as_occt=title&as_sauthors=han&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192737586&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001241571100007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/tem.2024.3399227" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #3D-Printed Clay Formwork for Topology&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">Optimized Concrete Elements</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://inz-min.online/index.php/im/article/download/796/1475) <a href="https://doi.org/10.29227/im-2024-02-82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.29227/im-2024-02-82" target="_blank">10.29227/im-2024-02-82</a>
+<a href="https://inz-min.online/index.php/im/article/download/796/1475" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.29227/im-2024-02-82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.29227/im-2024-02-82" target="_blank">10.29227/im-2024-02-82</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-4678-0857" title="ORCID: 0009-0007-4678-0857" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baritakis_mario"><b>Baritakis</b>&nbsp;Mario</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1949-0174" title="ORCID: 0009-0004-1949-0174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/traine_phillip"><b>Traine</b>&nbsp;Phillip</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-2464-3728" title="ORCID: 0009-0008-2464-3728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/granzow_jan"><b>Granzow</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-0563-4190" title="ORCID: 0009-0000-0563-4190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dobert_christine"><b>Döbert</b>&nbsp;Christine</a></span><br>
 Journal Article - Inżynieria Mineralna, Vol. 1, Iss. 2
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Clay%20Formwork%20for%20Topology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d-printed+clay+formwork+for+topology&as_occt=title&as_sauthors=baritakis&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023198851&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.29227/im-2024-02-82" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

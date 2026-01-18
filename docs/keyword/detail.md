@@ -8,6 +8,10 @@ search:
 
 # #detail
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (1)</button></a> <a href="../../keyword/inclusion"><button class="btn">#inclusion (1)</button></a> <a href="../../keyword/quality"><button class="btn">#quality (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../anto_dill.2024.TaS3CPA/">Towards a Sustainable 3D‐Concrete‐Printed Architecture:<br/>Assemblies, Detailing and Ornamentation</a></li>
   <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a></li>

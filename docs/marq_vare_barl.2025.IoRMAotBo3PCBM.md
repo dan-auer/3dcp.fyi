@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Marquez Alvaro, Varela Hugo, Barluenga Gonzalo
+title: Márquez Álvaro, Varela Hugo, Barluenga Gonzalo
 description:
 tags:
  - admixture
@@ -19,14 +19,15 @@ tags:
 ---
 
 #Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2553168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2553168" target="_blank">10.1080/21650373.2025.2553168</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2025.2553168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2553168" target="_blank">10.1080/21650373.2025.2553168</a>
 
-<a href="../../../author/marquez_alvaro"><b>Marquez</b>&nbsp;Alvaro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0001-8554-9614" title="ORCID: 0000-0001-8554-9614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marquez_martin_alvaro"><b>Márquez</b>&nbsp;Álvaro</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8094-6071" title="ORCID: 0000-0001-8094-6071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varela_hugo"><b>Varela</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2996-3412" title="ORCID: 0000-0002-2996-3412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barluenga_gonzalo"><b>Barluenga</b>&nbsp;Gonzalo</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-13
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Rheology%20Modifying%20Admixtures%20on%20the%20Buildability%20of%203D%20Printing%20Cement-Based%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+rheology+modifying+admixtures+on+the+buildability+of+3d+printing+cement-based+mortars&as_occt=title&as_sauthors=m%C3%A1rquez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015204344&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001564738600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2025.2553168" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -85,7 +86,7 @@ Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-13
 
     ```bibtex
     @article{marq_vare_barl.2025.IoRMAotBo3PCBM,
-      author            = "Alvaro Marquez and Hugo Varela and Gonzalo Barluenga",
+      author            = "Álvaro Martin Márquez and Hugo Varela and Gonzalo Barluenga",
       title             = "Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars",
       doi               = "10.1080/21650373.2025.2553168",
       year              = "2025",
@@ -100,10 +101,10 @@ Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-13
 
     === "IEEE"
 
-    <span id="iee">A. Marquez, H. Varela and G. Barluenga, “Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–13, 2025, doi: 10.1080/21650373.2025.2553168.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">Á. M. Márquez, H. Varela and G. Barluenga, “Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars”, <i>Journal of Sustainable Cement-Based Materials</i>, pp. 1–13, 2025, doi: 10.1080/21650373.2025.2553168.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Marquez, Alvaro, Hugo Varela, and Gonzalo Barluenga. “Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars”. <i>Journal of Sustainable Cement-Based Materials</i>, 2025, 1–13. https://doi.org/10.1080/21650373.2025.2553168.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Márquez, Álvaro Martin, Hugo Varela, and Gonzalo Barluenga. “Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars”. <i>Journal of Sustainable Cement-Based Materials</i>, 2025, 1–13. https://doi.org/10.1080/21650373.2025.2553168.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

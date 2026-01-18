@@ -19,14 +19,15 @@ tags:
 
 #Additive Manufacturing Evolution in Construction&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">From Individual Terrestrial to Collective, Aerial, and Extraterrestrial Applications</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.110389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110389" target="_blank">10.1016/j.jobe.2024.110389</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.110389" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110389" target="_blank">10.1016/j.jobe.2024.110389</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6715-7246" title="ORCID: 0000-0001-6715-7246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aghaee_kamran"><b>Aghaee</b>&nbsp;Kamran</a></span>, <a href="../../../author/li_linfei"><b>Li</b>&nbsp;Linfei</a></span>, <a href="../../../author/roshan_alireza"><b>Roshan</b>&nbsp;Alireza</a></span>, <a href="../../../author/namakiaraghi_parsa"><b>Namakiaraghi</b>&nbsp;Parsa</a></span><br>
 Journal Article - Journal of Building Engineering, No. 110389
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/collection"><button class="btn">#collection</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/individuality"><button class="btn">#individuality</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Evolution%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+evolution+in+construction&as_occt=title&as_sauthors=aghaee&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201085127&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001295735900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.110389" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

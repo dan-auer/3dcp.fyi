@@ -8,6 +8,10 @@ search:
 
 # #geometry
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (65)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (52)</button></a> <a href="../../keyword/base"><button class="btn">#base (14)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (14)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (12)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/feliciano_renzo"><b>Feliciano</b> Renzo</a>, <a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a>, <a href="../../../author/lukyanenko_artyom"><b>Lukyanenko</b> Artyom</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feli_barr_luky_rang.2026.SG/">Sustainable Geometries:<br/>A Comparative Analysis of Thermal Performance in Uninsulated 3D Printed Concrete Wall Topologies</a></li>
   <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>

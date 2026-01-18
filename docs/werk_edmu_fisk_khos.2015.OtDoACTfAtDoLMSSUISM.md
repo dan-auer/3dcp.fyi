@@ -20,14 +20,15 @@ tags:
 ---
 
 #On the Development of Additive Construction Technologies for Application to Development of Lunar/Martian Surface Structures Using In-Situ Materials ([2015-09](date/2015/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ntrs.nasa.gov/api/citations/20150021416/downloads/20150021416.pdf) <a href="https://doi.org/10.2514/6.2015-4451" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2015-4451" target="_blank">10.2514/6.2015-4451</a>
+<a href="https://ntrs.nasa.gov/api/citations/20150021416/downloads/20150021416.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2015-4451" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2015-4451" target="_blank">10.2514/6.2015-4451</a>
 
 <a href="../../../author/werkheiser_j_niki"><b>Werkheiser</b>&nbsp;Niki</a></span>, <a href="../../../author/edmunson_e_jennifer"><b>Edmunson</b>&nbsp;Jennifer</a></span>, <a href="../../../author/fiske_r_michael"><b>Fiske</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Contribution - Proceedings of AIAA SPACE 2015 Conference and Exposition
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Development%20of%20Additive%20Construction%20Technologies%20for%20Application%20to%20Development%20of%20Lunar/Martian%20Surface%20Structures%20Using%20In-Situ%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on+the+development+of+additive+construction+technologies+for+application+to+development+of+lunar%2Fmartian+surface+structures+using+in-situ+materials&as_occt=title&as_sauthors=werkheiser&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85041012073&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2015-4451" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

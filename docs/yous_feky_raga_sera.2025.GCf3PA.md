@@ -18,14 +18,15 @@ tags:
 
 #Geopolymer Composites for 3D Printing Applications&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">A Statistical Analysis Approach</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-8345-8_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-8345-8_4" target="_blank">10.1007/978-981-97-8345-8_4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-8345-8_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-8345-8_4" target="_blank">10.1007/978-981-97-8345-8_4</a>
 
 <a href="../../../author/youssef_passant"><b>Youssef</b>&nbsp;Passant</a></span>, <a href="../../../author/feky_s_muhammad"><b>el&nbsp;Feky</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ragab_m_ahmed"><b>Ragab</b>&nbsp;Ahmed</a></span>, <a href="../../../author/serag_i_mohamed"><b>Serag</b>&nbsp;Mohamed</a></span><br>
 Contribution - Proceedings of the ICSDI 2024 Volume 3, pp. 23-31
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Geopolymer%20Composites%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=geopolymer+composites+for+3d+printing+applications&as_occt=title&as_sauthors=youssef&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213846269&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-8345-8_4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

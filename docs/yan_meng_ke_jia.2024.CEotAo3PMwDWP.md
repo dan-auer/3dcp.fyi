@@ -18,14 +18,15 @@ tags:
 ---
 
 #Comparative Evaluation of the Applicability of 3D Printing Mortar with Different Waste-Powders ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" target="_blank">10.1016/j.conbuildmat.2024.137825</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137825" target="_blank">10.1016/j.conbuildmat.2024.137825</a>
 
 <a href="../../../author/yan_ruizhen"><b>Yan</b>&nbsp;Ruizhen</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-9294-7394" title="ORCID: 0009-0001-9294-7394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meng_fangqi"><b>Meng</b>&nbsp;Fangqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8585-1220" title="ORCID: 0000-0002-8585-1220" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ke_guoju"><b>Ke</b>&nbsp;Guoju</a></span>, <a href="../../../author/jia_kerui"><b>Jia</b>&nbsp;Kerui</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 443, No. 137825
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Evaluation%20of%20the%20Applicability%20of%203D%20Printing%20Mortar%20with%20Different%20Waste-Powders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+evaluation+of+the+applicability+of+3d+printing+mortar+with+different+waste-powders&as_occt=title&as_sauthors=yan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200640978&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001291747100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.137825" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

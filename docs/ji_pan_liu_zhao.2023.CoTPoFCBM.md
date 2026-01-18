@@ -17,14 +17,15 @@ tags:
 ---
 
 #Characterization of Thixotropic Properties of Fresh Cement‐Based Materials ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/suco.202300220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300220" target="_blank">10.1002/suco.202300220</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.202300220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300220" target="_blank">10.1002/suco.202300220</a>
 
 <a href="../../../author/ji_xuping"><b>Ji</b>&nbsp;Xuping</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/liu_xingyao"><b>Liu</b>&nbsp;Xingyao</a></span>, <a href="../../../author/zhao_wenhao"><b>Zhao</b>&nbsp;Wenhao</a></span>, <a href="../../../author/du_linpu"><b>Du</b>&nbsp;Linpu</a></span>, <a href="../../../author/liu_jianzhong"><b>Liu</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/han_fangyu"><b>Han</b>&nbsp;Fangyu</a></span>, <a href="../../../author/sha_jianfang"><b>Sha</b>&nbsp;Jianfang</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%20Thixotropic%20Properties%20of%20Fresh%20Cement%E2%80%90Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+thixotropic+properties+of+fresh+cement%E2%80%90based+materials&as_occt=title&as_sauthors=ji&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85170652712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001066112700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.202300220" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

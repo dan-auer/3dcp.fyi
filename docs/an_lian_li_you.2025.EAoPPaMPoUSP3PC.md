@@ -19,14 +19,15 @@ tags:
 ---
 
 #Experimental Assessment on Printing Performance and Mechanical Properties of Underwater Self-Protecting 3D Printing Concrete ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3151/jact.23.79) <a href="https://doi.org/10.3151/jact.23.79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3151/jact.23.79" target="_blank">10.3151/jact.23.79</a>
+<a href="https://doi.org/10.3151/jact.23.79" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3151/jact.23.79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3151/jact.23.79" target="_blank">10.3151/jact.23.79</a>
 
 <a href="../../../author/an_xuehui"><b>An</b>&nbsp;Xuehui</a></span>, <a href="../../../author/liang_qimin"><b>Liang</b>&nbsp;Qimin</a></span>, <a href="../../../author/li_pengfei"><b>Li</b>&nbsp;Pengfei</a></span>, <a href="../../../author/you_wei"><b>You</b>&nbsp;Wei</a></span>, <a href="../../../author/yin_xiaohong"><b>Yin</b>&nbsp;Xiaohong</a></span><br>
 Journal Article - Journal of Advanced Concrete Technology, Vol. 23, Iss. 2, pp. 79-98
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Assessment%20on%20Printing%20Performance%20and%20Mechanical%20Properties%20of%20Underwater%20Self-Protecting%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+assessment+on+printing+performance+and+mechanical+properties+of+underwater+self-protecting+3d+printing+concrete&as_occt=title&as_sauthors=an&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216927832&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001435490900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3151/jact.23.79" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

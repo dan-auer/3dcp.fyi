@@ -18,14 +18,15 @@ tags:
 ---
 
 #Parametric Analysis of Design and Operational Parameters in 3D Concrete Printing of Wall Elements ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114494" target="_blank">10.1016/j.jobe.2025.114494</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114494" target="_blank">10.1016/j.jobe.2025.114494</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4985-0797" title="ORCID: 0000-0003-4985-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kul_anil"><b>Kul</b>&nbsp;Anil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0611-2284" title="ORCID: 0000-0003-0611-2284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocaer_oznur"><b>Kocaer</b>&nbsp;Öznur</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114494
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Analysis%20of%20Design%20and%20Operational%20Parameters%20in%203D%20Concrete%20Printing%20of%20Wall%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parametric+analysis+of+design+and+operational+parameters+in+3d+concrete+printing+of+wall+elements&as_occt=title&as_sauthors=kul&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105020373249&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001615360700003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114494" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

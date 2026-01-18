@@ -17,14 +17,15 @@ tags:
 ---
 
 #Microstructure and Performance of Recycled Wind Turbine Blade-Based 3D Printed Concrete ([2025-01](date/2025/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.clwas.2025.100206) <a href="https://doi.org/10.1016/j.clwas.2025.100206" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clwas.2025.100206" target="_blank">10.1016/j.clwas.2025.100206</a>
+<a href="https://doi.org/10.1016/j.clwas.2025.100206" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.clwas.2025.100206" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clwas.2025.100206" target="_blank">10.1016/j.clwas.2025.100206</a>
 
 <a href="../../../author/zhang_yonghong"><b>Zhang</b>&nbsp;Yonghong</a></span>, <a href="../../../author/cui_suping"><b>Cui</b>&nbsp;Suping</a></span>, <a href="../../../author/wang_xinxin"><b>Wang</b>&nbsp;Xinxin</a></span>, <a href="../../../author/yang_bohao"><b>Yang</b>&nbsp;Bohao</a></span>, <a href="../../../author/zhang_na"><b>Zhang</b>&nbsp;Na</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1016-4191" title="ORCID: 0000-0003-1016-4191" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_tao"><b>Liu</b>&nbsp;Tao</a></span><br>
 Journal Article - Cleaner Waste Systems, No. 100206
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Microstructure%20and%20Performance%20of%20Recycled%20Wind%20Turbine%20Blade-Based%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=microstructure+and+performance+of+recycled+wind+turbine+blade-based+3d+printed+concrete&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215067772&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001401463800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.clwas.2025.100206" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

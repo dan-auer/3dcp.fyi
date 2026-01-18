@@ -19,14 +19,15 @@ tags:
 
 #Non-Planar 3D Printing of Clay Columns&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A Method for Improving Stability and Performance</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.ecaade.2024.1.167" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.167" target="_blank">10.52842/conf.ecaade.2024.1.167</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2024.1.167" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.167" target="_blank">10.52842/conf.ecaade.2024.1.167</a>
 
 <a href="../../../author/vele_jiri"><b>Vele</b>&nbsp;Jiří</a></span>, <a href="../../../author/prokop_simon"><b>Prokop</b>&nbsp;Simon</a></span>, <a href="../../../author/ciganik_ondrej"><b>Ciganik</b>&nbsp;Ondrej</a></span>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b>&nbsp;Lukáš</a></span>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b>&nbsp;Henri</a></span>, <a href="../../../author/sysova_katerina"><b>Sysova</b>&nbsp;Katerina</a></span><br>
 Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 167-174
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Non-Planar%203D%20Printing%20of%20Clay%20Columns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=non-planar+3d+printing+of+clay+columns&as_occt=title&as_sauthors=vele&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209823329&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2024.1.167" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

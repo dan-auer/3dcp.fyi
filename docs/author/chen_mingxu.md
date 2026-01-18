@@ -9,6 +9,60 @@ search:
 
 #  Chen Mingxu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6339-8509" target="_blank">0000-0002-6339-8509</a>
+
+    First Contribution
+    : 2018-09-14
+    
+    Last Contribution
+    : 2025-12-08
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 712
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (19)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (15)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (11)</li>
+        <li><a href="../../../author/li_laibo"><b>Li</b> Laibo</a> (10)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (66)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (35)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (31)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (30)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (30)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (18)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (16)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
+        <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> (14)</li>
+        <li><a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/kong_jiafeng"><b>Kong</b> Jiafeng</a>, <a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/wang_liang"><b>Wang</b> Liang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP/">Rheology and Printability Control of Low-Carbon 3D-Printed Cementitious Materials via Circular Use of Recycled Concrete Powder</a></li>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>

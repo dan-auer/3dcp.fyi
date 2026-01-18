@@ -17,14 +17,15 @@ tags:
 
 #The State of 3D Concrete Printing&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">Current Applications and Future Opportunities</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.55524/ijirem.2025.12.1.3) <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" target="_blank">10.55524/ijirem.2025.12.1.3</a>
+<a href="https://doi.org/10.55524/ijirem.2025.12.1.3" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55524/ijirem.2025.12.1.3" target="_blank">10.55524/ijirem.2025.12.1.3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9932-937X" title="ORCID: 0000-0002-9932-937X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akkoyun_boran_furkan"><b>Akkoyun</b>&nbsp;Furkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4866-2914" title="ORCID: 0000-0002-4866-2914" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gunal_yeter_ayse"><b>Günal</b>&nbsp;Ayse</a></span><br>
 Journal Article - International Journal of Innovative Research in Engineering and Management, Vol. 12, Iss. 1, pp. 13-27
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20State%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+state+of+3d+concrete+printing&as_occt=title&as_sauthors=akkoyun&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.55524/ijirem.2025.12.1.3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

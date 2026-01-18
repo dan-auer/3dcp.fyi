@@ -18,14 +18,15 @@ tags:
 ---
 
 #Developing Low-CO₂ 3D-Printable Concrete with Waste Ash and Recycled Aggregates ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ect-journals.rtu.lv/conect/article/download/CONECT.2025.075/338) <a href="https://doi.org/10.7250/conect.2025.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7250/conect.2025.075" target="_blank">10.7250/conect.2025.075</a>
+<a href="https://ect-journals.rtu.lv/conect/article/download/CONECT.2025.075/338" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.7250/conect.2025.075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7250/conect.2025.075" target="_blank">10.7250/conect.2025.075</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sapata_alise"><b>Sapata</b>&nbsp;Alise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sinka_maris"><b>Šinka</b>&nbsp;Māris</a></span>, <a href="../../../author/puzule_liga"><b>Puzule</b>&nbsp;Līga</a></span>, <a href="../../../author/plumins_ernests"><b>Plūmiņš</b>&nbsp;Ernests</a></span>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b>&nbsp;Pēteris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajare_diana"><b>Bajāre</b>&nbsp;Diāna</a></span><br>
 Journal Article - International Scientific Conference of Environmental and Climate Technologies, No. 127
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Developing%20Low-CO%E2%82%82%203D-Printable%20Concrete%20with%20Waste%20Ash%20and%20Recycled%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=developing+low-co%E2%82%82+3d-printable+concrete+with+waste+ash+and+recycled+aggregates&as_occt=title&as_sauthors=sapata&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7250/conect.2025.075" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

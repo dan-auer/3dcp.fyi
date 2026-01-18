@@ -8,6 +8,10 @@ search:
 
 # #vertical
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (4)</button></a> <a href="../../keyword/bond"><button class="btn">#bond (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhao_huanyu"><b>Zhao</b> Huanyu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lu_zhao_li_wong.2023.MFCCABf3PoVS/">MgO/Fluid Catalytic Cracking Ash-Blends for 3D Printing on Vertical Surfaces</a></li>

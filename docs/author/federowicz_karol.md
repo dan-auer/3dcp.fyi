@@ -9,7 +9,62 @@ search:
 
 #  Federowicz Karol 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6622-4539" target="_blank">0000-0002-6622-4539</a>
+
+    First Contribution
+    : 2020-06-06
+    
+    Last Contribution
+    : 2026-01-15
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 219
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (13)</li>
+        <li><a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> (13)</li>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (11)</li>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (8)</li>
+        <li><a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../fede_kasz_ziel_hoff.2020.EoCMoSDi3PC/">Effect of Curing Methods on Shrinkage Development in 3D Printed Concrete</a> (87)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (36)</li>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (28)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (26)</li>
+        <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a> (24)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (23)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (12)</li>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (11)</li>
+        <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a>, <a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a>, <a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../fede_sibe_tosi_ziel.2026.EASMo3PCMCoMTaLCA/">Early-Age Shrinkage Monitoring of 3D-Printed Cementitious Mixtures: Comparison of Measuring Techniques and Low-Cost Alternatives</a></li>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/bielawski_jakub"><b>Bielawski</b> Jakub</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko_skib_biel_tech.2025.ETRaFRCo3PC/">Elevated Temperature Response and Fire Resistance Considerations of 3D-Printed Concrete:<br/>Small- to Medium-Scale Wall Experiments</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Phase-Change-Material-Infused Recycled Brick-Aggregate in 3D Printed Concrete ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://www.cell.com/article/S2405844022028869/pdf) <a href="https://doi.org/10.1016/j.heliyon.2022.e11598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2022.e11598" target="_blank">10.1016/j.heliyon.2022.e11598</a>
+<a href="http://www.cell.com/article/S2405844022028869/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.heliyon.2022.e11598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.heliyon.2022.e11598" target="_blank">10.1016/j.heliyon.2022.e11598</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3956-2871" title="ORCID: 0000-0003-3956-2871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/christen_heidi"><b>Christen</b>&nbsp;Heidi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0664-1370" title="ORCID: 0000-0003-0664-1370" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cho_seung"><b>Cho</b>&nbsp;Seung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span><br>
 Journal Article - Heliyon, Vol. 8, Iss. 11
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/phase"><button class="btn">#phase</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Phase-Change-Material-Infused%20Recycled%20Brick-Aggregate%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=phase-change-material-infused+recycled+brick-aggregate+in+3d+printed+concrete&as_occt=title&as_sauthors=christen&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142182467&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000904086400005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.heliyon.2022.e11598" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

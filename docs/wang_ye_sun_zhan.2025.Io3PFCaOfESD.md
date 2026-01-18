@@ -17,14 +17,15 @@ tags:
 ---
 
 #Integration of 3D Printed Fiber Concrete and OpenSeesTO for Enhanced Structural Design ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-90690-9_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90690-9_21" target="_blank">10.1007/978-3-031-90690-9_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-90690-9_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90690-9_21" target="_blank">10.1007/978-3-031-90690-9_21</a>
 
 <a href="../../../author/wang_junsong"><b>Wang</b>&nbsp;Junsong</a></span>, <a href="../../../author/ye_haoran"><b>Ye</b>&nbsp;Haoran</a></span>, <a href="../../../author/sun_yating"><b>Sun</b>&nbsp;Yating</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8644-4010" title="ORCID: 0000-0002-8644-4010" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zixin"><b>Zhang</b>&nbsp;Zixin</a></span>, <a href="../../../author/qi_chenxu"><b>Qi</b>&nbsp;Chenxu</a></span>, <a href="../../../author/zhang_chenzhe"><b>Zhang</b>&nbsp;Chenzhe</a></span>, <a href="../../../author/song_chengwei"><b>Song</b>&nbsp;Chengwei</a></span>, <a href="../../../author/demartino_cristoforo"><b>Demartino</b>&nbsp;Cristoforo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usmani_asif"><b>Usmani</b>&nbsp;Asif</a></span><br>
 Contribution - Proceedings of the 2024 Eurasian OpenSees Days, pp. 241-252
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%203D%20Printed%20Fiber%20Concrete%20and%20OpenSeesTO%20for%20Enhanced%20Structural%20Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integration+of+3d+printed+fiber+concrete+and+openseesto+for+enhanced+structural+design&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001562861000021" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-90690-9_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

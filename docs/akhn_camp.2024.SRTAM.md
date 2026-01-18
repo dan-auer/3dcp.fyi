@@ -13,14 +13,15 @@ tags:
 ---
 
 #Shoreline Resilience Through Advanced Manufacturing ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51740264" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740264" target="_blank">10.14359/51740264</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51740264" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51740264" target="_blank">10.14359/51740264</a>
 
 <a href="../../../author/akhnoukh_k_amin"><b>Akhnoukh</b>&nbsp;Amin</a></span>, <a href="../../../author/campbell_mathew"><b>Campbell</b>&nbsp;Mathew</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/resilience"><button class="btn">#resilience</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Shoreline%20Resilience%20Through%20Advanced%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=shoreline+resilience+through+advanced+manufacturing&as_occt=title&as_sauthors=akhnoukh&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190865318&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001222995000009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51740264" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #mars
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (6)</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat (5)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (4)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gholami_shayan"><b>Gholami</b> Shayan</a>, <a href="../../../author/kim_yong-rak"><b>Kim</b> Yong-Rak</a>, <a href="../../../author/salehi_faezeh"><b>Salehi</b> Faezeh</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ghol_kim_sale.2024.Sa3PoMSHBfMC/">Strengthening and 3D Printing of Magnesium-Silicate-Hydrate Binder for Martian Construction</a></li>
   <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/kikhia_wael"><b>Kikhia</b> Wael</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lin_wang_sun_kikh.2024.CTotCMHDHPiCUC3P/">Construction Technology of the Curved Mars House Digital Hotel Project in China Using Concrete 3D Printing</a></li>

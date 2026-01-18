@@ -8,6 +8,10 @@ search:
 
 # #consumption
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/energy"><button class="btn">#energy (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction (2)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_du_teng_weng.2025.ECMfaRAi3CP/">Energy Consumption Modeling for a Robot Arm in 3D Concrete Printing</a></li>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>

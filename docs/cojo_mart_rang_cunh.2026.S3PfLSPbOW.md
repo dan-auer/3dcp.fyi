@@ -16,14 +16,15 @@ tags:
 ---
 
 #Scaling 3D Printing for Large-Scale Production by Optimising Workflow ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_49" target="_blank">10.1007/978-981-95-1822-7_49</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_49" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_49" target="_blank">10.1007/978-981-95-1822-7_49</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-1018-5138" title="ORCID: 0009-0005-1018-5138" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cojocari_iulia"><b>Cojocari</b>&nbsp;Iulia</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1818-1919" title="ORCID: 0009-0004-1818-1919" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martins_mota_mirna"><b>Martins</b>&nbsp;Mirna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b>&nbsp;Jaime</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 471-478
 
 <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Scaling%203D%20Printing%20for%20Large-Scale%20Production%20by%20Optimising%20Workflow" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=scaling+3d+printing+for+large-scale+production+by+optimising+workflow&as_occt=title&as_sauthors=cojocari&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_49" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Smart 3D-Printed Concrete&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Recent Advances in Self-Sensing Mix Design and Functional Reinforcements</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14455/isec.2025.12(1).cte-46" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-46" target="_blank">10.14455/isec.2025.12(1).cte-46</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14455/isec.2025.12(1).cte-46" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14455/isec.2025.12(1).cte-46" target="_blank">10.14455/isec.2025.12(1).cte-46</a>
 
 <a href="../../../author/manickavasakam_karnan"><b>Manickavasakam</b>&nbsp;Karnan</a></span>, <a href="../../../author/huri_a-al_mohammed"><b>Huri</b>&nbsp;Mohammed</a></span>, <a href="../../../author/kharma_m_khaled"><b>Kharma</b>&nbsp;Khaled</a></span>, <a href="../../../author/hosan_anwar"><b>Hosan</b>&nbsp;Anwar</a></span>, <a href="../../../author/osta_a_mohammed"><b>al&nbsp;Osta</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1537-2785" title="ORCID: 0000-0002-1537-2785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aziz_abdul_md"><b>Aziz</b>&nbsp;Md</a></span><br>
 Journal Article - Proceedings of International Structural Engineering and Construction, Vol. 12, Iss. 1
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/smart"><button class="btn">#smart</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Smart%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=smart+3d-printed+concrete&as_occt=title&as_sauthors=manickavasakam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14455/isec.2025.12(1).cte-46" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

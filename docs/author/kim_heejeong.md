@@ -9,6 +9,60 @@ search:
 
 #  Kim Heejeong 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5720-1370" target="_blank">0000-0001-5720-1370</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-11-18
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 36
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a> (2)</li>
+        <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a> (1)</li>
+        <li><a href="../../../author/ellersick_liam"><b>Ellersick</b> Liam</a> (1)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (1)</li>
+        <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a> (32)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (11)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (7)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (7)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> (3)</li>
+        <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
   <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kurn_kim.2025.EtPo3PLCCCUHCAaSF/">Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume</a></li>

@@ -24,14 +24,15 @@ tags:
 
 #Inter-Layer Cohesion in 3D Printed Concrete&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111009" target="_blank">10.1016/j.jobe.2024.111009</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111009" target="_blank">10.1016/j.jobe.2024.111009</a>
 
 <a href="../../../author/lin_yini"><b>Lin</b>&nbsp;Yini</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7806-0909" title="ORCID: 0000-0001-7806-0909" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yan_jiachuan"><b>Yan</b>&nbsp;Jiachuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-1395" title="ORCID: 0000-0002-3401-1395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_ming"><b>Sun</b>&nbsp;Ming</a></span>, <a href="../../../author/han_xiaoyu"><b>Han</b>&nbsp;Xiaoyu</a></span>, <a href="../../../author/tang_boyang"><b>Tang</b>&nbsp;Boyang</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 98, No. 111009
 
 <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Cohesion%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=inter-layer+cohesion+in+3d+printed+concrete&as_occt=title&as_sauthors=lin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85206840015&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001340996600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111009" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

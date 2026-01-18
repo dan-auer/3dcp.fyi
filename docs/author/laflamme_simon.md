@@ -9,6 +9,60 @@ search:
 
 #  Laflamme Simon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0601-9664" target="_blank">0000-0002-0601-9664</a>
+
+    First Contribution
+    : 2021-09-01
+    
+    Last Contribution
+    : 2025-10-05
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 41
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/liu_han"><b>Liu</b> Han</a> (6)</li>
+        <li><a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> (5)</li>
+        <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (5)</li>
+        <li><a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> (4)</li>
+        <li><a href="../../../author/sritharan_sri"><b>Sritharan</b> Sri</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/taylor_c_peter"><b>Taylor</b> Peter</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../wi_wang_tayl_lafl.2021.PaMoEB3PMCaHFRSG/">Properties and Microstructure of Extrusion-Based 3D Printing Mortar Containing a Highly Flowable, Rapid Set Grout</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (12)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (11)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (10)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (2)</li>
+        <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> (2)</li>
+        <li><a href="../../../author/abbaoui_khalid"><b>El Abbaoui</b> Khalid</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lyu_wang_doyl_lafl.2025.G3PCCBaWWTBP/">Green 3D Printing Concrete Containing Biochar and Waste Wind Turbine Blade Powder</a></li>
   <li><a href="../../../author/liu_han"><b>Liu</b> Han</a>, <a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a>, <a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_sous_lafl_doyl.2025.Eo3PSSCfSCC/">Embedment of 3D Printed Self-Sensing Composites for Smart Cementitious Components</a></li>

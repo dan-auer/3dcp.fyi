@@ -16,14 +16,15 @@ tags:
 ---
 
 #Case-Study-Analysis for Development-Strategies of Construction 3D Printing ([2019-07](date/2019/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-20216-3_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-20216-3_41" target="_blank">10.1007/978-3-030-20216-3_41</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-20216-3_41" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-20216-3_41" target="_blank">10.1007/978-3-030-20216-3_41</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5715-683X" title="ORCID: 0000-0001-5715-683X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meng_xiangcheng"><b>Meng</b>&nbsp;Xiangcheng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9397-1011" title="ORCID: 0000-0002-9397-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xueqing"><b>Zhang</b>&nbsp;Xueqing</a></span><br>
 Contribution - Proceedings of the 2019 International Conference on Additive Manufacturing, Modeling Systems and 3D Prototyping, pp. 439-450
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Case-Study-Analysis%20for%20Development-Strategies%20of%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=case-study-analysis+for+development-strategies+of+construction+3d+printing&as_occt=title&as_sauthors=meng&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067378535&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000643757800041" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-20216-3_41" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

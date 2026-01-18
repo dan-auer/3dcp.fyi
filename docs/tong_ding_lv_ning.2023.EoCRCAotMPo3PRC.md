@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of Carbonated Recycled Coarse Aggregates on the Mechanical Properties of 3D Printed Recycled Concrete ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.107959" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107959" target="_blank">10.1016/j.jobe.2023.107959</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.107959" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.107959" target="_blank">10.1016/j.jobe.2023.107959</a>
 
 <a href="../../../author/tong_jiaqi"><b>Tong</b>&nbsp;Jiaqi</a></span>, <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <a href="../../../author/lv_xiuwen"><b>Lv</b>&nbsp;Xiuwen</a></span>, <a href="../../../author/ning_wei"><b>Ning</b>&nbsp;Wei</a></span><br>
 Journal Article - Journal of Building Engineering, No. 107959
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Carbonated%20Recycled%20Coarse%20Aggregates%20on%20the%20Mechanical%20Properties%20of%203D%20Printed%20Recycled%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+carbonated+recycled+coarse+aggregates+on+the+mechanical+properties+of+3d+printed+recycled+concrete&as_occt=title&as_sauthors=tong&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175558284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001105522100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.107959" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

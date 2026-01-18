@@ -20,14 +20,15 @@ tags:
 ---
 
 #Three-Dimensional Concrete Printing as a Construction-Automation-Strategy and Assessments from a Case Study Building ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-1714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1714" target="_blank">10.1061/jaeied.aeeng-1714</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jaeied.aeeng-1714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1714" target="_blank">10.1061/jaeied.aeeng-1714</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3037-3655" title="ORCID: 0000-0002-3037-3655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alhaidary_haidar"><b>Alhaidary</b>&nbsp;Haidar</a></span><br>
 Journal Article - Journal of Architectural Engineering, Vol. 30, Iss. 2
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Concrete%20Printing%20as%20a%20Construction-Automation-Strategy%20and%20Assessments%20from%20a%20Case%20Study%20Building" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+concrete+printing+as+a+construction-automation-strategy+and+assessments+from+a+case+study+building&as_occt=title&as_sauthors=alhaidary&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189359397&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001202577900014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jaeied.aeeng-1714" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

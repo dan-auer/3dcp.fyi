@@ -18,14 +18,15 @@ tags:
 ---
 
 #Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures ([2023-03](date/2023/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2023.03.045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.03.045" target="_blank">10.1016/j.istruc.2023.03.045</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2023.03.045" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2023.03.045" target="_blank">10.1016/j.istruc.2023.03.045</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/li_peichen"><b>Li</b>&nbsp;Peichen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8785-6746" title="ORCID: 0000-0002-8785-6746" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_dianchao"><b>Wang</b>&nbsp;Dianchao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6857-7450" title="ORCID: 0000-0002-6857-7450" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ye_jun"><b>Ye</b>&nbsp;Jun</a></span>, <a href="../../../author/liu_gaoyang"><b>Liu</b>&nbsp;Gaoyang</a></span>, <a href="../../../author/zhao_weijian"><b>Zhao</b>&nbsp;Weijian</a></span><br>
 Journal Article - Structures, Vol. 51, pp. 391-401
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mechanical%20Properties%20and%20Anisotropy%20of%203D%20Printed%20Concrete%20at%20Different%20Temperatures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+mechanical+properties+and+anisotropy+of+3d+printed+concrete+at+different+temperatures&as_occt=title&as_sauthors=sun&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150249386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000958254500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2023.03.045" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

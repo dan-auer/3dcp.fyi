@@ -16,14 +16,15 @@ tags:
 
 #Research Status Quo and Trends of Construction Robotics&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">A Bibliometric Analysis</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jccee5.cpeng-5274" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-5274" target="_blank">10.1061/jccee5.cpeng-5274</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jccee5.cpeng-5274" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-5274" target="_blank">10.1061/jccee5.cpeng-5274</a>
 
 <a href="../../../author/wu_huanyu"><b>Wu</b>&nbsp;Huanyu</a></span>, <a href="../../../author/liu_yongqi"><b>Liu</b>&nbsp;Yongqi</a></span>, <a href="../../../author/chang_ruidong"><b>Chang</b>&nbsp;Ruidong</a></span>, <a href="../../../author/wu_lingyi"><b>Wu</b>&nbsp;Lingyi</a></span><br>
 Journal Article - Journal of Computing in Civil Engineering, Vol. 38, Iss. 1
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20Status%20Quo%20and%20Trends%20of%20Construction%20Robotics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+status+quo+and+trends+of+construction+robotics&as_occt=title&as_sauthors=wu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173805143&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001103035000003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jccee5.cpeng-5274" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

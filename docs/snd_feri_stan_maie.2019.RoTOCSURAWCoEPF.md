@@ -21,14 +21,15 @@ tags:
 ---
 
 #Realization of Topology Optimized Concrete Structures Using Robotic Abrasive Wire-Cutting of Expanded Polystyrene Formwork ([2018-09](date/2018/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-92294-2_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_36" target="_blank">10.1007/978-3-319-92294-2_36</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-92294-2_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_36" target="_blank">10.1007/978-3-319-92294-2_36</a>
 
 <a href="../../../author/sondergaard_asbjorn"><b>Søndergaard</b>&nbsp;Asbjørn</a></span>, <a href="../../../author/feringa_jelle"><b>Feringa</b>&nbsp;Jelle</a></span>, <a href="../../../author/stan_florin"><b>Stan</b>&nbsp;Florin</a></span>, <a href="../../../author/maier_dana"><b>Maier</b>&nbsp;Dana</a></span><br>
 Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 473-488
 
 <a href="../../keyword/abrasion"><button class="btn">#abrasion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cut"><button class="btn">#cut</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Realization%20of%20Topology%20Optimized%20Concrete%20Structures%20Using%20Robotic%20Abrasive%20Wire-Cutting%20of%20Expanded%20Polystyrene%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=realization+of+topology+optimized+concrete+structures+using+robotic+abrasive+wire-cutting+of+expanded+polystyrene+formwork&as_occt=title&as_sauthors=s%C3%B8ndergaard&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008847339&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-92294-2_36" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Three-Dimensional Printing Materials for Cultural Innovation Products of Historical Buildings ([2022-05](date/2022/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/5/624/pdf?version=1652233085) <a href="https://doi.org/10.3390/buildings12050624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12050624" target="_blank">10.3390/buildings12050624</a>
+<a href="https://www.mdpi.com/2075-5309/12/5/624/pdf?version=1652233085" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12050624" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12050624" target="_blank">10.3390/buildings12050624</a>
 
 <a href="../../../author/hu_hao"><b>Hu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8461-9497" title="ORCID: 0000-0002-8461-9497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiaoxiao"><b>Cao</b>&nbsp;Xiaoxiao</a></span>, <a href="../../../author/zhang_tao"><b>Zhang</b>&nbsp;Tao</a></span>, <a href="../../../author/chen_zhenfu"><b>Chen</b>&nbsp;Zhenfu</a></span>, <a href="../../../author/xie_jinliang"><b>Xie</b>&nbsp;Jinliang</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 5
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20Materials%20for%20Cultural%20Innovation%20Products%20of%20Historical%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printing+materials+for+cultural+innovation+products+of+historical+buildings&as_occt=title&as_sauthors=hu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130213135&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000801871300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12050624" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

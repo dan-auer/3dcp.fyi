@@ -16,14 +16,15 @@ tags:
 
 #Selective Paste-Intrusion&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Integration of Reinforcement by WAAM</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" target="_blank">10.1016/j.conbuildmat.2023.133236</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133236" target="_blank">10.1016/j.conbuildmat.2023.133236</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0293-3392" title="ORCID: 0000-0003-0293-3392" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strasser_alexander"><b>Straßer</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6754-6372" title="ORCID: 0000-0001-6754-6372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/riegger_felix"><b>Riegger</b>&nbsp;Felix</a></span>, <a href="../../../author/hamilton_duncan_leigh"><b>Hamilton</b>&nbsp;Leigh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2882-1359" title="ORCID: 0000-0002-2882-1359" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zah_f_michael"><b>Zäh</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6348-7309" title="ORCID: 0000-0002-6348-7309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kwade_arno"><b>Kwade</b>&nbsp;Arno</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 406, No. 133236
 
 <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Selective%20Paste-Intrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=selective+paste-intrusion&as_occt=title&as_sauthors=stra%C3%9Fer&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172270348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001106552500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133236" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Computational Modeling of Fiber Orientation During 3D Concrete Printing ([2023-03](date/2023/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s00466-023-02304-z.pdf) <a href="https://doi.org/10.1007/s00466-023-02304-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00466-023-02304-z" target="_blank">10.1007/s00466-023-02304-z</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s00466-023-02304-z.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00466-023-02304-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00466-023-02304-z" target="_blank">10.1007/s00466-023-02304-z</a>
 
 <a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5067-464X" title="ORCID: 0000-0002-5067-464X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gudzulic_vladislav"><b>Gudžulić</b>&nbsp;Vladislav</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
 Journal Article - Computational Mechanics
 
 <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Computational%20Modeling%20of%20Fiber%20Orientation%20During%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=computational+modeling+of+fiber+orientation+during+3d+concrete+printing&as_occt=title&as_sauthors=reinold&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150510531&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000954645500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00466-023-02304-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

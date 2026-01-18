@@ -16,14 +16,15 @@ tags:
 
 #How 3D Printing Technology Changes the Rules of the Game&nbsp;([2016-09](date/2016/09))
 <div class="h1-like">Insights from the Construction Sector</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jmtm-01-2016-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jmtm-01-2016-0010" target="_blank">10.1108/jmtm-01-2016-0010</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/jmtm-01-2016-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jmtm-01-2016-0010" target="_blank">10.1108/jmtm-01-2016-0010</a>
 
 <a href="../../../author/kothman_ivo"><b>Kothman</b>&nbsp;Ivo</a></span>, <a href="../../../author/faber_niels"><b>Faber</b>&nbsp;Niels</a></span><br>
 Journal Article - Journal of Manufacturing Technology Management, Vol. 27, Iss. 7, pp. 932-943
 
 <a href="../../keyword/change"><button class="btn">#change</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%203D%20Printing%20Technology%20Changes%20the%20Rules%20of%20the%20Game" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+3d+printing+technology+changes+the+rules+of+the+game&as_occt=title&as_sauthors=kothman&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84995920267&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000392854000004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/jmtm-01-2016-0010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

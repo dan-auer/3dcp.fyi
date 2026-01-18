@@ -8,6 +8,10 @@ search:
 
 # #injection
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/base"><button class="btn">#base (4)</button></a> <a href="../../keyword/control"><button class="btn">#control (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacobi_ando"><b>Jacobi</b> Ando</a>, <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../jaco_zoll_hack_mai.2025.EoPPRiI3CP/">Encasement of Pre-Placed Reinforcement in Injection 3D Concrete Printing:<br/>The Effect of Rheology and Process Parameters</a></li>
   <li><a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../han_adda_gu_khay.2025.ESSoFMTCIf3CPA/">Enhanced Shape Stability of Flowable Mortar Through CO2 Injection for 3D Concrete Printing Application</a></li>

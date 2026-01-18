@@ -20,14 +20,15 @@ tags:
 ---
 
 #3D Meso-Scale-Analysis of Concrete Containing Defect Damages During Different Freeze-Thaw-Cycles ([2022-10](date/2022/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.129449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129449" target="_blank">10.1016/j.conbuildmat.2022.129449</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.129449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.129449" target="_blank">10.1016/j.conbuildmat.2022.129449</a>
 
 <a href="../../../author/miao_haibin"><b>Miao</b>&nbsp;Haibin</a></span>, <a href="../../../author/guo_chao"><b>Guo</b>&nbsp;Chao</a></span>, <a href="../../../author/lu_zhengran"><b>Lu</b>&nbsp;Zhengran</a></span>, <a href="../../../author/chen_zhihua"><b>Chen</b>&nbsp;Zhihua</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 358
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Meso-Scale-Analysis%20of%20Concrete%20Containing%20Defect%20Damages%20During%20Different%20Freeze-Thaw-Cycles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+meso-scale-analysis+of+concrete+containing+defect+damages+during+different+freeze-thaw-cycles&as_occt=title&as_sauthors=miao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140091065&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000877689600007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.129449" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

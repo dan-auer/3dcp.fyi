@@ -19,14 +19,15 @@ tags:
 ---
 
 #Digital Fabrication Processes for Cementitious Materials Using Three-Dimensional 3D Printing Technologies ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" target="_blank">10.1016/b978-0-443-23895-6.00023-6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-23895-6.00023-6" target="_blank">10.1016/b978-0-443-23895-6.00023-6</a>
 
 <a href="../../../author/nadi_mouad"><b>Nadi</b>&nbsp;Mouad</a></span>, <a href="../../../author/majdoubi_hicham"><b>Majdoubi</b>&nbsp;Hicham</a></span>, <a href="../../../author/haddaji_younesse"><b>Haddaji</b>&nbsp;Younesse</a></span>, <a href="../../../author/bili_oumaima"><b>Bili</b>&nbsp;Oumaima</a></span>, <a href="../../../author/chahid_mohammed"><b>Chahid</b>&nbsp;Mohammed</a></span>, <a href="../../../author/oumam_mina"><b>Oumam</b>&nbsp;Mina</a></span>, <a href="../../../author/tamraoui_youssef"><b>Tamraoui</b>&nbsp;Youssef</a></span>, <a href="../../../author/hannache_hassan"><b>Hannache</b>&nbsp;Hassan</a></span><br>
 Contribution - Recent Developments and Innovations in the Sustainable Production of Concrete, pp. 595-620
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Processes%20for%20Cementitious%20Materials%20Using%20Three-Dimensional%203D%20Printing%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+processes+for+cementitious+materials+using+three-dimensional+3d+printing+technologies&as_occt=title&as_sauthors=nadi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218380396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-443-23895-6.00023-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

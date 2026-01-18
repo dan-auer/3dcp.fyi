@@ -15,14 +15,15 @@ tags:
 ---
 
 #Failure-Analysis of 3D Concrete Printing Bolted Laminates Mimicking Geological Strata ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engfailanal.2024.108463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfailanal.2024.108463" target="_blank">10.1016/j.engfailanal.2024.108463</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engfailanal.2024.108463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engfailanal.2024.108463" target="_blank">10.1016/j.engfailanal.2024.108463</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9348-9874" title="ORCID: 0000-0002-9348-9874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_xiaowei"><b>Feng</b>&nbsp;Xiaowei</a></span>, <a href="../../../author/du_gaoming"><b>Du</b>&nbsp;Gaoming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5272-608X" title="ORCID: 0000-0001-5272-608X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvelli_valter"><b>Carvelli</b>&nbsp;Valter</a></span>, <a href="../../../author/lin_gongshun"><b>Lin</b>&nbsp;Gongshun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4308-1210" title="ORCID: 0000-0003-4308-1210" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_dongjiang"><b>Pan</b>&nbsp;Dongjiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3699-2948" title="ORCID: 0000-0003-3699-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_peng"><b>Huang</b>&nbsp;Peng</a></span>, <a href="../../../author/zhu_chuankai"><b>Zhu</b>&nbsp;Chuankai</a></span><br>
 Journal Article - Engineering Failure Analysis, No. 108463
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/laminate"><button class="btn">#laminate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Failure-Analysis%20of%203D%20Concrete%20Printing%20Bolted%20Laminates%20Mimicking%20Geological%20Strata" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=failure-analysis+of+3d+concrete+printing+bolted+laminates+mimicking+geological+strata&as_occt=title&as_sauthors=feng&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193610629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001348164300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engfailanal.2024.108463" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Designing 3D Printable Cementitious Materials with Gel-Forming Polymers ([2020-11](date/2020/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" target="_blank">10.1016/j.conbuildmat.2020.121709</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.121709" target="_blank">10.1016/j.conbuildmat.2020.121709</a>
 
 <a href="../../../author/afarani_taheri_hajar"><b>Afarani</b>&nbsp;Hajar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5383-1188" title="ORCID: 0000-0002-5383-1188" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carroll_william"><b>Carroll</b>&nbsp;William</a></span>, <a href="../../../author/garboczi_j_edward"><b>Garboczi</b>&nbsp;Edward</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9360-8431" title="ORCID: 0000-0002-9360-8431" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/biernacki_j_joseph"><b>Biernacki</b>&nbsp;Joseph</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 268
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%203D%20Printable%20Cementitious%20Materials%20with%20Gel-Forming%20Polymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+3d+printable+cementitious+materials+with+gel-forming+polymers&as_occt=title&as_sauthors=afarani&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097536161&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000604777000112" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.121709" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

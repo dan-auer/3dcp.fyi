@@ -21,14 +21,15 @@ tags:
 
 #Theory of Critical Distances and Notched Filament-Based 3D Printed Components&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">Lessons Learned from Polymers and Concrete</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2024.01.006) <a href="https://doi.org/10.1016/j.prostr.2024.01.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.01.006" target="_blank">10.1016/j.prostr.2024.01.006</a>
+<a href="https://doi.org/10.1016/j.prostr.2024.01.006" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.prostr.2024.01.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.01.006" target="_blank">10.1016/j.prostr.2024.01.006</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7753-9176" title="ORCID: 0000-0001-7753-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/susmel_luca"><b>Susmel</b>&nbsp;Luca</a></span><br>
 Journal Article - Procedia Structural Integrity, Vol. 53, pp. 44-51
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/distance"><button class="btn">#distance</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/notch"><button class="btn">#notch</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Theory%20of%20Critical%20Distances%20and%20Notched%20Filament-Based%203D%20Printed%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=theory+of+critical+distances+and+notched+filament-based+3d+printed+components&as_occt=title&as_sauthors=susmel&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186992447&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.prostr.2024.01.006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

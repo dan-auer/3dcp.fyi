@@ -15,7 +15,7 @@ Contribution - Tagungsband zum 34. BBB Assistent*innen-Tagung, No. 238–253
 
 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Erste%20Erkenntnisse%20zur%20Bewegungsanalyse%20bei%20additiven%20Fertigungsprozessen" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=erste+erkenntnisse+zur+bewegungsanalyse+bei+additiven+fertigungsprozessen&as_occt=title&as_sauthors=placzek&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

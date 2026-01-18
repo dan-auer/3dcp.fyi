@@ -17,14 +17,15 @@ tags:
 
 #Effects of Nano-Al2O3, Nano-MgO and Nano-Fe2O3 on the Properties of Cement-Based 3D Printing&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Comparative Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113322" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113322" target="_blank">10.1016/j.jobe.2025.113322</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113322" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113322" target="_blank">10.1016/j.jobe.2025.113322</a>
 
 <a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhang_xinwei"><b>Zhang</b>&nbsp;Xinwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/xia_yong"><b>Xia</b>&nbsp;Yong</a></span>, <a href="../../../author/hou_dongqi"><b>Hou</b>&nbsp;Dongqi</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-8518-3407" title="ORCID: 0009-0003-8518-3407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_long"><b>Li</b>&nbsp;Long</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113322
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nano-Al2O3%2C%20Nano-MgO%20and%20Nano-Fe2O3%20on%20the%20Properties%20of%20Cement-Based%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+nano-al2o3%2C+nano-mgo+and+nano-fe2o3+on+the+properties+of+cement-based+3d+printing&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009806396&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001529761700011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113322" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

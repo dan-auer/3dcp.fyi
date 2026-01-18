@@ -16,14 +16,15 @@ tags:
 ---
 
 #Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105467) <a href="https://doi.org/10.1016/j.autcon.2024.105467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105467" target="_blank">10.1016/j.autcon.2024.105467</a>
+<a href="https://doi.org/10.1016/j.autcon.2024.105467" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105467" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105467" target="_blank">10.1016/j.autcon.2024.105467</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b>&nbsp;Patrick</a></span><br>
 Journal Article - Automation in Construction, Vol. 164, No. 105467
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/classification"><button class="btn">#classification</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Classification%20and%20Automated%20Quality%20Assurance%20of%203D%20Concrete%20Printed%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=classification+and+automated+quality+assurance+of+3d+concrete+printed+surfaces&as_occt=title&as_sauthors=otto&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193838926&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001244601700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105467" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" target="_blank">10.1016/j.conbuildmat.2023.134337</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.134337" target="_blank">10.1016/j.conbuildmat.2023.134337</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1945-4438" title="ORCID: 0000-0002-1945-4438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/christ_julian"><b>Christ</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7756-382X" title="ORCID: 0000-0001-7756-382X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b>&nbsp;Lisbeth</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0274-4340" title="ORCID: 0000-0002-0274-4340" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koss_holger"><b>Koss</b>&nbsp;Holger</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 411, No. 134337
 
 <a href="../../keyword/bound"><button class="btn">#bound</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sensitivity"><button class="btn">#sensitivity</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Characterization%20of%20Temperature-Sensitive%20Biopolymer-Bound%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+characterization+of+temperature-sensitive+biopolymer-bound+3d+printing+concrete&as_occt=title&as_sauthors=christ&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179628610&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001137527300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.134337" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

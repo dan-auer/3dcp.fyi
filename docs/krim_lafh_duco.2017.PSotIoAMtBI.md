@@ -18,14 +18,15 @@ tags:
 
 #Prospective Study on the Integration of Additive Manufacturing to Building Industry&nbsp;([2017-05](date/2017/05))
 <div class="h1-like">Case of a French Construction Company</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2017.04.002" target="_blank">10.1016/j.addma.2017.04.002</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2017.04.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2017.04.002" target="_blank">10.1016/j.addma.2017.04.002</a>
 
 <a href="../../../author/krimi_imane"><b>Krimi</b>&nbsp;Imane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <a href="../../../author/ducoulombier_laure"><b>Ducoulombier</b>&nbsp;Laure</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 16, pp. 107-114
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Prospective%20Study%20on%20the%20Integration%20of%20Additive%20Manufacturing%20to%20Building%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=prospective+study+on+the+integration+of+additive+manufacturing+to+building+industry&as_occt=title&as_sauthors=krimi&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85019741889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000435751600013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2017.04.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

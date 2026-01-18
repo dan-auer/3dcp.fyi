@@ -17,14 +17,15 @@ tags:
 ---
 
 #X-Ray CT Analysis of the Cross-Section of a 3D Printed Deformed Layer ([2021-12](date/2021/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/24/7764/pdf?version=1639708005) <a href="https://doi.org/10.3390/ma14247764" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14247764" target="_blank">10.3390/ma14247764</a>
+<a href="https://www.mdpi.com/1996-1944/14/24/7764/pdf?version=1639708005" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14247764" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14247764" target="_blank">10.3390/ma14247764</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7377-3448" title="ORCID: 0000-0002-7377-3448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seo_eun-a"><b>Seo</b>&nbsp;Eun-A</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7870-0718" title="ORCID: 0000-0001-7870-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_won-woo"><b>Kim</b>&nbsp;Won-Woo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4071-4943" title="ORCID: 0000-0002-4071-4943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_jun-mo"><b>Yang</b>&nbsp;Jun-Mo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1627-5186" title="ORCID: 0000-0002-1627-5186" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moon_jae-heum"><b>Moon</b>&nbsp;Jae-Heum</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 24
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=X-Ray%20CT%20Analysis%20of%20the%20Cross-Section%20of%20a%203D%20Printed%20Deformed%20Layer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=x-ray+ct+analysis+of+the+cross-section+of+a+3d+printed+deformed+layer&as_occt=title&as_sauthors=lee&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121294155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000741523400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14247764" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

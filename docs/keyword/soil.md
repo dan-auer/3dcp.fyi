@@ -8,6 +8,10 @@ search:
 
 # #soil
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/material"><button class="btn">#material (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (5)</button></a> <a href="../../keyword/design"><button class="btn">#design (5)</button></a> <a href="../../keyword/earth"><button class="btn">#earth (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
   <li><a href="../../../author/feng_xiaowei"><b>Feng</b> Xiaowei</a>, <a href="../../../author/carvelli_valter"><b>Carvelli</b> Valter</a>, <a href="../../../author/pan_dongjiang"><b>Pan</b> Dongjiang</a>, <a href="../../../author/zhu_chuankai"><b>Zhu</b> Chuankai</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../feng_carv_pan_zhu.2025.AMoHSSCMfEMM/">Additive Manufacturing of Hybrid Straw-Soil-Cement Materials for Enhanced Mine Models</a></li>

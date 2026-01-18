@@ -14,14 +14,15 @@ tags:
 
 #Designing Shelters for 3D Printing&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">A Studio Experiment</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2018_439.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2018.2.031" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2018.2.031" target="_blank">10.52842/conf.ecaade.2018.2.031</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2018_439.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2018.2.031" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2018.2.031" target="_blank">10.52842/conf.ecaade.2018.2.031</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2850-5273" title="ORCID: 0000-0003-2850-5273" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazarian_shadi"><b>Nazarian</b>&nbsp;Shadi</a></span>, <a href="../../../author/ashrafi_negar"><b>Ashrafi</b>&nbsp;Negar</a></span><br>
 Contribution - Proceedings of the 36th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 31-38
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Designing%20Shelters%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=designing+shelters+for+3d+printing&as_occt=title&as_sauthors=duarte&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2018.2.031" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

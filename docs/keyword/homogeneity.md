@@ -8,6 +8,10 @@ search:
 
 # #homogeneity
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (2)</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../hech_kran_gehl.2023.NNMfAMoCM/">Near‐Nozzle Mixing for Additive Manufacturing of Cementitious Mortar:<br/>A Homogeneity Study</a></li>
   <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../freu_davi_bohl_mai.2023.S3P/">Shotcrete 3D Printing:<br/>Interaction of Nozzle Geometry, Homogeneity and Hardened Concrete Properties</a></li>

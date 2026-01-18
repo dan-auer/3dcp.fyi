@@ -19,14 +19,15 @@ tags:
 
 #3DCP-CI&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Developing a Circularity Indicator for Assessing 3DConcrete Printed Architectural Designs</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://journalofsustainability.net/ojs/JoS/article/download/55/49) <a href="https://doi.org/10.55845/jos-2025-1255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55845/jos-2025-1255" target="_blank">10.55845/jos-2025-1255</a>
+<a href="https://journalofsustainability.net/ojs/JoS/article/download/55/49" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.55845/jos-2025-1255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.55845/jos-2025-1255" target="_blank">10.55845/jos-2025-1255</a>
 
 <a href="../../../author/gumruk_idil"><b>Gümrük</b>&nbsp;Idil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3162-6199" title="ORCID: 0000-0003-3162-6199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schroder_w-a_torsten"><b>Schröder</b>&nbsp;Torsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9169-7156" title="ORCID: 0009-0003-9169-7156" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/salet_a-m_theo"><b>Salet</b>&nbsp;Theo</a></span><br>
 Journal Article - Journal of Sustainability, Vol. 1, Iss. 2
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/indicator"><button class="btn">#indicator</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3DCP-CI" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3dcp-ci&as_occt=title&as_sauthors=g%C3%BCmr%C3%BCk&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.55845/jos-2025-1255" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

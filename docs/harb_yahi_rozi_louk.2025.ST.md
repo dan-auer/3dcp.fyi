@@ -19,14 +19,15 @@ tags:
 
 #Squeeze Test&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" target="_blank">10.1016/j.conbuildmat.2025.142521</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142521" target="_blank">10.1016/j.conbuildmat.2025.142521</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0493-3089" title="ORCID: 0000-0003-0493-3089" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/harbouz_ilhame"><b>Harbouz</b>&nbsp;Ilhame</a></span>, <a href="../../../author/yahia_ammar"><b>Yahia</b>&nbsp;Ammar</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5829-816X" title="ORCID: 0000-0001-5829-816X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roziere_emmanuel"><b>Rozière</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/loukili_ahmed"><b>Loukili</b>&nbsp;Ahmed</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 491, No. 142521
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/squeeze"><button class="btn">#squeeze</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Squeeze%20Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=squeeze+test&as_occt=title&as_sauthors=harbouz&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010197678&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001538392900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142521" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

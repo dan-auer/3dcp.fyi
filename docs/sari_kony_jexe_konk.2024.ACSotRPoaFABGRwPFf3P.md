@@ -23,14 +23,15 @@ tags:
 
 #A Comparative Study of the Rheological Properties of a Fly-Ash-Based Geopolymer Reinforced with PP-Fiber for 3D Printing&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">An Experimental and Numerical Approach</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/7/2068/pdf?version=1721127219) <a href="https://doi.org/10.3390/buildings14072068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072068" target="_blank">10.3390/buildings14072068</a>
+<a href="https://www.mdpi.com/2075-5309/14/7/2068/pdf?version=1721127219" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14072068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14072068" target="_blank">10.3390/buildings14072068</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2637-9704" title="ORCID: 0000-0002-2637-9704" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sariyev_bakytzhan"><b>Sariyev</b>&nbsp;Bakytzhan</a></span>, <a href="../../../author/konysbekov_alisher"><b>Konysbekov</b>&nbsp;Alisher</a></span>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b>&nbsp;Assel</a></span>, <a href="../../../author/konkanov_marat"><b>Konkanov</b>&nbsp;Marat</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 7, No. 2068
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Comparative%20Study%20of%20the%20Rheological%20Properties%20of%20a%20Fly-Ash-Based%20Geopolymer%20Reinforced%20with%20PP-Fiber%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+comparative+study+of+the+rheological+properties+of+a+fly-ash-based+geopolymer+reinforced+with+pp-fiber+for+3d+printing&as_occt=title&as_sauthors=sariyev&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199657542&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001276752600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14072068" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

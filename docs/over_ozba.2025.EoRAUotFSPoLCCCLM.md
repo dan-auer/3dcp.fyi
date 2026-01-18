@@ -22,14 +22,15 @@ tags:
 ---
 
 #Effect of Recycled Aggregate Use on the Fresh State Properties of Limestone Calcined Clay Cement (LC3) Mortars ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.11159/icsect25.157) <a href="https://doi.org/10.11159/icsect25.157" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/icsect25.157" target="_blank">10.11159/icsect25.157</a>
+<a href="https://doi.org/10.11159/icsect25.157" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.11159/icsect25.157" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/icsect25.157" target="_blank">10.11159/icsect25.157</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6049-663X" title="ORCID: 0000-0002-6049-663X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/over_derya"><b>Over</b>&nbsp;Derya</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4060-6712" title="ORCID: 0000-0003-4060-6712" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozbakan_nesil"><b>Ozbakan</b>&nbsp;Nesil</a></span><br>
 Contribution - Proceedings of the 10th World Congress on Civil, Structural, and Environmental Engineering
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/lc3"><button class="btn">#lc3</button></a> <a href="../../keyword/limestone"><button class="btn">#limestone</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Recycled%20Aggregate%20Use%20on%20the%20Fresh%20State%20Properties%20of%20Limestone%20Calcined%20Clay%20Cement%20%28LC3%29%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+recycled+aggregate+use+on+the+fresh+state+properties+of+limestone+calcined+clay+cement+%28lc3%29+mortars&as_occt=title&as_sauthors=over&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003211672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.11159/icsect25.157" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

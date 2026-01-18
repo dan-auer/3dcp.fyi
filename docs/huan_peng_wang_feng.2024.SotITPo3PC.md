@@ -14,14 +14,15 @@ tags:
 ---
 
 #Study on the Ionic Transport Properties of 3D Printed Concrete ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14051216) <a href="https://doi.org/10.3390/buildings14051216" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14051216" target="_blank">10.3390/buildings14051216</a>
+<a href="https://doi.org/10.3390/buildings14051216" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14051216" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14051216" target="_blank">10.3390/buildings14051216</a>
 
 <a href="../../../author/huang_tao"><b>Huang</b>&nbsp;Tao</a></span>, <a href="../../../author/peng_zhongqi"><b>Peng</b>&nbsp;Zhongqi</a></span>, <a href="../../../author/wang_mengge"><b>Wang</b>&nbsp;Mengge</a></span>, <a href="../../../author/feng_shuang"><b>Feng</b>&nbsp;Shuang</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 5, No. 1216
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Ionic%20Transport%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+ionic+transport+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=huang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194467252&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001233033300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14051216" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

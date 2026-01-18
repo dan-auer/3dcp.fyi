@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical Properties of a 3D Printed SFRC Beam with Steel-Fiber-Distribution Adaptive to Tensile Stress ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2023.134776" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2023.134776" target="_blank">10.1016/j.matlet.2023.134776</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2023.134776" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2023.134776" target="_blank">10.1016/j.matlet.2023.134776</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1534-444X" title="ORCID: 0000-0003-1534-444X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mu_ru"><b>Mu</b>&nbsp;Ru</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-7360-9709" title="ORCID: 0009-0002-7360-9709" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mei_shaolin"><b>Mei</b>&nbsp;Shaolin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8544-0261" title="ORCID: 0000-0002-8544-0261" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiaowei"><b>Wang</b>&nbsp;Xiaowei</a></span>, <a href="../../../author/chen_xiangshang"><b>Chen</b>&nbsp;Xiangshang</a></span>, <a href="../../../author/zhao_quanming"><b>Zhao</b>&nbsp;Quanming</a></span>, <a href="../../../author/qing_longbang"><b>Qing</b>&nbsp;Longbang</a></span>, <a href="../../../author/chen_fan_chunhoa"><b>Chen</b>&nbsp;Chunhoa</a></span><br>
 Journal Article - Materials Letters, Vol. 349, No. 134776
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20a%203D%20Printed%20SFRC%20Beam%20with%20Steel-Fiber-Distribution%20Adaptive%20to%20Tensile%20Stress" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+a+3d+printed+sfrc+beam+with+steel-fiber-distribution+adaptive+to+tensile+stress&as_occt=title&as_sauthors=mu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162205394&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001031983400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2023.134776" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

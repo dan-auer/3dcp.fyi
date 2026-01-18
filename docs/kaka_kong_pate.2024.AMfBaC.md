@@ -14,14 +14,15 @@ tags:
 ---
 
 #Additive Manufacturing for Building and Constructions ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394198085.ch16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394198085.ch16" target="_blank">10.1002/9781394198085.ch16</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/9781394198085.ch16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394198085.ch16" target="_blank">10.1002/9781394198085.ch16</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7989-6991" title="ORCID: 0000-0002-7989-6991" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kakarla_babu_akesh"><b>Kakarla</b>&nbsp;Akesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7496-9728" title="ORCID: 0000-0001-7496-9728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kong_ing"><b>Kong</b>&nbsp;Ing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6463-9044" title="ORCID: 0000-0002-6463-9044" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/patel_ishvarbhai_vipulkumar"><b>Patel</b>&nbsp;Vipulkumar</a></span><br>
 Contribution - Additive Manufacturing with Novel Materials, pp. 485-508
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Building%20and%20Constructions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+for+building+and+constructions&as_occt=title&as_sauthors=kakarla&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85194343985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/9781394198085.ch16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Characterisation and Formulation of Waste Augmented 3D Printable Concrete for BIM-Based Automation ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-75507-1_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-75507-1_51" target="_blank">10.1007/978-3-031-75507-1_51</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-75507-1_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-75507-1_51" target="_blank">10.1007/978-3-031-75507-1_51</a>
 
 <a href="../../../author/immelman_jandre"><b>Immelman</b>&nbsp;Jandré</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6775-2472" title="ORCID: 0000-0002-6775-2472" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pourbehi_mohammad"><b>Pourbehi</b>&nbsp;Mohammad</a></span>, <a href="../../../author/ameh_emmanuel_alechine"><b>Ameh</b>&nbsp;Alechine</a></span>, <a href="../../../author/katambwe_ndjate_vinny"><b>Katambwe</b>&nbsp;Vinny</a></span>, <a href="../../../author/petrik_leslie"><b>Petrik</b>&nbsp;Leslie</a></span><br>
 Contribution - Proceedings of the 7th International Conference on Concrete Repair, Rehabilitation and Retrofitting, pp. 532-540
 
 <a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterisation%20and%20Formulation%20of%20Waste%20Augmented%203D%20Printable%20Concrete%20for%20BIM-Based%20Automation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterisation+and+formulation+of+waste+augmented+3d+printable+concrete+for+bim-based+automation&as_occt=title&as_sauthors=immelman&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208945109&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001440840500051" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-75507-1_51" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -50,8 +51,9 @@ Contribution - Proceedings of the 7th International Conference on Concrete Repai
       <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zeranka_stephan"><b>Zeranka</b> Stephan</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../krug_zera_zijl.2019.AAIAfTCoNPI3PC/">An Ab-Inito Approach for Thixotropy Characterisation of Nano-Particle-Infused 3D Printable Concrete</a></li>
       <li><a href="../../../author/oosthuizen_daniel_jandre"><b>Oosthuizen</b> Jandré</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../oost_baba_wall.2023.3PRPEARC/">3D Printed Recycled Plastic Eco-Aggregate (Resin8) Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a></li>
     </ol>
 </div>
 

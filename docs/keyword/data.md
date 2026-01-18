@@ -8,7 +8,12 @@ search:
 
 # #data
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (23)</button></a> <a href="../../keyword/print"><button class="btn">#print (23)</button></a> <a href="../../keyword/model"><button class="btn">#model (10)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (8)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/mohammed_salhah"><b>Mohammed</b> Salhah</a>, <a href="../../../author/aljewifi_hana"><b>Aljewifi</b> Hana</a>, <a href="../../../author/jldain_bu_hafeth"><b>Jldain</b> Hafeth</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../moha_alje_jlda.2025.ECSi3PCS/">Evaluating Compressive Strength in 3D-Printed Concrete Structures:<br/>A Comparative Study of ANSYS Simulations and Experimental Data</a></li>
   <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
   <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mohomad_yosef"><b>Mohomad</b> Yosef</a>, <a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hamm_moho_shom_masa.2025.DDFfPaGQPi3CP/">Data-Driven Framework for Printability and Geometric Quality Prediction in 3D Concrete Printing</a></li>
   <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>

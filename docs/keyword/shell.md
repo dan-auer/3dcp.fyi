@@ -8,6 +8,10 @@ search:
 
 # #shell
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (24)</button></a> <a href="../../keyword/print"><button class="btn">#print (24)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (17)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (10)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>
   <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tene.2025.TAoFaRCSU3CP/">Technological Aspects of Fabricating a Reinforced Concrete Shell Using 3D Concrete Printing</a></li>

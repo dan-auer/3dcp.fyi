@@ -19,14 +19,15 @@ tags:
 ---
 
 #Simplified Assessment for One-Part 3D Printable Geopolymer Concrete Based on Slump and Slump-Flow Measurements ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01889) <a href="https://doi.org/10.1016/j.cscm.2023.e01889" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01889" target="_blank">10.1016/j.cscm.2023.e01889</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e01889" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e01889" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01889" target="_blank">10.1016/j.cscm.2023.e01889</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/vu_h_tran"><b>Vu</b>&nbsp;Tran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6988-4778" title="ORCID: 0000-0002-6988-4778" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b>&nbsp;Thi</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 18
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/simple"><button class="btn">#simple</button></a> <a href="../../keyword/slump"><button class="btn">#slump</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Simplified%20Assessment%20for%20One-Part%203D%20Printable%20Geopolymer%20Concrete%20Based%20on%20Slump%20and%20Slump-Flow%20Measurements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=simplified+assessment+for+one-part+3d+printable+geopolymer+concrete+based+on+slump+and+slump-flow+measurements&as_occt=title&as_sauthors=tran&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146869279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000924766900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e01889" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

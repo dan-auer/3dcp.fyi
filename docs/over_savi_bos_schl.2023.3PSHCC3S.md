@@ -20,14 +20,15 @@ tags:
 
 #3D Printable Strain-Hardening Cementitious Composites (3DP-SHCC)&nbsp;([2023-08](date/2023/08))
 <div class="h1-like">Tailoring Fresh and Hardened State Properties</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2023.132924) <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" target="_blank">10.1016/j.conbuildmat.2023.132924</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132924" target="_blank">10.1016/j.conbuildmat.2023.132924</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3213-6979" title="ORCID: 0000-0002-3213-6979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/overmeir_linde_anne"><b>van&nbsp;Overmeir</b>&nbsp;Anne</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6666-2395" title="ORCID: 0000-0002-6666-2395" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bos_paul_freek"><b>Bos</b>&nbsp;Freek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 403
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Strain-Hardening%20Cementitious%20Composites%20%283DP-SHCC%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+strain-hardening+cementitious+composites+%283dp-shcc%29&as_occt=title&as_sauthors=overmeir&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169789398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001069349500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.132924" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

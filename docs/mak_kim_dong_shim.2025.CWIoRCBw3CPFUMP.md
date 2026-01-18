@@ -20,14 +20,15 @@ tags:
 ---
 
 #Crack Width Investigation of Reinforced Concrete Beam with 3D Concrete Printed Formwork Using Modified Parameters ([2025-08](date/2025/08))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.engstruct.2025.121232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121232" target="_blank">10.1016/j.engstruct.2025.121232</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.121232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121232" target="_blank">10.1016/j.engstruct.2025.121232</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-3017-7068" title="ORCID: 0009-0007-3017-7068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mak_bunleang"><b>Mak</b>&nbsp;Bunleang</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_kyung_tae"><b>Kim</b>&nbsp;Tae</a></span>, <a href="../../../author/dong_won-jun"><b>Dong</b>&nbsp;Won-Jun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shim_su_chang"><b>Shim</b>&nbsp;Chang</a></span><br>
 Journal Article - Engineering Structures, Vol. 343, No. 121232
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Crack%20Width%20Investigation%20of%20Reinforced%20Concrete%20Beam%20with%203D%20Concrete%20Printed%20Formwork%20Using%20Modified%20Parameters" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=crack+width+investigation+of+reinforced+concrete+beam+with+3d+concrete+printed+formwork+using+modified+parameters&as_occt=title&as_sauthors=mak&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105014537512&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001566084800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.121232" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

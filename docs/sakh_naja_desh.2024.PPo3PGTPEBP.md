@@ -19,14 +19,15 @@ tags:
 
 #Printing Performance of 3D Printed Geopolymer Through Pumpability, Extrudability, Buildability Properties&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2024.2445050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2024.2445050" target="_blank">10.1080/00038628.2024.2445050</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2024.2445050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2024.2445050" target="_blank">10.1080/00038628.2024.2445050</a>
 
 <a href="../../../author/sakhare_vishakha"><b>Sakhare</b>&nbsp;Vishakha</a></span>, <a href="../../../author/najar_mohamed"><b>Najar</b>&nbsp;Mohamed</a></span>, <a href="../../../author/deshpande_sachin"><b>Deshpande</b>&nbsp;Sachin</a></span><br>
 Journal Article - Architectural Science Review, pp. 1-25
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing%20Performance%20of%203D%20Printed%20Geopolymer%20Through%20Pumpability%2C%20Extrudability%2C%20Buildability%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing+performance+of+3d+printed+geopolymer+through+pumpability%2C+extrudability%2C+buildability+properties&as_occt=title&as_sauthors=sakhare&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213537910&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001387660500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2024.2445050" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

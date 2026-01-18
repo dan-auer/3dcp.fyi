@@ -9,6 +9,58 @@ search:
 
 #  Weininger Florian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0009-0008-0762-9318" target="_blank">0009-0008-0762-9318</a>
+
+    First Contribution
+    : 2025-02-13
+    
+    Last Contribution
+    : 2025-03-27
+
+    Number Contributions
+    : 2
+
+    Number Citations
+    : 3
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a> (2)</li>
+        <li><a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a> (2)</li>
+        <li><a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../albr_hell_wein_thie.2025.SfMEIiC/">Strategies for Minimizing Environmental Impact in Construction:<br/>A Case Study of a Cementitious 3D Printed Lost Formwork for a Staircase</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (3)</li>
+        <li><a href="../../../author/agusti-juan_isolda"><b>Agustí-Juan</b> Isolda</a> (2)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (2)</li>
+        <li><a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (2)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (2)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
+        <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> (2)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../albr_hell_wein_thie.2025.PfRtEIitCIUtEoa3PS/">Possibilities for Reducing the Environmental Impact in the Construction Industry Using the Example of a 3D Printed Staircase</a></li>
   <li><a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b> Stefan</a>, <a href="../../../author/weininger_florian"><b>Weininger</b> Florian</a>, <a href="../../../author/thiel_charlotte"><b>Thiel</b> Charlotte</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../albr_hell_wein_thie.2025.SfMEIiC/">Strategies for Minimizing Environmental Impact in Construction:<br/>A Case Study of a Cementitious 3D Printed Lost Formwork for a Staircase</a></li>

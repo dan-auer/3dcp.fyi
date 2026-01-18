@@ -8,6 +8,10 @@ search:
 
 # #vibration
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/control"><button class="btn">#control (3)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>
   <li><a href="../../../author/chandra_jimmy"><b>Chandra</b> Jimmy</a>, <a href="../../../author/halim_alvin"><b>Halim</b> Alvin</a>, <a href="../../../author/budiman_franky"><b>Budiman</b> Franky</a>, <a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b> Pamuda</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chan_hali_budi_pudj.2024.ESoBSoESRiVB3PCM/">Experimental Study of Bond Strength of Embedded Steel Reinforcement in Vibration-Based 3D Printed Concrete Mortar</a></li>

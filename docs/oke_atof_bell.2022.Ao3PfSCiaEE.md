@@ -15,14 +15,15 @@ tags:
 ---
 
 #Awareness of 3D Printing for Sustainable Construction in an Emerging Economy ([2022-06](date/2022/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/8015/7958) <a href="https://doi.org/10.5130/ajceb.v22i2.8015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5130/ajceb.v22i2.8015" target="_blank">10.5130/ajceb.v22i2.8015</a>
+<a href="https://epress.lib.uts.edu.au/journals/index.php/AJCEB/article/download/8015/7958" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5130/ajceb.v22i2.8015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5130/ajceb.v22i2.8015" target="_blank">10.5130/ajceb.v22i2.8015</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6551-8634" title="ORCID: 0000-0001-6551-8634" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oke_ayodeji"><b>Oke</b>&nbsp;Ayodeji</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8871-5929" title="ORCID: 0000-0002-8871-5929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/atofarati_oluwatosin_john"><b>Atofarati</b>&nbsp;John</a></span>, <a href="../../../author/bello_sherifat"><b>Bello</b>&nbsp;Sherifat</a></span><br>
 Journal Article - Construction Economics and Building, Vol. 22, Iss. 2
 
 <a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Awareness%20of%203D%20Printing%20for%20Sustainable%20Construction%20in%20an%20Emerging%20Economy" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=awareness+of+3d+printing+for+sustainable+construction+in+an+emerging+economy&as_occt=title&as_sauthors=oke&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133176860&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000815041300003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5130/ajceb.v22i2.8015" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,9 +59,11 @@ Journal Article - Construction Economics and Building, Vol. 22, Iss. 2
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/ding_lieyun"><b>Ding</b> Lieyun</a>, <a href="../../../author/love_ed_peter"><b>Love</b> Peter</a> <a href="../../../date/2017/01">(2017-01)</a><br><a href="../../../xu_ding_love.2017.DRoHBOC/">Digital Reproduction of Historical Building Ornamental Components:<br/>From 3D Scanning to 3D Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ bug "2 Citations"
+???+ bug "4 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/norouzi_yasaman"><b>Norouzi</b> Yasaman</a>, <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../noro_dixi.2026.ARoAaCoUHf3PiC/">A Review of Advantages and Challenges of Using Hempcrete for 3D Printing in Construction</a></li>
       <li><a href="../../../author/okangba_stanley"><b>Okangba</b> Stanley</a>, <a href="../../../author/ngcobo_ntebo"><b>Ngcobo</b> Ntebo</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../okan_ngco_maha.2025.BIaG/">Bridging Innovation and Governance:<br/>A UTAUT-Based Mixed-Method Study of 3D Concrete Printing Technology Acceptance in South Africa</a></li>
+      <li><a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../guer_asen_fern.2026.LFAMwCaC/">Large‐Format Additive Manufacturing with Cement and Clays:<br/>Characterization Methods</a></li>
       <li><a href="../../../author/ahmed_salma"><b>Ahmed</b> Salma</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ahme_romd_saye_manj.2024.RAf3PiCP/">Risk-Assessment for 3D Printing in Construction Projects</a></li>
     </ol>
 </div>

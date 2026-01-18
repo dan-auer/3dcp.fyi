@@ -8,6 +8,10 @@ search:
 
 # #adoption
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (14)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge (7)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (6)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a></li>
   <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhou_sama_roti_feng.2025.EPIotAo3CPT/">Exploring Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Hypothetical Model</a></li>

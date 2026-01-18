@@ -15,14 +15,15 @@ tags:
 ---
 
 #A Textile Reinforcement Method for 3D Printed Concrete ([2022-09](date/2022/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2022/11/matecconf_iccrrr22_05015.pdf) <a href="https://doi.org/10.1051/matecconf/202236405015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202236405015" target="_blank">10.1051/matecconf/202236405015</a>
+<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2022/11/matecconf_iccrrr22_05015.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/202236405015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202236405015" target="_blank">10.1051/matecconf/202236405015</a>
 
 <a href="../../../author/rensburg_jacobus-janse_johannes"><b>van&nbsp;Rensburg</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6232-6642" title="ORCID: 0000-0002-6232-6642" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b>&nbsp;Adewumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0794-8737" title="ORCID: 0000-0003-0794-8737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/combrinck_riaan"><b>Combrinck</b>&nbsp;Riaan</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 364, No. 05015
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Textile%20Reinforcement%20Method%20for%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+textile+reinforcement+method+for+3d+printed+concrete&as_occt=title&as_sauthors=rensburg&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/202236405015" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

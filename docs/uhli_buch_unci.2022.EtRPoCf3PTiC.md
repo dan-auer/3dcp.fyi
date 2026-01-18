@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effecting the Rheological Properties of Composites for 3D Printing Technology in Construction ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciendo.com/pdf/10.2478/sjce-2022-0006) <a href="https://doi.org/10.2478/sjce-2022-0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/sjce-2022-0006" target="_blank">10.2478/sjce-2022-0006</a>
+<a href="https://www.sciendo.com/pdf/10.2478/sjce-2022-0006" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2478/sjce-2022-0006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/sjce-2022-0006" target="_blank">10.2478/sjce-2022-0006</a>
 
 <a href="../../../author/uhlik_adam"><b>Uhlík</b>&nbsp;Adam</a></span>, <a href="../../../author/buch_mario"><b>Buch</b>&nbsp;Mário</a></span>, <a href="../../../author/uncik_stanislav"><b>Unčík</b>&nbsp;Stanislav</a></span><br>
 Journal Article - Slovak Journal of Civil Engineering, Vol. 30, Iss. 1, pp. 49-56
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effecting%20the%20Rheological%20Properties%20of%20Composites%20for%203D%20Printing%20Technology%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effecting+the+rheological+properties+of+composites+for+3d+printing+technology+in+construction&as_occt=title&as_sauthors=uhl%C3%ADk&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000782174300006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2478/sjce-2022-0006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

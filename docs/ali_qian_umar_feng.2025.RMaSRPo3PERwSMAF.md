@@ -19,14 +19,15 @@ tags:
 ---
 
 #Rheological, Mechanical, and Self-Recovery Performance of 3D-Printed ECC Reinforced with Shape Memory Alloy Fibers ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114255" target="_blank">10.1016/j.jobe.2025.114255</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114255" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114255" target="_blank">10.1016/j.jobe.2025.114255</a>
 
 <a href="../../../author/ali_faizan_muhammad"><b>Ali</b>&nbsp;Muhammad</a></span>, <a href="../../../author/qian_hui"><b>Qian</b>&nbsp;Hui</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/fenglin_liu"><b>Fenglin</b>&nbsp;Liu</a></span>, <a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/ali_basit_syed"><b>Ali</b>&nbsp;Syed</a></span>, <a href="../../../author/chenglong_yang"><b>Chenglong</b>&nbsp;Yang</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114255
 
 <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%2C%20Mechanical%2C%20and%20Self-Recovery%20Performance%20of%203D-Printed%20ECC%20Reinforced%20with%20Shape%20Memory%20Alloy%20Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological%2C+mechanical%2C+and+self-recovery+performance+of+3d-printed+ecc+reinforced+with+shape+memory+alloy+fibers&as_occt=title&as_sauthors=ali&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018906913&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001602762300010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114255" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

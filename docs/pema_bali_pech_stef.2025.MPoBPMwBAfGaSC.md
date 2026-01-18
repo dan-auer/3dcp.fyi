@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Properties of Bio-Printed Mortars with Bio-Additives for Green and Sustainable Construction ([2025-07](date/2025/07))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/ma18143375" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143375" target="_blank">10.3390/ma18143375</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18143375" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143375" target="_blank">10.3390/ma18143375</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-4416-0813" title="ORCID: 0009-0000-4416-0813" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pemas_sotirios"><b>Pemas</b>&nbsp;Sotirios</a></span>, <a href="../../../author/baliakas_dimitrios"><b>Baliakas</b>&nbsp;Dimitrios</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6385-2815" title="ORCID: 0000-0001-6385-2815" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pechlivani_maria_eleftheria"><b>Pechlivani</b>&nbsp;Eleftheria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1428-9533" title="ORCID: 0000-0002-1428-9533" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanidou_maria"><b>Stefanidou</b>&nbsp;Maria</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 14
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Bio-Printed%20Mortars%20with%20Bio-Additives%20for%20Green%20and%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+bio-printed+mortars+with+bio-additives+for+green+and+sustainable+construction&as_occt=title&as_sauthors=pemas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011644401&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001535644800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18143375" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

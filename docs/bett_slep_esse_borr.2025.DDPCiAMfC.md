@@ -24,7 +24,7 @@ Contribution - Proceedings of the 32nd EG-ICE International Workshop on Intellig
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/calibration"><button class="btn">#calibration</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Parameter%20Calibration%20in%20Additive%20Manufacturing%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+parameter+calibration+in+additive+manufacturing+for+construction&as_occt=title&as_sauthors=bettermann&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

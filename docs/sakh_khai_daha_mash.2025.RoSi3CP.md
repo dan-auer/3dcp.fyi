@@ -20,14 +20,15 @@ tags:
 
 #Review on Sustainability in 3D Concrete Printing&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Focus on Waste Utilization and Life Cycle Assessment</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s42107-025-01408-6.pdf) <a href="https://doi.org/10.1007/s42107-025-01408-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-025-01408-6" target="_blank">10.1007/s42107-025-01408-6</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s42107-025-01408-6.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42107-025-01408-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-025-01408-6" target="_blank">10.1007/s42107-025-01408-6</a>
 
 <a href="../../../author/sakhare_vishakha"><b>Sakhare</b>&nbsp;Vishakha</a></span>, <a href="../../../author/khairnar_neha"><b>Khairnar</b>&nbsp;Neha</a></span>, <a href="../../../author/dahatonde_ulka"><b>Dahatonde</b>&nbsp;Ulka</a></span>, <a href="../../../author/mashalkar_shilpa"><b>Mashalkar</b>&nbsp;Shilpa</a></span><br>
 Journal Article - Asian Journal of Civil Engineering
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20on%20Sustainability%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+on+sustainability+in+3d+concrete+printing&as_occt=title&as_sauthors=sakhare&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008820912&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42107-025-01408-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

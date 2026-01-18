@@ -8,7 +8,12 @@ search:
 
 # #steel
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (76)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (58)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (49)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (46)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (22)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_li_wang_deng.2026.IoBSPoSREiCCb3CPF/">Investigation on Bond-Slip Performance of Steel Rebar Embedded in Concrete Confined by 3D Concrete Printing Formwork</a></li>
   <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/isafca-kaya_tugce"><b>İsafça Kaya</b> Tuğçe</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC/">Combined Effect of Recycled Tire Steel Fiber and Blast Furnace Slag on the Mechanical Performance of 3D Printable Concrete</a></li>
   <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Scheurer Martin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5193-1871" target="_blank">0000-0002-5193-1871</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2023-10-13
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 31
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> (6)</li>
+        <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a> (5)</li>
+        <li><a href="../../../author/evers_clara"><b>Evers</b> Clara</a> (1)</li>
+        <li><a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> (1)</li>
+        <li><a href="../../../author/reuter-schniete_jonas"><b>Reuter‐Schniete</b> Jonas</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../sche_ditt_grie.2020.PftIoCFBRiDCP/">Potential for the Integration of Continuous-Fiber-Based Reinforcements in Digital Concrete Production</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+        <li><a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a> (3)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (2)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (5)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+        <li><a href="../../../author/huhne_christian"><b>Hühne</b> Christian</a> (5)</li>
+        <li><a href="../../../author/rothe_niklas_tom"><b>Rothe</b> Tom</a> (5)</li>
+        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/evers_clara"><b>Evers</b> Clara</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../ditt_sche_ever_meye.2023.SPoTR3PCE/">Structural Performance of Textile Reinforced 3D Printed Concrete Elements</a></li>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/dittel_gozdem"><b>Dittel</b> Gözdem</a>, <a href="../../../author/scheurer_martin"><b>Scheurer</b> Martin</a>, <a href="../../../author/gries_thomas"><b>Gries</b> Thomas</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../neef_ditt_sche_grie.2023.UTaIFfAMwC/">Utilizing Textiles as Integrated Formwork for Additive Manufacturing with Concrete</a></li>

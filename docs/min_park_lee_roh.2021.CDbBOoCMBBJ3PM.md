@@ -20,14 +20,15 @@ tags:
 ---
 
 #Chloride Diffusion by Build Orientation of Cementitious Material-Based Binder-Jetting 3D Printing Mortar ([2021-12](date/2021/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/23/7452/pdf?version=1638613387) <a href="https://doi.org/10.3390/ma14237452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237452" target="_blank">10.3390/ma14237452</a>
+<a href="https://www.mdpi.com/1996-1944/14/23/7452/pdf?version=1638613387" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14237452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237452" target="_blank">10.3390/ma14237452</a>
 
 <a href="../../../author/min_kyung-sung"><b>Min</b>&nbsp;Kyung-Sung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3059-3068" title="ORCID: 0000-0002-3059-3068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_kwang-min"><b>Park</b>&nbsp;Kwang-Min</a></span>, <a href="../../../author/lee_bong-chun"><b>Lee</b>&nbsp;Bong-Chun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6042-6711" title="ORCID: 0000-0002-6042-6711" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roh_young-sook"><b>Roh</b>&nbsp;Young-Sook</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 23
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/diffusion"><button class="btn">#diffusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Chloride%20Diffusion%20by%20Build%20Orientation%20of%20Cementitious%20Material-Based%20Binder-Jetting%203D%20Printing%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=chloride+diffusion+by+build+orientation+of+cementitious+material-based+binder-jetting+3d+printing+mortar&as_occt=title&as_sauthors=min&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121671254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000734967400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14237452" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Recent Advancements and Future Trends in 3D Printing Concrete Using Waste-Materials ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100187) <a href="https://doi.org/10.1016/j.dibe.2023.100187" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100187" target="_blank">10.1016/j.dibe.2023.100187</a>
+<a href="https://doi.org/10.1016/j.dibe.2023.100187" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2023.100187" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100187" target="_blank">10.1016/j.dibe.2023.100187</a>
 
 <a href="../../../author/tu_haidong"><b>Tu</b>&nbsp;Haidong</a></span>, <a href="../../../author/wei_zhenyun"><b>Wei</b>&nbsp;Zhenyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9431-7820" title="ORCID: 0000-0002-9431-7820" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bahrami_alireza"><b>Bahrami</b>&nbsp;Alireza</a></span>, <a href="../../../author/kahla_nabil"><b>ben&nbsp;Kahla</b>&nbsp;Nabil</a></span>, <a href="../../../author/ahmad_ayaz"><b>Ahmad</b>&nbsp;Ayaz</a></span>, <a href="../../../author/ozkilic_onuralp_yasin"><b>Özkılıç</b>&nbsp;Yasin</a></span><br>
 Journal Article - Developments in the Built Environment, No. 100187
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recent%20Advancements%20and%20Future%20Trends%20in%203D%20Printing%20Concrete%20Using%20Waste-Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recent+advancements+and+future+trends+in+3d+printing+concrete+using+waste-materials&as_occt=title&as_sauthors=tu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169045158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001165463300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2023.100187" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

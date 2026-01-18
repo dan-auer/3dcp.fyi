@@ -20,14 +20,15 @@ tags:
 ---
 
 #Experimental Study on Crack Development and Fracture Performance of 3D Printed Green Engineered Cementitious Composites ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tafmec.2025.105292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2025.105292" target="_blank">10.1016/j.tafmec.2025.105292</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.tafmec.2025.105292" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tafmec.2025.105292" target="_blank">10.1016/j.tafmec.2025.105292</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_zhangqi"><b>Cheng</b>&nbsp;Zhangqi</a></span>, <a href="../../../author/zhou_lu"><b>Zhou</b>&nbsp;Lu</a></span>, <a href="../../../author/jia_xiangxi"><b>Jia</b>&nbsp;Xiangxi</a></span>, <a href="../../../author/liu_renlong"><b>Liu</b>&nbsp;Renlong</a></span><br>
 Journal Article - Theoretical and Applied Fracture Mechanics, No. 105292
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Crack%20Development%20and%20Fracture%20Performance%20of%203D%20Printed%20Green%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+crack+development+and+fracture+performance+of+3d+printed+green+engineered+cementitious+composites&as_occt=title&as_sauthors=cheng&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018949301&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001604802800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.tafmec.2025.105292" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

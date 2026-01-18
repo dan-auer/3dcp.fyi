@@ -19,14 +19,15 @@ tags:
 ---
 
 #Unbonded Inter-Layer Evaluation in Freshly 3D Printed Concrete Using Electrical Resistivity Measurements ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03913) <a href="https://doi.org/10.1016/j.cscm.2024.e03913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03913" target="_blank">10.1016/j.cscm.2024.e03913</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03913" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03913" target="_blank">10.1016/j.cscm.2024.e03913</a>
 
 <a href="../../../author/bang_soo_jin"><b>Bang</b>&nbsp;Jin</a></span>, <a href="../../../author/yim_jae_hong"><b>Yim</b>&nbsp;Hong</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 21, No. e03913
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/electrical"><button class="btn">#electrical</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Unbonded%20Inter-Layer%20Evaluation%20in%20Freshly%203D%20Printed%20Concrete%20Using%20Electrical%20Resistivity%20Measurements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=unbonded+inter-layer+evaluation+in+freshly+3d+printed+concrete+using+electrical+resistivity+measurements&as_occt=title&as_sauthors=bang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207101138&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001344488600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03913" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #Sustainable 3D Printed Clay Bricks Incorporating Coffee Waste&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">Toward Circular Economy in Construction</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.conbuildmat.2025.145010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.145010" target="_blank">10.1016/j.conbuildmat.2025.145010</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.145010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.145010" target="_blank">10.1016/j.conbuildmat.2025.145010</a>
 
 <a href="../../../author/aabbas_mohamed"><b>el&nbsp;Aabbas</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7459-0195" title="ORCID: 0000-0001-7459-0195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mazian_brahim"><b>Mazian</b>&nbsp;Brahim</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1722-1347" title="ORCID: 0000-0003-1722-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahachad_mohammed"><b>Ahachad</b>&nbsp;Mohammed</a></span>, <a href="../../../author/zoghlami_aya"><b>Zoghlami</b>&nbsp;Aya</a></span>, <a href="../../../author/tamraoui_youssef"><b>Tamraoui</b>&nbsp;Youssef</a></span>, <a href="../../../author/ouardouz_mustapha"><b>Ouardouz</b>&nbsp;Mustapha</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0424-796X" title="ORCID: 0000-0003-0424-796X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b>&nbsp;Mustapha</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 506, No. 145010
 
 <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Clay%20Bricks%20Incorporating%20Coffee%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+3d+printed+clay+bricks+incorporating+coffee+waste&as_occt=title&as_sauthors=aabbas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.145010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

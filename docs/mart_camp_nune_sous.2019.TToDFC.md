@@ -18,14 +18,15 @@ tags:
 
 #The Tectonics of Digitally Fabricated Concrete&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">A Case for Robotic Hot Wire-Cutting</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-99519-9_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_29" target="_blank">10.1007/978-3-319-99519-9_29</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_29" target="_blank">10.1007/978-3-319-99519-9_29</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9597-9132" title="ORCID: 0000-0001-9597-9132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martins_filipe_pedro"><b>Martins</b>&nbsp;Pedro</a></span>, <a href="../../../author/campos_fonseca_paulo"><b>de&nbsp;Campos</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4876-2587" title="ORCID: 0000-0002-4876-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nunes_sandra"><b>Nunes</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0024-4622" title="ORCID: 0000-0003-0024-4622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sousa_pedro_jose"><b>Sousa</b>&nbsp;José</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication, pp. 311-322
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cut"><button class="btn">#cut</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Tectonics%20of%20Digitally%20Fabricated%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+tectonics+of+digitally+fabricated+concrete&as_occt=title&as_sauthors=martins&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052672955&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000465013600029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_29" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

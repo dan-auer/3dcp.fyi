@@ -21,14 +21,15 @@ tags:
 ---
 
 #Investigation of Modelling Approaches to Study the Structural Performance of 3D Printed Plain Wall Under Uniform Axial Compression ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332231166566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332231166566" target="_blank">10.1177/13694332231166566</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/13694332231166566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332231166566" target="_blank">10.1177/13694332231166566</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1757-8525" title="ORCID: 0000-0002-1757-8525" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paudel_satish"><b>Paudel</b>&nbsp;Satish</a></span><br>
 Journal Article - Advances in Structural Engineering, Vol. 26, Iss. 10, pp. 1911-1928
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/plain"><button class="btn">#plain</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Modelling%20Approaches%20to%20Study%20the%20Structural%20Performance%20of%203D%20Printed%20Plain%20Wall%20Under%20Uniform%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+modelling+approaches+to+study+the+structural+performance+of+3d+printed+plain+wall+under+uniform+axial+compression&as_occt=title&as_sauthors=paudel&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163019228&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001016955000010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/13694332231166566" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

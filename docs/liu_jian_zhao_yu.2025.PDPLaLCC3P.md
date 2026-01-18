@@ -18,14 +18,15 @@ tags:
 
 #Porous Diatomite Promotes Lightweight and Low-Carbon Concrete 3D Printing&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">An Exploratory Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112071" target="_blank">10.1016/j.jobe.2025.112071</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112071" target="_blank">10.1016/j.jobe.2025.112071</a>
 
 <a href="../../../author/liu_qiang"><b>Liu</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6039-9429" title="ORCID: 0000-0001-6039-9429" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_quan"><b>Jiang</b>&nbsp;Quan</a></span>, <a href="../../../author/zhao_herui"><b>Zhao</b>&nbsp;Herui</a></span>, <a href="../../../author/yu_yang"><b>Yu</b>&nbsp;Yang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5030-3286" title="ORCID: 0000-0001-5030-3286" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_tengfei"><b>Zhao</b>&nbsp;Tengfei</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112071
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promotion"><button class="btn">#promotion</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Porous%20Diatomite%20Promotes%20Lightweight%20and%20Low-Carbon%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=porous+diatomite+promotes+lightweight+and+low-carbon+concrete+3d+printing&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217776399&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001428764600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112071" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

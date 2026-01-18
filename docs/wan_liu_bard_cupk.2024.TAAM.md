@@ -24,14 +24,15 @@ tags:
 
 #Towards Adaptive Additive Manufacturing&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Image-Based Monitoring for Binder Jet 3D Printing of Coarse Composite Concrete Powders</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.acadia.2024.2.482" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2024.2.482" target="_blank">10.52842/conf.acadia.2024.2.482</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2024.2.482" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2024.2.482" target="_blank">10.52842/conf.acadia.2024.2.482</a>
 
 <a href="../../../author/wan_linxiaoyi"><b>Wan</b>&nbsp;Linxiaoyi</a></span>, <a href="../../../author/liu_jingyang"><b>Liu</b>&nbsp;Jingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5146-1080" title="ORCID: 0000-0002-5146-1080" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bard_joshua"><b>Bard</b>&nbsp;Joshua</a></span>, <a href="../../../author/cupkova_dana"><b>Cupkova</b>&nbsp;Dana</a></span><br>
 Contribution - Proceedings of the 44th Annual Conference of the Association of Computer Aided Design in Architecture, pp. 482-492
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/jet"><button class="btn">#jet</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Adaptive%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+adaptive+additive+manufacturing&as_occt=title&as_sauthors=wan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2024.2.482" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

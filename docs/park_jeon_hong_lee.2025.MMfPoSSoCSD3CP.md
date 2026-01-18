@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Modeling for Prediction of Structural Stability of Cylindrical Structures During 3D Concrete Printing ([2025-02](date/2025/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tws.2025.113051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tws.2025.113051" target="_blank">10.1016/j.tws.2025.113051</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.tws.2025.113051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tws.2025.113051" target="_blank">10.1016/j.tws.2025.113051</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7391-0043" title="ORCID: 0000-0002-7391-0043" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_ji-seul"><b>Park</b>&nbsp;Ji-seul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0022-8246" title="ORCID: 0000-0002-0022-8246" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jeong_seung-su"><b>Jeong</b>&nbsp;Seung-Su</a></span>, <a href="../../../author/hong_seungkee"><b>Hong</b>&nbsp;Seungkee</a></span>, <a href="../../../author/lee_seohyung"><b>Lee</b>&nbsp;Seohyung</a></span>, <a href="../../../author/hong_sung-gul"><b>Hong</b>&nbsp;Sung-Gul</a></span><br>
 Journal Article - Thin-Walled Structures, No. 113051
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cylinder"><button class="btn">#cylinder</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Modeling%20for%20Prediction%20of%20Structural%20Stability%20of%20Cylindrical%20Structures%20During%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+modeling+for+prediction+of+structural+stability+of+cylindrical+structures+during+3d+concrete+printing&as_occt=title&as_sauthors=park&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217793876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001428650300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.tws.2025.113051" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -71,8 +72,9 @@ Journal Article - Thin-Walled Structures, No. 113051
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_lian.2026.BAo3CP/">Buildability Analysis of 3D Concrete Printing:<br/>A Finite Element Model Incorporating Segment-by-Segment Activation, Nozzle Constraint, and Extrusion Pressure</a></li>
     </ol>
 </div>
 

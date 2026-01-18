@@ -9,6 +9,60 @@ search:
 
 #  Li Victor 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8678-3493" target="_blank">0000-0002-8678-3493</a>
+
+    First Contribution
+    : 2002-09-17
+    
+    Last Contribution
+    : 2025-11-04
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 847
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> (7)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (6)</li>
+        <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> (5)</li>
+        <li><a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> (4)</li>
+        <li><a href="../../../author/zhu_he"><b>Zhu</b> He</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a> (238)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (54)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (51)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (45)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (38)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (33)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (48)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (41)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (37)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (34)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (34)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhou_xu_savi_mcge.2024.SECCE/">Stitching Engineered Cementitious Composites (ECC ):<br/>Unraveling Anisotropy Challenges Through Architectured 3D Printing Path Design</a></li>

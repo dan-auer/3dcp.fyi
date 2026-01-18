@@ -9,6 +9,60 @@ search:
 
 #  Aguayo Federico 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-07-20
+    
+    Last Contribution
+    : 2022-07-20
+
+    Number Contributions
+    : 1
+
+    Number Citations
+    : 121
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a> (1)</li>
+        <li><a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> (1)</li>
+        <li><a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a> (1)</li>
+        <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a> (1)</li>
+        <li><a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a> (121)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (8)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (7)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (7)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (4)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (4)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (4)</li>
+        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a></li>
 </ol>

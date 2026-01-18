@@ -19,14 +19,15 @@ tags:
 ---
 
 #Marine-Waste-Management of Oyster-Shell-Waste as Reinforcement for Clay Additive Manufacturing Components ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40684-024-00637-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40684-024-00637-5" target="_blank">10.1007/s40684-024-00637-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40684-024-00637-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40684-024-00637-5" target="_blank">10.1007/s40684-024-00637-5</a>
 
 <a href="../../../author/romario_shan_yulius"><b>Romario</b>&nbsp;Yulius</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6260-0007" title="ORCID: 0000-0002-6260-0007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bhat_chinmai"><b>Bhat</b>&nbsp;Chinmai</a></span>, <a href="../../../author/ramezani_maziar"><b>Ramezani</b>&nbsp;Maziar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7933-7356" title="ORCID: 0000-0002-7933-7356" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_cho-pei"><b>Jiang</b>&nbsp;Cho-Pei</a></span><br>
 Journal Article - International Journal of Precision Engineering and Manufacturing-Green Technology, Vol. 12, Iss. 1, pp. 117-134
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Marine-Waste-Management%20of%20Oyster-Shell-Waste%20as%20Reinforcement%20for%20Clay%20Additive%20Manufacturing%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=marine-waste-management+of+oyster-shell-waste+as+reinforcement+for+clay+additive+manufacturing+components&as_occt=title&as_sauthors=romario&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195590660&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001242786500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40684-024-00637-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

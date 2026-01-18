@@ -8,6 +8,10 @@ search:
 
 # #parameter
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (100)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (63)</button></a> <a href="../../keyword/process"><button class="btn">#process (30)</button></a> <a href="../../keyword/material"><button class="btn">#material (28)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (22)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malik_lavanya"><b>Malik</b> Lavanya</a>, <a href="../../../author/rahman_reyazur_mohamed"><b>Rahman</b> Mohamed</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../saha_bish_mali_rahm.2026.SEo3CPLUiSPM/">Strength Evaluation of 3D Concrete Printed Layers Using in-Situ Parameters Monitoring</a></li>
   <li><a href="../../../author/eisazadeh_hamid"><b>Eisazadeh</b> Hamid</a>, <a href="../../../author/chatroudi_hosseini_narges"><b>Chatroudi</b> Narges</a>, <a href="../../../author/alizadeh_roozbeh"><b>Alizadeh</b> Roozbeh</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC/">AI-Based Prediction and Numerical Analysis of Mechanical and Microstructural Parameters of Carbon Fiber Reinforced 3D Printed Composites</a></li>

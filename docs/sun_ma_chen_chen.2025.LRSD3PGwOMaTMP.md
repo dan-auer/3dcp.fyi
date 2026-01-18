@@ -18,14 +18,15 @@ tags:
 ---
 
 #Lunar Regolith Simulant-Derived 3D-Printed Geopolymers with Optimized Mechanical and Thermal Management Properties ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesa.2025.108989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesa.2025.108989" target="_blank">10.1016/j.compositesa.2025.108989</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compositesa.2025.108989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesa.2025.108989" target="_blank">10.1016/j.compositesa.2025.108989</a>
 
 <a href="../../../author/sun_yifan"><b>Sun</b>&nbsp;Yifan</a></span>, <a href="../../../author/ma_siqi"><b>Ma</b>&nbsp;Siqi</a></span>, <a href="../../../author/chen_qingze"><b>Chen</b>&nbsp;Qingze</a></span>, <a href="../../../author/chen_guoliang"><b>Chen</b>&nbsp;Guoliang</a></span>, <a href="../../../author/he_peigang"><b>He</b>&nbsp;Peigang</a></span>, <a href="../../../author/wang_yaming"><b>Wang</b>&nbsp;Yaming</a></span>, <a href="../../../author/qiu_jun"><b>Qiu</b>&nbsp;Jun</a></span>, <a href="../../../author/jia_dechang"><b>Jia</b>&nbsp;Dechang</a></span><br>
 Journal Article - Composites Part A: Applied Science and Manufacturing, No. 108989
 
 <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lunar%20Regolith%20Simulant-Derived%203D-Printed%20Geopolymers%20with%20Optimized%20Mechanical%20and%20Thermal%20Management%20Properties" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lunar+regolith+simulant-derived+3d-printed+geopolymers+with+optimized+mechanical+and+thermal+management+properties&as_occt=title&as_sauthors=sun&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004222167&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001487668700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compositesa.2025.108989" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

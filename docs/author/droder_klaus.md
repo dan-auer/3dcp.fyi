@@ -9,6 +9,60 @@ search:
 
 #  Dröder Klaus 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6424-4384" target="_blank">0000-0002-6424-4384</a>
+
+    First Contribution
+    : 2016-05-09
+    
+    Last Contribution
+    : 2025-12-12
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 227
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (12)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (11)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
+        <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (8)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lindemann_hendrik"><b>Lindemann</b> Hendrik</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b> Serhat</a>, <a href="../../../author/dietrich_franz"><b>Dietrich</b> Franz</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../lind_gerb_ibra_diet.2019.DoaS3PSTfAMoRFCS/">Development of a Shotcrete 3D Printing (SC3DP) Technology for Additive Manufacturing of Reinforced Freeform Concrete Structures</a> (91)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (67)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (62)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (61)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (36)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (34)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (66)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (38)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (36)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (28)</li>
+        <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a> (23)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>

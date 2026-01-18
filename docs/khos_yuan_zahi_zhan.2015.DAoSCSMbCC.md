@@ -16,14 +16,15 @@ tags:
 ---
 
 #Deformation-Analysis of Sulfur-Concrete Structures Made by Contour Crafting ([2015-09](date/2015/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2514/6.2015-4452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2015-4452" target="_blank">10.2514/6.2015-4452</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2015-4452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2015-4452" target="_blank">10.2514/6.2015-4452</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b>&nbsp;Behnam</a></span>, <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span>, <a href="../../../author/xia_bin"><b>Xia</b>&nbsp;Bin</a></span><br>
 Contribution - Proceedings of AIAA SPACE 2015 Conference and Exposition
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Deformation-Analysis%20of%20Sulfur-Concrete%20Structures%20Made%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=deformation-analysis+of+sulfur-concrete+structures+made+by+contour+crafting&as_occt=title&as_sauthors=khoshnevis&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2015-4452" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

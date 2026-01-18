@@ -8,6 +8,10 @@ search:
 
 # #lubrication
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/pump"><button class="btn">#pump (8)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (7)</button></a> <a href="../../keyword/property"><button class="btn">#property (4)</button></a> <a href="../../keyword/form"><button class="btn">#form (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/shi_caijun"><b>Shi</b> Caijun</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../xie_zhan_shi_liu.2022.PoLLPoPCBoFIPM/">Prediction of Lubrication-Layer Properties of Pumped Concrete Based on Flow-Induced Particle-Migration</a></li>
   <li><a href="../../../author/tavangar_tooran"><b>Tavangar</b> Tooran</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../tava_hoss_yahi_khay.2022.NTVMtSPoFCTCoLLaPZ/">Novel Tri-Viscous-Model to Simulate Pumping of Flowable Concrete Through Characterization of Lubrication-Layer and Plug-Zones</a></li>

@@ -19,14 +19,15 @@ tags:
 
 #Additive Manufacturing in Construction&nbsp;([2019-10](date/2019/10))
 <div class="h1-like">A Review on Processes, Applications, and Digital Planning Methods</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.addma.2019.100894) <a href="https://doi.org/10.1016/j.addma.2019.100894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100894" target="_blank">10.1016/j.addma.2019.100894</a>
+<a href="https://doi.org/10.1016/j.addma.2019.100894" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2019.100894" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100894" target="_blank">10.1016/j.addma.2019.100894</a>
 
 <a href="../../../author/paolini_alexander"><b>Paolini</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0823-8649" title="ORCID: 0000-0003-0823-8649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b>&nbsp;Stefan</a></span>, <a href="../../../author/rank_ernst"><b>Rank</b>&nbsp;Ernst</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 30
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+in+construction&as_occt=title&as_sauthors=paolini&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85073532080&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000501768100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2019.100894" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

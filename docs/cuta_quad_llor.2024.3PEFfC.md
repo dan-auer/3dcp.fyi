@@ -21,14 +21,15 @@ tags:
 
 #3D Printed Earth Formworks for Concrete&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Exploring Fabrication Feasibility for Complex Filler Slabs</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_50" target="_blank">10.1007/978-3-031-70031-6_50</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_50" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_50" target="_blank">10.1007/978-3-031-70031-6_50</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-3527-5059" title="ORCID: 0009-0009-3527-5059" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cutajar_sacha"><b>Cutajar</b>&nbsp;Sacha</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7461-983X" title="ORCID: 0000-0002-7461-983X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quadranti_elia"><b>Quadranti</b>&nbsp;Elia</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 431-438
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Earth%20Formworks%20for%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+earth+formworks+for+concrete&as_occt=title&as_sauthors=cutajar&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203080421&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600050" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_50" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -57,8 +58,9 @@ Contribution - Proceedings of the 4th RILEM International Conference on Concrete
       <li><a href="../../../author/gomaa_mohamed"><b>Gomaa</b> Mohamed</a>, <a href="../../../author/jabi_wassim"><b>Jabi</b> Wassim</a>, <a href="../../../author/veliz-reyes_alejandro"><b>Veliz-Reyes</b> Alejandro</a>, <a href="../../../author/soebarto_veronica"><b>Soebarto</b> Veronica</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../goma_jabi_veli_soeb.2021.3PSfEBC/">3D Printing System for Earth-Based Construction:<br/>Case Study of Cob</a></li>
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../perr_rang_cour.2018.3PoEBM/">3D Printing of Earth-Based Materials:<br/>Processing Aspects</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/jenny_david"><b>Jenny</b> David</a>, <a href="../../../author/cutajar_sacha"><b>Cutajar</b> Sacha</a>, <a href="../../../author/chan_yen-fen"><b>Chan</b> Yen-Fen</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jenn_cuta_chan_jenn.2026.EtE/">Earth-to-Earth:<br/>Ultra-Thin 3D-Printed Clay Formwork for in-Situ Earth-Casting</a></li>
     </ol>
 </div>
 

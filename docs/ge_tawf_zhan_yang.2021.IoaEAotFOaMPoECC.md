@@ -20,14 +20,15 @@ tags:
 ---
 
 #Influence of an Extrusion-Approach on the Fiber-Orientation and Mechanical Properties of Engineering Cementitious Composite ([2021-09](date/2021/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.124876" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124876" target="_blank">10.1016/j.conbuildmat.2021.124876</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.124876" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124876" target="_blank">10.1016/j.conbuildmat.2021.124876</a>
 
 <a href="../../../author/ge_zhi"><b>Ge</b>&nbsp;Zhi</a></span>, <a href="../../../author/tawfek_m_abdullah"><b>Tawfek</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7474-4665" title="ORCID: 0000-0002-7474-4665" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongzhi"><b>Zhang</b>&nbsp;Hongzhi</a></span>, <a href="../../../author/yang_yongwei"><b>Yang</b>&nbsp;Yongwei</a></span>, <a href="../../../author/yuan_huaqiang"><b>Yuan</b>&nbsp;Huaqiang</a></span>, <a href="../../../author/sun_renjuan"><b>Sun</b>&nbsp;Renjuan</a></span>, <a href="../../../author/wang_zheng"><b>Wang</b>&nbsp;Zheng</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 306
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/orientation"><button class="btn">#orientation</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20an%20Extrusion-Approach%20on%20the%20Fiber-Orientation%20and%20Mechanical%20Properties%20of%20Engineering%20Cementitious%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+an+extrusion-approach+on+the+fiber-orientation+and+mechanical+properties+of+engineering+cementitious+composite&as_occt=title&as_sauthors=ge&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85115659063&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000703612800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.124876" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

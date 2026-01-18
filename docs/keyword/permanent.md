@@ -8,6 +8,10 @@ search:
 
 # #permanent
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/formwork"><button class="btn">#formwork (25)</button></a> <a href="../../keyword/print"><button class="btn">#print (25)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (22)</button></a> <a href="../../keyword/column"><button class="btn">#column (9)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
   <li><a href="../../../author/biswas_kumar_rajib"><b>Biswas</b> Rajib</a>, <a href="../../../author/saito_takahiro"><b>Saito</b> Takahiro</a>, <a href="../../../author/ito_atsushi"><b>Ito</b> Atsushi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bisw_sait_ito.2025.EEoaN3PPCF/">Experimental Evaluation of a Novel 3D-Printed Permanent Concrete Formwork</a></li>

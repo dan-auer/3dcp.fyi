@@ -21,14 +21,15 @@ tags:
 
 #Integrated Fiber Forms&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">Functionally Integrated Slab Systems Through Additive Manufacturing and Natural Fiber Reinforcement</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/2766/3184) <a href="https://doi.org/10.52825/ocp.v7i.2766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2766" target="_blank">10.52825/ocp.v7i.2766</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/2766/3184" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v7i.2766" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v7i.2766" target="_blank">10.52825/ocp.v7i.2766</a>
 
 <a href="../../../author/knychalla_bruno"><b>Knychalla</b>&nbsp;Bruno</a></span>, <a href="../../../author/wiesner_christian"><b>Wiesner</b>&nbsp;Christian</a></span>, <a href="../../../author/sonnleitner_patrick"><b>Sonnleitner</b>&nbsp;Patrick</a></span>, <a href="../../../author/kowalczyk_magdalena"><b>Kowalczyk</b>&nbsp;Magdalena</a></span>, <a href="../../../author/groom_allin"><b>Groom</b>&nbsp;Allin</a></span>, <a href="../../../author/storey_peter"><b>Storey</b>&nbsp;Peter</a></span><br>
 Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions 2025
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrated%20Fiber%20Forms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrated+fiber+forms&as_occt=title&as_sauthors=knychalla&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v7i.2766" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

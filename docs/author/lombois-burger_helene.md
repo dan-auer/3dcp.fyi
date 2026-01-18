@@ -9,6 +9,60 @@ search:
 
 #  Lombois-Burger Hélène 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3352-5746" target="_blank">0000-0003-3352-5746</a>
+
+    First Contribution
+    : 2021-01-06
+    
+    Last Contribution
+    : 2025-06-24
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 119
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> (6)</li>
+        <li><a href="../../../author/nana_serge-auguste_w"><b>Nana</b> W.</a> (5)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (4)</li>
+        <li><a href="../../../author/mothe_regnault_loic"><b>de la Mothe</b> Loïc</a> (4)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a> (58)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (12)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (10)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (8)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

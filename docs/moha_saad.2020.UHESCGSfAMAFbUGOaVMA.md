@@ -24,14 +24,15 @@ tags:
 ---
 
 #Ultra-High Early Strength Cementitious Grout Suitable for Additive Manufacturing Applications Fabricated by Using Graphene Oxide and Viscosity Modifying Agents ([2020-12](date/2020/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4360/12/12/2900/pdf?version=1607004993) <a href="https://doi.org/10.3390/polym12122900" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym12122900" target="_blank">10.3390/polym12122900</a>
+<a href="https://www.mdpi.com/2073-4360/12/12/2900/pdf?version=1607004993" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/polym12122900" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym12122900" target="_blank">10.3390/polym12122900</a>
 
 <a href="../../../author/mohammed_alyaa"><b>Mohammed</b>&nbsp;Alyaa</a></span>, <a href="../../../author/saadi_tareq-khshain_nihad"><b>al&nbsp;Saadi</b>&nbsp;Nihad</a></span><br>
 Journal Article - Polymers, Vol. 12, Iss. 12
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/graphene"><button class="btn">#graphene</button></a> <a href="../../keyword/grout"><button class="btn">#grout</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Ultra-High%20Early%20Strength%20Cementitious%20Grout%20Suitable%20for%20Additive%20Manufacturing%20Applications%20Fabricated%20by%20Using%20Graphene%20Oxide%20and%20Viscosity%20Modifying%20Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ultra-high+early+strength+cementitious+grout+suitable+for+additive+manufacturing+applications+fabricated+by+using+graphene+oxide+and+viscosity+modifying+agents&as_occt=title&as_sauthors=mohammed&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097032282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000602429800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/polym12122900" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

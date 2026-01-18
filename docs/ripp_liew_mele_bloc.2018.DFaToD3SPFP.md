@@ -18,14 +18,15 @@ tags:
 ---
 
 #Design, Fabrication and Testing of Discrete 3D Sand-Printed Floor Prototypes ([2018-03](date/2018/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" target="_blank">10.1016/j.mtcomm.2018.03.005</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2018.03.005" target="_blank">10.1016/j.mtcomm.2018.03.005</a>
 
 <a href="../../../author/rippmann_matthias"><b>Rippmann</b>&nbsp;Matthias</a></span>, <a href="../../../author/liew_a"><b>Liew</b>&nbsp;A.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Journal Article - Materials Today Communications, Vol. 15, pp. 254-259
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/discrete"><button class="btn">#discrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Fabrication%20and%20Testing%20of%20Discrete%203D%20Sand-Printed%20Floor%20Prototypes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design%2C+fabrication+and+testing+of+discrete+3d+sand-printed+floor+prototypes&as_occt=title&as_sauthors=rippmann&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85044935843&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000433296700036" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mtcomm.2018.03.005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

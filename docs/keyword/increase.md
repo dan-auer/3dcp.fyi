@@ -8,6 +8,10 @@ search:
 
 # #increase
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (2)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (2)</button></a> <a href="../../keyword/strength"><button class="btn">#strength (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/karamara_merve"><b>Karamara</b> Merve</a>, <a href="../../../author/bogdanski_moritz-ole"><b>Bogdanski</b> Moritz-Ole</a>, <a href="../../../author/zoller_raphael"><b>Zöller</b> Raphael</a>, <a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b> Sophie</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../kara_bogd_zoll_albr.2025.IEaS/">Increasing Efficiency and Sustainability:<br/>A Comparative Analysis of Concrete 3D Printing and Traditional Methods Based on Case Studies</a></li>
   <li><a href="../../../author/hagle_marius"><b>Hägle</b> Marius</a>, <a href="../../../author/stohr_ben"><b>Stöhr</b> Ben</a>, <a href="../../../author/stark_alexander"><b>Stark</b> Alexander</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hagl_stoh_star.2025.ItAoCSTRM/">Increasing the Accuracy of Concrete Surfaces Through Robotic Milling</a></li>

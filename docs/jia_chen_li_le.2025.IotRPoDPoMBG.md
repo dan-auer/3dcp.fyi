@@ -17,14 +17,15 @@ tags:
 ---
 
 #Impacts of the Rheological Performance on Dynamic Printing of Metakaolin-Based Geopolymer ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.clay.2025.107849" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clay.2025.107849" target="_blank">10.1016/j.clay.2025.107849</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.clay.2025.107849" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.clay.2025.107849" target="_blank">10.1016/j.clay.2025.107849</a>
 
 <a href="../../../author/jia_yanhong"><b>Jia</b>&nbsp;Yanhong</a></span>, <a href="../../../author/chen_yao"><b>Chen</b>&nbsp;Yao</a></span>, <a href="../../../author/li_yanchen"><b>Li</b>&nbsp;Yanchen</a></span>, <a href="../../../author/le_huirong"><b>Le</b>&nbsp;Huirong</a></span><br>
 Journal Article - Applied Clay Science, Vol. 273, No. 107849
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impacts%20of%20the%20Rheological%20Performance%20on%20Dynamic%20Printing%20of%20Metakaolin-Based%20Geopolymer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impacts+of+the+rheological+performance+on+dynamic+printing+of+metakaolin-based+geopolymer&as_occt=title&as_sauthors=jia&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004407501&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001493730900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.clay.2025.107849" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

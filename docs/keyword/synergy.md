@@ -8,6 +8,10 @@ search:
 
 # #synergy
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (14)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/property"><button class="btn">#property (6)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>

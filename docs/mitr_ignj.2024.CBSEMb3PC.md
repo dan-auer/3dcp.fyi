@@ -20,7 +20,7 @@ Contribution - Proceedings of the 15th fib International PhD Symposium in Civil 
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Connections%20Between%20Single%20Elements%20Made%20by%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=connections+between+single+elements+made+by+3d+printed+concrete&as_occt=title&as_sauthors=mitrovi%C4%87&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

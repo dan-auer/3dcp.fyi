@@ -22,14 +22,15 @@ tags:
 
 #A New Concept for Large Additive Manufacturing in Construction&nbsp;([2023-01](date/2023/01))
 <div class="h1-like">Tower-Crane-Based 3D Printing Controlled by Deep-Reinforcement-Learning</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/ci-10-2022-0278" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-10-2022-0278" target="_blank">10.1108/ci-10-2022-0278</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/ci-10-2022-0278" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-10-2022-0278" target="_blank">10.1108/ci-10-2022-0278</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6421-900X" title="ORCID: 0000-0001-6421-900X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_fabio"><b>Parisi</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_nicola"><b>Parisi</b>&nbsp;Nicola</a></span>, <a href="../../../author/mangini_m_agostino"><b>Mangini</b>&nbsp;Agostino</a></span>, <a href="../../../author/fanti_pia_maria"><b>Fanti</b>&nbsp;Maria</a></span>, <a href="../../../author/adam_m_jose"><b>Adam</b>&nbsp;Jose</a></span><br>
 Journal Article - Construction Innovation
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Concept%20for%20Large%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+new+concept+for+large+additive+manufacturing+in+construction&as_occt=title&as_sauthors=parisi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147343003&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000923645600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ci-10-2022-0278" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

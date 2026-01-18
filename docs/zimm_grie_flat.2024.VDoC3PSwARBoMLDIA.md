@@ -22,14 +22,15 @@ tags:
 ---
 
 #Visualizing Defects of Concrete 3D Printed Structures with Augmented Reality Based on Machine Learning-Driven Image-Analysis ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_18" target="_blank">10.1007/978-3-031-70031-6_18</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_18" target="_blank">10.1007/978-3-031-70031-6_18</a>
 
 <a href="../../../author/zimmermann_stefan"><b>Zimmermann</b>&nbsp;Stefan</a></span>, <a href="../../../author/griego_danielle"><b>Griego</b>&nbsp;Danielle</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 150-157
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/image"><button class="btn">#image</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/visualization"><button class="btn">#visualization</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Visualizing%20Defects%20of%20Concrete%203D%20Printed%20Structures%20with%20Augmented%20Reality%20Based%20on%20Machine%20Learning-Driven%20Image-Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=visualizing+defects+of+concrete+3d+printed+structures+with+augmented+reality+based+on+machine+learning-driven+image-analysis&as_occt=title&as_sauthors=zimmermann&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203007488&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_18" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

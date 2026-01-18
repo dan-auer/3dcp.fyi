@@ -16,14 +16,15 @@ tags:
 ---
 
 #Large-Scale 3D Printing with a Cable-Suspended Robot ([2015-06](date/2015/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2015.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2015.05.001" target="_blank">10.1016/j.addma.2015.05.001</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2015.05.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2015.05.001" target="_blank">10.1016/j.addma.2015.05.001</a>
 
 <a href="../../../author/barnett_eric"><b>Barnett</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7422-4515" title="ORCID: 0000-0001-7422-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gosselin_m_clement"><b>Gosselin</b>&nbsp;Clément</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 7, pp. 27-44
 
 <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing%20with%20a%20Cable-Suspended%20Robot" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-scale+3d+printing+with+a+cable-suspended+robot&as_occt=title&as_sauthors=barnett&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84938082967&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000435752500004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2015.05.001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

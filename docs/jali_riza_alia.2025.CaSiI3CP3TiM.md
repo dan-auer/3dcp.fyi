@@ -20,14 +20,15 @@ tags:
 
 #Challenges and Strategies in Implementing 3D Concrete Printing (3DCP) Technology in Malaysia&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Materials and Design Codes</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1755-1315/1509/1/012008/pdf) <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" target="_blank">10.1088/1755-1315/1509/1/012008</a>
+<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1509/1/012008/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/1509/1/012008" target="_blank">10.1088/1755-1315/1509/1/012008</a>
 
 <a href="../../../author/jalil_siti-nur-natasha-abdul"><b>Jalil</b>&nbsp;Siti Nur Natasha Abdul</a></span>, <a href="../../../author/rizal-alias_ahmad"><b>Rizal Alias</b>&nbsp;Ahmad</a></span>, <a href="../../../author/alias_aizat"><b>Alias</b>&nbsp;Aizat</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 1509, Iss. 1, No. 012008
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Challenges%20and%20Strategies%20in%20Implementing%203D%20Concrete%20Printing%20%283DCP%29%20Technology%20in%20Malaysia" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=challenges+and+strategies+in+implementing+3d+concrete+printing+%283dcp%29+technology+in+malaysia&as_occt=title&as_sauthors=jalil&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011090554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/1509/1/012008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

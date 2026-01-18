@@ -8,6 +8,10 @@ search:
 
 # #fracture
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (34)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (23)</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior (18)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (14)</button></a> <a href="../../keyword/property"><button class="btn">#property (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a>, <a href="../../../author/zhou_yubao"><b>Zhou</b> Yubao</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../naka_zhou_hash_sugi.2025.AEMoFBo3PCwDPP/">Acoustic Emission Monitoring of Fracture Behaviour of 3D Printed Concrete with Different Printing Paths</a></li>
   <li><a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a>, <a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../liu_chen.2025.IFPo3PCBS/">Interlayer Fracture Properties of 3D-Printed Cement-Based Structures:<br/>Influencing Factors and Mechanisms</a></li>

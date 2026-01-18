@@ -9,6 +9,60 @@ search:
 
 #  Chang Ze 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2445-3878" target="_blank">0000-0002-2445-3878</a>
+
+    First Contribution
+    : 2020-03-19
+    
+    Last Contribution
+    : 2023-09-28
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 389
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (11)</li>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (10)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (5)</li>
+        <li><a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a> (5)</li>
+        <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a> (214)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (56)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (51)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (47)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (45)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (14)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (14)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (13)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (12)</li>
+        <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_chen_schl_savi.2023.ARoMoBQoEB3CP/">A Review of Methods on Buildability Quantification of Extrusion-Based 3D Concrete Printing:<br/>From Analytical Modelling to Numerical Simulation</a></li>
   <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../chan_lian_he_schl.2023.LMoEACo3PSwtCoSH/">Lattice-Modelling of Early-Age Creep of 3D Printed Segments with the Consideration of Stress-History</a></li>

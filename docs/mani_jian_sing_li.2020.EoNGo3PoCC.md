@@ -22,14 +22,15 @@ tags:
 
 #Effects of Nozzle Geometries on 3D Printing of Clay Constructs&nbsp;([2020-06](date/2020/06))
 <div class="h1-like">Quantifying Contour-Deviation and Mechanical Properties</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.promfg.2020.05.160) <a href="https://doi.org/10.1016/j.promfg.2020.05.160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.05.160" target="_blank">10.1016/j.promfg.2020.05.160</a>
+<a href="https://doi.org/10.1016/j.promfg.2020.05.160" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.promfg.2020.05.160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.promfg.2020.05.160" target="_blank">10.1016/j.promfg.2020.05.160</a>
 
 <a href="../../../author/manikandan_karthick"><b>Manikandan</b>&nbsp;Karthick</a></span>, <a href="../../../author/jiang_xuepeng"><b>Jiang</b>&nbsp;Xuepeng</a></span>, <a href="../../../author/singh_a_amit"><b>Singh</b>&nbsp;Amit</a></span>, <a href="../../../author/li_beiwen"><b>Li</b>&nbsp;Beiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
 Journal Article - Procedia Manufacturing, Vol. 48, pp. 678-683
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/deviation"><button class="btn">#deviation</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Nozzle%20Geometries%20on%203D%20Printing%20of%20Clay%20Constructs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+nozzle+geometries+on+3d+printing+of+clay+constructs&as_occt=title&as_sauthors=manikandan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85091645327&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000886910600086" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.promfg.2020.05.160" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

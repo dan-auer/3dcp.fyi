@@ -15,14 +15,15 @@ tags:
 ---
 
 #Design Process of a 3D Printed Concrete Water Taxi Stop ([2017-06](date/2017/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-59471-2_307" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-59471-2_307" target="_blank">10.1007/978-3-319-59471-2_307</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-59471-2_307" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-59471-2_307" target="_blank">10.1007/978-3-319-59471-2_307</a>
 
 <a href="../../../author/wolfswinkel_c_jan"><b>van&nbsp;Wolfswinkel</b>&nbsp;Jan</a></span>, <a href="../../../author/land_wim"><b>van ‘t&nbsp;Land</b>&nbsp;Wim</a></span>, <a href="../../../author/stuit_herke"><b>Stuit</b>&nbsp;Herke</a></span>, <a href="../../../author/bastiaens_guido"><b>Bastiaens</b>&nbsp;Guido</a></span>, <a href="../../../author/hall_lucas"><b>ter&nbsp;Hall</b>&nbsp;Lucas</a></span>, <a href="../../../author/beerendonk_wessel"><b>van&nbsp;Beerendonk</b>&nbsp;Wessel</a></span>, <a href="../../../author/voogd_theo"><b>Voogd</b>&nbsp;Theo</a></span>, <a href="../../../author/attahiri_m_mustapha"><b>Attahiri</b>&nbsp;Mustapha</a></span><br>
 Contribution - High Tech Concrete, pp. 2702-2709
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20Process%20of%20a%203D%20Printed%20Concrete%20Water%20Taxi%20Stop" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+process+of+a+3d+printed+concrete+water+taxi+stop&as_occt=title&as_sauthors=wolfswinkel&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134811269&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000550253300308" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-59471-2_307" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

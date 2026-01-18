@@ -21,7 +21,7 @@ Contribution - Proceedings of the 43rd International Conference on Education and
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Theoretical%20Framework%20for%20the%20Standardisation%20and%20Industrialisation%20of%203D%20Concrete%20Printing%20Through%20Decentralised%20Science" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+theoretical+framework+for+the+standardisation+and+industrialisation+of+3d+concrete+printing+through+decentralised+science&as_occt=title&as_sauthors=marco&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

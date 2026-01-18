@@ -14,14 +14,15 @@ tags:
 
 #Construction Industry with 3D Printer&nbsp;([2020-09](date/2020/09))
 <div class="h1-like">A New Era</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-16-6490-8_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6490-8_26" target="_blank">10.1007/978-981-16-6490-8_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-16-6490-8_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6490-8_26" target="_blank">10.1007/978-981-16-6490-8_26</a>
 
 <a href="../../../author/sharma_shivam"><b>Sharma</b>&nbsp;Shivam</a></span>, <a href="../../../author/mitra_soham"><b>Mitra</b>&nbsp;Soham</a></span>, <a href="../../../author/adesina_adeyemi"><b>Adesina</b>&nbsp;Adeyemi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
 Contribution - Proceedings of 1st Online International Conference on Recent Advances in Computational and Experimental Mechanics, pp. 311-324
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Construction%20Industry%20with%203D%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=construction+industry+with+3d+printer&as_occt=title&as_sauthors=sharma&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130391870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-16-6490-8_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

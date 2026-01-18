@@ -18,14 +18,15 @@ tags:
 ---
 
 #Improving Inter-Layer Adhesion of Cementitious Materials for 3D Construction Printing ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14123793) <a href="https://doi.org/10.3390/buildings14123793" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14123793" target="_blank">10.3390/buildings14123793</a>
+<a href="https://doi.org/10.3390/buildings14123793" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14123793" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14123793" target="_blank">10.3390/buildings14123793</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5542-8157" title="ORCID: 0000-0002-5542-8157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/medvedev_vyacheslav"><b>Medvedev</b>&nbsp;Vyacheslav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0480-2401" title="ORCID: 0000-0002-0480-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pustovgar_andrey"><b>Pustovgar</b>&nbsp;Andrey</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4878-2737" title="ORCID: 0000-0003-4878-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_aleksey"><b>Adamtsevich</b>&nbsp;Aleksey</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5843-0076" title="ORCID: 0000-0002-5843-0076" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/adamtsevich_liubov"><b>Adamtsevich</b>&nbsp;Liubov</a></span>, <a href="../../../author/abramova_anastasia"><b>Abramova</b>&nbsp;Anastasia</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 12, No. 3793
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Inter-Layer%20Adhesion%20of%20Cementitious%20Materials%20for%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+inter-layer+adhesion+of+cementitious+materials+for+3d+construction+printing&as_occt=title&as_sauthors=medvedev&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213081749&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001387186300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14123793" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

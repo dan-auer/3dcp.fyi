@@ -9,6 +9,60 @@ search:
 
 #  Wang Yufei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2023-03-14
+    
+    Last Contribution
+    : 2025-12-30
+
+    Number Contributions
+    : 21
+
+    Number Citations
+    : 139
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (19)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (19)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (12)</li>
+        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (7)</li>
+        <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC/">AI-Based Performance Prediction for 3D Printed Concrete Considering Anisotropy and Steam-Curing Condition</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (50)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (39)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (36)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (30)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (12)</li>
+        <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (9)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (8)</li>
+        <li><a href="../../../author/liu_chang"><b>Liu</b> Chang</a> (5)</li>
+        <li><a href="../../../author/yang_yang"><b>Yang</b> Yang</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
   <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>

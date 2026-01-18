@@ -8,6 +8,10 @@ search:
 
 # #remote
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/house"><button class="btn">#house (2)</button></a> <a href="../../keyword/system"><button class="btn">#system (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a></li>
   <li><a href="../../../author/bazli_milad"><b>Bazli</b> Milad</a>, <a href="../../../author/ashrafi_hamed"><b>Ashrafi</b> Hamed</a>, <a href="../../../author/rajabipour_ali"><b>Rajabipour</b> Ali</a>, <a href="../../../author/kutay_cat"><b>Kutay</b> Cat</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../bazl_ashr_raja_kuta.2023.3PfRH/">3D Printing for Remote Housing:<br/>Benefits and Challenges</a></li>

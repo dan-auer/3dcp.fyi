@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Conceptual Model for Building Artistic and Geometrically Complex Building Envelopes Using Concrete 3D Printing ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-4341-7_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4341-7_9" target="_blank">10.1007/978-981-96-4341-7_9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-4341-7_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4341-7_9" target="_blank">10.1007/978-981-96-4341-7_9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4041-2424" title="ORCID: 0000-0003-4041-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yarlagadda_tejeswar"><b>Yarlagadda</b>&nbsp;Tejeswar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8644-4010" title="ORCID: 0000-0002-8644-4010" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zixin"><b>Zhang</b>&nbsp;Zixin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8112-2330" title="ORCID: 0000-0001-8112-2330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiang_liming"><b>Jiang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2454-5737" title="ORCID: 0000-0003-2454-5737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/usmani_asif"><b>Usmani</b>&nbsp;Asif</a></span><br>
 Contribution - Bridging Art and Design with Technology, pp. 87-96
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Conceptual%20Model%20for%20Building%20Artistic%20and%20Geometrically%20Complex%20Building%20Envelopes%20Using%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+conceptual+model+for+building+artistic+and+geometrically+complex+building+envelopes+using+concrete+3d+printing&as_occt=title&as_sauthors=yarlagadda&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-4341-7_9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

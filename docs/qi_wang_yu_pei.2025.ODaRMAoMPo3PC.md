@@ -18,14 +18,15 @@ tags:
 ---
 
 #Optimization Design and Regression Model Analysis of Mechanical Properties of 3D Printed Concrete ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112998" target="_blank">10.1016/j.jobe.2025.112998</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112998" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112998" target="_blank">10.1016/j.jobe.2025.112998</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-0180-6663" title="ORCID: 0009-0003-0180-6663" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qi_pengfei"><b>Qi</b>&nbsp;Pengfei</a></span>, <a href="../../../author/wang_ziyuan"><b>Wang</b>&nbsp;Ziyuan</a></span>, <a href="../../../author/yu_ruifang"><b>Yu</b>&nbsp;Ruifang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3068-7371" title="ORCID: 0000-0002-3068-7371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pei_qiang"><b>Pei</b>&nbsp;Qiang</a></span>, <a href="../../../author/yang_qianli"><b>Yang</b>&nbsp;Qianli</a></span>, <a href="../../../author/wang_chen"><b>Wang</b>&nbsp;Chen</a></span>, <a href="../../../author/yang_liuqing"><b>Yang</b>&nbsp;Liuqing</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112998
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20Design%20and%20Regression%20Model%20Analysis%20of%20Mechanical%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+design+and+regression+model+analysis+of+mechanical+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=qi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006703285&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001501152700003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112998" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

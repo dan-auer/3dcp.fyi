@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effect of Admixtures on Pumpability for High-Strength Concrete ([2016-05](date/2016/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51688644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51688644" target="_blank">10.14359/51688644</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51688644" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51688644" target="_blank">10.14359/51688644</a>
 
 <a href="../../../author/jeong_hong_jae"><b>Jeong</b>&nbsp;Jae</a></span>, <a href="../../../author/jang_pil_kyong"><b>Jang</b>&nbsp;Kyong</a></span>, <a href="../../../author/park_kyu_chan"><b>Park</b>&nbsp;Chan</a></span>, <a href="../../../author/lee_hoon_seung"><b>Lee</b>&nbsp;Seung</a></span>, <a href="../../../author/kwon_hee_seung"><b>Kwon</b>&nbsp;Seung</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 113, Iss. 3, pp. 323-333
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Admixtures%20on%20Pumpability%20for%20High-Strength%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+admixtures+on+pumpability+for+high-strength+concrete&as_occt=title&as_sauthors=jeong&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51688644" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

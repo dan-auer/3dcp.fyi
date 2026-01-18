@@ -17,14 +17,15 @@ tags:
 ---
 
 #Preparation and High-Velocity Impact Experiment for Three-Dimensional-Printed Concrete ([2022-03](date/2022/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51734353" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734353" target="_blank">10.14359/51734353</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51734353" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734353" target="_blank">10.14359/51734353</a>
 
 <a href="../../../author/zhou_jiehang"><b>Zhou</b>&nbsp;Jiehang</a></span>, <a href="../../../author/du_longyu"><b>Du</b>&nbsp;Longyu</a></span>, <a href="../../../author/lai_jianzhong"><b>Lai</b>&nbsp;Jianzhong</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/dong_saiyang"><b>Dong</b>&nbsp;Saiyang</a></span>, <a href="../../../author/yang_yujie"><b>Yang</b>&nbsp;Yujie</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 119, Iss. 2
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preparation%20and%20High-Velocity%20Impact%20Experiment%20for%20Three-Dimensional-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preparation+and+high-velocity+impact+experiment+for+three-dimensional-printed+concrete&as_occt=title&as_sauthors=zhou&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134821702&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000888572600006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51734353" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

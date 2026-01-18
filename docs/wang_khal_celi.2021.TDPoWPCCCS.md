@@ -17,14 +17,15 @@ tags:
 ---
 
 #Three-Dimensional Printability of White-Portland-Cement Containing Ceno-Spheres ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733119" target="_blank">10.14359/51733119</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733119" target="_blank">10.14359/51733119</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/khalil_abdullah"><b>Khalil</b>&nbsp;Abdullah</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celik_kemal"><b>Celik</b>&nbsp;Kemal</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 147-154
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/sphere"><button class="btn">#sphere</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/white"><button class="btn">#white</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printability%20of%20White-Portland-Cement%20Containing%20Ceno-Spheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printability+of+white-portland-cement+containing+ceno-spheres&as_occt=title&as_sauthors=wang&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121631702&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733119" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

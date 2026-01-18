@@ -15,14 +15,15 @@ tags:
 ---
 
 #Algorithmic Mix-Design for 3D Printing Materials ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-34027-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-34027-7_61" target="_blank">10.1007/978-3-031-34027-7_61</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-34027-7_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-34027-7_61" target="_blank">10.1007/978-3-031-34027-7_61</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7743-470X" title="ORCID: 0000-0002-7743-470X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sergis_vasileios"><b>Sergis</b>&nbsp;Vasileios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
 Contribution - Proceedings of the Canadian Society of Civil Engineering Annual Conference 2022, pp. 915-922
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Algorithmic%20Mix-Design%20for%203D%20Printing%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=algorithmic+mix-design+for+3d+printing+materials&as_occt=title&as_sauthors=sergis&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185714739&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-34027-7_61" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

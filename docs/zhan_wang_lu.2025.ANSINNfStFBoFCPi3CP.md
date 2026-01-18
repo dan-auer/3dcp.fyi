@@ -20,14 +20,15 @@ tags:
 ---
 
 #A Navier-Stokes-Informed Neural Network for Simulating the Flow-Behavior of Flowable Cement-Paste in 3D Concrete Printing ([2025-01](date/2025/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15020275) <a href="https://doi.org/10.3390/buildings15020275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15020275" target="_blank">10.3390/buildings15020275</a>
+<a href="https://doi.org/10.3390/buildings15020275" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15020275" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15020275" target="_blank">10.3390/buildings15020275</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6697-0777" title="ORCID: 0000-0002-6697-0777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_tianjie"><b>Zhang</b>&nbsp;Tianjie</a></span>, <a href="../../../author/wang_donglei"><b>Wang</b>&nbsp;Donglei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2330-4237" title="ORCID: 0000-0003-2330-4237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_yang"><b>Lu</b>&nbsp;Yang</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 2, No. 275
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/neural"><button class="btn">#neural</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Navier-Stokes-Informed%20Neural%20Network%20for%20Simulating%20the%20Flow-Behavior%20of%20Flowable%20Cement-Paste%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+navier-stokes-informed+neural+network+for+simulating+the+flow-behavior+of+flowable+cement-paste+in+3d+concrete+printing&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215969206&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001404642100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15020275" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

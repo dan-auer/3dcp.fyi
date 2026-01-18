@@ -15,14 +15,15 @@ tags:
 ---
 
 #Feasibility Study of Developing Cementless Blended Materials as 3D Printable Materials ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02675) <a href="https://doi.org/10.1016/j.cscm.2023.e02675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02675" target="_blank">10.1016/j.cscm.2023.e02675</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e02675" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e02675" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02675" target="_blank">10.1016/j.cscm.2023.e02675</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9497-7028" title="ORCID: 0000-0002-9497-7028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiala_lukas"><b>Fiala</b>&nbsp;Lukáš</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4792-4457" title="ORCID: 0000-0003-4792-4457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_wei-ting"><b>Lin</b>&nbsp;Wei-Ting</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3202-829X" title="ORCID: 0000-0002-3202-829X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hotek_petr"><b>Hotěk</b>&nbsp;Petr</a></span>, <a href="../../../author/cheng_an"><b>Cheng</b>&nbsp;An</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 19, No. e02675
 
 <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%20Developing%20Cementless%20Blended%20Materials%20as%203D%20Printable%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+study+of+developing+cementless+blended+materials+as+3d+printable+materials&as_occt=title&as_sauthors=fiala&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177047998&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001112451700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e02675" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

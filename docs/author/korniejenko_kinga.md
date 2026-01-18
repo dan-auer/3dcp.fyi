@@ -9,6 +9,60 @@ search:
 
 #  Korniejenko Kinga 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8265-3982" target="_blank">0000-0002-8265-3982</a>
+
+    First Contribution
+    : 2019-11-01
+    
+    Last Contribution
+    : 2025-05-01
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 83
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (6)</li>
+        <li><a href="../../../author/lach_michal"><b>Łach</b> Michał</a> (5)</li>
+        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a> (4)</li>
+        <li><a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a> (4)</li>
+        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (44)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (35)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (31)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (26)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (10)</li>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (10)</li>
+        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (10)</li>
+        <li><a href="../../../author/liu_jie"><b>Liu</b> Jie</a> (4)</li>
+        <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/becher_frederik_anton"><b>Becher</b> Anton</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bech_gade_korn.2025.3PwGaIA/">3D Printing with Geopolymers and Its Applications</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../rudz_huty_maro_korn.2025.3PLFCwDR/">3D-Printed Lightweight Foamed Concrete with Dispersed Reinforcement</a></li>

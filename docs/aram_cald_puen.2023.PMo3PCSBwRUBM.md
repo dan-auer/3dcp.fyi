@@ -18,14 +18,15 @@ tags:
 ---
 
 #Parametric Modelling of 3D Printed Concrete Segmented Beams with Rebars Under Bending Moments ([2023-02](date/2023/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e01910) <a href="https://doi.org/10.1016/j.cscm.2023.e01910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01910" target="_blank">10.1016/j.cscm.2023.e01910</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e01910" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e01910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e01910" target="_blank">10.1016/j.cscm.2023.e01910</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aramburu_amaia"><b>Aramburu</b>&nbsp;Amaia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b>&nbsp;Iñigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puente_inigo"><b>Puente</b>&nbsp;Iñigo</a></span><br>
 Journal Article - Case Studies in Construction Materials
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Modelling%20of%203D%20Printed%20Concrete%20Segmented%20Beams%20with%20Rebars%20Under%20Bending%20Moments" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parametric+modelling+of+3d+printed+concrete+segmented+beams+with+rebars+under+bending+moments&as_occt=title&as_sauthors=aramburu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147605173&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000965374000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e01910" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

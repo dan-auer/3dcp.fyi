@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Review on Impact-Assessment of 3D Printing Technology in the Field of Modern Construction ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-0072-1_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_21" target="_blank">10.1007/978-981-97-0072-1_21</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-0072-1_21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-0072-1_21" target="_blank">10.1007/978-981-97-0072-1_21</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9320-051X" title="ORCID: 0009-0007-9320-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/damarla_ravikanth"><b>Damarla</b>&nbsp;Ravikanth</a></span>, <a href="../../../author/lakshmi_keshav"><b>Lakshmi</b>&nbsp;Keshav</a></span><br>
 Contribution - Recent Advances in Civil Engineering for Sustainable Communities, pp. 231-240
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20Impact-Assessment%20of%203D%20Printing%20Technology%20in%20the%20Field%20of%20Modern%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+on+impact-assessment+of+3d+printing+technology+in+the+field+of+modern+construction&as_occt=title&as_sauthors=damarla&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190275272&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-0072-1_21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

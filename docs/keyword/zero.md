@@ -8,6 +8,10 @@ search:
 
 # #zero
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (2)</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a>, <a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a>, <a href="../../../author/alawi_khamis_mubarak"><b>Alawi</b> Mubarak</a>, <a href="../../../author/jabri_saif_khalifa"><b>Jabri</b> Khalifa</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../abed_wari_alaw_jabr.2025.NGNZCfU3PC/">Next-Generation Net-Zero Composite for Underwater 3D Printing Construction:<br/>Hybrid Machine Learning Optimized LC3 with Recycled Rubber</a></li>
   <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/wissemann_emily"><b>Wissemann</b> Emily</a>, <a href="../../../author/cousin_tim"><b>Cousin</b> Tim</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../curt_pear_wiss_cous.2024.E/">EarthWorks:<br/>Zero-Waste 3D Printed Earthen Formwork for Shape-Optimized, Reinforced Concrete Construction</a></li>

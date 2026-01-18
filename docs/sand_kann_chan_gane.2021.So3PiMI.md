@@ -15,14 +15,15 @@ tags:
 
 #Scope of 3D Printing in Manufacturing Industries&nbsp;([2021-02](date/2021/02))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2021.01.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2021.01.394" target="_blank">10.1016/j.matpr.2021.01.394</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2021.01.394" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2021.01.394" target="_blank">10.1016/j.matpr.2021.01.394</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5901-199X" title="ORCID: 0000-0002-5901-199X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandeep_bolugoddu"><b>Sandeep</b>&nbsp;Bolugoddu</a></span>, <a href="../../../author/kannan_tm_t"><b>Kannan</b>&nbsp;T.</a></span>, <a href="../../../author/chandradass_j"><b>Chandradass</b>&nbsp;J.</a></span>, <a href="../../../author/ganesan_m"><b>Ganesan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8892-3130" title="ORCID: 0000-0001-8892-3130" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajan_john_a"><b>Rajan</b>&nbsp;A.</a></span><br>
 Journal Article - Materials Today: Proceedings, Vol. 45, pp. 6941-6945
 
 <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Scope%20of%203D%20Printing%20in%20Manufacturing%20Industries" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=scope+of+3d+printing+in+manufacturing+industries&as_occt=title&as_sauthors=sandeep&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85108222921&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000660295000004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2021.01.394" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

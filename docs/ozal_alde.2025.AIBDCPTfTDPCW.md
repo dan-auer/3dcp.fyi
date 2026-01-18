@@ -22,14 +22,15 @@ tags:
 ---
 
 #Artificial Intelligence-Based Displacement Capacity Prediction Tool for Three-Dimensional Printed Concrete Walls ([2025-03](date/2025/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1002/suco.70039) <a href="https://doi.org/10.1002/suco.70039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70039" target="_blank">10.1002/suco.70039</a>
+<a href="https://doi.org/10.1002/suco.70039" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.70039" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70039" target="_blank">10.1002/suco.70039</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8951-6841" title="ORCID: 0000-0002-8951-6841" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozalp_abdulkadir"><b>Özalp</b>&nbsp;Abdulkadir</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2425-9685" title="ORCID: 0000-0003-2425-9685" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aldemir_alper"><b>Aldemir</b>&nbsp;Alper</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/capacity"><button class="btn">#capacity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/displacement"><button class="btn">#displacement</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Intelligence-Based%20Displacement%20Capacity%20Prediction%20Tool%20for%20Three-Dimensional%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=artificial+intelligence-based+displacement+capacity+prediction+tool+for+three-dimensional+printed+concrete+walls&as_occt=title&as_sauthors=%C3%B6zalp&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000211824&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001439919900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.70039" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

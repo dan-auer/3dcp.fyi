@@ -15,14 +15,15 @@ tags:
 ---
 
 #Planning Algorithms for In-Situ Production of Free-Form Concrete Panels ([2018-03](date/2018/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2018.03.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.03.006" target="_blank">10.1016/j.autcon.2018.03.006</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2018.03.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.03.006" target="_blank">10.1016/j.autcon.2018.03.006</a>
 
 <a href="../../../author/son_seunghyun"><b>Son</b>&nbsp;Seunghyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2606-7831" title="ORCID: 0000-0002-2606-7831" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lim_jeeyoung"><b>Lim</b>&nbsp;Jeeyoung</a></span>, <a href="../../../author/kim_sunkuk"><b>Kim</b>&nbsp;Sunkuk</a></span><br>
 Journal Article - Automation in Construction, Vol. 91, pp. 83-91
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Planning%20Algorithms%20for%20In-Situ%20Production%20of%20Free-Form%20Concrete%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=planning+algorithms+for+in-situ+production+of+free-form+concrete+panels&as_occt=title&as_sauthors=son&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85043396229&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000431470100007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2018.03.006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

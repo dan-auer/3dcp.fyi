@@ -19,14 +19,15 @@ tags:
 
 #Manufacturing Cement-Based Materials and Building Products via Extrusion&nbsp;([2015-08](date/2015/08))
 <div class="h1-like">From Laboratory to Factory</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/cien.14.00065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/cien.14.00065" target="_blank">10.1680/cien.14.00065</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/cien.14.00065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/cien.14.00065" target="_blank">10.1680/cien.14.00065</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7977-0718" title="ORCID: 0000-0001-7977-0718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_xiangming"><b>Zhou</b>&nbsp;Xiangming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span><br>
 Journal Article - Proceedings of the Institution of Civil Engineers - Civil Engineering, Vol. 168, Iss. 6, pp. 11-16
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/factory"><button class="btn">#factory</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Manufacturing%20Cement-Based%20Materials%20and%20Building%20Products%20via%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=manufacturing+cement-based+materials+and+building+products+via+extrusion&as_occt=title&as_sauthors=zhou&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85016465346&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000368018300003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/cien.14.00065" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

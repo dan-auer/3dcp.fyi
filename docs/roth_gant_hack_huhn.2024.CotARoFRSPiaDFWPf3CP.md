@@ -25,7 +25,7 @@ Contribution - fib Symposium 2024
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/strand"><button class="btn">#strand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterisation%20of%20the%20Alkaline-Resistance%20of%20Fiber-Reinforcement%20Strands%20Produced%20in%20a%20Dynamic%20Fiber%20Winding%20Process%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterisation+of+the+alkaline-resistance+of+fiber-reinforcement+strands+produced+in+a+dynamic+fiber+winding+process+for+3d+concrete+printing&as_occt=title&as_sauthors=rothe&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

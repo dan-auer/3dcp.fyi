@@ -14,14 +14,15 @@ tags:
 ---
 
 #Microstructural Examination of Carbonated 3D Printed Concrete ([2022-02](date/2022/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmi.13087) <a href="https://doi.org/10.1111/jmi.13087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jmi.13087" target="_blank">10.1111/jmi.13087</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jmi.13087" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1111/jmi.13087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jmi.13087" target="_blank">10.1111/jmi.13087</a>
 
 <a href="../../../author/aguilar-sanchez_maria_asel"><b>Aguilar Sanchez</b>&nbsp;Asel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7630-1083" title="ORCID: 0000-0002-7630-1083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stefanoni_matteo"><b>Stefanoni</b>&nbsp;Matteo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2603-4757" title="ORCID: 0000-0002-2603-4757" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/angst_m_ueli"><b>Angst</b>&nbsp;Ueli</a></span><br>
 Journal Article - Journal of Microscopy, Vol. 286, Iss. 2, pp. 141-147
 
 <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/examination"><button class="btn">#examination</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Microstructural%20Examination%20of%20Carbonated%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=microstructural+examination+of+carbonated+3d+printed+concrete&as_occt=title&as_sauthors=aguilar+sanchez&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125773508&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000757959400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1111/jmi.13087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

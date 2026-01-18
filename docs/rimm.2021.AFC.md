@@ -13,14 +13,15 @@ tags:
 
 #Automating Fab Cities&nbsp;([2021-01](date/2021/01))
 <div class="h1-like">3D Printing and Urban Renewal</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-15-8670-5_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8670-5_10" target="_blank">10.1007/978-981-15-8670-5_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-15-8670-5_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-15-8670-5_10" target="_blank">10.1007/978-981-15-8670-5_10</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2869-9971" title="ORCID: 0000-0002-2869-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rimmer_matthew"><b>Rimmer</b>&nbsp;Matthew</a></span><br>
 Contribution - Automating Cities, pp. 255-272
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automating%20Fab%20Cities" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automating+fab+cities&as_occt=title&as_sauthors=rimmer&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101163598&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-15-8670-5_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

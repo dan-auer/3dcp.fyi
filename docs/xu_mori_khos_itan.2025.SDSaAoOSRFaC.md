@@ -17,14 +17,15 @@ tags:
 ---
 
 #Scaled-Down Simulation and Analysis of On-Site Robotic Fabrication and Construction ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2025/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0062" target="_blank">10.22260/isarc2025/0062</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0062" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0062" target="_blank">10.22260/isarc2025/0062</a>
 
 <a href="../../../author/xu_raymond"><b>Xu</b>&nbsp;Raymond</a></span>, <a href="../../../author/morita_luka"><b>Morita</b>&nbsp;Luka</a></span>, <a href="../../../author/khosravian_parmida"><b>Khosravian</b>&nbsp;Parmida</a></span>, <a href="../../../author/itani_anas"><b>Itani</b>&nbsp;Anas</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 468-476
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Scaled-Down%20Simulation%20and%20Analysis%20of%20On-Site%20Robotic%20Fabrication%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=scaled-down+simulation+and+analysis+of+on-site+robotic+fabrication+and+construction&as_occt=title&as_sauthors=xu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0062" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

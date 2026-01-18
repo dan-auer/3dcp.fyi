@@ -18,14 +18,15 @@ tags:
 
 #Development of an Innovative 3D Printing Process for Reinforced Concrete&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">AMoRC Method</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33187-9_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33187-9_59" target="_blank">10.1007/978-3-031-33187-9_59</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33187-9_59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33187-9_59" target="_blank">10.1007/978-3-031-33187-9_59</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1469-9786" title="ORCID: 0000-0002-1469-9786" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_sisi"><b>Zhang</b>&nbsp;Sisi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5425-0396" title="ORCID: 0000-0001-5425-0396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalus_matthias"><b>Kalus</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4161-7595" title="ORCID: 0000-0003-4161-7595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/engel_sven"><b>Engel</b>&nbsp;Sven</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3066-5006" title="ORCID: 0000-0003-3066-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hegger_josef"><b>Hegger</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span><br>
 Contribution - Proceedings of the International RILEM Conference on Synergising Expertise Towards Sustainability and Robustness of Cement-Based Materials and Concrete Structures, pp. 641-652
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20Innovative%203D%20Printing%20Process%20for%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+an+innovative+3d+printing+process+for+reinforced+concrete&as_occt=title&as_sauthors=zhang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162105189&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33187-9_59" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

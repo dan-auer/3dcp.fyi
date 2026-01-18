@@ -8,6 +8,10 @@ search:
 
 # #ready
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_chrisitan"><b>Baumert</b> Chrisitan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
   <li><a href="../../../author/mackin_anthony"><b>Mackin</b> Anthony</a>, <a href="../../../author/migliorino_jenna"><b>Migliorino</b> Jenna</a>, <a href="../../../author/farhoud_hamdy"><b>Farhoud</b> Hamdy</a>, <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mack_migl_farh_mant.2024.IACRfSR/">Is Additive Construction Ready for Seismic Regions?:<br/>A New Seismic Protective System Enabled by Additive Construction</a></li>

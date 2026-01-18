@@ -9,6 +9,60 @@ search:
 
 #  Matthäus Carla 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9079-8578" target="_blank">0000-0001-9079-8578</a>
+
+    First Contribution
+    : 2019-09-11
+    
+    Last Contribution
+    : 2022-11-17
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 106
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (5)</li>
+        <li><a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> (5)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (5)</li>
+        <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a> (2)</li>
+        <li><a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/kofler_nadine"><b>Kofler</b> Nadine</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../matt_kofl_kran_wege.2020.ILRCwFRfELME/">Inter-Layer Reinforcement Combined with Fiber-Reinforcement for Extruded Lightweight Mortar Elements</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (15)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (12)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (11)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (11)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (17)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (13)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (11)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (10)</li>
+        <li><a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> (8)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../dahl_hech_matt_fott.2022.3CP/">3D Concrete Printing:<br/>Graded Concrete-Extrusion</a></li>
   <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/kollmannsberger_stefan"><b>Kollmannsberger</b> Stefan</a>, <a href="../../../author/leithner_felicitas"><b>Leithner</b> Felicitas</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../brie_koll_leit_matt.2022.TOoAMLCWEwICStSaM/">Thermal Optimization of Additively Manufactured Lightweight Concrete Wall Elements with Internal Cellular Structure through Simulations and Measurements</a></li>

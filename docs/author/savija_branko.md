@@ -9,6 +9,60 @@ search:
 
 #  Šavija Branko 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1299-1449" target="_blank">0000-0003-1299-1449</a>
+
+    First Contribution
+    : 2019-06-07
+    
+    Last Contribution
+    : 2025-06-16
+
+    Number Contributions
+    : 31
+
+    Number Citations
+    : 590
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (20)</li>
+        <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a> (13)</li>
+        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a> (10)</li>
+        <li><a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a> (6)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/bhagath-singh_v-p_gangapatnam"><b>Bhagath Singh</b> Gangapatnam</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC/">The Effect of Material Fresh Properties and Process Parameters on Buildability and Inter-Layer Adhesion of 3D Printed Concrete</a> (226)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (109)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (84)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (84)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (79)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (62)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (18)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (17)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (15)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (15)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gomez-jaramillo_sofia_laura"><b>Gomez Jaramillo</b> Laura</a>, <a href="../../../author/lukovic_mladena"><b>Luković</b> Mladena</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gome_luko_savi_zhou.2025.RSf3PSHCC/">Recycled Sand for 3D-Printed Strain Hardening Cementitious Composite:<br/>A Review of Recent Developments</a></li>
   <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a>, <a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../nies_chaj_savi.2025.EoGCSotFPo3PCC/">Effect of Ground Copper Slag on the Fresh Properties of 3d Printed Cementitious Composites</a></li>

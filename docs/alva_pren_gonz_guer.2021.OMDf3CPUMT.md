@@ -18,14 +18,15 @@ tags:
 
 #Optimum Mix-Design for 3D Concrete Printing Using Mining-Tailings&nbsp;([2021-02](date/2021/02))
 <div class="h1-like">A Case Study in Spain</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/13/3/1568/pdf?version=1612275404) <a href="https://doi.org/10.3390/su13031568" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13031568" target="_blank">10.3390/su13031568</a>
+<a href="https://www.mdpi.com/2071-1050/13/3/1568/pdf?version=1612275404" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su13031568" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su13031568" target="_blank">10.3390/su13031568</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b>&nbsp;Martina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b>&nbsp;María</a></span>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b>&nbsp;Celestino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b>&nbsp;Diego-José</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4613-3979" title="ORCID: 0000-0003-4613-3979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinez-martinez_enrique_juan"><b>Martínez-Martínez</b>&nbsp;Juan</a></span><br>
 Journal Article - Sustainability, Vol. 13, Iss. 3
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimum%20Mix-Design%20for%203D%20Concrete%20Printing%20Using%20Mining-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimum+mix-design+for+3d+concrete+printing+using+mining-tailings&as_occt=title&as_sauthors=%C3%A1lvarez-fern%C3%A1ndez&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100659066&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000615633700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su13031568" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

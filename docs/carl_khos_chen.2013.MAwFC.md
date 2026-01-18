@@ -14,14 +14,15 @@ tags:
 ---
 
 #Manufacturing Additively, with Fresh Concrete ([2013-11](date/2013/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1115/imece2013-63996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2013-63996" target="_blank">10.1115/imece2013-63996</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1115/imece2013-63996" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1115/imece2013-63996" target="_blank">10.1115/imece2013-63996</a>
 
 <a href="../../../author/carlo_tony"><b>di&nbsp;Carlo</b>&nbsp;Tony</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/chen_yong"><b>Chen</b>&nbsp;Yong</a></span><br>
 Contribution - Proceedings of the ASME International Mechanical Engineering Congress and Exposition
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Manufacturing%20Additively%2C%20with%20Fresh%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=manufacturing+additively%2C+with+fresh+concrete&as_occt=title&as_sauthors=carlo&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84903465187&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1115/imece2013-63996" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

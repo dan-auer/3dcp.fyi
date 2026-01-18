@@ -18,14 +18,15 @@ tags:
 
 #Methodologies to Design Optimum 3D Printable Mortar Mix&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/14/2497/pdf?version=1752667337) <a href="https://doi.org/10.3390/buildings15142497" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15142497" target="_blank">10.3390/buildings15142497</a>
+<a href="https://www.mdpi.com/2075-5309/15/14/2497/pdf?version=1752667337" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15142497" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15142497" target="_blank">10.3390/buildings15142497</a>
 
 <a href="../../../author/gerges_isabelle"><b>Gerges</b>&nbsp;Isabelle</a></span>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b>&nbsp;Faten</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3171-0470" title="ORCID: 0000-0003-3171-0470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/youssef_nicolas"><b>Youssef</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7486-2031" title="ORCID: 0000-0001-7486-2031" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/antczak_emmanuel"><b>Antczak</b>&nbsp;Emmanuel</a></span>, <a href="../../../author/chehade_hage_fadi"><b>Chehade</b>&nbsp;Fadi</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 14, No. 2497
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Methodologies%20to%20Design%20Optimum%203D%20Printable%20Mortar%20Mix" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=methodologies+to+design+optimum+3d+printable+mortar+mix&as_occt=title&as_sauthors=gerges&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011648313&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001535662500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15142497" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -157,8 +158,9 @@ Journal Article - Buildings, Vol. 15, Iss. 14, No. 2497
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kaus_sone_amat_perr.2026.EoFABFaANotFPRaSBoPC/">Effect of Fly Ash, Basalt Fiber and Attapulgite Nanoclay on the Fresh Properties, Rheology and Shrinkage Behaviour of Printable Concrete</a></li>
     </ol>
 </div>
 

@@ -9,6 +9,60 @@ search:
 
 #  Naboni Roberto 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9647-0426" target="_blank">0000-0001-9647-0426</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2024-11-18
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 190
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (11)</li>
+        <li><a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a> (3)</li>
+        <li><a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a> (3)</li>
+        <li><a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a> (2)</li>
+        <li><a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a> (57)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (26)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (18)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (17)</li>
+        <li><a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (11)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (9)</li>
+        <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> (9)</li>
+        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/hansen_nedergaard-lillebro_steen"><b>Hansen</b> Steen</a>, <a href="../../../author/jespersen_toste-lomholdt_esra"><b>Jespersen</b> Esra</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jrg_hans_jesp_flor.2024.EIoKSPfSDo3PC/">Experimental Investigation of Key Structural Parameters for Structural Design of 3D Printed Concrete</a></li>
   <li><a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/sumini_valentina"><b>Sumini</b> Valentina</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_sumi_nabo.2024.ADaACoRSLH/">Automated Design and Additive Construction of Regolith-Shielded Lunar Habitats</a></li>

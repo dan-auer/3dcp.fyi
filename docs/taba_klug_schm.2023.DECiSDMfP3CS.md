@@ -18,14 +18,15 @@ tags:
 ---
 
 #Dynamic Extrusion-Control in Spot-Deposition Modeling for Porous 3D Clay-Structures ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2571-6131/6/4/124/pdf?version=1696589177) <a href="https://doi.org/10.3390/ceramics6040124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics6040124" target="_blank">10.3390/ceramics6040124</a>
+<a href="https://www.mdpi.com/2571-6131/6/4/124/pdf?version=1696589177" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ceramics6040124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ceramics6040124" target="_blank">10.3390/ceramics6040124</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-2864-4870" title="ORCID: 0009-0006-2864-4870" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tabakova_vesela"><b>Tabakova</b>&nbsp;Vesela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7654-0164" title="ORCID: 0000-0002-7654-0164" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/klug_christina"><b>Klug</b>&nbsp;Christina</a></span>, <a href="../../../author/schmitz_h_thomas"><b>Schmitz</b>&nbsp;Thomas</a></span><br>
 Journal Article - Ceramics, Vol. 6, Iss. 4, pp. 2018-2035
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Extrusion-Control%20in%20Spot-Deposition%20Modeling%20for%20Porous%203D%20Clay-Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+extrusion-control+in+spot-deposition+modeling+for+porous+3d+clay-structures&as_occt=title&as_sauthors=tabakova&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180247615&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001131126100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ceramics6040124" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

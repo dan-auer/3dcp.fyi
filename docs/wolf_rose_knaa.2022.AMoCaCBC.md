@@ -16,14 +16,15 @@ tags:
 ---
 
 #Additive Manufacturing of Clay and Ceramic Building Components ([2021-10](date/2021/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2021.103956" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103956" target="_blank">10.1016/j.autcon.2021.103956</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2021.103956" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2021.103956" target="_blank">10.1016/j.autcon.2021.103956</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4114-4951" title="ORCID: 0000-0003-4114-4951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_alexander"><b>Wolf</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6587-875X" title="ORCID: 0000-0002-6587-875X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9998-6428" title="ORCID: 0000-0001-9998-6428" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/knaack_ulrich"><b>Knaack</b>&nbsp;Ulrich</a></span><br>
 Journal Article - Automation in Construction, Vol. 133
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Clay%20and%20Ceramic%20Building%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+clay+and+ceramic+building+components&as_occt=title&as_sauthors=wolf&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117688222&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000716996100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2021.103956" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

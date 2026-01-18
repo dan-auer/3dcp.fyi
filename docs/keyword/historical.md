@@ -8,6 +8,10 @@ search:
 
 # #historical
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../vale_sang_cant.2025.FTMtG/">From Traditional Materials to Geopolymers:<br/>History, Performance, Sustainability and 3D Printing Applications</a></li>
   <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_david"><b>Richter</b> David</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chov_rich_dorf_dac.2024.RtHCC/">Reconsidering the Historical Cap Ceiling:<br/>Layerwise Form-Finding of Self-Supporting Vaulted Structures for In-Situ 3D Printing</a></li>

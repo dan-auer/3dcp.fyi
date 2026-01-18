@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Printability Index for Linking Slurry Rheology to the Geometrical Attributes of 3D Printed Components ([2018-04](date/2018/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" target="_blank">10.1016/j.cemconcomp.2018.03.022</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2018.03.022" target="_blank">10.1016/j.cemconcomp.2018.03.022</a>
 
 <a href="../../../author/ketel_sabrina"><b>Ketel</b>&nbsp;Sabrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6125-6726" title="ORCID: 0000-0002-6125-6726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falzone_gabriel"><b>Falzone</b>&nbsp;Gabriel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9294-0918" title="ORCID: 0000-0002-9294-0918" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_bu"><b>Wang</b>&nbsp;Bu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/washburn_newell"><b>Washburn</b>&nbsp;Newell</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 101, pp. 32-43
 
 <a href="../../keyword/attribute"><button class="btn">#attribute</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/slurry"><button class="btn">#slurry</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Printability%20Index%20for%20Linking%20Slurry%20Rheology%20to%20the%20Geometrical%20Attributes%20of%203D%20Printed%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+printability+index+for+linking+slurry+rheology+to+the+geometrical+attributes+of+3d+printed+components&as_occt=title&as_sauthors=ketel&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064904717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000468709000006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2018.03.022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

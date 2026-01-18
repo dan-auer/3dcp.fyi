@@ -20,14 +20,15 @@ tags:
 ---
 
 #Correlation of Inter-Layer Properties and Rheological Behaviors of 3DPC with Various Printing Time Intervals ([2021-09](date/2021/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102327" target="_blank">10.1016/j.addma.2021.102327</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2021.102327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102327" target="_blank">10.1016/j.addma.2021.102327</a>
 
 <a href="../../../author/xu_yanqun"><b>Xu</b>&nbsp;Yanqun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/li_zemin"><b>Li</b>&nbsp;Zemin</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span>, <a href="../../../author/wu_qihong"><b>Wu</b>&nbsp;Qihong</a></span>, <a href="../../../author/huang_yanlin"><b>Huang</b>&nbsp;Yanlin</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 47
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Correlation%20of%20Inter-Layer%20Properties%20and%20Rheological%20Behaviors%20of%203DPC%20with%20Various%20Printing%20Time%20Intervals" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=correlation+of+inter-layer+properties+and+rheological+behaviors+of+3dpc+with+various+printing+time+intervals&as_occt=title&as_sauthors=xu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116038658&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000707759900002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2021.102327" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

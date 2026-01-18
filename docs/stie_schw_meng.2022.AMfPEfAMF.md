@@ -17,14 +17,15 @@ tags:
 ---
 
 #Automated Modularization for Precast Elements from Additively Manufactured Formwork ([2022-03](date/2022/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202200006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202200006" target="_blank">10.1002/best.202200006</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202200006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202200006" target="_blank">10.1002/best.202200006</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3854-0016" title="ORCID: 0000-0002-3854-0016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stieler_david"><b>Stieler</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4974-9808" title="ORCID: 0000-0003-4974-9808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwinn_tobias"><b>Schwinn</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9055-4039" title="ORCID: 0000-0001-9055-4039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menges_achim"><b>Menges</b>&nbsp;Achim</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 5, pp. 324-332
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/precast"><button class="btn">#precast</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Modularization%20for%20Precast%20Elements%20from%20Additively%20Manufactured%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+modularization+for+precast+elements+from+additively+manufactured+formwork&as_occt=title&as_sauthors=stieler&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127308062&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000772991500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202200006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

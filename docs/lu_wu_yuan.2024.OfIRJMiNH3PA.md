@@ -18,14 +18,15 @@ tags:
 ---
 
 #Optimization for Industrial Robot Joint Movement in Non-Horizontal 3D Printing Application ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s44223-024-00058-z) <a href="https://doi.org/10.1007/s44223-024-00058-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00058-z" target="_blank">10.1007/s44223-024-00058-z</a>
+<a href="https://doi.org/10.1007/s44223-024-00058-z" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44223-024-00058-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-024-00058-z" target="_blank">10.1007/s44223-024-00058-z</a>
 
 <a href="../../../author/lu_ming"><b>Lu</b>&nbsp;Ming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
 Journal Article - Architectural Intelligence, Vol. 3, Iss. 1
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/horizontal"><button class="btn">#horizontal</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/movement"><button class="btn">#movement</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimization%20for%20Industrial%20Robot%20Joint%20Movement%20in%20Non-Horizontal%203D%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimization+for+industrial+robot+joint+movement+in+non-horizontal+3d+printing+application&as_occt=title&as_sauthors=lu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44223-024-00058-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

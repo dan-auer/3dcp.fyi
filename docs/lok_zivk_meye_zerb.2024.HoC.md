@@ -12,14 +12,15 @@ tags:
 ---
 
 #House of Cores ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.26" target="_blank">10.2307/jj.11374766.26</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2307/jj.11374766.26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.26" target="_blank">10.2307/jj.11374766.26</a>
 
 <a href="../../../author/lok_leslie"><b>Lok</b>&nbsp;Leslie</a></span>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <a href="../../../author/zerbe_hikmat"><b>Zerbe</b>&nbsp;Hikmat</a></span><br>
 Contribution - Fabricate 2024, pp. 172-179
 
 <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=House%20of%20Cores" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=house+of+cores&as_occt=title&as_sauthors=lok&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/jj.11374766.26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

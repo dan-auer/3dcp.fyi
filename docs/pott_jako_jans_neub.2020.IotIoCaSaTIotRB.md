@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigation of the Incompatibilities of Cement and Superplasticizers and Their Influence on the Rheological Behavior ([2020-02](date/2020/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/13/4/977/pdf?version=1582444562) <a href="https://doi.org/10.3390/ma13040977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13040977" target="_blank">10.3390/ma13040977</a>
+<a href="https://www.mdpi.com/1996-1944/13/4/977/pdf?version=1582444562" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma13040977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma13040977" target="_blank">10.3390/ma13040977</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9005-3362" title="ORCID: 0000-0002-9005-3362" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pott_ursula"><b>Pott</b>&nbsp;Ursula</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <a href="../../../author/jansen_daniel"><b>Jansen</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7997-1007" title="ORCID: 0000-0002-7997-1007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neubauer_jurgen"><b>Neubauer</b>&nbsp;Jürgen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1893-6785" title="ORCID: 0000-0002-1893-6785" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stephan_dietmar"><b>Stephan</b>&nbsp;Dietmar</a></span><br>
 Journal Article - Materials, Vol. 13, Iss. 4
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/incompatibility"><button class="btn">#incompatibility</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20the%20Incompatibilities%20of%20Cement%20and%20Superplasticizers%20and%20Their%20Influence%20on%20the%20Rheological%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+the+incompatibilities+of+cement+and+superplasticizers+and+their+influence+on+the+rheological+behavior&as_occt=title&as_sauthors=pott&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081925293&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000520419300168" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma13040977" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

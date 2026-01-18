@@ -17,14 +17,15 @@ tags:
 
 #3D Printing&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">An Opportunity for the Sustainable Development of Building Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2023/0096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0096" target="_blank">10.22260/isarc2023/0096</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2023/0096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0096" target="_blank">10.22260/isarc2023/0096</a>
 
 <a href="../../../author/nunez-varillas_joseph_christoper"><b>Núñez Varillas</b>&nbsp;Christoper</a></span>, <a href="../../../author/regalado-espinoza_steewar_marck"><b>Regalado Espinoza</b>&nbsp;Marck</a></span>, <a href="../../../author/gago-gamboa_cecilia_angela"><b>Gago Gamboa</b>&nbsp;Angela</a></span><br>
 Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing&as_occt=title&as_sauthors=n%C3%BA%C3%B1ez+varillas&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172919347&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2023/0096" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

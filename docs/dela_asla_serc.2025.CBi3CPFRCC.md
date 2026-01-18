@@ -20,14 +20,15 @@ tags:
 
 #Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">A Review</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114312" target="_blank">10.1016/j.jobe.2025.114312</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114312" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114312" target="_blank">10.1016/j.jobe.2025.114312</a>
 
 <a href="../../../author/delavar_reza_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6663-8929" title="ORCID: 0000-0001-6663-8929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sercombe_tim"><b>Sercombe</b>&nbsp;Tim</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114312
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cracking%20Behaviour%20in%203D%20Concrete%20Printed%20Fiber-Reinforced%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cracking+behaviour+in+3d+concrete+printed+fiber-reinforced+cementitious+composites&as_occt=title&as_sauthors=delavar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018077520&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001595273200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114312" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

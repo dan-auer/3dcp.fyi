@@ -8,7 +8,12 @@ search:
 
 # #truss
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/space"><button class="btn">#space (5)</button></a> <a href="../../keyword/beam"><button class="btn">#beam (4)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kiya_kama_huss_emaa.2026.ANAIf3CPB/">A Novel Arch Infill for 3D Concrete Printed Beams:<br/>A Comparative Study of Flexural Performance Against Truss and Solid Designs</a></li>
   <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/fan_haichen"><b>Fan</b> Haichen</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR/">Design Method and Force Transmission Mechanism of 3D Printed Concrete Truss Beams Reinforced with 3D Conical Reinforcement</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xiao_hack_klof_lowk.2025.CBFFoSTfI3CPTVBGS/">Constraint-Based Form-Finding of Space Trusses for Injection 3D Concrete Printing Through Vector-Based Graphic Statics</a></li>

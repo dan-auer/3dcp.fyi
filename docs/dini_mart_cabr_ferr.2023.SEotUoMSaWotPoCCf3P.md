@@ -19,14 +19,15 @@ tags:
 ---
 
 #Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing ([2023-01](date/2023/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.130277" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.130277" target="_blank">10.1016/j.conbuildmat.2022.130277</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.130277" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.130277" target="_blank">10.1016/j.conbuildmat.2022.130277</a>
 
 <a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3885-9104" title="ORCID: 0000-0003-3885-9104" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b>&nbsp;Antônio</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7502-3002" title="ORCID: 0000-0001-7502-3002" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b>&nbsp;Kleber</a></span>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>da&nbsp;Ferreira</b>&nbsp;Ruan</a></span>, <a href="../../../author/silva_felipe-domingos_iago"><b>da&nbsp;Silva</b>&nbsp;Iago</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 366
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Synergistic%20Effects%20of%20the%20Use%20of%20Metakaolin%2C%20Sand%20and%20Water%20on%20the%20Properties%20of%20Cementitious%20Composites%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=synergistic+effects+of+the+use+of+metakaolin%2C+sand+and+water+on+the+properties+of+cementitious+composites+for+3d+printing&as_occt=title&as_sauthors=diniz&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145979273&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001026737000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.130277" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

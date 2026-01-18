@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of an Automated Freeform Construction System and Its Construction Materials ([2013-11](date/2013/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2013/0153" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2013/0153" target="_blank">10.22260/isarc2013/0153</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2013/0153" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2013/0153" target="_blank">10.22260/isarc2013/0153</a>
 
 <a href="../../../author/jeon_kwang-hyun"><b>Jeon</b>&nbsp;Kwang-Hyun</a></span>, <a href="../../../author/park_min-beom"><b>Park</b>&nbsp;Min-Beom</a></span>, <a href="../../../author/kang_min-kyung"><b>Kang</b>&nbsp;Min-Kyung</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0471-6092" title="ORCID: 0000-0003-0471-6092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_jung-hoon"><b>Kim</b>&nbsp;Jung-Hoon</a></span><br>
 Contribution - Proceedings of the 30th International Symposium on Automation and Robotics in Construction and Mining
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20an%20Automated%20Freeform%20Construction%20System%20and%20Its%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+an+automated+freeform+construction+system+and+its+construction+materials&as_occt=title&as_sauthors=jeon&as_ylo=2011&as_yhi=2015&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2013/0153" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

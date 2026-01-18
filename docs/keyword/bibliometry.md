@@ -8,6 +8,10 @@ search:
 
 # #bibliometry
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (5)</button></a> <a href="../../keyword/review"><button class="btn">#review (3)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
   <li><a href="../../../author/kubjana_lucy"><b>Kubjana</b> Lucy</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/adekunle_peter"><b>Adekunle</b> Peter</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kubj_aigb_adek.2025.AS3PC/">Advancing Sustainable 3D-Printed Concrete:<br/>A Bibliometric Study on Financing Housing Options</a></li>

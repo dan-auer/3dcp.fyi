@@ -15,14 +15,15 @@ tags:
 ---
 
 #Factors Affecting 3D Printing Technology Adaptation in Construction ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" target="_blank">10.1061/(asce)co.1943-7862.0002034</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002034" target="_blank">10.1061/(asce)co.1943-7862.0002034</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b>&nbsp;Mirosław</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9397-1011" title="ORCID: 0000-0002-9397-1011" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xueqing"><b>Zhang</b>&nbsp;Xueqing</a></span><br>
 Journal Article - Journal of Construction Engineering and Management, Vol. 147, Iss. 5
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Factors%20Affecting%203D%20Printing%20Technology%20Adaptation%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=factors+affecting+3d+printing+technology+adaptation+in+construction&as_occt=title&as_sauthors=besklubova&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85100873503&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000656447100006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/(asce)co.1943-7862.0002034" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

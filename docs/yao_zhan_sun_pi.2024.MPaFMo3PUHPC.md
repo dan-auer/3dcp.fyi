@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" target="_blank">10.1016/j.conbuildmat.2024.138108</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.138108" target="_blank">10.1016/j.conbuildmat.2024.138108</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5751-8180" title="ORCID: 0000-0002-5751-8180" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yao_yiming"><b>Yao</b>&nbsp;Yiming</a></span>, <a href="../../../author/zhang_jiawei"><b>Zhang</b>&nbsp;Jiawei</a></span>, <a href="../../../author/sun_yuanfeng"><b>Sun</b>&nbsp;Yuanfeng</a></span>, <a href="../../../author/pi_yilin"><b>Pi</b>&nbsp;Yilin</a></span>, <a href="../../../author/wang_jingquan"><b>Wang</b>&nbsp;Jingquan</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 447, No. 138108
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Failure%20Mechanism%20of%203D%20Printing%20Ultra-High-Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+failure+mechanism+of+3d+printing+ultra-high-performance+concrete&as_occt=title&as_sauthors=yao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202351764&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001386078000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.138108" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

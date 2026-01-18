@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Testing of 3D Printed Concrete Truss-Girder ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://scindeks-clanci.ceon.rs/data/pdf/1451-4117/2024/1451-41172402253M.pdf) <a href="https://doi.org/10.5937/jaes0-50408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5937/jaes0-50408" target="_blank">10.5937/jaes0-50408</a>
+<a href="https://scindeks-clanci.ceon.rs/data/pdf/1451-4117/2024/1451-41172402253M.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5937/jaes0-50408" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5937/jaes0-50408" target="_blank">10.5937/jaes0-50408</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7254-6860" title="ORCID: 0000-0001-7254-6860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b>&nbsp;Stefan</a></span>, <a href="../../../author/vidovic_milica"><b>Vidović</b>&nbsp;Milica</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2679-0982" title="ORCID: 0000-0002-2679-0982" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b>&nbsp;Ivan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1984-1374" title="ORCID: 0000-0002-1984-1374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dragas_jelena"><b>Dragaš</b>&nbsp;Jelena</a></span><br>
 Journal Article - Journal of Applied Engineering Science, Vol. 22, Iss. 2, pp. 253-260
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/girder"><button class="btn">#girder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/truss"><button class="btn">#truss</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Testing%20of%203D%20Printed%20Concrete%20Truss-Girder" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+testing+of+3d+printed+concrete+truss-girder&as_occt=title&as_sauthors=mitrovi%C4%87&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198415500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5937/jaes0-50408" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

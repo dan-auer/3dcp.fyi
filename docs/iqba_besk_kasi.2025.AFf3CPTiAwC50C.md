@@ -18,14 +18,15 @@ tags:
 ---
 
 #Assessment Framework for 3D Concrete Printing Technology in Alignment with Construction 5.0 Criteria ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/207_Assessment_Framework_for_3D_Concrete_Printing_Technology_in_Alignment_with_Construction_5_0_Criteria.pdf) <a href="https://doi.org/10.22260/isarc2025/0207" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0207" target="_blank">10.22260/isarc2025/0207</a>
+<a href="https://www.iaarc.org/./publications/fulltext/207_Assessment_Framework_for_3D_Concrete_Printing_Technology_in_Alignment_with_Construction_5_0_Criteria.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0207" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0207" target="_blank">10.22260/isarc2025/0207</a>
 
 <a href="../../../author/iqbal_imtiaz"><b>Iqbal</b>&nbsp;Imtiaz</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7192-0953" title="ORCID: 0000-0001-7192-0953" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/besklubova_svetlana"><b>Besklubova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8840-7822" title="ORCID: 0000-0001-8840-7822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kasim_tala"><b>Kasim</b>&nbsp;Tala</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1582-1589
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/criteria"><button class="btn">#criteria</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessment%20Framework%20for%203D%20Concrete%20Printing%20Technology%20in%20Alignment%20with%20Construction%205.0%20Criteria" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessment+framework+for+3d+concrete+printing+technology+in+alignment+with+construction+5.0+criteria&as_occt=title&as_sauthors=iqbal&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016633450&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0207" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

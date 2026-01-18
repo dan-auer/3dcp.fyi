@@ -22,14 +22,15 @@ tags:
 
 #Feasibility Study of 3D-Printed Rubberized Concrete as a Permanent Formwork&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">Mechanical Properties, Interlayer Interface and Durability</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112544" target="_blank">10.1016/j.jobe.2025.112544</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112544" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112544" target="_blank">10.1016/j.jobe.2025.112544</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3982-8409" title="ORCID: 0000-0002-3982-8409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_chuanbei"><b>Liu</b>&nbsp;Chuanbei</a></span>, <a href="../../../author/zou_mengtong"><b>Zou</b>&nbsp;Mengtong</a></span>, <a href="../../../author/chen_xuemei"><b>Chen</b>&nbsp;Xuemei</a></span>, <a href="../../../author/deng_yongjun"><b>Deng</b>&nbsp;Yongjun</a></span>, <a href="../../../author/zhang_lihua"><b>Zhang</b>&nbsp;Lihua</a></span>, <a href="../../../author/luo_xu"><b>Luo</b>&nbsp;Xu</a></span>, <a href="../../../author/liu_laibao"><b>Liu</b>&nbsp;Laibao</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112544
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rubber"><button class="btn">#rubber</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%203D-Printed%20Rubberized%20Concrete%20as%20a%20Permanent%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+study+of+3d-printed+rubberized+concrete+as+a+permanent+formwork&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001926984&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001470506800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112544" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

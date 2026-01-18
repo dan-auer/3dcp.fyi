@@ -30,7 +30,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 24-33
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reuse"><button class="btn">#reuse</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Wood%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+with+wood+waste&as_occt=title&as_sauthors=heinze&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

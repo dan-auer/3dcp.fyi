@@ -15,14 +15,15 @@ tags:
 ---
 
 #Mechanochemical-Activated Fly-Ash Concrete Suitable for 3D Printing ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-67576-8_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-67576-8_9" target="_blank">10.1007/978-3-031-67576-8_9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-67576-8_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-67576-8_9" target="_blank">10.1007/978-3-031-67576-8_9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorkin_leonid"><b>Dvorkin</b>&nbsp;Leonid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchuk_vitaliy"><b>Marchuk</b>&nbsp;Vitaliy</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4839-9623" title="ORCID: 0000-0003-4839-9623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/makarenko_ruslan"><b>Makarenko</b>&nbsp;Ruslan</a></span><br>
 Contribution - Proceedings of EcoComfort 2024, pp. 98-108
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanochemical-Activated%20Fly-Ash%20Concrete%20Suitable%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanochemical-activated+fly-ash+concrete+suitable+for+3d+printing&as_occt=title&as_sauthors=dvorkin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202180465&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001525527700009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-67576-8_9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

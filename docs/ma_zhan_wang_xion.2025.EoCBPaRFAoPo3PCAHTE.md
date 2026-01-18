@@ -23,14 +23,15 @@ tags:
 ---
 
 #Effect of Clay Brick Powder and Recycled Fine Aggregates on Properties of 3D Printed Concrete After High Temperature Exposure ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" target="_blank">10.1016/j.conbuildmat.2025.142676</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142676" target="_blank">10.1016/j.conbuildmat.2025.142676</a>
 
 <a href="../../../author/ma_jinyi"><b>Ma</b>&nbsp;Jinyi</a></span>, <a href="../../../author/zhang_haiyan"><b>Zhang</b>&nbsp;Haiyan</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-9971-4333" title="ORCID: 0009-0004-9971-4333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yanzhi"><b>Wang</b>&nbsp;Yanzhi</a></span>, <a href="../../../author/xiong_lu"><b>Xiong</b>&nbsp;Lu</a></span>, <a href="../../../author/wu_xiang"><b>Wu</b>&nbsp;Xiang</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 491, No. 142676
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Clay%20Brick%20Powder%20and%20Recycled%20Fine%20Aggregates%20on%20Properties%20of%203D%20Printed%20Concrete%20After%20High%20Temperature%20Exposure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+clay+brick+powder+and+recycled+fine+aggregates+on+properties+of+3d+printed+concrete+after+high+temperature+exposure&as_occt=title&as_sauthors=ma&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010557434&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001534544600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142676" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

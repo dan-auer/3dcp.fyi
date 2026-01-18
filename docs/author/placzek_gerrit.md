@@ -9,7 +9,62 @@ search:
 
 #  Placzek Gerrit 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4805-350X" target="_blank">0000-0003-4805-350X</a>
+
+    First Contribution
+    : 2020-08-25
+    
+    Last Contribution
+    : 2026-01-17
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 57
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (13)</li>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (3)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (2)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../plac_schw.2023.CAMiC/">Concrete Additive Manufacturing in Construction:<br/>Integration Based on Component-Related Fabrication-Strategies</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (46)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (39)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (39)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (19)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (9)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (8)</li>
+        <li><a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> (8)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/altmann_matti"><b>Altmann</b> Matti</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../plac_thor_altm_gerk.2025.EEzBbaF/">Erste Erkenntnisse zur Bewegungsanalyse bei additiven Fertigungsprozessen</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/dahlberg_maike"><b>Dahlberg</b> Maike</a>, <a href="../../../author/thormahlen_jan"><b>Thormählen</b> Jan</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../plac_dahl_thor_schw.2025.HPI3CP/">How Productive Is 3D Concrete Printing?:<br/>A Systematic Review</a></li>
   <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../plac_schw.2024.AGSo3PB/">A Global Snapshot of 3D Printed Buildings:<br/>Uncovering Robotic-Oriented Fabrication-Strategies</a></li>

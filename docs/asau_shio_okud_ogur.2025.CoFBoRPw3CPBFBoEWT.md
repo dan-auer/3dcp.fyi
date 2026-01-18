@@ -20,14 +20,15 @@ tags:
 ---
 
 #Clarification of Fracture Behaviour of RC Pillar with 3D Concrete Printing Buried Formwork Based on Elastic Wave Technique ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/tokyo.2025.2762" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/tokyo.2025.2762" target="_blank">10.2749/tokyo.2025.2762</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/tokyo.2025.2762" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/tokyo.2025.2762" target="_blank">10.2749/tokyo.2025.2762</a>
 
 <a href="../../../author/asaue_hisafumi"><b>Asaue</b>&nbsp;Hisafumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shiotani_tomoki"><b>Shiotani</b>&nbsp;Tomoki</a></span>, <a href="../../../author/okude_nobuhiro"><b>Okude</b>&nbsp;Nobuhiro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0262-9913" title="ORCID: 0000-0003-0262-9913" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ogura_hiroki"><b>Ogura</b>&nbsp;Hiroki</a></span>, <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b>&nbsp;Yujin</a></span>, <a href="../../../author/kinomura_koji"><b>Kinomura</b>&nbsp;Koji</a></span><br>
 Contribution - Proceedings of the 2025 IABSE Symposium, pp. 2762-2769
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/clarification"><button class="btn">#clarification</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/wave"><button class="btn">#wave</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Clarification%20of%20Fracture%20Behaviour%20of%20RC%20Pillar%20with%203D%20Concrete%20Printing%20Buried%20Formwork%20Based%20on%20Elastic%20Wave%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=clarification+of+fracture+behaviour+of+rc+pillar+with+3d+concrete+printing+buried+formwork+based+on+elastic+wave+technique&as_occt=title&as_sauthors=asaue&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008761386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/tokyo.2025.2762" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

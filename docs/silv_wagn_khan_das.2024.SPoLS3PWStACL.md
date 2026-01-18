@@ -19,14 +19,15 @@ tags:
 ---
 
 #Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1139/cjce-2023-0395" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1139/cjce-2023-0395" target="_blank">10.1139/cjce-2023-0395</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1139/cjce-2023-0395" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1139/cjce-2023-0395" target="_blank">10.1139/cjce-2023-0395</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0586-4444" title="ORCID: 0000-0002-0586-4444" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b>&nbsp;Marcos</a></span>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b>&nbsp;Juliana</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-9369-2948" title="ORCID: 0009-0007-9369-2948" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b>&nbsp;Mohsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4262-9398" title="ORCID: 0000-0002-4262-9398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/das_sreekanta"><b>Das</b>&nbsp;Sreekanta</a></span><br>
 Journal Article - Canadian Journal of Civil Engineering
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20Large-Scale%203D%20Printed%20Walls%20Subjected%20to%20Axial%20Compression%20Load" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+performance+of+large-scale+3d+printed+walls+subjected+to+axial+compression+load&as_occt=title&as_sauthors=silveira&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201266230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001233242600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1139/cjce-2023-0395" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

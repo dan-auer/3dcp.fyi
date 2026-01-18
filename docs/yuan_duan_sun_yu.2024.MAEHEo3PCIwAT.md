@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical, Alkali Excitation, Hydrothermal Enhancement of 3D Printed Concrete Incorporated with Antimony-Tailings ([2024-08](date/2024/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.137610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137610" target="_blank">10.1016/j.conbuildmat.2024.137610</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.137610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137610" target="_blank">10.1016/j.conbuildmat.2024.137610</a>
 
 <a href="../../../author/yuan_shuaihua"><b>Yuan</b>&nbsp;Shuaihua</a></span>, <a href="../../../author/duan_dengke"><b>Duan</b>&nbsp;Dengke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/yu_yi"><b>Yu</b>&nbsp;Yi</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo"><b>Huang</b>&nbsp;Bo</a></span>, <a href="../../../author/peng_jin"><b>Peng</b>&nbsp;Jin</a></span>, <a href="../../../author/saafi_mohamed"><b>Saafi</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 443, No. 137610
 
 <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%2C%20Alkali%20Excitation%2C%20Hydrothermal%20Enhancement%20of%203D%20Printed%20Concrete%20Incorporated%20with%20Antimony-Tailings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical%2C+alkali+excitation%2C+hydrothermal+enhancement+of+3d+printed+concrete+incorporated+with+antimony-tailings&as_occt=title&as_sauthors=yuan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200898790&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001291848400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.137610" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

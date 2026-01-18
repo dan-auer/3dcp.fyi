@@ -9,6 +9,60 @@ search:
 
 #  Pierre Alexandre 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3219-4458" target="_blank">0000-0002-3219-4458</a>
+
+    First Contribution
+    : 2015-02-24
+    
+    Last Contribution
+    : 2025-01-17
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 834
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (8)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (4)</li>
+        <li><a href="../../../author/kaci_abdelhak"><b>Kaci</b> Abdelhak</a> (2)</li>
+        <li><a href="../../../author/melinge_yannick"><b>Mélinge</b> Yannick</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a> (609)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (28)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (27)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (23)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (22)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (52)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (51)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (39)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (35)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (33)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../pier_perr.2025.APMfCM/">Alternative Printing-Methods for Cementitious Materials</a></li>
   <li><a href="../../../author/danche_valentine"><b>Danché</b> Valentine</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/ndiaye_k"><b>Ndiaye</b> K.</a>, <a href="../../../author/ngo_tung_tien"><b>Ngo</b> Tien</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../danc_pier_ndia_ngo.2022.PBTfH/">Particle-Bed Technique for Hempcrete</a></li>

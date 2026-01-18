@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of Novel Alkaline-Electrolyzed-Water on the Properties of 3D Printed Calcium-Sulphoaluminate-Cement Composites ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2024.137450" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.137450" target="_blank">10.1016/j.matlet.2024.137450</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2024.137450" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2024.137450" target="_blank">10.1016/j.matlet.2024.137450</a>
 
 <a href="../../../author/liu_xuelin"><b>Liu</b>&nbsp;Xuelin</a></span>, <a href="../../../author/sheng_haitao"><b>Sheng</b>&nbsp;Haitao</a></span>, <a href="../../../author/feng_binqing"><b>Feng</b>&nbsp;Binqing</a></span>, <a href="../../../author/wang_liang"><b>Wang</b>&nbsp;Liang</a></span>, <a href="../../../author/yang_lei"><b>Yang</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5917-6172" title="ORCID: 0000-0001-5917-6172" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_keke"><b>Sun</b>&nbsp;Keke</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6339-8509" title="ORCID: 0000-0002-6339-8509" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_mingxu"><b>Chen</b>&nbsp;Mingxu</a></span><br>
 Journal Article - Materials Letters, Vol. 377, No. 137450
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Novel%20Alkaline-Electrolyzed-Water%20on%20the%20Properties%20of%203D%20Printed%20Calcium-Sulphoaluminate-Cement%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+novel+alkaline-electrolyzed-water+on+the+properties+of+3d+printed+calcium-sulphoaluminate-cement+composites&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204698158&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001327084200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2024.137450" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

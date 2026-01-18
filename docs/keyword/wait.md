@@ -8,6 +8,10 @@ search:
 
 # #wait
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/additive"><button class="btn">#additive (1)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (1)</button></a> <a href="../../keyword/fem"><button class="btn">#fem (1)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (1)</button></a> <a href="../../keyword/time"><button class="btn">#time (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ekanayaka_virama"><b>Ekanayaka</b> Virama</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a>, <a href="../../../author/hurkamp_andre"><b>Hürkamp</b> André</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ekan_lach_raat_hurk.2022.AtOtILWTiAMwCUFM/">Approach to Optimize the Inter-Layer Waiting Time in Additive Manufacturing with Concrete Utilizing FEM Modeling</a></li>
 </ol>

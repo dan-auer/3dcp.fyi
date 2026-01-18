@@ -13,13 +13,16 @@ copyright = """
 
 nav = [
   { "Home" = "index.md" },
+  { "Articles" = "articles.md"},
   { "Keyword" = "keyword/index.md"},
   { "Author" = "author/index.md"},
   { "Date" = "date/index.md"},
+  { "Sponsors" = "sponsors.md"}
   ]
 
-extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css", "assets/datatables.min.css"]
 
+extra_javascript = ["assets/datatables.min.js", "javascripts/datatables-init.js"]
 
 [project.theme]
 

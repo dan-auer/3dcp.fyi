@@ -14,14 +14,15 @@ tags:
 ---
 
 #Lap Joint Reinforcement for 3D Concrete Printing ([2022-04](date/2022/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" target="_blank">10.1061/(asce)st.1943-541x.0003361</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)st.1943-541x.0003361" target="_blank">10.1061/(asce)st.1943-541x.0003361</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0463-8485" title="ORCID: 0000-0003-0463-8485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchment_taylor"><b>Marchment</b>&nbsp;Taylor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span><br>
 Journal Article - Journal of Structural Engineering, Vol. 148, Iss. 6
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Lap%20Joint%20Reinforcement%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=lap+joint+reinforcement+for+3d+concrete+printing&as_occt=title&as_sauthors=marchment&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128493022&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000782632800010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/(asce)st.1943-541x.0003361" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

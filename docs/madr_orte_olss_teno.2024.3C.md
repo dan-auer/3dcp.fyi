@@ -21,14 +21,15 @@ tags:
 
 #3D Constructing&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">Exploring the Potential of 3D Concrete and Clay Printing with Generative Design for Architectural Innovation</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3989/ic.6627) <a href="https://doi.org/10.3989/ic.6627" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3989/ic.6627" target="_blank">10.3989/ic.6627</a>
+<a href="https://doi.org/10.3989/ic.6627" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3989/ic.6627" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3989/ic.6627" target="_blank">10.3989/ic.6627</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4210-0398" title="ORCID: 0000-0002-4210-0398" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/madrid_alonso_javier"><b>Madrid</b>&nbsp;Javier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2213-1699" title="ORCID: 0000-0002-2213-1699" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b>&nbsp;Guillermo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1344-8555" title="ORCID: 0000-0002-1344-8555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b>&nbsp;Nils</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0273-3414" title="ORCID: 0000-0002-0273-3414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tenorio-rios_antonio_jose"><b>Tenorio Ríos</b>&nbsp;José</a></span><br>
 Journal Article - Informes de la Construcción, Vol. 76, Iss. 574, No. 6627
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Constructing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+constructing&as_occt=title&as_sauthors=madrid&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207135813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001341179400003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3989/ic.6627" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

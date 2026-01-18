@@ -21,14 +21,15 @@ tags:
 
 #A Novel Method to Enhance the Inter-Layer Bonding of 3D Printing Concrete&nbsp;([2019-03](date/2019/03))
 <div class="h1-like">An Experimental and Computational Investigation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" target="_blank">10.1016/j.cemconcomp.2019.03.008</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2019.03.008" target="_blank">10.1016/j.cemconcomp.2019.03.008</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseini_ehsan"><b>Hosseini</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span>, <a href="../../../author/xu_guanzhong"><b>Xu</b>&nbsp;Guanzhong</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 99, pp. 112-119
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Method%20to%20Enhance%20the%20Inter-Layer%20Bonding%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+novel+method+to+enhance+the+inter-layer+bonding+of+3d+printing+concrete&as_occt=title&as_sauthors=hosseini&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062895977&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000466824900011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2019.03.008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

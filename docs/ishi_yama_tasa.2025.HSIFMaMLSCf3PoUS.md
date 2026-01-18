@@ -21,14 +21,15 @@ tags:
 ---
 
 #High-Sensitivity Interlayer Force Measurement and Multi-Layer Smoothing Control for 3D Printing on Uneven Surfaces ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/18824889.2025.2530824) <a href="https://doi.org/10.1080/18824889.2025.2530824" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/18824889.2025.2530824" target="_blank">10.1080/18824889.2025.2530824</a>
+<a href="https://www.tandfonline.com/doi/pdf/10.1080/18824889.2025.2530824" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/18824889.2025.2530824" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/18824889.2025.2530824" target="_blank">10.1080/18824889.2025.2530824</a>
 
 <a href="../../../author/ishikawa_shinichi"><b>Ishikawa</b>&nbsp;Shinichi</a></span>, <a href="../../../author/yamada_ryo"><b>Yamada</b>&nbsp;Ryo</a></span>, <a href="../../../author/tasaki_ryosuke"><b>Tasaki</b>&nbsp;Ryosuke</a></span><br>
 Journal Article - Journal of Control, Measurement, and System Integration, Vol. 18, Iss. 1
 
 <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensitivity"><button class="btn">#sensitivity</button></a> <a href="../../keyword/smooth"><button class="btn">#smooth</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=High-Sensitivity%20Interlayer%20Force%20Measurement%20and%20Multi-Layer%20Smoothing%20Control%20for%203D%20Printing%20on%20Uneven%20Surfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=high-sensitivity+interlayer+force+measurement+and+multi-layer+smoothing+control+for+3d+printing+on+uneven+surfaces&as_occt=title&as_sauthors=ishikawa&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011415572&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/18824889.2025.2530824" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

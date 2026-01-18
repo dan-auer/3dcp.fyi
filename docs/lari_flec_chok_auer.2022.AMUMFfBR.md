@@ -13,14 +13,15 @@ tags:
 ---
 
 #Additively Manufactured Urban Multispecies Façades for Building Renovation ([2022-12](date/2022/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://jfde.eu/index.php/jfde/article/download/241/241) <a href="https://doi.org/10.47982/jfde.2022.powerskin.7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.47982/jfde.2022.powerskin.7" target="_blank">10.47982/jfde.2022.powerskin.7</a>
+<a href="https://jfde.eu/index.php/jfde/article/download/241/241" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.47982/jfde.2022.powerskin.7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.47982/jfde.2022.powerskin.7" target="_blank">10.47982/jfde.2022.powerskin.7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2543-6893" title="ORCID: 0000-0002-2543-6893" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/larikova_iuliia"><b>Larikova</b>&nbsp;Iuliia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0552-3551" title="ORCID: 0000-0002-0552-3551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fleckenstein_julia"><b>Fleckenstein</b>&nbsp;Julia</a></span>, <a href="../../../author/chokhachian_ata"><b>Chokhachian</b>&nbsp;Ata</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7682-0652" title="ORCID: 0000-0001-7682-0652" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/auer_thomas"><b>Auer</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2757-8959" title="ORCID: 0000-0002-2757-8959" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weisser_wolfgang"><b>Weisser</b>&nbsp;Wolfgang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6557-5604" title="ORCID: 0000-0001-6557-5604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dorfler_kathrin"><b>Dörfler</b>&nbsp;Kathrin</a></span><br>
 Journal Article - Journal of Facade Design and Engineering, Vol. 10, Iss. 2, pp. 105-126
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additively%20Manufactured%20Urban%20Multispecies%20Fa%C3%A7ades%20for%20Building%20Renovation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additively+manufactured+urban+multispecies+fa%C3%A7ades+for+building+renovation&as_occt=title&as_sauthors=larikova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85165365924&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.47982/jfde.2022.powerskin.7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

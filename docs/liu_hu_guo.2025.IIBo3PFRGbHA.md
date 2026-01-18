@@ -23,14 +23,15 @@ tags:
 
 #Improved Interlayer-Bonding of 3D Printed Fiber-Reinforced Geopolymer by Healing-Agents&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">Properties, Mechanism, and Environmental Impacts</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2451636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2451636" target="_blank">10.1080/21650373.2025.2451636</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2025.2451636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2451636" target="_blank">10.1080/21650373.2025.2451636</a>
 
 <a href="../../../author/liu_xinhao"><b>Liu</b>&nbsp;Xinhao</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-9447-602X" title="ORCID: 0009-0005-9447-602X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_jiajun"><b>Hu</b>&nbsp;Jiajun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-5802" title="ORCID: 0000-0003-1395-5802" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guo_xiaolu"><b>Guo</b>&nbsp;Xiaolu</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-21
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improved%20Interlayer-Bonding%20of%203D%20Printed%20Fiber-Reinforced%20Geopolymer%20by%20Healing-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improved+interlayer-bonding+of+3d+printed+fiber-reinforced+geopolymer+by+healing-agents&as_occt=title&as_sauthors=liu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216187534&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001407649100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2025.2451636" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

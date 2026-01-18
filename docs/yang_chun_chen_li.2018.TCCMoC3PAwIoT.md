@@ -16,14 +16,15 @@ tags:
 ---
 
 #The Cost Calculation Method of Construction 3D Printing Aligned with Internet of Things ([2018-06](date/2018/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-018-1163-9) <a href="https://doi.org/10.1186/s13638-018-1163-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s13638-018-1163-9" target="_blank">10.1186/s13638-018-1163-9</a>
+<a href="https://jwcn-eurasipjournals.springeropen.com/track/pdf/10.1186/s13638-018-1163-9" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1186/s13638-018-1163-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s13638-018-1163-9" target="_blank">10.1186/s13638-018-1163-9</a>
 
 <a href="../../../author/yang_hongxiong"><b>Yang</b>&nbsp;Hongxiong</a></span>, <a href="../../../author/chung_k-h_jacky"><b>Chung</b>&nbsp;Jacky</a></span>, <a href="../../../author/chen_yuhong"><b>Chen</b>&nbsp;Yuhong</a></span>, <a href="../../../author/li_yijia"><b>Li</b>&nbsp;Yijia</a></span><br>
 Journal Article - Journal on Wireless Communications and Networking, Vol. 2018, Iss. 1
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Cost%20Calculation%20Method%20of%20Construction%203D%20Printing%20Aligned%20with%20Internet%20of%20Things" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+cost+calculation+method+of+construction+3d+printing+aligned+with+internet+of+things&as_occt=title&as_sauthors=yang&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85048696938&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000447854100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1186/s13638-018-1163-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

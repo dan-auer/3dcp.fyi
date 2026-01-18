@@ -14,14 +14,15 @@ tags:
 ---
 
 #Research Status and Development Prospect of 3D Printing Concrete Materials ([2019-05](date/2019/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1755-1315/267/3/032014) <a href="https://doi.org/10.1088/1755-1315/267/3/032014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/267/3/032014" target="_blank">10.1088/1755-1315/267/3/032014</a>
+<a href="https://doi.org/10.1088/1755-1315/267/3/032014" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/267/3/032014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/267/3/032014" target="_blank">10.1088/1755-1315/267/3/032014</a>
 
 <a href="../../../author/liu_gaojie"><b>Liu</b>&nbsp;Gaojie</a></span>, <a href="../../../author/bai_erlei"><b>Bai</b>&nbsp;Erlei</a></span>, <a href="../../../author/xu_jinyu"><b>Xu</b>&nbsp;Jinyu</a></span>, <a href="../../../author/wang_tengjiao"><b>Wang</b>&nbsp;Tengjiao</a></span>, <a href="../../../author/chang_sen"><b>Chang</b>&nbsp;Sen</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 267, Iss. 3
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20Status%20and%20Development%20Prospect%20of%203D%20Printing%20Concrete%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+status+and+development+prospect+of+3d+printing+concrete+materials&as_occt=title&as_sauthors=liu&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067649209&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000495369900059" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/267/3/032014" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

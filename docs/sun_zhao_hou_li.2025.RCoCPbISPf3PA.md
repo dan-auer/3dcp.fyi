@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2024.107731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107731" target="_blank">10.1016/j.cemconres.2024.107731</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2024.107731" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107731" target="_blank">10.1016/j.cemconres.2024.107731</a>
 
 <a href="../../../author/sun_zhaoyang"><b>Sun</b>&nbsp;Zhaoyang</a></span>, <a href="../../../author/zhao_yuyang"><b>Zhao</b>&nbsp;Yuyang</a></span>, <a href="../../../author/hou_dongshuai"><b>Hou</b>&nbsp;Dongshuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span>, <a href="../../../author/chen_binmeng"><b>Chen</b>&nbsp;Binmeng</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 187, No. 107731
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology-Control%20of%20Cement-Paste%20by%20In-Situ%20Polymerization%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology-control+of+cement-paste+by+in-situ+polymerization+for+3d+printing+applications&as_occt=title&as_sauthors=sun&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209589345&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001443029900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2024.107731" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

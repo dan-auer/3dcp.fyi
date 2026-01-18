@@ -17,14 +17,15 @@ tags:
 ---
 
 #Numerical Simulations of the Mesostructure Formation in Material-Extrusion Additive Manufacturing ([2019-05](date/2019/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/182695585/Numerical_modeling_of_mesostructure.pdf) <a href="https://doi.org/10.1016/j.addma.2019.05.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.05.024" target="_blank">10.1016/j.addma.2019.05.024</a>
+<a href="https://backend.orbit.dtu.dk/ws/files/182695585/Numerical_modeling_of_mesostructure.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2019.05.024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.05.024" target="_blank">10.1016/j.addma.2019.05.024</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1691-773X" title="ORCID: 0000-0003-1691-773X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serdeczny_p_marcin"><b>Serdeczny</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3764-5550" title="ORCID: 0000-0003-3764-5550" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/comminal_raphael"><b>Comminal</b>&nbsp;Raphaël</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7013-7614" title="ORCID: 0000-0002-7013-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedersen_bue_david"><b>Pedersen</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 28, pp. 419-429
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulations%20of%20the%20Mesostructure%20Formation%20in%20Material-Extrusion%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulations+of+the+mesostructure+formation+in+material-extrusion+additive+manufacturing&as_occt=title&as_sauthors=serdeczny&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067932921&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000492672300040" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2019.05.024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

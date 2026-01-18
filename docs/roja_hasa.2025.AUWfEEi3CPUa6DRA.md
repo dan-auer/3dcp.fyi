@@ -19,14 +19,15 @@ tags:
 ---
 
 #A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784486115.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486115.078" target="_blank">10.1061/9780784486115.078</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784486115.078" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784486115.078" target="_blank">10.1061/9780784486115.078</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9372-0864" title="ORCID: 0000-0001-9372-0864" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rojas_jorge"><b>Rojas</b>&nbsp;Jorge</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6214-3443" title="ORCID: 0000-0001-6214-3443" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b>&nbsp;Sogand</a></span><br>
 Contribution - Computing in Civil Engineering, pp. 733-742
 
 <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dof"><button class="btn">#dof</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/uniform"><button class="btn">#uniform</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Unified%20Workflow%20for%20Enhanced%20Efficiency%20in%203D%20Concrete%20Printing%20Using%20a%206%20DoF%20Robotic%20Arm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+unified+workflow+for+enhanced+efficiency+in+3d+concrete+printing+using+a+6+dof+robotic+arm&as_occt=title&as_sauthors=rojas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784486115.078" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

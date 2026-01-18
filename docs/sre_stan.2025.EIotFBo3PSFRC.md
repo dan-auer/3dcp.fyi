@@ -19,14 +19,15 @@ tags:
 ---
 
 #Experimental Investigation of the Fatigue Behavior of 3D Printed Steel Fiber Reinforced Concrete ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1239) <a href="https://doi.org/10.21012/fc12.1239" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1239" target="_blank">10.21012/fc12.1239</a>
+<a href="https://doi.org/10.21012/fc12.1239" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1239" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1239" target="_blank">10.21012/fc12.1239</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4911-9470" title="ORCID: 0000-0002-4911-9470" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b>&nbsp;Jesper</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5812-4028" title="ORCID: 0000-0002-5812-4028" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stang_henrik"><b>Stang</b>&nbsp;Henrik</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fatigue"><button class="btn">#fatigue</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigation%20of%20the%20Fatigue%20Behavior%20of%203D%20Printed%20Steel%20Fiber%20Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+investigation+of+the+fatigue+behavior+of+3d+printed+steel+fiber+reinforced+concrete&as_occt=title&as_sauthors=s%C3%B8rensen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1239" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

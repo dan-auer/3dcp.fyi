@@ -19,14 +19,15 @@ tags:
 ---
 
 #Wet Joint Performance of 3D Printed Concrete Beam Segments Under Flexural Loading ([2023-05](date/2023/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2023.106728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106728" target="_blank">10.1016/j.jobe.2023.106728</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2023.106728" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2023.106728" target="_blank">10.1016/j.jobe.2023.106728</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3804-8478" title="ORCID: 0000-0002-3804-8478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aramburu_amaia"><b>Aramburu</b>&nbsp;Amaia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6911-161X" title="ORCID: 0000-0002-6911-161X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b>&nbsp;Iñigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2633-1783" title="ORCID: 0000-0003-2633-1783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/puente_inigo"><b>Puente</b>&nbsp;Iñigo</a></span><br>
 Journal Article - Journal of Building Engineering
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/segment"><button class="btn">#segment</button></a> <a href="../../keyword/wet"><button class="btn">#wet</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Wet%20Joint%20Performance%20of%203D%20Printed%20Concrete%20Beam%20Segments%20Under%20Flexural%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=wet+joint+performance+of+3d+printed+concrete+beam+segments+under+flexural+loading&as_occt=title&as_sauthors=aramburu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159584344&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001054409300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2023.106728" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

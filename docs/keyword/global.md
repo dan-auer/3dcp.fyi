@@ -8,6 +8,10 @@ search:
 
 # #global
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../siko.2025.GF3PCDWTiBP/">Globally First 3D‐Printed Concrete Drinking Water Tank in Barczewko, Poland</a></li>
   <li><a href="../../../author/zhou_jimmy"><b>Zhou</b> Jimmy</a>, <a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a>, <a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a>, <a href="../../../author/feng_zhenan"><b>Feng</b> Zhenan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_sama_roti_feng.2025.EGPIotAo3CPT/">Examining Global Policy Influences on the Adoption of 3D Concrete Printing Technology:<br/>A Roadmap for New Zealand</a></li>

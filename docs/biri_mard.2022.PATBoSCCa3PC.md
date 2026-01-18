@@ -20,14 +20,15 @@ tags:
 
 #Parameters Affecting Thixotropic Behavior of Self-Compacting Concrete and 3D Printable Concrete&nbsp;([2022-05](date/2022/05))
 <div class="h1-like">A State of the Art Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" target="_blank">10.1016/j.conbuildmat.2022.127688</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127688" target="_blank">10.1016/j.conbuildmat.2022.127688</a>
 
 <a href="../../../author/biricik_oznur"><b>Biricik</b>&nbsp;Öznur</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0326-5015" title="ORCID: 0000-0003-0326-5015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mardani_ali"><b>Mardani</b>&nbsp;Ali</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 339
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/compaction"><button class="btn">#compaction</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parameters%20Affecting%20Thixotropic%20Behavior%20of%20Self-Compacting%20Concrete%20and%203D%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parameters+affecting+thixotropic+behavior+of+self-compacting+concrete+and+3d+printable+concrete&as_occt=title&as_sauthors=biricik&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129459183&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000805229600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.127688" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

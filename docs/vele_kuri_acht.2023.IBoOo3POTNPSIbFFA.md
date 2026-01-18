@@ -20,14 +20,15 @@ tags:
 ---
 
 #Improving Buildability of Overhangs of 3D Printed Objects Through Non-Planar Slicing Informed by Force-Flow-Analysis ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2023_282.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2023.1.519" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.519" target="_blank">10.52842/conf.ecaade.2023.1.519</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2023_282.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2023.1.519" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2023.1.519" target="_blank">10.52842/conf.ecaade.2023.1.519</a>
 
 <a href="../../../author/vele_jiri"><b>Vele</b>&nbsp;Jiří</a></span>, <a href="../../../author/kurilla_lukas"><b>Kurilla</b>&nbsp;Lukáš</a></span>, <a href="../../../author/achten_hubertus_henri"><b>Achten</b>&nbsp;Henri</a></span><br>
 Contribution - Proceedings of the 41st International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 519-526
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slicing"><button class="btn">#slicing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Buildability%20of%20Overhangs%20of%203D%20Printed%20Objects%20Through%20Non-Planar%20Slicing%20Informed%20by%20Force-Flow-Analysis" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+buildability+of+overhangs+of+3d+printed+objects+through+non-planar+slicing+informed+by+force-flow-analysis&as_occt=title&as_sauthors=vele&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171888302&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2023.1.519" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Figueiredo Stefan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7945-7171" target="_blank">0000-0002-7945-7171</a>
+
+    First Contribution
+    : 2019-03-06
+    
+    Last Contribution
+    : 2022-02-07
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 923
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (7)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (5)</li>
+        <li><a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> (3)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a> (214)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (37)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (36)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (31)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (29)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (29)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (52)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (50)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (44)</li>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (37)</li>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (34)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a></li>
   <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../figu_over_nefs_schl.2020.QAoPSHCCMiTDPF/">Quality-Assessment of Printable Strain-Hardening Cementitious Composites Manufactured in Two Different Printing Facilities</a></li>

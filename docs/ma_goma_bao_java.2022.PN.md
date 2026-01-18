@@ -19,14 +19,15 @@ tags:
 
 #Print Nervi&nbsp;([2022-09](date/2022/09))
 <div class="h1-like">Design and Construction of a Ribbed Floor System in the Digital Era</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.20898/j.iass.2022.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.20898/j.iass.2022.017" target="_blank">10.20898/j.iass.2022.017</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.20898/j.iass.2022.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.20898/j.iass.2022.017" target="_blank">10.20898/j.iass.2022.017</a>
 
 <a href="../../../author/ma_jiaming"><b>Ma</b>&nbsp;Jiaming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9463-4888" title="ORCID: 0000-0001-9463-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gomaa_mohamed"><b>Gomaa</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1395-8747" title="ORCID: 0000-0003-1395-8747" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bao_wen_ding"><b>Bao</b>&nbsp;Ding</a></span>, <a href="../../../author/javan_rezaee_anooshe"><b>Javan</b>&nbsp;Anooshe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5720-6649" title="ORCID: 0000-0001-5720-6649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xie_min_yi"><b>Xie</b>&nbsp;Yi</a></span><br>
 Contribution - Proceedings of the IASS 2022 Annual Symposium
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/nervi"><button class="btn">#nervi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Print%20Nervi" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=print+nervi&as_occt=title&as_sauthors=ma&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149365030&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000917323100005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.20898/j.iass.2022.017" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

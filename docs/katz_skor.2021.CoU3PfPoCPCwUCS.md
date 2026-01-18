@@ -19,14 +19,15 @@ tags:
 ---
 
 #Concept of Using 3D Printing for Production of Concrete-Plastic Columns with Unconventional Cross-Sections ([2021-03](date/2021/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/6/1565/pdf?version=1616570537) <a href="https://doi.org/10.3390/ma14061565" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14061565" target="_blank">10.3390/ma14061565</a>
+<a href="https://www.mdpi.com/1996-1944/14/6/1565/pdf?version=1616570537" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14061565" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14061565" target="_blank">10.3390/ma14061565</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4049-5330" title="ORCID: 0000-0002-4049-5330" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/katzer_jacek"><b>Katzer</b>&nbsp;Jacek</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9000-3237" title="ORCID: 0000-0001-9000-3237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skoratko_aneta"><b>Skoratko</b>&nbsp;Aneta</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 6
 
 <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/convention"><button class="btn">#convention</button></a> <a href="../../keyword/cross"><button class="btn">#cross</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concept%20of%20Using%203D%20Printing%20for%20Production%20of%20Concrete-Plastic%20Columns%20with%20Unconventional%20Cross-Sections" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concept+of+using+3d+printing+for+production+of+concrete-plastic+columns+with+unconventional+cross-sections&as_occt=title&as_sauthors=katzer&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85103149055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000640040300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14061565" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,55 @@ search:
 
 #  Wang Pengfei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-07-10
+    
+    Last Contribution
+    : 2025-08-28
+
+    Number Contributions
+    : 2
+
+    Number Citations
+    : 0
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (2)</li>
+        <li><a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a> (2)</li>
+        <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a> (2)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a> (0)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> (5)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (5)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (5)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><i>N/A</i></li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a></li>
   <li><a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../gero_wang_liao_chen.2024.ICaLaFIo3PC/">Interfacial Cracking at Layer and Filament Interfaces of 3D Printed Concrete:<br/>Experimental and Numerical Studies</a></li>

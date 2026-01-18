@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigating the Feasibility of Using Carbon Fiber Tapes as Reinforcement for 3D Concrete Printing ([2021-07](date/2021/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202100024) <a href="https://doi.org/10.1002/cend.202100024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cend.202100024" target="_blank">10.1002/cend.202100024</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cend.202100024" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cend.202100024" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cend.202100024" target="_blank">10.1002/cend.202100024</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheurer_martin"><b>Scheurer</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2312-8595" title="ORCID: 0000-0003-2312-8595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/quenzel_philipp"><b>Quenzel</b>&nbsp;Philipp</a></span>, <a href="../../../author/nolke_peter"><b>Nölke</b>&nbsp;Peter</a></span>, <a href="../../../author/reuter-schniete_jonas"><b>Reuter‐Schniete</b>&nbsp;Jonas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span><br>
 Journal Article - Civil Engineering Design, Vol. 3, Iss. 4, pp. 136-142
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Feasibility%20of%20Using%20Carbon%20Fiber%20Tapes%20as%20Reinforcement%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+feasibility+of+using+carbon+fiber+tapes+as+reinforcement+for+3d+concrete+printing&as_occt=title&as_sauthors=scheurer&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cend.202100024" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

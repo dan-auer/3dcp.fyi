@@ -20,14 +20,15 @@ tags:
 
 #Clay and Alginate-Based Mixtures 3D Printing&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Numerical Procedure for Shape Stability and Buildability Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-025-01272-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01272-5" target="_blank">10.1007/s40964-025-01272-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-025-01272-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01272-5" target="_blank">10.1007/s40964-025-01272-5</a>
 
 <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7896-4578" title="ORCID: 0009-0008-7896-4578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akhrif_iatimad"><b>Akhrif</b>&nbsp;Iatimad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8545-771X" title="ORCID: 0000-0001-8545-771X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jai_mostapha"><b>el&nbsp;Jai</b>&nbsp;Mostapha</a></span>, <a href="../../../author/rihani_nadir"><b>Rihani</b>&nbsp;Nadir</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Clay%20and%20Alginate-Based%20Mixtures%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=clay+and+alginate-based+mixtures+3d+printing&as_occt=title&as_sauthors=oulkhir&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012273474&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-025-01272-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

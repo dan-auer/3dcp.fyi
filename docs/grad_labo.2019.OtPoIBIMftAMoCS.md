@@ -19,14 +19,15 @@ tags:
 ---
 
 #On the Potential of Integrating Building Information Modelling for the Additive Manufacturing of Concrete Structures ([2019-11](date/2019/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://sintef.brage.unit.no/sintef-xmlui/bitstream/11250/2627540/2/On%2bthe%2bpotential%2bof%2bintegrating%2bBuilding%2bInformation%2bModelling%2b%2528BIM%2529%2bfor%2bthe%2bAdditive%2bManufacturing%2b%2528AM%2529%2bof%2bconcrete%2bstructures.pdf) <a href="https://doi.org/10.1108/ci-07-2019-0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-07-2019-0057" target="_blank">10.1108/ci-07-2019-0057</a>
+<a href="https://sintef.brage.unit.no/sintef-xmlui/bitstream/11250/2627540/2/On%2bthe%2bpotential%2bof%2bintegrating%2bBuilding%2bInformation%2bModelling%2b%2528BIM%2529%2bfor%2bthe%2bAdditive%2bManufacturing%2b%2528AM%2529%2bof%2bconcrete%2bstructures.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1108/ci-07-2019-0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ci-07-2019-0057" target="_blank">10.1108/ci-07-2019-0057</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9837-3512" title="ORCID: 0000-0002-9837-3512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gradeci_klodian"><b>Gradeci</b>&nbsp;Klodian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6790-4109" title="ORCID: 0000-0001-6790-4109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/labonnote_nathalie"><b>Labonnote</b>&nbsp;Nathalie</a></span><br>
 Journal Article - Construction Innovation, Vol. 20, Iss. 3, pp. 321-343
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Potential%20of%20Integrating%20Building%20Information%20Modelling%20for%20the%20Additive%20Manufacturing%20of%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on+the+potential+of+integrating+building+information+modelling+for+the+additive+manufacturing+of+concrete+structures&as_occt=title&as_sauthors=gradeci&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85075572086&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000546149600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ci-07-2019-0057" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

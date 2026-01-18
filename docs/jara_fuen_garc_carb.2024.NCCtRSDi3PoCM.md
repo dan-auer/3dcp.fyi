@@ -18,14 +18,15 @@ tags:
 ---
 
 #Nano-Crystalline-Cellulose to Reduce Superplasticizer-Demand in 3D Printing of Cementitious Materials ([2024-08](date/2024/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17174247) <a href="https://doi.org/10.3390/ma17174247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17174247" target="_blank">10.3390/ma17174247</a>
+<a href="https://doi.org/10.3390/ma17174247" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17174247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17174247" target="_blank">10.3390/ma17174247</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5930-3415" title="ORCID: 0000-0002-5930-3415" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jarabo_rocio"><b>Jarabo</b>&nbsp;Rocío</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0421-4607" title="ORCID: 0000-0003-0421-4607" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fuente-gonzalez_elena"><b>de la&nbsp;Fuente González</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0042-9822" title="ORCID: 0000-0002-0042-9822" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-calvo_luis_jose"><b>García Calvo</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3717-7614" title="ORCID: 0000-0002-3717-7614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carballosa_pedro"><b>Carballosa</b>&nbsp;Pedro</a></span>, <a href="../../../author/negro_carlos"><b>Negro</b>&nbsp;Carlos</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 17
 
 <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/crystal"><button class="btn">#crystal</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Nano-Crystalline-Cellulose%20to%20Reduce%20Superplasticizer-Demand%20in%203D%20Printing%20of%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=nano-crystalline-cellulose+to+reduce+superplasticizer-demand+in+3d+printing+of+cementitious+materials&as_occt=title&as_sauthors=jarabo&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203636221&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001311088100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17174247" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -54,8 +55,9 @@ Journal Article - Materials, Vol. 17, Iss. 17
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
     </ol>
 </div>

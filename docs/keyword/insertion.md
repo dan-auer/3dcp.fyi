@@ -8,7 +8,12 @@ search:
 
 # #insertion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/reinforcement"><button class="btn">#reinforcement (8)</button></a> <a href="../../keyword/automation"><button class="btn">#automation (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wang_deng_liu.2026.RRIaGfRo3PC/">Robotic Rebar Insertion and Grouting for Reinforcement of 3D Printed Concrete:<br/>Technique Development and Bond Behavior Characterization</a></li>
   <li><a href="../../../author/tasaki_haruto"><b>Tasaki</b> Haruto</a>, <a href="../../../author/asakawa_tomoya"><b>Asakawa</b> Tomoya</a>, <a href="../../../author/kobayashi_noriyuki"><b>Kobayashi</b> Noriyuki</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tasa_asak_koba_nish.2024.ADIRbCoFRCCaAPI/">A Direction-Independent Reinforcement by Combination of Fiber-Reinforced Cementitious Composite and Automated Pin Insertion</a></li>
   <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../freu_davi_drod_lowk.2024.VSRI/">Vibrated Short Rebar Insertion:<br/>The Effect of Integration Time on the Resulting Bond Quality</a></li>
   <li><a href="../../../author/kobayashi_noriyuki"><b>Kobayashi</b> Noriyuki</a>, <a href="../../../author/asakawa_tomoya"><b>Asakawa</b> Tomoya</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a>, <a href="../../../author/egawa_ryo"><b>Egawa</b> Ryo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../koba_asak_nish_egaw.2024.AAPIMf3aIREoBS/">An Automated Pin Insertion Method for 3DCP and Its Reinforcement Effects on Beam Specimens</a></li>

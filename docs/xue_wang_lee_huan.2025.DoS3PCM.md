@@ -22,14 +22,15 @@ tags:
 
 #Development of Sustainable 3D Printing Concrete Materials&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Impact of Natural Minerals and Wastes at High Replacement Ratios</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114020" target="_blank">10.1016/j.jobe.2025.114020</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114020" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114020" target="_blank">10.1016/j.jobe.2025.114020</a>
 
 <a href="../../../author/xue_jia-chen"><b>Xue</b>&nbsp;Jia-Chen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2400-1644" title="ORCID: 0000-0002-2400-1644" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_wei-chien"><b>Wang</b>&nbsp;Wei-Chien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0209-4226" title="ORCID: 0000-0003-0209-4226" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_ming-gin"><b>Lee</b>&nbsp;Ming-Gin</a></span>, <a href="../../../author/huang_chia-yun"><b>Huang</b>&nbsp;Chia-Yun</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114020
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Sustainable%203D%20Printing%20Concrete%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+sustainable+3d+printing+concrete+materials&as_occt=title&as_sauthors=xue&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016094472&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001578352700012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114020" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

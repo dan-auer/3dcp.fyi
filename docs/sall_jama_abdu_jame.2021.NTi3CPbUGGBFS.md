@@ -19,14 +19,15 @@ tags:
 
 #New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/1200/1/012007) <a href="https://doi.org/10.1088/1757-899x/1200/1/012007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1200/1/012007" target="_blank">10.1088/1757-899x/1200/1/012007</a>
+<a href="https://doi.org/10.1088/1757-899x/1200/1/012007" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/1200/1/012007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1200/1/012007" target="_blank">10.1088/1757-899x/1200/1/012007</a>
 
 <a href="../../../author/salleh_norhafizah"><b>Salleh</b>&nbsp;Norhafizah</a></span>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b>&nbsp;Nur</a></span>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b>&nbsp;Noor</a></span>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b>&nbsp;Zalipah</a></span>, <a href="../../../author/majid_a_masni"><b>Majid</b>&nbsp;Masni</a></span>, <a href="../../../author/suliman_huda_nurul"><b>Suliman</b>&nbsp;Nurul</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 1200, Iss. 1
 
 <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=New%20Technology%20in%203D%20Concrete%20Printing%20by%20Using%20Ground-Granulated%20Blast-Furnace-Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=new+technology+in+3d+concrete+printing+by+using+ground-granulated+blast-furnace-slag&as_occt=title&as_sauthors=salleh&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/1200/1/012007" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

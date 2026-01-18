@@ -9,6 +9,60 @@ search:
 
 #  Zhao Hongyu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9790-7247" target="_blank">0000-0001-9790-7247</a>
+
+    First Contribution
+    : 2022-03-17
+    
+    Last Contribution
+    : 2025-05-14
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 113
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (15)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (12)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (10)</li>
+        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (8)</li>
+        <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/wu_qing"><b>Wu</b> Qing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_zhai_yao_wu.2022.PaMPo3PCEMIW/">Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes</a> (26)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (55)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (35)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (31)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (26)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (7)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (4)</li>
+        <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (3)</li>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wu_fei"><b>Wu</b> Fei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhao_wang_sun_wu.2025.AASfMDi3PC/">Automated Analysis System for Micro-Defects in 3D Printed Concrete</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Huang Yulin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2017-07-23
+    
+    Last Contribution
+    : 2025-06-27
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 51
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (8)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (6)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (4)</li>
+        <li><a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> (4)</li>
+        <li><a href="../../../author/zhang_lulu"><b>Zhang</b> Lulu</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (16)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (16)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (2)</li>
+        <li><a href="../../../author/li_muduo"><b>Li</b> Muduo</a> (2)</li>
+        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (2)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_tao_yong.2025.AoFItMCPHo3PC/">Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete</a></li>

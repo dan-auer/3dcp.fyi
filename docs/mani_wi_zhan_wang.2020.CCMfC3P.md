@@ -15,14 +15,15 @@ tags:
 ---
 
 #Characterizing Cement Mixtures for Concrete 3D Printing ([2020-03](date/2020/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" target="_blank">10.1016/j.mfglet.2020.03.002</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mfglet.2020.03.002" target="_blank">10.1016/j.mfglet.2020.03.002</a>
 
 <a href="../../../author/manikandan_karthick"><b>Manikandan</b>&nbsp;Karthick</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wi_kwangwoo"><b>Wi</b>&nbsp;Kwangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9897-7597" title="ORCID: 0000-0001-9897-7597" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_xiao"><b>Zhang</b>&nbsp;Xiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
 Journal Article - Manufacturing Letters, Vol. 24, pp. 33-37
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterizing%20Cement%20Mixtures%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterizing+cement+mixtures+for+concrete+3d+printing&as_occt=title&as_sauthors=manikandan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082169518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000645121700008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mfglet.2020.03.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

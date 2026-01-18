@@ -20,14 +20,15 @@ tags:
 ---
 
 #Development and Performance Evaluation of Fibrous Pseudoplastic Quaternary Cement Systems for Aerial Additive Manufacturing ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2411-9660/7/6/137/pdf?version=1701091994) <a href="https://doi.org/10.3390/designs7060137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/designs7060137" target="_blank">10.3390/designs7060137</a>
+<a href="https://www.mdpi.com/2411-9660/7/6/137/pdf?version=1701091994" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/designs7060137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/designs7060137" target="_blank">10.3390/designs7060137</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-5457" title="ORCID: 0000-0001-7081-5457" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dams_barrie"><b>Dams</b>&nbsp;Barrie</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7078-4232" title="ORCID: 0000-0001-7078-4232" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shepherd_paul"><b>Shepherd</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7413-3944" title="ORCID: 0000-0002-7413-3944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ball_j_richard"><b>Ball</b>&nbsp;Richard</a></span><br>
 Journal Article - Designs, Vol. 7, Iss. 6, No. 137
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/quaternary"><button class="btn">#quaternary</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20and%20Performance%20Evaluation%20of%20Fibrous%20Pseudoplastic%20Quaternary%20Cement%20Systems%20for%20Aerial%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+and+performance+evaluation+of+fibrous+pseudoplastic+quaternary+cement+systems+for+aerial+additive+manufacturing&as_occt=title&as_sauthors=dams&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180166631&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/designs7060137" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

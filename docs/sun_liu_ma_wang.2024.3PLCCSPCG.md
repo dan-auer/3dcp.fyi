@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Printed Lightweight Concrete Containing Surface-Pretreated Coal-Gangue ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02906) <a href="https://doi.org/10.1016/j.cscm.2024.e02906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02906" target="_blank">10.1016/j.cscm.2024.e02906</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e02906" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e02906" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02906" target="_blank">10.1016/j.cscm.2024.e02906</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <a href="../../../author/liu_shukui"><b>Liu</b>&nbsp;Shukui</a></span>, <a href="../../../author/ma_zhangguo"><b>Ma</b>&nbsp;Zhangguo</a></span>, <a href="../../../author/wang_di"><b>Wang</b>&nbsp;Di</a></span>, <a href="../../../author/wang_yufei"><b>Wang</b>&nbsp;Yufei</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9790-7247" title="ORCID: 0000-0001-9790-7247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhao_hongyu"><b>Zhao</b>&nbsp;Hongyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo"><b>Huang</b>&nbsp;Bo</a></span>, <a href="../../../author/saafi_mohamed"><b>Saafi</b>&nbsp;Mohamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02906
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Lightweight%20Concrete%20Containing%20Surface-Pretreated%20Coal-Gangue" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+lightweight+concrete+containing+surface-pretreated+coal-gangue&as_occt=title&as_sauthors=sun&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187214823&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001208805200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e02906" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

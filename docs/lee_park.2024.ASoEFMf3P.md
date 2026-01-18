@@ -13,14 +13,15 @@ tags:
 
 #A Study on Eco-Friendly Materials for 3D Printing&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Focused on Korean Hwangto(Loess)</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/13467581.2024.2399687) <a href="https://doi.org/10.1080/13467581.2024.2399687" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2024.2399687" target="_blank">10.1080/13467581.2024.2399687</a>
+<a href="https://doi.org/10.1080/13467581.2024.2399687" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/13467581.2024.2399687" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2024.2399687" target="_blank">10.1080/13467581.2024.2399687</a>
 
 <a href="../../../author/lee_myung_jae"><b>Lee</b>&nbsp;Jae</a></span>, <a href="../../../author/park_mee_boo"><b>Park</b>&nbsp;Boo</a></span><br>
 Journal Article - Journal of Asian Architecture and Building Engineering, pp. 1-20
 
 <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Study%20on%20Eco-Friendly%20Materials%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+study+on+eco-friendly+materials+for+3d+printing&as_occt=title&as_sauthors=lee&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203323360&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001309254900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/13467581.2024.2399687" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

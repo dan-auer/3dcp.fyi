@@ -18,14 +18,15 @@ tags:
 ---
 
 #Towards the Formulation of Robust and Sustainable Cementitious Binders for 3D Additive Construction by Extrusion ([2019-02](date/2019/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-12-815481-6.00015-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00015-4" target="_blank">10.1016/b978-0-12-815481-6.00015-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-12-815481-6.00015-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00015-4" target="_blank">10.1016/b978-0-12-815481-6.00015-4</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7435-2493" title="ORCID: 0000-0002-7435-2493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bentz_p_dale"><b>Bentz</b>&nbsp;Dale</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <a href="../../../author/bentz_r_isaiah"><b>Bentz</b>&nbsp;Isaiah</a></span>, <a href="../../../author/peltz_a_max"><b>Peltz</b>&nbsp;Max</a></span><br>
 Contribution - 3D Concrete Printing Technology, pp. 307-331
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20the%20Formulation%20of%20Robust%20and%20Sustainable%20Cementitious%20Binders%20for%203D%20Additive%20Construction%20by%20Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+the+formulation+of+robust+and+sustainable+cementitious+binders+for+3d+additive+construction+by+extrusion&as_occt=title&as_sauthors=bentz&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070357559&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-12-815481-6.00015-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

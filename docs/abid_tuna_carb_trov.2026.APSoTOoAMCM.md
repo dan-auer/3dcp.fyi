@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Parametric Study on Topology Optimization of Additively Manufactured Clay Materials ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.121732" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121732" target="_blank">10.1016/j.engstruct.2025.121732</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.121732" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.121732" target="_blank">10.1016/j.engstruct.2025.121732</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8222-6016" title="ORCID: 0000-0002-8222-6016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abidi_imene"><b>Abidi</b>&nbsp;Imene</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0911-9476" title="ORCID: 0000-0002-0911-9476" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tuna_meral"><b>Tuna</b>&nbsp;Meral</a></span>, <a href="../../../author/carboni_biagio"><b>Carboni</b>&nbsp;Biagio</a></span>, <a href="../../../author/trovalusci_patrizia"><b>Trovalusci</b>&nbsp;Patrizia</a></span><br>
 Journal Article - Engineering Structures, Vol. 348, No. 121732
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Parametric%20Study%20on%20Topology%20Optimization%20of%20Additively%20Manufactured%20Clay%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+parametric+study+on+topology+optimization+of+additively+manufactured+clay+materials&as_occt=title&as_sauthors=abidi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001621572000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.121732" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Investigating the Effect of Air-Voids on the Mechanical Properties of 3D Printable Cementitious Composites ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784485736.044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.044" target="_blank">10.1061/9780784485736.044</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784485736.044" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.044" target="_blank">10.1061/9780784485736.044</a>
 
 <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b>&nbsp;Reese</a></span>, <a href="../../../author/zandifaez_peyman"><b>Zandifaez</b>&nbsp;Peyman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3123-389X" title="ORCID: 0000-0002-3123-389X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_hongyu"><b>Zhou</b>&nbsp;Hongyu</a></span>, <a href="../../../author/fiske_r_michael"><b>Fiske</b>&nbsp;Michael</a></span><br>
 Contribution - Earth and Space 2024
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Effect%20of%20Air-Voids%20on%20the%20Mechanical%20Properties%20of%203D%20Printable%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+effect+of+air-voids+on+the+mechanical+properties+of+3d+printable+cementitious+composites&as_occt=title&as_sauthors=sorgenfrei&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207884054&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784485736.044" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

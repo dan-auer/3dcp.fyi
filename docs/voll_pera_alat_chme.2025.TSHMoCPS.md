@@ -21,7 +21,7 @@ Contribution - Proceedings of the 13th International Conference on Structural He
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Structural%20Health%20Monitoring%20of%20Clay-Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+structural+health+monitoring+of+clay-printed+structures&as_occt=title&as_sauthors=vollmert&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3217/978-3-99161-057-1-149" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

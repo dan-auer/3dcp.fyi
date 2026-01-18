@@ -19,14 +19,15 @@ tags:
 
 #Review of 3D Printing Advancements in Geopolymer Concrete&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Current Challenges and Future Directions</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-0229-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-0229-5_39" target="_blank">10.1007/978-981-95-0229-5_39</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-0229-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-0229-5_39" target="_blank">10.1007/978-981-95-0229-5_39</a>
 
 <a href="../../../author/athira_r"><b>Athira</b>&nbsp;R.</a></span>, <a href="../../../author/sathyan_dhanya"><b>Sathyan</b>&nbsp;Dhanya</a></span><br>
 Contribution - Proceedings of International Conference on Advances in Materials, Modeling, and Analysis for Sustainable and Resilient Infrastructure Volume 1, pp. 507-517
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Review%20of%203D%20Printing%20Advancements%20in%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=review+of+3d+printing+advancements+in+geopolymer+concrete&as_occt=title&as_sauthors=athira&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023316341&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-0229-5_39" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

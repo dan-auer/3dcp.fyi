@@ -19,14 +19,15 @@ tags:
 
 #A New Strategy to Enhance 3D Printability of Cement-Based Materials&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">In-Situ Polymerization</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2024.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104299" target="_blank">10.1016/j.addma.2024.104299</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2024.104299" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2024.104299" target="_blank">10.1016/j.addma.2024.104299</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4209-3888" title="ORCID: 0000-0002-4209-3888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_lijing"><b>Shao</b>&nbsp;Lijing</a></span>, <a href="../../../author/liu_zhaolong"><b>Liu</b>&nbsp;Zhaolong</a></span>, <a href="../../../author/liu_qi"><b>Liu</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1123-5636" title="ORCID: 0000-0002-1123-5636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_haochuan"><b>Wang</b>&nbsp;Haochuan</a></span>, <a href="../../../author/wang_chong"><b>Wang</b>&nbsp;Chong</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span>, <a href="../../../author/hong_jinxiang"><b>Hong</b>&nbsp;Jinxiang</a></span>, <a href="../../../author/miao_changwen"><b>Miao</b>&nbsp;Changwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2692-5971" title="ORCID: 0000-0002-2692-5971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_pan"><b>Feng</b>&nbsp;Pan</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 89, No. 104299
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Strategy%20to%20Enhance%203D%20Printability%20of%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+new+strategy+to+enhance+3d+printability+of+cement-based+materials&as_occt=title&as_sauthors=shao&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198014678&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267721500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2024.104299" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

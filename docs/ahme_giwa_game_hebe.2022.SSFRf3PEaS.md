@@ -16,14 +16,15 @@ tags:
 ---
 
 #Studying Steel-Fiber-Reinforcement for 3D Printed Elements and Structures ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784484609.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784484609.032" target="_blank">10.1061/9780784484609.032</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784484609.032" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784484609.032" target="_blank">10.1061/9780784484609.032</a>
 
 <a href="../../../author/ahmed_hassan"><b>Ahmed</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6865-2836" title="ORCID: 0000-0002-6865-2836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/giwa_ilerioluwa"><b>Giwa</b>&nbsp;Ilerioluwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0568-227X" title="ORCID: 0000-0002-0568-227X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/game_e_daniel"><b>Game</b>&nbsp;Daniel</a></span>, <a href="../../../author/hebert_marc"><b>Hebert</b>&nbsp;Marc</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4798-2051" title="ORCID: 0000-0002-4798-2051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/noorvand_hassan"><b>Noorvand</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3610-8238" title="ORCID: 0000-0002-3610-8238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arce_amador_gabriel"><b>Arce</b>&nbsp;Gabriel</a></span>, <a href="../../../author/hassan_m_marwa"><b>Hassan</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Contribution - Tran-SET 2022, pp. 299-309
 
 <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Studying%20Steel-Fiber-Reinforcement%20for%203D%20Printed%20Elements%20and%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=studying+steel-fiber-reinforcement+for+3d+printed+elements+and+structures&as_occt=title&as_sauthors=ahmed&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191376135&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784484609.032" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

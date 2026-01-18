@@ -21,14 +21,15 @@ tags:
 
 #Development of 3D Printers for Concrete Structures&nbsp;([2022-08](date/2022/08))
 <div class="h1-like">Mix Proportion Design Approach and Laboratory Testing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/sasbe-07-2022-0137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/sasbe-07-2022-0137" target="_blank">10.1108/sasbe-07-2022-0137</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/sasbe-07-2022-0137" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/sasbe-07-2022-0137" target="_blank">10.1108/sasbe-07-2022-0137</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <a href="../../../author/nguyen_thu"><b>Nguyen</b>&nbsp;Thu</a></span>, <a href="../../../author/trinh_thanh"><b>Trinh</b>&nbsp;Thanh</a></span>, <a href="../../../author/nguyen_anh"><b>Nguyen</b>&nbsp;Anh</a></span>, <a href="../../../author/do_quang"><b>Do</b>&nbsp;Quang</a></span>, <a href="../../../author/bui_bien"><b>Bui</b>&nbsp;Bien</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
 Journal Article - Smart and Sustainable Built Environment
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%203D%20Printers%20for%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+3d+printers+for+concrete+structures&as_occt=title&as_sauthors=pham&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85136877728&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000846888300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/sasbe-07-2022-0137" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

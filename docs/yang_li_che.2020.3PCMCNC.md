@@ -18,14 +18,15 @@ tags:
 
 #3D Printing Cementitious Materials Containing Nano-CaCO3&nbsp;([2020-08](date/2020/08))
 <div class="h1-like">Workability, Strength, and Microstructure</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2020.00260/pdf) <a href="https://doi.org/10.3389/fmats.2020.00260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00260" target="_blank">10.3389/fmats.2020.00260</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fmats.2020.00260/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3389/fmats.2020.00260" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2020.00260" target="_blank">10.3389/fmats.2020.00260</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span><br>
 Journal Article - Frontiers in Materials, Vol. 7
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Cementitious%20Materials%20Containing%20Nano-CaCO3" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+cementitious+materials+containing+nano-caco3&as_occt=title&as_sauthors=yang&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089809773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000563212200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3389/fmats.2020.00260" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

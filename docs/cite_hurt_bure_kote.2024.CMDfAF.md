@@ -15,14 +15,15 @@ tags:
 ---
 
 #Cementitious Material Development for Additive Fabrication ([2024-06](date/2024/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ojs.cvut.cz/ojs/index.php/APP/article/download/9844/7133) <a href="https://doi.org/10.14311/app.2024.47.0008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14311/app.2024.47.0008" target="_blank">10.14311/app.2024.47.0008</a>
+<a href="https://ojs.cvut.cz/ojs/index.php/APP/article/download/9844/7133" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.14311/app.2024.47.0008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14311/app.2024.47.0008" target="_blank">10.14311/app.2024.47.0008</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2615-1873" title="ORCID: 0000-0002-2615-1873" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/citek_david"><b>Čítek</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9459-8039" title="ORCID: 0000-0001-9459-8039" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hurtig_karel"><b>Hurtig</b>&nbsp;Karel</a></span>, <a href="../../../author/bures_vladislav"><b>Bureš</b>&nbsp;Vladislav</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5069-888X" title="ORCID: 0000-0001-5069-888X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kotes_peter"><b>Koteš</b>&nbsp;Peter</a></span><br>
 Journal Article - Acta Polytechnica, Vol. 47, pp. 8-14
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cementitious%20Material%20Development%20for%20Additive%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cementitious+material+development+for+additive+fabrication&as_occt=title&as_sauthors=%C4%8D%C3%ADtek&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195500343&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14311/app.2024.47.0008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

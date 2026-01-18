@@ -15,14 +15,15 @@ tags:
 ---
 
 #A Review on the Application of 3D Printing Technology in Pavement Maintenance ([2023-04](date/2023/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/15/7/6237/pdf?version=1680669153) <a href="https://doi.org/10.3390/su15076237" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15076237" target="_blank">10.3390/su15076237</a>
+<a href="https://www.mdpi.com/2071-1050/15/7/6237/pdf?version=1680669153" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su15076237" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su15076237" target="_blank">10.3390/su15076237</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9230-1385" title="ORCID: 0000-0001-9230-1385" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gong_fangyuan"><b>Gong</b>&nbsp;Fangyuan</a></span>, <a href="../../../author/cheng_xuejiao"><b>Cheng</b>&nbsp;Xuejiao</a></span>, <a href="../../../author/wang_qinghua"><b>Wang</b>&nbsp;Qinghua</a></span>, <a href="../../../author/chen_yi"><b>Chen</b>&nbsp;Yi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9103-6599" title="ORCID: 0000-0002-9103-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/you_zhanping"><b>You</b>&nbsp;Zhanping</a></span>, <a href="../../../author/liu_yu"><b>Liu</b>&nbsp;Yu</a></span><br>
 Journal Article - Sustainability, Vol. 15, Iss. 7
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/maintenance"><button class="btn">#maintenance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20on%20the%20Application%20of%203D%20Printing%20Technology%20in%20Pavement%20Maintenance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+on+the+application+of+3d+printing+technology+in+pavement+maintenance&as_occt=title&as_sauthors=gong&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152796857&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000969031400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su15076237" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

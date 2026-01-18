@@ -9,6 +9,60 @@ search:
 
 #  Lu Bing 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-0148-2879" target="_blank">0000-0002-0148-2879</a>
+
+    First Contribution
+    : 2018-05-17
+    
+    Last Contribution
+    : 2024-07-10
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 657
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (15)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (14)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (10)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (9)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a> (193)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (47)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (29)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (26)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (25)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (24)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (34)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (33)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (31)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (30)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (29)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>
   <li><a href="../../../author/nghia_quoc_vuong"><b>Nghia</b> Vuong</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/nam_quang_nguyen"><b>Nam</b> Nguyen</a>, <a href="../../../author/lu_bing"><b>Lu</b> Bing</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../nghi_lim_nam_lu.2024.AFSRf3/">Automated Force-Sensitive Reinforcement for 3DCP</a></li>

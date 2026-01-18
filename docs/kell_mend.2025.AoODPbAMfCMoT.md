@@ -18,14 +18,15 @@ tags:
 ---
 
 #Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time ([2025-09](date/2025/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/17/9749/pdf?version=1757069025) <a href="https://doi.org/10.3390/app15179749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15179749" target="_blank">10.3390/app15179749</a>
+<a href="https://www.mdpi.com/2076-3417/15/17/9749/pdf?version=1757069025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app15179749" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15179749" target="_blank">10.3390/app15179749</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keller_petr"><b>Keller</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendricky_radomir"><b>Mendřický</b>&nbsp;Radomír</a></span><br>
 Journal Article - Applied Sciences, Vol. 15, Iss. 17, No. 9749
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Object%20Deformations%20Printed%20by%20Additive%20Manufacturing%20from%20Concrete%20Mixtures%20over%20Time" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+of+object+deformations+printed+by+additive+manufacturing+from+concrete+mixtures+over+time&as_occt=title&as_sauthors=keller&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015565378&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001569544200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app15179749" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

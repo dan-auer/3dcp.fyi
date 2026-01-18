@@ -21,14 +21,15 @@ tags:
 ---
 
 #Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133809" target="_blank">10.1016/j.conbuildmat.2023.133809</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133809" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133809" target="_blank">10.1016/j.conbuildmat.2023.133809</a>
 
 <a href="../../../author/pi_yilin"><b>Pi</b>&nbsp;Yilin</a></span>, <a href="../../../author/lu_cong"><b>Lu</b>&nbsp;Cong</a></span>, <a href="../../../author/li_baoshan"><b>Li</b>&nbsp;Baoshan</a></span>, <a href="../../../author/zhou_junhui"><b>Zhou</b>&nbsp;Junhui</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 408, No. 133809
 
 <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/ecc"><button class="btn">#ecc</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/propagation"><button class="btn">#propagation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Crack%20Propagation%20and%20Failure%20Mechanism%20of%203D%20Printing%20Engineered%20Cementitious%20Composites%20%283DP-ECC%29%20Under%20Bending%20Loads" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=crack+propagation+and+failure+mechanism+of+3d+printing+engineered+cementitious+composites+%283dp-ecc%29+under+bending+loads&as_occt=title&as_sauthors=pi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174211554&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001097496900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133809" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

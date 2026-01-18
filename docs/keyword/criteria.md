@@ -8,6 +8,10 @@ search:
 
 # #criteria
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/multi"><button class="btn">#multi (6)</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment (4)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lapusan_ciprian"><b>Lapusan</b> Ciprian</a>, <a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b> Camelia</a>, <a href="../../../author/sosa_ioan"><b>Sosa</b> Ioan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lapu_negr_sosa.2026.MCDFfORSSi3CP/">Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a></li>

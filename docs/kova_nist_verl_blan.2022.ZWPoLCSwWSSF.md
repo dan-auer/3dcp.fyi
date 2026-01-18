@@ -19,14 +19,15 @@ tags:
 ---
 
 #Zero-Waste Production of Lightweight Concrete Structures with Water-Soluble Sand Formwork ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_1" target="_blank">10.1007/978-3-031-06116-5_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_1" target="_blank">10.1007/978-3-031-06116-5_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7711-2401" title="ORCID: 0000-0002-7711-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovaleva_daria"><b>Kovaleva</b>&nbsp;Daria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5007-1833" title="ORCID: 0000-0001-5007-1833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nistler_maximilian"><b>Nistler</b>&nbsp;Maximilian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2548-6620" title="ORCID: 0000-0002-2548-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verl_alexander"><b>Verl</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 3-8
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> <a href="../../keyword/zero"><button class="btn">#zero</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Zero-Waste%20Production%20of%20Lightweight%20Concrete%20Structures%20with%20Water-Soluble%20Sand%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=zero-waste+production+of+lightweight+concrete+structures+with+water-soluble+sand+formwork&as_occt=title&as_sauthors=kovaleva&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133152836&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

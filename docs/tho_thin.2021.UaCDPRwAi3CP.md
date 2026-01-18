@@ -16,14 +16,15 @@ tags:
 ---
 
 #Using a Cable-Driven Parallel Robot with Applications in 3D Concrete Printing ([2021-01](date/2021/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/11/2/563/pdf?version=1610943084) <a href="https://doi.org/10.3390/app11020563" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11020563" target="_blank">10.3390/app11020563</a>
+<a href="https://www.mdpi.com/2076-3417/11/2/563/pdf?version=1610943084" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app11020563" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app11020563" target="_blank">10.3390/app11020563</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5688-6096" title="ORCID: 0000-0002-5688-6096" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tho_phuoc_tuong"><b>Tho</b>&nbsp;Tuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0526-0736" title="ORCID: 0000-0003-0526-0736" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thinh_truong_nguyen"><b>Thinh</b>&nbsp;Nguyen</a></span><br>
 Journal Article - Applied Sciences, Vol. 11, Iss. 2
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/parallel"><button class="btn">#parallel</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Using%20a%20Cable-Driven%20Parallel%20Robot%20with%20Applications%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=using+a+cable-driven+parallel+robot+with+applications+in+3d+concrete+printing&as_occt=title&as_sauthors=tho&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85099197739&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000610910200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app11020563" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

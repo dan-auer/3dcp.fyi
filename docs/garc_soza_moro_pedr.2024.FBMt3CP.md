@@ -16,14 +16,15 @@ tags:
 
 #From BIM-Model to 3D Construction Printing&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">A Framework Proposal</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.foar.2024.03.002) <a href="https://doi.org/10.1016/j.foar.2024.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.foar.2024.03.002" target="_blank">10.1016/j.foar.2024.03.002</a>
+<a href="https://doi.org/10.1016/j.foar.2024.03.002" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.foar.2024.03.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.foar.2024.03.002" target="_blank">10.1016/j.foar.2024.03.002</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b>&nbsp;Pedro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4585-9073" title="ORCID: 0000-0003-4585-9073" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b>&nbsp;Ginnia</a></span>, <a href="../../../author/pedreros_fernando"><b>Pedreros</b>&nbsp;Fernando</a></span>, <a href="../../../author/avendano_martin"><b>Avendaño</b>&nbsp;Martín</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banda_pablo"><b>Banda</b>&nbsp;Pablo</a></span>, <a href="../../../author/berrios_cristian"><b>Berríos</b>&nbsp;Cristian</a></span><br>
 Journal Article - Frontiers of Architectural Research
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20BIM-Model%20to%203D%20Construction%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+bim-model+to+3d+construction+printing&as_occt=title&as_sauthors=garc%C3%ADa-alvarado&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192696501&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001273363700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.foar.2024.03.002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

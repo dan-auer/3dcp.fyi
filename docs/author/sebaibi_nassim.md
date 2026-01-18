@@ -9,6 +9,60 @@ search:
 
 #  Sebaibi Nassim 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-1241-2745" target="_blank">0000-0002-1241-2745</a>
+
+    First Contribution
+    : 2020-11-24
+    
+    Last Contribution
+    : 2024-03-19
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 40
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> (4)</li>
+        <li><a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a> (4)</li>
+        <li><a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a> (4)</li>
+        <li><a href="../../../author/linden_pieter"><b>van der Linden</b> Pieter</a> (4)</li>
+        <li><a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ly_oceane"><b>Ly</b> Océane</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/sebaibi_nassim"><b>Sebaibi</b> Nassim</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../ly_yori_seba_blan.2021.Oo3PCfAR/">Optimization of 3D Printed Concrete for Artificial Reefs:<br/>Biofouling and Mechanical Analysis</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (10)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (9)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (9)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (7)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> (5)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
+        <li><a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> (5)</li>
+        <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> (5)</li>
+        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hall_e_alice"><b>Hall</b> Alice</a>, <a href="../../../author/herbert_j-h_roger"><b>Herbert</b> Roger</a>, <a href="../../../author/stafford_richard"><b>Stafford</b> Richard</a>, <a href="../../../author/jones_g"><b>Jones</b> G.</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../hall_herb_staf_jone.2023.3PHEU/">3D Printed Habitat Enhancement Units:<br/>Key Features to Incorporate within Multifunctional Infrastructure</a></li>
   <li><a href="../../../author/arreteau_manon"><b>Arrêteau</b> Manon</a>, <a href="../../../author/fabien_aurelie"><b>Fabien</b> Aurélie</a>, <a href="../../../author/haddaji_badreddine"><b>Haddaji</b> Badreddine</a>, <a href="../../../author/chateigner_daniel"><b>Chateigner</b> Daniel</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arre_fabi_hadd_chat.2023.RoAi3PToCM/">Review of Advances in 3D Printing Technology of Cementitious Materials:<br/>Key Printing Parameters and Properties Characterization</a></li>

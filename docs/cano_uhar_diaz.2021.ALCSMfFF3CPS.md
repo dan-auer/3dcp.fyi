@@ -19,14 +19,15 @@ tags:
 ---
 
 #A “Low-Cost” Subtractive Method for Freshly Finished 3D Concrete Printed Structures ([2021-02](date/2021/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procs.2021.01.125) <a href="https://doi.org/10.1016/j.procs.2021.01.125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procs.2021.01.125" target="_blank">10.1016/j.procs.2021.01.125</a>
+<a href="https://doi.org/10.1016/j.procs.2021.01.125" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.procs.2021.01.125" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procs.2021.01.125" target="_blank">10.1016/j.procs.2021.01.125</a>
 
 <a href="../../../author/canou_joseph"><b>Canou</b>&nbsp;Joseph</a></span>, <a href="../../../author/uhart_maylis"><b>Uhart</b>&nbsp;Maylis</a></span>, <a href="../../../author/diaz_pierre"><b>Diaz</b>&nbsp;Pierre</a></span><br>
 Journal Article - Procedia Computer Science, Vol. 180, pp. 32-39
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/subtractive"><button class="btn">#subtractive</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20%E2%80%9CLow-Cost%E2%80%9D%20Subtractive%20Method%20for%20Freshly%20Finished%203D%20Concrete%20Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+%E2%80%9Clow-cost%E2%80%9D+subtractive+method+for+freshly+finished+3d+concrete+printed+structures&as_occt=title&as_sauthors=canou&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101783560&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000655006800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.procs.2021.01.125" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

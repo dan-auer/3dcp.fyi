@@ -19,14 +19,15 @@ tags:
 
 #Frontiers in Construction 3D Printing&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">Self-Monitoring, Multi-Robot, Drone-Assisted Processes</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s40964-024-00794-8) <a href="https://doi.org/10.1007/s40964-024-00794-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00794-8" target="_blank">10.1007/s40964-024-00794-8</a>
+<a href="https://doi.org/10.1007/s40964-024-00794-8" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-024-00794-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00794-8" target="_blank">10.1007/s40964-024-00794-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6079-4832" title="ORCID: 0000-0001-6079-4832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shuai"><b>Li</b>&nbsp;Shuai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b>&nbsp;Hung-Xuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1747-5195" title="ORCID: 0000-0003-1747-5195" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_phuong_jonathan"><b>Tran</b>&nbsp;Jonathan</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/assistance"><button class="btn">#assistance</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Frontiers%20in%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=frontiers+in+construction+3d+printing&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205695602&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001329141400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-024-00794-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

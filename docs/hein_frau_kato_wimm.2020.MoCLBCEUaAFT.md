@@ -19,14 +19,15 @@ tags:
 ---
 
 #Manufacturing of Curved Load-Bearing Concrete Elements Using an Adaptive Formwork Tool ([2020-02](date/2020/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.201900103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201900103" target="_blank">10.1002/best.201900103</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201900103" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201900103" target="_blank">10.1002/best.201900103</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1559-0969" title="ORCID: 0000-0002-1559-0969" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/heinlein_ulli"><b>Heinlein</b>&nbsp;Ulli</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3671-7789" title="ORCID: 0000-0002-3671-7789" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fraundorfer_andreas"><b>Fraundorfer</b>&nbsp;Andreas</a></span>, <a href="../../../author/katona_sebastian"><b>Katona</b>&nbsp;Sebastian</a></span>, <a href="../../../author/wimmer_matthias"><b>Wimmer</b>&nbsp;Matthias</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 115, Iss. 8, pp. 576-585
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Manufacturing%20of%20Curved%20Load-Bearing%20Concrete%20Elements%20Using%20an%20Adaptive%20Formwork%20Tool" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=manufacturing+of+curved+load-bearing+concrete+elements+using+an+adaptive+formwork+tool&as_occt=title&as_sauthors=heinlein&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079702717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000515272800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201900103" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

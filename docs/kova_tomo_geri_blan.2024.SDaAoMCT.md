@@ -19,7 +19,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/coral"><button class="btn">#coral</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Design%20and%20Analysis%20of%20Marinaressa-Coral-Tree" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+design+and+analysis+of+marinaressa-coral-tree&as_occt=title&as_sauthors=kovaleva&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

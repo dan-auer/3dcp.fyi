@@ -23,14 +23,15 @@ tags:
 
 #A Review of Large-Scale 3DCP&nbsp;([2022-07](date/2022/07))
 <div class="h1-like">Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2022.06.068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2022.06.068" target="_blank">10.1016/j.istruc.2022.06.068</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2022.06.068" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2022.06.068" target="_blank">10.1016/j.istruc.2022.06.068</a>
 
 <a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b>&nbsp;Ghafur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9713-9524" title="ORCID: 0000-0001-9713-9524" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b>&nbsp;Nasih</a></span>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b>&nbsp;Ghazi</a></span><br>
 Journal Article - Structures, Vol. 43, pp. 508-532
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Large-Scale%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+large-scale+3dcp&as_occt=title&as_sauthors=ahmed&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134658683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000826466500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2022.06.068" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

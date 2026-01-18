@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Manufacturing Based on Building Information-Model-Data ([2022-04](date/2022/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-96206-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-96206-7_8" target="_blank">10.1007/978-3-030-96206-7_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-96206-7_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-96206-7_8" target="_blank">10.1007/978-3-030-96206-7_8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8447-7484" title="ORCID: 0000-0002-8447-7484" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ignatova_elena"><b>Ignatova</b>&nbsp;Elena</a></span>, <a href="../../../author/kirichek_pavel"><b>Kirichek</b>&nbsp;Pavel</a></span><br>
 Contribution - Building Life-Cycle Management, pp. 77-85
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Based%20on%20Building%20Information-Model-Data" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+based+on+building+information-model-data&as_occt=title&as_sauthors=ignatova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128762076&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-96206-7_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

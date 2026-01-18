@@ -15,14 +15,15 @@ tags:
 ---
 
 #Magnetic Alignment of Microsteel-Fibers as Strategy for Reinforcing UHPFRC ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/79/259) <a href="https://doi.org/10.52825/ocp.v1i.79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.79" target="_blank">10.52825/ocp.v1i.79</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/79/259" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v1i.79" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v1i.79" target="_blank">10.52825/ocp.v1i.79</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3243-0251" title="ORCID: 0000-0003-3243-0251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ledderose_lukas"><b>Ledderose</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1259-6174" title="ORCID: 0000-0003-1259-6174" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baghdadi_abtin"><b>Baghdadi</b>&nbsp;Abtin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
 Contribution - Vision and Strategies for Reinforcing Additively Manufactured Concrete Structures, pp. 99-114
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Magnetic%20Alignment%20of%20Microsteel-Fibers%20as%20Strategy%20for%20Reinforcing%20UHPFRC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=magnetic+alignment+of+microsteel-fibers+as+strategy+for+reinforcing+uhpfrc&as_occt=title&as_sauthors=ledderose&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v1i.79" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

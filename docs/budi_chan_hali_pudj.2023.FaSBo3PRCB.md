@@ -19,14 +19,15 @@ tags:
 
 #Flexural and Shear Behavior of 3D Printed Reinforced Concrete Beams&nbsp;([2023-04](date/2023/04))
 <div class="h1-like">An Experimental Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ced.petra.ac.id/index.php/civ/article/download/25350/20865) <a href="https://doi.org/10.9744/ced.25.1.1-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.9744/ced.25.1.1-9" target="_blank">10.9744/ced.25.1.1-9</a>
+<a href="https://ced.petra.ac.id/index.php/civ/article/download/25350/20865" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.9744/ced.25.1.1-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.9744/ced.25.1.1-9" target="_blank">10.9744/ced.25.1.1-9</a>
 
 <a href="../../../author/budiman_franky"><b>Budiman</b>&nbsp;Franky</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1533-7717" title="ORCID: 0000-0003-1533-7717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chandra_jimmy"><b>Chandra</b>&nbsp;Jimmy</a></span>, <a href="../../../author/halim_alvin"><b>Halim</b>&nbsp;Alvin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2508-5608" title="ORCID: 0000-0002-2508-5608" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pudjisuryadi_pamuda"><b>Pudjisuryadi</b>&nbsp;Pamuda</a></span><br>
 Journal Article - Civil Engineering Dimension, Vol. 25, Iss. 1, pp. 1-9
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flexural%20and%20Shear%20Behavior%20of%203D%20Printed%20Reinforced%20Concrete%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flexural+and+shear+behavior+of+3d+printed+reinforced+concrete+beams&as_occt=title&as_sauthors=budiman&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209365229&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.9744/ced.25.1.1-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

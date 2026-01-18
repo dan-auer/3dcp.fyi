@@ -16,14 +16,15 @@ tags:
 ---
 
 #Mechanical Properties of Structures 3D Printed with Cementitious Powders ([2019-02](date/2019/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.qub.ac.uk/files/30628125/Mechanical_properties.pdf) <a href="https://doi.org/10.1016/b978-0-12-815481-6.00009-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00009-9" target="_blank">10.1016/b978-0-12-815481-6.00009-9</a>
+<a href="https://pure.qub.ac.uk/files/30628125/Mechanical_properties.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-12-815481-6.00009-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-12-815481-6.00009-9" target="_blank">10.1016/b978-0-12-815481-6.00009-9</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7391-7993" title="ORCID: 0000-0001-7391-7993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feng_peng"><b>Feng</b>&nbsp;Peng</a></span>, <a href="../../../author/meng_xinmiao"><b>Meng</b>&nbsp;Xinmiao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0501-3797" title="ORCID: 0000-0002-0501-3797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_jian-fei"><b>Chen</b>&nbsp;Jian-Fei</a></span>, <a href="../../../author/ye_lieping"><b>Ye</b>&nbsp;Lieping</a></span><br>
 Contribution - 3D Concrete Printing Technology, pp. 181-209
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Structures%203D%20Printed%20with%20Cementitious%20Powders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+structures+3d+printed+with+cementitious+powders&as_occt=title&as_sauthors=feng&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85077172043&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-12-815481-6.00009-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

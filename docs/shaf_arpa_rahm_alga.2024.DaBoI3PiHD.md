@@ -15,14 +15,15 @@ tags:
 ---
 
 #Difficulties and Benefits of Implementing 3D Printing in Housing Development ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70431-4_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70431-4_20" target="_blank">10.1007/978-3-031-70431-4_20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70431-4_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70431-4_20" target="_blank">10.1007/978-3-031-70431-4_20</a>
 
 <a href="../../../author/shafei_hazwani"><b>Shafei</b>&nbsp;Hazwani</a></span>, <a href="../../../author/arpa_rafiq_ar"><b>Arpa</b>&nbsp;Ar</a></span>, <a href="../../../author/rahman_a_rahimi"><b>Rahman</b>&nbsp;Rahimi</a></span>, <a href="../../../author/algahtany_mohammed"><b>Algahtany</b>&nbsp;Mohammed</a></span>, <a href="../../../author/alias_rizal_ahmad"><b>Alias</b>&nbsp;Ahmad</a></span><br>
 Contribution - Proceedings of the 5th International Conference on Structural Engineering and Construction Management, pp. 273-286
 
 <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Difficulties%20and%20Benefits%20of%20Implementing%203D%20Printing%20in%20Housing%20Development" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=difficulties+and+benefits+of+implementing+3d+printing+in+housing+development&as_occt=title&as_sauthors=shafei&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85215312910&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001420272000020" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70431-4_20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

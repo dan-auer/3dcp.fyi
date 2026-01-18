@@ -16,14 +16,15 @@ tags:
 ---
 
 #Numerical Simulation for 3D Printed Wall Structure During the Process of Printing Considering Uncertainty ([2021-06](date/2021/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://files.eccomasproceedia.org/papers/uncecomp-2021/UC21_18985.pdf?mtime=20210909183511) <a href="https://doi.org/10.7712/120221.8025.18985" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7712/120221.8025.18985" target="_blank">10.7712/120221.8025.18985</a>
+<a href="https://files.eccomasproceedia.org/papers/uncecomp-2021/UC21_18985.pdf?mtime=20210909183511" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.7712/120221.8025.18985" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7712/120221.8025.18985" target="_blank">10.7712/120221.8025.18985</a>
 
 <a href="../../../author/mengesha_meron"><b>Mengesha</b>&nbsp;Meron</a></span>, <a href="../../../author/schmidt_albrecht"><b>Schmidt</b>&nbsp;Albrecht</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1955-1024" title="ORCID: 0000-0003-1955-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gobel_luise"><b>Göbel</b>&nbsp;Luise</a></span>, <a href="../../../author/lahmer_tom"><b>Lahmer</b>&nbsp;Tom</a></span>, <a href="../../../author/konke_carsten"><b>Könke</b>&nbsp;Carsten</a></span><br>
 Contribution - Proceedings of the 4th International Conference on Uncertainty Quantification in Computational Sciences and Engineering, pp. 100-111
 
 <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20for%203D%20Printed%20Wall%20Structure%20During%20the%20Process%20of%20Printing%20Considering%20Uncertainty" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulation+for+3d+printed+wall+structure+during+the+process+of+printing+considering+uncertainty&as_occt=title&as_sauthors=mengesha&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7712/120221.8025.18985" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

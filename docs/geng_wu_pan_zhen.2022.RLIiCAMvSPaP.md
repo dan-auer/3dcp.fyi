@@ -18,14 +18,15 @@ tags:
 ---
 
 #Robust Layer Interface in Cement Additive Manufacturing via Silicate-Penetration and Precipitation ([2022-01](date/2022/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2022.110380) <a href="https://doi.org/10.1016/j.matdes.2022.110380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2022.110380" target="_blank">10.1016/j.matdes.2022.110380</a>
+<a href="https://doi.org/10.1016/j.matdes.2022.110380" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2022.110380" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2022.110380" target="_blank">10.1016/j.matdes.2022.110380</a>
 
 <a href="../../../author/geng_zifan"><b>Geng</b>&nbsp;Zifan</a></span>, <a href="../../../author/wu_peipei"><b>Wu</b>&nbsp;Peipei</a></span>, <a href="../../../author/pan_hao"><b>Pan</b>&nbsp;Hao</a></span>, <a href="../../../author/zheng_qi"><b>Zheng</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2820-6559" title="ORCID: 0000-0002-2820-6559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_wenqiang"><b>Zuo</b>&nbsp;Wenqiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6516-655X" title="ORCID: 0000-0002-6516-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_wenhua"><b>Zhang</b>&nbsp;Wenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6959-1625" title="ORCID: 0000-0002-6959-1625" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/she_wei"><b>She</b>&nbsp;Wei</a></span><br>
 Journal Article - Materials & Design, Vol. 214
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robust%20Layer%20Interface%20in%20Cement%20Additive%20Manufacturing%20via%20Silicate-Penetration%20and%20Precipitation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robust+layer+interface+in+cement+additive+manufacturing+via+silicate-penetration+and+precipitation&as_occt=title&as_sauthors=geng&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122451136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000744020600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2022.110380" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

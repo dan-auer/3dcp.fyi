@@ -9,6 +9,60 @@ search:
 
 #  Menna Costantino 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9528-1324" target="_blank">0000-0001-9528-1324</a>
+
+    First Contribution
+    : 2018-03-20
+    
+    Last Contribution
+    : 2025-10-21
+
+    Number Contributions
+    : 29
+
+    Number Citations
+    : 1153
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> (16)</li>
+        <li><a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a> (11)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
+        <li><a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a> (292)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (74)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (60)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (52)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (43)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (52)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (43)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (42)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (40)</li>
+        <li><a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> (38)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bianco_nicola"><b>Bianco</b> Nicola</a>, <a href="../../../author/fragnito_andrea"><b>Fragnito</b> Andrea</a>, <a href="../../../author/iasiello_marcello"><b>Iasiello</b> Marcello</a>, <a href="../../../author/mauro_maria_gerardo"><b>Mauro</b> Gerardo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bian_frag_iasi_maur.2025.NAoa3PCEIPN/">Numerical Analysis of a 3D Printed Concrete Envelope Incorporating PCM Nanoparticles</a></li>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>

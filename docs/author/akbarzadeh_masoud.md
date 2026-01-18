@@ -9,6 +9,60 @@ search:
 
 #  Akbarzadeh Masoud 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6402-615X" target="_blank">0000-0002-6402-615X</a>
+
+    First Contribution
+    : 2024-04-04
+    
+    Last Contribution
+    : 2025-11-26
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 15
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (10)</li>
+        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (7)</li>
+        <li><a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a> (5)</li>
+        <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> (5)</li>
+        <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (8)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
+        <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (1)</li>
+        <li><a href="../../../author/garcia_ader"><b>Garcia</b> Ader</a> (1)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
+        <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (1)</li>
+        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>

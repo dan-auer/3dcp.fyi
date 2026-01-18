@@ -20,14 +20,15 @@ tags:
 
 #BIM-Enabled Computerized Design and Digital Fabrication of Industrialized Buildings&nbsp;([2020-08](date/2020/08))
 <div class="h1-like">A Case Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2020.123505" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2020.123505" target="_blank">10.1016/j.jclepro.2020.123505</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jclepro.2020.123505" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2020.123505" target="_blank">10.1016/j.jclepro.2020.123505</a>
 
 <a href="../../../author/he_rui"><b>He</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3617-4083" title="ORCID: 0000-0002-3617-4083" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mingkai"><b>Li</b>&nbsp;Mingkai</a></span>, <a href="../../../author/gan_jl_vincent"><b>Gan</b>&nbsp;Vincent</a></span>, <a href="../../../author/ma_jun"><b>Ma</b>&nbsp;Jun</a></span><br>
 Journal Article - Journal of Cleaner Production, Vol. 278
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=BIM-Enabled%20Computerized%20Design%20and%20Digital%20Fabrication%20of%20Industrialized%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bim-enabled+computerized+design+and+digital+fabrication+of+industrialized+buildings&as_occt=title&as_sauthors=he&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85089736108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000595260600013" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jclepro.2020.123505" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

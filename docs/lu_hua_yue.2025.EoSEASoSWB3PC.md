@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Spherical Electric Arc Slag on Solid Waste-Based 3D-Printed Concrete ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/app152211933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152211933" target="_blank">10.3390/app152211933</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app152211933" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app152211933" target="_blank">10.3390/app152211933</a>
 
 <a href="../../../author/lu_qi"><b>Lu</b>&nbsp;Qi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span><br>
 Journal Article - Applied Sciences, Vol. 15, Iss. 22, No. 11933
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/sphere"><button class="btn">#sphere</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Spherical%20Electric%20Arc%20Slag%20on%20Solid%20Waste-Based%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+spherical+electric+arc+slag+on+solid+waste-based+3d-printed+concrete&as_occt=title&as_sauthors=lu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022978664&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001623425600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app152211933" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

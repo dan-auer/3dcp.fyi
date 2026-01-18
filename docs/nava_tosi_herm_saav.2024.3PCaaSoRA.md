@@ -20,14 +20,15 @@ tags:
 
 #3D Printed Concrete as a Source of Recycled Aggregates&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">Potential for Multi-Recycling and CO2 Sequestration</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.7764/ric.00130.21) <a href="https://doi.org/10.7764/ric.00130.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7764/ric.00130.21" target="_blank">10.7764/ric.00130.21</a>
+<a href="https://doi.org/10.7764/ric.00130.21" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.7764/ric.00130.21" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7764/ric.00130.21" target="_blank">10.7764/ric.00130.21</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0242-8804" title="ORCID: 0000-0003-0242-8804" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tosic_nikola"><b>Tošić</b>&nbsp;Nikola</a></span>, <a href="../../../author/hermida_luis_jose"><b>Hermida</b>&nbsp;José</a></span>, <a href="../../../author/saavedra_ruth"><b>Saavedra</b>&nbsp;Ruth</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2208-6207" title="ORCID: 0000-0003-2208-6207" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/etxeberria_miren"><b>Etxeberria</b>&nbsp;Miren</a></span><br>
 Journal Article - Revista Ingeniería de Construcción, Vol. 39, pp. 1-8
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/source"><button class="btn">#source</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20as%20a%20Source%20of%20Recycled%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete+as+a+source+of+recycled+aggregates&as_occt=title&as_sauthors=navarrete&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001549553&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001399879000003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7764/ric.00130.21" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

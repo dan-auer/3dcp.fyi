@@ -9,6 +9,60 @@ search:
 
 #  Yu Kequan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8396-4213" target="_blank">0000-0002-8396-4213</a>
+
+    First Contribution
+    : 2020-04-07
+    
+    Last Contribution
+    : 2025-11-04
+
+    Number Contributions
+    : 26
+
+    Number Citations
+    : 814
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (12)</li>
+        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (8)</li>
+        <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a> (6)</li>
+        <li><a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> (6)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../li_bos_yu_mcge.2020.OtEo3PESHCC/">On the Emergence of 3D Printable Engineered, Strain-Hardening Cementitious Composites</a> (191)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (90)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (71)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (64)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (56)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (30)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (29)</li>
+        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (29)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (27)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>

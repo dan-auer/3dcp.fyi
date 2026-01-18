@@ -19,14 +19,15 @@ tags:
 ---
 
 #Determining Printable Zone of Three-Dimensional-Printable Mortar Using Flow-Table Tests ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51733106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733106" target="_blank">10.14359/51733106</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51733106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733106" target="_blank">10.14359/51733106</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wi_kwangwoo"><b>Wi</b>&nbsp;Kwangwoo</a></span>, <a href="../../../author/hong_jinxiang"><b>Hong</b>&nbsp;Jinxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 75-85
 
 <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/table"><button class="btn">#table</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Determining%20Printable%20Zone%20of%20Three-Dimensional-Printable%20Mortar%20Using%20Flow-Table%20Tests" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=determining+printable+zone+of+three-dimensional-printable+mortar+using+flow-table+tests&as_occt=title&as_sauthors=wi&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122129835&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51733106" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

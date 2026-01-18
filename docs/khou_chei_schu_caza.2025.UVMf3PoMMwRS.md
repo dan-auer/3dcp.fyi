@@ -15,14 +15,15 @@ tags:
 ---
 
 #Using Vacuum Mixing for 3D Printing of Mortars Made with Recycled Sand ([2025-11](date/2025/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/23/4217/pdf?version=1763735076) <a href="https://doi.org/10.3390/buildings15234217" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15234217" target="_blank">10.3390/buildings15234217</a>
+<a href="https://www.mdpi.com/2075-5309/15/23/4217/pdf?version=1763735076" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15234217" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15234217" target="_blank">10.3390/buildings15234217</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-6767-0836" title="ORCID: 0009-0006-6767-0836" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoury_eliane"><b>Khoury</b>&nbsp;Eliane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3841-3196" title="ORCID: 0000-0003-3841-3196" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheikh_khadija"><b>el&nbsp;Cheikh</b>&nbsp;Khadija</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1191-5145" title="ORCID: 0000-0003-1191-5145" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b>&nbsp;Bogdan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 23, No. 4217
 
 <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Using%20Vacuum%20Mixing%20for%203D%20Printing%20of%20Mortars%20Made%20with%20Recycled%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=using+vacuum+mixing+for+3d+printing+of+mortars+made+with+recycled+sand&as_occt=title&as_sauthors=khoury&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15234217" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/aim64088.2025.11175861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/aim64088.2025.11175861" target="_blank">10.1109/aim64088.2025.11175861</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/aim64088.2025.11175861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/aim64088.2025.11175861" target="_blank">10.1109/aim64088.2025.11175861</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7841-4321" title="ORCID: 0000-0002-7841-4321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_xinrui"><b>Yang</b>&nbsp;Xinrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0169-5396" title="ORCID: 0000-0003-0169-5396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakhal_othman"><b>Lakhal</b>&nbsp;Othman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7331-1502" title="ORCID: 0000-0001-7331-1502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/belarouci_abdelkader"><b>Belarouci</b>&nbsp;Abdelkader</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9153-6078" title="ORCID: 0000-0001-9153-6078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/merzouki_rochdi"><b>Merzouki</b>&nbsp;Rochdi</a></span><br>
 Contribution - Proceedings of the 2025 IEEE/ASME International Conference on Advanced Intelligent Mechatronics, pp. 1-6
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/imperfection"><button class="btn">#imperfection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Qualitative%20Diagnosis%20to%20Adaptive%20Compensation%20for%20Filament%20Imperfections%20During%20On-Site%20Robotic%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+qualitative+diagnosis+to+adaptive+compensation+for+filament+imperfections+during+on-site+robotic+3d+printing&as_occt=title&as_sauthors=yang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018740377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/aim64088.2025.11175861" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

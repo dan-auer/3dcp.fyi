@@ -22,14 +22,15 @@ tags:
 
 #Reinforcement Bond Performance in 3D Concrete Printing&nbsp;([2023-11](date/2023/11))
 <div class="h1-like">Explainable Ensemble Learning Augmented by Deep Generative Adversarial Networks</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105164" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105164" target="_blank">10.1016/j.autcon.2023.105164</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2023.105164" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105164" target="_blank">10.1016/j.autcon.2023.105164</a>
 
 <a href="../../../author/wang_xianlin"><b>Wang</b>&nbsp;Xianlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5392-7972" title="ORCID: 0000-0002-5392-7972" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banthia_nemkumar"><b>Banthia</b>&nbsp;Nemkumar</a></span>, <a href="../../../author/yoo_doo-yeol"><b>Yoo</b>&nbsp;Doo-Yeol</a></span><br>
 Journal Article - Automation in Construction, No. 105164
 
 <a href="../../keyword/augmentation"><button class="btn">#augmentation</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/depth"><button class="btn">#depth</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/network"><button class="btn">#network</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20Bond%20Performance%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reinforcement+bond+performance+in+3d+concrete+printing&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85180417641&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001140019200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2023.105164" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

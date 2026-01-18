@@ -16,14 +16,15 @@ tags:
 ---
 
 #3DK Competence Center Investigates the Potentials of Contour Crafting ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s42411-021-0473-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42411-021-0473-9" target="_blank">10.1007/s42411-021-0473-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42411-021-0473-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42411-021-0473-9" target="_blank">10.1007/s42411-021-0473-9</a>
 
 <a href="../../../author/klein_lee"><b>Klein</b>&nbsp;Lee</a></span>, <a href="../../../author/holleyn_florian"><b>Holleyn</b>&nbsp;Florian</a></span>, <a href="../../../author/zimmer_sinje"><b>Zimmer</b>&nbsp;Sinje</a></span>, <a href="../../../author/krause_olaf"><b>Krause</b>&nbsp;Olaf</a></span><br>
 Journal Article - International Ceramic Review, Vol. 70, Iss. 4, pp. 28-35
 
 <a href="../../keyword/center"><button class="btn">#center</button></a> <a href="../../keyword/competence"><button class="btn">#competence</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3DK%20Competence%20Center%20Investigates%20the%20Potentials%20of%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3dk+competence+center+investigates+the+potentials+of+contour+crafting&as_occt=title&as_sauthors=klein&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119375354&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42411-021-0473-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

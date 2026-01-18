@@ -8,6 +8,10 @@ search:
 
 # #mode
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/failure"><button class="btn">#failure (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/trung-hieu_tran_nguyen"><b>Trung Hieu</b> Nguyen</a>, <a href="../../../author/minh-trieu_nguyen"><b>Minh Trieu</b> Nguyen</a>, <a href="../../../author/dang_dung_tri"><b>Dang</b> Tri</a>, <a href="../../../author/thinh_truong_nguyen"><b>Thinh</b> Nguyen</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../trun_minh_dang_thin.2025.ASMCSfHP3CP/">Advanced Sliding Mode Control Strategy for High-Performance 3D Concrete Printing</a></li>
   <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>

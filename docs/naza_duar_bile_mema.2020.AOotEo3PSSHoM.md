@@ -25,7 +25,7 @@ Contribution - Proceedings of the 5th Residential Building Design & Construction
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Overview%20of%20the%20Execution%20of%203D%20Printed%20Sub-Scale%20Habitat%20on%20Mars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+overview+of+the+execution+of+3d+printed+sub-scale+habitat+on+mars&as_occt=title&as_sauthors=nazarian&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

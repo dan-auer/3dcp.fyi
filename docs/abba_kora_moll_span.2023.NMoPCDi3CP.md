@@ -16,14 +16,15 @@ tags:
 ---
 
 #Numerical Modelling of Planned Corner-Deposition in 3D Concrete Printing ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/335411401/071-079-3-Abbaoui-40108.pdf) <a href="https://doi.org/10.5604/01.3001.0053.8488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5604/01.3001.0053.8488" target="_blank">10.5604/01.3001.0053.8488</a>
+<a href="https://backend.orbit.dtu.dk/ws/files/335411401/071-079-3-Abbaoui-40108.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5604/01.3001.0053.8488" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5604/01.3001.0053.8488" target="_blank">10.5604/01.3001.0053.8488</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abbaoui_khalid"><b>el&nbsp;Abbaoui</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korachi_issam"><b>al&nbsp;Korachi</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
 Journal Article - Archives of Materials Science and Engineering, Vol. 121, Iss. 2, pp. 71-79
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corner"><button class="btn">#corner</button></a> <a href="../../keyword/deposition"><button class="btn">#deposition</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Modelling%20of%20Planned%20Corner-Deposition%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+modelling+of+planned+corner-deposition+in+3d+concrete+printing&as_occt=title&as_sauthors=abbaoui&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85168972060&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5604/01.3001.0053.8488" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #A Bibliometric Analysis on 3D Printed Concrete in Architecture ([2021-08](date/2021/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-75235-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-75235-4_5" target="_blank">10.1007/978-3-030-75235-4_5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-75235-4_5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-75235-4_5" target="_blank">10.1007/978-3-030-75235-4_5</a>
 
 <a href="../../../author/gulle_banu_nur"><b>Gülle</b>&nbsp;Nur</a></span>, <a href="../../../author/selcuk_arslan_semra"><b>Selçuk</b>&nbsp;Semra</a></span><br>
 Contribution - Sustainability for 3D Printing, pp. 77-104
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Bibliometric%20Analysis%20on%203D%20Printed%20Concrete%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+bibliometric+analysis+on+3d+printed+concrete+in+architecture&as_occt=title&as_sauthors=g%C3%BClle&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201283672&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-75235-4_5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

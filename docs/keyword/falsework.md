@@ -8,6 +8,10 @@ search:
 
 # #falsework
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly (1)</button></a> <a href="../../keyword/development"><button class="btn">#development (1)</button></a> <a href="../../keyword/earth"><button class="btn">#earth (1)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a>, <a href="../../../author/larianovsky_pavel"><b>Larianovsky</b> Pavel</a>, <a href="../../../author/bentur_arnon"><b>Bentur</b> Arnon</a>, <a href="../../../author/magdassi_shlomo"><b>Magdassi</b> Shlomo</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../meyu_lari_bent_magd.2025.MfEBFiMMAMaaAS/">Methods for Earth-Based Falsework in Multi-Material Additive Manufacturing at an Architectural Scale</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/pukhkaiev_dmytro"><b>Pukhkaiev</b> Dmytro</a>, <a href="../../../author/reichle_mathias"><b>Reichle</b> Mathias</a>, <a href="../../../author/zhao_wanqi"><b>Zhao</b> Wanqi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ivan_pukh_reic_zhao.2025.RAoMCSUF/">Robotic Assembly of Modular Concrete Shells Using Falsework</a></li>

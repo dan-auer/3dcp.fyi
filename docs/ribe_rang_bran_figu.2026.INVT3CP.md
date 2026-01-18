@@ -15,14 +15,15 @@ tags:
 ---
 
 #Improving Natural Ventilation Through 3D Concrete Printing ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_44" target="_blank">10.1007/978-981-95-1822-7_44</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_44" target="_blank">10.1007/978-981-95-1822-7_44</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-5795-0229" title="ORCID: 0009-0002-5795-0229" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_elis"><b>Ribeiro</b>&nbsp;Elis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3378-0176" title="ORCID: 0000-0002-3378-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b>&nbsp;Filipe</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6371-0179" title="ORCID: 0000-0002-6371-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maia_lino"><b>Maia</b>&nbsp;Lino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8111-6990" title="ORCID: 0000-0002-8111-6990" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tavares_vanessa"><b>Tavares</b>&nbsp;Vanessa</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 423-431
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/natural"><button class="btn">#natural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ventilation"><button class="btn">#ventilation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20Natural%20Ventilation%20Through%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+natural+ventilation+through+3d+concrete+printing&as_occt=title&as_sauthors=ribeiro&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_44" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

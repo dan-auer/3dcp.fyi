@@ -18,14 +18,15 @@ tags:
 ---
 
 #Volume-Forming 3D Concrete Printing Using a Variable-Size Square Nozzle ([2019-04](date/2019/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.03.008" target="_blank">10.1016/j.autcon.2019.03.008</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2019.03.008" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.03.008" target="_blank">10.1016/j.autcon.2019.03.008</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3177-8897" title="ORCID: 0000-0003-3177-8897" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cai_lixiong"><b>Cai</b>&nbsp;Lixiong</a></span>, <a href="../../../author/zhang_lichao"><b>Zhang</b>&nbsp;Lichao</a></span>, <a href="../../../author/luo_hanbin"><b>Luo</b>&nbsp;Hanbin</a></span>, <a href="../../../author/qin_wenbo"><b>Qin</b>&nbsp;Wenbo</a></span><br>
 Journal Article - Automation in Construction, Vol. 104, pp. 95-106
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/square"><button class="btn">#square</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Volume-Forming%203D%20Concrete%20Printing%20Using%20a%20Variable-Size%20Square%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=volume-forming+3d+concrete+printing+using+a+variable-size+square+nozzle&as_occt=title&as_sauthors=xu&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85064436282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000471083600008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2019.03.008" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

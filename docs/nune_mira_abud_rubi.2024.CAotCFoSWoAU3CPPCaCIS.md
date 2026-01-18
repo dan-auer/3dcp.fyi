@@ -19,14 +19,15 @@ tags:
 ---
 
 #Comparative Analysis of the Construction Feasibility of Special Works of Art Using 3D Concrete Printing, Prefabricated Concrete, and Cast In-Situ ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.5151/siintec2024-393176" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/siintec2024-393176" target="_blank">10.5151/siintec2024-393176</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.5151/siintec2024-393176" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/siintec2024-393176" target="_blank">10.5151/siintec2024-393176</a>
 
 <a href="../../../author/nunes_amorim_lavynia"><b>Nunes</b>&nbsp;Lavynia</a></span>, <a href="../../../author/miranda-freitas_juan-oliveira"><b>de&nbsp;Miranda Freitas</b>&nbsp;Juan Oliveira</a></span>, <a href="../../../author/abud-vilanova_victor-britto_joao"><b>Abud Vilanova</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5636-5023" title="ORCID: 0000-0001-5636-5023" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rubin_prevedello_ariane"><b>Rubin</b>&nbsp;Ariane</a></span><br>
 Contribution - Blucher Engineering Proceedings, pp. 538-545
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/situ"><button class="btn">#situ</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20the%20Construction%20Feasibility%20of%20Special%20Works%20of%20Art%20Using%203D%20Concrete%20Printing%2C%20Prefabricated%20Concrete%2C%20and%20Cast%20In-Situ" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+analysis+of+the+construction+feasibility+of+special+works+of+art+using+3d+concrete+printing%2C+prefabricated+concrete%2C+and+cast+in-situ&as_occt=title&as_sauthors=nunes&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5151/siintec2024-393176" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

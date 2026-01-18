@@ -21,14 +21,15 @@ tags:
 ---
 
 #Static and Dynamic Mechanical Characteristics of 3D Printed Anisotropic Basalt Fiber-Reinforced Cement Mortar ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111692" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111692" target="_blank">10.1016/j.jobe.2024.111692</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111692" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111692" target="_blank">10.1016/j.jobe.2024.111692</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7054-7293" title="ORCID: 0000-0002-7054-7293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yeou-fong"><b>Li</b>&nbsp;Yeou-Fong</a></span>, <a href="../../../author/liang_yu-fang"><b>Liang</b>&nbsp;Yu-Fang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8859-3693" title="ORCID: 0000-0002-8859-3693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/syu_jin-yuan"><b>Syu</b>&nbsp;Jin-Yuan</a></span>, <a href="../../../author/huang_chi-hong"><b>Huang</b>&nbsp;Chi-Hong</a></span>, <a href="../../../author/tsai_ying-kuan"><b>Tsai</b>&nbsp;Ying-Kuan</a></span>, <a href="../../../author/lok_man-hoi"><b>Lok</b>&nbsp;Man-Hoi</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111692
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Static%20and%20Dynamic%20Mechanical%20Characteristics%20of%203D%20Printed%20Anisotropic%20Basalt%20Fiber-Reinforced%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=static+and+dynamic+mechanical+characteristics+of+3d+printed+anisotropic+basalt+fiber-reinforced+cement+mortar&as_occt=title&as_sauthors=li&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214224625&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001419869900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111692" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

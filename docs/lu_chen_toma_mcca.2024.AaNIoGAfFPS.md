@@ -16,14 +16,15 @@ tags:
 ---
 
 #Analytical and Numerical Investigation of Gravity Anchors for Floating Photovoltaic Systems ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.oceaneng.2024.119591) <a href="https://doi.org/10.1016/j.oceaneng.2024.119591" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.oceaneng.2024.119591" target="_blank">10.1016/j.oceaneng.2024.119591</a>
+<a href="https://doi.org/10.1016/j.oceaneng.2024.119591" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.oceaneng.2024.119591" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.oceaneng.2024.119591" target="_blank">10.1016/j.oceaneng.2024.119591</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9130-5683" title="ORCID: 0000-0001-9130-5683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lu_yu"><b>Lu</b>&nbsp;Yu</a></span>, <a href="../../../author/chen_haohua"><b>Chen</b>&nbsp;Haohua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7969-9525" title="ORCID: 0000-0002-7969-9525" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tomac_ingrid"><b>Tomac</b>&nbsp;Ingrid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2109-0378" title="ORCID: 0000-0003-2109-0378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mccartney_s_john"><b>McCartney</b>&nbsp;John</a></span><br>
 Journal Article - Ocean Engineering, Vol. 313, No. 119591
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/anchor"><button class="btn">#anchor</button></a> <a href="../../keyword/gravity"><button class="btn">#gravity</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analytical%20and%20Numerical%20Investigation%20of%20Gravity%20Anchors%20for%20Floating%20Photovoltaic%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analytical+and+numerical+investigation+of+gravity+anchors+for+floating+photovoltaic+systems&as_occt=title&as_sauthors=lu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207066513&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001343898400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.oceaneng.2024.119591" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Feasibility Study of the Use of Polymer-Modified Cement Composites as 3D Concrete Printing-Material ([2018-05](date/2018/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-78175-4_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-78175-4_3" target="_blank">10.1007/978-3-319-78175-4_3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-78175-4_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-78175-4_3" target="_blank">10.1007/978-3-319-78175-4_3</a>
 
 <a href="../../../author/yeon_kyu-seok"><b>Yeon</b>&nbsp;Kyu-Seok</a></span>, <a href="../../../author/kim_kyu_kwan"><b>Kim</b>&nbsp;Kwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span><br>
 Contribution - Proceedings of the International Congress on Polymers in Concrete, pp. 27-36
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%20the%20Use%20of%20Polymer-Modified%20Cement%20Composites%20as%203D%20Concrete%20Printing-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+study+of+the+use+of+polymer-modified+cement+composites+as+3d+concrete+printing-material&as_occt=title&as_sauthors=yeon&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-78175-4_3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Enhancing the Mix Design in 3D Concrete Printing Through Systematic Optimization Process ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92029-5_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92029-5_3" target="_blank">10.1007/978-3-031-92029-5_3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-92029-5_3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92029-5_3" target="_blank">10.1007/978-3-031-92029-5_3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9631-5485" title="ORCID: 0000-0001-9631-5485" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b>&nbsp;Mohammad</a></span>, <a href="../../../author/amjad_umar"><b>Amjad</b>&nbsp;Umar</a></span>, <a href="../../../author/kumar_kishor"><b>Kumar</b>&nbsp;Kishor</a></span>, <a href="../../../author/john_john"><b>John</b>&nbsp;John</a></span>, <a href="../../../author/albeitjali_naeem"><b>Albeitjali</b>&nbsp;Naeem</a></span>, <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b>&nbsp;Khadeejath</a></span><br>
 Contribution - Proceedings of the International Conferences on Digital Technology Driven Engineering 2024, pp. 22-33
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20the%20Mix%20Design%20in%203D%20Concrete%20Printing%20Through%20Systematic%20Optimization%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+the+mix+design+in+3d+concrete+printing+through+systematic+optimization+process&as_occt=title&as_sauthors=irshidat&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010151282&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-92029-5_3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

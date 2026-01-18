@@ -18,14 +18,15 @@ tags:
 
 #The Disruptive Technology That Is Additive Construction&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">System Development Lessons Learned for Terrestrial and Planetary Applications</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ntrs.nasa.gov/api/citations/20180006817/downloads/20180006817.pdf) <a href="https://doi.org/10.2514/6.2018-5127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2018-5127" target="_blank">10.2514/6.2018-5127</a>
+<a href="https://ntrs.nasa.gov/api/citations/20180006817/downloads/20180006817.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2514/6.2018-5127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2514/6.2018-5127" target="_blank">10.2514/6.2018-5127</a>
 
 <a href="../../../author/fiske_r_michael"><b>Fiske</b>&nbsp;Michael</a></span>, <a href="../../../author/edmunson_e_jennifer"><b>Edmunson</b>&nbsp;Jennifer</a></span>, <a href="../../../author/weite_edward"><b>Weite</b>&nbsp;Edward</a></span>, <a href="../../../author/fikes_c_john"><b>Fikes</b>&nbsp;John</a></span>, <a href="../../../author/johnston_mallory"><b>Johnston</b>&nbsp;Mallory</a></span>, <a href="../../../author/mueller_p_robert"><b>Mueller</b>&nbsp;Robert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Contribution - Proceedings of 2018 AIAA SPACE and Astronautics Forum and Exposition
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/planetary"><button class="btn">#planetary</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Disruptive%20Technology%20That%20Is%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+disruptive+technology+that+is+additive+construction&as_occt=title&as_sauthors=fiske&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85056197293&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2514/6.2018-5127" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

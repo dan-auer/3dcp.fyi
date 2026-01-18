@@ -17,14 +17,15 @@ tags:
 ---
 
 #Preliminary Study of the Fresh and Hard Properties of UHPC That Is Used to Produce 3D Printed Mortar ([2022-04](date/2022/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/8/2750/pdf?version=1649664845) <a href="https://doi.org/10.3390/ma15082750" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15082750" target="_blank">10.3390/ma15082750</a>
+<a href="https://www.mdpi.com/1996-1944/15/8/2750/pdf?version=1649664845" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma15082750" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15082750" target="_blank">10.3390/ma15082750</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2856-4081" title="ORCID: 0000-0002-2856-4081" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gimenez-carbo_ester"><b>Gimenez-Carbo</b>&nbsp;Ester</a></span>, <a href="../../../author/torres_raquel"><b>Torres</b>&nbsp;Raquel</a></span>, <a href="../../../author/coll_hugo"><b>Coll</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1067-1276" title="ORCID: 0000-0002-1067-1276" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roig-flores_marta"><b>Roig-Flores</b>&nbsp;Marta</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8754-1165" title="ORCID: 0000-0001-8754-1165" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/serna_pedro"><b>Serna</b>&nbsp;Pedro</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5749-4609" title="ORCID: 0000-0002-5749-4609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soriano_lourdes"><b>Soriano</b>&nbsp;Lourdes</a></span><br>
 Journal Article - Materials, Vol. 15, Iss. 8
 
 <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preliminary%20Study%20of%20the%20Fresh%20and%20Hard%20Properties%20of%20UHPC%20That%20Is%20Used%20to%20Produce%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preliminary+study+of+the+fresh+and+hard+properties+of+uhpc+that+is+used+to+produce+3d+printed+mortar&as_occt=title&as_sauthors=gimenez-carbo&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128675870&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000786887100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma15082750" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

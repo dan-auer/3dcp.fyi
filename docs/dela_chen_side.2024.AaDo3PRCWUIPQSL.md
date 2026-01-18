@@ -20,14 +20,15 @@ tags:
 ---
 
 #Analysis and Design of 3D Printed Reinforced Concrete Walls Under In-Plane Quasi-Static Loading ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2024.117535" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.117535" target="_blank">10.1016/j.engstruct.2024.117535</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2024.117535" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2024.117535" target="_blank">10.1016/j.engstruct.2024.117535</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4688-1224" title="ORCID: 0000-0002-4688-1224" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b>&nbsp;Mohammad</a></span>, <a href="../../../author/chen_h"><b>Chen</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1183-7397" title="ORCID: 0000-0002-1183-7397" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sideris_petros"><b>Sideris</b>&nbsp;Petros</a></span><br>
 Journal Article - Engineering Structures, Vol. 303, No. 117535
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quasi"><button class="btn">#quasi</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20and%20Design%20of%203D%20Printed%20Reinforced%20Concrete%20Walls%20Under%20In-Plane%20Quasi-Static%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+and+design+of+3d+printed+reinforced+concrete+walls+under+in-plane+quasi-static+loading&as_occt=title&as_sauthors=delavar&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183450023&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001173524100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2024.117535" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

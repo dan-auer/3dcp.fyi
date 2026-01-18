@@ -14,14 +14,15 @@ tags:
 ---
 
 #3D Printed Cement Composites Testing ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.4028/p-qfstv6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4028/p-qfstv6" target="_blank">10.4028/p-qfstv6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.4028/p-qfstv6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4028/p-qfstv6" target="_blank">10.4028/p-qfstv6</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2946-4672" title="ORCID: 0000-0002-2946-4672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jancarikova_denisa"><b>Jancarikova</b>&nbsp;Denisa</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0178-6562" title="ORCID: 0000-0003-0178-6562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khongova_ingrid"><b>Khongova</b>&nbsp;Ingrid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8398-2000" title="ORCID: 0000-0001-8398-2000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bibora_petr"><b>Bibora</b>&nbsp;Petr</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4551-2929" title="ORCID: 0000-0002-4551-2929" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szklorzova_halina"><b>Szklorzova</b>&nbsp;Halina</a></span><br>
 Journal Article - Defect and Diffusion Forum, Vol. 432, pp. 17-24
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Cement%20Composites%20Testing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+cement+composites+testing&as_occt=title&as_sauthors=jancarikova&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189862108&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4028/p-qfstv6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

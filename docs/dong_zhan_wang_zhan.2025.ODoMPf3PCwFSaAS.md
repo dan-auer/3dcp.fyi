@@ -18,14 +18,15 @@ tags:
 ---
 
 #Optimal Design of Mix Proportions for 3D Printed Concrete with Ferrochrome Slag and Aeolian Sand ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.113385" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113385" target="_blank">10.1016/j.jobe.2025.113385</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.113385" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.113385" target="_blank">10.1016/j.jobe.2025.113385</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4187-1999" title="ORCID: 0000-0003-4187-1999" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dong_wei"><b>Dong</b>&nbsp;Wei</a></span>, <a href="../../../author/zhang_changmin"><b>Zhang</b>&nbsp;Changmin</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1136-738X" title="ORCID: 0009-0005-1136-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_junfeng"><b>Wang</b>&nbsp;Junfeng</a></span>, <a href="../../../author/zhang_xinjie"><b>Zhang</b>&nbsp;Xinjie</a></span>, <a href="../../../author/hang_meiyan"><b>Hang</b>&nbsp;Meiyan</a></span>, <a href="../../../author/qu_shuqiang"><b>Qu</b>&nbsp;Shuqiang</a></span><br>
 Journal Article - Journal of Building Engineering, No. 113385
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/proportion"><button class="btn">#proportion</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimal%20Design%20of%20Mix%20Proportions%20for%203D%20Printed%20Concrete%20with%20Ferrochrome%20Slag%20and%20Aeolian%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimal+design+of+mix+proportions+for+3d+printed+concrete+with+ferrochrome+slag+and+aeolian+sand&as_occt=title&as_sauthors=dong&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105009855377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001529761700006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.113385" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

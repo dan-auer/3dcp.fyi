@@ -24,7 +24,7 @@ Contribution - Proceedings of the 1st International Conference on 3D Constructio
 
 <a href="../../keyword/curvature"><button class="btn">#curvature</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/single"><button class="btn">#single</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printing%20and%20Fabrication%20Processes%20of%20Curvature%20Single-Layered%20Wall%20House%20Printed%20by%203D%20Extrusion-Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printing+and+fabrication+processes+of+curvature+single-layered+wall+house+printed+by+3d+extrusion-printer&as_occt=title&as_sauthors=prasittisopin&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

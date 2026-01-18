@@ -9,6 +9,60 @@ search:
 
 #  Besklubova Svetlana 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-7192-0953" target="_blank">0000-0001-7192-0953</a>
+
+    First Contribution
+    : 2021-02-18
+    
+    Last Contribution
+    : 2025-12-19
+
+    Number Contributions
+    : 13
+
+    Number Citations
+    : 56
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (6)</li>
+        <li><a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> (6)</li>
+        <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a> (5)</li>
+        <li><a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> (5)</li>
+        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a>, <a href="../../../author/zhang_xueqing"><b>Zhang</b> Xueqing</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../besk_skib_zhan.2021.FA3PTAiC/">Factors Affecting 3D Printing Technology Adaptation in Construction</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (25)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (24)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (20)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (18)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (17)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> (3)</li>
+        <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (3)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
+        <li><a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b> James</a> (2)</li>
+        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/mustafa_ali"><b>Mustafa</b> Ali</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX/">Passive Determination of Anisotropic Compressive Strength of 3D Printed Concrete Using Multiple Neural Networks Enhanced with Explainable Machine Learning (XML)</a></li>

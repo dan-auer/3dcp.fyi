@@ -13,14 +13,15 @@ tags:
 ---
 
 #Fiber-Reinforcement During 3D Printing ([2014-10](date/2014/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2014.10.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2014.10.065" target="_blank">10.1016/j.matlet.2014.10.065</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2014.10.065" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2014.10.065" target="_blank">10.1016/j.matlet.2014.10.065</a>
 
 <a href="../../../author/christ_susanne"><b>Christ</b>&nbsp;Susanne</a></span>, <a href="../../../author/schnabel_martin"><b>Schnabel</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9907-7590" title="ORCID: 0000-0001-9907-7590" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vorndran_elke"><b>Vorndran</b>&nbsp;Elke</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3167-8466" title="ORCID: 0000-0003-3167-8466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/groll_jurgen"><b>Groll</b>&nbsp;Jürgen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2584-4176" title="ORCID: 0000-0002-2584-4176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gbureck_uwe"><b>Gbureck</b>&nbsp;Uwe</a></span><br>
 Journal Article - Materials Letters, Vol. 139, pp. 165-168
 
 <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fiber-Reinforcement%20During%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fiber-reinforcement+during+3d+printing&as_occt=title&as_sauthors=christ&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84908424134&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000345640300044" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2014.10.065" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

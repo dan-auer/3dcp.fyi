@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluating the Potential of High-Performance Concrete 3D Printed Affordable Zero Energy Homes ([2019-09](date/2019/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.26868/25222708.2019.211155" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.26868/25222708.2019.211155" target="_blank">10.26868/25222708.2019.211155</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.26868/25222708.2019.211155" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.26868/25222708.2019.211155" target="_blank">10.26868/25222708.2019.211155</a>
 
 <a href="../../../author/sanguinetti_paola"><b>Sanguinetti</b>&nbsp;Paola</a></span>, <a href="../../../author/almazam_ali_khaled"><b>Almazam</b>&nbsp;Khaled</a></span>, <a href="../../../author/humaidan_abdulmughni_omar"><b>Humaidan</b>&nbsp;Omar</a></span>, <a href="../../../author/colistra_james_joe"><b>Colistra</b>&nbsp;Joe</a></span>, <a href="../../../author/sanguinetti_paola"><b>Sanguinetti</b>&nbsp;Paola</a></span>, <a href="../../../author/almazam_ali_khaled"><b>Almazam</b>&nbsp;Khaled</a></span>, <a href="../../../author/humaidan_abdulmughni_omar"><b>Humaidan</b>&nbsp;Omar</a></span>, <a href="../../../author/colistra_james_joe"><b>Colistra</b>&nbsp;Joe</a></span><br>
 Contribution - Proceedings of the 16th International Conference of the International Building Performance Simulation Association, Building Simulation 2019, pp. 5068-5075
 
 <a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/zero"><button class="btn">#zero</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20the%20Potential%20of%20High-Performance%20Concrete%203D%20Printed%20Affordable%20Zero%20Energy%20Homes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+the+potential+of+high-performance+concrete+3d+printed+affordable+zero+energy+homes&as_occt=title&as_sauthors=sanguinetti&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000709431305018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.26868/25222708.2019.211155" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

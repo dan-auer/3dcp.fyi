@@ -22,14 +22,15 @@ tags:
 
 #3D Printing Earth&nbsp;([2024-03](date/2024/03))
 <div class="h1-like">Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" target="_blank">10.1016/j.conbuildmat.2024.135714</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.135714" target="_blank">10.1016/j.conbuildmat.2024.135714</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3902-1787" title="ORCID: 0000-0002-3902-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/curth_sandy_alexander"><b>Curth</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-3497-5989" title="ORCID: 0009-0004-3497-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pearl_natalie"><b>Pearl</b>&nbsp;Natalie</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-8985-8821" title="ORCID: 0009-0006-8985-8821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b>&nbsp;Angelica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7646-8505" title="ORCID: 0000-0001-7646-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mueller_t_caitlin"><b>Mueller</b>&nbsp;Caitlin</a></span>, <a href="../../../author/sass_lawrence"><b>Sass</b>&nbsp;Lawrence</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 421, No. 135714
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Earth" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+earth&as_occt=title&as_sauthors=curth&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187222942&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001203302000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.135714" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

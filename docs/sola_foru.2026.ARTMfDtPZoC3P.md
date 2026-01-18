@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Rheological Test Method for Determining the Printability Zone of Cementitious 3D Printers ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114566" target="_blank">10.1016/j.jobe.2025.114566</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114566" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114566" target="_blank">10.1016/j.jobe.2025.114566</a>
 
 <a href="../../../author/solaiappan_kamesh"><b>Solaiappan</b>&nbsp;Kamesh</a></span>, <a href="../../../author/foruzanmehr_reza_m"><b>Foruzanmehr</b>&nbsp;M.</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 117, No. 114566
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Rheological%20Test%20Method%20for%20Determining%20the%20Printability%20Zone%20of%20Cementitious%203D%20Printers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+rheological+test+method+for+determining+the+printability+zone+of+cementitious+3d+printers&as_occt=title&as_sauthors=solaiappan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022595349&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001630261300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114566" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

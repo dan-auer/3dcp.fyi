@@ -20,14 +20,15 @@ tags:
 ---
 
 #Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2022.105236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105236" target="_blank">10.1016/j.jobe.2022.105236</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2022.105236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2022.105236" target="_blank">10.1016/j.jobe.2022.105236</a>
 
 <a href="../../../author/qian_hao"><b>Qian</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0704-2655" title="ORCID: 0000-0002-0704-2655" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hua_sudong"><b>Hua</b>&nbsp;Sudong</a></span>, <a href="../../../author/yue_hongfei"><b>Yue</b>&nbsp;Hongfei</a></span>, <a href="../../../author/feng_guiyang"><b>Feng</b>&nbsp;Guiyang</a></span>, <a href="../../../author/qian_liying"><b>Qian</b>&nbsp;Liying</a></span>, <a href="../../../author/jiang_wenjia"><b>Jiang</b>&nbsp;WenJia</a></span>, <a href="../../../author/zhang_lili"><b>Zhang</b>&nbsp;Lili</a></span><br>
 Journal Article - Journal of Building Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/packing"><button class="btn">#packing</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Recycled%20Construction-Powder%20in%203D%20Concrete%20Printable%20Materials%20through%20Particle-Packing-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=utilization+of+recycled+construction-powder+in+3d+concrete+printable+materials+through+particle-packing-optimization&as_occt=title&as_sauthors=qian&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138123350&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000862897600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2022.105236" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

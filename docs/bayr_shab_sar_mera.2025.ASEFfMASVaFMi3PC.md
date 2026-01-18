@@ -20,14 +20,15 @@ tags:
 ---
 
 #A Semi-Empirical Framework for Modeling Anisotropy, Spatial Variation and Failure Mechanisms in 3D Printed Concrete ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" target="_blank">10.1016/j.conbuildmat.2025.142648</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.142648" target="_blank">10.1016/j.conbuildmat.2025.142648</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2300-9433" title="ORCID: 0000-0002-2300-9433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bayrak_tunga_alper"><b>Bayrak</b>&nbsp;Alper</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8556-3790" title="ORCID: 0000-0001-8556-3790" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shaban_nefize"><b>Shaban</b>&nbsp;Nefize</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8772-0497" title="ORCID: 0000-0001-8772-0497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saritas_afsin"><b>Sarıtaş</b>&nbsp;Afsin</a></span>, <a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b>&nbsp;Cagla</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 491, No. 142648
 
 <a href="../../keyword/anisotropy"><button class="btn">#anisotropy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/empirical"><button class="btn">#empirical</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Semi-Empirical%20Framework%20for%20Modeling%20Anisotropy%2C%20Spatial%20Variation%20and%20Failure%20Mechanisms%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+semi-empirical+framework+for+modeling+anisotropy%2C+spatial+variation+and+failure+mechanisms+in+3d+printed+concrete&as_occt=title&as_sauthors=bayrak&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011208075&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001539932400006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.142648" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,7 +22,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Case%20Study%20in%20Industrialized%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+case+study+in+industrialized+3d+printing&as_occt=title&as_sauthors=monkman&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408190923-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -43,8 +43,9 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
     </ol>
 </div>
 

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses ([2021-04](date/2021/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.101992" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.101992" target="_blank">10.1016/j.addma.2021.101992</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2021.101992" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.101992" target="_blank">10.1016/j.addma.2021.101992</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span>, <a href="../../../author/liu_yi"><b>Liu</b>&nbsp;Yi</a></span>, <a href="../../../author/yang_yu"><b>Yang</b>&nbsp;Yu</a></span>, <a href="../../../author/li_yanfeng"><b>Li</b>&nbsp;Yanfeng</a></span>, <a href="../../../author/bai_mingke"><b>Bai</b>&nbsp;Mingke</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 42
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bonding%20Performance%20of%203D%20Printing%20Concrete%20with%20Self-Locking%20Interfaces%20Exposed%20to%20Compression-Shear%20and%20Compression-Splitting%20Stresses" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bonding+performance+of+3d+printing+concrete+with+self-locking+interfaces+exposed+to+compression-shear+and+compression-splitting+stresses&as_occt=title&as_sauthors=wang&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104068337&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000663242100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2021.101992" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

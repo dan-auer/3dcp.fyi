@@ -20,14 +20,15 @@ tags:
 ---
 
 #Deformation Characteristics of Dense and Foamed Mortars Based on Cement and Gypsum-to-Cement Binders for 3D Printing ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" target="_blank">10.1016/j.conbuildmat.2023.133986</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.133986" target="_blank">10.1016/j.conbuildmat.2023.133986</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8376-5065" title="ORCID: 0000-0001-8376-5065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chernysheva_natalia"><b>Chernysheva</b>&nbsp;Natalia</a></span>, <a href="../../../author/shatalova_svetlana"><b>Shatalova</b>&nbsp;Svetlana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2378-3947" title="ORCID: 0000-0002-2378-3947" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lesovik_stanislavovich_valeriy"><b>Lesovik</b>&nbsp;Valeriy</a></span>, <a href="../../../author/kozlov_pavel"><b>Kozlov</b>&nbsp;Pavel</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 409, No. 133986
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Deformation%20Characteristics%20of%20Dense%20and%20Foamed%20Mortars%20Based%20on%20Cement%20and%20Gypsum-to-Cement%20Binders%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=deformation+characteristics+of+dense+and+foamed+mortars+based+on+cement+and+gypsum-to-cement+binders+for+3d+printing&as_occt=title&as_sauthors=chernysheva&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85177982759&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001150098500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.133986" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

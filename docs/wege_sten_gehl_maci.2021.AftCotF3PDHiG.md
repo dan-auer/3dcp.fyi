@@ -21,14 +21,15 @@ tags:
 
 #Approval for the Construction of the First 3D Printed Detached House in Germany&nbsp;([2021-12](date/2021/12))
 <div class="h1-like">Significance of Large-Scale Element Testing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200119" target="_blank">10.1520/stp163620200119</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163620200119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200119" target="_blank">10.1520/stp163620200119</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3762-5592" title="ORCID: 0000-0003-3762-5592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weger_daniel"><b>Weger</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8633-4305" title="ORCID: 0000-0002-8633-4305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stengel_thorsten"><b>Stengel</b>&nbsp;Thorsten</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span>, <a href="../../../author/maciejewski_yannick"><b>Maciejewski</b>&nbsp;Yannick</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span><br>
 Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 144-169
 
 <a href="../../keyword/approval"><button class="btn">#approval</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/first"><button class="btn">#first</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/significance"><button class="btn">#significance</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Approval%20for%20the%20Construction%20of%20the%20First%203D%20Printed%20Detached%20House%20in%20Germany" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=approval+for+the+construction+of+the+first+3d+printed+detached+house+in+germany&as_occt=title&as_sauthors=weger&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126024706&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163620200119" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

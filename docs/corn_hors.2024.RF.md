@@ -18,14 +18,15 @@ tags:
 
 #Reshaping Fabrication&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">A Case Study in Designing Carbon-Reduced Concrete Structures</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.30" target="_blank">10.2307/jj.11374766.30</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2307/jj.11374766.30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.30" target="_blank">10.2307/jj.11374766.30</a>
 
 <a href="../../../author/corneliusen_julie"><b>Corneliusen</b>&nbsp;Julie</a></span>, <a href="../../../author/horswill_duncan"><b>Horswill</b>&nbsp;Duncan</a></span><br>
 Contribution - Fabricate 2024, pp. 206-213
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reshaping%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reshaping+fabrication&as_occt=title&as_sauthors=corneliusen&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/jj.11374766.30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

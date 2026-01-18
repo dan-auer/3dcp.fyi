@@ -17,14 +17,15 @@ tags:
 ---
 
 #Acid Attack Performance of 3D Printing Nano-ZnO Modified Geopolymer Mortar ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jmrt.2025.09.226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.09.226" target="_blank">10.1016/j.jmrt.2025.09.226</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmrt.2025.09.226" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2025.09.226" target="_blank">10.1016/j.jmrt.2025.09.226</a>
 
 <a href="../../../author/safdar-gardezi_shujaa_syed"><b>Safdar Gardezi</b>&nbsp;Syed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9614-4708" title="ORCID: 0000-0002-9614-4708" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/haroglu_hasan"><b>Haroglu</b>&nbsp;Hasan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2140-2995" title="ORCID: 0000-0002-2140-2995" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coskun_ahmet"><b>Coskun</b>&nbsp;Ahmet</a></span><br>
 Journal Article - Journal of Materials Research and Technology
 
 <a href="../../keyword/acid"><button class="btn">#acid</button></a> <a href="../../keyword/attack"><button class="btn">#attack</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Acid%20Attack%20Performance%20of%203D%20Printing%20Nano-ZnO%20Modified%20Geopolymer%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=acid+attack+performance+of+3d+printing+nano-zno+modified+geopolymer+mortar&as_occt=title&as_sauthors=safdar+gardezi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021474771&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001586502900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmrt.2025.09.226" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

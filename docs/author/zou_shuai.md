@@ -9,6 +9,60 @@ search:
 
 #  Zou Shuai 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-1574-0269" target="_blank">0000-0002-1574-0269</a>
+
+    First Contribution
+    : 2020-06-27
+    
+    Last Contribution
+    : 2024-11-11
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 1093
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (8)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (7)</li>
+        <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> (3)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (236)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (53)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (38)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (36)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (35)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (34)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (90)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (60)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (42)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (30)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (26)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a></li>
   <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ye_taohua"><b>Ye</b> Taohua</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../hou_duan_ye_zou.2023.MPaPSo3PMwRP/">Mechanical Properties and Pore-Structure of 3D Printed Mortar with Recycled Powder</a></li>

@@ -21,14 +21,15 @@ tags:
 
 #3D Printing of Conventional and Geopolymer Concretes&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Advancements, Challenges, Future Directions, and Cost Analysis</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jsdccc.sceng-1636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsdccc.sceng-1636" target="_blank">10.1061/jsdccc.sceng-1636</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jsdccc.sceng-1636" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jsdccc.sceng-1636" target="_blank">10.1061/jsdccc.sceng-1636</a>
 
 <a href="../../../author/pour_k_arash"><b>Pour</b>&nbsp;Arash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2790-526X" title="ORCID: 0000-0002-2790-526X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farsangi_noroozinejad_ehsan"><b>Farsangi</b>&nbsp;Ehsan</a></span>, <a href="../../../author/yang_y_t"><b>Yang</b>&nbsp;T.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6950-1474" title="ORCID: 0000-0002-6950-1474" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_shaofan"><b>Li</b>&nbsp;Shaofan</a></span>, <a href="../../../author/hajirasouli_aso"><b>Hajirasouli</b>&nbsp;Aso</a></span>, <a href="../../../author/shirkhani_amir"><b>Shirkhani</b>&nbsp;Amir</a></span><br>
 Journal Article - Journal of Structural Design and Construction Practice, Vol. 30, Iss. 4
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Conventional%20and%20Geopolymer%20Concretes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+conventional+and+geopolymer+concretes&as_occt=title&as_sauthors=pour&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011364169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jsdccc.sceng-1636" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

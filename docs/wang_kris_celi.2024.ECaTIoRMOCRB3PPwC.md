@@ -20,14 +20,15 @@ tags:
 ---
 
 #Enhancing Carbonation and Thermal Insulation of Reactive Magnesium Oxide Cement (RMC)-Based 3D Printable Pastes with Cenospheres ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" target="_blank">10.1016/j.cemconcomp.2024.105559</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105559" target="_blank">10.1016/j.cemconcomp.2024.105559</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0705-483X" title="ORCID: 0000-0003-0705-483X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_xiangyu"><b>Wang</b>&nbsp;Xiangyu</a></span>, <a href="../../../author/krishnan_padmaja"><b>Krishnan</b>&nbsp;Padmaja</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7623-0943" title="ORCID: 0000-0001-7623-0943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/celik_kemal"><b>Celik</b>&nbsp;Kemal</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 150, No. 105559
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/cenosphere"><button class="btn">#cenosphere</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Enhancing%20Carbonation%20and%20Thermal%20Insulation%20of%20Reactive%20Magnesium%20Oxide%20Cement%20%28RMC%29-Based%203D%20Printable%20Pastes%20with%20Cenospheres" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=enhancing+carbonation+and+thermal+insulation+of+reactive+magnesium+oxide+cement+%28rmc%29-based+3d+printable+pastes+with+cenospheres&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191234476&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001234746100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105559" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

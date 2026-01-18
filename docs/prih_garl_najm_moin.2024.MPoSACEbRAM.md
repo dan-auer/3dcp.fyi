@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Performance of Sinusoidally Architected Concrete Enabled by Robotic Additive Manufacturing ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.112671) <a href="https://doi.org/10.1016/j.matdes.2024.112671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112671" target="_blank">10.1016/j.matdes.2024.112671</a>
+<a href="https://doi.org/10.1016/j.matdes.2024.112671" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2024.112671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.112671" target="_blank">10.1016/j.matdes.2024.112671</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0366-4211" title="ORCID: 0000-0002-0366-4211" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prihar_arjun"><b>Prihar</b>&nbsp;Arjun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6465-9504" title="ORCID: 0000-0002-6465-9504" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garlock_e-moreyra_maria"><b>Garlock</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3438-0449" title="ORCID: 0000-0002-3438-0449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/najmeddine_aimane"><b>Najmeddine</b>&nbsp;Aimane</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
 Journal Article - Materials & Design, Vol. 238, No. 112671
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20of%20Sinusoidally%20Architected%20Concrete%20Enabled%20by%20Robotic%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+performance+of+sinusoidally+architected+concrete+enabled+by+robotic+additive+manufacturing&as_occt=title&as_sauthors=prihar&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=EID not found for the given DOI&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001170930000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2024.112671" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

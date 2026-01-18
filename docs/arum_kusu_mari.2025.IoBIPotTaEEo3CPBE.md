@@ -19,14 +19,15 @@ tags:
 ---
 
 #Impact of Bioinspired Infill Pattern on the Thermal and Energy Efficiency of 3D Concrete Printed Building Envelope ([2025-09](date/2025/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-8945/5/3/77/pdf?version=1757309736) <a href="https://doi.org/10.3390/architecture5030077" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/architecture5030077" target="_blank">10.3390/architecture5030077</a>
+<a href="https://www.mdpi.com/2673-8945/5/3/77/pdf?version=1757309736" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/architecture5030077" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/architecture5030077" target="_blank">10.3390/architecture5030077</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0672-0899" title="ORCID: 0000-0002-0672-0899" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/arumugam_girirajan"><b>Arumugam</b>&nbsp;Girirajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5789-7467" title="ORCID: 0000-0002-5789-7467" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kusumo_camerlia-may-li"><b>Kusumo</b>&nbsp;Camerlia May Li</a></span>, <a href="../../../author/mari_salvi_tamil"><b>Mari</b>&nbsp;Tamil</a></span><br>
 Journal Article - Architecture, Vol. 5, Iss. 3, No. 77
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/envelope"><button class="btn">#envelope</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Bioinspired%20Infill%20Pattern%20on%20the%20Thermal%20and%20Energy%20Efficiency%20of%203D%20Concrete%20Printed%20Building%20Envelope" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+bioinspired+infill+pattern+on+the+thermal+and+energy+efficiency+of+3d+concrete+printed+building+envelope&as_occt=title&as_sauthors=arumugam&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017413782&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/architecture5030077" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

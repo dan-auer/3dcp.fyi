@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Thermo-Hygro Model to Determine the Factors Dictating Cold Joint Formation in 3D Printed Concrete ([2025-03](date/2025/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2025.107869) <a href="https://doi.org/10.1016/j.cemconres.2025.107869" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107869" target="_blank">10.1016/j.cemconres.2025.107869</a>
+<a href="https://doi.org/10.1016/j.cemconres.2025.107869" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2025.107869" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2025.107869" target="_blank">10.1016/j.cemconres.2025.107869</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5818-7320" title="ORCID: 0000-0001-5818-7320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hlobil_michal"><b>Hlobil</b>&nbsp;Michal</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-7530-3256" title="ORCID: 0009-0008-7530-3256" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/michel_luca"><b>Michel</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7244-7416" title="ORCID: 0000-0001-7244-7416" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pundir_mohit"><b>Pundir</b>&nbsp;Mohit</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3782-9368" title="ORCID: 0000-0003-3782-9368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kammer_s_david"><b>Kammer</b>&nbsp;David</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 193, No. 107869
 
 <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/determination"><button class="btn">#determination</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Thermo-Hygro%20Model%20to%20Determine%20the%20Factors%20Dictating%20Cold%20Joint%20Formation%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+thermo-hygro+model+to+determine+the+factors+dictating+cold+joint+formation+in+3d+printed+concrete&as_occt=title&as_sauthors=hlobil&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000432704&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001453222500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2025.107869" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

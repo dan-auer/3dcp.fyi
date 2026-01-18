@@ -23,14 +23,15 @@ tags:
 
 #Robotic Sand Shaping for Reusable Formworks&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">From Tool-Path Design to Emergent Shapes and Patterns in Cast Form</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.ecaade.2024.1.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.017" target="_blank">10.52842/conf.ecaade.2024.1.017</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2024.1.017" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2024.1.017" target="_blank">10.52842/conf.ecaade.2024.1.017</a>
 
 <a href="../../../author/cook_kieron"><b>Cook</b>&nbsp;Kieron</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4790-0394" title="ORCID: 0000-0002-4790-0394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b>&nbsp;Özgüç</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span><br>
 Contribution - Proceedings of the 42nd Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 17-24
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/emergent"><button class="btn">#emergent</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/reuse"><button class="btn">#reuse</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Sand%20Shaping%20for%20Reusable%20Formworks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+sand+shaping+for+reusable+formworks&as_occt=title&as_sauthors=cook&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209802115&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2024.1.017" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

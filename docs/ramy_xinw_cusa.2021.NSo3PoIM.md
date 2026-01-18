@@ -15,14 +15,15 @@ tags:
 ---
 
 #Numerical Simulation of 3D Printing of Infrastructure Materials ([2021-04](date/2021/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784483374.115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483374.115" target="_blank">10.1061/9780784483374.115</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784483374.115" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784483374.115" target="_blank">10.1061/9780784483374.115</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7118-4973" title="ORCID: 0000-0002-7118-4973" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramyar_elham"><b>Ramyar</b>&nbsp;Elham</a></span>, <a href="../../../author/xinwei_z"><b>Xinwei</b>&nbsp;Z.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7436-3910" title="ORCID: 0000-0001-7436-3910" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cusatis_gianluca"><b>Cusatis</b>&nbsp;Gianluca</a></span><br>
 Contribution - Proceedings of 17th Biennial International Conference on Engineering, Science, Construction, and Operations in Challenging Environments, pp. 1242-1250
 
 <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%203D%20Printing%20of%20Infrastructure%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulation+of+3d+printing+of+infrastructure+materials&as_occt=title&as_sauthors=ramyar&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85104871523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784483374.115" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

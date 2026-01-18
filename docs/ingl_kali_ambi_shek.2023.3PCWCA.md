@@ -19,14 +19,15 @@ tags:
 
 #3D Printable Concrete Without Chemical Admixtures&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Fresh and Hardened Properties</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202300267) <a href="https://doi.org/10.1002/suco.202300267" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300267" target="_blank">10.1002/suco.202300267</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.202300267" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.202300267" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.202300267" target="_blank">10.1002/suco.202300267</a>
 
 <a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b>&nbsp;Vaibhav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7631-2495" title="ORCID: 0000-0002-7631-2495" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b>&nbsp;Senthil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2709-605X" title="ORCID: 0000-0003-2709-605X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ambily_s_parukutty"><b>Ambily</b>&nbsp;Parukutty</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8180-8981" title="ORCID: 0000-0001-8180-8981" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shekar_deepadharshan"><b>Shekar</b>&nbsp;Deepadharshan</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/chemical"><button class="btn">#chemical</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Concrete%20Without%20Chemical%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+concrete+without+chemical+admixtures&as_occt=title&as_sauthors=ingle&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171466055&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001068801100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.202300267" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

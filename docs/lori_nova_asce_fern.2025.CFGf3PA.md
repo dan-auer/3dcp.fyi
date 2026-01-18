@@ -14,14 +14,15 @@ tags:
 ---
 
 #Chemically Foamed Geopolymers for 3D Printing Applications ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2025.106116) <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" target="_blank">10.1016/j.cemconcomp.2025.106116</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106116" target="_blank">10.1016/j.cemconcomp.2025.106116</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5698-9135" title="ORCID: 0000-0001-5698-9135" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/novais_miguel_rui"><b>Novais</b>&nbsp;Rui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6003-4486" title="ORCID: 0000-0002-6003-4486" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ascensao_guilherme"><b>Ascensão</b>&nbsp;Guilherme</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9751-8807" title="ORCID: 0000-0001-9751-8807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandes_fabio"><b>Fernandes</b>&nbsp;Fábio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1485-3931" title="ORCID: 0000-0002-1485-3931" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranjbar_navid"><b>Ranjbar</b>&nbsp;Navid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 106116
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Chemically%20Foamed%20Geopolymers%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=chemically+foamed+geopolymers+for+3d+printing+applications&as_occt=title&as_sauthors=lori&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004422007&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001490882000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106116" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

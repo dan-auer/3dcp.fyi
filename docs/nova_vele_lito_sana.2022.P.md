@@ -14,14 +14,15 @@ tags:
 
 #Prvok&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">Issue on 3D Printing Concrete Building</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://ojs.cvut.cz/ojs/index.php/APP/article/download/8620/6563) <a href="https://doi.org/10.14311/app.2022.38.0247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14311/app.2022.38.0247" target="_blank">10.14311/app.2022.38.0247</a>
+<a href="https://ojs.cvut.cz/ojs/index.php/APP/article/download/8620/6563" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.14311/app.2022.38.0247" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14311/app.2022.38.0247" target="_blank">10.14311/app.2022.38.0247</a>
 
 <a href="../../../author/novakova_katerina"><b>Nováková</b>&nbsp;Kateřina</a></span>, <a href="../../../author/vele_jiri"><b>Vele</b>&nbsp;Jiří</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5807-1237" title="ORCID: 0000-0002-5807-1237" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/litos_jiri"><b>Litoš</b>&nbsp;Jiří</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1303-5846" title="ORCID: 0000-0003-1303-5846" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sana_vladimir"><b>Šána</b>&nbsp;Vladimír</a></span><br>
 Journal Article - Acta Polytechnica, Vol. 38, pp. 247-254
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Prvok" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=prvok&as_occt=title&as_sauthors=nov%C3%A1kov%C3%A1&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159939925&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14311/app.2022.38.0247" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

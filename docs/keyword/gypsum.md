@@ -8,6 +8,10 @@ search:
 
 # #gypsum
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> <a href="../../keyword/base"><button class="btn">#base (3)</button></a> <a href="../../keyword/binder"><button class="btn">#binder (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>
   <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sahm_sink_buma_sapa.2024.TGCPCf3PwREI/">Ternary Gypsum-Cement-Pozzolan Composites for 3D Printing with Reduced Environmental Impact</a></li>

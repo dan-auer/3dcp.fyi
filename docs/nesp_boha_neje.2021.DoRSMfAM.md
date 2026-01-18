@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of Rapid-Set Mortar for Additive Manufacturing ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/1205/1/012010) <a href="https://doi.org/10.1088/1757-899x/1205/1/012010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1205/1/012010" target="_blank">10.1088/1757-899x/1205/1/012010</a>
+<a href="https://doi.org/10.1088/1757-899x/1205/1/012010" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/1205/1/012010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1205/1/012010" target="_blank">10.1088/1757-899x/1205/1/012010</a>
 
 <a href="../../../author/nespor_b"><b>Nespor</b>&nbsp;B.</a></span>, <a href="../../../author/bohac_m"><b>Bohac</b>&nbsp;M.</a></span>, <a href="../../../author/nejedlik_m"><b>Nejedlik</b>&nbsp;M.</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 1205, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20Rapid-Set%20Mortar%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+rapid-set+mortar+for+additive+manufacturing&as_occt=title&as_sauthors=nespor&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001293892700010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/1205/1/012010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

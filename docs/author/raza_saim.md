@@ -9,6 +9,60 @@ search:
 
 #  Raza Saim 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6960-0475" target="_blank">0000-0001-6960-0475</a>
+
+    First Contribution
+    : 2024-01-02
+    
+    Last Contribution
+    : 2025-10-11
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 33
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (8)</li>
+        <li><a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> (5)</li>
+        <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> (5)</li>
+        <li><a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> (5)</li>
+        <li><a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/triantafyllidis_zafiris"><b>Triantafyllidis</b> Zafiris</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../raza_tria_anto_dill.2024.SPoFSPSSBCw3PPCF/">Seismic Performance of Fe-SMA Pre-Stressed Segmental Bridge Columns with 3D Printed Permanent Concrete Formwork</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (16)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (14)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (12)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
+        <li><a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a> (2)</li>
+        <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (2)</li>
+        <li><a href="../../../author/xu_qinghu"><b>Xu</b> Qinghu</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a></li>
   <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_raza_wang_fan.2025.AoPTCiN3PT/">Assessment of Post-Tension Capacity in Novel 3D-Printed Topology:<br/>Optimized Formwork via Load Transfer Testing</a></li>

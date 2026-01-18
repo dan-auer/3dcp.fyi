@@ -8,7 +8,12 @@ search:
 
 # #shotcrete
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (36)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (15)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (12)</button></a> <a href="../../keyword/process"><button class="btn">#process (10)</button></a> <a href="../../keyword/property"><button class="btn">#property (9)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/chen_zhuo"><b>Chen</b> Zhuo</a>, <a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_chen_leus_klof.2026.S3PRCB/">Shotcrete 3D Printed Reinforced Concrete Beam:<br/>Design, Testing, and Comparison Against Conventional Cast Reinforced Concrete Solution</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>

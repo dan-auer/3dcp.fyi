@@ -16,14 +16,15 @@ tags:
 ---
 
 #Design and Simulation Analysis of the Extrusion Device of Concrete 3D Printing Device ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-5354-6_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5354-6_32" target="_blank">10.1007/978-981-96-5354-6_32</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-5354-6_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-5354-6_32" target="_blank">10.1007/978-981-96-5354-6_32</a>
 
 <a href="../../../author/wu_changzhong"><b>Wu</b>&nbsp;Changzhong</a></span>, <a href="../../../author/zhu_xingyu"><b>Zhu</b>&nbsp;Xingyu</a></span>, <a href="../../../author/wu_liang"><b>Wu</b>&nbsp;Liang</a></span>, <a href="../../../author/an_haibo"><b>An</b>&nbsp;Haibo</a></span>, <a href="../../../author/lu_yuanyuan"><b>Lu</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/wang_yongzhuo"><b>Wang</b>&nbsp;Yongzhuo</a></span><br>
 Contribution - Proceedings of the 9th International Conference on Mechanical Manufacturing Technology and Material Engineering, pp. 287-293
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Simulation%20Analysis%20of%20the%20Extrusion%20Device%20of%20Concrete%203D%20Printing%20Device" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+simulation+analysis+of+the+extrusion+device+of+concrete+3d+printing+device&as_occt=title&as_sauthors=wu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004916709&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-5354-6_32" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

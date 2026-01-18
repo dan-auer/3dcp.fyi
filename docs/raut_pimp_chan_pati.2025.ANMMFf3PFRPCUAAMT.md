@@ -23,14 +23,15 @@ tags:
 ---
 
 #A Novel Multi-Method Framework for 3D Printed Fiber-Reinforced Polymer Concrete Utilizing Advance Additive Manufacturing Techniques ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s42107-025-01273-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-025-01273-3" target="_blank">10.1007/s42107-025-01273-3</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s42107-025-01273-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s42107-025-01273-3" target="_blank">10.1007/s42107-025-01273-3</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6799-3631" title="ORCID: 0000-0001-6799-3631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raut_m_jayant"><b>Raut</b>&nbsp;Jayant</a></span>, <a href="../../../author/pimpalshende_anjusha"><b>Pimpalshende</b>&nbsp;Anjusha</a></span>, <a href="../../../author/chandak_a_mayuri"><b>Chandak</b>&nbsp;Mayuri</a></span>, <a href="../../../author/patil_r_tejas"><b>Patil</b>&nbsp;Tejas</a></span>, <a href="../../../author/pinjarkar_latika"><b>Pinjarkar</b>&nbsp;Latika</a></span>, <a href="../../../author/nair_sruthi"><b>Nair</b>&nbsp;Sruthi</a></span><br>
 Journal Article - Asian Journal of Civil Engineering
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%20Multi-Method%20Framework%20for%203D%20Printed%20Fiber-Reinforced%20Polymer%20Concrete%20Utilizing%20Advance%20Additive%20Manufacturing%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+novel+multi-method+framework+for+3d+printed+fiber-reinforced+polymer+concrete+utilizing+advance+additive+manufacturing+techniques&as_occt=title&as_sauthors=raut&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217221894&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s42107-025-01273-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

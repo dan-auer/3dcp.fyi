@@ -19,14 +19,15 @@ tags:
 
 #DFAB HOUSE&nbsp;([2021-10](date/2021/10))
 <div class="h1-like">Implications of a Building-Scale Demonstrator for Adoption of Digital Fabrication in AEC</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tandfonline.com/doi/pdf/10.1080/01446193.2021.1988667?needAccess=true) <a href="https://doi.org/10.1080/01446193.2021.1988667" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01446193.2021.1988667" target="_blank">10.1080/01446193.2021.1988667</a>
+<a href="https://www.tandfonline.com/doi/pdf/10.1080/01446193.2021.1988667?needAccess=true" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/01446193.2021.1988667" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/01446193.2021.1988667" target="_blank">10.1080/01446193.2021.1988667</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8129-6787" title="ORCID: 0000-0001-8129-6787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/graser_konrad"><b>Graser</b>&nbsp;Konrad</a></span>, <a href="../../../author/kahlert_aniko"><b>Kahlert</b>&nbsp;Aniko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0957-484X" title="ORCID: 0000-0002-0957-484X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hall_m_daniel"><b>Hall</b>&nbsp;Daniel</a></span><br>
 Journal Article - Construction Management and Economics, Vol. 39, Iss. 10, pp. 853-873
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/demonstration"><button class="btn">#demonstration</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=DFAB%20HOUSE" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dfab+house&as_occt=title&as_sauthors=graser&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85117323884&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000709219900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/01446193.2021.1988667" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

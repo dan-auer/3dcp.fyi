@@ -22,14 +22,15 @@ tags:
 ---
 
 #Machine Learning Approach to Predict the Early-Age Flexural Strength of Sensor-Embedded 3D-Printed Structures ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s40964-025-01017-4) <a href="https://doi.org/10.1007/s40964-025-01017-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01017-4" target="_blank">10.1007/s40964-025-01017-4</a>
+<a href="https://doi.org/10.1007/s40964-025-01017-4" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-025-01017-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-025-01017-4" target="_blank">10.1007/s40964-025-01017-4</a>
 
 <a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/dempsey_mary"><b>Dempsey</b>&nbsp;Mary</a></span>, <a href="../../../author/chen_jianhua"><b>Chen</b>&nbsp;Jianhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Machine%20Learning%20Approach%20to%20Predict%20the%20Early-Age%20Flexural%20Strength%20of%20Sensor-Embedded%203D-Printed%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=machine+learning+approach+to+predict+the+early-age+flexural+strength+of+sensor-embedded+3d-printed+structures&as_occt=title&as_sauthors=banijamali&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218705526&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001427303900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-025-01017-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

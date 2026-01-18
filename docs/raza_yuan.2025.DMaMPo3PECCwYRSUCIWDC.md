@@ -22,14 +22,15 @@ tags:
 ---
 
 #Degradation Mechanisms and Microstructural Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Under Chloride Ion Wet-Dry Cycles ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1776&context=icdcs) <a href="https://doi.org/10.5703/1288284318205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318205" target="_blank">10.5703/1288284318205</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1776&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318205" target="_blank">10.5703/1288284318205</a>
 
 <a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/yuan_chengfang"><b>Yuan</b>&nbsp;Chengfang</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/chloride"><button class="btn">#chloride</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/degradation"><button class="btn">#degradation</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/wet"><button class="btn">#wet</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Degradation%20Mechanisms%20and%20Microstructural%20Performance%20of%203D-Printed%20Engineered%20Cementitious%20Composites%20with%20Yellow%20River%20Sand%20Under%20Chloride%20Ion%20Wet-Dry%20Cycles" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=degradation+mechanisms+and+microstructural+performance+of+3d-printed+engineered+cementitious+composites+with+yellow+river+sand+under+chloride+ion+wet-dry+cycles&as_occt=title&as_sauthors=raza&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318205" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

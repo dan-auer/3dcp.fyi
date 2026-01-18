@@ -15,14 +15,15 @@ tags:
 ---
 
 #Non-Planar Slicing for High-Genus Surfaces with Non-Coplanar Interfaces ([2026-01](date/2026/01))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1080/17452759.2025.2603853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2025.2603853" target="_blank">10.1080/17452759.2025.2603853</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2025.2603853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2025.2603853" target="_blank">10.1080/17452759.2025.2603853</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2867-6814" title="ORCID: 0000-0003-2867-6814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b>&nbsp;Mania</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-0807-5516" title="ORCID: 0009-0007-0807-5516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b>&nbsp;Abdallah</a></span>, <a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b>&nbsp;Ashkan</a></span>, <a href="../../../author/li_yichuan"><b>Li</b>&nbsp;Yichuan</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 21, Iss. 1
 
 <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/slicing"><button class="btn">#slicing</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Non-Planar%20Slicing%20for%20High-Genus%20Surfaces%20with%20Non-Coplanar%20Interfaces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=non-planar+slicing+for+high-genus+surfaces+with+non-coplanar+interfaces&as_occt=title&as_sauthors=meibodi&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2025.2603853" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

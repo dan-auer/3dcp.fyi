@@ -16,14 +16,15 @@ tags:
 ---
 
 #Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112451" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112451" target="_blank">10.1016/j.jobe.2025.112451</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112451" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112451" target="_blank">10.1016/j.jobe.2025.112451</a>
 
 <a href="../../../author/li_hualong"><b>Li</b>&nbsp;Hualong</a></span>, <a href="../../../author/shi_ye"><b>Shi</b>&nbsp;Ye</a></span>, <a href="../../../author/rong_hui"><b>Rong</b>&nbsp;Hui</a></span>, <a href="../../../author/dai_kaichao"><b>Dai</b>&nbsp;Kaichao</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112451
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Additives%20on%20the%20Performance%20of%203D-Printing%20Ultra-High%20Performance%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+additives+on+the+performance+of+3d-printing+ultra-high+performance+concrete&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000515973&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001455863000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112451" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

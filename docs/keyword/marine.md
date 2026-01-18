@@ -8,6 +8,10 @@ search:
 
 # #marine
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (5)</button></a> <a href="../../keyword/durability"><button class="btn">#durability (4)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
   <li><a href="../../../author/cimini_jacopo"><b>Cimini</b> Jacopo</a>, <a href="../../../author/meroni_lorenzo"><b>Meroni</b> Lorenzo</a>, <a href="../../../author/chiantore_mariachiara"><b>Chiantore</b> Mariachiara</a>, <a href="../../../author/albicini_paolo"><b>Albicini</b> Paolo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cimi_mero_chia_albi.2026.ACiMAR/">Addressing Challenges in Marine Algal Restoration:<br/>Lessons Learned from 3D-Printed Structures on Artificial Reefs</a></li>

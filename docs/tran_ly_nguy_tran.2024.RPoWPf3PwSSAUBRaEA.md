@@ -21,14 +21,15 @@ tags:
 ---
 
 #Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" target="_blank">10.1016/j.conbuildmat.2024.136470</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136470" target="_blank">10.1016/j.conbuildmat.2024.136470</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2581-031X" title="ORCID: 0000-0003-2581-031X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_mien"><b>van&nbsp;Tran</b>&nbsp;Mien</a></span>, <a href="../../../author/ly_duy-khuong"><b>Ly</b>&nbsp;Duy-Khuong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4909-4258" title="ORCID: 0000-0003-4909-4258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_tan"><b>Nguyen</b>&nbsp;Tan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4779-6865" title="ORCID: 0000-0002-4779-6865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b>&nbsp;Nhi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 431, No. 136470
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/bayesian"><button class="btn">#bayesian</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/robust"><button class="btn">#robust</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robust%20Prediction%20of%20Workability%20Properties%20for%203D%20Printing%20with%20Steel-Slag-Aggregate%20Using%20Bayesian%20Regularization%20and%20Evolution%20Algorithm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robust+prediction+of+workability+properties+for+3d+printing+with+steel-slag-aggregate+using+bayesian+regularization+and+evolution+algorithm&as_occt=title&as_sauthors=tran&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192480796&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001265824100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.136470" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

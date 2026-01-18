@@ -17,14 +17,15 @@ tags:
 ---
 
 #Pressure-Drop in Converging Flows in Three-Dimensional Printing of Concrete ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0168928" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0168928" target="_blank">10.1063/5.0168928</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1063/5.0168928" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0168928" target="_blank">10.1063/5.0168928</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3477-2979" title="ORCID: 0000-0002-3477-2979" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polychronopoulos_d_nickolas"><b>Polychronopoulos</b>&nbsp;Nickolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6542-0490" title="ORCID: 0000-0002-6542-0490" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sarris_e_ioannis"><b>Sarris</b>&nbsp;Ioannis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2150-5166" title="ORCID: 0000-0003-2150-5166" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benos_lefteris"><b>Benos</b>&nbsp;Lefteris</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6256-8230" title="ORCID: 0000-0001-6256-8230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vlachopoulos_john"><b>Vlachopoulos</b>&nbsp;John</a></span><br>
 Journal Article - Physics of Fluids, Vol. 35, Iss. 9
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/drop"><button class="btn">#drop</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pressure-Drop%20in%20Converging%20Flows%20in%20Three-Dimensional%20Printing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pressure-drop+in+converging+flows+in+three-dimensional+printing+of+concrete&as_occt=title&as_sauthors=polychronopoulos&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171626650&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001089572500009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1063/5.0168928" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

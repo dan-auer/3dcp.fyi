@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Review of Supply Chain Dynamics of 3D Concrete Printing Construction Practice ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1940&context=cib-conferences) <a href="https://doi.org/10.7771/3067-4883.1940" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1940" target="_blank">10.7771/3067-4883.1940</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1940&context=cib-conferences" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.7771/3067-4883.1940" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7771/3067-4883.1940" target="_blank">10.7771/3067-4883.1940</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-7796-6100" title="ORCID: 0009-0000-7796-6100" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_jiayue"><b>Ma</b>&nbsp;Jiayue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0401-2482" title="ORCID: 0000-0003-0401-2482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b>&nbsp;Don</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6744-4683" title="ORCID: 0000-0001-6744-4683" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rotimi_olabode-bamidele_james"><b>Rotimi</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4976-747X" title="ORCID: 0009-0004-4976-747X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_kelvin"><b>Zou</b>&nbsp;Kelvin</a></span><br>
 Journal Article - CIB Conferences, Vol. 1, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/supply"><button class="btn">#supply</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Review%20of%20Supply%20Chain%20Dynamics%20of%203D%20Concrete%20Printing%20Construction%20Practice" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+review+of+supply+chain+dynamics+of+3d+concrete+printing+construction+practice&as_occt=title&as_sauthors=ma&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7771/3067-4883.1940" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

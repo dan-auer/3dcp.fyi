@@ -16,14 +16,15 @@ tags:
 ---
 
 #Development of a Generative Design System for 3D Printed Houses in Chile ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings14092939) <a href="https://doi.org/10.3390/buildings14092939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092939" target="_blank">10.3390/buildings14092939</a>
+<a href="https://doi.org/10.3390/buildings14092939" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14092939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092939" target="_blank">10.3390/buildings14092939</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b>&nbsp;Pedro</a></span>, <a href="../../../author/valenzuela-astudillo_eduardo"><b>Valenzuela-Astudillo</b>&nbsp;Eduardo</a></span>, <a href="../../../author/martuffi-lazo_daniela"><b>Martuffi-Lazo</b>&nbsp;Daniela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 9, No. 2939
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Generative%20Design%20System%20for%203D%20Printed%20Houses%20in%20Chile" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+generative+design+system+for+3d+printed+houses+in+chile&as_occt=title&as_sauthors=garc%C3%ADa-alvarado&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205272527&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001322859400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14092939" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

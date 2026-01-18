@@ -14,14 +14,15 @@ tags:
 ---
 
 #Reconstruction of a Ukrainian Road Bridge by Use of 3D Printed minimass™ Beams ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/manchester.2024.0706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0706" target="_blank">10.2749/manchester.2024.0706</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/manchester.2024.0706" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/manchester.2024.0706" target="_blank">10.2749/manchester.2024.0706</a>
 
 <a href="../../../author/coward_andy"><b>Coward</b>&nbsp;Andy</a></span>, <a href="../../../author/forsberg_torben"><b>Forsberg</b>&nbsp;Torben</a></span><br>
 Contribution - Proceedings of the 2024 IABSE Symposium, No. 45
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reconstruction%20of%20a%20Ukrainian%20Road%20Bridge%20by%20Use%20of%203D%20Printed%20minimass%E2%84%A2%20Beams" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reconstruction+of+a+ukrainian+road+bridge+by+use+of+3d+printed+minimass%E2%84%A2+beams&as_occt=title&as_sauthors=coward&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/manchester.2024.0706" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

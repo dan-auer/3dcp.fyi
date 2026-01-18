@@ -21,14 +21,15 @@ tags:
 ---
 
 #Reinforcement Learning-Based Continuous Path Planning and Automated Concrete 3D Printing of Complex Hollow Components ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2025.106290" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106290" target="_blank">10.1016/j.autcon.2025.106290</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106290" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106290" target="_blank">10.1016/j.autcon.2025.106290</a>
 
 <a href="../../../author/wang_xiaoqi"><b>Wang</b>&nbsp;Xiaoqi</a></span>, <a href="../../../author/zuo_tianyi"><b>Zuo</b>&nbsp;Tianyi</a></span>, <a href="../../../author/xu_yanling"><b>Xu</b>&nbsp;Yanling</a></span>, <a href="../../../author/liu_xing"><b>Liu</b>&nbsp;Xing</a></span>, <a href="../../../author/zhang_huajun"><b>Zhang</b>&nbsp;Huajun</a></span>, <a href="../../../author/wang_qiang"><b>Wang</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhang_huiyi"><b>Zhang</b>&nbsp;Huiyi</a></span><br>
 Journal Article - Automation in Construction, Vol. 177, No. 106290
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reinforcement%20Learning-Based%20Continuous%20Path%20Planning%20and%20Automated%20Concrete%203D%20Printing%20of%20Complex%20Hollow%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reinforcement+learning-based+continuous+path+planning+and+automated+concrete+3d+printing+of+complex+hollow+components&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008229148&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001516330000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106290" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

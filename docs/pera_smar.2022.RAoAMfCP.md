@@ -19,14 +19,15 @@ tags:
 
 #Requirements-Analysis of Additive Manufacturing for Concrete Printing&nbsp;([2022-07](date/2022/07))
 <div class="h1-like">A Systematic Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2022/0047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2022/0047" target="_blank">10.22260/isarc2022/0047</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2022/0047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2022/0047" target="_blank">10.22260/isarc2022/0047</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b>&nbsp;Patricia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span><br>
 Contribution - Proceedings of the 39th International Symposium on Automation and Robotics in Construction, pp. 336-343
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Requirements-Analysis%20of%20Additive%20Manufacturing%20for%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=requirements-analysis+of+additive+manufacturing+for+concrete+printing&as_occt=title&as_sauthors=peralta+abadi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2022/0047" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

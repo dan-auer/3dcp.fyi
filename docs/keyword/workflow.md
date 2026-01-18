@@ -8,6 +8,10 @@ search:
 
 # #workflow
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (17)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/design"><button class="btn">#design (10)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (6)</button></a> <a href="../../keyword/integration"><button class="btn">#integration (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
   <li><a href="../../../author/cojocari_iulia"><b>Cojocari</b> Iulia</a>, <a href="../../../author/martins_mota_mirna"><b>Martins</b> Mirna</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cojo_mart_rang_cunh.2026.S3PfLSPbOW/">Scaling 3D Printing for Large-Scale Production by Optimising Workflow</a></li>

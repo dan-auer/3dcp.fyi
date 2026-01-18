@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Manufacturing of Portland Cement-Pastes with Additions of Kaolin, Superplastificant and Calcium-Carbonate ([2020-03](date/2020/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.118669" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118669" target="_blank">10.1016/j.conbuildmat.2020.118669</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.118669" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.118669" target="_blank">10.1016/j.conbuildmat.2020.118669</a>
 
 <a href="../../../author/vergara_adolfo_luis"><b>Vergara</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4948-0482" title="ORCID: 0000-0003-4948-0482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colorado_a_henry"><b>Colorado</b>&nbsp;Henry</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 248
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbonation"><button class="btn">#carbonation</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Portland%20Cement-Pastes%20with%20Additions%20of%20Kaolin%2C%20Superplastificant%20and%20Calcium-Carbonate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+portland+cement-pastes+with+additions+of+kaolin%2C+superplastificant+and+calcium-carbonate&as_occt=title&as_sauthors=vergara&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081661778&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000531081200055" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.118669" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

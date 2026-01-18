@@ -17,14 +17,15 @@ tags:
 ---
 
 #Powder-Bed-Based 3D Printing with Cement for Sustainable Casting ([2022-12](date/2022/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2022.12.102) <a href="https://doi.org/10.1016/j.jmrt.2022.12.102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.12.102" target="_blank">10.1016/j.jmrt.2022.12.102</a>
+<a href="https://doi.org/10.1016/j.jmrt.2022.12.102" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmrt.2022.12.102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.12.102" target="_blank">10.1016/j.jmrt.2022.12.102</a>
 
 <a href="../../../author/chun_seung-yeop"><b>Chun</b>&nbsp;Seung-Yeop</a></span>, <a href="../../../author/kim_su-jin"><b>Kim</b>&nbsp;Su-jin</a></span>, <a href="../../../author/kim_woon-gi"><b>Kim</b>&nbsp;Woon-Gi</a></span>, <a href="../../../author/lee_geumyeon"><b>Lee</b>&nbsp;Geumyeon</a></span>, <a href="../../../author/lee_myeung-jin"><b>Lee</b>&nbsp;Myeung-jin</a></span>, <a href="../../../author/ye_bora"><b>Ye</b>&nbsp;Bora</a></span>, <a href="../../../author/kim_hong-dae"><b>Kim</b>&nbsp;Hong-dae</a></span>, <a href="../../../author/lee_hun_jeong"><b>Lee</b>&nbsp;Jeong</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7644-0086" title="ORCID: 0000-0001-7644-0086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_taewook"><b>Kim</b>&nbsp;Taewook</a></span><br>
 Journal Article - Journal of Materials Research and Technology, Vol. 22, pp. 3192-3206
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bed"><button class="btn">#bed</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Powder-Bed-Based%203D%20Printing%20with%20Cement%20for%20Sustainable%20Casting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=powder-bed-based+3d+printing+with+cement+for+sustainable+casting&as_occt=title&as_sauthors=chun&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85147718189&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000974514100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmrt.2022.12.102" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

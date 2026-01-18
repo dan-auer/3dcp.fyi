@@ -17,14 +17,15 @@ tags:
 ---
 
 #Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials ([2021-08](date/2021/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/16/4438/pdf?version=1628412671) <a href="https://doi.org/10.3390/ma14164438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164438" target="_blank">10.3390/ma14164438</a>
+<a href="https://www.mdpi.com/1996-1944/14/16/4438/pdf?version=1628412671" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14164438" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14164438" target="_blank">10.3390/ma14164438</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9583-4360" title="ORCID: 0000-0002-9583-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/che_yujun"><b>Che</b>&nbsp;Yujun</a></span>, <a href="../../../author/tang_shengwen"><b>Tang</b>&nbsp;Shengwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4361-0960" title="ORCID: 0000-0003-4361-0960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_huashan"><b>Yang</b>&nbsp;Huashan</a></span>, <a href="../../../author/li_weiwei"><b>Li</b>&nbsp;Weiwei</a></span>, <a href="../../../author/shi_mengyuan"><b>Shi</b>&nbsp;Mengyuan</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 16
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/void"><button class="btn">#void</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influences%20of%20Air-Voids%20on%20the%20Performance%20of%203D%20Printing%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influences+of+air-voids+on+the+performance+of+3d+printing+cementitious+materials&as_occt=title&as_sauthors=che&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112275760&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000689560000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14164438" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

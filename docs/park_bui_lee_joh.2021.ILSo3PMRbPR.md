@@ -16,14 +16,15 @@ tags:
 ---
 
 #Inter-Layer Strength of 3D Printed Mortar Reinforced by Postinstalled Reinforcement ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/21/6630/pdf?version=1635995730) <a href="https://doi.org/10.3390/ma14216630" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14216630" target="_blank">10.3390/ma14216630</a>
+<a href="https://www.mdpi.com/1996-1944/14/21/6630/pdf?version=1635995730" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14216630" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14216630" target="_blank">10.3390/ma14216630</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6543-1536" title="ORCID: 0000-0002-6543-1536" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_jihun"><b>Park</b>&nbsp;Jihun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6575-6322" title="ORCID: 0000-0002-6575-6322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bui_quang_the"><b>Bui</b>&nbsp;The</a></span>, <a href="../../../author/lee_jungwoo"><b>Lee</b>&nbsp;Jungwoo</a></span>, <a href="../../../author/joh_changbin"><b>Joh</b>&nbsp;Changbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1937-0610" title="ORCID: 0000-0003-1937-0610" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_in-hwan"><b>Yang</b>&nbsp;In-Hwan</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 21
 
 <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Inter-Layer%20Strength%20of%203D%20Printed%20Mortar%20Reinforced%20by%20Postinstalled%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=inter-layer+strength+of+3d+printed+mortar+reinforced+by+postinstalled+reinforcement&as_occt=title&as_sauthors=park&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118710600&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000718398400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14216630" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

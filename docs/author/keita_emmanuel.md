@@ -9,7 +9,62 @@ search:
 
 #  Keita Emmanuel 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8698-4570" target="_blank">0000-0001-8698-4570</a>
+
+    First Contribution
+    : 2019-06-22
+    
+    Last Contribution
+    : 2026-01-15
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 415
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (13)</li>
+        <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a> (6)</li>
+        <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> (5)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/belin_patrick"><b>Belin</b> Patrick</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../keit_bess_zuo_beli.2019.WBSBSLiEBAM/">Weak Bond Strength Between Successive Layers in Extrusion-Based Additive Manufacturing:<br/>Measurement and Physical Origin</a> (188)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (54)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (54)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (42)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (39)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (22)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (16)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (15)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/hassan_m"><b>Hassan</b> M.</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cane_hass_demo_keit.2026.FPToPCwaPD/">Fast Penetration Testing of Printable Concretes with a Portable Device:<br/>Robustness and Calibration</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/guillen_natali-inga_ruth"><b>Guillen</b> Ruth</a>, <a href="../../../author/naldoni_lapo"><b>Naldoni</b> Lapo</a>, <a href="../../../author/quka_katerina"><b>Quka</b> Katerina</a>, <a href="../../../author/gioia_flavio"><b>Gioia</b> Flavio</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../guil_nald_quka_gioi.2025.WRo3PCwBS/">Water Resistance of 3D Printed Clay with Bio-Stabilizers</a></li>
   <li><a href="../../../author/denis_l"><b>Denis</b> L.</a>, <a href="../../../author/omikrine-metalssi_o"><b>Omikrine-Metalssi</b> O.</a>, <a href="../../../author/karam-cabrerizo_r"><b>Karam-Cabrerizo</b> R.</a>, <a href="../../../author/barnes-davin_l"><b>Barnes-Davin</b> L.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../deni_omik_kara_barn.2024.IoVEADoPCM/">Impact of Very Early-Age Drying on Printed Concrete Microstructures</a></li>

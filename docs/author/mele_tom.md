@@ -9,6 +9,60 @@ search:
 
 # van Mele Tom 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-4614-1808" target="_blank">0000-0002-4614-1808</a>
+
+    First Contribution
+    : 2017-02-12
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 246
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/block_philippe"><b>Block</b> Philippe</a> (14)</li>
+        <li><a href="../../../author/bhooshan_shajay"><b>Bhooshan</b> Shajay</a> (8)</li>
+        <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a> (6)</li>
+        <li><a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a> (4)</li>
+        <li><a href="../../../author/megens_johannes"><b>Megens</b> Johannes</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bouten_sam"><b>Bouten</b> Sam</a>, <a href="../../../author/mele_tom"><b>Mele</b> Tom</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../dell_bout_mele_bloc.2023.SDaEoSaU3CPMAB/">Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (16)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (16)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (16)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (14)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (26)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (16)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (16)</li>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (15)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (14)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nana_serge-auguste_w"><b>Nana</b> W.</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/bhooshan_vishu"><b>Bhooshan</b> Vishu</a>, <a href="../../../author/zhou_fulei"><b>Zhou</b> Fulei</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../nana_dell_bhoo_zhou.2024.DCC/">Decarbonizing Concrete Construction:<br/>Case of the Phoenix 3D Printed Footbridge and Learnings for Engineering and Architecture</a></li>
   <li><a href="../../../author/bodea_serban"><b>Bodea</b> Serban</a>, <a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b> Alessandro</a>, <a href="../../../author/aloutsanidis_vasilis"><b>Aloutsanidis</b> Vasilis</a>, <a href="../../../author/burgin_theophil"><b>Bürgin</b> Theophil</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bode_dell_alou_burg.2024.P3CPB/">Phoenix 3D Concrete-Printed Bridge:<br/>Falsework System and Construction Process Development</a></li>

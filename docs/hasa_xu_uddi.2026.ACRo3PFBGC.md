@@ -23,14 +23,15 @@ tags:
 
 #A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Fresh Properties, Mechanical Performance, and Current Limitations</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41024-025-00737-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00737-y" target="_blank">10.1007/s41024-025-00737-y</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41024-025-00737-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00737-y" target="_blank">10.1007/s41024-025-00737-y</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-6192-3402" title="ORCID: 0009-0001-6192-3402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasan_mehedi_md"><b>Hasan</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6930-979X" title="ORCID: 0000-0002-6930-979X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jie"><b>Xu</b>&nbsp;Jie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4580-6388" title="ORCID: 0000-0002-4580-6388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/uddin_nasir_md"><b>Uddin</b>&nbsp;Md</a></span><br>
 Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Printed%20Fiber-Based%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+critical+review+of+3d+printed+fiber-based+geopolymer+concrete&as_occt=title&as_sauthors=hasan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021989093&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41024-025-00737-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

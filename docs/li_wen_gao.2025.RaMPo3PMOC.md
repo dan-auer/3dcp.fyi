@@ -16,14 +16,15 @@ tags:
 ---
 
 #Rheological and Mechanical Properties of 3D-Printable Magnesium-Oxysulfate-Cements ([2025-02](date/2025/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" target="_blank">10.1016/j.conbuildmat.2025.140618</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.140618" target="_blank">10.1016/j.conbuildmat.2025.140618</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9684-5248" title="ORCID: 0000-0002-9684-5248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_qiyan"><b>Li</b>&nbsp;Qiyan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4705-2783" title="ORCID: 0000-0003-4705-2783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wen_xiaodong"><b>Wen</b>&nbsp;Xiaodong</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3138-5751" title="ORCID: 0000-0003-3138-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaojian"><b>Gao</b>&nbsp;Xiaojian</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 470, No. 140618
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Mechanical%20Properties%20of%203D-Printable%20Magnesium-Oxysulfate-Cements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+and+mechanical+properties+of+3d-printable+magnesium-oxysulfate-cements&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218863054&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001437155900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.140618" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

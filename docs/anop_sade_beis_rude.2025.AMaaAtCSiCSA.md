@@ -18,14 +18,15 @@ tags:
 ---
 
 #Additive Manufacturing as an Alternative to Core Sampling in Concrete Strength Assessment ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/15/14/7737/pdf) <a href="https://doi.org/10.3390/app15147737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15147737" target="_blank">10.3390/app15147737</a>
+<a href="https://www.mdpi.com/2076-3417/15/14/7737/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app15147737" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app15147737" target="_blank">10.3390/app15147737</a>
 
 <a href="../../../author/anop_darya"><b>Anop</b>&nbsp;Darya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2870-6668" title="ORCID: 0000-0002-2870-6668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sadenova_marzhan"><b>Sadenova</b>&nbsp;Marzhan</a></span>, <a href="../../../author/beisekenov_nail"><b>Beisekenov</b>&nbsp;Nail</a></span>, <a href="../../../author/rudenko_olga"><b>Rudenko</b>&nbsp;Olga</a></span>, <a href="../../../author/aubakirova_zulfiya"><b>Aubakirova</b>&nbsp;Zulfiya</a></span>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b>&nbsp;Assel</a></span><br>
 Journal Article - Applied Sciences, Vol. 15, Iss. 14, No. 7737
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/alternative"><button class="btn">#alternative</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/samples"><button class="btn">#samples</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20as%20an%20Alternative%20to%20Core%20Sampling%20in%20Concrete%20Strength%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+as+an+alternative+to+core+sampling+in+concrete+strength+assessment&as_occt=title&as_sauthors=anop&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011847961&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001535546900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app15147737" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

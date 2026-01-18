@@ -17,14 +17,15 @@ tags:
 
 #Additive Construction of Low Embodied Carbon Concrete&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Geopolymer Concrete</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112984" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112984" target="_blank">10.1016/j.jobe.2025.112984</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112984" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112984" target="_blank">10.1016/j.jobe.2025.112984</a>
 
 <a href="../../../author/aly-ahmed_muhammed_aly"><b>Aly Ahmed</b>&nbsp;Aly</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7309-5061" title="ORCID: 0000-0001-7309-5061" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mantawy_m_islam"><b>Mantawy</b>&nbsp;Islam</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112984
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Construction%20of%20Low%20Embodied%20Carbon%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+construction+of+low+embodied+carbon+concrete&as_occt=title&as_sauthors=aly+ahmed&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007633434&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001511249600002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112984" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

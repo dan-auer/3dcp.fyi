@@ -19,14 +19,15 @@ tags:
 ---
 
 #Characterisation and Modelling of Interfacial-Damage in Fiber-Reinforced Concrete for 3D Printing in Construction ([2019-06](date/2019/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://enpc.hal.science/hal-02263584/file/ducoulombier-2019-FRAMCOSX.pdf) <a href="https://doi.org/10.21012/fc10.235562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc10.235562" target="_blank">10.21012/fc10.235562</a>
+<a href="https://enpc.hal.science/hal-02263584/file/ducoulombier-2019-FRAMCOSX.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc10.235562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc10.235562" target="_blank">10.21012/fc10.235562</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9826-3287" title="ORCID: 0000-0001-9826-3287" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b>&nbsp;Nicolas</a></span><br>
 Contribution - Proceedings of the 10th International Conference on Fracture Mechanics of Concrete and Concrete Structures
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/damage"><button class="btn">#damage</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterisation%20and%20Modelling%20of%20Interfacial-Damage%20in%20Fiber-Reinforced%20Concrete%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterisation+and+modelling+of+interfacial-damage+in+fiber-reinforced+concrete+for+3d+printing+in+construction&as_occt=title&as_sauthors=ducoulombier&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc10.235562" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

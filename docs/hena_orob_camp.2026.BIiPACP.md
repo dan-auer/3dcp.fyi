@@ -18,14 +18,15 @@ tags:
 
 #BIM Integration in Prefabricated Additive Construction Projects&nbsp;([2025-08](date/2025/08))
 <div class="h1-like">Case Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41024-025-00678-6.pdf) <a href="https://doi.org/10.1007/s41024-025-00678-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00678-6" target="_blank">10.1007/s41024-025-00678-6</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41024-025-00678-6.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41024-025-00678-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-025-00678-6" target="_blank">10.1007/s41024-025-00678-6</a>
 
 <a href="../../../author/henao-rios_m_laura"><b>Henao-Rios</b>&nbsp;Laura</a></span>, <a href="../../../author/orobio_armando"><b>Orobio</b>&nbsp;Armando</a></span>, <a href="../../../author/campana_wilmer"><b>Campaña</b>&nbsp;Wilmer</a></span><br>
 Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=BIM%20Integration%20in%20Prefabricated%20Additive%20Construction%20Projects" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bim+integration+in+prefabricated+additive+construction+projects&as_occt=title&as_sauthors=henao-rios&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013523481&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41024-025-00678-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

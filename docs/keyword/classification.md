@@ -8,6 +8,10 @@ search:
 
 # #classification
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> <a href="../../keyword/process"><button class="btn">#process (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/habibi_alireza"><b>Habibi</b> Alireza</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/osmani_mohamed"><b>Osmani</b> Mohamed</a>, <a href="../../../author/aziminezhad_mohamadmahdi"><b>Aziminezhad</b> Mohamadmahdi</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../habi_busw_osma_azim.2024.SPi3CP/">Sustainability Principles in 3D Concrete Printing:<br/>Analysing Trends, Classifying Strategies, and Future Directions</a></li>
   <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../otto_maiw.2024.CaAQAo3CPS/">Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces</a></li>

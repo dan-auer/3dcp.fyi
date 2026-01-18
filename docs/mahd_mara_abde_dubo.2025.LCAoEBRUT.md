@@ -22,14 +22,15 @@ tags:
 
 #Life Cycle Assessment of Earth-Based Residential Unit “TOVA”&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">A 3D Printed On-Site Load-Bearing Structure</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04925) <a href="https://doi.org/10.1016/j.cscm.2025.e04925" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04925" target="_blank">10.1016/j.cscm.2025.e04925</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04925" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04925" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04925" target="_blank">10.1016/j.cscm.2025.e04925</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/marais_eugene"><b>Marais</b>&nbsp;Eugene</a></span>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b>&nbsp;Marwa</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8129-4834" title="ORCID: 0000-0002-8129-4834" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dubor_alexandre"><b>Dubor</b>&nbsp;Alexandre</a></span>, <a href="../../../author/cabay_edouard"><b>Cabay</b>&nbsp;Edouard</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04925
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/unit"><button class="btn">#unit</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Earth-Based%20Residential%20Unit%20%E2%80%9CTOVA%E2%80%9D" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+earth-based+residential+unit+%E2%80%9Ctova%E2%80%9D&as_occt=title&as_sauthors=mahdy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008174050&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001513052400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04925" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

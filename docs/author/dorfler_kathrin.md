@@ -9,6 +9,60 @@ search:
 
 #  Dörfler Kathrin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6557-5604" target="_blank">0000-0001-6557-5604</a>
+
+    First Contribution
+    : 2017-06-03
+    
+    Last Contribution
+    : 2025-08-13
+
+    Number Contributions
+    : 27
+
+    Number Citations
+    : 362
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> (9)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (9)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (8)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (7)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../hack_dorf_walz_wang.2020.SSiPFfRISFoNSCS/">Structural Stay-in-Place Formwork for Robotic In-Situ Fabrication of Non-Standard Concrete Structures:<br/>A Real-Scale Architectural Demonstrator</a> (66)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (57)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (48)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (45)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (32)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (33)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (29)</li>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (24)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (24)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (19)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dietrich_sebastian"><b>Dietrich</b> Sebastian</a>, <a href="../../../author/schneider_philip"><b>Schneider</b> Philip</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/najian-asl_reza"><b>Najian Asl</b> Reza</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../diet_schn_rich_naji.2025.MFSDf3CPwSPI/">Multi-Fidelity Structural Design for 3D Concrete Printing with Selective Paste Intrusion</a></li>
   <li><a href="../../../author/keune_anna"><b>Keune</b> Anna</a>, <a href="../../../author/simsic_ziva"><b>Simšič</b> Živa</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../keun_sims_klof_dorf.2025.AE/">AMC Edu:<br/>Lab Design to Learn About Additive Manufacturing in Construction</a></li>

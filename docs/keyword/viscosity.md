@@ -8,6 +8,10 @@ search:
 
 # #viscosity
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/modification"><button class="btn">#modification (13)</button></a> <a href="../../keyword/print"><button class="btn">#print (10)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (9)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
   <li><a href="../../../author/huang_jianxiang"><b>Huang</b> Jianxiang</a>, <a href="../../../author/wang_caifeng"><b>Wang</b> Caifeng</a>, <a href="../../../author/jian_shouwei"><b>Jian</b> Shouwei</a>, <a href="../../../author/tan_hongbo"><b>Tan</b> Hongbo</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../huan_wang_jian_tan.2025.FoAASBaNSaaVMAf3PoGBM/">Feasibility of Applying Attapulgite, Sodium Bentonite and Nano-Silica as a Viscosity Modifier Admixture for 3D Printing of Gypsum-Based Materials</a></li>

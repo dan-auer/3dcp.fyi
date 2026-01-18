@@ -8,6 +8,10 @@ search:
 
 # #bubble
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/effect"><button class="btn">#effect (2)</button></a> <a href="../../keyword/foam"><button class="btn">#foam (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/property"><button class="btn">#property (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../liu_zhan_jia_cao.2024.QCoBSoFCTEP/">Quantitative Characterization of Bubble-Stability of Foam-Concrete Throughout Extrusion-Process:<br/>From Yield-Stress , Viscosity and Surface Tension Point of View</a></li>
   <li><a href="../../../author/choo_joshua"><b>Choo</b> Joshua</a>, <a href="../../../author/mohammed_s_bashar"><b>Mohammed</b> Bashar</a>, <a href="../../../author/chen_pei-shan"><b>Chen</b> Pei-Shan</a>, <a href="../../../author/abdulkadir_isyaka"><b>Abdulkadir</b> Isyaka</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../choo_moha_chen_abdu.2022.MaOtEo3POBAotMaDPoRE/">Modeling and Optimizing the Effect of 3D Printed Origami-Bubble-Aggregate on the Mechanical and Deformation Properties of Rubberized ECC</a></li>

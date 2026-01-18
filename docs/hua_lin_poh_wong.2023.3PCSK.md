@@ -16,14 +16,15 @@ tags:
 
 #3D Printed Concrete Shear Keys&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">Design and Experimental Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.dibe.2023.100180) <a href="https://doi.org/10.1016/j.dibe.2023.100180" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100180" target="_blank">10.1016/j.dibe.2023.100180</a>
+<a href="https://doi.org/10.1016/j.dibe.2023.100180" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.dibe.2023.100180" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.dibe.2023.100180" target="_blank">10.1016/j.dibe.2023.100180</a>
 
 <a href="../../../author/hua_tianran"><b>Hua</b>&nbsp;Tianran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3773-7503" title="ORCID: 0000-0002-3773-7503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lin_alexander"><b>Lin</b>&nbsp;Alexander</a></span>, <a href="../../../author/poh_jun-desmond_wen"><b>Poh</b>&nbsp;Wen</a></span>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b>&nbsp;De</a></span>, <a href="../../../author/zhang_hong"><b>Zhang</b>&nbsp;Hong</a></span>, <a href="../../../author/chan_zheng_yao"><b>Chan</b>&nbsp;Yao</a></span>, <a href="../../../author/liu_wenhui"><b>Liu</b>&nbsp;Wenhui</a></span>, <a href="../../../author/zhao_liang"><b>Zhao</b>&nbsp;Liang</a></span><br>
 Journal Article - Developments in the Built Environment, Vol. 15, No. 100180
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shear"><button class="btn">#shear</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Shear%20Keys" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete+shear+keys&as_occt=title&as_sauthors=hua&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161321225&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001054785800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.dibe.2023.100180" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

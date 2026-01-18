@@ -8,6 +8,10 @@ search:
 
 # #theory
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/model"><button class="btn">#model (6)</button></a> <a href="../../keyword/base"><button class="btn">#base (5)</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a>, <a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a>, <a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../foul_meso_cher.2025.NaTAoPaEi3CP/">Numerical and Theoretical Analysis of Pumping and Extrusion in 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhang_junyi"><b>Zhang</b> Junyi</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhan_zhan_zhan_li.2025.DPCCwPBUaEWFTT/">Designing Printable Cement Composites with Porous Biochar Using an Extended Water Film Thickness Theory</a></li>

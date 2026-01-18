@@ -19,14 +19,15 @@ tags:
 ---
 
 #Qualitative Assessment of Interfacial Bonding in 3D Printing Concrete Exposed to Frost-Attack ([2020-05](date/2020/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2020.e00357) <a href="https://doi.org/10.1016/j.cscm.2020.e00357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2020.e00357" target="_blank">10.1016/j.cscm.2020.e00357</a>
+<a href="https://doi.org/10.1016/j.cscm.2020.e00357" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2020.e00357" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2020.e00357" target="_blank">10.1016/j.cscm.2020.e00357</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2423-451X" title="ORCID: 0000-0002-2423-451X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/assaad_j_joseph"><b>Assaad</b>&nbsp;Joseph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3986-9534" title="ORCID: 0000-0002-3986-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hamzeh_r_farook"><b>Hamzeh</b>&nbsp;Farook</a></span>, <a href="../../../author/hamad_bilal"><b>Hamad</b>&nbsp;Bilal</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 13
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/attack"><button class="btn">#attack</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/frost"><button class="btn">#frost</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Qualitative%20Assessment%20of%20Interfacial%20Bonding%20in%203D%20Printing%20Concrete%20Exposed%20to%20Frost-Attack" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=qualitative+assessment+of+interfacial+bonding+in+3d+printing+concrete+exposed+to+frost-attack&as_occt=title&as_sauthors=assaad&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85084527915&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000602540100006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2020.e00357" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Introducing Magnesium Oxide into 3D Printed Concrete to Mitigate Dry-Shrinkage ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e04610) <a href="https://doi.org/10.1016/j.cscm.2025.e04610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04610" target="_blank">10.1016/j.cscm.2025.e04610</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e04610" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04610" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04610" target="_blank">10.1016/j.cscm.2025.e04610</a>
 
 <a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b>&nbsp;Abdulkerim</a></span>, <a href="../../../author/yang_zhe"><b>Yang</b>&nbsp;Zhe</a></span>, <a href="../../../author/xin_yubo"><b>Xin</b>&nbsp;Yubo</a></span>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b>&nbsp;Xiaoman</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yangbo"><b>Li</b>&nbsp;Yangbo</a></span>, <a href="../../../author/huang_dahai"><b>Huang</b>&nbsp;Dahai</a></span>, <a href="../../../author/shen_jing"><b>Shen</b>&nbsp;Jing</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04610
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dry"><button class="btn">#dry</button></a> <a href="../../keyword/magnesium"><button class="btn">#magnesium</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Introducing%20Magnesium%20Oxide%20into%203D%20Printed%20Concrete%20to%20Mitigate%20Dry-Shrinkage" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=introducing+magnesium+oxide+into+3d+printed+concrete+to+mitigate+dry-shrinkage&as_occt=title&as_sauthors=aman&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105001847307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001466932100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04610" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

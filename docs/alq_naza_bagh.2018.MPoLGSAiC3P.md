@@ -18,14 +18,15 @@ tags:
 ---
 
 #Mechanical Properties of Layered Geopolymer Structures Applicable in Concrete 3D Printing ([2018-07](date/2018/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" target="_blank">10.1016/j.conbuildmat.2018.04.195</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2018.04.195" target="_blank">10.1016/j.conbuildmat.2018.04.195</a>
 
 <a href="../../../author/al-qutaifi_sarah"><b>Al-Qutaifi</b>&nbsp;Sarah</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9461-3753" title="ORCID: 0000-0001-9461-3753" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazari_ali"><b>Nazari</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0151-202X" title="ORCID: 0000-0002-0151-202X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bagheri_ali"><b>Bagheri</b>&nbsp;Ali</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 176, pp. 690-699
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20Layered%20Geopolymer%20Structures%20Applicable%20in%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+layered+geopolymer+structures+applicable+in+concrete+3d+printing&as_occt=title&as_sauthors=al-qutaifi&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85047085798&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000435620000068" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2018.04.195" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

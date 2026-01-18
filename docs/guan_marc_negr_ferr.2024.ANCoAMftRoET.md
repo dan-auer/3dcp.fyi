@@ -15,14 +15,15 @@ tags:
 ---
 
 #A New Concept of Additive Manufacturing for the Regeneration of Existing Tunnels ([2022-10](date/2022/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-43102-9_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-43102-9_10" target="_blank">10.1007/978-3-031-43102-9_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-43102-9_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-43102-9_10" target="_blank">10.1007/978-3-031-43102-9_10</a>
 
 <a href="../../../author/guanziroli_stefano"><b>Guanziroli</b>&nbsp;Stefano</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9150-6733" title="ORCID: 0000-0001-9150-6733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marcucci_andrea"><b>Marcucci</b>&nbsp;Andrea</a></span>, <a href="../../../author/negrini_alberto"><b>Negrini</b>&nbsp;Alberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <a href="../../../author/chiaia_bernardino"><b>Chiaia</b>&nbsp;Bernardino</a></span><br>
 Contribution - Proceedings of Italian Concrete Conference 2022, pp. 116-124
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/existence"><button class="btn">#existence</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20New%20Concept%20of%20Additive%20Manufacturing%20for%20the%20Regeneration%20of%20Existing%20Tunnels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+new+concept+of+additive+manufacturing+for+the+regeneration+of+existing+tunnels&as_occt=title&as_sauthors=guanziroli&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174448864&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-43102-9_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

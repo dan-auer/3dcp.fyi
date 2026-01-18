@@ -22,14 +22,15 @@ tags:
 
 #Influence of Printing Speed and Nozzle Size on Buildability of 3D Printed Concrete Walls&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">A Nonlinear Finite Element Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1714&context=icdcs) <a href="https://doi.org/10.5703/1288284318135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318135" target="_blank">10.5703/1288284318135</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1714&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318135" target="_blank">10.5703/1288284318135</a>
 
 <a href="../../../author/apsari_auliagitta"><b>Apsari</b>&nbsp;Auliagitta</a></span>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b>&nbsp;Asdam</a></span>, <a href="../../../author/suprobo_priyo"><b>Suprobo</b>&nbsp;Priyo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3979-9994" title="ORCID: 0000-0002-3979-9994" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suryanto_benny"><b>Suryanto</b>&nbsp;Benny</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Speed%20and%20Nozzle%20Size%20on%20Buildability%20of%203D%20Printed%20Concrete%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+printing+speed+and+nozzle+size+on+buildability+of+3d+printed+concrete+walls&as_occt=title&as_sauthors=apsari&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318135" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,14 +22,15 @@ tags:
 
 #Custom-Made Print-Heads Empowering 3D Printed Concrete&nbsp;([2023-12](date/2023/12))
 <div class="h1-like">Innovations in Digital Design and Fabrication of Complex Prefabricated Elements</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-47913-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-47913-7_13" target="_blank">10.1007/978-3-031-47913-7_13</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-47913-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-47913-7_13" target="_blank">10.1007/978-3-031-47913-7_13</a>
 
 <a href="../../../author/ruitinga_volker"><b>Ruitinga</b>&nbsp;Volker</a></span>, <a href="../../../author/avramiea_chris_emma"><b>Avramiea</b>&nbsp;Emma</a></span><br>
 Contribution - Coding Architecture, pp. 239-261
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Custom-Made%20Print-Heads%20Empowering%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=custom-made+print-heads+empowering+3d+printed+concrete&as_occt=title&as_sauthors=ruitinga&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-47913-7_13" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

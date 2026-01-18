@@ -8,6 +8,10 @@ search:
 
 # #permeability
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/air"><button class="btn">#air (3)</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance (3)</button></a> <a href="../../keyword/water"><button class="btn">#water (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a>, <a href="../../../author/ramezanianpour_mohammad_amir"><b>Ramezanianpour</b> Amir</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS/">Effect of Air-Entraining Agent on Hardened Properties of 3D Printed Concrete with Emphasis on Permeability and Air Void Structure</a></li>
   <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../flor_scot_cluc_lopo.2025.PaERo3PMULMZCCaMSP/">Permeability and Electrical Resistivity of 3D-Printed Mortars Using Local Materials (Zeolite, Calcined Clay, and Mussel Shell Powder):<br/>Aotearoa, New Zealand</a></li>

@@ -14,14 +14,15 @@ tags:
 ---
 
 #3D Concrete Printing Matrix Reinforced with Geogrid ([2021-07](date/2021/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matpr.2021.07.212" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2021.07.212" target="_blank">10.1016/j.matpr.2021.07.212</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2021.07.212" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2021.07.212" target="_blank">10.1016/j.matpr.2021.07.212</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6117-9564" title="ORCID: 0000-0002-6117-9564" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/geetha_s"><b>Geetha</b>&nbsp;S.</a></span>, <a href="../../../author/selvakumar_m"><b>Selvakumar</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5328-7883" title="ORCID: 0000-0001-5328-7883" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lakshmi_muthu_s"><b>Lakshmi</b>&nbsp;S.</a></span><br>
 Journal Article - Materials Today: Proceedings, Vol. 49, pp. 1443-1447
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20Matrix%20Reinforced%20with%20Geogrid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+matrix+reinforced+with+geogrid&as_occt=title&as_sauthors=geetha&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123407184&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000749707600024" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2021.07.212" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,8 +59,9 @@ Journal Article - Materials Today: Proceedings, Vol. 49, pp. 1443-1447
       <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../tay_qian_tan.2019.PRf3CPUSaSFT/">Printability-Region for 3D Concrete Printing Using Slump- and Slump-Flow-Test</a></li>
     </ol>
-???+ bug "6 Citations"
+???+ bug "7 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/bakri-abdullah_mustafa_mohd"><b>Bakri Abdullah</b> Mohd</a>, <a href="../../../author/razak_abdul_rafiza"><b>Razak</b> Rafiza</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../tany_selo_bakr_raza.2025.TRaMPo3PG/">The Rheological and Mechanical Properties of 3D-Printed Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/durmaz_taner"><b>Durmaz</b> Taner</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../tany_cosk_selo_durm.2025.EoMPo3PGMUtTM/">Examination of Mechanical Properties of 3D Printed Geopolymer-Mortar Using the Taguchi -Method</a></li>
       <li><a href="../../../author/ziada_mahmoud"><b>Ziada</b> Mahmoud</a>, <a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ziad_tany_selo_cosk.2024.BBCHo3PPFRGM/">Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars</a></li>

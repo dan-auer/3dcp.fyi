@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Properties and Crack-Deflection Mechanisms in 3D Printed Porous Geopolymers with Cellular Structures ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/17452759.2024.2425824) <a href="https://doi.org/10.1080/17452759.2024.2425824" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2425824" target="_blank">10.1080/17452759.2024.2425824</a>
+<a href="https://doi.org/10.1080/17452759.2024.2425824" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452759.2024.2425824" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452759.2024.2425824" target="_blank">10.1080/17452759.2024.2425824</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Virtual and Physical Prototyping, Vol. 19, Iss. 1
 
 <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/deflection"><button class="btn">#deflection</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Crack-Deflection%20Mechanisms%20in%203D%20Printed%20Porous%20Geopolymers%20with%20Cellular%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+crack-deflection+mechanisms+in+3d+printed+porous+geopolymers+with+cellular+structures&as_occt=title&as_sauthors=lori&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209941586&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001354669000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452759.2024.2425824" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

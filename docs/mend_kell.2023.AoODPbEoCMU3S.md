@@ -17,14 +17,15 @@ tags:
 ---
 
 #Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning ([2023-01](date/2023/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/13/1/191/pdf?version=1673884561) <a href="https://doi.org/10.3390/buildings13010191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13010191" target="_blank">10.3390/buildings13010191</a>
+<a href="https://www.mdpi.com/2075-5309/13/1/191/pdf?version=1673884561" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings13010191" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings13010191" target="_blank">10.3390/buildings13010191</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendricky_radomir"><b>Mendřický</b>&nbsp;Radomír</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8989-8894" title="ORCID: 0000-0002-8989-8894" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/keller_petr"><b>Keller</b>&nbsp;Petr</a></span><br>
 Journal Article - Buildings, Vol. 13, Iss. 1
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/deformation"><button class="btn">#deformation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Object-Deformations%20Printed%20by%20Extrusion%20of%20Concrete-Mixtures%20Using%203D-Scanning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+of+object-deformations+printed+by+extrusion+of+concrete-mixtures+using+3d-scanning&as_occt=title&as_sauthors=mend%C5%99ick%C3%BD&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146554000&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000914602500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings13010191" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

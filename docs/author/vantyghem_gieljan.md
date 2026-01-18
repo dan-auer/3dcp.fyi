@@ -9,6 +9,60 @@ search:
 
 #  Vantyghem Gieljan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7265-9782" target="_blank">0000-0002-7265-9782</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2023-02-15
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 649
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (9)</li>
+        <li><a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a> (3)</li>
+        <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a> (3)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (3)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a> (264)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (20)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (20)</li>
+        <li><a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (12)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (10)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (30)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (29)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (23)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (20)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_ren_vant_lesa.2023.E3CPtHRTL/">Extending 3D Concrete Printing to Hard Rock Tunnel Linings:<br/>Adhesion of Fresh Cementitious Materials for Different Surface Inclinations</a></li>
   <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/bekaert_michiel"><b>Bekaert</b> Michiel</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../ooms_vant_tao_beka.2022.TPoaTO3PCB/">The Production of a Topology-Optimized 3D Printed Concrete Bridge</a></li>

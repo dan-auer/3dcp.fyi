@@ -21,14 +21,15 @@ tags:
 
 #Artificial Reefs Through Additive Manufacturing&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">A Review of Their Design, Purposes and Fabrication Process for Marine Restoration and Management</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.emerald.com/insight/content/doi/10.1108/RPJ-07-2023-0222/full/pdf?title=artificial-reefs-through-additive-manufacturing-a-review-of-their-design-purposes-and-fabrication-process-for-marine-restoration-and-management) <a href="https://doi.org/10.1108/rpj-07-2023-0222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-07-2023-0222" target="_blank">10.1108/rpj-07-2023-0222</a>
+<a href="https://www.emerald.com/insight/content/doi/10.1108/RPJ-07-2023-0222/full/pdf?title=artificial-reefs-through-additive-manufacturing-a-review-of-their-design-purposes-and-fabrication-process-for-marine-restoration-and-management" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-07-2023-0222" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-07-2023-0222" target="_blank">10.1108/rpj-07-2023-0222</a>
 
 <a href="../../../author/matus_valenzuela_ilse"><b>Matus</b>&nbsp;Ilse</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9327-9092" title="ORCID: 0000-0002-9327-9092" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alves_lino_jorge"><b>Alves</b>&nbsp;Jorge</a></span>, <a href="../../../author/gois_joaquim"><b>Góis</b>&nbsp;Joaquim</a></span>, <a href="../../../author/vaz-pires_paulo"><b>Vaz-Pires</b>&nbsp;Paulo</a></span>, <a href="../../../author/barata-rocha_augusto"><b>da&nbsp;Barata Rocha</b>&nbsp;Augusto</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 30, Iss. 11, pp. 87-122
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/management"><button class="btn">#management</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/marine"><button class="btn">#marine</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Reefs%20Through%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=artificial+reefs+through+additive+manufacturing&as_occt=title&as_sauthors=matus&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191658652&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001209033800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-07-2023-0222" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

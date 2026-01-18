@@ -22,14 +22,15 @@ tags:
 
 #Material in the Loop Fabrication&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">A Vision-Based Adaptive Clay 3D Printing Workflow on Indeterminate Sand Surfaces</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-37189-9_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-37189-9_27" target="_blank">10.1007/978-3-031-37189-9_27</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-37189-9_27" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-37189-9_27" target="_blank">10.1007/978-3-031-37189-9_27</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4790-0394" title="ORCID: 0000-0002-4790-0394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b>&nbsp;Özgüç</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-2745-2555" title="ORCID: 0009-0001-2745-2555" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/iseman_k_emily"><b>Iseman</b>&nbsp;Emily</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5515-2974" title="ORCID: 0000-0001-5515-2974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b>&nbsp;Benay</a></span><br>
 Contribution - Proceedings of the 20th International Conference on Computer-Aided Architectural Design Futures, pp. 410-424
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/loop"><button class="btn">#loop</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Material%20in%20the%20Loop%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=material+in+the+loop+fabrication&as_occt=title&as_sauthors=%C3%A7apunaman&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169035644&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-37189-9_27" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Earth as a Construction-Material for Sustainable 3D Printing&nbsp;([2023-06](date/2023/06))
 <div class="h1-like">Rheological Aspect</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-33890-8_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33890-8_24" target="_blank">10.1007/978-3-031-33890-8_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-33890-8_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-33890-8_24" target="_blank">10.1007/978-3-031-33890-8_24</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2333-1203" title="ORCID: 0000-0002-2333-1203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poullain_philippe"><b>Poullain</b>&nbsp;Philippe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0454-8378" title="ORCID: 0000-0002-0454-8378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/craveiro_flavio"><b>Craveiro</b>&nbsp;Flávio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0261-9259" title="ORCID: 0000-0002-0261-9259" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bartolo_galha_helena"><b>Bártolo</b>&nbsp;Helena</a></span><br>
 Contribution - Progress in Digital and Physical Manufacturing, pp. 270-280
 
 <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Earth%20as%20a%20Construction-Material%20for%20Sustainable%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=earth+as+a+construction-material+for+sustainable+3d+printing&as_occt=title&as_sauthors=joshi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201264002&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-33890-8_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

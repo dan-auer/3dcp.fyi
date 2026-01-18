@@ -22,14 +22,15 @@ tags:
 ---
 
 #Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109979" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109979" target="_blank">10.1016/j.jobe.2024.109979</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109979" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109979" target="_blank">10.1016/j.jobe.2024.109979</a>
 
 <a href="../../../author/to_bao_quoc"><b>To</b>&nbsp;Quoc</a></span>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b>&nbsp;Koa</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6824-8019" title="ORCID: 0000-0001-6824-8019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_gayoon"><b>Lee</b>&nbsp;Gayoon</a></span>, <a href="../../../author/shin_myoungsu"><b>Shin</b>&nbsp;Myoungsu</a></span>, <a href="../../../author/shin_won_dong"><b>Shin</b>&nbsp;Dong</a></span>, <a href="../../../author/lee_kihak"><b>Lee</b>&nbsp;Kihak</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109979
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20and%20FEM%20Evaluation%20of%20the%20Influence%20of%20Inter-Layer%20Bonding%20Strength%20in%203D%20Printed%20Concrete%20Members%20Under%20Compressive%20and%20Flexural%20Loadings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+and+fem+evaluation+of+the+influence+of+inter-layer+bonding+strength+in+3d+printed+concrete+members+under+compressive+and+flexural+loadings&as_occt=title&as_sauthors=to&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196642319&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001260056100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109979" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

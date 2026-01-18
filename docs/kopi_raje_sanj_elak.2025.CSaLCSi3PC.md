@@ -17,14 +17,15 @@ tags:
 ---
 
 #CO2 Sequestration and Low-Carbon-Strategies in 3D Printed Concrete ([2024-12](date/2024/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.111653) <a href="https://doi.org/10.1016/j.jobe.2024.111653" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111653" target="_blank">10.1016/j.jobe.2024.111653</a>
+<a href="https://doi.org/10.1016/j.jobe.2024.111653" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111653" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111653" target="_blank">10.1016/j.jobe.2024.111653</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8311-928X" title="ORCID: 0000-0002-8311-928X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b>&nbsp;Kirushnapillai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7731-8656" title="ORCID: 0000-0001-7731-8656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b>&nbsp;Pathmanathan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b>&nbsp;Yogarajah</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 99, No. 111653
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sequestration"><button class="btn">#sequestration</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=CO2%20Sequestration%20and%20Low-Carbon-Strategies%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=co2+sequestration+and+low-carbon-strategies+in+3d+printed+concrete&as_occt=title&as_sauthors=kopitha&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212976686&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001402591700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111653" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Zhao Yu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-10-31
+    
+    Last Contribution
+    : 2025-11-18
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 59
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a> (10)</li>
+        <li><a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> (8)</li>
+        <li><a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> (5)</li>
+        <li><a href="../../../author/yang_guang"><b>Yang</b> Guang</a> (3)</li>
+        <li><a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/yang_guang"><b>Yang</b> Guang</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM/">Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (26)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (24)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (24)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (23)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (21)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> (4)</li>
+        <li><a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> (4)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
+        <li><a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> (3)</li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhao_shen_zhu_ding.2025.MSAo3PHSECCwCaPF/">Multi-Scale Analysis of 3D Printable High-Strength Engineered Cementitious Composite with Carbon and Polyethylene Fibers:<br/>Rheology, Printability and Hydration Kinetics in Structural Components</a></li>
   <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF/">Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers</a></li>

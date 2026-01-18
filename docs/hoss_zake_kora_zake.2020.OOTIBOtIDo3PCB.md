@@ -17,14 +17,15 @@ tags:
 ---
 
 #Orbital Overlapping Through Induction Bonding Overcomes the Intrinsic Delamination of 3D Printed Cementitious Binders ([2020-06](date/2020/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1021/acsnano.0c02038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acsnano.0c02038" target="_blank">10.1021/acsnano.0c02038</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1021/acsnano.0c02038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acsnano.0c02038" target="_blank">10.1021/acsnano.0c02038</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1958-159X" title="ORCID: 0000-0003-1958-159X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hosseini_ehsan"><b>Hosseini</b>&nbsp;Ehsan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9756-2445" title="ORCID: 0000-0001-9756-2445" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zakertabrizi_mohammad"><b>Zakertabrizi</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span>, <a href="../../../author/zaker_zafar"><b>Zaker</b>&nbsp;Zafar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6897-881X" title="ORCID: 0000-0002-6897-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahsavari_rouzbeh"><b>Shahsavari</b>&nbsp;Rouzbeh</a></span><br>
 Journal Article - ACS Nano, Vol. 14, Iss. 8
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/delamination"><button class="btn">#delamination</button></a> <a href="../../keyword/induction"><button class="btn">#induction</button></a> <a href="../../keyword/overlap"><button class="btn">#overlap</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Orbital%20Overlapping%20Through%20Induction%20Bonding%20Overcomes%20the%20Intrinsic%20Delamination%20of%203D%20Printed%20Cementitious%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=orbital+overlapping+through+induction+bonding+overcomes+the+intrinsic+delamination+of+3d+printed+cementitious+binders&as_occt=title&as_sauthors=hosseini&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85090076782&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000566341000017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1021/acsnano.0c02038" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

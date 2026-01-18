@@ -20,14 +20,15 @@ tags:
 
 #Towards Fully BIM-Enabled Building Automation and Robotics&nbsp;([2021-12](date/2021/12))
 <div class="h1-like">A Perspective of Lifecycle Information Flow</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/articles/journal_contribution/Towards_fully_BIM-enabled_building_automation_and_robotics_A_perspective_of_lifecycle_information_flow/17698367/1/files/32837150.pdf) <a href="https://doi.org/10.1016/j.compind.2021.103570" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compind.2021.103570" target="_blank">10.1016/j.compind.2021.103570</a>
+<a href="https://figshare.com/articles/journal_contribution/Towards_fully_BIM-enabled_building_automation_and_robotics_A_perspective_of_lifecycle_information_flow/17698367/1/files/32837150.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compind.2021.103570" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compind.2021.103570" target="_blank">10.1016/j.compind.2021.103570</a>
 
 <a href="../../../author/zhang_jiale"><b>Zhang</b>&nbsp;Jiale</a></span>, <a href="../../../author/luo_hanbin"><b>Luo</b>&nbsp;Hanbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5851-4379" title="ORCID: 0000-0001-5851-4379" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_jerry_jie"><b>Xu</b>&nbsp;Jie</a></span><br>
 Journal Article - Computers in Industry, Vol. 135
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/enabler"><button class="btn">#enabler</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/lifecycle"><button class="btn">#lifecycle</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Fully%20BIM-Enabled%20Building%20Automation%20and%20Robotics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+fully+bim-enabled+building+automation+and+robotics&as_occt=title&as_sauthors=zhang&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120966719&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000754167100003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compind.2021.103570" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

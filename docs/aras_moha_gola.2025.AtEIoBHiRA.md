@@ -21,14 +21,15 @@ tags:
 
 #Assessing the Environmental Impact of Building Houses in Remote Areas&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">3D Printing vs. Traditional Construction Techniques</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.111968) <a href="https://doi.org/10.1016/j.jobe.2025.111968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.111968" target="_blank">10.1016/j.jobe.2025.111968</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.111968" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.111968" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.111968" target="_blank">10.1016/j.jobe.2025.111968</a>
 
 <a href="../../../author/arash_motalebi"><b>Arash</b>&nbsp;Motalebi</a></span>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b>&nbsp;Aba</a></span>, <a href="../../../author/golam_kabir"><b>Golam</b>&nbsp;Kabir</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111968
 
 <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/remote"><button class="btn">#remote</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessing%20the%20Environmental%20Impact%20of%20Building%20Houses%20in%20Remote%20Areas" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessing+the+environmental+impact+of+building+houses+in+remote+areas&as_occt=title&as_sauthors=arash&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216927660&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001425550400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.111968" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

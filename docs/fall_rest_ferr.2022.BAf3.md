@@ -12,14 +12,15 @@ tags:
 
 #Biochar Addition for 3DCP&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">A Preliminary Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2022.05.079) <a href="https://doi.org/10.1016/j.prostr.2022.05.079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2022.05.079" target="_blank">10.1016/j.prostr.2022.05.079</a>
+<a href="https://doi.org/10.1016/j.prostr.2022.05.079" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.prostr.2022.05.079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2022.05.079" target="_blank">10.1016/j.prostr.2022.05.079</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/restuccia_luciana"><b>Restuccia</b>&nbsp;Luciana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b>&nbsp;Giuseppe</a></span><br>
 Journal Article - Procedia Structural Integrity, Vol. 41, pp. 699-703
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Biochar%20Addition%20for%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=biochar+addition+for+3dcp&as_occt=title&as_sauthors=falliano&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134559083&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.prostr.2022.05.079" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

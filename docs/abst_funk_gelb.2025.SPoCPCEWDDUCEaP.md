@@ -19,14 +19,15 @@ tags:
 ---
 
 #Sustainable Production of Complex Precast Concrete Elements Without Demolding Drafts Using Concrete Extrusion and Processing ([2024-10](date/2024/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-73776-3_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_10" target="_blank">10.1007/978-3-031-73776-3_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-73776-3_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-73776-3_10" target="_blank">10.1007/978-3-031-73776-3_10</a>
 
 <a href="../../../author/abstoss_marvin"><b>Abstoß</b>&nbsp;Marvin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3423-9952" title="ORCID: 0000-0003-3423-9952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/funke_henrik"><b>Funke</b>&nbsp;Henrik</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-4137-0693" title="ORCID: 0009-0009-4137-0693" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gelbrich_sandra"><b>Gelbrich</b>&nbsp;Sandra</a></span><br>
 Contribution - Environmental Challenges in Civil Engineering III, pp. 144-159
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/precast"><button class="btn">#precast</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Production%20of%20Complex%20Precast%20Concrete%20Elements%20Without%20Demolding%20Drafts%20Using%20Concrete%20Extrusion%20and%20Processing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+production+of+complex+precast+concrete+elements+without+demolding+drafts+using+concrete+extrusion+and+processing&as_occt=title&as_sauthors=absto%C3%9F&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208250820&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-73776-3_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

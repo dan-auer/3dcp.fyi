@@ -8,6 +8,10 @@ search:
 
 # #quaternary
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/development"><button class="btn">#development (3)</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yan_zhan_ma_sanj.2024.AEFUHPGCwQBf3P/">An Eco-Friendly Ultra-High-Performance Geopolymer Concrete with Quaternary Binders for 3D Printing</a></li>
   <li><a href="../../../author/reddy_charan-kumar_b"><b>Reddy</b> B.</a>, <a href="../../../author/sameer_khaja_sk"><b>Sameer</b> Sk</a>, <a href="../../../author/ramesh_v"><b>Ramesh</b> V.</a>, <a href="../../../author/sriya_b"><b>Sriya</b> B.</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../redd_same_rame_sriy.2024.SDo3PQGC/">Sustainable Development of 3D Printable Quaternary Geopolymer Concrete</a></li>

@@ -21,14 +21,15 @@ tags:
 
 #Advancing Sustainable Construction&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">Insights into Clay-Based Additive Manufacturing for Architecture, Engineering, and Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.intechopen.com/citation-pdf-url/1186343) <a href="https://doi.org/10.5772/intechopen.1005442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5772/intechopen.1005442" target="_blank">10.5772/intechopen.1005442</a>
+<a href="https://www.intechopen.com/citation-pdf-url/1186343" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5772/intechopen.1005442" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5772/intechopen.1005442" target="_blank">10.5772/intechopen.1005442</a>
 
 <a href="../../../author/los-angeles-ortega-rosario_maria"><b>del&nbsp;Los Angeles Ortega Rosario</b>&nbsp;Maria</a></span>, <a href="../../../author/medina_melany"><b>Medina</b>&nbsp;Melany</a></span>, <a href="../../../author/duque_rafael"><b>Duque</b>&nbsp;Rafael</a></span>, <a href="../../../author/alberto-jaen-ortega_antonio"><b>Alberto Jaén Ortega</b>&nbsp;Antonio</a></span>, <a href="../../../author/castillero_luis"><b>Castillero</b>&nbsp;Luis</a></span><br>
 Contribution - Developments in Clay Science and Construction Techniques
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+sustainable+construction&as_occt=title&as_sauthors=los+angeles+ortega+rosario&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5772/intechopen.1005442" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

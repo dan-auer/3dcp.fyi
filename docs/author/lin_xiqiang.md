@@ -9,6 +9,60 @@ search:
 
 #  Lin Xiqiang 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-07-10
+    
+    Last Contribution
+    : 2025-12-09
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 5
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (5)</li>
+        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> (5)</li>
+        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (2)</li>
+        <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
+        <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_shen_sun_song.2025.IoPSotPo3PCAC/">Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete:<br/>Experiment, Microstructure, and Mechanism Analysis</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (7)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
+        <li><a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a> (2)</li>
+        <li><a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wang_shi_sun_lin.2026.DMSSAaCoMP3PCR/">Design, Multi-Scale Structural Analysis, and Construction of Modular Prefabricated 3D-Printed Concrete Residence</a></li>
   <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a>, <a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a>, <a href="../../../author/xiong_guiyan"><b>Xiong</b> Guiyan</a>, <a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME/">Long-Term Durability and Degradation Mechanisms of 3D Printed Geopolymers (3DPG) With/Without Healing Agents in Marine Environments</a></li>

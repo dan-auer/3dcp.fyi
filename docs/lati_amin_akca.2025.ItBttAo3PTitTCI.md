@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigating the Barriers to the Adoption of 3D Printing Technology in the Turkish Construction Industry ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-87364-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-87364-5_30" target="_blank">10.1007/978-3-031-87364-5_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-87364-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-87364-5_30" target="_blank">10.1007/978-3-031-87364-5_30</a>
 
 <a href="../../../author/latifiilkhechi_leva"><b>Latifiilkhechi</b>&nbsp;Leva</a></span>, <a href="../../../author/aminbakhsh_saman"><b>Aminbakhsh</b>&nbsp;Saman</a></span>, <a href="../../../author/akcay_caner_emre"><b>Akcay</b>&nbsp;Emre</a></span><br>
 Contribution - Advances in Information Technology in Civil and Building Engineering, pp. 361-373
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Barriers%20to%20the%20Adoption%20of%203D%20Printing%20Technology%20in%20the%20Turkish%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+barriers+to+the+adoption+of+3d+printing+technology+in+the+turkish+construction+industry&as_occt=title&as_sauthors=latifiilkhechi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002385092&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001485263000030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-87364-5_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

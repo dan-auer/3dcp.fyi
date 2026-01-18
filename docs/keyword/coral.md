@@ -8,6 +8,10 @@ search:
 
 # #coral
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial (2)</button></a> <a href="../../keyword/reef"><button class="btn">#reef (2)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../pham_huan.2024.3PACR/">3D Printed Artificial Coral Reefs:<br/>Design and Manufacture</a></li>
   <li><a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/castro_andre"><b>Castro</b> André</a>, <a href="../../../author/felix_joao_maria"><b>Félix</b> Maria</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dias_bran_cast_feli.2024.DTsCR/">Designing Tomorrow's Coral Reefs:<br/>3DCP Potential in Innovative Artificial Coral-Reefs-Systems Development</a></li>

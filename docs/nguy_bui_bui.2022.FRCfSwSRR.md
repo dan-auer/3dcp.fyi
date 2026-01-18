@@ -23,14 +23,15 @@ tags:
 
 #Fiber-Reinforced Concrete for Slabs without Steel-Rebar-Reinforcement&nbsp;([2022-02](date/2022/02))
 <div class="h1-like">Assessing the Feasibility for 3D Printed Individual Houses</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2022.e00950) <a href="https://doi.org/10.1016/j.cscm.2022.e00950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e00950" target="_blank">10.1016/j.cscm.2022.e00950</a>
+<a href="https://doi.org/10.1016/j.cscm.2022.e00950" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2022.e00950" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2022.e00950" target="_blank">10.1016/j.cscm.2022.e00950</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4841-0653" title="ORCID: 0000-0002-4841-0653" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_tan_ngoc"><b>Nguyen</b>&nbsp;Ngoc</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8279-7230" title="ORCID: 0000-0002-8279-7230" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bui_tan-trung"><b>Bui</b>&nbsp;Tan-Trung</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9675-0038" title="ORCID: 0000-0002-9675-0038" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bui_quoc-bao"><b>Bui</b>&nbsp;Quoc-Bao</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 16
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/individuality"><button class="btn">#individuality</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fiber-Reinforced%20Concrete%20for%20Slabs%20without%20Steel-Rebar-Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fiber-reinforced+concrete+for+slabs+without+steel-rebar-reinforcement&as_occt=title&as_sauthors=nguyen&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124596632&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000788264900008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2022.e00950" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

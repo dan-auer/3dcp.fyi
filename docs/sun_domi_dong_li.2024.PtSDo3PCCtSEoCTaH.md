@@ -24,14 +24,15 @@ tags:
 
 #Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">From Perspective of Modified Maturity-Model</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" target="_blank">10.1016/j.conbuildmat.2024.136291</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136291" target="_blank">10.1016/j.conbuildmat.2024.136291</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4211-0561" title="ORCID: 0000-0002-4211-0561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_bochao"><b>Sun</b>&nbsp;Bochao</a></span>, <a href="../../../author/dominicus_randy"><b>Dominicus</b>&nbsp;Randy</a></span>, <a href="../../../author/dong_enlai"><b>Dong</b>&nbsp;Enlai</a></span>, <a href="../../../author/li_peichen"><b>Li</b>&nbsp;Peichen</a></span>, <a href="../../../author/ye_zi"><b>Ye</b>&nbsp;Zi</a></span>, <a href="../../../author/wang_wei"><b>Wang</b>&nbsp;Wei</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 427, No. 136291
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/humidity"><button class="btn">#humidity</button></a> <a href="../../keyword/maturity"><button class="btn">#maturity</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/synergy"><button class="btn">#synergy</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Predicting%20the%20Strength%20Development%20of%203D%20Printed%20Concrete%20Considering%20the%20Synergistic%20Effect%20of%20Curing-Temperature%20and%20Humidity" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=predicting+the+strength+development+of+3d+printed+concrete+considering+the+synergistic+effect+of+curing-temperature+and+humidity&as_occt=title&as_sauthors=sun&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190732774&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001292519900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.136291" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

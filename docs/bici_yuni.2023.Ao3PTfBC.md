@@ -17,14 +17,15 @@ tags:
 
 #Analysis of 3D Printing Techniques for Building Construction&nbsp;([2023-07](date/2023/07))
 <div class="h1-like">A Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-023-00108-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00108-4" target="_blank">10.1007/s41693-023-00108-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-023-00108-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-023-00108-4" target="_blank">10.1007/s41693-023-00108-4</a>
 
 <a href="../../../author/bici_andjol"><b>Bici</b>&nbsp;Andjol</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9942-7677" title="ORCID: 0000-0001-9942-7677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yunitsyna_anna"><b>Yunitsyna</b>&nbsp;Anna</a></span><br>
 Journal Article - Construction Robotics
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%203D%20Printing%20Techniques%20for%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+of+3d+printing+techniques+for+building+construction&as_occt=title&as_sauthors=bici&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-023-00108-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

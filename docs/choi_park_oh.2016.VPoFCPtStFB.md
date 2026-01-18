@@ -17,14 +17,15 @@ tags:
 ---
 
 #Viscoelastic Properties of Fresh Cement-Paste to Study the Flow Behavior ([2016-06](date/2016/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007%2Fs40069-016-0158-3.pdf) <a href="https://doi.org/10.1007/s40069-016-0158-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40069-016-0158-3" target="_blank">10.1007/s40069-016-0158-3</a>
+<a href="https://link.springer.com/content/pdf/10.1007%2Fs40069-016-0158-3.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40069-016-0158-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40069-016-0158-3" target="_blank">10.1007/s40069-016-0158-3</a>
 
 <a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6243-5016" title="ORCID: 0000-0001-6243-5016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_kyoungsoo"><b>Park</b>&nbsp;Kyoungsoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3848-6248" title="ORCID: 0000-0003-3848-6248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oh_taekeun"><b>Oh</b>&nbsp;Taekeun</a></span><br>
 Journal Article - International Journal of Concrete Structures and Materials, Vol. 10, Iss. S3, pp. 65-74
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Viscoelastic%20Properties%20of%20Fresh%20Cement-Paste%20to%20Study%20the%20Flow%20Behavior" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=viscoelastic+properties+of+fresh+cement-paste+to+study+the+flow+behavior&as_occt=title&as_sauthors=choi&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84987887566&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000387996000006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40069-016-0158-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

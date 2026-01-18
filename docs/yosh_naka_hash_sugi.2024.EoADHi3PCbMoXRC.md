@@ -17,14 +17,15 @@ tags:
 ---
 
 #Evaluation of Aggregate-Distribution Heterogeneity in 3D Printed Concrete by Means of X-Ray CT ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/1132/pdf?version=1713363486) <a href="https://doi.org/10.3390/buildings14041132" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041132" target="_blank">10.3390/buildings14041132</a>
+<a href="https://www.mdpi.com/2075-5309/14/4/1132/pdf?version=1713363486" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14041132" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14041132" target="_blank">10.3390/buildings14041132</a>
 
 <a href="../../../author/yoshihara_rei"><b>Yoshihara</b>&nbsp;Rei</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-7207-2963" title="ORCID: 0009-0009-7207-2963" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nakase_kota"><b>Nakase</b>&nbsp;Kota</a></span>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b>&nbsp;Katsufumi</a></span>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b>&nbsp;Takafumi</a></span>, <a href="../../../author/honda_yoshiki"><b>Honda</b>&nbsp;Yoshiki</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 4, No. 1132
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/heterogeneity"><button class="btn">#heterogeneity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ray"><button class="btn">#ray</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Aggregate-Distribution%20Heterogeneity%20in%203D%20Printed%20Concrete%20by%20Means%20of%20X-Ray%20CT" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+aggregate-distribution+heterogeneity+in+3d+printed+concrete+by+means+of+x-ray+ct&as_occt=title&as_sauthors=yoshihara&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191395906&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001210615200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14041132" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

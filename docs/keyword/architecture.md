@@ -8,6 +8,10 @@ search:
 
 # #architecture
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (61)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (33)</button></a> <a href="../../keyword/design"><button class="btn">#design (26)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (22)</button></a> <a href="../../keyword/material"><button class="btn">#material (21)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
   <li><a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/datta_ipsita"><b>Datta</b> Ipsita</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baha_datt_ozbu.2026.Fo3POSWLHIfDMCiAM/">Feasibility of 3D Printing Oyster Shell Waste Laden Hydrogel Inks for Developing Mycelium Composite in Architectural Materials</a></li>

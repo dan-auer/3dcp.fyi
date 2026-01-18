@@ -9,7 +9,62 @@ search:
 
 #  Singh Amardeep 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-0084-808X" target="_blank">0000-0003-0084-808X</a>
+
+    First Contribution
+    : 2022-02-01
+    
+    Last Contribution
+    : 2026-01-10
+
+    Number Contributions
+    : 22
+
+    Number Citations
+    : 319
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (6)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (6)</li>
+        <li><a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> (5)</li>
+        <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a> (5)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a> (92)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (85)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (55)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (54)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (50)</li>
+        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (49)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (18)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (15)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (13)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (9)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/qi_deng"><b>Qi</b> Deng</a>, <a href="../../../author/abden_jaynul_md"><b>Abden</b> Md</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sing_sun_qi_abde.2026.EGPSf3PC/">Evaluating Glass Powder Substitution for 3D Printed Concrete:<br/>Effects on Thermal Properties and Embodied Carbon</a></li>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_song"><b>Yang</b> Song</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sing_yang_wang_xiao.2025.CTFCfFTRi3PC/">Critical Threshold Fiber Content for Freeze-Thaw Resistance in 3D-Printed Concrete</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/wang_jiyuan"><b>Wang</b> Jiyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../nasr_wang_duan_deng.2025.AtVaIoRHDPFi3PCC/">Assessing the Visibility and Impact of Recycled High-Density Polyethylene Fibers in 3D-Printed Cementitious Composites</a></li>

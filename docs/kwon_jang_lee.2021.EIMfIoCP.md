@@ -16,14 +16,15 @@ tags:
 ---
 
 #External Injection Method for Improvement of Concrete Pumpability ([2021-09](date/2021/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51732977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51732977" target="_blank">10.14359/51732977</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51732977" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51732977" target="_blank">10.14359/51732977</a>
 
 <a href="../../../author/kwon_hee_seung"><b>Kwon</b>&nbsp;Seung</a></span>, <a href="../../../author/jang_pil_kyong"><b>Jang</b>&nbsp;Kyong</a></span>, <a href="../../../author/lee_soo_jung"><b>Lee</b>&nbsp;Jung</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 5, pp. 17-28
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/external"><button class="btn">#external</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=External%20Injection%20Method%20for%20Improvement%20of%20Concrete%20Pumpability" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=external+injection+method+for+improvement+of+concrete+pumpability&as_occt=title&as_sauthors=kwon&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123722699&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750851300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51732977" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

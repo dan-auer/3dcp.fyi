@@ -9,6 +9,60 @@ search:
 
 #  Mawas Karam 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8608-7578" target="_blank">0000-0002-8608-7578</a>
+
+    First Contribution
+    : 2021-11-04
+    
+    Last Contribution
+    : 2025-09-14
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 78
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (9)</li>
+        <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> (8)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (5)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (2)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (51)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (50)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (39)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (32)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (11)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (9)</li>
+        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (8)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mawa_mabo_gerk.2026.ARoGaSIi3CP/">A Review on Geometry and Surface Inspection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a>, <a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../mabo_mawa_gerk.2025.GIi3CM/">Geometric Inspection in 3D Concrete Manufacturing:<br/>Comparison of Data Capturing Techniques</a></li>

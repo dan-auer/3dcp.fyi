@@ -16,14 +16,15 @@ tags:
 ---
 
 #Automated Casting Systems for Spatial Concrete Lattices ([2015-10](date/2015/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-24208-8_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-24208-8_18" target="_blank">10.1007/978-3-319-24208-8_18</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-24208-8_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-24208-8_18" target="_blank">10.1007/978-3-319-24208-8_18</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9847-3409" title="ORCID: 0000-0002-9847-3409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/morel_philippe"><b>Morel</b>&nbsp;Philippe</a></span>, <a href="../../../author/schwartz_thibault"><b>Schwartz</b>&nbsp;Thibault</a></span><br>
 Contribution - Proceedings of the Design Modelling Symposium 2015, pp. 213-223
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Casting%20Systems%20for%20Spatial%20Concrete%20Lattices" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+casting+systems+for+spatial+concrete+lattices&as_occt=title&as_sauthors=morel&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-24208-8_18" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

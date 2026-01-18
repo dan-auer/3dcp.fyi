@@ -20,14 +20,15 @@ tags:
 
 #Recycled Waste Materials Utilised in 3D Concrete Printing for Construction Applications&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">A Scientometric Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/19/3572/pdf?version=1759481385) <a href="https://doi.org/10.3390/buildings15193572" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15193572" target="_blank">10.3390/buildings15193572</a>
+<a href="https://www.mdpi.com/2075-5309/15/19/3572/pdf?version=1759481385" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15193572" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15193572" target="_blank">10.3390/buildings15193572</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4618-4880" title="ORCID: 0000-0003-4618-4880" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahmood_ali"><b>Mahmood</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6014-2874" title="ORCID: 0000-0002-6014-2874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nanos_nikos"><b>Nanos</b>&nbsp;Nikos</a></span>, <a href="../../../author/begg_david"><b>Begg</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6439-3742" title="ORCID: 0000-0002-6439-3742" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dhakal_nath_hom"><b>Dhakal</b>&nbsp;Hom</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 19
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recycled%20Waste%20Materials%20Utilised%20in%203D%20Concrete%20Printing%20for%20Construction%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recycled+waste+materials+utilised+in+3d+concrete+printing+for+construction+applications&as_occt=title&as_sauthors=mahmood&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018852308&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001593740100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15193572" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -48,8 +49,9 @@ Journal Article - Buildings, Vol. 15, Iss. 19
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a></li>
     </ol>
 </div>
 

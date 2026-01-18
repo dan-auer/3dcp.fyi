@@ -18,14 +18,15 @@ tags:
 ---
 
 #Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods ([2025-09](date/2025/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/17/3205/pdf?version=1757066464) <a href="https://doi.org/10.3390/buildings15173205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15173205" target="_blank">10.3390/buildings15173205</a>
+<a href="https://www.mdpi.com/2075-5309/15/17/3205/pdf?version=1757066464" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15173205" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15173205" target="_blank">10.3390/buildings15173205</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-2747-2587" title="ORCID: 0009-0006-2747-2587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chortis_alexandros"><b>Chortis</b>&nbsp;Alexandros</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-4317-4292" title="ORCID: 0009-0001-4317-4292" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gkountas_charalampos"><b>Gkountas</b>&nbsp;Charalampos</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9333-4728" title="ORCID: 0000-0001-9333-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/melidis_lazaros"><b>Melidis</b>&nbsp;Lazaros</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6272-1071" title="ORCID: 0000-0001-6272-1071" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/katakalos_konstantinos"><b>Katakalos</b>&nbsp;Konstantinos</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 17, No. 3205
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Seismic%20Performance%20Evaluation%20of%203D-Printed%20Concrete%20Walls%20Through%20Numerical%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=seismic+performance+evaluation+of+3d-printed+concrete+walls+through+numerical+methods&as_occt=title&as_sauthors=chortis&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015513250&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001569909100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15173205" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

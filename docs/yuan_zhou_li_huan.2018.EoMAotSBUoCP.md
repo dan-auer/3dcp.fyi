@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effect of Mineral Admixtures on the Structural Build-Up of Cement-Paste ([2017-11](date/2017/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" target="_blank">10.1016/j.conbuildmat.2017.11.050</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.11.050" target="_blank">10.1016/j.conbuildmat.2017.11.050</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_dajun"><b>Zhou</b>&nbsp;Dajun</a></span>, <a href="../../../author/li_baiyun"><b>Li</b>&nbsp;Baiyun</a></span>, <a href="../../../author/huang_hai"><b>Huang</b>&nbsp;Hai</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 160, pp. 117-126
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Mineral%20Admixtures%20on%20the%20Structural%20Build-Up%20of%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+mineral+admixtures+on+the+structural+build-up+of+cement-paste&as_occt=title&as_sauthors=yuan&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85034653216&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000424854600012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2017.11.050" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

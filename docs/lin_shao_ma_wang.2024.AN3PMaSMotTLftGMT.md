@@ -18,14 +18,15 @@ tags:
 ---
 
 #A New 3D Printing Method and Similar Materials of the Tunnel-Lining for the Geomechanical Model-Test ([2024-05](date/2024/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.136724" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136724" target="_blank">10.1016/j.conbuildmat.2024.136724</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.136724" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.136724" target="_blank">10.1016/j.conbuildmat.2024.136724</a>
 
 <a href="../../../author/lin_xinbo"><b>Lin</b>&nbsp;Xinbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7561-2728" title="ORCID: 0000-0002-7561-2728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shao_yajian"><b>Shao</b>&nbsp;Yajian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8983-783X" title="ORCID: 0000-0002-8983-783X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ma_guowei"><b>Ma</b>&nbsp;Guowei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1286-4407" title="ORCID: 0000-0003-1286-4407" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_li"><b>Wang</b>&nbsp;Li</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 433, No. 136724
 
 <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/similarity"><button class="btn">#similarity</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/tunnel"><button class="btn">#tunnel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20New%203D%20Printing%20Method%20and%20Similar%20Materials%20of%20the%20Tunnel-Lining%20for%20the%20Geomechanical%20Model-Test" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+new+3d+printing+method+and+similar+materials+of+the+tunnel-lining+for+the+geomechanical+model-test&as_occt=title&as_sauthors=lin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193951091&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001246472800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.136724" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 
 #Recyclable Sand Formwork&nbsp;([2022-04](date/2022/04))
 <div class="h1-like">Towards Circular Production of Lightweight Concrete Structures</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202200009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202200009" target="_blank">10.1002/best.202200009</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202200009" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202200009" target="_blank">10.1002/best.202200009</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7711-2401" title="ORCID: 0000-0002-7711-2401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovaleva_daria"><b>Kovaleva</b>&nbsp;Daria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5007-1833" title="ORCID: 0000-0001-5007-1833" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nistler_maximilian"><b>Nistler</b>&nbsp;Maximilian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4592-6347" title="ORCID: 0000-0002-4592-6347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blandini_lucio"><b>Blandini</b>&nbsp;Lucio</a></span>, <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2548-6620" title="ORCID: 0000-0002-2548-6620" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verl_alexander"><b>Verl</b>&nbsp;Alexander</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 117, Iss. 5, pp. 333-342
 
 <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recyclable%20Sand%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recyclable+sand+formwork&as_occt=title&as_sauthors=kovaleva&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85128535414&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000778952400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202200009" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

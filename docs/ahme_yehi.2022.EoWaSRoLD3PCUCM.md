@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of Workability and Structuration-Rate of Locally Developed 3D Printing Concrete Using Conventional Methods ([2022-02](date/2022/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/15/3/1243/pdf?version=1644375907) <a href="https://doi.org/10.3390/ma15031243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15031243" target="_blank">10.3390/ma15031243</a>
+<a href="https://www.mdpi.com/1996-1944/15/3/1243/pdf?version=1644375907" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma15031243" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma15031243" target="_blank">10.3390/ma15031243</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8260-5334" title="ORCID: 0000-0001-8260-5334" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmed_khaled_sara"><b>Ahmed</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3118-5074" title="ORCID: 0000-0002-3118-5074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yehia_a_sherif"><b>Yehia</b>&nbsp;Sherif</a></span><br>
 Journal Article - Materials, Vol. 15, Iss. 3
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rate"><button class="btn">#rate</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Workability%20and%20Structuration-Rate%20of%20Locally%20Developed%203D%20Printing%20Concrete%20Using%20Conventional%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+workability+and+structuration-rate+of+locally+developed+3d+printing+concrete+using+conventional+methods&as_occt=title&as_sauthors=ahmed&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124464924&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000755271500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma15031243" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #clinker
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/low"><button class="btn">#low (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (2)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wei_khay.2025.EoCAoPoLC3PM/">Effect of Chemical Additives on Performance of Low-Clinker 3D Printing Mortar</a></li>
   <li><a href="../../../author/palomba_martina"><b>Palomba</b> Martina</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/villani_chiara"><b>Villani</b> Chiara</a>, <a href="../../../author/wagner_eckhard"><b>Wagner</b> Eckhard</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../palo_espo_vill_wagn.2024.ECAtSBoLC3PM/">Environmental Conditions Affecting the Shrinkage Behavior of Low Clinker 3D Printable Mortar</a></li>

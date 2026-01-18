@@ -21,14 +21,15 @@ tags:
 ---
 
 #Fabrication Information Modeling for Closed-Loop Design and Quality Improvement in Additive Manufacturing for Construction ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105792) <a href="https://doi.org/10.1016/j.autcon.2024.105792" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105792" target="_blank">10.1016/j.autcon.2024.105792</a>
+<a href="https://doi.org/10.1016/j.autcon.2024.105792" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105792" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105792" target="_blank">10.1016/j.autcon.2024.105792</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Journal Article - Automation in Construction, Vol. 168, No. 105792
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/closed"><button class="btn">#closed</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/loop"><button class="btn">#loop</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fabrication%20Information%20Modeling%20for%20Closed-Loop%20Design%20and%20Quality%20Improvement%20in%20Additive%20Manufacturing%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fabrication+information+modeling+for+closed-loop+design+and+quality+improvement+in+additive+manufacturing+for+construction&as_occt=title&as_sauthors=slepicka&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204799816&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001327039200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105792" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

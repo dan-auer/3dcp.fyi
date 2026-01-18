@@ -24,7 +24,7 @@ Contribution - Proceedings, pp. 355-364
 
 <a href="../../keyword/collection"><button class="btn">#collection</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/planar"><button class="btn">#planar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integrated%20Sensing%20Printhead" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integrated+sensing+printhead&as_occt=title&as_sauthors=lin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

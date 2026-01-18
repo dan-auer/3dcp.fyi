@@ -8,6 +8,10 @@ search:
 
 # #adhesion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (23)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (19)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (18)</button></a> <a href="../../keyword/inter"><button class="btn">#inter (16)</button></a> <a href="../../keyword/influence"><button class="btn">#influence (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>

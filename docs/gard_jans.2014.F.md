@@ -17,14 +17,15 @@ tags:
 
 #FreeFab&nbsp;([2014-05](date/2014/05))
 <div class="h1-like">Development of a Construction-Scale Robotic Formwork 3D Printer</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-04663-1_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-04663-1_9" target="_blank">10.1007/978-3-319-04663-1_9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-04663-1_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-04663-1_9" target="_blank">10.1007/978-3-319-04663-1_9</a>
 
 <a href="../../../author/gardiner_b_james"><b>Gardiner</b>&nbsp;James</a></span>, <a href="../../../author/janssen_r_steven"><b>Janssen</b>&nbsp;Steven</a></span><br>
 Contribution - Robotic Fabrication in Architecture, Art and Design 2014, pp. 131-146
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=FreeFab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=freefab&as_occt=title&as_sauthors=gardiner&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-04663-1_9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

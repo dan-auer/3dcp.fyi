@@ -18,14 +18,15 @@ tags:
 ---
 
 #_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting ([2018-04](date/2018/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-02-2017-0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-02-2017-0029" target="_blank">10.1108/rpj-02-2017-0029</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-02-2017-0029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-02-2017-0029" target="_blank">10.1108/rpj-02-2017-0029</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7971-7239" title="ORCID: 0000-0001-7971-7239" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zareiyan_babak"><b>Zareiyan</b>&nbsp;Babak</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 24, Iss. 3, pp. 584-592
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=_Effects%20of%20Mixture%20Ingredients%20on%20Inter-Layer%20Adhesion%20of%20Concrete%20in%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=_effects+of+mixture+ingredients+on+inter-layer+adhesion+of+concrete+in+contour+crafting&as_occt=title&as_sauthors=zareiyan&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046106500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000431033000008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-02-2017-0029" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

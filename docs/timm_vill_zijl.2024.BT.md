@@ -17,14 +17,15 @@ tags:
 
 #Bridging Technologies&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Integrating 3DCP and OSC Through BIM Implementation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_61" target="_blank">10.1007/978-3-031-70031-6_61</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_61" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_61" target="_blank">10.1007/978-3-031-70031-6_61</a>
 
-<span class="author"><a href="https://orcid.org/0009-0008-4370-1225" title="ORCID: 0009-0008-4370-1225" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/timm_kim"><b>Timm</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
+<span class="author"><a href="https://orcid.org/0009-0008-4370-1225" title="ORCID: 0009-0008-4370-1225" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/timm_anne_kim"><b>Timm</b>&nbsp;Kim</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0775-5305" title="ORCID: 0000-0002-0775-5305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/villiers_wibke"><b>de&nbsp;Villiers</b>&nbsp;Wibke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8066-7750" title="ORCID: 0000-0001-8066-7750" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van&nbsp;Zijl</b>&nbsp;Gideon</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 525-532
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bridging%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bridging+technologies&as_occt=title&as_sauthors=timm&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203078070&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600061" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_61" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -58,7 +59,7 @@ Contribution - Proceedings of the 4th RILEM International Conference on Concrete
 
     ```bibtex
     @inproceedings{timm_vill_zijl.2024.BT,
-      author            = "Kim Timm and Wibke de Villiers and Gideon Pieter Adriaan Greeff van Zijl",
+      author            = "Kim Anne Timm and Wibke de Villiers and Gideon Pieter Adriaan Greeff van Zijl",
       title             = "Bridging Technologies: Integrating 3DCP and OSC Through BIM Implementation",
       doi               = "10.1007/978-3-031-70031-6_61",
       year              = "2024",
@@ -75,10 +76,10 @@ Contribution - Proceedings of the 4th RILEM International Conference on Concrete
 
     === "IEEE"
 
-    <span id="iee">K. Timm, W. de Villiers and G. P. A. G. van Zijl, “Bridging Technologies: Integrating 3DCP and OSC Through BIM Implementation”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 525–532. doi: 10.1007/978-3-031-70031-6_61.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">K. A. Timm, W. de Villiers and G. P. A. G. van Zijl, “Bridging Technologies: Integrating 3DCP and OSC Through BIM Implementation”, in <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024, vol. 53, pp. 525–532. doi: 10.1007/978-3-031-70031-6_61.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Timm, Kim, Wibke de Villiers, and Gideon Pieter Adriaan Greeff van Zijl. “Bridging Technologies: Integrating 3DCP and OSC Through BIM Implementation”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:525–32, 2024. https://doi.org/10.1007/978-3-031-70031-6_61.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Timm, Kim Anne, Wibke de Villiers, and Gideon Pieter Adriaan Greeff van Zijl. “Bridging Technologies: Integrating 3DCP and OSC Through BIM Implementation”. In <i>Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 53:525–32, 2024. https://doi.org/10.1007/978-3-031-70031-6_61.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

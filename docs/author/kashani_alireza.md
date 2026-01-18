@@ -9,6 +9,60 @@ search:
 
 #  Kashani Alireza 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-1080-645X" target="_blank">0000-0002-1080-645X</a>
+
+    First Contribution
+    : 2017-07-01
+    
+    Last Contribution
+    : 2025-02-19
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 458
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> (4)</li>
+        <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a> (3)</li>
+        <li><a href="../../../author/agudelo_isabel"><b>Agudelo</b> Isabel</a> (2)</li>
+        <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a> (2)</li>
+        <li><a href="../../../author/yang_liming"><b>Yang</b> Liming</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/imbalzano_gabriele"><b>Imbalzano</b> Gabriele</a>, <a href="../../../author/nguyen_thuy_quynh"><b>Nguyen</b> Quynh</a> et al. <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../ngo_kash_imba_nguy.2018.AM3P/">Additive Manufacturing (3D Printing):<br/>A Review of Materials, Methods, Applications and Challenges</a> (246)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (37)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (37)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (23)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (20)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (12)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (9)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (9)</li>
+        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (8)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b> Sagegh</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b> Hamed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA/">Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates</a></li>
   <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kash.2025.RMaECiSSBT3PWD/">Reducing Material and Energy Consumption in Single-Story Buildings Through 3D-Printed Wall Designs</a></li>

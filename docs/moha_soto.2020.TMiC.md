@@ -16,14 +16,15 @@ tags:
 
 #Threat Modeling in Construction&nbsp;([2020-10](date/2020/10))
 <div class="h1-like">An Example of a 3D Concrete Printing System</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2020/0087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0087" target="_blank">10.22260/isarc2020/0087</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2020/0087" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2020/0087" target="_blank">10.22260/isarc2020/0087</a>
 
 <a href="../../../author/mohamed-shibly_ur-rahman_maahir"><b>Mohamed Shibly</b>&nbsp;Maahir</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9613-8105" title="ORCID: 0000-0002-9613-8105" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soto_garcia_borja"><b>de&nbsp;Soto</b>&nbsp;Borja</a></span><br>
 Contribution - Proceedings of the 37th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Threat%20Modeling%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=threat+modeling+in+construction&as_occt=title&as_sauthors=mohamed+shibly&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2020/0087" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

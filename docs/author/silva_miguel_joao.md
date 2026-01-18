@@ -9,6 +9,60 @@ search:
 
 #  Silva João 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2233-8160" target="_blank">0000-0003-2233-8160</a>
+
+    First Contribution
+    : 2023-07-24
+    
+    Last Contribution
+    : 2025-08-05
+
+    Number Contributions
+    : 4
+
+    Number Citations
+    : 14
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (4)</li>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (4)</li>
+        <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a> (4)</li>
+        <li><a href="../../../author/morais_antonio"><b>Morais</b> António</a> (3)</li>
+        <li><a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_rafael"><b>Silva</b> Rafael</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../silv_wagn_silv_mora.2024.RTPi3CP/">Real-Time Precision in 3D Concrete Printing:<br/>Controlling Layer Morphology via Machine Vision and Learning Algorithms</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (9)</li>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (6)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (6)</li>
+        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (4)</li>
+        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (1)</li>
+        <li><a href="../../../author/gao_pan"><b>Gao</b> Pan</a> (1)</li>
+        <li><a href="../../../author/georgiou_christos"><b>Georgiou</b> Christos</a> (1)</li>
+        <li><a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> (1)</li>
+        <li><a href="../../../author/yu_xiaona"><b>Yu</b> Xiaona</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM/">A Novel and Flexible Approach to Modeling the Additive Manufacturing Extrusion of Cementitious Materials</a></li>
   <li><a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_rafael"><b>Silva</b> Rafael</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../silv_wagn_silv_mora.2024.RTPi3CP/">Real-Time Precision in 3D Concrete Printing:<br/>Controlling Layer Morphology via Machine Vision and Learning Algorithms</a></li>

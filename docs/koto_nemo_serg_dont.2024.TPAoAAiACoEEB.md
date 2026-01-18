@@ -19,14 +19,15 @@ tags:
 ---
 
 #Thermal Performance-Assessment of Aerogel Application in Additive Construction of Energy-Efficient Buildings ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/16/6/2398/pdf?version=1710397584) <a href="https://doi.org/10.3390/su16062398" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16062398" target="_blank">10.3390/su16062398</a>
+<a href="https://www.mdpi.com/2071-1050/16/6/2398/pdf?version=1710397584" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su16062398" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16062398" target="_blank">10.3390/su16062398</a>
 
 <a href="../../../author/kotov_vladimirovich_evgeny"><b>Kotov</b>&nbsp;Evgeny</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2673-4566" title="ORCID: 0000-0003-2673-4566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nemova_darya"><b>Nemova</b>&nbsp;Darya</a></span>, <a href="../../../author/sergeev_vitaly"><b>Sergeev</b>&nbsp;Vitaly</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9081-9575" title="ORCID: 0000-0002-9081-9575" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dontsova_anna"><b>Dontsova</b>&nbsp;Anna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8380-0067" title="ORCID: 0000-0002-8380-0067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koriakovtseva_tatyana"><b>Koriakovtseva</b>&nbsp;Tatyana</a></span>, <a href="../../../author/andreeva_darya"><b>Andreeva</b>&nbsp;Darya</a></span><br>
 Journal Article - Sustainability, Vol. 16, Iss. 6, No. 2398
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Thermal%20Performance-Assessment%20of%20Aerogel%20Application%20in%20Additive%20Construction%20of%20Energy-Efficient%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=thermal+performance-assessment+of+aerogel+application+in+additive+construction+of+energy-efficient+buildings&as_occt=title&as_sauthors=kotov&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85188991207&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001192473800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su16062398" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -52,8 +53,9 @@ Journal Article - Sustainability, Vol. 16, Iss. 6, No. 2398
       <li><a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../naza_duar_bile_mema.2021.AMoAS/">Additive Manufacturing of Architectural Structures:<br/>An Interplay Between Materials, Systems, and Design</a></li>
       <li><a href="../../../author/pan_yifan"><b>Pan</b> Yifan</a>, <a href="../../../author/zhang_yulu"><b>Zhang</b> Yulu</a>, <a href="../../../author/zhang_dakang"><b>Zhang</b> Dakang</a>, <a href="../../../author/song_yuying"><b>Song</b> Yuying</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../pan_zhan_zhan_song.2021.3PiC/">3D Printing in Construction:<br/>State of the Art and Applications</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/valdez-cano_r"><b>Valdez-Cano</b> R.</a>, <a href="../../../author/gonzalez-lopez_r_j"><b>González-López</b> J.</a>, <a href="../../../author/de-los-santos_u_e"><b>De-Los-Santos</b> E.</a>, <a href="../../../author/mendoza-rangel_m_j"><b>Mendoza‐Rangel</b> J.</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../vald_gonz_del_mend.2026.ASAMfIEETCaEPiRBUHDCU3AM/">Alternative Silica Aerogel Mortar for Improving Energy Efficiency, Thermal Comfort, and Environmental Performance in Residential Buildings Under Hot-Dry Climates Using 3D Additive Manufacturing</a></li>
     </ol>
 </div>
 

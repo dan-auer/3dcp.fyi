@@ -15,14 +15,15 @@ tags:
 ---
 
 #Improvement of Technology and Quality-Control of 3DCP ([2022-04](date/2022/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-14623-7_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-14623-7_7" target="_blank">10.1007/978-3-031-14623-7_7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-14623-7_7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-14623-7_7" target="_blank">10.1007/978-3-031-14623-7_7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2062-5289" title="ORCID: 0000-0003-2062-5289" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mukhametrakhimov_kh_rustem"><b>Mukhametrakhimov</b>&nbsp;Rustem</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0090-2410" title="ORCID: 0000-0003-0090-2410" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ziganshina_liliya"><b>Ziganshina</b>&nbsp;Liliya</a></span><br>
 Contribution - Proceedings of the International Scientific Conference on Socio-Technical Construction and Civil Engineering, pp. 83-97
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improvement%20of%20Technology%20and%20Quality-Control%20of%203DCP" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improvement+of+technology+and+quality-control+of+3dcp&as_occt=title&as_sauthors=mukhametrakhimov&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85140447352&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-14623-7_7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

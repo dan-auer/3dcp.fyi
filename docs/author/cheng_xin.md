@@ -9,6 +9,60 @@ search:
 
 #  Cheng Xin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7147-4495" target="_blank">0000-0002-7147-4495</a>
+
+    First Contribution
+    : 2018-09-14
+    
+    Last Contribution
+    : 2021-07-27
+
+    Number Contributions
+    : 8
+
+    Number Citations
+    : 568
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (8)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (8)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (8)</li>
+        <li><a href="../../../author/li_laibo"><b>Li</b> Laibo</a> (7)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (36)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (19)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (17)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (17)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (43)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (43)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (25)</li>
+        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (17)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (17)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhong_xu"><b>Zhong</b> Xu</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../zhao_chen_zhon_huan.2021.EoBDaMotRBo3PMPPCC/">Effects of Bentonite, Diatomite and Metakaolin on the Rheological Behavior of 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
   <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM/">Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology</a></li>

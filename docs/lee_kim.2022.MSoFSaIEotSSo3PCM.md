@@ -19,14 +19,15 @@ tags:
 ---
 
 #Matric-Suction of Fine Sand and Its Effect on the Shape Stability of 3D Printed Cement Mortar ([2022-05](date/2022/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.127618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127618" target="_blank">10.1016/j.conbuildmat.2022.127618</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.127618" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.127618" target="_blank">10.1016/j.conbuildmat.2022.127618</a>
 
 <a href="../../../author/lee_hyun_jin"><b>Lee</b>&nbsp;Jin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6253-6877" title="ORCID: 0000-0002-6253-6877" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_hong_jae"><b>Kim</b>&nbsp;Jae</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 341
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Matric-Suction%20of%20Fine%20Sand%20and%20Its%20Effect%20on%20the%20Shape%20Stability%20of%203D%20Printed%20Cement%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=matric-suction+of+fine+sand+and+its+effect+on+the+shape+stability+of+3d+printed+cement+mortar&as_occt=title&as_sauthors=lee&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85129723930&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000830190100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.127618" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

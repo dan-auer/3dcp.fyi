@@ -19,14 +19,15 @@ tags:
 
 #Data-Driven Analysis in 3D Concrete Printing&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">Predicting and Optimizing Construction Mixtures</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s43503-024-00044-4) <a href="https://doi.org/10.1007/s43503-024-00044-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43503-024-00044-4" target="_blank">10.1007/s43503-024-00044-4</a>
+<a href="https://doi.org/10.1007/s43503-024-00044-4" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43503-024-00044-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43503-024-00044-4" target="_blank">10.1007/s43503-024-00044-4</a>
 
 <a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b>&nbsp;Rodrigo</a></span>, <a href="../../../author/ullah_shafi"><b>Ullah</b>&nbsp;Shafi</a></span>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b>&nbsp;Zaid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6879-2567" title="ORCID: 0000-0001-6879-2567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_xiong"><b>Yu</b>&nbsp;Xiong</a></span><br>
 Journal Article - AI in Civil Engineering, Vol. 4, Iss. 1
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven%20Analysis%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven+analysis+in+3d+concrete+printing&as_occt=title&as_sauthors=schossler&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010958880&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43503-024-00044-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

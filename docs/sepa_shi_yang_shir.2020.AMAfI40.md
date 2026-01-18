@@ -18,14 +18,15 @@ tags:
 
 #Additive Manufacturing Applications for Industry 4.0&nbsp;([2020-12](date/2020/12))
 <div class="h1-like">A Systematic Critical Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/10/12/231/pdf) <a href="https://doi.org/10.3390/buildings10120231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings10120231" target="_blank">10.3390/buildings10120231</a>
+<a href="https://www.mdpi.com/2075-5309/10/12/231/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings10120231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings10120231" target="_blank">10.3390/buildings10120231</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2568-3111" title="ORCID: 0000-0003-2568-3111" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sepasgozar_m-e_samad"><b>Sepasgozar</b>&nbsp;Samad</a></span>, <a href="../../../author/shi_anqi"><b>Shi</b>&nbsp;Anqi</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0095-5635" title="ORCID: 0000-0003-0095-5635" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_liming"><b>Yang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1511-3617" title="ORCID: 0000-0003-1511-3617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shirowzhan_sara"><b>Shirowzhan</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9727-6000" title="ORCID: 0000-0001-9727-6000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/edwards_j_david"><b>Edwards</b>&nbsp;David</a></span><br>
 Journal Article - Buildings, Vol. 10, Iss. 12
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Applications%20for%20Industry%204.0" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+applications+for+industry+4.0&as_occt=title&as_sauthors=sepasgozar&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097365465&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000602241300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings10120231" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

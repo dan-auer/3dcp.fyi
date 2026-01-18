@@ -17,14 +17,15 @@ tags:
 ---
 
 #Structural Performance-Based 3D Concrete Printing for an Efficient Concrete Beam ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-36554-6_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36554-6_22" target="_blank">10.1007/978-3-031-36554-6_22</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-36554-6_22" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-36554-6_22" target="_blank">10.1007/978-3-031-36554-6_22</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9054-7840" title="ORCID: 0000-0001-9054-7840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yu"><b>Li</b>&nbsp;Yu</a></span>, <a href="../../../author/xie_xingje"><b>Xie</b>&nbsp;Xingje</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6003-5561" title="ORCID: 0000-0001-6003-5561" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gao_xiaofan"><b>Gao</b>&nbsp;Xiaofan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
 Contribution - Design for Rethinking Resources, pp. 343-354
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance-Based%203D%20Concrete%20Printing%20for%20an%20Efficient%20Concrete%20Beam" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+performance-based+3d+concrete+printing+for+an+efficient+concrete+beam&as_occt=title&as_sauthors=wu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85193992624&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-36554-6_22" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

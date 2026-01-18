@@ -18,14 +18,15 @@ tags:
 
 #Overview of 3D Construction Printing and Future Perspectives&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">A Review of Technology, Companies and Research Progression</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2022.2154740" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2022.2154740" target="_blank">10.1080/00038628.2022.2154740</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2022.2154740" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2022.2154740" target="_blank">10.1080/00038628.2022.2154740</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span><br>
 Journal Article - Architectural Science Review, pp. 1-22
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Overview%20of%203D%20Construction%20Printing%20and%20Future%20Perspectives" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=overview+of+3d+construction+printing+and+future+perspectives&as_occt=title&as_sauthors=volpe&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144154989&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000897199200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2022.2154740" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

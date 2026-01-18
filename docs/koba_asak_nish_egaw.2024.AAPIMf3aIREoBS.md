@@ -25,7 +25,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/insertion"><button class="btn">#insertion</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Automated%20Pin%20Insertion%20Method%20for%203DCP%20and%20Its%20Reinforcement%20Effects%20on%20Beam%20Specimens" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+automated+pin+insertion+method+for+3dcp+and+its+reinforcement+effects+on+beam+specimens&as_occt=title&as_sauthors=kobayashi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24355/dbbs.084-202408201050-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

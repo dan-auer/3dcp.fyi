@@ -20,14 +20,15 @@ tags:
 ---
 
 #Development of CO2-Activated Interface Enhancer to Improve the Interlayer Properties of 3D-Printed Concrete ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106122" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106122" target="_blank">10.1016/j.cemconcomp.2025.106122</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106122" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106122" target="_blank">10.1016/j.cemconcomp.2025.106122</a>
 
 <a href="../../../author/lucen_hao"><b>Lucen</b>&nbsp;Hao</a></span>, <a href="../../../author/hanxiong_lyu"><b>Hanxiong</b>&nbsp;Lyu</a></span>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b>&nbsp;Zhang</a></span>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b>&nbsp;Zhang</a></span>, <a href="../../../author/jianzhuang_xiao"><b>Jianzhuang</b>&nbsp;Xiao</a></span>, <a href="../../../author/sun_chin_poon"><b>Sun</b>&nbsp;Poon</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 106122
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20CO2-Activated%20Interface%20Enhancer%20to%20Improve%20the%20Interlayer%20Properties%20of%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+co2-activated+interface+enhancer+to+improve+the+interlayer+properties+of+3d-printed+concrete&as_occt=title&as_sauthors=lucen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005110386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001497895200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106122" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

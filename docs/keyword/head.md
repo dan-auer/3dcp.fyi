@@ -8,6 +8,10 @@ search:
 
 # #head
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (3)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mira_lesa_schu_rous.2025.CPTLP/">Concrete Printing Through Lace Pressing:<br/>Head, Shoulders, Knees and Toes</a></li>
   <li><a href="../../../author/wu_changzhong"><b>Wu</b> Changzhong</a>, <a href="../../../author/lu_yuanyuan"><b>Lu</b> Yuanyuan</a>, <a href="../../../author/tian_jiaxin"><b>Tian</b> Jiaxin</a>, <a href="../../../author/zhu_xingyu"><b>Zhu</b> Xingyu</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wu_lu_tian_zhu.2025.Ro3PSoCBoRAaSDoSH/">Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head</a></li>

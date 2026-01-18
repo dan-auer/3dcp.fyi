@@ -8,6 +8,10 @@ search:
 
 # #depth
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/learn"><button class="btn">#learn (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rizz_lant_ferr_crem.2025.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>
   <li><a href="../../../author/cai_yilin"><b>Cai</b> Yilin</a>, <a href="../../../author/hartell_ann_julie"><b>Hartell</b> Julie</a>, <a href="../../../author/aryal_ashrant"><b>Aryal</b> Ashrant</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cai_hart_arya.2025.RTMSSfACbE/">Real-Time Multimodal Sensing System for Additive Construction by Extrusion:<br/>Integrating Thermal, Depth and RGB Data</a></li>

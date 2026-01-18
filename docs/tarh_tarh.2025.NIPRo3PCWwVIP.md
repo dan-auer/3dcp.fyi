@@ -26,14 +26,15 @@ tags:
 
 #Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Experimental Mix Design and Numerical Structural Assessment</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.20528/cjsmec.2025.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.20528/cjsmec.2025.03.005" target="_blank">10.20528/cjsmec.2025.03.005</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.20528/cjsmec.2025.03.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.20528/cjsmec.2025.03.005" target="_blank">10.20528/cjsmec.2025.03.005</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5161-3718" title="ORCID: 0000-0002-5161-3718" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b>&nbsp;İsmail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3901-9070" title="ORCID: 0000-0002-3901-9070" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tarhan_yesim"><b>Tarhan</b>&nbsp;Yeşim</a></span><br>
 Journal Article - Challenge Journal of Structural Mechanics, Vol. 11, Iss. 3, No. 160
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/nonlinear"><button class="btn">#nonlinear</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/plane"><button class="btn">#plane</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Nonlinear%20In-Plane%20Response%20of%203D-Printed%20Concrete%20Walls%20with%20Varied%20Infill%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=nonlinear+in-plane+response+of+3d-printed+concrete+walls+with+varied+infill+patterns&as_occt=title&as_sauthors=tarhan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.20528/cjsmec.2025.03.005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

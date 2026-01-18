@@ -19,14 +19,15 @@ tags:
 ---
 
 #Optical Process-Control for Extrusion-Based Additive Manufacturing-Methods in Construction ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://mediatum.ub.tum.de/doc/1719837/document.pdf) <a href="https://doi.org/10.22260/isarc2023/0015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0015" target="_blank">10.22260/isarc2023/0015</a>
+<a href="https://mediatum.ub.tum.de/doc/1719837/document.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2023/0015" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0015" target="_blank">10.22260/isarc2023/0015</a>
 
 <a href="../../../author/mohiuddin_rafay"><b>Mohiuddin</b>&nbsp;Rafay</a></span>, <a href="../../../author/cruz-policroniades_miranda"><b>Cruz Policroniades</b>&nbsp;Miranda</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/optics"><button class="btn">#optics</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optical%20Process-Control%20for%20Extrusion-Based%20Additive%20Manufacturing-Methods%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optical+process-control+for+extrusion-based+additive+manufacturing-methods+in+construction&as_occt=title&as_sauthors=mohiuddin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172931248&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2023/0015" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

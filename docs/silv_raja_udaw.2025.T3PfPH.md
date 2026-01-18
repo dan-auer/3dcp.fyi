@@ -18,14 +18,15 @@ tags:
 
 #Tailoring 3D Printing for Personalized Housing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Selecting the Right Technology for Custom Home Construction</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1080/13467581.2025.2584640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2025.2584640" target="_blank">10.1080/13467581.2025.2584640</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1080/13467581.2025.2584640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/13467581.2025.2584640" target="_blank">10.1080/13467581.2025.2584640</a>
 
 <a href="../../../author/silva_neesha"><b>Silva</b>&nbsp;Neesha</a></span>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b>&nbsp;Upendra</a></span>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b>&nbsp;Chameera</a></span><br>
 Journal Article - Journal of Asian Architecture and Building Engineering, pp. 1-21
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/customization"><button class="btn">#customization</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tailoring%203D%20Printing%20for%20Personalized%20Housing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tailoring+3d+printing+for+personalized+housing&as_occt=title&as_sauthors=silva&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022272013&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001613266300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/13467581.2025.2584640" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

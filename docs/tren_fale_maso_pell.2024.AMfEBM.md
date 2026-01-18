@@ -18,14 +18,15 @@ tags:
 
 #Additive Manufacturing for Earth-Based Materials&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">An Experimental Investigation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_1" target="_blank">10.1007/978-3-031-62690-6_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-62690-6_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_1" target="_blank">10.1007/978-3-031-62690-6_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2241-8251" title="ORCID: 0000-0002-2241-8251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/trento_daniel"><b>Trento</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2126-9300" title="ORCID: 0000-0003-2126-9300" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/faleschini_flora"><b>Faleschini</b>&nbsp;Flora</a></span>, <a href="../../../author/masoomi_maryam"><b>Masoomi</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8160-9904" title="ORCID: 0000-0002-8160-9904" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pellegrino_carlo"><b>Pellegrino</b>&nbsp;Carlo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9326-802X" title="ORCID: 0000-0001-9326-802X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zanini_angelo_mariano"><b>Zanini</b>&nbsp;Mariano</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 3-11
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20for%20Earth-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+for+earth-based+materials&as_occt=title&as_sauthors=trento&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200497686&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001290430600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-62690-6_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

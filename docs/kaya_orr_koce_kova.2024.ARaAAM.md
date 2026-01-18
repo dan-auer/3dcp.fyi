@@ -14,14 +14,15 @@ tags:
 ---
 
 #Aerial Repair and Aerial Additive Manufacturing ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/9781394162871.ch17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394162871.ch17" target="_blank">10.1002/9781394162871.ch17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/9781394162871.ch17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/9781394162871.ch17" target="_blank">10.1002/9781394162871.ch17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2963-1896" title="ORCID: 0000-0003-2963-1896" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaya_furkan_yusuf"><b>Kaya</b>&nbsp;Yusuf</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2377-9959" title="ORCID: 0009-0000-2377-9959" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/orr_lachlan"><b>Orr</b>&nbsp;Lachlan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5150-5151" title="ORCID: 0000-0002-5150-5151" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kocer_bahadir_basaran"><b>Kocer</b>&nbsp;Basaran</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9720-2463" title="ORCID: 0000-0002-9720-2463" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kovac_mirko"><b>Kovac</b>&nbsp;Mirko</a></span><br>
 Contribution - Infrastructure Robotics, pp. 367-384
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aerial"><button class="btn">#aerial</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/repair"><button class="btn">#repair</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Aerial%20Repair%20and%20Aerial%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=aerial+repair+and+aerial+additive+manufacturing&as_occt=title&as_sauthors=kaya&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/9781394162871.ch17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Survey on Extraterrestrial Habitation Structures with a Focus on Energy-Saving 3D Printing Techniques ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/13/23/12913/pdf?version=1701508528) <a href="https://doi.org/10.3390/app132312913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app132312913" target="_blank">10.3390/app132312913</a>
+<a href="https://www.mdpi.com/2076-3417/13/23/12913/pdf?version=1701508528" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app132312913" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app132312913" target="_blank">10.3390/app132312913</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4537-1943" title="ORCID: 0000-0002-4537-1943" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khalilidermani_mitra"><b>Khalilidermani</b>&nbsp;Mitra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1028-2497" title="ORCID: 0000-0003-1028-2497" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/knez_dariusz"><b>Knez</b>&nbsp;Dariusz</a></span><br>
 Journal Article - Applied Sciences, Vol. 13, Iss. 23, No. 12913
 
 <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/savings"><button class="btn">#savings</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/survey"><button class="btn">#survey</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Survey%20on%20Extraterrestrial%20Habitation%20Structures%20with%20a%20Focus%20on%20Energy-Saving%203D%20Printing%20Techniques" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+survey+on+extraterrestrial+habitation+structures+with+a+focus+on+energy-saving+3d+printing+techniques&as_occt=title&as_sauthors=khalilidermani&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85190249689&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001116117600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app132312913" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

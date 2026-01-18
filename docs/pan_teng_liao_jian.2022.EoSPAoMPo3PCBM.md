@@ -22,14 +22,15 @@ tags:
 
 #Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Experimental and Numerical Studies</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://arxiv.org/pdf/2109.05156) <a href="https://doi.org/10.1016/j.cemconres.2022.106785" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106785" target="_blank">10.1016/j.cemconres.2022.106785</a>
+<a href="https://arxiv.org/pdf/2109.05156" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2022.106785" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106785" target="_blank">10.1016/j.cemconres.2022.106785</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6930-5505" title="ORCID: 0000-0001-6930-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_tinghong"><b>Pan</b>&nbsp;Tinghong</a></span>, <a href="../../../author/teng_huaijin"><b>Teng</b>&nbsp;Huaijin</a></span>, <a href="../../../author/liao_hengcheng"><b>Liao</b>&nbsp;Hengcheng</a></span>, <a href="../../../author/jiang_yaqing"><b>Jiang</b>&nbsp;Yaqing</a></span>, <a href="../../../author/qian_chunxiang"><b>Qian</b>&nbsp;Chunxiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5685-6316" title="ORCID: 0000-0001-5685-6316" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_yu"><b>Wang</b>&nbsp;Yu</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 155
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Shaping%20Plate%20Apparatus%20on%20Mechanical%20Properties%20of%203D%20Printed%20Cement-Based%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+shaping+plate+apparatus+on+mechanical+properties+of+3d+printed+cement-based+materials&as_occt=title&as_sauthors=pan&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85126908629&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000802067500003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2022.106785" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

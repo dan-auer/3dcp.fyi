@@ -16,14 +16,15 @@ tags:
 ---
 
 #3D Printed Concrete Blocks Made with Sustainable Recycled Material ([2023-04](date/2023/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://polipapers.upv.es/index.php/vitruvio/article/download/18832/15776) <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" target="_blank">10.4995/vitruvio-ijats.2023.18832</a>
+<a href="http://polipapers.upv.es/index.php/vitruvio/article/download/18832/15776" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4995/vitruvio-ijats.2023.18832" target="_blank">10.4995/vitruvio-ijats.2023.18832</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6414-5562" title="ORCID: 0000-0002-6414-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/volpe_stelladriana"><b>Volpe</b>&nbsp;Stelladriana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/petrella_andrea"><b>Petrella</b>&nbsp;Andrea</a></span>, <a href="../../../author/notarnicola_michele"><b>Notarnicola</b>&nbsp;Michele</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0215-8701" title="ORCID: 0000-0003-0215-8701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varum_humberto"><b>Varum</b>&nbsp;Humberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4554-738X" title="ORCID: 0000-0002-4554-738X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fiorito_francesco"><b>Fiorito</b>&nbsp;Francesco</a></span><br>
 Journal Article - International Journal of Architectural Technology and Sustainability, Vol. 8, Iss. 1, pp. 71-83
 
 <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20Blocks%20Made%20with%20Sustainable%20Recycled%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete+blocks+made+with+sustainable+recycled+material&as_occt=title&as_sauthors=volpe&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85153709522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000978102500006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4995/vitruvio-ijats.2023.18832" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

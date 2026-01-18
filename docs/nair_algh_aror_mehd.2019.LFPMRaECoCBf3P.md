@@ -20,14 +20,15 @@ tags:
 ---
 
 #Linking Fresh Paste Microstructure, Rheology and Extrusion-Characteristics of Cementitious Binders for 3D Printing ([2019-01](date/2019/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1111/jace.16305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jace.16305" target="_blank">10.1111/jace.16305</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1111/jace.16305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jace.16305" target="_blank">10.1111/jace.16305</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9338-8651" title="ORCID: 0000-0002-9338-8651" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b>&nbsp;Sooraj</a></span>, <a href="../../../author/alghamdi_hussam"><b>Alghamdi</b>&nbsp;Hussam</a></span>, <a href="../../../author/arora_aashay"><b>Arora</b>&nbsp;Aashay</a></span>, <a href="../../../author/mehdipour_iman"><b>Mehdipour</b>&nbsp;Iman</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1124-5498" title="ORCID: 0000-0002-1124-5498" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sant_gaurav"><b>Sant</b>&nbsp;Gaurav</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3174-0402" title="ORCID: 0000-0002-3174-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neithalath_narayanan"><b>Neithalath</b>&nbsp;Narayanan</a></span><br>
 Journal Article - Journal of the American Ceramic Society, Vol. 102, Iss. 7, pp. 3951-3964
 
 <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/link"><button class="btn">#link</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Linking%20Fresh%20Paste%20Microstructure%2C%20Rheology%20and%20Extrusion-Characteristics%20of%20Cementitious%20Binders%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=linking+fresh+paste+microstructure%2C+rheology+and+extrusion-characteristics+of+cementitious+binders+for+3d+printing&as_occt=title&as_sauthors=nair&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85060622256&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000469290900019" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1111/jace.16305" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

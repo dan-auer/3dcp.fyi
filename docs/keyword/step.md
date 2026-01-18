@@ -8,6 +8,10 @@ search:
 
 # #step
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/process"><button class="btn">#process (3)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (2)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> <a href="../../keyword/development"><button class="btn">#development (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
   <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a>, <a href="../../../author/yao_xupeng"><b>Yao</b> Xupeng</a>, <a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b> Bernhard</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_shen_yao_pich.2025.ATSDSf3PCCCA/">A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates</a></li>

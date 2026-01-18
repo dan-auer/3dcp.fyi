@@ -20,14 +20,15 @@ tags:
 
 #Rheology and Microstructure Development of Hydrating-Tricalcium-Silicate&nbsp;([2021-12](date/2021/12))
 <div class="h1-like">Implications for Additive Manufacturing in Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2021.106651" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106651" target="_blank">10.1016/j.cemconres.2021.106651</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2021.106651" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2021.106651" target="_blank">10.1016/j.cemconres.2021.106651</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2415-1957" title="ORCID: 0000-0003-2415-1957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jones_z_scott"><b>Jones</b>&nbsp;Scott</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4661-9832" title="ORCID: 0000-0002-4661-9832" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hipp_b_julie"><b>Hipp</b>&nbsp;Julie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6496-8411" title="ORCID: 0000-0002-6496-8411" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/allen_j_andrew"><b>Allen</b>&nbsp;Andrew</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3255-0387" title="ORCID: 0000-0002-3255-0387" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gagnon_v_cedric"><b>Gagnon</b>&nbsp;Cedric</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 152
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheology%20and%20Microstructure%20Development%20of%20Hydrating-Tricalcium-Silicate" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheology+and+microstructure+development+of+hydrating-tricalcium-silicate&as_occt=title&as_sauthors=jones&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121100469&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000799141000004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2021.106651" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

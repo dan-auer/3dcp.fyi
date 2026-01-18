@@ -8,6 +8,10 @@ search:
 
 # #visualization
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/control"><button class="btn">#control (2)</button></a> <a href="../../keyword/program"><button class="btn">#program (2)</button></a> <a href="../../keyword/quality"><button class="btn">#quality (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cui_guo_liu_da.2025.QAo3PCTQVI/">Quality Assessment of 3D‐Printed Concrete Through Quantitative Visual Inspection</a></li>
   <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/alucema-contreras_alejandra_elena"><b>Alucema Contreras</b> Elena</a>, <a href="../../../author/burkart-medina_andres_adolfo"><b>Burkart Medina</b> Adolfo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../forc_aluc_burk_garc.2024.CSoVPPf3CPoDGS/">Comparative Study of Visual Programming Procedures for 3D Concrete Printing of Different Geometric Shapes</a></li>

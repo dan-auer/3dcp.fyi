@@ -19,14 +19,15 @@ tags:
 
 #Structural Stability of 3D-Printed Earthen Catenary Domes&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Experimental and Analytical Insights</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.110273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110273" target="_blank">10.1016/j.istruc.2025.110273</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.110273" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.110273" target="_blank">10.1016/j.istruc.2025.110273</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/sameh_hazem"><b>Sameh</b>&nbsp;Hazem</a></span>, <a href="../../../author/fekry_mayar"><b>Fekry</b>&nbsp;Mayar</a></span><br>
 Journal Article - Structures, Vol. 81, No. 110273
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/dome"><button class="btn">#dome</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Stability%20of%203D-Printed%20Earthen%20Catenary%20Domes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+stability+of+3d-printed+earthen+catenary+domes&as_occt=title&as_sauthors=mahdy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018118386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001583488300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.110273" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

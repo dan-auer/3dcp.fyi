@@ -19,7 +19,7 @@ Contribution - Proceedings of the 2015 Conference on Autonomous and Robotic Cons
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/limitation"><button class="btn">#limitation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Applicability%20and%20Limitations%20of%203D%20Printing%20for%20Civil%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=applicability+and+limitations+of+3d+printing+for+civil+structures&as_occt=title&as_sauthors=yossef&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

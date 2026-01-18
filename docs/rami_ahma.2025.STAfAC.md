@@ -18,14 +18,15 @@ tags:
 
 #Sustainable Technology Advances for Additive Construction&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">A State-of-the-Art Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-025-00167-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00167-9" target="_blank">10.1007/s41693-025-00167-9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-025-00167-9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00167-9" target="_blank">10.1007/s41693-025-00167-9</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-2185-5006" title="ORCID: 0009-0000-2185-5006" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ramirez-rodriguez_mariana_fatima"><b>Ramirez Rodriguez</b>&nbsp;Fatima</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9353-3380" title="ORCID: 0000-0001-9353-3380" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ahmad_rafiq"><b>Ahmad</b>&nbsp;Rafiq</a></span><br>
 Journal Article - Construction Robotics, Vol. 9, Iss. 2
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Technology%20Advances%20for%20Additive%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+technology+advances+for+additive+construction&as_occt=title&as_sauthors=ramirez+rodriguez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-025-00167-9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

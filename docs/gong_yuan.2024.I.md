@@ -16,14 +16,15 @@ tags:
 
 #ISOMORPHISM&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Stylized Translations of 2D Prototype in Additive Clay Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/978-981-99-8405-3_43.pdf) <a href="https://doi.org/10.1007/978-981-99-8405-3_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-8405-3_43" target="_blank">10.1007/978-981-99-8405-3_43</a>
+<a href="https://link.springer.com/content/pdf/10.1007/978-981-99-8405-3_43.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-8405-3_43" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-8405-3_43" target="_blank">10.1007/978-981-99-8405-3_43</a>
 
 <a href="../../../author/gong_lei"><b>Gong</b>&nbsp;Lei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span><br>
 Contribution - Proceedings of the 5th International Conference on Computational Design and Robotic Fabrication, pp. 515-525
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/translation"><button class="btn">#translation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=ISOMORPHISM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=isomorphism&as_occt=title&as_sauthors=gong&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184279012&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001283941000043" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-8405-3_43" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

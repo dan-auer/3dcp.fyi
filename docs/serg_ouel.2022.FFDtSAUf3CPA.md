@@ -18,14 +18,15 @@ tags:
 ---
 
 #Fractional Factorial Design to Study Admixtures Used for 3D Concrete Printing Applications ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.matlet.2022.132697" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.132697" target="_blank">10.1016/j.matlet.2022.132697</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matlet.2022.132697" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matlet.2022.132697" target="_blank">10.1016/j.matlet.2022.132697</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7743-470X" title="ORCID: 0000-0002-7743-470X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sergis_vasileios"><b>Sergis</b>&nbsp;Vasileios</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
 Journal Article - Materials Letters, Vol. 324
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/factor"><button class="btn">#factor</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fractional%20Factorial%20Design%20to%20Study%20Admixtures%20Used%20for%203D%20Concrete%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fractional+factorial+design+to+study+admixtures+used+for+3d+concrete+printing+applications&as_occt=title&as_sauthors=sergis&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85132927578&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000822566500007" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matlet.2022.132697" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

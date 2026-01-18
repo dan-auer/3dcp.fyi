@@ -16,14 +16,15 @@ tags:
 ---
 
 #Improvements on the Design of Sand-Structure Additive Manufacturing ([2020-10](date/2020/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1742-6596/1653/1/012010) <a href="https://doi.org/10.1088/1742-6596/1653/1/012010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/1653/1/012010" target="_blank">10.1088/1742-6596/1653/1/012010</a>
+<a href="https://doi.org/10.1088/1742-6596/1653/1/012010" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/1653/1/012010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/1653/1/012010" target="_blank">10.1088/1742-6596/1653/1/012010</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9941-1701" title="ORCID: 0000-0002-9941-1701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hao"><b>Qin</b>&nbsp;Hao</a></span>, <a href="../../../author/zhang_xiwen"><b>Zhang</b>&nbsp;Xiwen</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 1653, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improvements%20on%20the%20Design%20of%20Sand-Structure%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improvements+on+the+design+of+sand-structure+additive+manufacturing&as_occt=title&as_sauthors=qin&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85096463523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/1653/1/012010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

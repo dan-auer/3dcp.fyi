@@ -20,14 +20,15 @@ tags:
 
 #Adaptive Robotic Tamping&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">A Novel Robotic Method for Formative Surface Finishing in Earth-Based Additive Manufacturing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1007/s41693-025-00149-x) <a href="https://doi.org/10.1007/s41693-025-00149-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00149-x" target="_blank">10.1007/s41693-025-00149-x</a>
+<a href="https://doi.org/10.1007/s41693-025-00149-x" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-025-00149-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-025-00149-x" target="_blank">10.1007/s41693-025-00149-x</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1438-1743" title="ORCID: 0000-0002-1438-1743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chadha_kunaljit"><b>Chadha</b>&nbsp;Kunaljit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0339-3001" title="ORCID: 0000-0002-0339-3001" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vasey_lauren"><b>Vasey</b>&nbsp;Lauren</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
 Journal Article - Construction Robotics, Vol. 9, Iss. 1
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Adaptive%20Robotic%20Tamping" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=adaptive+robotic+tamping&as_occt=title&as_sauthors=chadha&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-025-00149-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

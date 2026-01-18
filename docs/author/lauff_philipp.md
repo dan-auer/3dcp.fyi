@@ -9,6 +9,60 @@ search:
 
 #  Lauff Philipp 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2019-04-22
+    
+    Last Contribution
+    : 2021-11-29
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 30
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/fischer_oliver"><b>Fischer</b> Oliver</a> (5)</li>
+        <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a> (4)</li>
+        <li><a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/grosse_u_christian"><b>Grosse</b> Christian</a> (3)</li>
+        <li><a href="../../../author/peter_a_malte"><b>Peter</b> Malte</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/weiss_ursula"><b>Weiss</b> Ursula</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lauf_puga_rutz_weis.2021.EotBoCSFRCCBoaMSEIaaNMSA/">Evaluation of the Behavior of Carbon-Short-Fiber-Reinforced Concrete (CSFRC) Based on a Multi-Sensory Experimental Investigation and a Numerical Multi-Scale Approach</a> (9)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hambach_manuel"><b>Hambach</b> Manuel</a> (8)</li>
+        <li><a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> (8)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/moller_hendrik"><b>Möller</b> Hendrik</a> (4)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/engelhard_michael"><b>Engelhard</b> Michael</a> (4)</li>
+        <li><a href="../../../author/kalytta-mewesand_andreas"><b>Kalytta-Mewesand</b> Andreas</a> (4)</li>
+        <li><a href="../../../author/volkmer_dirk"><b>Volkmer</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a> (3)</li>
+        <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/schulz_michael"><b>Schulz</b> Michael</a>, <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b> Judith</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rutz_schu_moos_lauf.2021.3PaaAMMfaCFRCCwOFS1Nm/">3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)</a></li>
   <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/weiss_ursula"><b>Weiss</b> Ursula</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lauf_puga_rutz_weis.2021.EotBoCSFRCCBoaMSEIaaNMSA/">Evaluation of the Behavior of Carbon-Short-Fiber-Reinforced Concrete (CSFRC) Based on a Multi-Sensory Experimental Investigation and a Numerical Multi-Scale Approach</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Auxetic Behavior of Cementitious Cellular Composites under Uniaxial Compression and Cyclic Loading ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3Add073d13-e1a7-4b52-bcd8-586de7369f34/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-030-49916-7_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_56" target="_blank">10.1007/978-3-030-49916-7_56</a>
+<a href="https://repository.tudelft.nl/islandora/object/uuid%3Add073d13-e1a7-4b52-bcd8-586de7369f34/datastream/OBJ/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_56" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_56" target="_blank">10.1007/978-3-030-49916-7_56</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5825-4175" title="ORCID: 0000-0001-5825-4175" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_yading"><b>Xu</b>&nbsp;Yading</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5671-8888" title="ORCID: 0000-0001-5671-8888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schlangen_erik"><b>Schlangen</b>&nbsp;Erik</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1299-1449" title="ORCID: 0000-0003-1299-1449" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/savija_branko"><b>Šavija</b>&nbsp;Branko</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 547-556
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Auxetic%20Behavior%20of%20Cementitious%20Cellular%20Composites%20under%20Uniaxial%20Compression%20and%20Cyclic%20Loading" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=auxetic+behavior+of+cementitious+cellular+composites+under+uniaxial+compression+and+cyclic+loading&as_occt=title&as_sauthors=xu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088246824&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_56" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

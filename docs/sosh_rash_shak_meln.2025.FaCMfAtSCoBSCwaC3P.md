@@ -20,14 +20,15 @@ tags:
 ---
 
 #Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.4028/p-n2d6ld" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4028/p-n2d6ld" target="_blank">10.4028/p-n2d6ld</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.4028/p-n2d6ld" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4028/p-n2d6ld" target="_blank">10.4028/p-n2d6ld</a>
 
 <a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b>&nbsp;Olexander</a></span>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b>&nbsp;Nina</a></span>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b>&nbsp;Stanislav</a></span>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b>&nbsp;Andrii</a></span><br>
 Journal Article - Solid State Phenomena, Vol. 380, pp. 73-81
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/calculation"><button class="btn">#calculation</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Formulating%20a%20Calculation%20Methodology%20for%20Assessing%20the%20Strength%20Characteristics%20of%20Building%20Structures%20Constructed%20with%20a%20Construction%203D%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=formulating+a+calculation+methodology+for+assessing+the+strength+characteristics+of+building+structures+constructed+with+a+construction+3d+printer&as_occt=title&as_sauthors=soshinskiy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4028/p-n2d6ld" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

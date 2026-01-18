@@ -20,14 +20,15 @@ tags:
 
 #Automated Additive Manufacturing of Concrete Structures without Formwork&nbsp;([2018-02](date/2018/02))
 <div class="h1-like">Concept for Path-Planning</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-662-56714-2_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-662-56714-2_10" target="_blank">10.1007/978-3-662-56714-2_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-662-56714-2_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-662-56714-2_10" target="_blank">10.1007/978-3-662-56714-2_10</a>
 
 <a href="../../../author/ibrahim_serhat"><b>Ibrahim</b>&nbsp;Serhat</a></span>, <a href="../../../author/olbrich_alexander"><b>Olbrich</b>&nbsp;Alexander</a></span>, <a href="../../../author/lindemann_hendrik"><b>Lindemann</b>&nbsp;Hendrik</a></span>, <a href="../../../author/gerbers_roman"><b>Gerbers</b>&nbsp;Roman</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-4384" title="ORCID: 0000-0002-6424-4384" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/droder_klaus"><b>Dröder</b>&nbsp;Klaus</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
 Contribution - Tagungsband des 3. Kongresses Montage Handhabung Industrieroboter, pp. 83-91
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concept"><button class="btn">#concept</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Additive%20Manufacturing%20of%20Concrete%20Structures%20without%20Formwork" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+additive+manufacturing+of+concrete+structures+without+formwork&as_occt=title&as_sauthors=ibrahim&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-662-56714-2_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

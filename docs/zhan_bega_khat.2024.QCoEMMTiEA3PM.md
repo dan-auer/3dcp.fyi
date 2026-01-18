@@ -25,14 +25,15 @@ tags:
 
 #Quantitative Comparison of Elastic Modulus Measurement Techniques in Early-Age 3D Printable Mortar&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">Insights from Compression, Ultrasonic, and Microindentation Methods</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_30" target="_blank">10.1007/978-3-031-70031-6_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_30" target="_blank">10.1007/978-3-031-70031-6_30</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7518-2302" title="ORCID: 0000-0001-7518-2302" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_qing"><b>Zhang</b>&nbsp;Qing</a></span>, <a href="../../../author/begaud_fabienne"><b>Bégaud</b>&nbsp;Fabienne</a></span>, <a href="../../../author/khatib_omar"><b>el&nbsp;Khatib</b>&nbsp;Omar</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 255-262
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/modulus"><button class="btn">#modulus</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Comparison%20of%20Elastic%20Modulus%20Measurement%20Techniques%20in%20Early-Age%203D%20Printable%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=quantitative+comparison+of+elastic+modulus+measurement+techniques+in+early-age+3d+printable+mortar&as_occt=title&as_sauthors=zhang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203047791&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

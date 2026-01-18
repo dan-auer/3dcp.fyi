@@ -9,6 +9,60 @@ search:
 
 #  Raphael Benny 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9957-7699" target="_blank">0000-0002-9957-7699</a>
+
+    First Contribution
+    : 2022-11-25
+    
+    Last Contribution
+    : 2025-10-29
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 63
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a> (7)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (4)</li>
+        <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a> (3)</li>
+        <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a> (2)</li>
+        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (25)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (17)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (17)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (17)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (3)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (3)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (3)</li>
+        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>
   <li><a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../pate_raph.2025.RCEi3PRS/">Reducing Carbon Emissions in 3D Printed RCC Slabs</a></li>

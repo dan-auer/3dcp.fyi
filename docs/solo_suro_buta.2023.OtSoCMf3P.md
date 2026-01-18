@@ -15,14 +15,15 @@ tags:
 ---
 
 #Optimizing the Structure of Construction Mixes for 3D Printing ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-21120-1_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21120-1_23" target="_blank">10.1007/978-3-031-21120-1_23</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-21120-1_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21120-1_23" target="_blank">10.1007/978-3-031-21120-1_23</a>
 
 <a href="../../../author/solonina_a_valentina"><b>Solonina</b>&nbsp;Valentina</a></span>, <a href="../../../author/surovtsev_a_i"><b>Surovtsev</b>&nbsp;I.</a></span>, <a href="../../../author/butakova_d_m"><b>Butakova</b>&nbsp;M.</a></span><br>
 Contribution - Proceedings of the 6th International Conference on Construction, Architecture and Technosphere Safety, pp. 235-243
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Optimizing%20the%20Structure%20of%20Construction%20Mixes%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=optimizing+the+structure+of+construction+mixes+for+3d+printing&as_occt=title&as_sauthors=solonina&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151058361&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-21120-1_23" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

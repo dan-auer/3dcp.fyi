@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Digital Design Environment for Large-Scale Rapid Manufacturing ([2009-10](date/2009/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia09_201.content.pdf) <a href="https://doi.org/10.52842/conf.acadia.2009.201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2009.201" target="_blank">10.52842/conf.acadia.2009.201</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia09_201.content.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2009.201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2009.201" target="_blank">10.52842/conf.acadia.2009.201</a>
 
 <a href="../../../author/kestelier_xavier"><b>de&nbsp;Kestelier</b>&nbsp;Xavier</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span><br>
 Contribution - Proceedings of the 29th Annual Conference of the Association for Computer Aided Design in Architecture, pp. 201-208
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Digital%20Design%20Environment%20for%20Large-Scale%20Rapid%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+digital+design+environment+for+large-scale+rapid+manufacturing&as_occt=title&as_sauthors=kestelier&as_ylo=2007&as_yhi=2011&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84859029522&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2009.201" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Towards the Application of Mesostructures in 3D Concrete Printing&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Evaluating Load-bearing Performance</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://sciendo.com/pdf/10.2478/ncr-2023-0011) <a href="https://doi.org/10.2478/ncr-2023-0011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/ncr-2023-0011" target="_blank">10.2478/ncr-2023-0011</a>
+<a href="https://sciendo.com/pdf/10.2478/ncr-2023-0011" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2478/ncr-2023-0011" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/ncr-2023-0011" target="_blank">10.2478/ncr-2023-0011</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2313-8809" title="ORCID: 0000-0002-2313-8809" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/westerlind_helena"><b>Westerlind</b>&nbsp;Helena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_hernandez_jose"><b>Vargas</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b>&nbsp;Johan</a></span><br>
 Journal Article - Nordic Concrete Research, Vol. 69, Iss. 2, pp. 87-100
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20the%20Application%20of%20Mesostructures%20in%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+the+application+of+mesostructures+in+3d+concrete+printing&as_occt=title&as_sauthors=westerlind&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2478/ncr-2023-0011" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

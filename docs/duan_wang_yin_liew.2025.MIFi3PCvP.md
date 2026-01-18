@@ -15,14 +15,15 @@ tags:
 ---
 
 #Modeling Interfacial Failure in 3D-Printed Concrete via Peridynamics ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" target="_blank">10.1016/j.ijmecsci.2025.110490</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijmecsci.2025.110490" target="_blank">10.1016/j.ijmecsci.2025.110490</a>
 
 <span class="author"><a href="https://orcid.org/0009-0001-2577-3523" title="ORCID: 0009-0001-2577-3523" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_yuhang"><b>Duan</b>&nbsp;Yuhang</a></span>, <a href="../../../author/wang_chuan"><b>Wang</b>&nbsp;Chuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9660-8907" title="ORCID: 0000-0001-9660-8907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yin_binbin"><b>Yin</b>&nbsp;Binbin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7160-7676" title="ORCID: 0000-0001-7160-7676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liew_meow_kim"><b>Liew</b>&nbsp;Kim</a></span><br>
 Journal Article - International Journal of Mechanical Sciences, No. 110490
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/failure"><button class="btn">#failure</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Modeling%20Interfacial%20Failure%20in%203D-Printed%20Concrete%20via%20Peridynamics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=modeling+interfacial+failure+in+3d-printed+concrete+via+peridynamics&as_occt=title&as_sauthors=duan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008177034&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001517035100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ijmecsci.2025.110490" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

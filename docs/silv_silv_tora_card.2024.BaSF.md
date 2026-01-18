@@ -17,14 +17,15 @@ tags:
 
 #Building a Sustainable Future&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">The Role of Additive Manufacturing in Civil Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e02976) <a href="https://doi.org/10.1016/j.cscm.2024.e02976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02976" target="_blank">10.1016/j.cscm.2024.e02976</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e02976" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e02976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e02976" target="_blank">10.1016/j.cscm.2024.e02976</a>
 
 <a href="../../../author/silva_douglas-leles_maicon"><b>da&nbsp;Silva</b>&nbsp;Maicon</a></span>, <a href="../../../author/silva_fernanda_livia"><b>Silva</b>&nbsp;Lívia</a></span>, <a href="../../../author/toralles_martins_berenice"><b>Toralles</b>&nbsp;Berenice</a></span>, <a href="../../../author/cardoso_aparecida-reitz_flavia"><b>Cardoso</b>&nbsp;Flávia</a></span>, <a href="../../../author/corso_marla"><b>Corso</b>&nbsp;Marla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9677-4139" title="ORCID: 0000-0001-9677-4139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rezende_cristina-soto-herek_luciana"><b>Rezende</b>&nbsp;Luciana</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 20, No. e02976
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Building%20a%20Sustainable%20Future" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=building+a+sustainable+future&as_occt=title&as_sauthors=silva&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185410855&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001199598600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e02976" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

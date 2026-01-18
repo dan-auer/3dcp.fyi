@@ -8,6 +8,10 @@ search:
 
 # #open
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/time"><button class="btn">#time (4)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
   <li><a href="../../../author/chai_kian_hwa"><b>Chai</b> Hwa</a>, <a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chai_shio.2024.OLoRTQ/">Opening Letter of RILEM TC QPA:<br/>Quality and Performance Assurance of Additively Manufactured Cementitious Composites by Advanced Non-Invasive Techniques</a></li>

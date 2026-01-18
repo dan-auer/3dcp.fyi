@@ -24,7 +24,7 @@ Contribution - Proceedings of the 13th International Conference of the Arab Soci
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> <a href="../../keyword/streamline"><button class="btn">#streamline</button></a> <a href="../../keyword/workflow"><button class="btn">#workflow</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Streamlined%20Decentralised%20Workflow%20for%20Obtaining%20Specific%20Mechanical%20Performance%20and%20Grade%20of%203DPC" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+streamlined+decentralised+workflow+for+obtaining+specific+mechanical+performance+and+grade+of+3dpc&as_occt=title&as_sauthors=marco&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

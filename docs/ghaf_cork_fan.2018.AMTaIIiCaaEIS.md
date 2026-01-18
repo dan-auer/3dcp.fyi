@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution ([2018-05](date/2018/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2018.05.005) <a href="https://doi.org/10.1016/j.autcon.2018.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.05.005" target="_blank">10.1016/j.autcon.2018.05.005</a>
+<a href="https://doi.org/10.1016/j.autcon.2018.05.005" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2018.05.005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2018.05.005" target="_blank">10.1016/j.autcon.2018.05.005</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7155-4735" title="ORCID: 0000-0002-7155-4735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corker_jorge"><b>Corker</b>&nbsp;Jorge</a></span>, <a href="../../../author/fan_mizi"><b>Fan</b>&nbsp;Mizi</a></span><br>
 Journal Article - Automation in Construction, Vol. 93, pp. 1-11
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/solution"><button class="btn">#solution</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Technology%20and%20Its%20Implementation%20in%20Construction%20as%20an%20Eco-Innovative%20Solution" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+technology+and+its+implementation+in+construction+as+an+eco-innovative+solution&as_occt=title&as_sauthors=ghaffar&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046999128&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000441687500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2018.05.005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

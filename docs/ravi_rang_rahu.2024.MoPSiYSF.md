@@ -24,14 +24,15 @@ tags:
 
 #Migration of Particles Suspended in Yield-Stress Fluids&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">Insights from Numerical Simulation of Pipe Flow of 3D Printable Concrete</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jnnfm.2024.105305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jnnfm.2024.105305" target="_blank">10.1016/j.jnnfm.2024.105305</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jnnfm.2024.105305" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jnnfm.2024.105305" target="_blank">10.1016/j.jnnfm.2024.105305</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-4099-4288" title="ORCID: 0009-0008-4099-4288" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ravindran_vishwanath"><b>Ravindran</b>&nbsp;Vishwanath</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0356-0797" title="ORCID: 0000-0002-0356-0797" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b>&nbsp;Thiyagarajan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5849-2293" title="ORCID: 0000-0002-5849-2293" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b>&nbsp;Attupurathu</a></span><br>
 Journal Article - Journal of Non-Newtonian Fluid Mechanics, Vol. 332, No. 105305
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/insights"><button class="btn">#insights</button></a> <a href="../../keyword/migration"><button class="btn">#migration</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Migration%20of%20Particles%20Suspended%20in%20Yield-Stress%20Fluids" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=migration+of+particles+suspended+in+yield-stress+fluids&as_occt=title&as_sauthors=ravindran&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202537613&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001317049300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jnnfm.2024.105305" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

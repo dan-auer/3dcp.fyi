@@ -19,14 +19,15 @@ tags:
 ---
 
 #Structural Build-Up, Hydration and Strength Development of Cement-Based Materials with Accelerators ([2020-06](date/2020/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" target="_blank">10.1016/j.conbuildmat.2020.119775</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2020.119775" target="_blank">10.1016/j.conbuildmat.2020.119775</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/zhou_dajun"><b>Zhou</b>&nbsp;Dajun</a></span>, <a href="../../../author/huang_hai"><b>Huang</b>&nbsp;Hai</a></span>, <a href="../../../author/peng_jianwei"><b>Peng</b>&nbsp;Jianwei</a></span>, <a href="../../../author/yao_hao"><b>Yao</b>&nbsp;Hao</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 259
 
 <a href="../../keyword/accelerator"><button class="btn">#accelerator</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Build-Up%2C%20Hydration%20and%20Strength%20Development%20of%20Cement-Based%20Materials%20with%20Accelerators" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+build-up%2C+hydration+and+strength+development+of+cement-based+materials+with+accelerators&as_occt=title&as_sauthors=yuan&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086564094&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000573795600014" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2020.119775" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

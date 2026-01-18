@@ -18,14 +18,15 @@ tags:
 
 #Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">Addressing the Potential of Timber Residues for 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_6" target="_blank">10.1007/978-981-95-1822-7_6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_6" target="_blank">10.1007/978-981-95-1822-7_6</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-5186-1748" title="ORCID: 0009-0004-5186-1748" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b>&nbsp;Juan</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-3601-9662" title="ORCID: 0009-0002-3601-9662" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b>&nbsp;Ayla</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-5231-5522" title="ORCID: 0009-0003-5231-5522" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b>&nbsp;Aloysious</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b>&nbsp;Jaime</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 53-61
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/residual"><button class="btn">#residual</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advancing%20Circular%20Bioeconomy%20and%20Sustainable%20Construction%20in%20the%20Iberian%20Peninsula" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advancing+circular+bioeconomy+and+sustainable+construction+in+the+iberian+peninsula&as_occt=title&as_sauthors=bugarin&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

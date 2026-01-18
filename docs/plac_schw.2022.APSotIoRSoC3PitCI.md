@@ -16,14 +16,15 @@ tags:
 ---
 
 #A Preliminary Study of the Impact of Robotic Systems on Concrete 3D Printing in the Construction Industry ([2022-12](date/2022/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.37544/0005-6650-2022-12-59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.37544/0005-6650-2022-12-59" target="_blank">10.37544/0005-6650-2022-12-59</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.37544/0005-6650-2022-12-59" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.37544/0005-6650-2022-12-59" target="_blank">10.37544/0005-6650-2022-12-59</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4805-350X" title="ORCID: 0000-0003-4805-350X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/placzek_gerrit"><b>Placzek</b>&nbsp;Gerrit</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4954-1700" title="ORCID: 0000-0002-4954-1700" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b>&nbsp;Patrick</a></span><br>
 Journal Article - Bauingenieur, Vol. 97, Iss. 12, pp. 423-433
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Preliminary%20Study%20of%20the%20Impact%20of%20Robotic%20Systems%20on%20Concrete%203D%20Printing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+preliminary+study+of+the+impact+of+robotic+systems+on+concrete+3d+printing+in+the+construction+industry&as_occt=title&as_sauthors=placzek&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85143279155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000906847600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.37544/0005-6650-2022-12-59" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

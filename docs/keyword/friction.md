@@ -8,6 +8,10 @@ search:
 
 # #friction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic (2)</button></a> <a href="../../keyword/interface"><button class="btn">#interface (2)</button></a> <a href="../../keyword/model"><button class="btn">#model (2)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_span_perr.2024.EVaFTT/">Exploring Viscosity and Friction Through Temperature:<br/>Understanding Self-Heating Dynamics of Non-Newtonian 3D Printable Construction Materials via CFD Modeling</a></li>
   <li><a href="../../../author/wijaya_p-a_ignasius"><b>Wijaya</b> Ignasius</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/masud_arif"><b>Masud</b> Arif</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wija_krei_masu.2024.MoCPPwFI/">Modeling of Concrete Printing Process with Frictional Interface</a></li>

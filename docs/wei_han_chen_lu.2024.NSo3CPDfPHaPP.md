@@ -17,14 +17,15 @@ tags:
 ---
 
 #Numerical Simulation of 3D Concrete Printing Derived from Printer Head and Printing Process ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.109241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109241" target="_blank">10.1016/j.jobe.2024.109241</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.109241" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.109241" target="_blank">10.1016/j.jobe.2024.109241</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3636-049X" title="ORCID: 0000-0003-3636-049X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wei_ying"><b>Wei</b>&nbsp;Ying</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5071-4018" title="ORCID: 0000-0001-5071-4018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_song"><b>Han</b>&nbsp;Song</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3707-0235" title="ORCID: 0000-0002-3707-0235" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_ziwei"><b>Chen</b>&nbsp;Ziwei</a></span>, <a href="../../../author/lu_jianxian"><b>Lu</b>&nbsp;Jianxian</a></span>, <a href="../../../author/li_ziang"><b>Li</b>&nbsp;Ziang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3361-2957" title="ORCID: 0000-0002-3361-2957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_shiwei"><b>Yu</b>&nbsp;Shiwei</a></span>, <a href="../../../author/cheng_wenbo"><b>Cheng</b>&nbsp;Wenbo</a></span>, <a href="../../../author/an_mingzhe"><b>An</b>&nbsp;Mingzhe</a></span>, <a href="../../../author/yan_peiyu"><b>Yan</b>&nbsp;Peiyu</a></span><br>
 Journal Article - Journal of Building Engineering, No. 109241
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulation%20of%203D%20Concrete%20Printing%20Derived%20from%20Printer%20Head%20and%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulation+of+3d+concrete+printing+derived+from+printer+head+and+printing+process&as_occt=title&as_sauthors=wei&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189686104&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001227233100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.109241" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

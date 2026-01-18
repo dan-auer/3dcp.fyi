@@ -17,14 +17,15 @@ tags:
 ---
 
 #CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1021/acssuschemeng.4c03018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acssuschemeng.4c03018" target="_blank">10.1021/acssuschemeng.4c03018</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1021/acssuschemeng.4c03018" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1021/acssuschemeng.4c03018" target="_blank">10.1021/acssuschemeng.4c03018</a>
 
 <a href="../../../author/zhong_kuangnan"><b>Zhong</b>&nbsp;Kuangnan</a></span>, <a href="../../../author/huang_kaiyun"><b>Huang</b>&nbsp;Kaiyun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0678-4606" title="ORCID: 0000-0002-0678-4606" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_zhichao"><b>Liu</b>&nbsp;Zhichao</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9376-5632" title="ORCID: 0000-0001-9376-5632" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_fazhou"><b>Wang</b>&nbsp;Fazhou</a></span>, <a href="../../../author/hu_shuguang"><b>Hu</b>&nbsp;Shuguang</a></span><br>
 Journal Article - ACS Sustainable Chemistry & Engineering
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=CO2-Driven%20Additive%20Manufacturing%20of%20Sustainable%20Steel-Slag-Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=co2-driven+additive+manufacturing+of+sustainable+steel-slag-mortars&as_occt=title&as_sauthors=zhong&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198203773&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001274486700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1021/acssuschemeng.4c03018" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

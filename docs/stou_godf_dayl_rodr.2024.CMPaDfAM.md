@@ -19,14 +19,15 @@ tags:
 
 #Concrete Mixture Properties and Designs for Additive Manufacturing&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">A Review of 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/ietc61393.2024.10564296" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ietc61393.2024.10564296" target="_blank">10.1109/ietc61393.2024.10564296</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/ietc61393.2024.10564296" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/ietc61393.2024.10564296" target="_blank">10.1109/ietc61393.2024.10564296</a>
 
 <a href="../../../author/stout_ivy"><b>Stout</b>&nbsp;Ivy</a></span>, <a href="../../../author/godfrey_grant"><b>Godfrey</b>&nbsp;Grant</a></span>, <a href="../../../author/dayley_jenna"><b>Dayley</b>&nbsp;Jenna</a></span>, <a href="../../../author/rodriguez_dexter"><b>Rodriguez</b>&nbsp;Dexter</a></span>, <a href="../../../author/guthrie_spencer_w"><b>Guthrie</b>&nbsp;W.</a></span>, <a href="../../../author/sorensen_j_taylor"><b>Sorensen</b>&nbsp;Taylor</a></span><br>
 Contribution - 2024 Intermountain Engineering, Technology and Computing (IETC), pp. 285-290
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Mixture%20Properties%20and%20Designs%20for%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete+mixture+properties+and+designs+for+additive+manufacturing&as_occt=title&as_sauthors=stout&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198092497&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/ietc61393.2024.10564296" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

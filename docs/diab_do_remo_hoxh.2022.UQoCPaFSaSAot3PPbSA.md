@@ -21,14 +21,15 @@ tags:
 ---
 
 #Uncertainty Quantification of Concrete Properties at Fresh State and Stability-Analysis of the 3D Printing Process by Stochastic Approach ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_23" target="_blank">10.1007/978-3-031-06116-5_23</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_23" target="_blank">10.1007/978-3-031-06116-5_23</a>
 
 <a href="../../../author/diab_zeinab"><b>Diab</b>&nbsp;Zeinab</a></span>, <a href="../../../author/do_phi_duc"><b>Do</b>&nbsp;Duc</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <a href="../../../author/hoxha_dashnor"><b>Hoxha</b>&nbsp;Dashnor</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 155-160
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/statistics"><button class="btn">#statistics</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Uncertainty%20Quantification%20of%20Concrete%20Properties%20at%20Fresh%20State%20and%20Stability-Analysis%20of%20the%203D%20Printing%20Process%20by%20Stochastic%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=uncertainty+quantification+of+concrete+properties+at+fresh+state+and+stability-analysis+of+the+3d+printing+process+by+stochastic+approach&as_occt=title&as_sauthors=diab&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133176166&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_23" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

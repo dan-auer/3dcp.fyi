@@ -21,14 +21,15 @@ tags:
 
 #Mineral-Impregnated Carbon-Fiber Composites as Novel Reinforcement for Concrete Construction&nbsp;([2019-11](date/2019/11))
 <div class="h1-like">Material and Automation Perspectives</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2019.103002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.103002" target="_blank">10.1016/j.autcon.2019.103002</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2019.103002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2019.103002" target="_blank">10.1016/j.autcon.2019.103002</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span>, <a href="../../../author/michel_albert"><b>Michel</b>&nbsp;Albert</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4054-6414" title="ORCID: 0000-0003-4054-6414" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liebscher_marco"><b>Liebscher</b>&nbsp;Marco</a></span>, <a href="../../../author/schneider_kai"><b>Schneider</b>&nbsp;Kai</a></span>, <a href="../../../author/grossmann_christoph"><b>Großmann</b>&nbsp;Christoph</a></span><br>
 Journal Article - Automation in Construction, Vol. 110
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mineral-Impregnated%20Carbon-Fiber%20Composites%20as%20Novel%20Reinforcement%20for%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mineral-impregnated+carbon-fiber+composites+as+novel+reinforcement+for+concrete+construction&as_occt=title&as_sauthors=mechtcherine&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85074788070&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000517664900003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2019.103002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

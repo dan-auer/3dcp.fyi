@@ -8,7 +8,12 @@ search:
 
 # #shear
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (30)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (27)</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior (10)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (9)</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bhar_meno_sant.2026.ESoHPo3PCUCTaSCII/">Experimental Study of Hardened Properties of 3D-Printed Concrete Under Compression, Tension and Shear Considering Interlayer Influence</a></li>
   <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>
   <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/tian_xin"><b>Tian</b> Xin</a>, <a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a>, <a href="../../../author/fang_zhi"><b>Fang</b> Zhi</a>, <a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tian_shi_fang_lin.2025.MIEoMBi3PCSK/">Multi-Interface Effects on Mechanical Behavior in 3D-Printed Concrete Shear Keys:<br/>A Finite Element Modeling Strategy</a></li>

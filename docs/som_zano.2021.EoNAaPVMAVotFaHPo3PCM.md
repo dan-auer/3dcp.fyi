@@ -23,14 +23,15 @@ tags:
 ---
 
 #Effect of Nano-Additives and Polymeric Viscosity-Modifying-Admixtures (VMA) on the Fresh and Hardened Properties of 3D Printable Concrete Mixtures ([2021-09](date/2021/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-21735-7_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21735-7_52" target="_blank">10.1007/978-3-031-21735-7_52</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-21735-7_52" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-21735-7_52" target="_blank">10.1007/978-3-031-21735-7_52</a>
 
 <a href="../../../author/som_debadri"><b>Som</b>&nbsp;Debadri</a></span>, <a href="../../../author/zanotti_cristina"><b>Zanotti</b>&nbsp;Cristina</a></span><br>
 Contribution - Proceedings of the 75th RILEM Annual Week 2021, pp. 469-477
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> <a href="../../keyword/vma"><button class="btn">#vma</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Nano-Additives%20and%20Polymeric%20Viscosity-Modifying-Admixtures%20%28VMA%29%20on%20the%20Fresh%20and%20Hardened%20Properties%20of%203D%20Printable%20Concrete%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+nano-additives+and+polymeric+viscosity-modifying-admixtures+%28vma%29+on+the+fresh+and+hardened+properties+of+3d+printable+concrete+mixtures&as_occt=title&as_sauthors=som&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150165817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001000560900052" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-21735-7_52" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

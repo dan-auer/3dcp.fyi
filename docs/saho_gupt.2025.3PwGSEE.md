@@ -21,14 +21,15 @@ tags:
 
 #3D Printing with Geopolymer-Stabilized Excavated Earth&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">Enhancement of Printability and Engineering-Performance Through Controlled Retardation</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" target="_blank">10.1016/j.cemconcomp.2024.105861</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105861" target="_blank">10.1016/j.cemconcomp.2024.105861</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-2747-4976" title="ORCID: 0009-0000-2747-4976" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sahoo_pitabash"><b>Sahoo</b>&nbsp;Pitabash</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1130-5400" title="ORCID: 0000-0003-1130-5400" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gupta_souradeep"><b>Gupta</b>&nbsp;Souradeep</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 156, No. 105861
 
 <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/enhancement"><button class="btn">#enhancement</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/retarder"><button class="btn">#retarder</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20with%20Geopolymer-Stabilized%20Excavated%20Earth" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+with+geopolymer-stabilized+excavated+earth&as_occt=title&as_sauthors=sahoo&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85209733235&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001366795900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105861" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

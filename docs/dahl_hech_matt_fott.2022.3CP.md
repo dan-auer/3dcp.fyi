@@ -15,14 +15,15 @@ tags:
 
 #3D Concrete Printing&nbsp;([2022-11](date/2022/11))
 <div class="h1-like">Graded Concrete-Extrusion</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/iccakm54721.2022.9990494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iccakm54721.2022.9990494" target="_blank">10.1109/iccakm54721.2022.9990494</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/iccakm54721.2022.9990494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/iccakm54721.2022.9990494" target="_blank">10.1109/iccakm54721.2022.9990494</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1816-3679" title="ORCID: 0000-0003-1816-3679" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b>&nbsp;Maximilian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3119-850X" title="ORCID: 0000-0003-3119-850X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9079-8578" title="ORCID: 0000-0001-9079-8578" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b>&nbsp;Carla</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6392-0371" title="ORCID: 0000-0001-6392-0371" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fottner_johannes"><b>Fottner</b>&nbsp;Johannes</a></span><br>
 Contribution - Proceedings of the 3rd International Conference on Computation, Automation and Knowledge Management, pp. 1-5
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing&as_occt=title&as_sauthors=dahlenburg&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146305202&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/iccakm54721.2022.9990494" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

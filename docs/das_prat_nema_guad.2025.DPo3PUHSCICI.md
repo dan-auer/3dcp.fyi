@@ -19,14 +19,15 @@ tags:
 ---
 
 #Durability Performance of 3D-Printed Ultra-High Strength Concrete Incorporating Corrosion Inhibitor ([2025-10](date/2025/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1710&context=icdcs) <a href="https://doi.org/10.5703/1288284318121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318121" target="_blank">10.5703/1288284318121</a>
+<a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1710&context=icdcs" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5703/1288284318121" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318121" target="_blank">10.5703/1288284318121</a>
 
 <a href="../../../author/das_jyotish"><b>Das</b>&nbsp;Jyotish</a></span>, <a href="../../../author/pratama_mirza_m"><b>Pratama</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2422-4589" title="ORCID: 0000-0003-2422-4589" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nematollahi_behzad"><b>Nematollahi</b>&nbsp;Behzad</a></span>, <a href="../../../author/guadagnini_maurizio"><b>Guadagnini</b>&nbsp;Maurizio</a></span><br>
 Contribution - Proceedings of the 8th International Conference on Durability of Concrete Structures
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corrosion"><button class="btn">#corrosion</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/inhibitor"><button class="btn">#inhibitor</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Durability%20Performance%20of%203D-Printed%20Ultra-High%20Strength%20Concrete%20Incorporating%20Corrosion%20Inhibitor" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=durability+performance+of+3d-printed+ultra-high+strength+concrete+incorporating+corrosion+inhibitor&as_occt=title&as_sauthors=das&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5703/1288284318121" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

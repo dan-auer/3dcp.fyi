@@ -22,14 +22,15 @@ tags:
 
 #Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">A State-of-the-Art Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2025.2589418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2589418" target="_blank">10.1080/21650373.2025.2589418</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2025.2589418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2025.2589418" target="_blank">10.1080/21650373.2025.2589418</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6654-0996" title="ORCID: 0000-0002-6654-0996" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_yao"><b>Ding</b>&nbsp;Yao</a></span>, <a href="../../../author/liu_yifan"><b>Liu</b>&nbsp;Yifan</a></span>, <a href="../../../author/yang_bo"><b>Yang</b>&nbsp;Bo</a></span>, <a href="../../../author/liu_jiepeng"><b>Liu</b>&nbsp;Jiepeng</a></span>, <a href="../../../author/gao_pan"><b>Gao</b>&nbsp;Pan</a></span>, <a href="../../../author/tomoya_nishiwaki"><b>Tomoya</b>&nbsp;Nishiwaki</a></span>, <a href="../../../author/qi_hongtuo"><b>Qi</b>&nbsp;Hongtuo</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-17
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Artificial%20Intelligence%20Technology%20in%203D%20Concrete%20Printing%20Quality%20Inspection%20and%20Control" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+artificial+intelligence+technology+in+3d+concrete+printing+quality+inspection+and+control&as_occt=title&as_sauthors=ding&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2025.2589418" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

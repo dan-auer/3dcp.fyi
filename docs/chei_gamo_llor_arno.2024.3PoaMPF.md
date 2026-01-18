@@ -26,7 +26,7 @@ Contribution - Proceedings, pp. 445-455
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/facade"><button class="btn">#facade</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/water"><button class="btn">#water</button></a> <a href="../../keyword/wind"><button class="btn">#wind</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20a%20Multi-Performative%20Facade" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+a+multi-performative+facade&as_occt=title&as_sauthors=cheibas&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

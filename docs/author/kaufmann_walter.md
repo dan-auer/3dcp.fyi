@@ -9,6 +9,60 @@ search:
 
 #  Kaufmann Walter 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8415-4896" target="_blank">0000-0002-8415-4896</a>
+
+    First Contribution
+    : 2018-06-11
+    
+    Last Contribution
+    : 2025-01-12
+
+    Number Contributions
+    : 26
+
+    Number Citations
+    : 945
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (23)</li>
+        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a> (14)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (7)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (7)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (281)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (82)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (77)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (69)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (61)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (58)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (42)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (39)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (37)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (35)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/licciardello_lucia"><b>Licciardello</b> Lucia</a>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a>, <a href="../../../author/metelli_giovanni"><b>Metelli</b> Giovanni</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../licc_soto_kauf_mete.2025.DtSo3PCwtMSST/">Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>

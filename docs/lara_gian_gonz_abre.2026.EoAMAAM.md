@@ -15,14 +15,15 @@ tags:
 ---
 
 #Evaluation of Additively Manufactured Acoustic Absorbing Metamaterials ([2026-01](date/2026/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_20" target="_blank">10.1007/978-981-95-1822-7_20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_20" target="_blank">10.1007/978-981-95-1822-7_20</a>
 
 <a href="../../../author/lara_yamile"><b>Lara</b>&nbsp;Yamile</a></span>, <a href="../../../author/gianoli_pablo"><b>Gianoli</b>&nbsp;Pablo</a></span>, <a href="../../../author/gonzalez_elizabeth"><b>Gonzalez</b>&nbsp;Elizabeth</a></span>, <a href="../../../author/abreu_ana"><b>Abreu</b>&nbsp;Ana</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 191-198
 
 <a href="../../keyword/absorbent"><button class="btn">#absorbent</button></a> <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Additively%20Manufactured%20Acoustic%20Absorbing%20Metamaterials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+additively+manufactured+acoustic+absorbing+metamaterials&as_occt=title&as_sauthors=lara&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

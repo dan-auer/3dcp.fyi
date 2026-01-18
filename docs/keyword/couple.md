@@ -8,6 +8,10 @@ search:
 
 # #couple
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/optimization"><button class="btn">#optimization (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (2)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (2)</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/saravanan_pradeep"><b>Saravanan</b> Pradeep</a>, <a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../sara_rama.2025.EACBo3PM/">Early Age Creep Behavior of 3D Printable Mortar:<br/>Hydration and Viscoelasticity Coupling Model</a></li>
   <li><a href="../../../author/gasmi_abrar"><b>Gasmi</b> Abrar</a>, <a href="../../../author/guessasma_mohamed"><b>Guessasma</b> Mohamed</a>, <a href="../../../author/davidovits_ralph"><b>Davidovits</b> Ralph</a>, <a href="../../../author/pelegris_christine"><b>Pélegris</b> Christine</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../gasm_gues_davi_pele.2025.UAEi3PGC/">Unveiling Additive Effects in 3D Printed Geopolymer Composites:<br/>A Multi-Scale Analysis Coupling Rheological Insights and CFD-Optimized Deposition</a></li>

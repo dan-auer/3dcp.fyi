@@ -15,14 +15,15 @@ tags:
 ---
 
 #Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending ([2023-08](date/2023/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2023.116578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116578" target="_blank">10.1016/j.engstruct.2023.116578</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2023.116578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116578" target="_blank">10.1016/j.engstruct.2023.116578</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0893-6623" title="ORCID: 0000-0003-0893-6623" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeng_jun-jie"><b>Zeng</b>&nbsp;Jun-Jie</a></span>, <a href="../../../author/li_pei-lin"><b>Li</b>&nbsp;Pei-Lin</a></span>, <a href="../../../author/yan_zitong"><b>Yan</b>&nbsp;Zitong</a></span>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b>&nbsp;Jie-Kai</a></span>, <a href="../../../author/quach_wai-meng"><b>Quach</b>&nbsp;Wai-Meng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1620-6743" title="ORCID: 0000-0003-1620-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhuge_yan"><b>Zhuge</b>&nbsp;Yan</a></span><br>
 Journal Article - Engineering Structures, Vol. 294, No. 116578
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/bending"><button class="btn">#bending</button></a> <a href="../../keyword/plate"><button class="btn">#plate</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Behavior%20of%203D%20Printed%20HPC%20Plates%20with%20FRP-Grid-Reinforcement%20Under%20Bending" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=behavior+of+3d+printed+hpc+plates+with+frp-grid-reinforcement+under+bending&as_occt=title&as_sauthors=zeng&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167801169&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001059213300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2023.116578" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

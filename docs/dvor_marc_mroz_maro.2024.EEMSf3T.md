@@ -15,14 +15,15 @@ tags:
 ---
 
 #Energy-Efficient Mixtures Suitable for 3D Technologies ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/14/7/3038/pdf?version=1712228888) <a href="https://doi.org/10.3390/app14073038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14073038" target="_blank">10.3390/app14073038</a>
+<a href="https://www.mdpi.com/2076-3417/14/7/3038/pdf?version=1712228888" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app14073038" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app14073038" target="_blank">10.3390/app14073038</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8759-6318" title="ORCID: 0000-0001-8759-6318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dvorkin_leonid"><b>Dvorkin</b>&nbsp;Leonid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0999-0402" title="ORCID: 0000-0003-0999-0402" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/marchuk_vitaliy"><b>Marchuk</b>&nbsp;Vitaliy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5306-2035" title="ORCID: 0000-0001-5306-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mroz_katarzyna"><b>Mróz</b>&nbsp;Katarzyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6554-4613" title="ORCID: 0000-0001-6554-4613" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/maroszek_marcin"><b>Maroszek</b>&nbsp;Marcin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2852-8934" title="ORCID: 0000-0003-2852-8934" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hager_izabela"><b>Hager</b>&nbsp;Izabela</a></span><br>
 Journal Article - Applied Sciences, Vol. 14, Iss. 7, No. 3038
 
 <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Energy-Efficient%20Mixtures%20Suitable%20for%203D%20Technologies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=energy-efficient+mixtures+suitable+for+3d+technologies&as_occt=title&as_sauthors=dvorkin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85192571842&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001201170300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app14073038" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

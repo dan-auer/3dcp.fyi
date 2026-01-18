@@ -8,6 +8,10 @@ search:
 
 # #selective
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (29)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (20)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (16)</button></a> <a href="../../keyword/intrusion"><button class="btn">#intrusion (13)</button></a> <a href="../../keyword/activation"><button class="btn">#activation (12)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lapusan_ciprian"><b>Lapusan</b> Ciprian</a>, <a href="../../../author/negrutiu_maria_camelia"><b>Negrutiu</b> Camelia</a>, <a href="../../../author/sosa_ioan"><b>Sosa</b> Ioan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lapu_negr_sosa.2026.MCDFfORSSi3CP/">Multi-Criteria Decision Framework for Optimal Robotic System Selection in 3D Concrete Printing</a></li>
   <li><a href="../../../author/silva_neesha"><b>Silva</b> Neesha</a>, <a href="../../../author/rajapaksha_upendra"><b>Rajapaksha</b> Upendra</a>, <a href="../../../author/udawattha_chameera"><b>Udawattha</b> Chameera</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../silv_raja_udaw.2025.T3PfPH/">Tailoring 3D Printing for Personalized Housing:<br/>Selecting the Right Technology for Custom Home Construction</a></li>

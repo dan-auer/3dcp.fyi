@@ -18,14 +18,15 @@ tags:
 
 #Cable Robotic 3D Printing&nbsp;([2022-10](date/2022/10))
 <div class="h1-like">Additive Manufacturing on the Construction Site</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-022-00082-3.pdf) <a href="https://doi.org/10.1007/s41693-022-00082-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00082-3" target="_blank">10.1007/s41693-022-00082-3</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41693-022-00082-3.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-022-00082-3" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-022-00082-3" target="_blank">10.1007/s41693-022-00082-3</a>
 
 <a href="../../../author/hahlbrock_david"><b>Hahlbrock</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2242-8051" title="ORCID: 0000-0003-2242-8051" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/braun_michael"><b>Braun</b>&nbsp;Michael</a></span>, <a href="../../../author/heidel_robin"><b>Heidel</b>&nbsp;Robin</a></span>, <a href="../../../author/lemmen_patrik"><b>Lemmen</b>&nbsp;Patrik</a></span>, <a href="../../../author/boumann_roland"><b>Boumann</b>&nbsp;Roland</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0271-6737" title="ORCID: 0000-0002-0271-6737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bruckmann_tobias"><b>Bruckmann</b>&nbsp;Tobias</a></span>, <a href="../../../author/schramm_dieter"><b>Schramm</b>&nbsp;Dieter</a></span>, <a href="../../../author/helm_volker"><b>Helm</b>&nbsp;Volker</a></span>, <a href="../../../author/willmann_jan"><b>Willmann</b>&nbsp;Jan</a></span><br>
 Journal Article - Construction Robotics
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cable%20Robotic%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cable+robotic+3d+printing&as_occt=title&as_sauthors=hahlbrock&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-022-00082-3" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

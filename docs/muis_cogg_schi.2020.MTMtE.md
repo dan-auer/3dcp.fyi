@@ -13,14 +13,15 @@ tags:
 
 #More Than Meets the Eye?&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">Robotisation and Normativity in the Dutch Construction Industry</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repository.tudelft.nl/islandora/object/uuid%3A1309a149-b2b3-413d-b201-0740d3508e93/datastream/OBJ/download) <a href="https://doi.org/10.1007/978-3-030-49916-7_82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_82" target="_blank">10.1007/978-3-030-49916-7_82</a>
+<a href="https://repository.tudelft.nl/islandora/object/uuid%3A1309a149-b2b3-413d-b201-0740d3508e93/datastream/OBJ/download" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_82" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_82" target="_blank">10.1007/978-3-030-49916-7_82</a>
 
 <a href="../../../author/muishout_e_chantal"><b>Muishout</b>&nbsp;Chantal</a></span>, <a href="../../../author/coggins_n_tom"><b>Coggins</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0549-4516" title="ORCID: 0000-0003-0549-4516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schipper_h_roel"><b>Schipper</b>&nbsp;Roel</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 839-851
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=More%20Than%20Meets%20the%20Eye%3F" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=more+than+meets+the+eye%3F&as_occt=title&as_sauthors=muishout&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088263899&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_82" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

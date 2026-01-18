@@ -8,6 +8,10 @@ search:
 
 # #curve
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (15)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (4)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (4)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>

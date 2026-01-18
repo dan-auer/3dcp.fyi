@@ -20,14 +20,15 @@ tags:
 
 #Micro/Nano Additives in 3D Printing Concrete&nbsp;([2024-10](date/2024/10))
 <div class="h1-like">Opportunities, Challenges, and Potential Outlook in Construction Applications</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105799) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" target="_blank">10.1016/j.cemconcomp.2024.105799</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105799" target="_blank">10.1016/j.cemconcomp.2024.105799</a>
 
 <a href="../../../author/jin_peng"><b>Jin</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1407-257X" title="ORCID: 0000-0002-1407-257X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hasany_masoud"><b>Hasany</b>&nbsp;Masoud</a></span>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 105799
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Micro/Nano%20Additives%20in%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=micro%2Fnano+additives+in+3d+printing+concrete&as_occt=title&as_sauthors=jin&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207601938&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001348210300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105799" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

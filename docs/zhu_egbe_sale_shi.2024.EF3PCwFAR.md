@@ -21,14 +21,15 @@ tags:
 
 #Eco-Friendly 3D Printed Concrete with Fine Aggregate Replacements&nbsp;([2024-01](date/2024/01))
 <div class="h1-like">Fabrication, Characterization and Machine Learning Prediction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" target="_blank">10.1016/j.conbuildmat.2024.134905</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.134905" target="_blank">10.1016/j.conbuildmat.2024.134905</a>
 
 <a href="../../../author/zhu_ronghua"><b>Zhu</b>&nbsp;Ronghua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/egbe_idala_king-james"><b>Egbe</b>&nbsp;King-James</a></span>, <a href="../../../author/salehi_hadi"><b>Salehi</b>&nbsp;Hadi</a></span>, <a href="../../../author/shi_zhongtian"><b>Shi</b>&nbsp;Zhongtian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9577-3828" title="ORCID: 0000-0002-9577-3828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_pengcheng"><b>Jiao</b>&nbsp;Pengcheng</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 413, No. 134905
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/replacement"><button class="btn">#replacement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Eco-Friendly%203D%20Printed%20Concrete%20with%20Fine%20Aggregate%20Replacements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=eco-friendly+3d+printed+concrete+with+fine+aggregate+replacements&as_occt=title&as_sauthors=zhu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85181955600&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001165733200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.134905" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

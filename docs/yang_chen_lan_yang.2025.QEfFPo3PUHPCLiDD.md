@@ -21,14 +21,15 @@ tags:
 ---
 
 #Quantitative Evaluation for Fracture Properties of 3D Printed Ultra-High-Performance Concrete Loaded in Different Directions ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" target="_blank">10.1016/j.cemconcomp.2025.106110</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106110" target="_blank">10.1016/j.cemconcomp.2025.106110</a>
 
 <a href="../../../author/yang_shutong"><b>Yang</b>&nbsp;Shutong</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-6537-7461" title="ORCID: 0009-0001-6537-7461" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_zhengyuan"><b>Chen</b>&nbsp;Zhengyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6037-220X" title="ORCID: 0000-0001-6037-220X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lan_tian"><b>Lan</b>&nbsp;Tian</a></span>, <a href="../../../author/yang_tiange"><b>Yang</b>&nbsp;Tiange</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 162, No. 106110
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/direction"><button class="btn">#direction</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Quantitative%20Evaluation%20for%20Fracture%20Properties%20of%203D%20Printed%20Ultra-High-Performance%20Concrete%20Loaded%20in%20Different%20Directions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=quantitative+evaluation+for+fracture+properties+of+3d+printed+ultra-high-performance+concrete+loaded+in+different+directions&as_occt=title&as_sauthors=yang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005089516&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001493084900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106110" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

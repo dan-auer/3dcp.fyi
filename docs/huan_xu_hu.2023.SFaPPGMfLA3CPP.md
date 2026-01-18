@@ -19,14 +19,15 @@ tags:
 ---
 
 #Space-Filling and Print-Path-Generation-Methods for Large-Area 3D Concrete Printing Pavements ([2023-06](date/2023/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44223-023-00032-1.pdf) <a href="https://doi.org/10.1007/s44223-023-00032-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-023-00032-1" target="_blank">10.1007/s44223-023-00032-1</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44223-023-00032-1.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44223-023-00032-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44223-023-00032-1" target="_blank">10.1007/s44223-023-00032-1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5498-2730" title="ORCID: 0000-0001-5498-2730" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_shuyi"><b>Huang</b>&nbsp;Shuyi</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7594-2534" title="ORCID: 0009-0004-7594-2534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xu_weiguo"><b>Xu</b>&nbsp;Weiguo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2625-5939" title="ORCID: 0000-0002-2625-5939" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_hanyang"><b>Hu</b>&nbsp;Hanyang</a></span><br>
 Journal Article - Architectural Intelligence, Vol. 2, Iss. 1
 
 <a href="../../keyword/area"><button class="btn">#area</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Space-Filling%20and%20Print-Path-Generation-Methods%20for%20Large-Area%203D%20Concrete%20Printing%20Pavements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=space-filling+and+print-path-generation-methods+for+large-area+3d+concrete+printing+pavements&as_occt=title&as_sauthors=huang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44223-023-00032-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

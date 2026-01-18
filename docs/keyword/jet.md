@@ -8,6 +8,10 @@ search:
 
 # #jet
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/binder"><button class="btn">#binder (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> <a href="../../keyword/adaption"><button class="btn">#adaption (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wan_linxiaoyi"><b>Wan</b> Linxiaoyi</a>, <a href="../../../author/liu_jingyang"><b>Liu</b> Jingyang</a>, <a href="../../../author/bard_joshua"><b>Bard</b> Joshua</a>, <a href="../../../author/cupkova_dana"><b>Cupkova</b> Dana</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wan_liu_bard_cupk.2024.TAAM/">Towards Adaptive Additive Manufacturing:<br/>Image-Based Monitoring for Binder Jet 3D Printing of Coarse Composite Concrete Powders</a></li>
   <li><a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a>, <a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../odag_vone_dill_habe.2020.AiBJ3PoNCM/">Advances in Binder-Jet 3D Printing of Non-Cementitious Materials</a></li>

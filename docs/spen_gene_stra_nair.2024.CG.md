@@ -20,14 +20,15 @@ tags:
 
 #Concrete Gyroid&nbsp;([2024-06](date/2024/06))
 <div class="h1-like">An Additive Manufacturing (AM) Method to 3D Print Gyroid Geometries with a Cementitious Material</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-024-00124-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00124-y" target="_blank">10.1007/s41693-024-00124-y</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-024-00124-y" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-024-00124-y" target="_blank">10.1007/s41693-024-00124-y</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8179-636X" title="ORCID: 0000-0001-8179-636X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spencer_lawson"><b>Spencer</b>&nbsp;Lawson</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0037-5086" title="ORCID: 0000-0002-0037-5086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/genedy_moneeb"><b>Genedy</b>&nbsp;Moneeb</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-9349-5702" title="ORCID: 0009-0002-9349-5702" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strait_james"><b>Strait</b>&nbsp;James</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b>&nbsp;Sriramya</a></span>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span><br>
 Journal Article - Construction Robotics, Vol. 8, Iss. 2
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/gyroid"><button class="btn">#gyroid</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Gyroid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete+gyroid&as_occt=title&as_sauthors=spencer&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-024-00124-y" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

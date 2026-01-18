@@ -22,14 +22,15 @@ tags:
 
 #An Overview of 3D Printed Concrete for Building Structures&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Material Properties, Sustainability, Future Opportunities, and Challenges</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2025.109284" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109284" target="_blank">10.1016/j.istruc.2025.109284</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.109284" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109284" target="_blank">10.1016/j.istruc.2025.109284</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2278-7548" title="ORCID: 0000-0003-2278-7548" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mohamed_osama"><b>Mohamed</b>&nbsp;Osama</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6507-6274" title="ORCID: 0000-0001-6507-6274" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mishra_anamika"><b>Mishra</b>&nbsp;Anamika</a></span>, <a href="../../../author/isam_fida"><b>Isam</b>&nbsp;Fida</a></span><br>
 Journal Article - Structures, Vol. 78, No. 109284
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/overview"><button class="btn">#overview</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Overview%20of%203D%20Printed%20Concrete%20for%20Building%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+overview+of+3d+printed+concrete+for+building+structures&as_occt=title&as_sauthors=mohamed&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005958404&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001504639500002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.109284" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

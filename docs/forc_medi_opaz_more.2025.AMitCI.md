@@ -14,14 +14,15 @@ tags:
 ---
 
 #Additive Manufacturing in the Construction Industry ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105888" target="_blank">10.1016/j.autcon.2024.105888</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105888" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105888" target="_blank">10.1016/j.autcon.2024.105888</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3036-4329" title="ORCID: 0000-0002-3036-4329" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forcael_eric"><b>Forcael</b>&nbsp;Eric</a></span>, <a href="../../../author/medina_moises"><b>Medina</b>&nbsp;Moisés</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9059-8242" title="ORCID: 0000-0001-9059-8242" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b>&nbsp;Alexander</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4058-9350" title="ORCID: 0000-0003-4058-9350" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moreno_francisco"><b>Moreno</b>&nbsp;Francisco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5853-0448" title="ORCID: 0000-0002-5853-0448" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pincheira_gonzalo"><b>Pincheira</b>&nbsp;Gonzalo</a></span><br>
 Journal Article - Automation in Construction, Vol. 169, No. 105888
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+in+the+construction+industry&as_occt=title&as_sauthors=forcael&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210061258&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001370868200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105888" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -102,8 +103,9 @@ Journal Article - Automation in Construction, Vol. 169, No. 105888
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ bug "2 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a></li>
       <li><a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b> Patricio</a>, <a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../band_geor_carr_sori.2025.DfACTDP/">Deployment for Additive Construction Through Digital Platforms:<br/>Gananoque Project as a Case Study</a></li>
       <li><a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b> Martina</a>, <a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b> Diego-José</a>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b> Celestino</a>, <a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b> María</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../alva_guer_gonz_pren.2025.MwMTA/">Mortars with Mining Tailings Aggregates:<br/>Implications for Additive Manufacturing</a></li>
     </ol>

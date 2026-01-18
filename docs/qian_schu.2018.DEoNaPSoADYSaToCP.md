@@ -20,14 +20,15 @@ tags:
 ---
 
 #Different Effects of NSF and PCE Superplasticizer on Adsorption, Dynamic Yield-Stress and Thixotropy of Cement-Pastes ([2018-04](date/2018/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/5/695/pdf?version=1525350229) <a href="https://doi.org/10.3390/ma11050695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11050695" target="_blank">10.3390/ma11050695</a>
+<a href="https://www.mdpi.com/1996-1944/11/5/695/pdf?version=1525350229" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma11050695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11050695" target="_blank">10.3390/ma11050695</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
 Journal Article - Materials, Vol. 11, Iss. 5
 
 <a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Different%20Effects%20of%20NSF%20and%20PCE%20Superplasticizer%20on%20Adsorption%2C%20Dynamic%20Yield-Stress%20and%20Thixotropy%20of%20Cement-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=different+effects+of+nsf+and+pce+superplasticizer+on+adsorption%2C+dynamic+yield-stress+and+thixotropy+of+cement-pastes&as_occt=title&as_sauthors=qian&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046286697&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000434711700045" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma11050695" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

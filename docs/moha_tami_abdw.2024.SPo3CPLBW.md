@@ -17,14 +17,15 @@ tags:
 ---
 
 #Structural Performance of 3D Concrete Printed Load-Bearing Walls ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s40964-024-00914-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00914-4" target="_blank">10.1007/s40964-024-00914-4</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s40964-024-00914-4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s40964-024-00914-4" target="_blank">10.1007/s40964-024-00914-4</a>
 
 <a href="../../../author/mohammed_a_arafat"><b>Mohammed</b>&nbsp;Arafat</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7975-132X" title="ORCID: 0000-0002-7975-132X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tamimi_k_adil"><b>al&nbsp;Tamimi</b>&nbsp;Adil</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2178-4217" title="ORCID: 0000-0002-2178-4217" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdwais_h_ahmed"><b>al&nbsp;Abdwais</b>&nbsp;Ahmed</a></span><br>
 Journal Article - Progress in Additive Manufacturing
 
 <a href="../../keyword/bearing"><button class="btn">#bearing</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/load"><button class="btn">#load</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%203D%20Concrete%20Printed%20Load-Bearing%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+performance+of+3d+concrete+printed+load-bearing+walls&as_occt=title&as_sauthors=mohammed&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212037823&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001377563100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s40964-024-00914-4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

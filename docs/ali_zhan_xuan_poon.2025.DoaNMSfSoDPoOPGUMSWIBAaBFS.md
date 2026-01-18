@@ -23,14 +23,15 @@ tags:
 ---
 
 #Development of a Novel Mixing Strategy for Set-on-Demand Printing of One-Part Geopolymer Using Municipal Solid Waste Incineration Bottom Ash and Blast Furnace Slag ([2025-04](date/2025/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.112632" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112632" target="_blank">10.1016/j.jobe.2025.112632</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112632" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112632" target="_blank">10.1016/j.jobe.2025.112632</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3810-7538" title="ORCID: 0000-0002-3810-7538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali-shah_farasat_syed"><b>Ali Shah</b>&nbsp;Syed</a></span>, <a href="../../../author/zhang_shipeng"><b>Zhang</b>&nbsp;Shipeng</a></span>, <a href="../../../author/xuan_dongxing"><b>Xuan</b>&nbsp;Dongxing</a></span>, <a href="../../../author/poon_sun_chi"><b>Poon</b>&nbsp;Chi</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112632
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Novel%20Mixing%20Strategy%20for%20Set-on-Demand%20Printing%20of%20One-Part%20Geopolymer%20Using%20Municipal%20Solid%20Waste%20Incineration%20Bottom%20Ash%20and%20Blast%20Furnace%20Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+novel+mixing+strategy+for+set-on-demand+printing+of+one-part+geopolymer+using+municipal+solid+waste+incineration+bottom+ash+and+blast+furnace+slag&as_occt=title&as_sauthors=ali+shah&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002564584&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001473791700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112632" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,7 +9,62 @@ search:
 
 #  Xu Jie 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5851-4379" target="_blank">0000-0001-5851-4379</a>
+
+    First Contribution
+    : 2017-01-24
+    
+    Last Contribution
+    : 2026-01-15
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 500
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (14)</li>
+        <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> (11)</li>
+        <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> (11)</li>
+        <li><a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a> (9)</li>
+        <li><a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a> (199)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (74)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (44)</li>
+        <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> (40)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (37)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (34)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (29)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (21)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (19)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (19)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_busw_cava_xu.2026.IoIFVotFMaCSo3PC/">Influence of Inter-Filament Voids on the Failure Mechanism and Compressive Strength of 3D Printed Concrete</a></li>
   <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_xu_dobr_kola.2025.FAtFPoR3PCB/">Factors Affecting the Flexural Performance of Reinforced 3D Printed Concrete Beams</a></li>
   <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a></li>
   <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/mahmood_sultan"><b>Mahmood</b> Sultan</a>, <a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../kola_busw_mahm_isa.2025.OtOoAoEB3PC/">On the Origins of Anisotropy of Extrusion-Based 3D Printed Concrete:<br/>The Roles of Filament Skin and Agglomeration</a></li>

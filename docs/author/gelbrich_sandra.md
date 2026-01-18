@@ -9,6 +9,60 @@ search:
 
 #  Gelbrich Sandra 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0009-0009-4137-0693" target="_blank">0009-0009-4137-0693</a>
+
+    First Contribution
+    : 2021-09-06
+    
+    Last Contribution
+    : 2025-06-13
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 28
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a> (16)</li>
+        <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a> (8)</li>
+        <li><a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a> (7)</li>
+        <li><a href="../../../author/rudolph_enrico"><b>Rudolph</b> Enrico</a> (5)</li>
+        <li><a href="../../../author/abstoss_marvin"><b>Abstoß</b> Marvin</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lindner_marco"><b>Lindner</b> Marco</a>, <a href="../../../author/scharf-wildenhain_ronny"><b>Scharf‐Wildenhain</b> Ronny</a>, <a href="../../../author/gliniorz_ralf"><b>Gliniorz</b> Ralf</a>, <a href="../../../author/vanselow_konrad"><b>Vanselow</b> Konrad</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../lind_scha_glin_vans.2021.CMfCSoMwRCE/">Calibration Method for Constant Strands of Material with Robotassisted Concrete Extrusion</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/krause_martin"><b>Krause</b> Martin</a> (3)</li>
+        <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (3)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (1)</li>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (1)</li>
+        <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
+        <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/senf_ferdinand"><b>Senf</b> Ferdinand</a>, <a href="../../../author/javed_rezan"><b>Javed</b> Rezan</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../senf_jave_funk_gelb.2025.EESo3PCMBoCSCaBFCCIB/">Enhanced Environmental Sustainability of 3D-Printed Concrete Mixtures Based on Calcium Sulfoaluminate (CSA) and Blast Furnace Cement (CEM III/B)</a></li>
   <li><a href="../../../author/abstoss_marvin"><b>Abstoß</b> Marvin</a>, <a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a>, <a href="../../../author/gelbrich_sandra"><b>Gelbrich</b> Sandra</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../abst_funk_gelb.2025.SPoCPCEWDDUCEaP/">Sustainable Production of Complex Precast Concrete Elements Without Demolding Drafts Using Concrete Extrusion and Processing</a></li>

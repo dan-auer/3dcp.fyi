@@ -18,14 +18,15 @@ tags:
 
 #Application of Self-Cleaning Products on 3D-Printed Building Elements&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">An Experimental Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_38" target="_blank">10.1007/978-981-95-1822-7_38</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_38" target="_blank">10.1007/978-981-95-1822-7_38</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8998-7205" title="ORCID: 0000-0002-8998-7205" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jesus_manuel"><b>Jesus</b>&nbsp;Manuel</a></span>, <a href="../../../author/lopes_joana"><b>Lopes</b>&nbsp;Joana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3359-5157" title="ORCID: 0000-0002-3359-5157" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teixeira_joao"><b>Teixeira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <a href="../../../author/luna_manuel"><b>Luna</b>&nbsp;Manuel</a></span>, <a href="../../../author/silva_g_claudia"><b>Silva</b>&nbsp;Cláudia</a></span>, <a href="../../../author/faria_l_joaquim"><b>Faria</b>&nbsp;Joaquim</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 365-374
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cleaning"><button class="btn">#cleaning</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Self-Cleaning%20Products%20on%203D-Printed%20Building%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+self-cleaning+products+on+3d-printed+building+elements&as_occt=title&as_sauthors=jesus&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_38" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

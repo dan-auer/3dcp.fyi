@@ -22,14 +22,15 @@ tags:
 
 #Design and Characterisation of a Two-Component Mortar-System for Shotcrete 3D Printing&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">An Approach to the Targeted Control of Material-Properties</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70031-6_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_26" target="_blank">10.1007/978-3-031-70031-6_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70031-6_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70031-6_26" target="_blank">10.1007/978-3-031-70031-6_26</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5377-7735" title="ORCID: 0000-0001-5377-7735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b>&nbsp;Jennifer</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8626-918X" title="ORCID: 0000-0001-8626-918X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lowke_dirk"><b>Lowke</b>&nbsp;Dirk</a></span><br>
 Contribution - Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication, pp. 217-224
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Characterisation%20of%20a%20Two-Component%20Mortar-System%20for%20Shotcrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+characterisation+of+a+two-component+mortar-system+for+shotcrete+3d+printing&as_occt=title&as_sauthors=rudolph&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85203091560&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333034600026" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70031-6_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

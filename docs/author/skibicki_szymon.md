@@ -9,6 +9,60 @@ search:
 
 #  Skibicki Szymon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2918-7759" target="_blank">0000-0002-2918-7759</a>
+
+    First Contribution
+    : 2019-02-24
+    
+    Last Contribution
+    : 2025-12-08
+
+    Number Contributions
+    : 22
+
+    Number Citations
+    : 272
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (13)</li>
+        <li><a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> (13)</li>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (11)</li>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (10)</li>
+        <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (8)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kaszynska_maria"><b>Kaszyńska</b> Maria</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../kasz_skib_hoff.2020.3CPfSC/">3D Concrete Printing for Sustainable Construction</a> (43)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (60)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (49)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (44)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (41)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (14)</li>
+        <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a> (11)</li>
+        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (9)</li>
+        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (9)</li>
+        <li><a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a> (8)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nerm_skib_tech_fede.2025.ERaETPo3PCCNRSA/">Electrical Resistivity and Elevated Temperature Performance of 3D Printed Concrete Containing Nanosized Radiation Shielding Admixtures</a></li>
   <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a>, <a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a>, <a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../siko_fede_skib_tech.2025.Do3PCCFRCAaRCP/">Demonstration of 3D-Printed Concrete Containing Fine Recycled Concrete Aggregates and Recycled Concrete Powder:<br/>Rheology, Early-Age, Shrinkage, Mechanical, and Durability Performance.</a></li>

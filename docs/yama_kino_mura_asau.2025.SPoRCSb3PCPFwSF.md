@@ -19,14 +19,15 @@ tags:
 ---
 
 #Seismic Performance of RC Column Surrounded by 3D Printed Concrete Permanent Formwork with Short Fiber ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/tokyo.2025.2770" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/tokyo.2025.2770" target="_blank">10.2749/tokyo.2025.2770</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/tokyo.2025.2770" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/tokyo.2025.2770" target="_blank">10.2749/tokyo.2025.2770</a>
 
 <a href="../../../author/yamamoto_yujin"><b>Yamamoto</b>&nbsp;Yujin</a></span>, <a href="../../../author/kinomura_koji"><b>Kinomura</b>&nbsp;Koji</a></span>, <a href="../../../author/murata_satoshi"><b>Murata</b>&nbsp;Satoshi</a></span>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b>&nbsp;Hisafumi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5993-5703" title="ORCID: 0000-0002-5993-5703" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shiotani_tomoki"><b>Shiotani</b>&nbsp;Tomoki</a></span><br>
 Contribution - Proceedings of the 2025 IABSE Symposium, pp. 2770-2778
 
 <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permanent"><button class="btn">#permanent</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Seismic%20Performance%20of%20RC%20Column%20Surrounded%20by%203D%20Printed%20Concrete%20Permanent%20Formwork%20with%20Short%20Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=seismic+performance+of+rc+column+surrounded+by+3d+printed+concrete+permanent+formwork+with+short+fiber&as_occt=title&as_sauthors=yamamoto&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008751933&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/tokyo.2025.2770" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

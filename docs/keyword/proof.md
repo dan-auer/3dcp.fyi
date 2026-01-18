@@ -8,6 +8,10 @@ search:
 
 # #proof
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concept"><button class="btn">#concept (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (2)</button></a> <a href="../../keyword/physics"><button class="btn">#physics (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deng_wang_li_wang.2026.APSBTDRSf3PC/">A Perforated Strip-Based Three-Dimensional Reinforcement Strategy for 3D Printed Concrete:<br/>Flexural Testing of Beams as a Proof of Concept</a></li>
   <li><a href="../../../author/dounas_theodoros"><b>Dounas</b> Theodoros</a>, <a href="../../../author/berdos_yorgos"><b>Berdos</b> Yorgos</a>, <a href="../../../author/vele_jiri"><b>Vele</b> Jiří</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../doun_berd_vele.2024.TaDPIfAMiA/">Towards a Decentralized Physical Infrastructure for Additive Manufacturing in Architecture:<br/>A Proof of Concept for a Tamper Proof, Secure Connection Between Designs, Blockchains and 3D Printers</a></li>

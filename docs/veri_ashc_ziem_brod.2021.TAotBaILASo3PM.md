@@ -18,14 +18,15 @@ tags:
 ---
 
 #The Assessment of the Buildability and Inter-Layer Adhesion Strength of 3D Printed Mortar ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1520/stp163620200085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200085" target="_blank">10.1520/stp163620200085</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1520/stp163620200085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1520/stp163620200085" target="_blank">10.1520/stp163620200085</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1318-7439" title="ORCID: 0000-0002-1318-7439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/verian_p_kho"><b>Verian</b>&nbsp;Kho</a></span>, <a href="../../../author/ashcroft_jarron"><b>Ashcroft</b>&nbsp;Jarron</a></span>, <a href="../../../author/ziemlaski_jim"><b>Ziemlaski</b>&nbsp;Jim</a></span>, <a href="../../../author/brodesser_tim"><b>Brodesser</b>&nbsp;Tim</a></span>, <a href="../../../author/ladouceur_jonathan"><b>Ladouceur</b>&nbsp;Jonathan</a></span>, <a href="../../../author/carli_d_matthew"><b>Carli</b>&nbsp;Matthew</a></span>, <a href="../../../author/bright_p_randall"><b>Bright</b>&nbsp;Randall</a></span>, <a href="../../../author/maandi_eerik"><b>Maandi</b>&nbsp;Eerik</a></span><br>
 Contribution - Standards Development for Cement and Concrete for Use in Additive Construction, pp. 99-116
 
 <a href="../../keyword/adhesion"><button class="btn">#adhesion</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Assessment%20of%20the%20Buildability%20and%20Inter-Layer%20Adhesion%20Strength%20of%203D%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+assessment+of+the+buildability+and+inter-layer+adhesion+strength+of+3d+printed+mortar&as_occt=title&as_sauthors=verian&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164193861&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1520/stp163620200085" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

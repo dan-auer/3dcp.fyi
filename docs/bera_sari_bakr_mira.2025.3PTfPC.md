@@ -17,14 +17,15 @@ tags:
 
 #3D Printing Technology for Precast Concrete&nbsp;([2025-04](date/2025/04))
 <div class="h1-like">A Business Process Perspective from Indonesian Construction Sector</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-4051-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4051-5_1" target="_blank">10.1007/978-981-96-4051-5_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-4051-5_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-4051-5_1" target="_blank">10.1007/978-981-96-4051-5_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/berawi_ali_mohammed"><b>Berawi</b>&nbsp;Mohammed</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3941-051X" title="ORCID: 0000-0003-3941-051X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sari_mustika"><b>Sari</b>&nbsp;Mustika</a></span>, <a href="../../../author/bakri_fatimah_helty"><b>Bakri</b>&nbsp;Helty</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2197-1378" title="ORCID: 0000-0003-2197-1378" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miraj_perdana"><b>Miraj</b>&nbsp;Perdana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3328-608X" title="ORCID: 0000-0002-3328-608X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/saroji_gunawan"><b>Saroji</b>&nbsp;Gunawan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4956-9762" title="ORCID: 0000-0002-4956-9762" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/susilowati_indah_suci"><b>Susilowati</b>&nbsp;Suci</a></span><br>
 Contribution - Proceedings of the International Conference on Smart and Sustainable Built Environment, pp. 1-12
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/precast"><button class="btn">#precast</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technology%20for%20Precast%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+technology+for+precast+concrete&as_occt=title&as_sauthors=berawi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003625286&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-4051-5_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

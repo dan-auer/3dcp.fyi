@@ -19,14 +19,15 @@ tags:
 ---
 
 #Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2024.107460) <a href="https://doi.org/10.1016/j.cemconres.2024.107460" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107460" target="_blank">10.1016/j.cemconres.2024.107460</a>
+<a href="https://doi.org/10.1016/j.cemconres.2024.107460" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2024.107460" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2024.107460" target="_blank">10.1016/j.cemconres.2024.107460</a>
 
 <a href="../../../author/wu_yun-chen"><b>Wu</b>&nbsp;Yun-Chen</a></span>, <a href="../../../author/wang_xinbo"><b>Wang</b>&nbsp;Xinbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9578-7672" title="ORCID: 0000-0002-9578-7672" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_mo"><b>Li</b>&nbsp;Mo</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 179, No. 107460
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Role%20of%20Thixotropy%20in%20Inter-Layer%20Microstructure%20and%20Properties%20of%20Additively%20Manufactured%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=role+of+thixotropy+in+inter-layer+microstructure+and+properties+of+additively+manufactured+cementitious+materials&as_occt=title&as_sauthors=wu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186349426&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001209274300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2024.107460" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

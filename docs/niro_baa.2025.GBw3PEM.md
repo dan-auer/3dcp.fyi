@@ -19,14 +19,15 @@ tags:
 
 #Green Building with 3D Printed Earth Materials&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Current Issues and Future Prospects of 3D Printed Green Houses for the Construction Sector</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-90963-4_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90963-4_10" target="_blank">10.1007/978-3-031-90963-4_10</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-90963-4_10" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90963-4_10" target="_blank">10.1007/978-3-031-90963-4_10</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7765-9581" title="ORCID: 0000-0001-7765-9581" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/niroumand_hamed"><b>Niroumand</b>&nbsp;Hamed</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3240-8313" title="ORCID: 0000-0002-3240-8313" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/balachowski_lech"><b>Bałachowski</b>&nbsp;Lech</a></span><br>
 Contribution - Green Infrastructure and Construction for Sustainable Future, pp. 107-113
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Green%20Building%20with%203D%20Printed%20Earth%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=green+building+with+3d+printed+earth+materials&as_occt=title&as_sauthors=niroumand&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005932119&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-90963-4_10" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

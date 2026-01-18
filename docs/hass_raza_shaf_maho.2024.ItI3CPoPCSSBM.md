@@ -19,14 +19,15 @@ tags:
 ---
 
 #Innovations to Improve 3D Concrete Printing of Portland Cement-Steel-Slag Blended Mortars ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.prostr.2024.09.165) <a href="https://doi.org/10.1016/j.prostr.2024.09.165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.09.165" target="_blank">10.1016/j.prostr.2024.09.165</a>
+<a href="https://doi.org/10.1016/j.prostr.2024.09.165" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.prostr.2024.09.165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.prostr.2024.09.165" target="_blank">10.1016/j.prostr.2024.09.165</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2162-0682" title="ORCID: 0000-0003-2162-0682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hassan_zohaib"><b>Hassan</b>&nbsp;Zohaib</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6960-0475" title="ORCID: 0000-0001-6960-0475" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raza_saim"><b>Raza</b>&nbsp;Saim</a></span>, <a href="../../../author/shafei_behrouz"><b>Shafei</b>&nbsp;Behrouz</a></span>, <a href="../../../author/mahoutian_mehrdad"><b>Mahoutian</b>&nbsp;Mehrdad</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8012-4315" title="ORCID: 0000-0002-8012-4315" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shahverdi_moslem"><b>Shahverdi</b>&nbsp;Moslem</a></span><br>
 Journal Article - Procedia Structural Integrity, Vol. 64, pp. 1184-1191
 
 <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Innovations%20to%20Improve%203D%20Concrete%20Printing%20of%20Portland%20Cement-Steel-Slag%20Blended%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=innovations+to+improve+3d+concrete+printing+of+portland+cement-steel-slag+blended+mortars&as_occt=title&as_sauthors=hassan&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85217641992&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.prostr.2024.09.165" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

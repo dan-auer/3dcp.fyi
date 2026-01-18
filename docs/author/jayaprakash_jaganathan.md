@@ -9,6 +9,59 @@ search:
 
 #  Jayaprakash Jaganathan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9935-0996" target="_blank">0000-0002-9935-0996</a>
+
+    First Contribution
+    : 2022-11-03
+    
+    Last Contribution
+    : 2025-12-10
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 40
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (8)</li>
+        <li><a href="../../../author/anwar_parvez_mohammed"><b>Anwar</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a> (1)</li>
+        <li><a href="../../../author/vigneshwari_are"><b>Vigneshwari</b> Are</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sala_jaya.2023.EoPPoIFVBaGDiC3PS/">Effect of Printing Parameters on Inter-Filament Voids, Bonding, and Geometrical Deviation in Concrete 3D Printed Structures</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (30)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (23)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (22)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (22)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (3)</li>
+        <li><a href="../../../author/teoh_koon_bak"><b>Teoh</b> Bak</a> (3)</li>
+        <li><a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> (3)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (3)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>
   <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../sala_jaya.2025.SPoTOaLSiC3PB/">Synergistic Potential of Topology Optimization and Lattice Structures in Concrete 3D Printed Beams</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Shakor Pshtiwan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-6617-261X" target="_blank">0000-0002-6617-261X</a>
+
+    First Contribution
+    : 2017-02-20
+    
+    Last Contribution
+    : 2025-09-03
+
+    Number Contributions
+    : 20
+
+    Number Citations
+    : 545
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> (10)</li>
+        <li><a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> (8)</li>
+        <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> (6)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
+        <li><a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a> (122)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (38)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (36)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (33)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (32)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (20)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (19)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (14)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (14)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_shijie"><b>Liu</b> Shijie</a>, <a href="../../../author/liu_tong"><b>Liu</b> Tong</a>, <a href="../../../author/alqurashi_muwaffaq"><b>Alqurashi</b> Muwaffaq</a>, <a href="../../../author/abdou-elabbasy_a_ahmed"><b>Abdou Elabbasy</b> Ahmed</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_liu_alqu_abdo.2025.A3PFRCfSC/">Advancing 3D-Printed Fiber-Reinforced Concrete for Sustainable Construction:<br/>A Comparative Optimization Based Study of Hybrid Machine Intelligence Models for Predicting Mechanical Strength and CO₂ Emissions</a></li>
   <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lagh_shak_pand_gasp.2024.E/">Editorial:<br/>Additive Manufacturing in Construction</a></li>

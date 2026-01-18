@@ -19,14 +19,15 @@ tags:
 
 #From Traditional Materials to Geopolymers&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">History, Performance, Sustainability and 3D Printing Applications</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/978-3-032-06978-8_44.pdf) <a href="https://doi.org/10.1007/978-3-032-06978-8_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-06978-8_44" target="_blank">10.1007/978-3-032-06978-8_44</a>
+<a href="https://link.springer.com/content/pdf/10.1007/978-3-032-06978-8_44.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-032-06978-8_44" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-032-06978-8_44" target="_blank">10.1007/978-3-032-06978-8_44</a>
 
 <a href="../../../author/valeri_manuela"><b>Valeri</b>&nbsp;Manuela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/cantagallo_christina"><b>Cantagallo</b>&nbsp;Christina</a></span><br>
 Contribution - Envisioning the Futures, pp. 812-835
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/historical"><button class="btn">#historical</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/tradition"><button class="btn">#tradition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Traditional%20Materials%20to%20Geopolymers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+traditional+materials+to+geopolymers&as_occt=title&as_sauthors=valeri&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105021818718&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-032-06978-8_44" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 
 #Recasting Concrete&nbsp;([2021-03](date/2021/03))
 <div class="h1-like">A Case Study in Concrete 3D Printing as an Architectural Pedagogy</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.acsa-arch.org/proceedings/Annual Meeting Proceedings/ACSA.AM.109/ACSA.AM.109.28.pdf) <a href="https://doi.org/10.35483/acsa.am.109.28" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.35483/acsa.am.109.28" target="_blank">10.35483/acsa.am.109.28</a>
+<a href="https://www.acsa-arch.org/proceedings/Annual Meeting Proceedings/ACSA.AM.109/ACSA.AM.109.28.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.35483/acsa.am.109.28" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.35483/acsa.am.109.28" target="_blank">10.35483/acsa.am.109.28</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9014-4814" title="ORCID: 0000-0001-9014-4814" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cohen_zach"><b>Cohen</b>&nbsp;Zach</a></span><br>
 Contribution - Proceedings of the 109th ACSA Annual Meeting, pp. 192-199
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Recasting%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=recasting+concrete&as_occt=title&as_sauthors=cohen&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.35483/acsa.am.109.28" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,7 +18,7 @@ Contribution - 21. Symposium Baustoffe und Bauwerkserhaltung
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Praxiseinblick%20in%20den%203D-Druck%20im%20Betonbau" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=praxiseinblick+in+den+3d-druck+im+betonbau&as_occt=title&as_sauthors=degen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

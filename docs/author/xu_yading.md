@@ -9,6 +9,60 @@ search:
 
 #  Xu Yading 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5825-4175" target="_blank">0000-0001-5825-4175</a>
+
+    First Contribution
+    : 2019-03-06
+    
+    Last Contribution
+    : 2025-03-18
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 356
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (13)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (10)</li>
+        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a> (4)</li>
+        <li><a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> (4)</li>
+        <li><a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/rodriguez_romero_claudia"><b>Rodríguez</b> Claudia</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../figu_rodr_ahme_bos.2019.AAtDPSHCC/">An Approach to Develop Printable Strain-Hardening Cementitious Composites</a> (172)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (34)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (31)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (28)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (27)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (26)</li>
+        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (24)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (16)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/meng_zhaozheng"><b>Meng</b> Zhaozheng</a>, <a href="../../../author/xie_jinbao"><b>Xie</b> Jinbao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhou_xu_meng_xie.2025.FS/">Filament Stitching:<br/>An Architected Printing Strategy to Mitigate Anisotropy in 3D-Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a>, <a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wan_xu_savi.2024.CVSHCUDIW/">Creating Vascular Self-Healing Concrete Using Direct Ink Writing</a></li>

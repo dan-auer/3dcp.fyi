@@ -8,6 +8,10 @@ search:
 
 # #program
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/machine"><button class="btn">#machine (2)</button></a> <a href="../../keyword/visualization"><button class="btn">#visualization (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xia_chen_chen_jia.2025.PTf3PCaACM/">Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials</a></li>
   <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/alucema-contreras_alejandra_elena"><b>Alucema Contreras</b> Elena</a>, <a href="../../../author/burkart-medina_andres_adolfo"><b>Burkart Medina</b> Adolfo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../forc_aluc_burk_garc.2024.CSoVPPf3CPoDGS/">Comparative Study of Visual Programming Procedures for 3D Concrete Printing of Different Geometric Shapes</a></li>

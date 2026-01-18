@@ -19,14 +19,15 @@ tags:
 
 #Minimal Mineral ‑ Rethinking Ceiling Systems&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">Shaping the Future of Sustainable Construction</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400079" target="_blank">10.1002/best.202400079</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202400079" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400079" target="_blank">10.1002/best.202400079</a>
 
 <a href="../../../author/aziz_saqib"><b>Aziz</b>&nbsp;Saqib</a></span>, <a href="../../../author/alexander_bradley"><b>Alexander</b>&nbsp;Bradley</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4118-3803" title="ORCID: 0000-0003-4118-3803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gengnagel_christoph"><b>Gengnagel</b>&nbsp;Christoph</a></span>, <a href="../../../author/loutfi_jamila"><b>Loutfi</b>&nbsp;Jamila</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/ceiling"><button class="btn">#ceiling</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Minimal%20Mineral%20%E2%80%91%20Rethinking%20Ceiling%20Systems" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=minimal+mineral+%E2%80%91+rethinking+ceiling+systems&as_occt=title&as_sauthors=aziz&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212772465&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001382816400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202400079" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

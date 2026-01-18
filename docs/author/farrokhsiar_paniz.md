@@ -9,6 +9,59 @@ search:
 
 #  Farrokhsiar Paniz 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-08-22
+    
+    Last Contribution
+    : 2025-01-17
+
+    Number Contributions
+    : 2
+
+    Number Citations
+    : 4
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (2)</li>
+        <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> (2)</li>
+        <li><a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> (1)</li>
+        <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../farr_gurs_duar.2024.ACRoIVBSiEB3PP/">A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes:<br/>Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (6)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (6)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (6)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (5)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> (3)</li>
+        <li><a href="../../../author/maboudi_mehdi"><b>Maboudi</b> Mehdi</a> (3)</li>
+        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (3)</li>
+        <li><a href="../../../author/barton_kira"><b>Barton</b> Kira</a> (1)</li>
+        <li><a href="../../../author/watson_christopher"><b>Watson</b> Christopher</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../farr_gurs_duar.2024.ACRoIVBSiEB3PP/">A Comprehensive Review on Integrating Vision-Based Sensing in Extrusion-Based 3D Printing Processes:<br/>Toward Geometric Monitoring of Extrusion-Based 3D Concrete Printing</a></li>

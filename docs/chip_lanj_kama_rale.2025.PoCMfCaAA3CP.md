@@ -18,14 +18,15 @@ tags:
 ---
 
 #Prediction of Construction Materials for Conventional and Alkali-Activated 3D Concrete Printing ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-90963-4_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90963-4_8" target="_blank">10.1007/978-3-031-90963-4_8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-90963-4_8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-90963-4_8" target="_blank">10.1007/978-3-031-90963-4_8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b>&nbsp;Ravijanya</a></span>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b>&nbsp;Bhagyashri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamath_muralidhar"><b>Kamath</b>&nbsp;Muralidhar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b>&nbsp;Rahul</a></span><br>
 Contribution - Green Infrastructure and Construction for Sustainable Future, pp. 87-93
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/alkali"><button class="btn">#alkali</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/conventional"><button class="btn">#conventional</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Prediction%20of%20Construction%20Materials%20for%20Conventional%20and%20Alkali-Activated%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=prediction+of+construction+materials+for+conventional+and+alkali-activated+3d+concrete+printing&as_occt=title&as_sauthors=chippagiri&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005932449&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-90963-4_8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

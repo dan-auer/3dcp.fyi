@@ -15,14 +15,15 @@ tags:
 ---
 
 #Building Site Organization with 3D Technology in Use ([2016-10](date/2016/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.proeng.2016.08.582) <a href="https://doi.org/10.1016/j.proeng.2016.08.582" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2016.08.582" target="_blank">10.1016/j.proeng.2016.08.582</a>
+<a href="https://doi.org/10.1016/j.proeng.2016.08.582" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.proeng.2016.08.582" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.proeng.2016.08.582" target="_blank">10.1016/j.proeng.2016.08.582</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4477-8821" title="ORCID: 0000-0002-4477-8821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sobotka_anna"><b>Sobotka</b>&nbsp;Anna</a></span>, <a href="../../../author/pacewicz_katarzyna"><b>Pacewicz</b>&nbsp;Katarzyna</a></span><br>
 Journal Article - Procedia Engineering, Vol. 161, pp. 407-413
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/organization"><button class="btn">#organization</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Building%20Site%20Organization%20with%203D%20Technology%20in%20Use" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=building+site+organization+with+3d+technology+in+use&as_occt=title&as_sauthors=sobotka&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84997766103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000387566500067" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.proeng.2016.08.582" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

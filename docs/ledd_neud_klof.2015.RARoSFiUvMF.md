@@ -20,7 +20,7 @@ Contribution - Proceedings of the IASS 2015 Annual Symposium
 
 <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/force"><button class="btn">#force</button></a> <a href="../../keyword/magnetism"><button class="btn">#magnetism</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robot-Aided%20Rearrangement%20of%20Steel-Fibers%20in%20UHPFRC%20via%20Magnetic%20Forces" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robot-aided+rearrangement+of+steel-fibers+in+uhpfrc+via+magnetic+forces&as_occt=title&as_sauthors=ledderose&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

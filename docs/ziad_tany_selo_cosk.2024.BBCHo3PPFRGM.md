@@ -19,14 +19,15 @@ tags:
 ---
 
 #Bacteria-Based Crack-Healing of 3D Printed PVA-Fiber-Reinforced Geopolymer Mortars ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.108934" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108934" target="_blank">10.1016/j.jobe.2024.108934</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.108934" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.108934" target="_blank">10.1016/j.jobe.2024.108934</a>
 
 <a href="../../../author/ziada_mahmoud"><b>Ziada</b>&nbsp;Mahmoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-2609" title="ORCID: 0000-0002-7585-2609" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b>&nbsp;Harun</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0200-8423" title="ORCID: 0000-0002-0200-8423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/seloglu_maksut"><b>Seloglu</b>&nbsp;Maksut</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2140-2995" title="ORCID: 0000-0002-2140-2995" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coskun_ahmet"><b>Coskun</b>&nbsp;Ahmet</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 86, No. 108934
 
 <a href="../../keyword/bacteria"><button class="btn">#bacteria</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bacteria-Based%20Crack-Healing%20of%203D%20Printed%20PVA-Fiber-Reinforced%20Geopolymer%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bacteria-based+crack-healing+of+3d+printed+pva-fiber-reinforced+geopolymer+mortars&as_occt=title&as_sauthors=ziada&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186532422&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001208688000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.108934" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

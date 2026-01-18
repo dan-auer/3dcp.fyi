@@ -9,6 +9,60 @@ search:
 
 #  Yuan Philip 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-2871-377X" target="_blank">0000-0002-2871-377X</a>
+
+    First Contribution
+    : 2020-08-06
+    
+    Last Contribution
+    : 2024-05-06
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 96
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a> (7)</li>
+        <li><a href="../../../author/zhan_qiang"><b>Zhan</b> Qiang</a> (3)</li>
+        <li><a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> (3)</li>
+        <li><a href="../../../author/zhou_xinjie"><b>Zhou</b> Xinjie</a> (3)</li>
+        <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a> (37)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (12)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (9)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (6)</li>
+        <li><a href="../../../author/teng_teng"><b>Teng</b> Teng</a> (6)</li>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (6)</li>
+        <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> (5)</li>
+        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lu_ming"><b>Lu</b> Ming</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/yuan_f_philip"><b>Yuan</b> Philip</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lu_wu_yuan.2024.OfIRJMiNH3PA/">Optimization for Industrial Robot Joint Movement in Non-Horizontal 3D Printing Application</a></li>
   <li><a href="../../../author/li_yu"><b>Li</b> Yu</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a>, <a href="../../../author/xie_xinjie"><b>Xie</b> Xinjie</a>, <a href="../../../author/zhang_liming"><b>Zhang</b> Liming</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../li_wu_xie_zhan.2024.F/">FloatArch:<br/>A Cable-Supported, Unreinforced, and Re-Assemblable 3D Printed Concrete Structure Designed Using Multi-Material Topology-Optimization</a></li>

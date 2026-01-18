@@ -17,14 +17,15 @@ tags:
 ---
 
 #FEM Modelling of Digitally Printed Concrete Structures Using 3D-Extrusion ([2019-09](date/2019/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9780429426506-77" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9780429426506-77" target="_blank">10.1201/9780429426506-77</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9780429426506-77" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9780429426506-77" target="_blank">10.1201/9780429426506-77</a>
 
 <a href="../../../author/jendele_libor"><b>Jendele</b>&nbsp;Libor</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4945-1163" title="ORCID: 0000-0003-4945-1163" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cervenka_jan"><b>Červenka</b>&nbsp;Jan</a></span>, <a href="../../../author/vaitova_michaela"><b>Vaitová</b>&nbsp;Michaela</a></span><br>
 Contribution - Proceedings of the 7th International Conference on Structural Engineering, Mechanics and Computation, pp. 431-436
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=FEM%20Modelling%20of%20Digitally%20Printed%20Concrete%20Structures%20Using%203D-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fem+modelling+of+digitally+printed+concrete+structures+using+3d-extrusion&as_occt=title&as_sauthors=jendele&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85079215838&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9780429426506-77" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

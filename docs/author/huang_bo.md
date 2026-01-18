@@ -9,6 +9,60 @@ search:
 
 #  Huang Bo 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-2888-9326" target="_blank">0000-0003-2888-9326</a>
+
+    First Contribution
+    : 2024-03-11
+    
+    Last Contribution
+    : 2025-12-30
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 16
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (7)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (6)</li>
+        <li><a href="../../../author/saafi_mohamed"><b>Saafi</b> Mohamed</a> (3)</li>
+        <li><a href="../../../author/peng_jin"><b>Peng</b> Jin</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/liu_shukui"><b>Liu</b> Shukui</a>, <a href="../../../author/ma_zhangguo"><b>Ma</b> Zhangguo</a>, <a href="../../../author/wang_di"><b>Wang</b> Di</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../sun_liu_ma_wang.2024.3PLCCSPCG/">3D Printed Lightweight Concrete Containing Surface-Pretreated Coal-Gangue</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (10)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (10)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (5)</li>
+        <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (3)</li>
+        <li><a href="../../../author/li_baidian"><b>Li</b> Baidian</a> (2)</li>
+        <li><a href="../../../author/liu_chang"><b>Liu</b> Chang</a> (2)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
   <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/huang_bo"><b>Huang</b> Bo</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../wang_sun_wang_huan.2025.EaEEoaP3PSUURAfCaDW/">Environmental and Economic Evaluation of a Prefabricated 3D-Printed Structural Units Using Recycled Aggregates from Construction and Demolition Waste:<br/>A Case Study in China</a></li>

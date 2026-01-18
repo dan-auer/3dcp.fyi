@@ -9,6 +9,60 @@ search:
 
 #  Wu Yiwen 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-07-27
+    
+    Last Contribution
+    : 2025-03-29
+
+    Number Contributions
+    : 16
+
+    Number Citations
+    : 554
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (16)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (16)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (9)</li>
+        <li><a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> (6)</li>
+        <li><a href="../../../author/wang_youqiang"><b>Wang</b> Youqiang</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a> (99)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (77)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (59)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (51)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (43)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (42)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (18)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (18)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (17)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (16)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (15)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/li_xin"><b>Li</b> Xin</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS/">Impact of External Loading on the Time-Dependent Evolution of 3D Printed Concrete with Recycled Sand in the Green State</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Wood-Based Support Material for Extrusion-Based Digital Construction ([2019-02](date/2019/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-04-2018-0109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-04-2018-0109" target="_blank">10.1108/rpj-04-2018-0109</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-04-2018-0109" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-04-2018-0109" target="_blank">10.1108/rpj-04-2018-0109</a>
 
 <a href="../../../author/kaufhold_julia"><b>Kaufhold</b>&nbsp;Julia</a></span>, <a href="../../../author/kohl_johannes"><b>Kohl</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8580-5320" title="ORCID: 0000-0002-8580-5320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b>&nbsp;Venkatesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7703-6691" title="ORCID: 0000-0001-7703-6691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schrofl_christof"><b>Schröfl</b>&nbsp;Christof</a></span>, <a href="../../../author/wenderdel_christoph"><b>Wenderdel</b>&nbsp;Christoph</a></span>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 25, Iss. 4, pp. 690-698
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Wood-Based%20Support%20Material%20for%20Extrusion-Based%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=wood-based+support+material+for+extrusion-based+digital+construction&as_occt=title&as_sauthors=kaufhold&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061720390&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000475370100004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-04-2018-0109" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

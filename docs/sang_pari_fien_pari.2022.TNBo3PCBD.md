@@ -20,14 +20,15 @@ tags:
 
 #The New Boundaries of 3D-Printed Clay-Bricks-Design&nbsp;([2022-01](date/2022/01))
 <div class="h1-like">Printability of Complex Internal Geometries</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/2/598/pdf?version=1641461904) <a href="https://doi.org/10.3390/su14020598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14020598" target="_blank">10.3390/su14020598</a>
+<a href="https://www.mdpi.com/2071-1050/14/2/598/pdf?version=1641461904" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su14020598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14020598" target="_blank">10.3390/su14020598</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6421-900X" title="ORCID: 0000-0001-6421-900X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_fabio"><b>Parisi</b>&nbsp;Fabio</a></span>, <a href="../../../author/fieni_francesco"><b>Fieni</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0629-3719" title="ORCID: 0000-0002-0629-3719" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parisi_nicola"><b>Parisi</b>&nbsp;Nicola</a></span><br>
 Journal Article - Sustainability, Vol. 14, Iss. 2, No. 598
 
 <a href="../../keyword/boundary"><button class="btn">#boundary</button></a> <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20New%20Boundaries%20of%203D-Printed%20Clay-Bricks-Design" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+new+boundaries+of+3d-printed+clay-bricks-design&as_occt=title&as_sauthors=sangiorgio&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122336197&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000749814700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su14020598" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

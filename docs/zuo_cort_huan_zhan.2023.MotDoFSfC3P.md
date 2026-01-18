@@ -16,14 +16,15 @@ tags:
 ---
 
 #Measurement of the Density of Formed Structures for Concrete 3D Printing ([2023-08](date/2023/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ctresources.info/ccc/free.html?id=9886) <a href="https://doi.org/10.4203/ccc.6.4.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4203/ccc.6.4.4" target="_blank">10.4203/ccc.6.4.4</a>
+<a href="https://www.ctresources.info/ccc/free.html?id=9886" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.4203/ccc.6.4.4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.4203/ccc.6.4.4" target="_blank">10.4203/ccc.6.4.4</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <a href="../../../author/huang_l_y"><b>Huang</b>&nbsp;Y.</a></span>, <a href="../../../author/zhang_l_l"><b>Zhang</b>&nbsp;L.</a></span>, <a href="../../../author/yuan_y"><b>Yuan</b>&nbsp;Y.</a></span><br>
 Contribution - Proceedings of the 17th International Conference on Civil, Structural and Environmental Engineering Computing, pp. 1-11
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Measurement%20of%20the%20Density%20of%20Formed%20Structures%20for%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=measurement+of+the+density+of+formed+structures+for+concrete+3d+printing&as_occt=title&as_sauthors=zuo&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.4203/ccc.6.4.4" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1680/jadcr.23.00231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jadcr.23.00231" target="_blank">10.1680/jadcr.23.00231</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jadcr.23.00231" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jadcr.23.00231" target="_blank">10.1680/jadcr.23.00231</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8573-1501" title="ORCID: 0000-0002-8573-1501" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jakob_cordula"><b>Jakob</b>&nbsp;Cordula</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5377-7735" title="ORCID: 0000-0001-5377-7735" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b>&nbsp;Jennifer</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9492-5236" title="ORCID: 0000-0002-9492-5236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_julian"><b>Wolf</b>&nbsp;Julian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7997-1007" title="ORCID: 0000-0002-7997-1007" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/neubauer_jurgen"><b>Neubauer</b>&nbsp;Jürgen</a></span><br>
 Journal Article - Advances in Cement Research, pp. 1-25
 
 <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/demand"><button class="btn">#demand</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hydration%20of%20a%20Two-Component%20CSA-OPC-Mix-Timing%20of%20Component%20Blending%20%26%20Setting-on-Demand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hydration+of+a+two-component+csa-opc-mix-timing+of+component+blending+%26+setting-on-demand&as_occt=title&as_sauthors=jakob&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195851136&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001243800500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jadcr.23.00231" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

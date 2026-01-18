@@ -17,14 +17,15 @@ tags:
 ---
 
 #Finite-Element-Analysis of Hardened Properties of 3D Printed Concrete ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32511-3_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32511-3_30" target="_blank">10.1007/978-3-031-32511-3_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-32511-3_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32511-3_30" target="_blank">10.1007/978-3-031-32511-3_30</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miri_sadat_zahra"><b>Miri</b>&nbsp;Zahra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polak_anna_maria"><b>Polak</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baaj_hassan"><b>Baaj</b>&nbsp;Hassan</a></span><br>
 Contribution - Proceedings of the fib Symposium 2023, pp. 270-280
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Finite-Element-Analysis%20of%20Hardened%20Properties%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=finite-element-analysis+of+hardened+properties+of+3d+printed+concrete&as_occt=title&as_sauthors=miri&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164247817&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-32511-3_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

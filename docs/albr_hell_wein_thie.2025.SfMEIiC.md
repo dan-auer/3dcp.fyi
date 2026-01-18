@@ -21,14 +21,15 @@ tags:
 
 #Strategies for Minimizing Environmental Impact in Construction&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">A Case Study of a Cementitious 3D Printed Lost Formwork for a Staircase</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma18040825) <a href="https://doi.org/10.3390/ma18040825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18040825" target="_blank">10.3390/ma18040825</a>
+<a href="https://doi.org/10.3390/ma18040825" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18040825" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18040825" target="_blank">10.3390/ma18040825</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-2486-5714" title="ORCID: 0009-0002-2486-5714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/albrecht_viktoria_sophie"><b>Albrecht</b>&nbsp;Sophie</a></span>, <a href="../../../author/hellerbrand_stefan"><b>Hellerbrand</b>&nbsp;Stefan</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-0762-9318" title="ORCID: 0009-0008-0762-9318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/weininger_florian"><b>Weininger</b>&nbsp;Florian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0092-468X" title="ORCID: 0000-0002-0092-468X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thiel_charlotte"><b>Thiel</b>&nbsp;Charlotte</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 4, No. 825
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/loss"><button class="btn">#loss</button></a> <a href="../../keyword/minimum"><button class="btn">#minimum</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stair"><button class="btn">#stair</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Strategies%20for%20Minimizing%20Environmental%20Impact%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=strategies+for+minimizing+environmental+impact+in+construction&as_occt=title&as_sauthors=albrecht&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219171183&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001430238100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18040825" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

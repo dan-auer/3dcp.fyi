@@ -17,14 +17,15 @@ tags:
 ---
 
 #Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing ([2025-07](date/2025/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeied.aeeng-1974" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1974" target="_blank">10.1061/jaeied.aeeng-1974</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jaeied.aeeng-1974" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1974" target="_blank">10.1061/jaeied.aeeng-1974</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2464-7258" title="ORCID: 0000-0003-2464-7258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/archbold_paul"><b>Archbold</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3330-2000" title="ORCID: 0000-0002-3330-2000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b>&nbsp;José</a></span><br>
 Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Composition%20of%20Mortars%20Based%20on%20Forest%20Biomass%20Fly%20Ash%20for%20Sustainable%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+composition+of+mortars+based+on+forest+biomass+fly+ash+for+sustainable+3d+printing&as_occt=title&as_sauthors=joshi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011278179&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jaeied.aeeng-1974" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

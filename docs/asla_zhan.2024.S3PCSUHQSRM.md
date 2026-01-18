@@ -19,14 +19,15 @@ tags:
 ---
 
 #Sustainable 3D Printed Concrete Structures Using High-Quality Secondary Raw Materials ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" target="_blank">10.1016/b978-0-443-15672-4.00014-0</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-443-15672-4.00014-0" target="_blank">10.1016/b978-0-443-15672-4.00014-0</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0614-4016" title="ORCID: 0000-0003-0614-4016" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yifan"><b>Zhang</b>&nbsp;Yifan</a></span><br>
 Contribution - Sustainable Concrete Materials and Structures, pp. 399-443
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/secondary"><button class="btn">#secondary</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Concrete%20Structures%20Using%20High-Quality%20Secondary%20Raw%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+3d+printed+concrete+structures+using+high-quality+secondary+raw+materials&as_occt=title&as_sauthors=aslani&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202900712&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-443-15672-4.00014-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

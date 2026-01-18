@@ -8,6 +8,10 @@ search:
 
 # #promotion
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> <a href="../../keyword/development"><button class="btn">#development (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/area"><button class="btn">#area (1)</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/yu_yang"><b>Yu</b> Yang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_jian_zhao_yu.2025.PDPLaLCC3P/">Porous Diatomite Promotes Lightweight and Low-Carbon Concrete 3D Printing:<br/>An Exploratory Study</a></li>
   <li><a href="../../../author/wang_qiang-chen"><b>Wang</b> Qiang-Chen</a>, <a href="../../../author/yu_si-nan"><b>Yu</b> Si-Nan</a>, <a href="../../../author/chen_zi-xiao"><b>Chen</b> Zi-Xiao</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_yu_chen_weng.2023.PACiFDA/">Promoting Additive Construction in Fast-Developing Areas:<br/>A Q-Methodology-Analysis of Stakeholder-Perspectives on Policy-Mixes</a></li>

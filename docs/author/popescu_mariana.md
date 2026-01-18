@@ -9,6 +9,60 @@ search:
 
 #  Popescu Mariana 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-5524-852X" target="_blank">0000-0001-5524-852X</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2024-09-06
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 29
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (2)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (2)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (23)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (20)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (18)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (18)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (6)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (6)</li>
+        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (5)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kariouh_anass"><b>Kariouh</b> Anass</a>, <a href="../../../author/popescu_mariana"><b>Popescu</b> Mariana</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kari_pope.2024.RFFfCCCS/">Reusable Flexible Formworks for Constructing Complex Concrete Structures</a></li>
   <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/jenny_selen_ercan"><b>Jenny</b> Ercan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lowk_anto_busw_jenn.2024.DFwCBHPL/">Digital Fabrication with Concrete Beyond Horizontal Planar Layers</a></li>

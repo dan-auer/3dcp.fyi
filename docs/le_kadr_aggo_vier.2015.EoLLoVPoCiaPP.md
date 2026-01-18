@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Lubrication-Layer on Velocity-Profile of Concrete in a Pumping Pipe ([2015-01](date/2015/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-014-0458-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-014-0458-5" target="_blank">10.1617/s11527-014-0458-5</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-014-0458-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-014-0458-5" target="_blank">10.1617/s11527-014-0458-5</a>
 
 <a href="../../../author/le_d_h"><b>Le</b>&nbsp;H.</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7383-8574" title="ORCID: 0000-0001-7383-8574" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kadri_hadj"><b>el&nbsp;Kadri</b>&nbsp;Hadj</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2757-1263" title="ORCID: 0000-0002-2757-1263" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aggoun_salima"><b>Aggoun</b>&nbsp;Salima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4295-7604" title="ORCID: 0000-0003-4295-7604" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vierendeels_jan"><b>Vierendeels</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3274-0874" title="ORCID: 0000-0003-3274-0874" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/troch_peter"><b>Troch</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span><br>
 Journal Article - Materials and Structures, Vol. 48, Iss. 12, pp. 3991-4003
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/lubrication"><button class="btn">#lubrication</button></a> <a href="../../keyword/pipe"><button class="btn">#pipe</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/velocity"><button class="btn">#velocity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Lubrication-Layer%20on%20Velocity-Profile%20of%20Concrete%20in%20a%20Pumping%20Pipe" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+lubrication-layer+on+velocity-profile+of+concrete+in+a+pumping+pipe&as_occt=title&as_sauthors=le&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84947611500&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000365443100012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-014-0458-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #transition
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/solid"><button class="btn">#solid (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC/">Computational Simulations Fresh-to-Solid Transition for Additive Manufacturing of Ultra-High-Performance Fiber Reinforced Concrete</a></li>
   <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/tian_jiefu"><b>Tian</b> Jiefu</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../yang_weng_tian_yang.2025.3PTCEDoCUB/">3D Printing Towards Cost-Effective Design of Composite UHPFRC Beams:<br/>Effects of Fiber Distribution and Orientation on Flexural Performances and Failure Mode Transition</a></li>

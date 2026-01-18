@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design and Development of a Small-Scale Cement-Based 3D Printing Robot Extrusion Nozzle ([2024-08](date/2024/08))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1051/matecconf/202440102014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202440102014" target="_blank">10.1051/matecconf/202440102014</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/202440102014" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202440102014" target="_blank">10.1051/matecconf/202440102014</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-5277-6396" title="ORCID: 0009-0003-5277-6396" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/disu_oluwatimilehin"><b>Disu</b>&nbsp;Oluwatimilehin</a></span>, <a href="../../../author/ismail_o_sikiru"><b>Ismail</b>&nbsp;Sikiru</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1037-3727" title="ORCID: 0000-0003-1037-3727" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wood_luke"><b>Wood</b>&nbsp;Luke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9554-5676" title="ORCID: 0000-0001-9554-5676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chrysanthou_andreas"><b>Chrysanthou</b>&nbsp;Andreas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9278-2035" title="ORCID: 0000-0001-9278-2035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kanellopoulos_antonios"><b>Kanellopoulos</b>&nbsp;Antonios</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 401, No. 02014
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Development%20of%20a%20Small-Scale%20Cement-Based%203D%20Printing%20Robot%20Extrusion%20Nozzle" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+development+of+a+small-scale+cement-based+3d+printing+robot+extrusion+nozzle&as_occt=title&as_sauthors=disu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/202440102014" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

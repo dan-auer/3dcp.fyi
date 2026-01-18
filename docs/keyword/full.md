@@ -8,6 +8,10 @@ search:
 
 # #full
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (7)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/design"><button class="btn">#design (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../khan_das.2025.PoFS3PCW/">Performance of Full-Scale 3D-Printed Concrete Walls:<br/>Effects of Vertical Reinforcements and Window Opening</a></li>
   <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/taleb_maria"><b>Taleb</b> Maria</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS/">Hardened Properties of 3D Printable Mortars with Full Replacement of Natural Sand by Recycled Sand</a></li>

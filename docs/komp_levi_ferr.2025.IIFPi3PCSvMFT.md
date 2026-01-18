@@ -19,14 +19,15 @@ tags:
 ---
 
 #Identifying Interlayer Fracture Properties in 3D Printed Concrete Specimens via Multidirectional Flexural Tests ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.21012/fc12.1362) <a href="https://doi.org/10.21012/fc12.1362" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1362" target="_blank">10.21012/fc12.1362</a>
+<a href="https://doi.org/10.21012/fc12.1362" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21012/fc12.1362" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21012/fc12.1362" target="_blank">10.21012/fc12.1362</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5254-8065" title="ORCID: 0000-0002-5254-8065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b>&nbsp;Sriram</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5921-7202" title="ORCID: 0000-0001-5921-7202" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/levi_marinella"><b>Levi</b>&nbsp;Marinella</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span><br>
 Contribution - Proceedings of the 12th International Conference on Fracture Mechanics for Concrete and Concrete Structures
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/specimen"><button class="btn">#specimen</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Identifying%20Interlayer%20Fracture%20Properties%20in%203D%20Printed%20Concrete%20Specimens%20via%20Multidirectional%20Flexural%20Tests" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=identifying+interlayer+fracture+properties+in+3d+printed+concrete+specimens+via+multidirectional+flexural+tests&as_occt=title&as_sauthors=kompella&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21012/fc12.1362" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

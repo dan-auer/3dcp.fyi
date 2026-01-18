@@ -26,7 +26,7 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=From%20Waste%20to%20Resource" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=from+waste+to+resource&as_occt=title&as_sauthors=calmanovici&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

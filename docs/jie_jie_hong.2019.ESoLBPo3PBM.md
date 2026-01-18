@@ -17,14 +17,15 @@ tags:
 ---
 
 #Experimental Study on Layer Bonding Property of 3D Printing Building Materials ([2019-05](date/2019/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1755-1315/267/2/022005) <a href="https://doi.org/10.1088/1755-1315/267/2/022005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/267/2/022005" target="_blank">10.1088/1755-1315/267/2/022005</a>
+<a href="https://doi.org/10.1088/1755-1315/267/2/022005" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1755-1315/267/2/022005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1755-1315/267/2/022005" target="_blank">10.1088/1755-1315/267/2/022005</a>
 
 <a href="../../../author/jie_g"><b>Jie</b>&nbsp;G.</a></span>, <a href="../../../author/jie_b"><b>Jie</b>&nbsp;B.</a></span>, <a href="../../../author/hongxue_j"><b>Hongxue</b>&nbsp;J.</a></span><br>
 Journal Article - IOP Conference Series: Earth and Environmental Science, Vol. 267, Iss. 2
 
 <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Layer%20Bonding%20Property%20of%203D%20Printing%20Building%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+layer+bonding+property+of+3d+printing+building+materials&as_occt=title&as_sauthors=jie&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85067856697&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000495369900005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1755-1315/267/2/022005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

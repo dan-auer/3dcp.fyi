@@ -19,14 +19,15 @@ tags:
 
 #3D Printable Materials Made with Industrial Byproducts&nbsp;([2022-10](date/2022/10))
 <div class="h1-like">Formulation, Fresh and Hardened Properties</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/21/14236/pdf?version=1667890512) <a href="https://doi.org/10.3390/su142114236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su142114236" target="_blank">10.3390/su142114236</a>
+<a href="https://www.mdpi.com/2071-1050/14/21/14236/pdf?version=1667890512" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su142114236" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su142114236" target="_blank">10.3390/su142114236</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3526-8782" title="ORCID: 0000-0002-3526-8782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dhaese_romain"><b>D'Haese</b>&nbsp;Romain</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7788-6132" title="ORCID: 0000-0002-7788-6132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carpentier_olivier"><b>Carpentier</b>&nbsp;Olivier</a></span>, <a href="../../../author/dubois_vincent"><b>Dubois</b>&nbsp;Vincent</a></span>, <a href="../../../author/chafei_sawsen"><b>Chafei</b>&nbsp;Sawsen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5248-5247" title="ORCID: 0000-0001-5248-5247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wirquin_eric"><b>Wirquin</b>&nbsp;Eric</a></span><br>
 Journal Article - Sustainability, Vol. 14, Iss. 21
 
 <a href="../../keyword/byproduct"><button class="btn">#byproduct</button></a> <a href="../../keyword/formulas"><button class="btn">#formulas</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Materials%20Made%20with%20Industrial%20Byproducts" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+materials+made+with+industrial+byproducts&as_occt=title&as_sauthors=d%27haese&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148378016&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000883627200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su142114236" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

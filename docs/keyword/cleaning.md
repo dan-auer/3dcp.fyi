@@ -8,6 +8,10 @@ search:
 
 # #cleaning
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/self"><button class="btn">#self (3)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (2)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (2)</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/lopes_joana"><b>Lopes</b> Joana</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jesu_lope_teix_guim.2026.AoSCPo3PBE/">Application of Self-Cleaning Products on 3D-Printed Building Elements:<br/>An Experimental Study</a></li>
   <li><a href="../../../author/maury-ramirez_anibal"><b>Maury-Ramírez</b> Aníbal</a>, <a href="../../../author/rinke_mario"><b>Rinke</b> Mario</a>, <a href="../../../author/blom_johan"><b>Blom</b> Johan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../maur_rink_blom.2024.LCESCaAPBECUTP3PaR/">Low-Carbon Embodied, Self-Cleaning, and Air-Purifying Building Envelope Components Using TiO2 Photocatalysis, 3D Printing, and Recycling</a></li>

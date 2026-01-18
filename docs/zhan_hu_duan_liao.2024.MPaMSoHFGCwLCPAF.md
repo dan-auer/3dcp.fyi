@@ -20,14 +20,15 @@ tags:
 ---
 
 #Mechanical Properties and Micro-Structure of Highly Flowable Geopolymer Composites with Low-Content Polyvinyl-Alcohol-Fiber ([2024-02](date/2024/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/2/449/pdf?version=1707219237) <a href="https://doi.org/10.3390/buildings14020449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020449" target="_blank">10.3390/buildings14020449</a>
+<a href="https://www.mdpi.com/2075-5309/14/2/449/pdf?version=1707219237" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14020449" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14020449" target="_blank">10.3390/buildings14020449</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4622-4360" title="ORCID: 0000-0003-4622-4360" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_hongmei"><b>Zhang</b>&nbsp;Hongmei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4968-9227" title="ORCID: 0000-0003-4968-9227" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_fan"><b>Hu</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5311-8542" title="ORCID: 0000-0002-5311-8542" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duan_yuanfeng"><b>Duan</b>&nbsp;Yuanfeng</a></span>, <a href="../../../author/liao_jian"><b>Liao</b>&nbsp;Jian</a></span>, <a href="../../../author/yang_jiaqi"><b>Yang</b>&nbsp;Jiaqi</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 2, No. 449
 
 <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Micro-Structure%20of%20Highly%20Flowable%20Geopolymer%20Composites%20with%20Low-Content%20Polyvinyl-Alcohol-Fiber" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+micro-structure+of+highly+flowable+geopolymer+composites+with+low-content+polyvinyl-alcohol-fiber&as_occt=title&as_sauthors=zhang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185717409&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001172218700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14020449" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

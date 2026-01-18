@@ -19,14 +19,15 @@ tags:
 ---
 
 #Branching Structure for Reinforcement Anchorage Produced with Wire and Arc Additive Manufacturing Technique ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_33" target="_blank">10.1007/978-3-031-64269-2_33</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_33" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_33" target="_blank">10.1007/978-3-031-64269-2_33</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0010-6599" title="ORCID: 0000-0002-0010-6599" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babovic_neira"><b>Babovic</b>&nbsp;Neira</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8395-2194" title="ORCID: 0000-0001-8395-2194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/laghi_vittoria"><b>Laghi</b>&nbsp;Vittoria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4891-869X" title="ORCID: 0000-0003-4891-869X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kloft_harald"><b>Kloft</b>&nbsp;Harald</a></span><br>
 Contribution - Construction 3D Printing, pp. 272-280
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/anchor"><button class="btn">#anchor</button></a> <a href="../../keyword/branch"><button class="btn">#branch</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> <a href="../../keyword/wire"><button class="btn">#wire</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Branching%20Structure%20for%20Reinforcement%20Anchorage%20Produced%20with%20Wire%20and%20Arc%20Additive%20Manufacturing%20Technique" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=branching+structure+for+reinforcement+anchorage+produced+with+wire+and+arc+additive+manufacturing+technique&as_occt=title&as_sauthors=babovic&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201282808&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800033" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_33" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

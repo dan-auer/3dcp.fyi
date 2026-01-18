@@ -22,14 +22,15 @@ tags:
 
 #Multi-Material Fabrication for Low-Carbon Construction&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">An Optimised Floor System for Affordable Housing in Mexico</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](None) <a href="https://doi.org/10.2307/jj.11374766.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.31" target="_blank">10.2307/jj.11374766.31</a>
+<a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2307/jj.11374766.31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.31" target="_blank">10.2307/jj.11374766.31</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-3902-1787" title="ORCID: 0000-0002-3902-1787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/curth_sandy_alexander"><b>Curth</b>&nbsp;Alexander</a></span>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b>&nbsp;Eduardo</a></span>, <a href="../../../author/feickert_kiley"><b>Feickert</b>&nbsp;Kiley</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7646-8505" title="ORCID: 0000-0001-7646-8505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mueller_t_caitlin"><b>Mueller</b>&nbsp;Caitlin</a></span>, <a href="../../../author/schulte_martinez_dinorah"><b>Schulte</b>&nbsp;Dinorah</a></span>, <a href="../../../author/ismail_mohamed"><b>Ismail</b>&nbsp;Mohamed</a></span><br>
 Contribution - Fabricate 2024, pp. 214-221
 
 <a href="../../keyword/affordability"><button class="btn">#affordability</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Multi-Material%20Fabrication%20for%20Low-Carbon%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=multi-material+fabrication+for+low-carbon+construction&as_occt=title&as_sauthors=curth&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/jj.11374766.31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

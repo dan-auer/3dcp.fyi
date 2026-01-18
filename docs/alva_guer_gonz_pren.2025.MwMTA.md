@@ -17,14 +17,15 @@ tags:
 
 #Mortars with Mining Tailings Aggregates&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Implications for Additive Manufacturing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/11/1912/pdf?version=1748762616) <a href="https://doi.org/10.3390/buildings15111912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15111912" target="_blank">10.3390/buildings15111912</a>
+<a href="https://www.mdpi.com/2075-5309/15/11/1912/pdf?version=1748762616" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15111912" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15111912" target="_blank">10.3390/buildings15111912</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5681-6530" title="ORCID: 0000-0002-5681-6530" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alvarez-fernandez_inmaculada_martina"><b>Álvarez-Fernández</b>&nbsp;Martina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9125-4860" title="ORCID: 0000-0002-9125-4860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guerrero-miguel_diego-jose"><b>Guerrero-Miguel</b>&nbsp;Diego-José</a></span>, <a href="../../../author/gonzalez-nicieza_celestino"><b>González-Nicieza</b>&nbsp;Celestino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9125-4863" title="ORCID: 0000-0001-9125-4863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/prendes-gero_belen_maria"><b>Prendes-Gero</b>&nbsp;María</a></span>, <a href="../../../author/penas-espinosa_carlos_juan"><b>Peñas-Espinosa</b>&nbsp;Juan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9278-3692" title="ORCID: 0000-0002-9278-3692" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fernandez-rodriguez_roman"><b>Fernández-Rodríguez</b>&nbsp;Román</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 11, No. 1912
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mortars%20with%20Mining%20Tailings%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mortars+with+mining+tailings+aggregates&as_occt=title&as_sauthors=%C3%A1lvarez-fern%C3%A1ndez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007810226&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001507469100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15111912" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

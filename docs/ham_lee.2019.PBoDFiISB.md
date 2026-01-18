@@ -17,14 +17,15 @@ tags:
 ---
 
 #Project Benefits of Digital Fabrication in Irregular-Shaped Buildings ([2019-01](date/2019/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1155/2019/3721397) <a href="https://doi.org/10.1155/2019/3721397" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2019/3721397" target="_blank">10.1155/2019/3721397</a>
+<a href="https://doi.org/10.1155/2019/3721397" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1155/2019/3721397" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/2019/3721397" target="_blank">10.1155/2019/3721397</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8559-9248" title="ORCID: 0000-0002-8559-9248" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ham_namhyuk"><b>Ham</b>&nbsp;Namhyuk</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7274-6619" title="ORCID: 0000-0001-7274-6619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_sanghyo"><b>Lee</b>&nbsp;Sanghyo</a></span><br>
 Journal Article - Advances in Civil Engineering, Vol. 2019, pp. 1-14
 
 <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/irregularity"><button class="btn">#irregularity</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Project%20Benefits%20of%20Digital%20Fabrication%20in%20Irregular-Shaped%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=project+benefits+of+digital+fabrication+in+irregular-shaped+buildings&as_occt=title&as_sauthors=ham&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85061302958&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000457971800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1155/2019/3721397" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

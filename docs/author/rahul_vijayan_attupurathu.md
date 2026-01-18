@@ -9,6 +9,60 @@ search:
 
 #  Rahul Attupurathu 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-5849-2293" target="_blank">0000-0002-5849-2293</a>
+
+    First Contribution
+    : 2018-12-21
+    
+    Last Contribution
+    : 2025-05-26
+
+    Number Contributions
+    : 30
+
+    Number Citations
+    : 1877
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (21)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (20)</li>
+        <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> (18)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (11)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a> (338)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (76)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (70)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (68)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (60)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (58)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (111)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (93)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (87)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (65)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (52)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_zhan_moha_dai.2025.WDAi3PC/">Waste-Derived Aggregates in 3D Printable Concrete:<br/>Current Insights and Future Perspectives</a></li>
   <li><a href="../../../author/sreenivas_gowri_gagan"><b>Sreenivas</b> Gagan</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sree_rizz_bhat_jain.2025.EaNAoLDia3PCE/">Experimental and Numerical Assessment of Layer Deformation in a 3D Printed Concrete Element</a></li>

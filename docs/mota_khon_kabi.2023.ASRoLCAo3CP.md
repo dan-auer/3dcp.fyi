@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Systematic Review of Life Cycle Assessments of 3D Concrete Printing ([2023-08](date/2023/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.susoc.2023.08.003) <a href="https://doi.org/10.1016/j.susoc.2023.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susoc.2023.08.003" target="_blank">10.1016/j.susoc.2023.08.003</a>
+<a href="https://doi.org/10.1016/j.susoc.2023.08.003" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.susoc.2023.08.003" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.susoc.2023.08.003" target="_blank">10.1016/j.susoc.2023.08.003</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-8795-7511" title="ORCID: 0009-0005-8795-7511" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/motalebi_arash"><b>Motalebi</b>&nbsp;Arash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9709-7587" title="ORCID: 0000-0002-9709-7587" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b>&nbsp;Mohammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9591-0629" title="ORCID: 0000-0001-9591-0629" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kabir_golam"><b>Kabir</b>&nbsp;Golam</a></span><br>
 Journal Article - Sustainable Operations and Computers
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Systematic%20Review%20of%20Life%20Cycle%20Assessments%20of%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+systematic+review+of+life+cycle+assessments+of+3d+concrete+printing&as_occt=title&as_sauthors=motalebi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183853990&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.susoc.2023.08.003" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

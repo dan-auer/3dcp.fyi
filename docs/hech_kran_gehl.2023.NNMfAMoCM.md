@@ -19,14 +19,15 @@ tags:
 
 #Near‐Nozzle Mixing for Additive Manufacturing of Cementitious Mortar&nbsp;([2023-12](date/2023/12))
 <div class="h1-like">A Homogeneity Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2830) <a href="https://doi.org/10.1002/cepa.2830" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2830" target="_blank">10.1002/cepa.2830</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/cepa.2830" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/cepa.2830" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/cepa.2830" target="_blank">10.1002/cepa.2830</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3119-850X" title="ORCID: 0000-0003-3119-850X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b>&nbsp;Christian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5650-3825" title="ORCID: 0000-0002-5650-3825" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krankel_thomas"><b>Kränkel</b>&nbsp;Thomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1214-3960" title="ORCID: 0000-0002-1214-3960" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gehlen_christoph"><b>Gehlen</b>&nbsp;Christoph</a></span><br>
 Journal Article - ce/papers, Vol. 6, Iss. 6, pp. 812-817
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/homogeneity"><button class="btn">#homogeneity</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Near%E2%80%90Nozzle%20Mixing%20for%20Additive%20Manufacturing%20of%20Cementitious%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=near%E2%80%90nozzle+mixing+for+additive+manufacturing+of+cementitious+mortar&as_occt=title&as_sauthors=hechtl&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/cepa.2830" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -20,14 +20,15 @@ tags:
 ---
 
 #Investigating the Impact of Material Rheology on Geometric Accuracy in 3D Concrete Printing Using Real-Time Monitoring ([2025-09](date/2025/09))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.58286/31704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.58286/31704" target="_blank">10.58286/31704</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.58286/31704" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.58286/31704" target="_blank">10.58286/31704</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-9069-0511" title="ORCID: 0009-0009-9069-0511" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b>&nbsp;Olubunmi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2353-8781" title="ORCID: 0000-0002-2353-8781" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schonsee_eric"><b>Schönsee</b>&nbsp;Eric</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2644-7284" title="ORCID: 0000-0003-2644-7284" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/strangfeld_christoph"><b>Strangfeld</b>&nbsp;Christoph</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1463-0308" title="ORCID: 0000-0002-1463-0308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/husken_gotz"><b>Hüsken</b>&nbsp;Götz</a></span><br>
 Journal Article - Journal of Nondestructive Testing, Vol. 30, Iss. 10
 
 <a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigating%20the%20Impact%20of%20Material%20Rheology%20on%20Geometric%20Accuracy%20in%203D%20Concrete%20Printing%20Using%20Real-Time%20Monitoring" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigating+the+impact+of+material+rheology+on+geometric+accuracy+in+3d+concrete+printing+using+real-time+monitoring&as_occt=title&as_sauthors=jeyifous&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.58286/31704" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

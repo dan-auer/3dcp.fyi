@@ -17,14 +17,15 @@ tags:
 
 #How to Dress a Column&nbsp;([2022-07](date/2022/07))
 <div class="h1-like">An Architect's Method for Designing with 3D Printed Clay</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003023555-29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-29" target="_blank">10.1201/9781003023555-29</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003023555-29" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-29" target="_blank">10.1201/9781003023555-29</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6327-7064" title="ORCID: 0000-0001-6327-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pain_suzi"><b>Pain</b>&nbsp;Suzi</a></span>, <a href="../../../author/choo_pin_ee"><b>Choo</b>&nbsp;Ee</a></span>, <a href="../../../author/bartov_nitsan"><b>Bartov</b>&nbsp;Nitsan</a></span>, <a href="../../../author/young_jack"><b>Young</b>&nbsp;Jack</a></span><br>
 Contribution - Structures and Architecture, pp. 237-244
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%20to%20Dress%20a%20Column" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+to+dress+a+column&as_occt=title&as_sauthors=pain&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001255052200029" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003023555-29" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

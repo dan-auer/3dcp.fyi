@@ -24,7 +24,7 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Towards%20Climatomorphism" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=towards+climatomorphism&as_occt=title&as_sauthors=anastassiou&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

@@ -22,14 +22,15 @@ tags:
 
 #Freeze-Thaw Durability of 3D Printed Concrete&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">A Comprehensive Review of Mechanisms, Materials, and Testing Strategies</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2673-4109/6/3/47/pdf?version=1757149676) <a href="https://doi.org/10.3390/civileng6030047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/civileng6030047" target="_blank">10.3390/civileng6030047</a>
+<a href="https://www.mdpi.com/2673-4109/6/3/47/pdf?version=1757149676" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/civileng6030047" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/civileng6030047" target="_blank">10.3390/civileng6030047</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9006-4427" title="ORCID: 0000-0001-9006-4427" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_moein"><b>Mousavi</b>&nbsp;Moein</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4285-1252" title="ORCID: 0000-0003-4285-1252" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangaraju_rao_prasad"><b>Rangaraju</b>&nbsp;Prasad</a></span><br>
 Journal Article - CivilEng, Vol. 6, Iss. 3, No. 47
 
 <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanism"><button class="btn">#mechanism</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Freeze-Thaw%20Durability%20of%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=freeze-thaw+durability+of+3d+printed+concrete&as_occt=title&as_sauthors=mousavi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105017486035&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/civileng6030047" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

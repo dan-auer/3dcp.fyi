@@ -19,14 +19,15 @@ tags:
 ---
 
 #Research on 3D Printed Section of Concrete Based on Robot Arm and Structural Design of Sprinkler Head ([2025-01](date/2025/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-82722-8_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-82722-8_38" target="_blank">10.1007/978-3-031-82722-8_38</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-82722-8_38" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-82722-8_38" target="_blank">10.1007/978-3-031-82722-8_38</a>
 
 <a href="../../../author/wu_changzhong"><b>Wu</b>&nbsp;Changzhong</a></span>, <a href="../../../author/lu_yuanyuan"><b>Lu</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/tian_jiaxin"><b>Tian</b>&nbsp;Jiaxin</a></span>, <a href="../../../author/zhu_xingyu"><b>Zhu</b>&nbsp;Xingyu</a></span>, <a href="../../../author/wang_yongzhuo"><b>Wang</b>&nbsp;Yongzhuo</a></span>, <a href="../../../author/an_haibo"><b>An</b>&nbsp;Haibo</a></span><br>
 Contribution - Research and Application of High-Performance Concrete, pp. 393-402
 
 <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/head"><button class="btn">#head</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%203D%20Printed%20Section%20of%20Concrete%20Based%20on%20Robot%20Arm%20and%20Structural%20Design%20of%20Sprinkler%20Head" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+3d+printed+section+of+concrete+based+on+robot+arm+and+structural+design+of+sprinkler+head&as_occt=title&as_sauthors=wu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219192657&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-82722-8_38" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

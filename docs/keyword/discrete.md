@@ -8,7 +8,12 @@ search:
 
 # #discrete
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (13)</button></a> <a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/element"><button class="btn">#element (9)</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation (9)</button></a> <a href="../../keyword/model"><button class="btn">#model (5)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/sun_xiao"><b>Sun</b> Xiao</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liao_sun_chen.2026.STaPOf3CPBoDFS/">Simultaneous Topology and Path Optimization for 3D Concrete Printing Based on Discrete Frame Structures</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_hoai-thu_thi"><b>Nguyen</b> Thi</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pham_nguy_huan.2025.ESoAMPo3RCwDPF/">Experimental Study on Anisotropic Mechanical Properties of 3D Reinforced Concrete with Discrete Polyethylene Fibers</a></li>
   <li><a href="../../../author/ayhan_bahar"><b>Ayhan</b> Bahar</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/lale_erol"><b>Lale</b> Erol</a>, <a href="../../../author/yu_ke"><b>Yu</b> Ke</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM/">Numerical Simulation of 3D Printed Ultra High-Performance Concrete Using the Lattice Discrete Particle Model</a></li>

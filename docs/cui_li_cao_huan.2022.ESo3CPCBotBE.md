@@ -16,14 +16,15 @@ tags:
 ---
 
 #Experimental Study of 3D Concrete Printing-Configurations Based on the Buildability Evaluation ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/12/6/2939/pdf?version=1647314489) <a href="https://doi.org/10.3390/app12062939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app12062939" target="_blank">10.3390/app12062939</a>
+<a href="https://www.mdpi.com/2076-3417/12/6/2939/pdf?version=1647314489" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app12062939" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app12062939" target="_blank">10.3390/app12062939</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2521-8500" title="ORCID: 0000-0003-2521-8500" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_hongzhi"><b>Cui</b>&nbsp;Hongzhi</a></span>, <a href="../../../author/li_yuanhong"><b>Li</b>&nbsp;Yuanhong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6179-2852" title="ORCID: 0000-0002-6179-2852" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cao_xiangpeng"><b>Cao</b>&nbsp;Xiangpeng</a></span>, <a href="../../../author/huang_mingyang"><b>Huang</b>&nbsp;Mingyang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9305-116X" title="ORCID: 0000-0002-9305-116X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_waiching"><b>Tang</b>&nbsp;Waiching</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8477-6863" title="ORCID: 0000-0002-8477-6863" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_zongjin"><b>Li</b>&nbsp;Zongjin</a></span><br>
 Journal Article - Applied Sciences, Vol. 12, Iss. 6
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%203D%20Concrete%20Printing-Configurations%20Based%20on%20the%20Buildability%20Evaluation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+of+3d+concrete+printing-configurations+based+on+the+buildability+evaluation&as_occt=title&as_sauthors=cui&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127004122&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000776026500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app12062939" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

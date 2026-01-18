@@ -14,14 +14,15 @@ tags:
 
 #3D Concrete Printing-Material&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">Preliminary Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-99666-6_100" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-99666-6_100" target="_blank">10.1007/978-3-030-99666-6_100</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-99666-6_100" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-99666-6_100" target="_blank">10.1007/978-3-030-99666-6_100</a>
 
 <a href="../../../author/tam_chi_vo"><b>Tam</b>&nbsp;Vo</a></span>, <a href="../../../author/hien_thi-thu_do"><b>Hien</b>&nbsp;Do</a></span>, <a href="../../../author/luan_gia_phan"><b>Luan</b>&nbsp;Phan</a></span>, <a href="../../../author/tran_tron_van"><b>Tran</b>&nbsp;Van</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2303-5989" title="ORCID: 0000-0003-2303-5989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_nhut-phi_long"><b>Nguyen</b>&nbsp;Long</a></span>, <a href="../../../author/huong_hoang"><b>van&nbsp;Huong</b>&nbsp;Hoang</a></span>, <a href="../../../author/uyen_minh-the_tran"><b>Uyen</b>&nbsp;Tran</a></span>, <a href="../../../author/nga_thi-hong_pham"><b>Nga</b>&nbsp;Pham</a></span><br>
 Contribution - Proceedings of the International Conference on Advanced Mechanical Engineering, Automation, and Sustainable Development, pp. 689-693
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing-Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing-material&as_occt=title&as_sauthors=tam&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85130403866&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-99666-6_100" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

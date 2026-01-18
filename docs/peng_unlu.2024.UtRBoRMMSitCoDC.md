@@ -15,14 +15,15 @@ tags:
 ---
 
 #Understanding the Rheological Behavior of Reactive Magnesia-Metakaolin System in the Context of Digital Construction ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconcomp.2024.105534) <a href="https://doi.org/10.1016/j.cemconcomp.2024.105534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105534" target="_blank">10.1016/j.cemconcomp.2024.105534</a>
+<a href="https://doi.org/10.1016/j.cemconcomp.2024.105534" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105534" target="_blank">10.1016/j.cemconcomp.2024.105534</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5207-5993" title="ORCID: 0000-0001-5207-5993" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/unluer_cise"><b>Unluer</b>&nbsp;Cise</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 149, No. 105534
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Understanding%20the%20Rheological%20Behavior%20of%20Reactive%20Magnesia-Metakaolin%20System%20in%20the%20Context%20of%20Digital%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=understanding+the+rheological+behavior+of+reactive+magnesia-metakaolin+system+in+the+context+of+digital+construction&as_occt=title&as_sauthors=peng&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189750495&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001227293000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105534" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

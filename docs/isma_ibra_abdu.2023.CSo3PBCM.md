@@ -16,14 +16,15 @@ tags:
 ---
 
 #Compressive Strength of 3D Printing Bio-Composites Mortar ([2022-01](date/2022/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1063/5.0120885" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0120885" target="_blank">10.1063/5.0120885</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1063/5.0120885" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0120885" target="_blank">10.1063/5.0120885</a>
 
 <a href="../../../author/ismail_amira-natasha_nur"><b>Ismail</b>&nbsp;Nur</a></span>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b>&nbsp;Mustaffa</a></span>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b>&nbsp;Siti</a></span><br>
 Contribution - Proceedings of the 1st International Conference on Mechanical and Manufacturing Engineering
 
 <a href="../../keyword/bio"><button class="btn">#bio</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Compressive%20Strength%20of%203D%20Printing%20Bio-Composites%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=compressive+strength+of+3d+printing+bio-composites+mortar&as_occt=title&as_sauthors=ismail&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85163098348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1063/5.0120885" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

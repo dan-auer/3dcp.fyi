@@ -18,14 +18,15 @@ tags:
 ---
 
 #Intricacies of Various Printing Parameters on Mechanical Behavior of Additively Constructed Concrete ([2024-01](date/2024/01))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-023-00853-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00853-x" target="_blank">10.1007/s43452-023-00853-x</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43452-023-00853-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00853-x" target="_blank">10.1007/s43452-023-00853-x</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9519-1038" title="ORCID: 0000-0001-9519-1038" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pal_biswajit"><b>Pal</b>&nbsp;Biswajit</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chourasia_ajay"><b>Chourasia</b>&nbsp;Ajay</a></span>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b>&nbsp;Ashish</a></span><br>
 Journal Article - Archives of Civil and Mechanical Engineering, Vol. 24, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Intricacies%20of%20Various%20Printing%20Parameters%20on%20Mechanical%20Behavior%20of%20Additively%20Constructed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=intricacies+of+various+printing+parameters+on+mechanical+behavior+of+additively+constructed+concrete&as_occt=title&as_sauthors=pal&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85182463886&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001142406800006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43452-023-00853-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

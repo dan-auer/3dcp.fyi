@@ -8,6 +8,10 @@ search:
 
 # #scan
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/air"><button class="btn">#air (2)</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics (2)</button></a> <a href="../../keyword/quality"><button class="btn">#quality (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_li_wang_wong.2025.IMoDPPotMAo3CPEbUCTSaCFDM/">Investigate Mechanisms of Different Printing Parameters on the Mechanical Anisotropy of 3D Concrete Printing Elements by Using Computed Tomography Scan and Computational Fluid Dynamics Methods</a></li>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_kim.2024.NISST/">Nozzle-Integrated Slump-Scanner-Test:<br/>Development of an Automated Shape-Stability and Instantaneous Yield-Stress-Measurement-Method for the Set-on-Demand 3D Concrete Printing</a></li>

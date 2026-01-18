@@ -25,14 +25,15 @@ tags:
 
 #Robotic Concrete Surface Finishing&nbsp;([2018-12](date/2018/12))
 <div class="h1-like">A Moldless Approach to Creating Thermally Tuned Surface Geometry for Architectural Building Components Using Profile 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41693-018-0014-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-018-0014-x" target="_blank">10.1007/s41693-018-0014-x</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-018-0014-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-018-0014-x" target="_blank">10.1007/s41693-018-0014-x</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5146-1080" title="ORCID: 0000-0002-5146-1080" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bard_joshua"><b>Bard</b>&nbsp;Joshua</a></span>, <a href="../../../author/cupkova_dana"><b>Cupkova</b>&nbsp;Dana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7843-8860" title="ORCID: 0000-0001-7843-8860" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/washburn_newell"><b>Washburn</b>&nbsp;Newell</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6680-4787" title="ORCID: 0000-0002-6680-4787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zeglin_garth"><b>Zeglin</b>&nbsp;Garth</a></span><br>
 Journal Article - Construction Robotics, Vol. 2, Iss. 1-4, pp. 53-65
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/mold"><button class="btn">#mold</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/profile"><button class="btn">#profile</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/tuning"><button class="btn">#tuning</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Concrete%20Surface%20Finishing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+concrete+surface+finishing&as_occt=title&as_sauthors=bard&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-018-0014-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

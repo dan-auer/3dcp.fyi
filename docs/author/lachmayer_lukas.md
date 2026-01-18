@@ -9,6 +9,60 @@ search:
 
 #  Lachmayer Lukas 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8070-8989" target="_blank">0000-0001-8070-8989</a>
+
+    First Contribution
+    : 2021-11-04
+    
+    Last Contribution
+    : 2025-11-01
+
+    Number Contributions
+    : 18
+
+    Number Citations
+    : 152
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (18)</li>
+        <li><a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> (7)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (6)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (5)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a>, <a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../dorf_diel_lach_reck.2022.AMUMR/">Additive Manufacturing Using Mobile Robots:<br/>Opportunities and Challenges for Building Construction</a> (31)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (53)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (51)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (37)</li>
+        <li><a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> (23)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (19)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (18)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (14)</li>
+        <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (11)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a>, <a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dorr_gant_amir_lach.2025.FDtR/">From Digital to Real:<br/>Optimised and Functionally Integrated Shotcrete 3D Printing Elements for Multi-Storey Structures</a></li>

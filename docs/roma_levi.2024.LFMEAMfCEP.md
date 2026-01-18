@@ -25,14 +25,15 @@ tags:
 
 #Large-Format Material-Extrusion Additive Manufacturing for Circular Economy Practices&nbsp;([2024-09](date/2024/09))
 <div class="h1-like">A Focus on Product-Applications with Materials from Recycled Plastics and Biomass-Waste</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su16187966) <a href="https://doi.org/10.3390/su16187966" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16187966" target="_blank">10.3390/su16187966</a>
+<a href="https://doi.org/10.3390/su16187966" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su16187966" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16187966" target="_blank">10.3390/su16187966</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8602-0974" title="ORCID: 0000-0001-8602-0974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/romani_alessia"><b>Romani</b>&nbsp;Alessia</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5921-7202" title="ORCID: 0000-0001-5921-7202" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/levi_marinella"><b>Levi</b>&nbsp;Marinella</a></span><br>
 Journal Article - Sustainability, Vol. 16, Iss. 18, No. 7966
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Format%20Material-Extrusion%20Additive%20Manufacturing%20for%20Circular%20Economy%20Practices" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-format+material-extrusion+additive+manufacturing+for+circular+economy+practices&as_occt=title&as_sauthors=romani&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205224142&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001323480800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su16187966" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

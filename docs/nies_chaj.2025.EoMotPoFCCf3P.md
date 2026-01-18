@@ -20,14 +20,15 @@ tags:
 
 #Effect of Materials on the Properties of Fresh Cementitious Composites for 3D Printing&nbsp;([2025-03](date/2025/03))
 <div class="h1-like">Short Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-9400-3_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-9400-3_24" target="_blank">10.1007/978-981-97-9400-3_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-9400-3_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-9400-3_24" target="_blank">10.1007/978-981-97-9400-3_24</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-9230-9054" title="ORCID: 0009-0007-9230-9054" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nieswiec_martyna"><b>Nieświec</b>&nbsp;Martyna</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5329-9534" title="ORCID: 0000-0001-5329-9534" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chajec_adrian"><b>Chajec</b>&nbsp;Adrian</a></span><br>
 Contribution - Proceedings of the 4th International Conference on Sustainable Development in Civil, Urban and Transportation Engineering, pp. 227-233
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Materials%20on%20the%20Properties%20of%20Fresh%20Cementitious%20Composites%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+materials+on+the+properties+of+fresh+cementitious+composites+for+3d+printing&as_occt=title&as_sauthors=nie%C5%9Bwiec&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105002143980&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-9400-3_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

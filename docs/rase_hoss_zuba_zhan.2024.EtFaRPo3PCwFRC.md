@@ -24,14 +24,15 @@ tags:
 
 #Exploring the Fresh and Rheology Properties of 3D Printed Concrete with Fiber-Reinforced Composites&nbsp;([2024-11](date/2024/11))
 <div class="h1-like">A Novel Approach Using Machine Learning Techniques</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/2053-1591/ad9890) <a href="https://doi.org/10.1088/2053-1591/ad9890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ad9890" target="_blank">10.1088/2053-1591/ad9890</a>
+<a href="https://doi.org/10.1088/2053-1591/ad9890" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/2053-1591/ad9890" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/2053-1591/ad9890" target="_blank">10.1088/2053-1591/ad9890</a>
 
 <a href="../../../author/rasel_islam_risul"><b>Rasel</b>&nbsp;Risul</a></span>, <a href="../../../author/hossain_minaz_md"><b>Hossain</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-4456-3647" title="ORCID: 0009-0000-4456-3647" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zubayer_hasib_md"><b>Zubayer</b>&nbsp;Md</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8141-1888" title="ORCID: 0000-0001-8141-1888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_chaoqun"><b>Zhang</b>&nbsp;Chaoqun</a></span><br>
 Journal Article - Materials Research Express
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%20Fresh%20and%20Rheology%20Properties%20of%203D%20Printed%20Concrete%20with%20Fiber-Reinforced%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+the+fresh+and+rheology+properties+of+3d+printed+concrete+with+fiber-reinforced+composites&as_occt=title&as_sauthors=rasel&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212088746&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001374007200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/2053-1591/ad9890" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 
 #Deployment for Additive Construction Through Digital Platforms&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">Gananoque Project as a Case Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/169_Deployment_for_Additive_Construction_through_Digital_Platforms__Gananoque_Project_as_a_Case_Study.pdf) <a href="https://doi.org/10.22260/isarc2025/0169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0169" target="_blank">10.22260/isarc2025/0169</a>
+<a href="https://www.iaarc.org/./publications/fulltext/169_Deployment_for_Additive_Construction_through_Digital_Platforms__Gananoque_Project_as_a_Case_Study.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0169" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0169" target="_blank">10.22260/isarc2025/0169</a>
 
 <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b>&nbsp;Pablo</a></span>, <a href="../../../author/georgiou_ioulios"><b>Georgiou</b>&nbsp;Ioulios</a></span>, <a href="../../../author/carrasco-perez_emanuel_patricio"><b>Carrasco Pérez</b>&nbsp;Patricio</a></span>, <a href="../../../author/soria_romanella"><b>Soria</b>&nbsp;Romanella</a></span>, <a href="../../../author/elbadri_zayed"><b>Elbadri</b>&nbsp;Zayed</a></span>, <a href="../../../author/cantor_daniel"><b>Cantor</b>&nbsp;Daniel</a></span>, <a href="../../../author/nguyen_nhung"><b>Nguyen</b>&nbsp;Nhung</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1308-1315
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/platform"><button class="btn">#platform</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Deployment%20for%20Additive%20Construction%20Through%20Digital%20Platforms" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=deployment+for+additive+construction+through+digital+platforms&as_occt=title&as_sauthors=banda-p%C3%A9rez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016582985&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0169" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

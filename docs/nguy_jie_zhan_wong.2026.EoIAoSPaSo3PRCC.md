@@ -20,14 +20,15 @@ tags:
 ---
 
 #Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.engstruct.2025.122057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.122057" target="_blank">10.1016/j.engstruct.2025.122057</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.122057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.122057" target="_blank">10.1016/j.engstruct.2025.122057</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8915-9701" title="ORCID: 0000-0001-8915-9701" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_vuong"><b>van&nbsp;Nguyen</b>&nbsp;Vuong</a></span>, <a href="../../../author/jie_chun_cheah"><b>Jie</b>&nbsp;Cheah</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span>, <a href="../../../author/wong_s_hong"><b>Wong</b>&nbsp;Hong</a></span><br>
 Journal Article - Engineering Structures, Vol. 351, No. 122057
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Infill%20Architecture%20on%20Structural%20Performance%20and%20Sustainability%20of%203D-Printed%20Reinforced%20Concrete%20Columns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+infill+architecture+on+structural+performance+and+sustainability+of+3d-printed+reinforced+concrete+columns&as_occt=title&as_sauthors=nguyen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.122057" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Algorithm for Aging Materials with Evolving Stiffness Based on a Multiplicative Split ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cma.2022.115080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2022.115080" target="_blank">10.1016/j.cma.2022.115080</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cma.2022.115080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cma.2022.115080" target="_blank">10.1016/j.cma.2022.115080</a>
 
 <a href="../../../author/reinold_michel_janis"><b>Reinold</b>&nbsp;Janis</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2277-1327" title="ORCID: 0000-0003-2277-1327" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/meschke_gunther"><b>Meschke</b>&nbsp;Günther</a></span><br>
 Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 397
 
 <a href="../../keyword/age"><button class="btn">#age</button></a> <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/split"><button class="btn">#split</button></a> <a href="../../keyword/stiffness"><button class="btn">#stiffness</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Algorithm%20for%20Aging%20Materials%20with%20Evolving%20Stiffness%20Based%20on%20a%20Multiplicative%20Split" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=algorithm+for+aging+materials+with+evolving+stiffness+based+on+a+multiplicative+split&as_occt=title&as_sauthors=reinold&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131405398&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000808582200002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cma.2022.115080" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

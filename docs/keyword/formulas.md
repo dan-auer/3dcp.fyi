@@ -8,6 +8,10 @@ search:
 
 # #formulas
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (16)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (7)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (7)</button></a> <a href="../../keyword/binder"><button class="btn">#binder (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/soshinskiy_olexander"><b>Soshinskiy</b> Olexander</a>, <a href="../../../author/rashkevich_nina"><b>Rashkevich</b> Nina</a>, <a href="../../../author/shakhov_stanislav"><b>Shakhov</b> Stanislav</a>, <a href="../../../author/melnychenko_andrii"><b>Melnychenko</b> Andrii</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P/">Formulating a Calculation Methodology for Assessing the Strength Characteristics of Building Structures Constructed with a Construction 3D Printer</a></li>
   <li><a href="../../../author/vico-lujano_raul"><b>Vico Lujano</b> Raúl</a>, <a href="../../../author/perez-villarejo_luis"><b>Pérez Villarejo</b> Luis</a>, <a href="../../../author/novais_miguel_rui"><b>Novais</b> Rui</a>, <a href="../../../author/hidalgo-torrano_pilar"><b>Hidalgo-Torrano</b> Pilar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../vico_pere_nova_hida.2025.OMFf3P/">Optimized Mortar Formulations for 3D Printing:<br/>A Rheological Study of Cementitious Pastes Incorporating Potassium-Rich Biomass Fly Ash Wastes</a></li>

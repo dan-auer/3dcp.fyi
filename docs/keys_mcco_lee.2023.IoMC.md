@@ -17,14 +17,15 @@ tags:
 
 #Investigation of Martian Concrete&nbsp;([2022-04](date/2022/04))
 <div class="h1-like">Pumpability and Strength for Extraterrestrial 3D Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/9780784484470.071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784484470.071" target="_blank">10.1061/9780784484470.071</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/9780784484470.071" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784484470.071" target="_blank">10.1061/9780784484470.071</a>
 
 <a href="../../../author/keys_courtney"><b>Keys</b>&nbsp;Courtney</a></span>, <a href="../../../author/mccorkhill_noah"><b>McCorkhill</b>&nbsp;Noah</a></span>, <a href="../../../author/lee_yoon-si"><b>Lee</b>&nbsp;Yoon-Si</a></span><br>
 Contribution - Earth and Space 2022, pp. 846-857
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mars"><button class="btn">#mars</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/pumpability"><button class="btn">#pumpability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Martian%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+martian+concrete&as_occt=title&as_sauthors=keys&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146618762&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/9780784484470.071" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

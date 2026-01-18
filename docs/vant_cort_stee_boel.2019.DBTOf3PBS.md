@@ -17,14 +17,15 @@ tags:
 ---
 
 #Density-Based Topology-Optimization for 3D Printable Building Structures ([2019-07](date/2019/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00158-019-02330-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00158-019-02330-7" target="_blank">10.1007/s00158-019-02330-7</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00158-019-02330-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00158-019-02330-7" target="_blank">10.1007/s00158-019-02330-7</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7265-9782" title="ORCID: 0000-0002-7265-9782" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b>&nbsp;Gieljan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9416-3593" title="ORCID: 0000-0002-9416-3593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/corte_wouter"><b>de&nbsp;Corte</b>&nbsp;Wouter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6575-5389" title="ORCID: 0000-0002-6575-5389" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/steeman_marijke"><b>Steeman</b>&nbsp;Marijke</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6221-0837" title="ORCID: 0000-0001-6221-0837" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boel_veerle"><b>Boel</b>&nbsp;Veerle</a></span><br>
 Journal Article - Structural and Multidisciplinary Optimization, Vol. 60, Iss. 6, pp. 2391-2403
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/density"><button class="btn">#density</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Density-Based%20Topology-Optimization%20for%203D%20Printable%20Building%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=density-based+topology-optimization+for+3d+printable+building+structures&as_occt=title&as_sauthors=vantyghem&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85068864552&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000501440600012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00158-019-02330-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

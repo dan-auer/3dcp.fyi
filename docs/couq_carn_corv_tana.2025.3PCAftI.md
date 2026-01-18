@@ -16,14 +16,15 @@ tags:
 
 #3D Printed Concrete - Applications for the Industry&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">Latest Feedback from France</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2749/ghent.2025.2500" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2025.2500" target="_blank">10.2749/ghent.2025.2500</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2749/ghent.2025.2500" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2749/ghent.2025.2500" target="_blank">10.2749/ghent.2025.2500</a>
 
 <a href="../../../author/couque_pierre"><b>Couque</b>&nbsp;Pierre</a></span>, <a href="../../../author/carneau_paul"><b>Carneau</b>&nbsp;Paul</a></span>, <a href="../../../author/corvez_dominique"><b>Corvez</b>&nbsp;Dominique</a></span>, <a href="../../../author/tanant_julien"><b>Tanant</b>&nbsp;Julien</a></span>, <a href="../../../author/zonco_audrey"><b>Zonco</b>&nbsp;Audrey</a></span>, <a href="../../../author/du-cray_perret_aymeric"><b>Du Cray</b>&nbsp;Aymeric</a></span>, <a href="../../../author/datry_jean-bernard"><b>Datry</b>&nbsp;Jean-Bernard</a></span>, <a href="../../../author/stavroskaja_natalia"><b>Stavroskaja</b>&nbsp;Natalia</a></span><br>
 Contribution - Proceedings of the 2025 IABSE Congress, pp. 2500-2509
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/feedback"><button class="btn">#feedback</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printed%20Concrete%20-%20Applications%20for%20the%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printed+concrete+-+applications+for+the+industry&as_occt=title&as_sauthors=couque&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2749/ghent.2025.2500" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

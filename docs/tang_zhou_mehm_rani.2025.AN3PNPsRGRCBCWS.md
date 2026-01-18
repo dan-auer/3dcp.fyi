@@ -25,14 +25,15 @@ tags:
 
 #A Novel 3D-Printed Negative Poisson's Ratio Grid-Reinforced Cement-Based Composite Wall Structure&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Design, Fabrication, and Compressive Properties</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.tws.2025.114268" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tws.2025.114268" target="_blank">10.1016/j.tws.2025.114268</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.tws.2025.114268" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.tws.2025.114268" target="_blank">10.1016/j.tws.2025.114268</a>
 
 <a href="../../../author/tang_can"><b>Tang</b>&nbsp;Can</a></span>, <a href="../../../author/zhou_yujie"><b>Zhou</b>&nbsp;Yujie</a></span>, <a href="../../../author/mehmood_awais"><b>Mehmood</b>&nbsp;Awais</a></span>, <a href="../../../author/rania_chlihi"><b>Rania</b>&nbsp;Chlihi</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6738-4991" title="ORCID: 0000-0001-6738-4991" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hao_wenfeng"><b>Hao</b>&nbsp;Wenfeng</a></span><br>
 Journal Article - Thin-Walled Structures, No. 114268
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/negative"><button class="btn">#negative</button></a> <a href="../../keyword/poisson"><button class="btn">#poisson</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Novel%203D-Printed%20Negative%20Poisson%27s%20Ratio%20Grid-Reinforced%20Cement-Based%20Composite%20Wall%20Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+novel+3d-printed+negative+poisson%27s+ratio+grid-reinforced+cement-based+composite+wall+structure&as_occt=title&as_sauthors=tang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022464320&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001630126400004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.tws.2025.114268" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

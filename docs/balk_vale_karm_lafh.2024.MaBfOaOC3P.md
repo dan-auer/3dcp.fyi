@@ -16,14 +16,15 @@ tags:
 ---
 
 #Motives and Barriers for Offsite and Onsite Construction 3D Printing ([2024-06](date/2024/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2024/0154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0154" target="_blank">10.22260/isarc2024/0154</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2024/0154" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2024/0154" target="_blank">10.22260/isarc2024/0154</a>
 
 <a href="../../../author/balkhy_wassim"><b>al&nbsp;Balkhy</b>&nbsp;Wassim</a></span>, <a href="../../../author/valera_hernandez_elias"><b>Valera</b>&nbsp;Elias</a></span>, <a href="../../../author/karmaoui_dorra"><b>Karmaoui</b>&nbsp;Dorra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1985-9176" title="ORCID: 0000-0003-1985-9176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lafhaj_zoubeir"><b>Lafhaj</b>&nbsp;Zoubeir</a></span>, <a href="../../../author/linner_thomas"><b>Linner</b>&nbsp;Thomas</a></span>, <a href="../../../author/ayadi_syrine"><b>Ayadi</b>&nbsp;Syrine</a></span>, <a href="../../../author/zerrari_reda"><b>Zerrari</b>&nbsp;Reda</a></span>, <a href="../../../author/boutabba_assia"><b>Boutabba</b>&nbsp;Assia</a></span><br>
 Contribution - Proceedings of the 41st International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/barrier"><button class="btn">#barrier</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/motivation"><button class="btn">#motivation</button></a> <a href="../../keyword/offsite"><button class="btn">#offsite</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Motives%20and%20Barriers%20for%20Offsite%20and%20Onsite%20Construction%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=motives+and+barriers+for+offsite+and+onsite+construction+3d+printing&as_occt=title&as_sauthors=balkhy&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199647431&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2024/0154" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

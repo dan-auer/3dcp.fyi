@@ -21,14 +21,15 @@ tags:
 ---
 
 #Performance-Based Analysis of 3D Printed Geopolymers Relating Durability, Microstructure, and Life Cycle Assessment ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114903" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114903" target="_blank">10.1016/j.jobe.2025.114903</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114903" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114903" target="_blank">10.1016/j.jobe.2025.114903</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2885-932X" title="ORCID: 0000-0003-2885-932X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shilar_a_fatheali"><b>Shilar</b>&nbsp;Fatheali</a></span>, <a href="../../../author/shilar_mubarakali"><b>Shilar</b>&nbsp;Mubarakali</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114903
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance-Based%20Analysis%20of%203D%20Printed%20Geopolymers%20Relating%20Durability%2C%20Microstructure%2C%20and%20Life%20Cycle%20Assessment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance-based+analysis+of+3d+printed+geopolymers+relating+durability%2C+microstructure%2C+and+life+cycle+assessment&as_occt=title&as_sauthors=shilar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114903" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

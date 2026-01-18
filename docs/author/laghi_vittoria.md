@@ -9,6 +9,60 @@ search:
 
 #  Laghi Vittoria 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8395-2194" target="_blank">0000-0001-8395-2194</a>
+
+    First Contribution
+    : 2021-11-16
+    
+    Last Contribution
+    : 2024-07-10
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 101
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (6)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (4)</li>
+        <li><a href="../../../author/babovic_neira"><b>Babovic</b> Neira</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (3)</li>
+        <li><a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/puzatova-nee-sharanova_v_anastasiia"><b>Puzatova (nee Sharanova)</b> Anastasiia</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/dmitrieva_maria"><b>Dmitrieva</b> Maria</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../puza_shak_lagh_dmit.2022.LS3PfCAbMoRAaG3P/">Large-Scale 3D Printing for Construction Application by Means of Robotic Arm and Gantry 3D Printer:<br/>A Review</a> (51)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (24)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (20)</li>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (20)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (8)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (7)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (7)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (6)</li>
+        <li><a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/babovic_neira"><b>Babovic</b> Neira</a>, <a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../babo_lagh_klof.2024.BSfRAPwWaAAMT/">Branching Structure for Reinforcement Anchorage Produced with Wire and Arc Additive Manufacturing Technique</a></li>
   <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a>, <a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/gasparini_giada"><b>Gasparini</b> Giada</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../lagh_shak_pand_gasp.2024.E/">Editorial:<br/>Additive Manufacturing in Construction</a></li>

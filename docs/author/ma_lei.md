@@ -9,6 +9,60 @@ search:
 
 #  Ma Lei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-06-30
+    
+    Last Contribution
+    : 2024-04-09
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 706
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (15)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (9)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (9)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (8)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (8)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (63)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (39)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (37)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (33)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (29)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (70)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (39)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (31)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (29)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (27)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a></li>
   <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS/">Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes</a></li>

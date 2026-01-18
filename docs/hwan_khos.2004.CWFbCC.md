@@ -15,14 +15,15 @@ tags:
 ---
 
 #Concrete Wall Fabrication by Contour Crafting ([2004-09](date/2004/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/publications/fulltext/isarc2004-S09-05.pdf) <a href="https://doi.org/10.22260/isarc2004/0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2004/0057" target="_blank">10.22260/isarc2004/0057</a>
+<a href="https://www.iaarc.org/publications/fulltext/isarc2004-S09-05.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2004/0057" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2004/0057" target="_blank">10.22260/isarc2004/0057</a>
 
 <a href="../../../author/hwang_dooil"><b>Hwang</b>&nbsp;Dooil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span><br>
 Contribution - Proceedings of the 21st International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%20Wall%20Fabrication%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete+wall+fabrication+by+contour+crafting&as_occt=title&as_sauthors=hwang&as_ylo=2002&as_yhi=2006&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2004/0057" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -22,14 +22,15 @@ tags:
 
 #3D Printing of a Cement-Based Mortar in a Complex Fluid Suspension&nbsp;([2020-07](date/2020/07))
 <div class="h1-like">Analytical Modeling and Experimental Tests</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_76" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_76" target="_blank">10.1007/978-3-030-49916-7_76</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_76" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_76" target="_blank">10.1007/978-3-030-49916-7_76</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6764-3682" title="ORCID: 0000-0001-6764-3682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benamara_abdeslam"><b>Benamara</b>&nbsp;Abdeslam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0059-5756" title="ORCID: 0000-0003-0059-5756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaci_abdelhak"><b>Kaci</b>&nbsp;Abdelhak</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 768-777
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/suspension"><button class="btn">#suspension</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20a%20Cement-Based%20Mortar%20in%20a%20Complex%20Fluid%20Suspension" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+a+cement-based+mortar+in+a+complex+fluid+suspension&as_occt=title&as_sauthors=benamara&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088237867&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_76" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Shotcrete 3DCP Projection-Angle and Speed-Optimization&nbsp;([2022-06](date/2022/06))
 <div class="h1-like">Experimental Approaches and Theoretical Modelling</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-06116-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_39" target="_blank">10.1007/978-3-031-06116-5_39</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-06116-5_39" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_39" target="_blank">10.1007/978-3-031-06116-5_39</a>
 
 <a href="../../../author/gale_benjamin"><b>Galé</b>&nbsp;Benjamin</a></span>, <a href="../../../author/ursenbacher_thierry"><b>Ursenbacher</b>&nbsp;Thierry</a></span>, <a href="../../../author/petit_agnes"><b>Petit</b>&nbsp;Agnès</a></span>, <a href="../../../author/bourquin_vincent"><b>Bourquin</b>&nbsp;Vincent</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 261-266
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/angle"><button class="btn">#angle</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/projection"><button class="btn">#projection</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Shotcrete%203DCP%20Projection-Angle%20and%20Speed-Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=shotcrete+3dcp+projection-angle+and+speed-optimization&as_occt=title&as_sauthors=gal%C3%A9&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85133178277&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-06116-5_39" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -49,8 +50,9 @@ Contribution - Proceedings of the 3rd RILEM International Conference on Concrete
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/chen_zhuo"><b>Chen</b> Zhuo</a>, <a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_chen_leus_klof.2026.S3PRCB/">Shotcrete 3D Printed Reinforced Concrete Beam:<br/>Design, Testing, and Comparison Against Conventional Cast Reinforced Concrete Solution</a></li>
       <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P/">The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing</a></li>
     </ol>
 </div>

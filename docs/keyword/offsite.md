@@ -8,6 +8,10 @@ search:
 
 # #offsite
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (2)</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b> Anies</a>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b> Leyla</a>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b> Reham</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../gnan_more_thab_rang.2026.CAoOVO3PiC/">Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction:<br/>Benefits, Challenges, and Case Studies</a></li>
   <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../raza_besk_zhon.2024.EAoOaO3CPTfLSB/">Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings:<br/>A Comparative Value-Stream-Assessment</a></li>

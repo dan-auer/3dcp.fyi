@@ -20,14 +20,15 @@ tags:
 ---
 
 #Study on the Effects of Printing Process and Reinforcement Materials on the Performance of 3D-Printed Glass Bead Insulation Mortar ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/17/13/3220/pdf?version=1720404246) <a href="https://doi.org/10.3390/ma17133220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17133220" target="_blank">10.3390/ma17133220</a>
+<a href="https://www.mdpi.com/1996-1944/17/13/3220/pdf?version=1720404246" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17133220" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17133220" target="_blank">10.3390/ma17133220</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <a href="../../../author/zhang_xuanzheng"><b>Zhang</b>&nbsp;Xuanzheng</a></span>, <a href="../../../author/liu_zhenhua"><b>Liu</b>&nbsp;Zhenhua</a></span>, <a href="../../../author/zhao_jiasheng"><b>Zhao</b>&nbsp;Jiasheng</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 13, No. 3220
 
 <a href="../../keyword/bead"><button class="btn">#bead</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20the%20Effects%20of%20Printing%20Process%20and%20Reinforcement%20Materials%20on%20the%20Performance%20of%203D-Printed%20Glass%20Bead%20Insulation%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+the+effects+of+printing+process+and+reinforcement+materials+on+the+performance+of+3d-printed+glass+bead+insulation+mortar&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85198417885&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001269842200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17133220" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

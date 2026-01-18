@@ -14,14 +14,15 @@ tags:
 ---
 
 #Mega-Scale Fabrication by Contour Crafting ([2006-05](date/2006/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1504/ijise.2006.009791" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1504/ijise.2006.009791" target="_blank">10.1504/ijise.2006.009791</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1504/ijise.2006.009791" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1504/ijise.2006.009791" target="_blank">10.1504/ijise.2006.009791</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/hwang_dooil"><b>Hwang</b>&nbsp;Dooil</a></span>, <a href="../../../author/yao_thia_ke"><b>Yao</b>&nbsp;Ke</a></span>, <a href="../../../author/yeh_zhenghao"><b>Yeh</b>&nbsp;Zhenghao</a></span><br>
 Journal Article - International Journal of Industrial and Systems Engineering, Vol. 1, Iss. 3, pp. 301-319
 
 <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mega-Scale%20Fabrication%20by%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mega-scale+fabrication+by+contour+crafting&as_occt=title&as_sauthors=khoshnevis&as_ylo=2004&as_yhi=2008&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84903440021&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1504/ijise.2006.009791" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

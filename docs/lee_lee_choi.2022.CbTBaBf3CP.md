@@ -16,14 +16,15 @@ tags:
 ---
 
 #Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.128498" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128498" target="_blank">10.1016/j.conbuildmat.2022.128498</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.128498" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.128498" target="_blank">10.1016/j.conbuildmat.2022.128498</a>
 
 <a href="../../../author/lee_keon-woo"><b>Lee</b>&nbsp;Keon-Woo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <a href="../../../author/choi_myoungsung"><b>Choi</b>&nbsp;Myoungsung</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 347
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correlation"><button class="btn">#correlation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/thixotropy"><button class="btn">#thixotropy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Correlation%20Between%20Thixotropic%20Behavior%20and%20Buildability%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=correlation+between+thixotropic+behavior+and+buildability+for+3d+concrete+printing&as_occt=title&as_sauthors=lee&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134729833&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000855101800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.128498" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

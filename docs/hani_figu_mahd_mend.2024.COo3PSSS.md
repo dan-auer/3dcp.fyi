@@ -27,7 +27,7 @@ Contribution - Proceedings of the International Association for Shell and Spatia
 
 <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rib"><button class="btn">#rib</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Continuum%20Optimization%20of%203D%20Printed%20Self-Supported%20Shell" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=continuum+optimization+of+3d+printed+self-supported+shell&as_occt=title&as_sauthors=hanifa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

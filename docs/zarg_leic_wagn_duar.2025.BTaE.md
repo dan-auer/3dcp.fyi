@@ -20,14 +20,15 @@ tags:
 
 #Beyond Trial and Error&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s44150-024-00125-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-024-00125-z" target="_blank">10.1007/s44150-024-00125-z</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44150-024-00125-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-024-00125-z" target="_blank">10.1007/s44150-024-00125-z</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7676-980X" title="ORCID: 0000-0001-7676-980X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zargar_hossein_seyed"><b>Zargar</b>&nbsp;Seyed</a></span>, <a href="../../../author/leicht_m_robert"><b>Leicht</b>&nbsp;Robert</a></span>, <a href="../../../author/wagner_r_alan"><b>Wagner</b>&nbsp;Alan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3826-3987" title="ORCID: 0000-0002-3826-3987" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/duarte_pinto_jose"><b>Duarte</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7585-652X" title="ORCID: 0000-0002-7585-652X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brown_c_nathan"><b>Brown</b>&nbsp;Nathan</a></span><br>
 Journal Article - Architecture, Structures and Construction, Vol. 5, Iss. 1
 
 <a href="../../keyword/aware"><button class="btn">#aware</button></a> <a href="../../keyword/capability"><button class="btn">#capability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/early"><button class="btn">#early</button></a> <a href="../../keyword/error"><button class="btn">#error</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/trial"><button class="btn">#trial</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Beyond%20Trial%20and%20Error" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=beyond+trial+and+error&as_occt=title&as_sauthors=zargar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018810669&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44150-024-00125-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

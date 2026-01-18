@@ -9,6 +9,60 @@ search:
 
 #  Lee Hojae 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-1424-0657" target="_blank">0000-0003-1424-0657</a>
+
+    First Contribution
+    : 2019-08-02
+    
+    Last Contribution
+    : 2024-10-18
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 208
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a> (6)</li>
+        <li><a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> (5)</li>
+        <li><a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a> (4)</li>
+        <li><a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> (3)</li>
+        <li><a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kim_jay_jang-ho"><b>Kim</b> Jang-Ho</a>, <a href="../../../author/moon_jae-heum"><b>Moon</b> Jae-Heum</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../lee_kim_moon_kim.2019.CBPCaTBSoAMMUXRCT/">Correlation Between Pore Characteristics and Tensile Bond Strength of Additive Manufactured Mortar Using X-Ray Computed Tomography</a> (67)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (19)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (18)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (16)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (13)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (13)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (8)</li>
+        <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (7)</li>
+        <li><a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a> (7)</li>
+        <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a> (7)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (7)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../seo_lee.2024.IoCAoBaDoCfAM/">Influence of Chemical Admixtures on Buildability and Deformation of Concrete for Additive Manufacturing</a></li>
   <li><a href="../../../author/seo_eun-a"><b>Seo</b> Eun-A</a>, <a href="../../../author/kim_won-woo"><b>Kim</b> Won-Woo</a>, <a href="../../../author/kim_sung-wook"><b>Kim</b> Sung-Wook</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../seo_kim_kim_kwon.2023.MPo3PCwCAaPFitAaUE/">Mechanical Properties of 3D Printed Concrete with Coarse Aggregates and Polypropylene-Fiber in the Air and Underwater Environment</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #demolition
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/waste"><button class="btn">#waste (19)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (17)</button></a> <a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/base"><button class="btn">#base (9)</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>

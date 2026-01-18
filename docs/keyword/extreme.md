@@ -8,6 +8,10 @@ search:
 
 # #extreme
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/arm"><button class="btn">#arm (1)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (1)</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/abdelaziz_mohamed"><b>Abdelaziz</b> Mohamed</a>, <a href="../../../author/vukorep_ilija"><b>Vukorep</b> Ilija</a>, <a href="../../../author/mahdy_deena"><b>Mahdy</b> Deena</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../abde_vuko_mahd.2025.EE3PCOwIAHADSoRA/">Exploring Extreme 3D Printed Clay Overhangs with Integrated Active Hot Air Drying System on Robotic Arm</a></li>
   <li><a href="../../../author/alizamir_meysam"><b>Alizamir</b> Meysam</a>, <a href="../../../author/kim_sungwon"><b>Kim</b> Sungwon</a>, <a href="../../../author/ikram_muhammad-adnan_rana"><b>Ikram</b> Rana</a>, <a href="../../../author/ahmed_othman_kaywan"><b>Ahmed</b> Kaywan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC/">A Reliable Hybrid Extreme Learning Machine-Metaheuristic Framework for Enhanced Strength Prediction of 3D-Printed Fiber-Reinforced Concrete</a></li>

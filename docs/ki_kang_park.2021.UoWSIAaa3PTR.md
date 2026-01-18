@@ -14,14 +14,15 @@ tags:
 ---
 
 #Upcycling of Wastewater Sludge Incineration Ash as a 3D Printing Technology Resource ([2021-07](date/2021/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/frsus.2021.697265/pdf) <a href="https://doi.org/10.3389/frsus.2021.697265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/frsus.2021.697265" target="_blank">10.3389/frsus.2021.697265</a>
+<a href="https://www.frontiersin.org/articles/10.3389/frsus.2021.697265/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3389/frsus.2021.697265" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/frsus.2021.697265" target="_blank">10.3389/frsus.2021.697265</a>
 
 <a href="../../../author/ki_dongwon"><b>Ki</b>&nbsp;Dongwon</a></span>, <a href="../../../author/kang_young_shin"><b>Kang</b>&nbsp;Shin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3059-3068" title="ORCID: 0000-0002-3059-3068" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/park_kwang-min"><b>Park</b>&nbsp;Kwang-Min</a></span><br>
 Journal Article - Frontiers in Sustainability, Vol. 2
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/upcycling"><button class="btn">#upcycling</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Upcycling%20of%20Wastewater%20Sludge%20Incineration%20Ash%20as%20a%203D%20Printing%20Technology%20Resource" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=upcycling+of+wastewater+sludge+incineration+ash+as+a+3d+printing+technology+resource&as_occt=title&as_sauthors=ki&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85149213459&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3389/frsus.2021.697265" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

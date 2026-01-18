@@ -16,14 +16,15 @@ tags:
 
 #Automated Shotcrete&nbsp;([2024-02](date/2024/02))
 <div class="h1-like">A More Sustainable Construction Technology</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-47215-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-47215-2_19" target="_blank">10.1007/978-3-031-47215-2_19</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-47215-2_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-47215-2_19" target="_blank">10.1007/978-3-031-47215-2_19</a>
 
 <a href="../../../author/isaac_geoff"><b>Isaac</b>&nbsp;Geoff</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8271-2102" title="ORCID: 0000-0002-8271-2102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pietroni_nico"><b>Pietroni</b>&nbsp;Nico</a></span>, <a href="../../../author/vidal-calleja_teresa"><b>Vidal Calleja</b>&nbsp;Teresa</a></span>, <a href="../../../author/xie_mike"><b>Xie</b>&nbsp;Mike</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4583-2439" title="ORCID: 0000-0002-4583-2439" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schork_tim"><b>Schork</b>&nbsp;Tim</a></span><br>
 Contribution - Sustainable Engineering, pp. 331-345
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/shotcrete"><button class="btn">#shotcrete</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Shotcrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+shotcrete&as_occt=title&as_sauthors=isaac&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185903279&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-47215-2_19" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Durability and Cracking Defects in 3D-Printed Concrete ([2025-03](date/2025/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1155/adce/8592029) <a href="https://doi.org/10.1155/adce/8592029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/adce/8592029" target="_blank">10.1155/adce/8592029</a>
+<a href="https://doi.org/10.1155/adce/8592029" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1155/adce/8592029" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1155/adce/8592029" target="_blank">10.1155/adce/8592029</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6717-1619" title="ORCID: 0000-0002-6717-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b>&nbsp;Gintautas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1312-4101" title="ORCID: 0000-0003-1312-4101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b>&nbsp;Aigerim</a></span>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b>&nbsp;Lyudmyla</a></span>, <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b>&nbsp;Kenzhebek</a></span>, <a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b>&nbsp;Daiva</a></span><br>
 Journal Article - Advances in Civil Engineering, Vol. 2025, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Durability%20and%20Cracking%20Defects%20in%203D-Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=durability+and+cracking+defects+in+3d-printed+concrete&as_occt=title&as_sauthors=skripki%C5%ABnas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105000701932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001437433800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1155/adce/8592029" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 
 #Constructing the Future&nbsp;([2024-04](date/2024/04))
 <div class="h1-like">Policy-Driven Digital Fabrication in China's Urban Development</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.rineng.2024.102096) <a href="https://doi.org/10.1016/j.rineng.2024.102096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2024.102096" target="_blank">10.1016/j.rineng.2024.102096</a>
+<a href="https://doi.org/10.1016/j.rineng.2024.102096" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.rineng.2024.102096" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.rineng.2024.102096" target="_blank">10.1016/j.rineng.2024.102096</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3482-2558" title="ORCID: 0000-0003-3482-2558" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yu_haoxuan"><b>Yu</b>&nbsp;Haoxuan</a></span>, <a href="../../../author/wen_bodong"><b>Wen</b>&nbsp;Bodong</a></span>, <a href="../../../author/zahidi_izni"><b>Zahidi</b>&nbsp;Izni</a></span>, <a href="../../../author/chow_ming"><b>Chow</b>&nbsp;Ming</a></span>, <a href="../../../author/madsen_oivind_dag"><b>Madsen</b>&nbsp;Dag</a></span><br>
 Journal Article - Results in Engineering, Vol. 22, No. 102096
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Constructing%20the%20Future" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=constructing+the+future&as_occt=title&as_sauthors=yu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85189756573&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001225889600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.rineng.2024.102096" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

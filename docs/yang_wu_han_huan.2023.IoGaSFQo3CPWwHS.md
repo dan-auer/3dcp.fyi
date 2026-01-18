@@ -20,14 +20,15 @@ tags:
 ---
 
 #Investigation on Geometric and Surface Finish Quality of 3D Concrete Printed Walls with Hollow Section ([2023-12](date/2023/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/13694332231222088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332231222088" target="_blank">10.1177/13694332231222088</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/13694332231222088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/13694332231222088" target="_blank">10.1177/13694332231222088</a>
 
 <a href="../../../author/yang_yan"><b>Yang</b>&nbsp;Yan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3930-9617" title="ORCID: 0000-0002-3930-9617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hangzi"><b>Wu</b>&nbsp;Hangzi</a></span>, <a href="../../../author/han_lifang"><b>Han</b>&nbsp;Lifang</a></span>, <a href="../../../author/huang_qingling"><b>Huang</b>&nbsp;Qingling</a></span>, <a href="../../../author/yang_shuo"><b>Yang</b>&nbsp;Shuo</a></span>, <a href="../../../author/shuo_bai"><b>Shuo</b>&nbsp;Bai</a></span>, <a href="../../../author/feng_mingyang"><b>Feng</b>&nbsp;Mingyang</a></span><br>
 Journal Article - Advances in Structural Engineering
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/finish"><button class="btn">#finish</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20Geometric%20and%20Surface%20Finish%20Quality%20of%203D%20Concrete%20Printed%20Walls%20with%20Hollow%20Section" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+on+geometric+and+surface+finish+quality+of+3d+concrete+printed+walls+with+hollow+section&as_occt=title&as_sauthors=yang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179737539&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001126804500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/13694332231222088" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

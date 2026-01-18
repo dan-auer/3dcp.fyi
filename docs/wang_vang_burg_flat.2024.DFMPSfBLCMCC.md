@@ -21,14 +21,15 @@ tags:
 ---
 
 #Digital Fabrication Material-Processing-Strategy for Bespoke Low-Clinker Mass-Concrete Components ([2024-05](date/2024/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matpr.2024.05.043) <a href="https://doi.org/10.1016/j.matpr.2024.05.043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.043" target="_blank">10.1016/j.matpr.2024.05.043</a>
+<a href="https://doi.org/10.1016/j.matpr.2024.05.043" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matpr.2024.05.043" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matpr.2024.05.043" target="_blank">10.1016/j.matpr.2024.05.043</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <a href="../../../author/vangen_kathrina"><b>Vangen</b>&nbsp;Kathrina</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6116-8091" title="ORCID: 0000-0001-6116-8091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/burger_jan_joris"><b>Burger</b>&nbsp;Joris</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Journal Article - Materials Today: Proceedings
 
 <a href="../../keyword/bespoke"><button class="btn">#bespoke</button></a> <a href="../../keyword/clinker"><button class="btn">#clinker</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Material-Processing-Strategy%20for%20Bespoke%20Low-Clinker%20Mass-Concrete%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+material-processing-strategy+for+bespoke+low-clinker+mass-concrete+components&as_occt=title&as_sauthors=wangler&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matpr.2024.05.043" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

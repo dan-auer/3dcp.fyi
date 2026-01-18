@@ -17,14 +17,15 @@ tags:
 
 #Automated Construction Using Contour Crafting&nbsp;([2002-09](date/2002/09))
 <div class="h1-like">Applications on Earth and Beyond</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2002/0076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2002/0076" target="_blank">10.22260/isarc2002/0076</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2002/0076" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2002/0076" target="_blank">10.22260/isarc2002/0076</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/bekey_george"><b>Bekey</b>&nbsp;George</a></span><br>
 Contribution - Proceedings of the 19th International Symposium on Automation and Robotics in Construction (ISARC)
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Construction%20Using%20Contour%20Crafting" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+construction+using+contour+crafting&as_occt=title&as_sauthors=khoshnevis&as_ylo=2000&as_yhi=2004&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2002/0076" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

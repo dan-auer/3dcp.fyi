@@ -9,6 +9,60 @@ search:
 
 #  Khoshnevis Behrokh 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4638-8891" target="_blank">0000-0003-4638-8891</a>
+
+    First Contribution
+    : 1998-01-01
+    
+    Last Contribution
+    : 2021-08-17
+
+    Number Contributions
+    : 32
+
+    Number Citations
+    : 2773
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a> (9)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (8)</li>
+        <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a> (5)</li>
+        <li><a href="../../../author/thangavelu_madhu"><b>Thangavelu</b> Madhu</a> (4)</li>
+        <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a> (642)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (22)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (21)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (21)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (19)</li>
+        <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (90)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (83)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (79)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (68)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (58)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../kaze_khos.2021.RTEQMTfC3P/">Real-Time Extrusion-Quality-Monitoring-Techniques for Construction 3D Printing</a></li>
   <li><a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../davt_kaze_yuan_khos.2022.AIiRAMUDLfLDD/">Automated Inspection in Robotic Additive Manufacturing Using Deep Learning for Layer Deformation Detection</a></li>

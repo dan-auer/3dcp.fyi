@@ -18,14 +18,15 @@ tags:
 ---
 
 #Dynamic Characterization of the Layer-Interface Properties of 3D Printed Concrete Elements ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2021.e00780) <a href="https://doi.org/10.1016/j.cscm.2021.e00780" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2021.e00780" target="_blank">10.1016/j.cscm.2021.e00780</a>
+<a href="https://doi.org/10.1016/j.cscm.2021.e00780" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2021.e00780" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2021.e00780" target="_blank">10.1016/j.cscm.2021.e00780</a>
 
 <a href="../../../author/napolitano_rosanna"><b>Napolitano</b>&nbsp;Rosanna</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0555-3136" title="ORCID: 0000-0002-0555-3136" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/forni_daniele"><b>Forni</b>&nbsp;Daniele</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9528-1324" title="ORCID: 0000-0001-9528-1324" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/menna_costantino"><b>Menna</b>&nbsp;Costantino</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5795-8568" title="ORCID: 0000-0001-5795-8568" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/asprone_domenico"><b>Asprone</b>&nbsp;Domenico</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1254-1619" title="ORCID: 0000-0002-1254-1619" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cadoni_ezio"><b>Cadoni</b>&nbsp;Ezio</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 15
 
 <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Dynamic%20Characterization%20of%20the%20Layer-Interface%20Properties%20of%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=dynamic+characterization+of+the+layer-interface+properties+of+3d+printed+concrete+elements&as_occt=title&as_sauthors=napolitano&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119201439&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000728544100006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2021.e00780" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

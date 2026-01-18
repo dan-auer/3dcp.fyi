@@ -8,6 +8,10 @@ search:
 
 # #reuse
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (5)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (4)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/du_shizhao"><b>Du</b> Shizhao</a>, <a href="../../../author/kang_chunxia"><b>Kang</b> Chunxia</a>, <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../du_kang_du.2025.FPo3PRCSfTP/">Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements</a></li>

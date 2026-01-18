@@ -19,14 +19,15 @@ tags:
 ---
 
 #Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.7712/120125.12824.25163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7712/120125.12824.25163" target="_blank">10.7712/120125.12824.25163</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.7712/120125.12824.25163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.7712/120125.12824.25163" target="_blank">10.7712/120125.12824.25163</a>
 
 <a href="../../../author/fatima_warsi"><b>Fatima</b>&nbsp;Warsi</a></span>, <a href="../../../author/syed_bustan"><b>Syed</b>&nbsp;Bustan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/biswas_pankaj"><b>Biswas</b>&nbsp;Pankaj</a></span><br>
 Contribution - Proceedings of the 10th International Conference on Computational Methods in Structural Dynamics and Earthquake Engineering, pp. 5443-5451
 
 <a href="../../keyword/center"><button class="btn">#center</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/seismic"><button class="btn">#seismic</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Evaluation%20of%20the%20Seismic%20Performance%20of%20Self-Centering%203D%20Printed%20Concrete%20Wall" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+evaluation+of+the+seismic+performance+of+self-centering+3d+printed+concrete+wall&as_occt=title&as_sauthors=fatima&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.7712/120125.12824.25163" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

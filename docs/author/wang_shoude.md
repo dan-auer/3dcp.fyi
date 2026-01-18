@@ -9,6 +9,60 @@ search:
 
 #  Wang Shoude 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2019-10-18
+    
+    Last Contribution
+    : 2024-09-15
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 444
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (9)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (9)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (9)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (8)</li>
+        <li><a href="../../../author/cheng_xin"><b>Cheng</b> Xin</a> (6)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (41)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (20)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (19)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (18)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (31)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (30)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (20)</li>
+        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (14)</li>
+        <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xuelin"><b>Liu</b> Xuelin</a>, <a href="../../../author/sheng_haitao"><b>Sheng</b> Haitao</a>, <a href="../../../author/feng_binqing"><b>Feng</b> Binqing</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_shen_feng_zhao.2024.EoPaSBEWotRPaSBUo3PCC/">Effect of Potassium and Sodium-Based Electrolyzed Water on the Rheological Properties and Structural Build-Up of 3D Printed Cement Composites</a></li>
   <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>

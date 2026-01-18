@@ -16,14 +16,15 @@ tags:
 ---
 
 #Crafting Plaster through Continuous Mobile Robotic Fabrication On-Site ([2020-11](date/2020/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41693-020-00043-8.pdf) <a href="https://doi.org/10.1007/s41693-020-00043-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-020-00043-8" target="_blank">10.1007/s41693-020-00043-8</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41693-020-00043-8.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41693-020-00043-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41693-020-00043-8" target="_blank">10.1007/s41693-020-00043-8</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6974-9296" title="ORCID: 0000-0001-6974-9296" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jenny_selen_ercan"><b>Jenny</b>&nbsp;Ercan</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-8135-2424" title="ORCID: 0009-0001-8135-2424" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b>&nbsp;Ena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4111-4122" title="ORCID: 0000-0002-4111-4122" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kohler_daniel_matthias"><b>Kohler</b>&nbsp;Matthias</a></span><br>
 Journal Article - Construction Robotics, Vol. 4, Iss. 3-4, pp. 261-271
 
 <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Crafting%20Plaster%20through%20Continuous%20Mobile%20Robotic%20Fabrication%20On-Site" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=crafting+plaster+through+continuous+mobile+robotic+fabrication+on-site&as_occt=title&as_sauthors=jenny&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41693-020-00043-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #capillary
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/element"><button class="btn">#element (2)</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion (2)</button></a> <a href="../../keyword/model"><button class="btn">#model (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mark_cord_mech.2023.EoCPi3PCE/">Evolution of Capillary Pressure in 3D Printed Concrete Elements:<br/>Numerical Modelling and Experimental Validation</a></li>

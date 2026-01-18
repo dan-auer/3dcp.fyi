@@ -8,6 +8,10 @@ search:
 
 # #center
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (1)</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat (1)</button></a> <a href="../../keyword/mars"><button class="btn">#mars (1)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/klein_lee"><b>Klein</b> Lee</a>, <a href="../../../author/holleyn_florian"><b>Holleyn</b> Florian</a>, <a href="../../../author/zimmer_sinje"><b>Zimmer</b> Sinje</a>, <a href="../../../author/krause_olaf"><b>Krause</b> Olaf</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../klei_holl_zimm_krau.2021.3CCItPoCC/">3DK Competence Center Investigates the Potentials of Contour Crafting</a></li>

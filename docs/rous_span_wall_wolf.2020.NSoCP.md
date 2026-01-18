@@ -19,14 +19,15 @@ tags:
 
 #Numerical Simulations of Concrete Processing&nbsp;([2020-06](date/2020/06))
 <div class="h1-like">From Standard Formative Casting to Additive Manufacturing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pure.tue.nl/ws/files/173793604/1_s2.0_S0008884620301083_main.pdf) <a href="https://doi.org/10.1016/j.cemconres.2020.106075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106075" target="_blank">10.1016/j.cemconres.2020.106075</a>
+<a href="https://pure.tue.nl/ws/files/173793604/1_s2.0_S0008884620301083_main.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2020.106075" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106075" target="_blank">10.1016/j.cemconres.2020.106075</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3457-9826" title="ORCID: 0000-0003-3457-9826" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/roussel_nicolas"><b>Roussel</b>&nbsp;Nicolas</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span>, <a href="../../../author/wallevik_elvar_jon"><b>Wallevik</b>&nbsp;Jon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7897-433X" title="ORCID: 0000-0001-7897-433X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b>&nbsp;Robert</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 135
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/simulation"><button class="btn">#simulation</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Numerical%20Simulations%20of%20Concrete%20Processing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=numerical+simulations+of+concrete+processing&as_occt=title&as_sauthors=roussel&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85083073752&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000557895900019" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2020.106075" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

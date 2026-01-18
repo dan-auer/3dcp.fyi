@@ -8,6 +8,10 @@ search:
 
 # #boundary
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (2)</button></a> <a href="../../keyword/model"><button class="btn">#model (2)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/pratapa_pradeep_phanisri"><b>Pratapa</b> Phanisri</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bhat_jain_prat_sant.2024.CoBWfaICSiI/">Construction of Boundary Wall for an International Cricket Stadium in India:<br/>A Case Study</a></li>
   <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>

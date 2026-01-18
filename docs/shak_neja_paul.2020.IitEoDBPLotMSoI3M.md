@@ -18,14 +18,15 @@ tags:
 ---
 
 #Investigation into the Effect of Delays Between Printed Layers on the Mechanical Strength of Inkjet 3DP Mortar ([2019-11](date/2019/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://opus.lib.uts.edu.au/bitstream/10453/137618/4/Binder1.pdf) <a href="https://doi.org/10.1016/j.mfglet.2019.11.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mfglet.2019.11.004" target="_blank">10.1016/j.mfglet.2019.11.004</a>
+<a href="https://opus.lib.uts.edu.au/bitstream/10453/137618/4/Binder1.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mfglet.2019.11.004" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mfglet.2019.11.004" target="_blank">10.1016/j.mfglet.2019.11.004</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6617-261X" title="ORCID: 0000-0002-6617-261X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b>&nbsp;Pshtiwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3913-5872" title="ORCID: 0000-0002-3913-5872" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nejadi_shami"><b>Nejadi</b>&nbsp;Shami</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3478-0020" title="ORCID: 0000-0002-3478-0020" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/paul_gavin"><b>Paul</b>&nbsp;Gavin</a></span><br>
 Journal Article - Manufacturing Letters, Vol. 23, pp. 19-22
 
 <a href="../../keyword/delay"><button class="btn">#delay</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20into%20the%20Effect%20of%20Delays%20Between%20Printed%20Layers%20on%20the%20Mechanical%20Strength%20of%20Inkjet%203DP%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+into+the+effect+of+delays+between+printed+layers+on+the+mechanical+strength+of+inkjet+3dp+mortar&as_occt=title&as_sauthors=shakor&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85076412105&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000645119300005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mfglet.2019.11.004" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

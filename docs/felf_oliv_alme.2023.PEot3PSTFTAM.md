@@ -17,14 +17,15 @@ tags:
 ---
 
 #Performance-Evaluation of the 3D Printing System Through Fault-Tree-Analysis-Method ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.researchsquare.com/article/rs-2818894/latest.pdf) <a href="https://doi.org/10.1007/s41024-023-00295-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-023-00295-1" target="_blank">10.1007/s41024-023-00295-1</a>
+<a href="https://www.researchsquare.com/article/rs-2818894/latest.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41024-023-00295-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41024-023-00295-1" target="_blank">10.1007/s41024-023-00295-1</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-5001-0471" title="ORCID: 0009-0005-5001-0471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/felfili-guimaraes_gabriela"><b>Felfili Guimarães</b>&nbsp;Gabriela</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1251-7923" title="ORCID: 0000-0003-1251-7923" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oliveira_honorato_marcos"><b>de&nbsp;Oliveira</b>&nbsp;Marcos</a></span>, <a href="../../../author/almeida-martinelli_juliana"><b>de&nbsp;Almeida Martinelli</b>&nbsp;Juliana</a></span><br>
 Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 8, Iss. 2
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fault"><button class="btn">#fault</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performance-Evaluation%20of%20the%203D%20Printing%20System%20Through%20Fault-Tree-Analysis-Method" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performance-evaluation+of+the+3d+printing+system+through+fault-tree-analysis-method&as_occt=title&as_sauthors=felfili+guimar%C3%A3es&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85161051524&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41024-023-00295-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

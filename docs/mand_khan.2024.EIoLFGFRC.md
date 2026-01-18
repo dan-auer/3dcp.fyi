@@ -18,14 +18,15 @@ tags:
 ---
 
 #Experimental Investigations on Layered Functionally Graded Fiber-Reinforced Concrete ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.istruc.2024.107679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.107679" target="_blank">10.1016/j.istruc.2024.107679</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2024.107679" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2024.107679" target="_blank">10.1016/j.istruc.2024.107679</a>
 
 <a href="../../../author/mandala_venugopal"><b>Mandala</b>&nbsp;Venugopal</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3937-569X" title="ORCID: 0000-0002-3937-569X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_ataullah_mohd"><b>Khan</b>&nbsp;Mohd</a></span><br>
 Journal Article - Structures, Vol. 70, No. 107679
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/function"><button class="btn">#function</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Investigations%20on%20Layered%20Functionally%20Graded%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+investigations+on+layered+functionally+graded+fiber-reinforced+concrete&as_occt=title&as_sauthors=mandala&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85207907037&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001350679500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2024.107679" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

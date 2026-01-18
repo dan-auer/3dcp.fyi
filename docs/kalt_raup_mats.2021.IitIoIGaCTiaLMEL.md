@@ -19,14 +19,15 @@ tags:
 ---
 
 #Investigation into the Integration of Impregnated Glass and Carbon Textiles in a Laboratory Mortar Extruder (LabMorTex) ([2021-12](date/2021/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/23/7406/pdf?version=1638518615) <a href="https://doi.org/10.3390/ma14237406" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237406" target="_blank">10.3390/ma14237406</a>
+<a href="https://www.mdpi.com/1996-1944/14/23/7406/pdf?version=1638518615" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14237406" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14237406" target="_blank">10.3390/ma14237406</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9313-7617" title="ORCID: 0000-0002-9313-7617" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kalthoff_matthias"><b>Kalthoff</b>&nbsp;Matthias</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0688-3839" title="ORCID: 0000-0003-0688-3839" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raupach_michael"><b>Raupach</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8240-6930" title="ORCID: 0000-0002-8240-6930" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/matschei_thomas"><b>Matschei</b>&nbsp;Thomas</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 23
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/glass"><button class="btn">#glass</button></a> <a href="../../keyword/impregnation"><button class="btn">#impregnation</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20into%20the%20Integration%20of%20Impregnated%20Glass%20and%20Carbon%20Textiles%20in%20a%20Laboratory%20Mortar%20Extruder%20%28LabMorTex%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+into+the+integration+of+impregnated+glass+and+carbon+textiles+in+a+laboratory+mortar+extruder+%28labmortex%29&as_occt=title&as_sauthors=kalthoff&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85120753307&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000735233900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14237406" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

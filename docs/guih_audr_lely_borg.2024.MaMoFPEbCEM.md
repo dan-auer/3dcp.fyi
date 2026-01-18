@@ -16,14 +16,15 @@ tags:
 ---
 
 #Monitoring and Modeling of Formwork Pressure Exerted by Castable Earthen Materials ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-62690-6_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_9" target="_blank">10.1007/978-3-031-62690-6_9</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-62690-6_9" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-62690-6_9" target="_blank">10.1007/978-3-031-62690-6_9</a>
 
 <a href="../../../author/guiheneuf_simon"><b>Guihéneuf</b>&nbsp;Simon</a></span>, <a href="../../../author/audren_mathieu"><b>Audren</b>&nbsp;Mathieu</a></span>, <a href="../../../author/lely_nathan"><b>Lely</b>&nbsp;Nathan</a></span>, <a href="../../../author/borgne_tangi"><b>le&nbsp;Borgne</b>&nbsp;Tangi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5281-5944" title="ORCID: 0000-0002-5281-5944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangeard_damien"><b>Rangeard</b>&nbsp;Damien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7105-4212" title="ORCID: 0000-0002-7105-4212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perrot_arnaud"><b>Perrot</b>&nbsp;Arnaud</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Earthen Construction, pp. 81-90
 
 <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/monitoring"><button class="btn">#monitoring</button></a> <a href="../../keyword/pressure"><button class="btn">#pressure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Monitoring%20and%20Modeling%20of%20Formwork%20Pressure%20Exerted%20by%20Castable%20Earthen%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=monitoring+and+modeling+of+formwork+pressure+exerted+by+castable+earthen+materials&as_occt=title&as_sauthors=guih%C3%A9neuf&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85200445683&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001290430600009" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-62690-6_9" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #pattern
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (28)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (20)</button></a> <a href="../../keyword/infill"><button class="btn">#infill (10)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (8)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a>, <a href="../../../author/wan_yujia"><b>Wan</b> Yujia</a>, <a href="../../../author/owyong_shawn"><b>Owyong</b> Shawn</a>, <a href="../../../author/connie-lim_en"><b>Connie Lim</b> En</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wan_owyo_conn.2026.TLCC/">Towards Low-Carbon Construction:<br/>Nature-Inspired Internal Patterns for Thermal Insulation in Lightweight Concrete Component Cast Using 3D-Printed Formwork</a></li>
   <li><a href="../../../author/nguyen_thao_trang"><b>Nguyen</b> Trang</a>, <a href="../../../author/park_jaejun"><b>Park</b> Jaejun</a>, <a href="../../../author/kim_dong-hyun"><b>Kim</b> Dong-Hyun</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../nguy_park_kim.2025.IoIPaCTi3PCW/">Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls</a></li>

@@ -24,14 +24,15 @@ tags:
 ---
 
 #Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste ([2024-06](date/2024/06))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.14359/51742028" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51742028" target="_blank">10.14359/51742028</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51742028" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51742028" target="_blank">10.14359/51742028</a>
 
 <a href="../../../author/muy_yeakleang"><b>Muy</b>&nbsp;Yeakleang</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6573-6631" title="ORCID: 0000-0001-6573-6631" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/courard_luc"><b>Courard</b>&nbsp;Luc</a></span>, <a href="../../../author/garnavault_xavier"><b>Garnavault</b>&nbsp;Xavier</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3758-7285" title="ORCID: 0000-0002-3758-7285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bulteel_david"><b>Bulteel</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7700-9319" title="ORCID: 0000-0001-7700-9319" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/remond_sebastien"><b>Rémond</b>&nbsp;Sébastien</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4350-7691" title="ORCID: 0000-0002-4350-7691" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/taleb_maria"><b>Taleb</b>&nbsp;Maria</a></span>, <a href="../../../author/hubert_julien"><b>Hubert</b>&nbsp;Julien</a></span><br>
-Contribution - SP-362:
+Contribution - Proceedings of the 12th ACI/RILEM International Conference on Cementitious Materials and Alternative Binders for Sustainable Concrete
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/demolition"><button class="btn">#demolition</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Freezing%20and%20Thawing%20Behavior%20of%203D%20Printing%20Concrete%20Containing%20Recycled%20Fine%20Aggregates%20from%20Construction%20and%20Demolition%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+freezing+and+thawing+behavior+of+3d+printing+concrete+containing+recycled+fine+aggregates+from+construction+and+demolition+waste&as_occt=title&as_sauthors=muy&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219504876&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51742028" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -82,7 +83,7 @@ Contribution - SP-362:
       title             = "Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste",
       doi               = "10.14359/51742028",
       year              = "2024",
-      booktitle         = "SP-362:",
+      booktitle         = "Proceedings of the 12th ACI/RILEM International Conference on Cementitious Materials and Alternative Binders for Sustainable Concrete",
     }
 
 
@@ -96,6 +97,6 @@ Contribution - SP-362:
 
     === "CMOS"
 
-    <span id="cmos">Muy, Yeakleang, Luc Courard, Xavier Garnavault, David Bulteel, Sébastien Rémond, Maria Taleb, and Julien Hubert. “Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste”. In <i>SP-362:</i>, 2024. https://doi.org/10.14359/51742028.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Muy, Yeakleang, Luc Courard, Xavier Garnavault, David Bulteel, Sébastien Rémond, Maria Taleb, and Julien Hubert. “Mechanical Properties and Freezing and Thawing Behavior of 3D Printing Concrete Containing Recycled Fine Aggregates from Construction and Demolition Waste”. In <i>Proceedings of the 12th ACI/RILEM International Conference on Cementitious Materials and Alternative Binders for Sustainable Concrete</i>, 2024. https://doi.org/10.14359/51742028.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

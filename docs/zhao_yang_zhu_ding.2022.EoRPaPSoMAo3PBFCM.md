@@ -21,14 +21,15 @@ tags:
 ---
 
 #Effects of Rheological Properties and Printing Speed on Molding Accuracy of 3D Printing Basalt-Fiber Cementitious Materials ([2022-10](date/2022/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmrt.2022.10.124) <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" target="_blank">10.1016/j.jmrt.2022.10.124</a>
+<a href="https://doi.org/10.1016/j.jmrt.2022.10.124" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmrt.2022.10.124" target="_blank">10.1016/j.jmrt.2022.10.124</a>
 
 <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/yang_guang"><b>Yang</b>&nbsp;Guang</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/ding_yahong"><b>Ding</b>&nbsp;Yahong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6740-9551" title="ORCID: 0000-0002-6740-9551" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guan_xuemao"><b>Guan</b>&nbsp;Xuemao</a></span>, <a href="../../../author/wu_xikai"><b>Wu</b>&nbsp;Xikai</a></span>, <a href="../../../author/zhang_yang"><b>Zhang</b>&nbsp;Yang</a></span><br>
 Journal Article - Journal of Materials Research and Technology
 
 <a href="../../keyword/accuracy"><button class="btn">#accuracy</button></a> <a href="../../keyword/basalt"><button class="btn">#basalt</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/speed"><button class="btn">#speed</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Rheological%20Properties%20and%20Printing%20Speed%20on%20Molding%20Accuracy%20of%203D%20Printing%20Basalt-Fiber%20Cementitious%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+rheological+properties+and+printing+speed+on+molding+accuracy+of+3d+printing+basalt-fiber+cementitious+materials&as_occt=title&as_sauthors=zhao&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145882813&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000916929100008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmrt.2022.10.124" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

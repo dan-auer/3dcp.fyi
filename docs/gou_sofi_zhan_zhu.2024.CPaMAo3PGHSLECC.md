@@ -22,14 +22,15 @@ tags:
 ---
 
 #Combined Printable and Mechanical Analysis of 3D Printed Green High-Strength, Lightweight Engineered Cementitious Composites ([2024-03](date/2024/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" target="_blank">10.1016/j.cemconcomp.2024.105506</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2024.105506" target="_blank">10.1016/j.cemconcomp.2024.105506</a>
 
 <a href="../../../author/gou_hongxiang"><b>Gou</b>&nbsp;Hongxiang</a></span>, <a href="../../../author/sofi_massoud"><b>Sofi</b>&nbsp;Massoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0118-3585" title="ORCID: 0000-0003-0118-3585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_zipeng"><b>Zhang</b>&nbsp;Zipeng</a></span>, <a href="../../../author/zhu_mintao"><b>Zhu</b>&nbsp;Mintao</a></span>, <a href="../../../author/zhu_hongbo"><b>Zhu</b>&nbsp;Hongbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4068-8201" title="ORCID: 0000-0003-4068-8201" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendis_priyan"><b>Mendis</b>&nbsp;Priyan</a></span><br>
 Journal Article - Cement and Concrete Composites, No. 105506
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Combined%20Printable%20and%20Mechanical%20Analysis%20of%203D%20Printed%20Green%20High-Strength%2C%20Lightweight%20Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=combined+printable+and+mechanical+analysis+of+3d+printed+green+high-strength%2C+lightweight+engineered+cementitious+composites&as_occt=title&as_sauthors=gou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187962932&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001222202900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2024.105506" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

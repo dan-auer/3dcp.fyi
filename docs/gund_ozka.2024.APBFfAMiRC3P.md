@@ -18,14 +18,15 @@ tags:
 ---
 
 #A Process-Based Framework for Adaptable Modules in Robotic Clay 3D Printing ([2024-02](date/2024/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/14780771231225698" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/14780771231225698" target="_blank">10.1177/14780771231225698</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/14780771231225698" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/14780771231225698" target="_blank">10.1177/14780771231225698</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0999-7401" title="ORCID: 0000-0003-0999-7401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gunduz_gamze"><b>Gündüz</b>&nbsp;Gamze</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4317-9664" title="ORCID: 0000-0003-4317-9664" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozkar_mine"><b>Özkar</b>&nbsp;Mine</a></span><br>
 Journal Article - International Journal of Architectural Computing, Vol. 22, Iss. 1, pp. 45-61
 
 <a href="../../keyword/adaption"><button class="btn">#adaption</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Process-Based%20Framework%20for%20Adaptable%20Modules%20in%20Robotic%20Clay%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+process-based+framework+for+adaptable+modules+in+robotic+clay+3d+printing&as_occt=title&as_sauthors=g%C3%BCnd%C3%BCz&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85185485975&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001160949600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/14780771231225698" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

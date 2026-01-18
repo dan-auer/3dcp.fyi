@@ -9,6 +9,60 @@ search:
 
 #  Liu Zhixin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9868-6116" target="_blank">0000-0001-9868-6116</a>
+
+    First Contribution
+    : 2018-05-17
+    
+    Last Contribution
+    : 2025-08-28
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 460
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (14)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (13)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (8)</li>
+        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a> (127)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (58)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (28)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (28)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (21)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (31)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (29)</li>
+        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (26)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (18)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (15)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/quah_kai-noel_tan"><b>Quah</b> Tan</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../quah_liu_tay_li.2025.IPFRi3CPwIS/">In-Process Filament Repair in 3D Concrete Printing with Instance Segmentation</a></li>
   <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/si_liang"><b>Si</b> Liang</a>, <a href="../../../author/liu_yebao"><b>Liu</b> Yebao</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liu_si_liu_li.2025.OoPPBoCFDfUFMDaCi3CMP/">Optimization of Printing Parameters Based on Computational Fluid Dynamics for Uniform Filament Mass Distribution at Corners in 3D Cementitious Material Printing</a></li>

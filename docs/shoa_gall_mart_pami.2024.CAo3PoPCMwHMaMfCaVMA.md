@@ -21,14 +21,15 @@ tags:
 ---
 
 #Comparative Analysis of 3D Printing of Portland Cement Mortars with Hydroxypropyl-Methylcellulose and Micro-Fibrillated Cellulose as Viscosity-Modifying-Agents ([2024-06](date/2024/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2024.113124) <a href="https://doi.org/10.1016/j.matdes.2024.113124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.113124" target="_blank">10.1016/j.matdes.2024.113124</a>
+<a href="https://doi.org/10.1016/j.matdes.2024.113124" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2024.113124" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2024.113124" target="_blank">10.1016/j.matdes.2024.113124</a>
 
 <a href="../../../author/shoaei_parham"><b>Shoaei</b>&nbsp;Parham</a></span>, <a href="../../../author/gallantree-smith_harrison"><b>Gallantree-Smith</b>&nbsp;Harrison</a></span>, <a href="../../../author/martinez-pacheco_victor"><b>Martínez Pacheco</b>&nbsp;Victor</a></span>, <a href="../../../author/pamies_ramon"><b>Pamies</b>&nbsp;Ramón</a></span>, <a href="../../../author/kjoniksen_anna-lena"><b>Kjøniksen</b>&nbsp;Anna-Lena</a></span>, <a href="../../../author/pilehvar_shima"><b>Pilehvar</b>&nbsp;Shima</a></span><br>
 Journal Article - Materials & Design, No. 113124
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/cellulose"><button class="btn">#cellulose</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/viscosity"><button class="btn">#viscosity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%203D%20Printing%20of%20Portland%20Cement%20Mortars%20with%20Hydroxypropyl-Methylcellulose%20and%20Micro-Fibrillated%20Cellulose%20as%20Viscosity-Modifying-Agents" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+analysis+of+3d+printing+of+portland+cement+mortars+with+hydroxypropyl-methylcellulose+and+micro-fibrillated+cellulose+as+viscosity-modifying-agents&as_occt=title&as_sauthors=shoaei&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197363523&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001262557100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2024.113124" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

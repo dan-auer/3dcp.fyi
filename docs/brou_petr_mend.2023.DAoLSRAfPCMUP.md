@@ -20,14 +20,15 @@ tags:
 ---
 
 #Displacement-Analysis of Large-Scale Robotic Arm for Printing Cement-Mortar Using Photogrammetry ([2022-12](date/2022/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-1702/11/1/37/pdf?version=1672310628) <a href="https://doi.org/10.3390/machines11010037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/machines11010037" target="_blank">10.3390/machines11010037</a>
+<a href="https://www.mdpi.com/2075-1702/11/1/37/pdf?version=1672310628" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/machines11010037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/machines11010037" target="_blank">10.3390/machines11010037</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2583-4146" title="ORCID: 0000-0002-2583-4146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brousek_josef"><b>Břoušek</b>&nbsp;Josef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2943-6807" title="ORCID: 0000-0002-2943-6807" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petr_tomas"><b>Petr</b>&nbsp;Tomas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0685-7585" title="ORCID: 0000-0003-0685-7585" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendricky_radomir"><b>Mendřický</b>&nbsp;Radomír</a></span><br>
 Journal Article - Machines, Vol. 11, Iss. 1
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/displacement"><button class="btn">#displacement</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/photogrammetry"><button class="btn">#photogrammetry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Displacement-Analysis%20of%20Large-Scale%20Robotic%20Arm%20for%20Printing%20Cement-Mortar%20Using%20Photogrammetry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=displacement-analysis+of+large-scale+robotic+arm+for+printing+cement-mortar+using+photogrammetry&as_occt=title&as_sauthors=b%C5%99ou%C5%A1ek&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85146793902&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000915681400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/machines11010037" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

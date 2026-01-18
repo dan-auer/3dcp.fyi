@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Printable Concrete for Energy-Efficient Buildings ([2023-05](date/2023/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1073/16/10/4234/pdf?version=1684935601) <a href="https://doi.org/10.3390/en16104234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en16104234" target="_blank">10.3390/en16104234</a>
+<a href="https://www.mdpi.com/1996-1073/16/10/4234/pdf?version=1684935601" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/en16104234" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/en16104234" target="_blank">10.3390/en16104234</a>
 
 <a href="../../../author/samudrala_manideep"><b>Samudrala</b>&nbsp;Manideep</a></span>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b>&nbsp;Syed</a></span>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b>&nbsp;Bhagyashri</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1698-8282" title="ORCID: 0000-0002-1698-8282" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b>&nbsp;Ravijanya</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9037-4887" title="ORCID: 0000-0002-9037-4887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kamath_muralidhar"><b>Kamath</b>&nbsp;Muralidhar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3538-533X" title="ORCID: 0000-0002-3538-533X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b>&nbsp;Rahul</a></span><br>
 Journal Article - Energies, Vol. 16, Iss. 10, No. 4234
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Concrete%20for%20Energy-Efficient%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+concrete+for+energy-efficient+buildings&as_occt=title&as_sauthors=samudrala&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160628696&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000996744100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/en16104234" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

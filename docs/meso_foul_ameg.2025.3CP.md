@@ -20,14 +20,15 @@ tags:
 
 #3D Concrete Printing&nbsp;([2025-10](date/2025/10))
 <div class="h1-like">Optimizing the Design of Interlocking 3D Printed Concrete Blocks for Fast and Sustainable Construction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2025/09/matecconf_icmce2025_01002.pdf) <a href="https://doi.org/10.1051/matecconf/202541501002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202541501002" target="_blank">10.1051/matecconf/202541501002</a>
+<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2025/09/matecconf_icmce2025_01002.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/202541501002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202541501002" target="_blank">10.1051/matecconf/202541501002</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-4921-9030" title="ORCID: 0009-0002-4921-9030" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b>&nbsp;Mouad</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-7174-6245" title="ORCID: 0009-0004-7174-6245" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/foulki_rida"><b>Foulki</b>&nbsp;Rida</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5170-0491" title="ORCID: 0000-0002-5170-0491" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amegouz_driss"><b>Amegouz</b>&nbsp;Driss</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 415, No. 01002
 
 <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fast"><button class="btn">#fast</button></a> <a href="../../keyword/interlocking"><button class="btn">#interlocking</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing&as_occt=title&as_sauthors=mesoudy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/202541501002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

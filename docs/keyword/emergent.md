@@ -8,6 +8,10 @@ search:
 
 # #emergent
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (5)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/material"><button class="btn">#material (3)</button></a> <a href="../../keyword/technology"><button class="btn">#technology (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bawab_jad"><b>Bawab</b> Jad</a>, <a href="../../../author/dieb_amr"><b>Dieb</b> Amr</a>, <a href="../../../author/hassan_hilal"><b>Hassan</b> Hilal</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bawa_dieb_hass.2025.PIitDoCFCUEAf3P/">Preliminary Investigation into the Development of Cement-Free Composites Using Emerging Alternatives for 3D Printing</a></li>
   <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../brad_si_khan_mcna.2025.EIitDo3PC/">Emerging Insights into the Durability of 3D-Printed Concrete:<br/>Recent Advances in Mix Design Parameters and Testing</a></li>

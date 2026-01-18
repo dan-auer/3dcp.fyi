@@ -19,14 +19,15 @@ tags:
 
 #Toward Sustainable 3D Concrete Printing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Assessment of SCM-Superplasticizer Interactions on Rheology and Buildability</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.3390/constrmater5040080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/constrmater5040080" target="_blank">10.3390/constrmater5040080</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.3390/constrmater5040080" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/constrmater5040080" target="_blank">10.3390/constrmater5040080</a>
 
 <a href="../../../author/megahed_mai"><b>Megahed</b>&nbsp;Mai</a></span>, <a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b>&nbsp;Mohamed</a></span><br>
 Journal Article - Construction Materials, Vol. 5, Iss. 4, No. 80
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/superplasticizer"><button class="btn">#superplasticizer</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Toward%20Sustainable%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=toward+sustainable+3d+concrete+printing&as_occt=title&as_sauthors=megahed&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/constrmater5040080" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -25,7 +25,7 @@ Contribution - Proceedings of the IASS 2025 Annual Symposium
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/surface"><button class="btn">#surface</button></a> <a href="../../keyword/toolpath"><button class="btn">#toolpath</button></a> <a href="../../keyword/twin"><button class="btn">#twin</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Surface-Toolpath%20Twins%20of%20Shell%20Components%20in%203D%20Concrete%20Printing%20for%20Optimized%20Buildability%20and%20Surface%20Quality" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=surface-toolpath+twins+of+shell+components+in+3d+concrete+printing+for+optimized+buildability+and+surface+quality&as_occt=title&as_sauthors=zhi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

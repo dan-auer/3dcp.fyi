@@ -21,14 +21,15 @@ tags:
 ---
 
 #Structural Performance of a Large Column with an Outer Shell Formed by Short-Fiber-Reinforced Mortar-Extrusion ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_23" target="_blank">10.1007/978-3-031-64269-2_23</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_23" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_23" target="_blank">10.1007/978-3-031-64269-2_23</a>
 
 <a href="../../../author/kinomura_koji"><b>Kinomura</b>&nbsp;Koji</a></span>, <a href="../../../author/zhang_wenbo"><b>Zhang</b>&nbsp;Wenbo</a></span>, <a href="../../../author/kawamura_keisuke"><b>Kawamura</b>&nbsp;Keisuke</a></span><br>
 Contribution - Construction 3D Printing, pp. 181-187
 
 <a href="../../keyword/column"><button class="btn">#column</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/form"><button class="btn">#form</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/short"><button class="btn">#short</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20a%20Large%20Column%20with%20an%20Outer%20Shell%20Formed%20by%20Short-Fiber-Reinforced%20Mortar-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+performance+of+a+large+column+with+an+outer+shell+formed+by+short-fiber-reinforced+mortar-extrusion&as_occt=title&as_sauthors=kinomura&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201300102&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800023" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_23" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

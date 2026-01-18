@@ -18,14 +18,15 @@ tags:
 ---
 
 #Analytical Study on 3D Printed Concrete Wall with Different Wall-Configurations When Exposed to High Temperature ([2023-11](date/2023/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-6233-4_46" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-6233-4_46" target="_blank">10.1007/978-981-99-6233-4_46</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-6233-4_46" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-6233-4_46" target="_blank">10.1007/978-981-99-6233-4_46</a>
 
 <a href="../../../author/vignesh_b"><b>Vignesh</b>&nbsp;B.</a></span>, <a href="../../../author/parthasarathi_n"><b>Parthasarathi</b>&nbsp;N.</a></span><br>
 Contribution - Sustainable Innovations in Construction Management, pp. 505-516
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analytical%20Study%20on%203D%20Printed%20Concrete%20Wall%20with%20Different%20Wall-Configurations%20When%20Exposed%20to%20High%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analytical+study+on+3d+printed+concrete+wall+with+different+wall-configurations+when+exposed+to+high+temperature&as_occt=title&as_sauthors=vignesh&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85178513662&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-6233-4_46" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

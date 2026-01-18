@@ -9,6 +9,60 @@ search:
 
 #  Gramazio Fabio 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3761-7675" target="_blank">0000-0002-3761-7675</a>
+
+    First Contribution
+    : 2012-10-12
+    
+    Last Contribution
+    : 2025-02-20
+
+    Number Contributions
+    : 49
+
+    Number Citations
+    : 1407
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (48)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (32)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (18)</li>
+        <li><a href="../../../author/burger_jan_joris"><b>Burger</b> Joris</a> (11)</li>
+        <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> (11)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a>, <a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> et al. <a href="../../../date/2016/10">(2016-10)</a><br><a href="../../../wang_llor_reit_hack.2016.DC/">Digital Concrete:<br/>Opportunities and Challenges</a> (482)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (51)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (44)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (44)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (37)</li>
+        <li><a href="../../../author/reiter_lex"><b>Reiter</b> Lex</a> (32)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (98)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (92)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (90)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (77)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (72)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a>, <a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chad_vase_gram_kohl.2025.ART/">Adaptive Robotic Tamping:<br/>A Novel Robotic Method for Formative Surface Finishing in Earth-Based Additive Manufacturing</a></li>
   <li><a href="../../../author/olivo_eftekhar_nik"><b>Olivo</b> Nik</a>, <a href="../../../author/piccioni_valeria"><b>Piccioni</b> Valeria</a>, <a href="../../../author/milano_francesco"><b>Milano</b> Francesco</a>, <a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../oliv_picc_mila_gram.2025.TEoHC3TNDC/">Thermal Enhancement of Hollow-Core 3DP Through Nozzle Design Customization</a></li>

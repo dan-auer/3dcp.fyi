@@ -22,14 +22,15 @@ tags:
 ---
 
 #Impact of Double Hooked Steel-Fibers and Nano-Kaolin-Clay on Fresh Properties of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete ([2024-10](date/2024/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2024.110917) <a href="https://doi.org/10.1016/j.jobe.2024.110917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110917" target="_blank">10.1016/j.jobe.2024.110917</a>
+<a href="https://doi.org/10.1016/j.jobe.2024.110917" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.110917" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.110917" target="_blank">10.1016/j.jobe.2024.110917</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7223-213X" title="ORCID: 0000-0002-7223-213X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/althoey_fadi"><b>Althoey</b>&nbsp;Fadi</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8071-1341" title="ORCID: 0000-0002-8071-1341" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zaid_osama"><b>Zaid</b>&nbsp;Osama</a></span>, <a href="../../../author/ahmed_bilal"><b>Ahmed</b>&nbsp;Bilal</a></span>, <a href="../../../author/elhadi_mohamed_khaled"><b>Elhadi</b>&nbsp;Khaled</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 97, No. 110917
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/double"><button class="btn">#double</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/kaolin"><button class="btn">#kaolin</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impact%20of%20Double%20Hooked%20Steel-Fibers%20and%20Nano-Kaolin-Clay%20on%20Fresh%20Properties%20of%203D%20Printable%20Ultra-High-Performance%20Fiber-Reinforced%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impact+of+double+hooked+steel-fibers+and+nano-kaolin-clay+on+fresh+properties+of+3d+printable+ultra-high-performance+fiber-reinforced+concrete&as_occt=title&as_sauthors=althoey&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205541614&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001333389800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.110917" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

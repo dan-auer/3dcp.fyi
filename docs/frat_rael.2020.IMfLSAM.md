@@ -20,14 +20,15 @@ tags:
 
 #Innovating Materials for Large-Scale Additive Manufacturing&nbsp;([2020-05](date/2020/05))
 <div class="h1-like">Salt, Soil, Cement and Chardonnay</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconres.2020.106097" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106097" target="_blank">10.1016/j.cemconres.2020.106097</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2020.106097" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2020.106097" target="_blank">10.1016/j.cemconres.2020.106097</a>
 
 <a href="../../../author/fratello_virginia"><b>san&nbsp;Fratello</b>&nbsp;Virginia</a></span>, <a href="../../../author/rael_ronald"><b>Rael</b>&nbsp;Ronald</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 134
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/innovation"><button class="btn">#innovation</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/salt"><button class="btn">#salt</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/soil"><button class="btn">#soil</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Innovating%20Materials%20for%20Large-Scale%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=innovating+materials+for+large-scale+additive+manufacturing&as_occt=title&as_sauthors=fratello&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85085473433&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000538864100015" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2020.106097" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

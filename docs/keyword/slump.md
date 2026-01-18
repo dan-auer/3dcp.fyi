@@ -8,6 +8,10 @@ search:
 
 # #slump
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/flow"><button class="btn">#flow (4)</button></a> <a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/test"><button class="btn">#test (4)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a>, <a href="../../../author/kang_seungwoo"><b>Kang</b> Seungwoo</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rehm_kang_kim.2024.NISST/">Nozzle-Integrated Slump-Scanner-Test:<br/>Development of an Automated Shape-Stability and Instantaneous Yield-Stress-Measurement-Method for the Set-on-Demand 3D Concrete Printing</a></li>
   <li><a href="../../../author/gomzyakov_albert"><b>Gomzyakov</b> Albert</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/reuter_uwe"><b>Reuter</b> Uwe</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../gomz_taub_soko_reut.2024.SfMBPoCRf3STG/">Setup for ML-Based Prediction of Concrete Rheology from 3D Slump-Test-Geometry</a></li>

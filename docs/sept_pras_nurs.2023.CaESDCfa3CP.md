@@ -16,14 +16,15 @@ tags:
 ---
 
 #Control and Electrical System Design Consideration for a 3D Concrete Printer ([2022-10](date/2022/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-99-1245-2_57" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-1245-2_57" target="_blank">10.1007/978-981-99-1245-2_57</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-99-1245-2_57" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-99-1245-2_57" target="_blank">10.1007/978-981-99-1245-2_57</a>
 
 <a href="../../../author/septiansyah_fadlika"><b>Septiansyah</b>&nbsp;Fadlika</a></span>, <a href="../../../author/prasetya_sonki"><b>Prasetya</b>&nbsp;Sonki</a></span>, <a href="../../../author/nursanto_djoko"><b>Nursanto</b>&nbsp;Djoko</a></span><br>
 Contribution - Proceedings of the 6th Asia Pacific Conference on Manufacturing Systems and 4th International Manufacturing Engineering Conference, pp. 617-626
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/electrical"><button class="btn">#electrical</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Control%20and%20Electrical%20System%20Design%20Consideration%20for%20a%203D%20Concrete%20Printer" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=control+and+electrical+system+design+consideration+for+a+3d+concrete+printer&as_occt=title&as_sauthors=septiansyah&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85174741949&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-99-1245-2_57" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

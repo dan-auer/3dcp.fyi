@@ -18,14 +18,15 @@ tags:
 ---
 
 #Rheological and Environmental Implications of Recycled Concrete Powder as Filler in Concrete 3D Printing ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/15/8/1280/pdf?version=1744620445) <a href="https://doi.org/10.3390/buildings15081280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15081280" target="_blank">10.3390/buildings15081280</a>
+<a href="https://www.mdpi.com/2075-5309/15/8/1280/pdf?version=1744620445" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15081280" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15081280" target="_blank">10.3390/buildings15081280</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-2308-5505" title="ORCID: 0009-0002-2308-5505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b>&nbsp;Tiago</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5867-4452" title="ORCID: 0000-0001-5867-4452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b>&nbsp;Romildo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4241-1321" title="ORCID: 0000-0002-4241-1321" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b>&nbsp;Oscar</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 8, No. 1280
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/fill"><button class="btn">#fill</button></a> <a href="../../keyword/implication"><button class="btn">#implication</button></a> <a href="../../keyword/powder"><button class="btn">#powder</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20and%20Environmental%20Implications%20of%20Recycled%20Concrete%20Powder%20as%20Filler%20in%20Concrete%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+and+environmental+implications+of+recycled+concrete+powder+as+filler+in+concrete+3d+printing&as_occt=title&as_sauthors=cavalcante&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105003687365&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001477251100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15081280" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

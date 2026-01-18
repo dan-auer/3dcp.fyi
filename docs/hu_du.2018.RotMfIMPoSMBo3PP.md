@@ -19,14 +19,15 @@ tags:
 ---
 
 #Research on the Method for Improving Mechanical Properties of Sand-Mold-Based on 3D Printing Process ([2018-08](date/2018/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/394/3/032063) <a href="https://doi.org/10.1088/1757-899x/394/3/032063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/394/3/032063" target="_blank">10.1088/1757-899x/394/3/032063</a>
+<a href="https://doi.org/10.1088/1757-899x/394/3/032063" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/394/3/032063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/394/3/032063" target="_blank">10.1088/1757-899x/394/3/032063</a>
 
 <a href="../../../author/hu_chang'an"><b>Hu</b>&nbsp;Chang’an</a></span>, <a href="../../../author/du_wenbo"><b>Du</b>&nbsp;Wenbo</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 394
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mold"><button class="btn">#mold</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research%20on%20the%20Method%20for%20Improving%20Mechanical%20Properties%20of%20Sand-Mold-Based%20on%203D%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research+on+the+method+for+improving+mechanical+properties+of+sand-mold-based+on+3d+printing+process&as_occt=title&as_sauthors=hu&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85052285757&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/394/3/032063" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

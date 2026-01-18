@@ -16,14 +16,15 @@ tags:
 ---
 
 #Influence of Latex and Vinyl Disposable Gloves as Recycled Fibers in 3D Printing Sustainable Mortars ([2022-08](date/2022/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2071-1050/14/16/9908/pdf?version=1660199574) <a href="https://doi.org/10.3390/su14169908" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14169908" target="_blank">10.3390/su14169908</a>
+<a href="https://www.mdpi.com/2071-1050/14/16/9908/pdf?version=1660199574" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su14169908" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su14169908" target="_blank">10.3390/su14169908</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1367-7419" title="ORCID: 0000-0003-1367-7419" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b>&nbsp;Seyed</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9609-4512" title="ORCID: 0000-0001-9609-4512" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dehestani_mehdi"><b>Dehestani</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Sustainability, Vol. 14, Iss. 16, No. 9908
 
 <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Latex%20and%20Vinyl%20Disposable%20Gloves%20as%20Recycled%20Fibers%20in%203D%20Printing%20Sustainable%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+latex+and+vinyl+disposable+gloves+as+recycled+fibers+in+3d+printing+sustainable+mortars&as_occt=title&as_sauthors=mousavi&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137699215&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000845273400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su14169908" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

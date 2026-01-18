@@ -14,14 +14,15 @@ tags:
 
 #Large-Scale 3D Printing&nbsp;([2018-04](date/2018/04))
 <div class="h1-like">The Way Forward</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/324/1/012088) <a href="https://doi.org/10.1088/1757-899x/324/1/012088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/324/1/012088" target="_blank">10.1088/1757-899x/324/1/012088</a>
+<a href="https://doi.org/10.1088/1757-899x/324/1/012088" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/324/1/012088" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/324/1/012088" target="_blank">10.1088/1757-899x/324/1/012088</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4230-4067" title="ORCID: 0000-0002-4230-4067" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jassmi_hamad"><b>al&nbsp;Jassmi</b>&nbsp;Hamad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6102-3765" title="ORCID: 0000-0001-6102-3765" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/najjar_fady"><b>al&nbsp;Najjar</b>&nbsp;Fady</a></span>, <a href="../../../author/mourad_ismail_abdel-hamid"><b>Mourad</b>&nbsp;Abdel-Hamid</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 324
 
 <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Large-Scale%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=large-scale+3d+printing&as_occt=title&as_sauthors=jassmi&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85046268622&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000449671800088" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/324/1/012088" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

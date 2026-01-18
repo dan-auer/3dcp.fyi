@@ -16,14 +16,15 @@ tags:
 
 #Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">Correction</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99519-9_31.pdf) <a href="https://doi.org/10.1007/978-3-319-99519-9_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_31" target="_blank">10.1007/978-3-319-99519-9_31</a>
+<a href="https://link.springer.com/content/pdf/10.1007%2F978-3-319-99519-9_31.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-99519-9_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-99519-9_31" target="_blank">10.1007/978-3-319-99519-9_31</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2839-6433" title="ORCID: 0000-0003-2839-6433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wangler_paul_timothy"><b>Wangler</b>&nbsp;Timothy</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5609-8487" title="ORCID: 0000-0002-5609-8487" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/flatt_johann_robert"><b>Flatt</b>&nbsp;Robert</a></span><br>
 Contribution - Proceedings of the 1st RILEM International Conference on Concrete and Digital Fabrication
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/correction"><button class="btn">#correction</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/rilem"><button class="btn">#rilem</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Proceedings%20of%20the%201st%20RILEM%20International%20Conference%20on%20Concrete%20and%20Digital%20Fabrication" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=proceedings+of+the+1st+rilem+international+conference+on+concrete+and+digital+fabrication&as_occt=title&as_sauthors=wangler&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85081112687&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-99519-9_31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

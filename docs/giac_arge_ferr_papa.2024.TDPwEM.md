@@ -19,14 +19,15 @@ tags:
 
 #Three-Dimensional Printing with Earthen Materials&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">A Settlement-Scale Design Experience</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/9/2721/pdf) <a href="https://doi.org/10.3390/buildings14092721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092721" target="_blank">10.3390/buildings14092721</a>
+<a href="https://www.mdpi.com/2075-5309/14/9/2721/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14092721" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14092721" target="_blank">10.3390/buildings14092721</a>
 
 <a href="../../../author/giacomobono_leonardo"><b>Giacomobono</b>&nbsp;Leonardo</a></span>, <a href="../../../author/argenti_maria"><b>Argenti</b>&nbsp;Maria</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6660-0349" title="ORCID: 0000-0001-6660-0349" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferretti_elena"><b>Ferretti</b>&nbsp;Elena</a></span>, <a href="../../../author/paparella_giulio"><b>Paparella</b>&nbsp;Giulio</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 9, No. 2721
 
 <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/experience"><button class="btn">#experience</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Three-Dimensional%20Printing%20with%20Earthen%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=three-dimensional+printing+with+earthen+materials&as_occt=title&as_sauthors=giacomobono&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85205217690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001323596300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14092721" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

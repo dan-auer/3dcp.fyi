@@ -9,6 +9,60 @@ search:
 
 #  Hechtl Christian 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-3119-850X" target="_blank">0000-0003-3119-850X</a>
+
+    First Contribution
+    : 2022-06-29
+    
+    Last Contribution
+    : 2025-12-31
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 41
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a> (5)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (4)</li>
+        <li><a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> (4)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/briels_david"><b>Briels</b> David</a>, <a href="../../../author/renz_mauritz"><b>Renz</b> Mauritz</a>, <a href="../../../author/nouman_saleem_ahmad"><b>Nouman</b> Ahmad</a>, <a href="../../../author/strasser_alexander"><b>Straßer</b> Alexander</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../brie_renz_noum_stra.2023.MAF/">Monolithic AM Façade:<br/>Multi-Objective Parametric Design-Optimization of Additively Manufactured Insulating Wall Elements</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (15)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (14)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (13)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (13)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (6)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (5)</li>
+        <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (3)</li>
+        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

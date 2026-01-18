@@ -9,6 +9,60 @@ search:
 
 #  Aouad Georges 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0003-4088-7788" target="_blank">0000-0003-4088-7788</a>
+
+    First Contribution
+    : 2017-04-14
+    
+    Last Contribution
+    : 2023-06-26
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 544
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> (8)</li>
+        <li><a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a> (7)</li>
+        <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a> (4)</li>
+        <li><a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a> (3)</li>
+        <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/khalil_noura"><b>Khalil</b> Noura</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a>, <a href="../../../author/cheikh_khadija"><b>Cheikh</b> Khadija</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../khal_aoua_chei_remo.2017.UoCSCfSCo3PM/">Use of Calcium-Sulfoaluminate-Cements for Setting-Control of 3D Printing Mortars</a> (186)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (31)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (24)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (24)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a> (22)</li>
+        <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> (22)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (20)</li>
+        <li><a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a> (16)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a></li>
   <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dahe_klei_benz_abri.2022.RoFCDSfC3P/">Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing</a></li>

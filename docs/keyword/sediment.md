@@ -8,6 +8,10 @@ search:
 
 # #sediment
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (1)</button></a> <a href="../../keyword/print"><button class="btn">#print (1)</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../dahe_klei_benz_abri.2022.RoFCDSfC3P/">Recycling of Flash-Calcined Dredged Sediment for Concrete 3D Printing</a></li>
 </ol>

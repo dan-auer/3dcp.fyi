@@ -21,14 +21,15 @@ tags:
 
 #Graded Concrete (2. Generation)&nbsp;([2023-05](date/2023/05))
 <div class="h1-like">The Combination of Hollow-Core Construction with Trajectory-Based Reinforcement</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202300033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202300033" target="_blank">10.1002/best.202300033</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202300033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202300033" target="_blank">10.1002/best.202300033</a>
 
 <a href="../../../author/sobek_werner"><b>Sobek</b>&nbsp;Werner</a></span>, <a href="../../../author/schmeer_daniel"><b>Schmeer</b>&nbsp;Daniel</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 118, Iss. 5, pp. 303-309
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/combination"><button class="btn">#combination</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/generation"><button class="btn">#generation</button></a> <a href="../../keyword/grade"><button class="btn">#grade</button></a> <a href="../../keyword/hollow"><button class="btn">#hollow</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/trajectory"><button class="btn">#trajectory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Graded%20Concrete%20%282.%20Generation%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=graded+concrete+%282.+generation%29&as_occt=title&as_sauthors=sobek&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85152549988&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000970895900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202300033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Utilization of Machine-Made Sand Waste in 3D-Printed Ecological Concrete for Artificial Reefs ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cscm.2025.e04494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04494" target="_blank">10.1016/j.cscm.2025.e04494</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e04494" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e04494" target="_blank">10.1016/j.cscm.2025.e04494</a>
 
 <a href="../../../author/kuang_weifeng"><b>Kuang</b>&nbsp;Weifeng</a></span>, <a href="../../../author/pavlenko_petro"><b>Pavlenko</b>&nbsp;Petro</a></span>, <a href="../../../author/guo_haoyu"><b>Guo</b>&nbsp;Haoyu</a></span>, <a href="../../../author/tian_kuo"><b>Tian</b>&nbsp;Kuo</a></span>, <a href="../../../author/liu_haoyu"><b>Liu</b>&nbsp;Haoyu</a></span>, <a href="../../../author/zhou_zihao"><b>Zhou</b>&nbsp;Zihao</a></span>, <a href="../../../author/duan_yifan"><b>Duan</b>&nbsp;Yifan</a></span>, <a href="../../../author/shi_xuezhi"><b>Shi</b>&nbsp;Xuezhi</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e04494
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/ecology"><button class="btn">#ecology</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reef"><button class="btn">#reef</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Utilization%20of%20Machine-Made%20Sand%20Waste%20in%203D-Printed%20Ecological%20Concrete%20for%20Artificial%20Reefs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=utilization+of+machine-made+sand+waste+in+3d-printed+ecological+concrete+for+artificial+reefs&as_occt=title&as_sauthors=kuang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-86000171734&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001444019400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e04494" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

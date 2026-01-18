@@ -17,14 +17,15 @@ tags:
 ---
 
 #Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace ([2024-04](date/2024/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/4/989/pdf?version=1712067784) <a href="https://doi.org/10.3390/buildings14040989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14040989" target="_blank">10.3390/buildings14040989</a>
+<a href="https://www.mdpi.com/2075-5309/14/4/989/pdf?version=1712067784" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14040989" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14040989" target="_blank">10.3390/buildings14040989</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3384-4050" title="ORCID: 0000-0003-3384-4050" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_jun"><b>Wang</b>&nbsp;Jun</a></span>, <a href="../../../author/liu_zhenhua"><b>Liu</b>&nbsp;Zhenhua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8038-335X" title="ORCID: 0000-0002-8038-335X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hou_jia"><b>Hou</b>&nbsp;Jia</a></span>, <a href="../../../author/ge_mengmeng"><b>Ge</b>&nbsp;Mengmeng</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 4, No. 989
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/progress"><button class="btn">#progress</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Research-Progress%20and%20Trend-Analysis%20of%20Concrete%203D%20Printing%20Technology%20Based%20on%20CiteSpace" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=research-progress+and+trend-analysis+of+concrete+3d+printing+technology+based+on+citespace&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85191389632&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001210323800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14040989" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

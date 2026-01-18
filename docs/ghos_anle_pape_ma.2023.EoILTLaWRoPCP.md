@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of Inter-Layer-Time-Lapse and Workability-Retention on Printed Concrete Performance ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jmcee7.mteng-14515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-14515" target="_blank">10.1061/jmcee7.mteng-14515</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jmcee7.mteng-14515" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jmcee7.mteng-14515" target="_blank">10.1061/jmcee7.mteng-14515</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1776-5021" title="ORCID: 0000-0002-1776-5021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghosh_debalina"><b>Ghosh</b>&nbsp;Debalina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1002-8125" title="ORCID: 0000-0002-1002-8125" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/anleu_bran_paula"><b>Anleu</b>&nbsp;Paula</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5410-6546" title="ORCID: 0000-0001-5410-6546" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pape_yann"><b>le&nbsp;Pape</b>&nbsp;Yann</a></span>, <a href="../../../author/ma_john_zhonggoue"><b>Ma</b>&nbsp;Zhonggoue</a></span><br>
 Journal Article - Journal of Materials in Civil Engineering, Vol. 35, Iss. 10
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/retainment"><button class="btn">#retainment</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/workability"><button class="btn">#workability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Inter-Layer-Time-Lapse%20and%20Workability-Retention%20on%20Printed%20Concrete%20Performance" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+inter-layer-time-lapse+and+workability-retention+on+printed+concrete+performance&as_occt=title&as_sauthors=ghosh&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85166917302&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001048485200058" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jmcee7.mteng-14515" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

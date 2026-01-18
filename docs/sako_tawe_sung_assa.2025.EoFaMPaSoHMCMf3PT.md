@@ -19,14 +19,15 @@ tags:
 ---
 
 #Evaluation of Fresh and Mechanical Properties and Shrinkage of Hydrophobic Mortar Containing Microfiber for 3D Printing Technology ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05506" target="_blank">10.1016/j.cscm.2025.e05506</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05506" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05506" target="_blank">10.1016/j.cscm.2025.e05506</a>
 
 <a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b>&nbsp;Natthanicha</a></span>, <a href="../../../author/taweesint_jutamas"><b>Taweesint</b>&nbsp;Jutamas</a></span>, <a href="../../../author/sungsiri_krisana"><b>Sungsiri</b>&nbsp;Krisana</a></span>, <a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b>&nbsp;Sirikamol</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4917-1367" title="ORCID: 0000-0002-4917-1367" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tangchirapat_weerachart"><b>Tangchirapat</b>&nbsp;Weerachart</a></span>, <a href="../../../author/jaturapitakkul_chai"><b>Jaturapitakkul</b>&nbsp;Chai</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05506
 
 <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/shrinkage"><button class="btn">#shrinkage</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Fresh%20and%20Mechanical%20Properties%20and%20Shrinkage%20of%20Hydrophobic%20Mortar%20Containing%20Microfiber%20for%203D%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+fresh+and+mechanical+properties+and+shrinkage+of+hydrophobic+mortar+containing+microfiber+for+3d+printing+technology&as_occt=title&as_sauthors=sakolaree&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001615210300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05506" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

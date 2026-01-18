@@ -16,14 +16,15 @@ tags:
 ---
 
 #Influence of Nano-SiO2, Nano-CaCO3 and Nano-Al2O3 on Rheological Properties of Cement-Fly-Ash-Paste ([2019-08](date/2019/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/12/16/2598/pdf?version=1565858599) <a href="https://doi.org/10.3390/ma12162598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12162598" target="_blank">10.3390/ma12162598</a>
+<a href="https://www.mdpi.com/1996-1944/12/16/2598/pdf?version=1565858599" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma12162598" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma12162598" target="_blank">10.3390/ma12162598</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1007-177X" title="ORCID: 0000-0003-1007-177X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peng_yiming"><b>Peng</b>&nbsp;Yiming</a></span>, <a href="../../../author/ma_kunlin"><b>Ma</b>&nbsp;Kunlin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4765-9983" title="ORCID: 0000-0002-4765-9983" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_guangcheng"><b>Long</b>&nbsp;Guangcheng</a></span>, <a href="../../../author/xie_youjun"><b>Xie</b>&nbsp;Youjun</a></span><br>
 Journal Article - Materials, Vol. 12, Iss. 16
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Nano-SiO2%2C%20Nano-CaCO3%20and%20Nano-Al2O3%20on%20Rheological%20Properties%20of%20Cement-Fly-Ash-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+nano-sio2%2C+nano-caco3+and+nano-al2o3+on+rheological+properties+of+cement-fly-ash-paste&as_occt=title&as_sauthors=peng&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070984665&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000484464800099" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma12162598" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Advances in Formwork Automation, Structure and Materials in Concrete Construction ([2024-03](date/2024/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.autcon.2024.105373) <a href="https://doi.org/10.1016/j.autcon.2024.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105373" target="_blank">10.1016/j.autcon.2024.105373</a>
+<a href="https://doi.org/10.1016/j.autcon.2024.105373" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105373" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105373" target="_blank">10.1016/j.autcon.2024.105373</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1246-3072" title="ORCID: 0000-0003-1246-3072" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gappmeier_peter"><b>Gappmeier</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9052-577X" title="ORCID: 0000-0002-9052-577X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reichenbach_sara"><b>Reichenbach</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kromoser_benjamin"><b>Kromoser</b>&nbsp;Benjamin</a></span><br>
 Journal Article - Automation in Construction, Vol. 162, No. 105373
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advances%20in%20Formwork%20Automation%2C%20Structure%20and%20Materials%20in%20Concrete%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advances+in+formwork+automation%2C+structure+and+materials+in+concrete+construction&as_occt=title&as_sauthors=gappmeier&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85187956321&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001219172400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105373" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

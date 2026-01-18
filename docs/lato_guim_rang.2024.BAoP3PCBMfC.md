@@ -20,14 +20,15 @@ tags:
 
 #Bibliometric Analysis of Personalized 3D Printed Concrete-Based Modules for Construction&nbsp;([2024-03](date/2024/03))
 <div class="h1-like">Leveraging the Ordinatio Method</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/14/3/802/pdf?version=1710506400) <a href="https://doi.org/10.3390/buildings14030802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14030802" target="_blank">10.3390/buildings14030802</a>
+<a href="https://www.mdpi.com/2075-5309/14/3/802/pdf?version=1710506400" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings14030802" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings14030802" target="_blank">10.3390/buildings14030802</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0235-2515" title="ORCID: 0000-0002-0235-2515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/latorraca_f_tassia"><b>Latorraca</b>&nbsp;Tássia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8467-6264" title="ORCID: 0000-0002-8467-6264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span><br>
 Journal Article - Buildings, Vol. 14, Iss. 3, No. 802
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bibliometry"><button class="btn">#bibliometry</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/lever"><button class="btn">#lever</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Bibliometric%20Analysis%20of%20Personalized%203D%20Printed%20Concrete-Based%20Modules%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bibliometric+analysis+of+personalized+3d+printed+concrete-based+modules+for+construction&as_occt=title&as_sauthors=latorraca&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195156247&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001191714200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings14030802" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

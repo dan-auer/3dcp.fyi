@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical Properties of CFRP Grid Reinforced 3D Printed Concrete Arch Structures ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2025.120553) <a href="https://doi.org/10.1016/j.engstruct.2025.120553" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120553" target="_blank">10.1016/j.engstruct.2025.120553</a>
+<a href="https://doi.org/10.1016/j.engstruct.2025.120553" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2025.120553" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2025.120553" target="_blank">10.1016/j.engstruct.2025.120553</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5744-3801" title="ORCID: 0000-0002-5744-3801" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_tao"><b>Ding</b>&nbsp;Tao</a></span>, <a href="../../../author/peng_zechen"><b>Peng</b>&nbsp;Zechen</a></span>, <a href="../../../author/dong_haining"><b>Dong</b>&nbsp;Haining</a></span><br>
 Journal Article - Engineering Structures, Vol. 338, No. 120553
 
 <a href="../../keyword/arch"><button class="btn">#arch</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20of%20CFRP%20Grid%20Reinforced%203D%20Printed%20Concrete%20Arch%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+of+cfrp+grid+reinforced+3d+printed+concrete+arch+structures&as_occt=title&as_sauthors=ding&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005413874&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001500668200004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2025.120553" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

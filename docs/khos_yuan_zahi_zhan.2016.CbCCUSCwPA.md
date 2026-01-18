@@ -16,14 +16,15 @@ tags:
 ---
 
 #Construction by Contour Crafting Using Sulfur-Concrete with Planetary Applications ([2016-08](date/2016/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/rpj-11-2015-0165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-11-2015-0165" target="_blank">10.1108/rpj-11-2015-0165</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/rpj-11-2015-0165" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/rpj-11-2015-0165" target="_blank">10.1108/rpj-11-2015-0165</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-4638-8891" title="ORCID: 0000-0003-4638-8891" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b>&nbsp;Behrokh</a></span>, <a href="../../../author/yuan_xiao"><b>Yuan</b>&nbsp;Xiao</a></span>, <a href="../../../author/zahiri_behnam"><b>Zahiri</b>&nbsp;Behnam</a></span>, <a href="../../../author/zhang_jing"><b>Zhang</b>&nbsp;Jing</a></span>, <a href="../../../author/xia_bin"><b>Xia</b>&nbsp;Bin</a></span><br>
 Journal Article - Rapid Prototyping Journal, Vol. 22, Iss. 5, pp. 848-856
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/planetary"><button class="btn">#planetary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Construction%20by%20Contour%20Crafting%20Using%20Sulfur-Concrete%20with%20Planetary%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=construction+by+contour+crafting+using+sulfur-concrete+with+planetary+applications&as_occt=title&as_sauthors=khoshnevis&as_ylo=2014&as_yhi=2018&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84988493708&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000385750900011" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/rpj-11-2015-0165" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Brumaud Coralie 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-8892-9214" target="_blank">0000-0002-8892-9214</a>
+
+    First Contribution
+    : 2020-07-08
+    
+    Last Contribution
+    : 2025-01-10
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 45
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> (6)</li>
+        <li><a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a> (3)</li>
+        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (3)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (3)</li>
+        <li><a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/brumaud_coralie"><b>Brumaud</b> Coralie</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../vone_odag_brum_dill.2021.FCt3PG/">From Casting to 3D Printing Geopolymers:<br/>A Proof of Concept</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (12)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (11)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (8)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (8)</li>
+        <li><a href="../../../author/habert_guillaume"><b>Habert</b> Guillaume</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (6)</li>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (4)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (4)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (4)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/posani_magda"><b>Posani</b> Magda</a>, <a href="../../../author/voney_vera"><b>Voney</b> Vera</a>, <a href="../../../author/odaglia_pietro"><b>Odaglia</b> Pietro</a>, <a href="../../../author/du_yi"><b>Du</b> Yi</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../posa_vone_odag_du.2025.LCIHRv3PSBC/">Low-Carbon Indoor Humidity Regulation via 3D Printed Superhygroscopic Building Components</a></li>
   <li><a href="../../../author/vasey_lauren"><b>Vasey</b> Lauren</a>, <a href="../../../author/chadha_kunaljit"><b>Chadha</b> Kunaljit</a>, <a href="../../../author/kango_ananya"><b>Kango</b> Ananya</a>, <a href="../../../author/leung_victor"><b>Leung</b> Victor</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../vase_chad_kang_leun.2024.IP/">Impact Printing:<br/>A Novel Robotic Additive Manufacturing Method for Circular, High-Volume Construction</a></li>

@@ -22,14 +22,15 @@ tags:
 
 #Automated Inspection in Robotic 3D Printing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">In-Process Geometrical Measurements Using Structured Light Machine Vision</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jccee5.cpeng-7059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-7059" target="_blank">10.1061/jccee5.cpeng-7059</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jccee5.cpeng-7059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-7059" target="_blank">10.1061/jccee5.cpeng-7059</a>
 
 <a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/martin_michael"><b>Martin</b>&nbsp;Michael</a></span>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Inspection%20in%20Robotic%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+inspection+in+robotic+3d+printing&as_occt=title&as_sauthors=banijamali&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022410068&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jccee5.cpeng-7059" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

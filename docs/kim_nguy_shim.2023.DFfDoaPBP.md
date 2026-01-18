@@ -15,14 +15,15 @@ tags:
 ---
 
 #Digital Fabrication for DfMA of a Prefabricated Bridge Pier ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-19-7331-4_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-7331-4_24" target="_blank">10.1007/978-981-19-7331-4_24</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-19-7331-4_24" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-19-7331-4_24" target="_blank">10.1007/978-981-19-7331-4_24</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7233-9892" title="ORCID: 0009-0005-7233-9892" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_kyung_tae"><b>Kim</b>&nbsp;Tae</a></span>, <a href="../../../author/nguyen_chong_duy"><b>Nguyen</b>&nbsp;Duy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7557-9553" title="ORCID: 0000-0001-7557-9553" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shim_su_chang"><b>Shim</b>&nbsp;Chang</a></span><br>
 Contribution - Proceedings of the 17th East Asian-Pacific Conference on Structural Engineering and Construction
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/dfma"><button class="btn">#dfma</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20for%20DfMA%20of%20a%20Prefabricated%20Bridge%20Pier" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+for+dfma+of+a+prefabricated+bridge+pier&as_occt=title&as_sauthors=kim&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85151152820&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001006501200024" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-19-7331-4_24" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

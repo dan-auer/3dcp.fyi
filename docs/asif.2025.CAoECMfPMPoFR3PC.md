@@ -22,14 +22,15 @@ tags:
 ---
 
 #Comparative Analysis of Evolutionary Computational Methods for Predicting Mechanical Properties of Fiber-Reinforced 3D Printed Concrete ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s41062-025-02057-z.pdf) <a href="https://doi.org/10.1007/s41062-025-02057-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-02057-z" target="_blank">10.1007/s41062-025-02057-z</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s41062-025-02057-z.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41062-025-02057-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41062-025-02057-z" target="_blank">10.1007/s41062-025-02057-z</a>
 
 <a href="../../../author/asif_usama"><b>Asif</b>&nbsp;Usama</a></span><br>
 Journal Article - Innovative Infrastructure Solutions, Vol. 10, Iss. 6
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/computer"><button class="btn">#computer</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Evolutionary%20Computational%20Methods%20for%20Predicting%20Mechanical%20Properties%20of%20Fiber-Reinforced%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+analysis+of+evolutionary+computational+methods+for+predicting+mechanical+properties+of+fiber-reinforced+3d+printed+concrete&as_occt=title&as_sauthors=asif&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006830182&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41062-025-02057-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

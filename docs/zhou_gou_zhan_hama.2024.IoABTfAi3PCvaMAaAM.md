@@ -18,14 +18,15 @@ tags:
 ---
 
 #Investigation of Activated Bauxite-Tailings for Application in 3D Printed Concrete via a Modified Anderson and Anderson-Model ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2024.111516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111516" target="_blank">10.1016/j.jobe.2024.111516</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2024.111516" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2024.111516" target="_blank">10.1016/j.jobe.2024.111516</a>
 
 <a href="../../../author/zhou_longfei"><b>Zhou</b>&nbsp;Longfei</a></span>, <a href="../../../author/gou_mifeng"><b>Gou</b>&nbsp;Mifeng</a></span>, <a href="../../../author/zhang_haibo"><b>Zhang</b>&nbsp;Haibo</a></span>, <a href="../../../author/hama_yukio"><b>Hama</b>&nbsp;Yukio</a></span><br>
 Journal Article - Journal of Building Engineering, No. 111516
 
 <a href="../../keyword/activation"><button class="btn">#activation</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tailing"><button class="btn">#tailing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20of%20Activated%20Bauxite-Tailings%20for%20Application%20in%203D%20Printed%20Concrete%20via%20a%20Modified%20Anderson%20and%20Anderson-Model" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+of+activated+bauxite-tailings+for+application+in+3d+printed+concrete+via+a+modified+anderson+and+anderson-model&as_occt=title&as_sauthors=zhou&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211339201&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001383389800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2024.111516" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

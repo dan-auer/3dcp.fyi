@@ -20,14 +20,15 @@ tags:
 
 #Autonomous Building Design for Manufacturing and Assembly&nbsp;([2024-06](date/2024/06))
 <div class="h1-like">A Systematic Review of Design Application, Challenges, and Opportunities</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jcemd4.coeng-13472" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jcemd4.coeng-13472" target="_blank">10.1061/jcemd4.coeng-13472</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jcemd4.coeng-13472" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jcemd4.coeng-13472" target="_blank">10.1061/jcemd4.coeng-13472</a>
 
 <a href="../../../author/sadoughi_arezou"><b>Sadoughi</b>&nbsp;Arezou</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9772-8190" title="ORCID: 0000-0002-9772-8190" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kouhirostami_maryam"><b>Kouhirostami</b>&nbsp;Maryam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5241-4983" title="ORCID: 0000-0001-5241-4983" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kouhirostamkolaei_mahtab"><b>Kouhirostamkolaei</b>&nbsp;Mahtab</a></span>, <a href="../../../author/qi_bing"><b>Qi</b>&nbsp;Bing</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4263-8101" title="ORCID: 0000-0003-4263-8101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costin_aaron"><b>Costin</b>&nbsp;Aaron</a></span><br>
 Journal Article - Journal of Construction Engineering and Management, Vol. 150, Iss. 9
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Autonomous%20Building%20Design%20for%20Manufacturing%20and%20Assembly" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=autonomous+building+design+for+manufacturing+and+assembly&as_occt=title&as_sauthors=sadoughi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197132742&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001270877400022" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jcemd4.coeng-13472" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

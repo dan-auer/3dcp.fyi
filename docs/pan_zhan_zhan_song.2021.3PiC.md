@@ -15,14 +15,15 @@ tags:
 
 #3D Printing in Construction&nbsp;([2021-05](date/2021/05))
 <div class="h1-like">State of the Art and Applications</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-021-07213-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-07213-0" target="_blank">10.1007/s00170-021-07213-0</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00170-021-07213-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-021-07213-0" target="_blank">10.1007/s00170-021-07213-0</a>
 
 <a href="../../../author/pan_yifan"><b>Pan</b>&nbsp;Yifan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4178-0368" title="ORCID: 0000-0003-4178-0368" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_yulu"><b>Zhang</b>&nbsp;Yulu</a></span>, <a href="../../../author/zhang_dakang"><b>Zhang</b>&nbsp;Dakang</a></span>, <a href="../../../author/song_yuying"><b>Song</b>&nbsp;Yuying</a></span><br>
 Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 115, Iss. 5-6, pp. 1329-1348
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/state"><button class="btn">#state</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+in+construction&as_occt=title&as_sauthors=pan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105990862&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000650834400005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00170-021-07213-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

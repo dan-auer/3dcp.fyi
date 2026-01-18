@@ -13,14 +13,15 @@ tags:
 ---
 
 #BIM for 3D Printing in Construction ([2018-10](date/2018/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-319-92862-3_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92862-3_26" target="_blank">10.1007/978-3-319-92862-3_26</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-92862-3_26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92862-3_26" target="_blank">10.1007/978-3-319-92862-3_26</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8071-895X" title="ORCID: 0000-0001-8071-895X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teizer_jochen"><b>Teizer</b>&nbsp;Jochen</a></span>, <a href="../../../author/blickle_alexander"><b>Blickle</b>&nbsp;Alexander</a></span>, <a href="../../../author/king_tobias"><b>King</b>&nbsp;Tobias</a></span>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b>&nbsp;Olaf</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3360-6469" title="ORCID: 0000-0002-3360-6469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/guenther_daniel"><b>Guenther</b>&nbsp;Daniel</a></span>, <a href="../../../author/mattern_hannah"><b>Mattern</b>&nbsp;Hannah</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2729-7743" title="ORCID: 0000-0002-2729-7743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/konig_markus"><b>König</b>&nbsp;Markus</a></span><br>
 Contribution - Building Information Modeling, pp. 421-446
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=BIM%20for%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=bim+for+3d+printing+in+construction&as_occt=title&as_sauthors=teizer&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85060756509&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-92862-3_26" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

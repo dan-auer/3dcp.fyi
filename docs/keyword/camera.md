@@ -8,6 +8,10 @@ search:
 
 # #camera
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/base"><button class="btn">#base (2)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (2)</button></a> <a href="../../keyword/bed"><button class="btn">#bed (1)</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/talaei_ardeshir"><b>Talaei</b> Ardeshir</a>, <a href="../../../author/florenzano_daniele"><b>Florenzano</b> Daniele</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bres_tala_flor_nabo.2023.SE/">Shape-Env:<br/>Camera-Enhanced Robotic Terrain-Shaping for Complex 3D Concrete Printing</a></li>
   <li><a href="../../../author/nistler_maximilian"><b>Nistler</b> Maximilian</a>, <a href="../../../author/kovaleva_daria"><b>Kovaleva</b> Daria</a>, <a href="../../../author/tepper_louis"><b>Tepper</b> Louis</a>, <a href="../../../author/blandini_lucio"><b>Blandini</b> Lucio</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../nist_kova_tepp_blan.2022.CBPMfPBAMiC/">Camera-Based Process Monitoring for Powder-Bed Additive Manufacturing in Construction</a></li>

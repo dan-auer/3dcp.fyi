@@ -19,14 +19,15 @@ tags:
 ---
 
 #Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures ([2023-10](date/2023/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2023.105119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105119" target="_blank">10.1016/j.autcon.2023.105119</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2023.105119" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2023.105119" target="_blank">10.1016/j.autcon.2023.105119</a>
 
 <a href="../../../author/wang_shih-yuan"><b>Wang</b>&nbsp;Shih-Yuan</a></span>, <a href="../../../author/liong_sze-teng"><b>Liong</b>&nbsp;Sze-Teng</a></span>, <a href="../../../author/gan_s_y"><b>Gan</b>&nbsp;Y.</a></span>, <a href="../../../author/sheng_yu-ting"><b>Sheng</b>&nbsp;Yu-Ting</a></span><br>
 Journal Article - Automation in Construction, Vol. 156, No. 105119
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cost"><button class="btn">#cost</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/irregularity"><button class="btn">#irregularity</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Cost-Effective%20Concrete%20Fabrication%20for%20Large%20Irregularly%20Shaped%20Architectural%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cost-effective+concrete+fabrication+for+large+irregularly+shaped+architectural+structures&as_occt=title&as_sauthors=wang&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173805551&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001149007900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2023.105119" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

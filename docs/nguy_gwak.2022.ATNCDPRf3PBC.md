@@ -22,14 +22,15 @@ tags:
 
 #A Two-Nozzle Cable-Driven Parallel Robot for 3D Printing Building Construction&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">Path-Optimization and Vibration Analysis</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.researchsquare.com/article/rs-1036880/latest.pdf) <a href="https://doi.org/10.1007/s00170-022-08919-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-022-08919-5" target="_blank">10.1007/s00170-022-08919-5</a>
+<a href="https://www.researchsquare.com/article/rs-1036880/latest.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00170-022-08919-5" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-022-08919-5" target="_blank">10.1007/s00170-022-08919-5</a>
 
 <a href="../../../author/nguyen-van_sy"><b>Nguyen-Van</b>&nbsp;Sy</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9170-3139" title="ORCID: 0000-0001-9170-3139" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gwak_kwan-woong"><b>Gwak</b>&nbsp;Kwan-Woong</a></span><br>
 Journal Article - The International Journal of Advanced Manufacturing Technology, Vol. 120, Iss. 5-6, pp. 3325-3338
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cable"><button class="btn">#cable</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/parallel"><button class="btn">#parallel</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Two-Nozzle%20Cable-Driven%20Parallel%20Robot%20for%203D%20Printing%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+two-nozzle+cable-driven+parallel+robot+for+3d+printing+building+construction&as_occt=title&as_sauthors=nguyen-van&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125534131&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000763326300003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00170-022-08919-5" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

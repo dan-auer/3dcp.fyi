@@ -8,6 +8,10 @@ search:
 
 # #character
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (4)</button></a> <a href="../../keyword/base"><button class="btn">#base (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a>, <a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../scho_husk_koch_stra.2025.AFfCtRIoa3CM/">A Framework for Characterising the Reflection Intensity of a 3D-CP Mortar</a></li>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>

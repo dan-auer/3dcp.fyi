@@ -12,14 +12,15 @@ tags:
 ---
 
 #Genealogy of Construction Robotics ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.autcon.2024.105607" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105607" target="_blank">10.1016/j.autcon.2024.105607</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2024.105607" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2024.105607" target="_blank">10.1016/j.autcon.2024.105607</a>
 
 <a href="../../../author/wang_tingpeng"><b>Wang</b>&nbsp;Tingpeng</a></span>, <a href="../../../author/mao_chao"><b>Mao</b>&nbsp;Chao</a></span>, <a href="../../../author/sun_bing"><b>Sun</b>&nbsp;Bing</a></span>, <a href="../../../author/li_zhiqiang"><b>Li</b>&nbsp;Zhiqiang</a></span><br>
 Journal Article - Automation in Construction, Vol. 166, No. 105607
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Genealogy%20of%20Construction%20Robotics" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=genealogy+of+construction+robotics&as_occt=title&as_sauthors=wang&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197636420&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267603500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2024.105607" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

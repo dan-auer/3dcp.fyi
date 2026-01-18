@@ -19,14 +19,15 @@ tags:
 ---
 
 #Real-Time Data Exchange Robot-Control Integration for Fabrication Information Modeling ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://mediatum.ub.tum.de/doc/1719838/document.pdf) <a href="https://doi.org/10.22260/isarc2023/0016" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0016" target="_blank">10.22260/isarc2023/0016</a>
+<a href="https://mediatum.ub.tum.de/doc/1719838/document.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2023/0016" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2023/0016" target="_blank">10.22260/isarc2023/0016</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <a href="../../../author/helou_jalal"><b>Helou</b>&nbsp;Jalal</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
 Contribution - Proceedings of the 40th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/information"><button class="btn">#information</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Data%20Exchange%20Robot-Control%20Integration%20for%20Fabrication%20Information%20Modeling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=real-time+data+exchange+robot-control+integration+for+fabrication+information+modeling&as_occt=title&as_sauthors=slepicka&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172868574&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2023/0016" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

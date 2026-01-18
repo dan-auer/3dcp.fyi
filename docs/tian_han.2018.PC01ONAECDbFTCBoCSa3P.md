@@ -22,14 +22,15 @@ tags:
 ---
 
 #Pore Characteristics (>0.1mm) Of Non-Air-Entrained Concrete Destroyed by Freeze-Thaw-Cycles Based on CT Scanning and 3D Printing ([2018-04](date/2018/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.sciencedirect.com/science/article/am/pii/S0165232X16302166) <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" target="_blank">10.1016/j.coldregions.2018.03.027</a>
+<a href="https://www.sciencedirect.com/science/article/am/pii/S0165232X16302166" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.coldregions.2018.03.027" target="_blank">10.1016/j.coldregions.2018.03.027</a>
 
 <a href="../../../author/tian_wei"><b>Tian</b>&nbsp;Wei</a></span>, <a href="../../../author/han_nv"><b>Han</b>&nbsp;Nv</a></span><br>
 Journal Article - Cold Regions Science and Technology, Vol. 151, pp. 314-322
 
 <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/destructive"><button class="btn">#destructive</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/freeze"><button class="btn">#freeze</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/thaw"><button class="btn">#thaw</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pore%20Characteristics%20%28%3E0.1mm%29%20Of%20Non-Air-Entrained%20Concrete%20Destroyed%20by%20Freeze-Thaw-Cycles%20Based%20on%20CT%20Scanning%20and%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pore+characteristics+%28%3E0.1mm%29+of+non-air-entrained+concrete+destroyed+by+freeze-thaw-cycles+based+on+ct+scanning+and+3d+printing&as_occt=title&as_sauthors=tian&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85045571962&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000432682200030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.coldregions.2018.03.027" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

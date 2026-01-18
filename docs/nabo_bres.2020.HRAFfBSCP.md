@@ -17,14 +17,15 @@ tags:
 ---
 
 #High-Resolution Additive Formwork for Building-Scale Concrete Panels ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://findresearcher.sdu.dk/ws/files/174412079/Naboni_Breseghello_High_Resolution_Additive_Formwork_for_Building_Scale_Concrete_Panels.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_91" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_91" target="_blank">10.1007/978-3-030-49916-7_91</a>
+<a href="https://findresearcher.sdu.dk/ws/files/174412079/Naboni_Breseghello_High_Resolution_Additive_Formwork_for_Building_Scale_Concrete_Panels.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_91" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_91" target="_blank">10.1007/978-3-030-49916-7_91</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9647-0426" title="ORCID: 0000-0001-9647-0426" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/naboni_roberto"><b>Naboni</b>&nbsp;Roberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 936-945
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/resolution"><button class="btn">#resolution</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=High-Resolution%20Additive%20Formwork%20for%20Building-Scale%20Concrete%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=high-resolution+additive+formwork+for+building-scale+concrete+panels&as_occt=title&as_sauthors=naboni&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088276122&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_91" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

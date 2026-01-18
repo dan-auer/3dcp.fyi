@@ -17,14 +17,15 @@ tags:
 ---
 
 #Characterization of 3D Printed Concrete Beams After Exposure to High Temperature ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003348443-62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003348443-62" target="_blank">10.1201/9781003348443-62</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003348443-62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003348443-62" target="_blank">10.1201/9781003348443-62</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1472-2840" title="ORCID: 0000-0003-1472-2840" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shkundalova_olena"><b>Shkundalova</b>&nbsp;Olena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3401-9047" title="ORCID: 0000-0002-3401-9047" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/molkens_tom"><b>Molkens</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7763-8438" title="ORCID: 0000-0002-7763-8438" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/classen_martin"><b>Claßen</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6228-0309" title="ORCID: 0000-0001-6228-0309" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_barbara"><b>Rossi</b>&nbsp;Barbara</a></span><br>
 Contribution - Proceedings of The Eighth International Conference on Structural Engineering, Mechanics and Computation, pp. 380-386
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/characteristic"><button class="btn">#characteristic</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exposure"><button class="btn">#exposure</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Characterization%20of%203D%20Printed%20Concrete%20Beams%20After%20Exposure%20to%20High%20Temperature" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=characterization+of+3d+printed+concrete+beams+after+exposure+to+high+temperature&as_occt=title&as_sauthors=shkundalova&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145614889&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001228430000062" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003348443-62" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

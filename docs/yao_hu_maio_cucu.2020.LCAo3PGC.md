@@ -17,14 +17,15 @@ tags:
 
 #Life Cycle Assessment of 3D Printing Geopolymer Concrete&nbsp;([2019-08](date/2019/08))
 <div class="h1-like">An Ex‐Ante Study</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jiec.12930) <a href="https://doi.org/10.1111/jiec.12930" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jiec.12930" target="_blank">10.1111/jiec.12930</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jiec.12930" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1111/jiec.12930" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1111/jiec.12930" target="_blank">10.1111/jiec.12930</a>
 
 <a href="../../../author/yao_yue"><b>Yao</b>&nbsp;Yue</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0021-0633" title="ORCID: 0000-0003-0021-0633" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hu_mingming"><b>Hu</b>&nbsp;Mingming</a></span>, <a href="../../../author/maio_francesco"><b>di&nbsp;Maio</b>&nbsp;Francesco</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2748-655X" title="ORCID: 0000-0003-2748-655X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cucurachi_stefano"><b>Cucurachi</b>&nbsp;Stefano</a></span><br>
 Journal Article - Journal of Industrial Ecology, Vol. 24, Iss. 1, pp. 116-127
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%203D%20Printing%20Geopolymer%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+3d+printing+geopolymer+concrete&as_occt=title&as_sauthors=yao&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070776717&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000481267700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1111/jiec.12930" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

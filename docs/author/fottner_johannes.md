@@ -9,6 +9,60 @@ search:
 
 #  Fottner Johannes 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6392-0371" target="_blank">0000-0001-6392-0371</a>
+
+    First Contribution
+    : 2022-04-21
+    
+    Last Contribution
+    : 2024-08-12
+
+    Number Contributions
+    : 3
+
+    Number Citations
+    : 14
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a> (3)</li>
+        <li><a href="../../../author/kessler_stephan"><b>Kessler</b> Stephan</a> (2)</li>
+        <li><a href="../../../author/tan_yuan"><b>Tan</b> Yuan</a> (2)</li>
+        <li><a href="../../../author/li_mengxue"><b>Li</b> Mengxue</a> (1)</li>
+        <li><a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../dahl_hech_matt_fott.2022.3CP/">3D Concrete Printing:<br/>Graded Concrete-Extrusion</a> (8)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (3)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> (3)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (3)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (3)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (4)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
+        <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> (3)</li>
+        <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> (2)</li>
+        <li><a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/tan_yuan"><b>Tan</b> Yuan</a>, <a href="../../../author/li_mengxue"><b>Li</b> Mengxue</a>, <a href="../../../author/ajmal_moshin"><b>Ajmal</b> Moshin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dahl_tan_li_ajma.2024.AFaECMfDESoAMiC/">A Flexible and Efficient Calibration Method for Discrete Element Simulations of Additive Manufacturing in Construction</a></li>
   <li><a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/matthaus_irmgard-ingeborg_carla"><b>Matthäus</b> Carla</a>, <a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../dahl_hech_matt_fott.2022.3CP/">3D Concrete Printing:<br/>Graded Concrete-Extrusion</a></li>

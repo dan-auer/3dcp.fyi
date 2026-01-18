@@ -9,6 +9,60 @@ search:
 
 #  Hojati Maryam 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-6043-7173" target="_blank">0000-0001-6043-7173</a>
+
+    First Contribution
+    : 2018-04-13
+    
+    Last Contribution
+    : 2025-07-15
+
+    Number Contributions
+    : 19
+
+    Number Citations
+    : 249
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (9)</li>
+        <li><a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> (9)</li>
+        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (8)</li>
+        <li><a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> (7)</li>
+        <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> (7)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a> (97)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (54)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (48)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (46)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (35)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (33)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (6)</li>
+        <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a> (5)</li>
+        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (5)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (5)</li>
+        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
   <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>

@@ -8,7 +8,12 @@ search:
 
 # #replacement
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (15)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (14)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (9)</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability (8)</button></a> <a href="../../keyword/property"><button class="btn">#property (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/gencel_osman"><b>Gencel</b> Osman</a>, <a href="../../../author/er_yusuf"><b>Er</b> Yusuf</a>, <a href="../../../author/guler_onur"><b>Güler</b> Onur</a>, <a href="../../../author/ustaoglu_abid"><b>Ustaoğlu</b> Abid</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../genc_er_gule_usta.2026.RNAwPCMB3PAiCfSFaDTES/">Replacing Natural Aggregates with Phase Change Material-Based 3D Printed Aggregates in Concrete for Structural Function and Dual Thermal Energy Storage</a></li>
   <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/chau_bao"><b>Chau</b> Bao</a>, <a href="../../../author/tugelbayev_aidyn"><b>Tugelbayev</b> Aidyn</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kama_chau_tuge_mcco.2025.D3PCUQbPaPRfC/">Developing 3D Printable Concrete Using Quarry by-Products as Partial Replacement for Cement</a></li>
   <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a>, <a href="../../../author/shi_a"><b>Shi</b> A.</a>, <a href="../../../author/kajandran_v"><b>Kajandran</b> V.</a>, <a href="../../../author/lam_w-m_t"><b>Lam</b> T.</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kua_shi_kaja_lam.2025.TSC3P/">Toward Sustainable Construction 3D Printing:<br/>Limestone and Non-Calcined Recycled Marine Clay as Partial Cement Replacement</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>

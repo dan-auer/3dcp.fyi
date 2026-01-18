@@ -8,6 +8,10 @@ search:
 
 # #thixotropy
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (8)</button></a> <a href="../../keyword/print"><button class="btn">#print (8)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/printability"><button class="btn">#printability (6)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_maie_kawa_perr.2024.SPo3PFCMbATCPUEDMA/">Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis</a></li>
   <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a></li>

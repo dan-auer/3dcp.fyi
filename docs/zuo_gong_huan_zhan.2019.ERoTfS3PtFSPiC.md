@@ -17,14 +17,15 @@ tags:
 ---
 
 #Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction ([2019-03](date/2019/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" target="_blank">10.1016/j.conbuildmat.2019.02.171</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2019.02.171" target="_blank">10.1016/j.conbuildmat.2019.02.171</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0900-5433" title="ORCID: 0000-0003-0900-5433" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zuo_zibo"><b>Zuo</b>&nbsp;Zibo</a></span>, <a href="../../../author/gong_jian"><b>Gong</b>&nbsp;Jian</a></span>, <a href="../../../author/huang_yulin"><b>Huang</b>&nbsp;Yulin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0287-7776" title="ORCID: 0000-0002-0287-7776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhan_yijian"><b>Zhan</b>&nbsp;Yijian</a></span>, <a href="../../../author/gong_ming"><b>Gong</b>&nbsp;Ming</a></span>, <a href="../../../author/zhang_lulu"><b>Zhang</b>&nbsp;Lulu</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 208, pp. 350-360
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/full"><button class="btn">#full</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/size"><button class="btn">#size</button></a> <a href="../../keyword/transition"><button class="btn">#transition</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Research%20on%20Transition%20from%20Scale%203D%20Printing%20to%20Full-Size%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+research+on+transition+from+scale+3d+printing+to+full-size+printing+in+construction&as_occt=title&as_sauthors=zuo&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85062509836&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000466821900031" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2019.02.171" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

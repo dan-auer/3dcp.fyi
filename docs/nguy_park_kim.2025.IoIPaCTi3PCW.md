@@ -18,14 +18,15 @@ tags:
 ---
 
 #Impacts of Infill Patterns and Curve Types in 3D Printed Clay Walls ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2025.114758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114758" target="_blank">10.1016/j.jobe.2025.114758</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114758" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114758" target="_blank">10.1016/j.jobe.2025.114758</a>
 
 <span class="author"><a href="https://orcid.org/0009-0005-7368-6933" title="ORCID: 0009-0005-7368-6933" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nguyen_thao_trang"><b>Nguyen</b>&nbsp;Trang</a></span>, <a href="../../../author/park_jaejun"><b>Park</b>&nbsp;Jaejun</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6839-8455" title="ORCID: 0000-0001-6839-8455" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kim_dong-hyun"><b>Kim</b>&nbsp;Dong-Hyun</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114758
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/imapct"><button class="btn">#imapct</button></a> <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/type"><button class="btn">#type</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Impacts%20of%20Infill%20Patterns%20and%20Curve%20Types%20in%203D%20Printed%20Clay%20Walls" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=impacts+of+infill+patterns+and+curve+types+in+3d+printed+clay+walls&as_occt=title&as_sauthors=nguyen&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114758" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

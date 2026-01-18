@@ -19,14 +19,15 @@ tags:
 ---
 
 #Exploratory Study on the Rheological Behaviour of 3D Printable Mortars Incorporating Fine Recycled Concrete Aggregates (FRCA) ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.matec-conferences.org/articles/matecconf/pdf/2025/03/matecconf_cs2025_06005.pdf) <a href="https://doi.org/10.1051/matecconf/202540906005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202540906005" target="_blank">10.1051/matecconf/202540906005</a>
+<a href="https://www.matec-conferences.org/articles/matecconf/pdf/2025/03/matecconf_cs2025_06005.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1051/matecconf/202540906005" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1051/matecconf/202540906005" target="_blank">10.1051/matecconf/202540906005</a>
 
 <a href="../../../author/sbardelotto_kloeckner_eduardo"><b>Sbardelotto</b>&nbsp;Eduardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2930-9661" title="ORCID: 0000-0003-2930-9661" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vieira_gomes_manuel"><b>Vieira</b>&nbsp;Manuel</a></span>, <a href="../../../author/ferreira-dos-santos_karyne"><b>Ferreira dos Santos</b>&nbsp;Karyne</a></span>, <a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b>&nbsp;Samuel</a></span>, <a href="../../../author/martins-toralles_berenice"><b>Martins Toralles</b>&nbsp;Berenice</a></span><br>
 Journal Article - MATEC Web of Conferences, Vol. 409, No. 06005
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploratory%20Study%20on%20the%20Rheological%20Behaviour%20of%203D%20Printable%20Mortars%20Incorporating%20Fine%20Recycled%20Concrete%20Aggregates%20%28FRCA%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploratory+study+on+the+rheological+behaviour+of+3d+printable+mortars+incorporating+fine+recycled+concrete+aggregates+%28frca%29&as_occt=title&as_sauthors=sbardelotto&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1051/matecconf/202540906005" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

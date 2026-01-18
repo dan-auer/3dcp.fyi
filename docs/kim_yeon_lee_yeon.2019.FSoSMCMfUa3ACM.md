@@ -18,14 +18,15 @@ tags:
 ---
 
 #Feasibility Study of SBR-Modified Cementitious Mixtures for Use as 3D Additive Construction Materials ([2019-08](date/2019/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4360/11/8/1321/pdf?version=1565851262) <a href="https://doi.org/10.3390/polym11081321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym11081321" target="_blank">10.3390/polym11081321</a>
+<a href="https://www.mdpi.com/2073-4360/11/8/1321/pdf?version=1565851262" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/polym11081321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym11081321" target="_blank">10.3390/polym11081321</a>
 
 <a href="../../../author/kim_kyu_kwan"><b>Kim</b>&nbsp;Kwan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3603-8305" title="ORCID: 0000-0002-3603-8305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yeon_jaeheum"><b>Yeon</b>&nbsp;Jaeheum</a></span>, <a href="../../../author/lee_jun_hee"><b>Lee</b>&nbsp;Hee</a></span>, <a href="../../../author/yeon_kyu-seok"><b>Yeon</b>&nbsp;Kyu-Seok</a></span><br>
 Journal Article - Polymers, Vol. 11, Iss. 8
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Feasibility%20Study%20of%20SBR-Modified%20Cementitious%20Mixtures%20for%20Use%20as%203D%20Additive%20Construction%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=feasibility+study+of+sbr-modified+cementitious+mixtures+for+use+as+3d+additive+construction+materials&as_occt=title&as_sauthors=kim&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85070906620&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000484552900091" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/polym11081321" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

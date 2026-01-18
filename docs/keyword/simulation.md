@@ -8,7 +8,12 @@ search:
 
 # #simulation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (61)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (57)</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric (26)</button></a> <a href="../../keyword/model"><button class="btn">#model (17)</button></a> <a href="../../keyword/process"><button class="btn">#process (16)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/mohammed_salhah"><b>Mohammed</b> Salhah</a>, <a href="../../../author/aljewifi_hana"><b>Aljewifi</b> Hana</a>, <a href="../../../author/jldain_bu_hafeth"><b>Jldain</b> Hafeth</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../moha_alje_jlda.2025.ECSi3PCS/">Evaluating Compressive Strength in 3D-Printed Concrete Structures:<br/>A Comparative Study of ANSYS Simulations and Experimental Data</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/vugteveen_caiden"><b>Vugteveen</b> Caiden</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/wei_hui"><b>Wei</b> Hui</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rodr_vugt_fros_wei.2026.3PoCBMUSfSME/">3D Printing of Cement-Based Materials Using Seawater for Simulated Marine Environments</a></li>
   <li><a href="../../../author/li_liqing"><b>Li</b> Liqing</a>, <a href="../../../author/shi_zhenkun"><b>Shi</b> Zhenkun</a>, <a href="../../../author/wang_lei"><b>Wang</b> Lei</a>, <a href="../../../author/sui_yi"><b>Sui</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../li_shi_wang_sui.2025.3PoSLSGaAoIWSaAP/">3D Printing of Simulated Lunar Soil Geopolymer and Analysis of Its Weak Surface and Anisotropic Performance</a></li>
   <li><a href="../../../author/sunny_g_akash"><b>Sunny</b> Akash</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sunn_jaya.2025.UtPSoC3PM/">Unveiling the Printing Success of Concrete 3D Printed Models:<br/>A Simulation Study with Voxel Print and Abaqus Using Design of Experiments</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s41939-025-00997-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41939-025-00997-8" target="_blank">10.1007/s41939-025-00997-8</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s41939-025-00997-8" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s41939-025-00997-8" target="_blank">10.1007/s41939-025-00997-8</a>
 
 <span class="author"><a href="https://orcid.org/0009-0004-1954-0717" title="ORCID: 0009-0004-1954-0717" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abid_ali_khasim"><b>Abid</b>&nbsp;Khasim</a></span>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b>&nbsp;Sajid</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6629-4257" title="ORCID: 0000-0001-6629-4257" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khan_majid"><b>Khan</b>&nbsp;Majid</a></span><br>
 Journal Article - Multiscale and Multidisciplinary Modeling, Experiments and Design, Vol. 8, Iss. 9
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/explainability"><button class="btn">#explainability</button></a> <a href="../../keyword/interlayer"><button class="btn">#interlayer</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Explainable%20Machine%20Learning-Based%20Model%20for%20Predicting%20Interlayer%20Bond%20Strength%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=explainable+machine+learning-based+model+for+predicting+interlayer+bond+strength+in+3d+printed+concrete&as_occt=title&as_sauthors=abid&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105013300323&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s41939-025-00997-8" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

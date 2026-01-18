@@ -8,6 +8,10 @@ search:
 
 # #standard
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (10)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> <a href="../../keyword/design"><button class="btn">#design (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_lomb.2025.ASDWfOSMPaGo3/">A Streamlined Decentralised Workflow for Obtaining Specific Mechanical Performance and Grade of 3DPC:<br/>Towards the Standardisation and Industrialisation of 3DCP</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a>, <a href="../../../author/dounas_theodoros"><b>Dounas</b> Theodoros</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marc_lomb_doun_agka.2025.ATFftSaIo3CPTDS/">A Theoretical Framework for the Standardisation and Industrialisation of 3D Concrete Printing Through Decentralised Science</a></li>

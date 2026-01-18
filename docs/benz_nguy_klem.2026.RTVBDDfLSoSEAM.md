@@ -27,14 +27,15 @@ tags:
 
 #Real-Time Vision-Based Defect Detection for Large-Scale on-Site Earthen Additive Manufacturing&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Annotated Dataset and Dual-Model Framework</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.autcon.2025.106666" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106666" target="_blank">10.1016/j.autcon.2025.106666</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2025.106666" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2025.106666" target="_blank">10.1016/j.autcon.2025.106666</a>
 
 <span class="author"><a href="https://orcid.org/0009-0002-3717-252X" title="ORCID: 0009-0002-3717-252X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benz_hendrik"><b>Benz</b>&nbsp;Hendrik</a></span>, <a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b>&nbsp;The</a></span>, <a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b>&nbsp;Katharina</a></span><br>
 Journal Article - Automation in Construction, Vol. 181, No. 106666
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/annotation"><button class="btn">#annotation</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/database"><button class="btn">#database</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Real-Time%20Vision-Based%20Defect%20Detection%20for%20Large-Scale%20on-Site%20Earthen%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=real-time+vision-based+defect+detection+for+large-scale+on-site+earthen+additive+manufacturing&as_occt=title&as_sauthors=benz&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001625409800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2025.106666" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

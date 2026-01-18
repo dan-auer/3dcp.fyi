@@ -18,14 +18,15 @@ tags:
 
 #Properties of 3D Printed Polymer Fiber-Reinforced Mortars&nbsp;([2022-03](date/2022/03))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2073-4360/14/7/1315/pdf?version=1648694852) <a href="https://doi.org/10.3390/polym14071315" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym14071315" target="_blank">10.3390/polym14071315</a>
+<a href="https://www.mdpi.com/2073-4360/14/7/1315/pdf?version=1648694852" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/polym14071315" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/polym14071315" target="_blank">10.3390/polym14071315</a>
 
 <a href="../../../author/liu_jie"><b>Liu</b>&nbsp;Jie</a></span>, <a href="../../../author/lv_chun"><b>Lv</b>&nbsp;Chun</a></span><br>
 Journal Article - Polymers, Vol. 14, Iss. 7
 
 <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Properties%20of%203D%20Printed%20Polymer%20Fiber-Reinforced%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=properties+of+3d+printed+polymer+fiber-reinforced+mortars&as_occt=title&as_sauthors=liu&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127605050&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000781799700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/polym14071315" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

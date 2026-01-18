@@ -16,14 +16,15 @@ tags:
 ---
 
 #Identifying the Challenges to Adopting Robotics in the US Construction Industry ([2021-02](date/2021/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002007" target="_blank">10.1061/(asce)co.1943-7862.0002007</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/(asce)co.1943-7862.0002007" target="_blank">10.1061/(asce)co.1943-7862.0002007</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4560-6001" title="ORCID: 0000-0002-4560-6001" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pradhananga_piyush"><b>Pradhananga</b>&nbsp;Piyush</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7734-9601" title="ORCID: 0000-0002-7734-9601" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/elzomor_mohamed"><b>ElZomor</b>&nbsp;Mohamed</a></span>, <a href="../../../author/santi-kasabdji_gabriella"><b>Santi Kasabdji</b>&nbsp;Gabriella</a></span><br>
 Journal Article - Journal of Construction Engineering and Management, Vol. 147, Iss. 5
 
 <a href="../../keyword/adoption"><button class="btn">#adoption</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/identification"><button class="btn">#identification</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Identifying%20the%20Challenges%20to%20Adopting%20Robotics%20in%20the%20US%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=identifying+the+challenges+to+adopting+robotics+in+the+us+construction+industry&as_occt=title&as_sauthors=pradhananga&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85101282543&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000656447100002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/(asce)co.1943-7862.0002007" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

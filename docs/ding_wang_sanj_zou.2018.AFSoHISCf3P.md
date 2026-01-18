@@ -14,14 +14,15 @@ tags:
 ---
 
 #A Feasibility Study on HPMC-Improved Sulphoaluminate Cement for 3D Printing ([2018-11](date/2018/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/11/12/2415/pdf?version=1543484386) <a href="https://doi.org/10.3390/ma11122415" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11122415" target="_blank">10.3390/ma11122415</a>
+<a href="https://www.mdpi.com/1996-1944/11/12/2415/pdf?version=1543484386" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma11122415" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma11122415" target="_blank">10.3390/ma11122415</a>
 
 <a href="../../../author/ding_zhu"><b>Ding</b>&nbsp;Zhu</a></span>, <a href="../../../author/wang_xiaodong"><b>Wang</b>&nbsp;Xiaodong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5400-5988" title="ORCID: 0000-0002-5400-5988" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b>&nbsp;Jay</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8166-0451" title="ORCID: 0000-0002-8166-0451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zou_x-w_patrick"><b>Zou</b>&nbsp;Patrick</a></span>, <a href="../../../author/ding_zhi-kun"><b>Ding</b>&nbsp;Zhi-Kun</a></span><br>
 Journal Article - Materials, Vol. 11, Iss. 12
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/feasibility"><button class="btn">#feasibility</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Feasibility%20Study%20on%20HPMC-Improved%20Sulphoaluminate%20Cement%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+feasibility+study+on+hpmc-improved+sulphoaluminate+cement+for+3d+printing&as_occt=title&as_sauthors=ding&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85057534436&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000456419200073" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma11122415" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

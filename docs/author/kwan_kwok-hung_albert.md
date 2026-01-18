@@ -9,6 +9,60 @@ search:
 
 #  Kwan Albert 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-09-18
+    
+    Last Contribution
+    : 2025-01-13
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 161
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (4)</li>
+        <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a> (2)</li>
+        <li><a href="../../../author/fang_q_z"><b>Fang</b> Z.</a> (2)</li>
+        <li><a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a> (2)</li>
+        <li><a href="../../../author/li_g_l"><b>Li</b> L.</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a> (76)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (22)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (14)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (7)</li>
+        <li><a href="../../../author/khan_majid"><b>Khan</b> Majid</a> (6)</li>
+        <li><a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> (5)</li>
+        <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a> (5)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_zhan_kwan.2025.ES3P/">Exploring Submarine 3D Printing:<br/>Enhancing Washout-Resistance and Strength of 3D Printable Mortar</a></li>
   <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a></li>

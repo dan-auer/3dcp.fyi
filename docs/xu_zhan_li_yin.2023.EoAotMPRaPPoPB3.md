@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effects of Additives on the Mechanical Properties, Rheology, and Printing Properties of PCC-Based 3DPMs ([2023-06](date/2023/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" target="_blank">10.1016/j.ceramint.2023.06.090</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ceramint.2023.06.090" target="_blank">10.1016/j.ceramint.2023.06.090</a>
 
 <a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/yin_le"><b>Yin</b>&nbsp;Le</a></span>, <a href="../../../author/song_haiping"><b>Song</b>&nbsp;Haiping</a></span>, <a href="../../../author/wang_wanchun"><b>Wang</b>&nbsp;Wanchun</a></span>, <a href="../../../author/zhang_siyu"><b>Zhang</b>&nbsp;Siyu</a></span><br>
 Journal Article - Ceramics International
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Additives%20on%20the%20Mechanical%20Properties%2C%20Rheology%2C%20and%20Printing%20Properties%20of%20PCC-Based%203DPMs" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+additives+on+the+mechanical+properties%2C+rheology%2C+and+printing+properties+of+pcc-based+3dpms&as_occt=title&as_sauthors=xu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162886111&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001047397700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ceramint.2023.06.090" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

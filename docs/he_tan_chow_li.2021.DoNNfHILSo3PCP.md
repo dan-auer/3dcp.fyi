@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design of Novel Nozzles for Higher Inter-Layer Strength of 3D Printed Cement-Paste ([2021-11](date/2021/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2021.102452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102452" target="_blank">10.1016/j.addma.2021.102452</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2021.102452" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2021.102452" target="_blank">10.1016/j.addma.2021.102452</a>
 
 <a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <a href="../../../author/tan_ze-mei_jolyn"><b>Tan</b>&nbsp;Jolyn</a></span>, <a href="../../../author/chow_tuck_wai"><b>Chow</b>&nbsp;Wai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4899-9477" title="ORCID: 0000-0003-4899-9477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hua"><b>Li</b>&nbsp;Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7576-6743" title="ORCID: 0000-0002-7576-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_jiahui"><b>Pan</b>&nbsp;Jiahui</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 48
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20of%20Novel%20Nozzles%20for%20Higher%20Inter-Layer%20Strength%20of%203D%20Printed%20Cement-Paste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+of+novel+nozzles+for+higher+inter-layer+strength+of+3d+printed+cement-paste&as_occt=title&as_sauthors=he&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85118885159&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000719322300002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2021.102452" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

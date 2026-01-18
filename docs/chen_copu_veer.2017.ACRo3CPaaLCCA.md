@@ -24,7 +24,7 @@ Journal Article - Heron, Vol. 62, Iss. 3, pp. 167-194
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Critical%20Review%20of%203D%20Concrete%20Printing%20as%20a%20Low-CO2%20Concrete%20Approach" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+critical+review+of+3d+concrete+printing+as+a+low-co2+concrete+approach&as_occt=title&as_sauthors=chen&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.13140/rg.2.2.12323.71205" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

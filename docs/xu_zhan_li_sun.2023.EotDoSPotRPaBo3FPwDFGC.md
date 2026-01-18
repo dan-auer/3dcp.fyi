@@ -22,14 +22,15 @@ tags:
 ---
 
 #Effects of the Distribution of Solid Particles on the Rheological Properties and Buildability of 3DPM Fresh Pastes with Different FA/GGBFS Content ([2023-02](date/2023/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s43452-023-00622-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00622-w" target="_blank">10.1007/s43452-023-00622-w</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43452-023-00622-w" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-023-00622-w" target="_blank">10.1007/s43452-023-00622-w</a>
 
 <a href="../../../author/xu_zhuoyue"><b>Xu</b>&nbsp;Zhuoyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4540-1559" title="ORCID: 0000-0002-4540-1559" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_dawang"><b>Zhang</b>&nbsp;Dawang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2598-8508" title="ORCID: 0000-0002-2598-8508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hui"><b>Li</b>&nbsp;Hui</a></span>, <a href="../../../author/sun_xuemei"><b>Sun</b>&nbsp;Xuemei</a></span><br>
 Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 2
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/ggbfs"><button class="btn">#ggbfs</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20the%20Distribution%20of%20Solid%20Particles%20on%20the%20Rheological%20Properties%20and%20Buildability%20of%203DPM%20Fresh%20Pastes%20with%20Different%20FA/GGBFS%20Content" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+the+distribution+of+solid+particles+on+the+rheological+properties+and+buildability+of+3dpm+fresh+pastes+with+different+fa%2Fggbfs+content&as_occt=title&as_sauthors=xu&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85148686230&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000936201700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43452-023-00622-w" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

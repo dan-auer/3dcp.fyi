@@ -9,6 +9,60 @@ search:
 
 #  Dai Pengfei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2023-05-27
+    
+    Last Contribution
+    : 2025-06-09
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 51
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (7)</li>
+        <li><a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> (3)</li>
+        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (3)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (3)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lyu_dai_chen.2023.SSPCMbMEaAB3P/">Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (37)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (30)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (27)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (25)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lu_jiquan"><b>Lu</b> Jiquan</a> (6)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (6)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (6)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (6)</li>
+        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
   <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../lyu_wang_dai.2024.MPGCMbAB3CP/">Multilayered Plant-Growing Concrete Manufactured by Aggregate-Bed 3D Concrete Printing</a></li>

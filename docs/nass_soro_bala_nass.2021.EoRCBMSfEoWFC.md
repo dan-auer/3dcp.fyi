@@ -18,14 +18,15 @@ tags:
 ---
 
 #Evaluation of Refined Cement-Based Matrix Systems for Extrusion of Wood-Fiber Cement ([2021-09](date/2021/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2021.e00714) <a href="https://doi.org/10.1016/j.cscm.2021.e00714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2021.e00714" target="_blank">10.1016/j.cscm.2021.e00714</a>
+<a href="https://doi.org/10.1016/j.cscm.2021.e00714" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2021.e00714" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2021.e00714" target="_blank">10.1016/j.cscm.2021.e00714</a>
 
 <a href="../../../author/nassar_roz-ud-din"><b>Nassar</b>&nbsp;Roz-Ud-Din</a></span>, <a href="../../../author/soroushian_parviz"><b>Soroushian</b>&nbsp;Parviz</a></span>, <a href="../../../author/balachandra_anagi"><b>Balachandra</b>&nbsp;Anagi</a></span>, <a href="../../../author/nassar_shumayal"><b>Nassar</b>&nbsp;Shumayal</a></span>, <a href="../../../author/weerasiri_rankothge"><b>Weerasiri</b>&nbsp;Rankothge</a></span>, <a href="../../../author/darsanasiri_nalin"><b>Darsanasiri</b>&nbsp;Nalin</a></span>, <a href="../../../author/abdol_nastran"><b>Abdol</b>&nbsp;Nastran</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 15
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/matrix"><button class="btn">#matrix</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Refined%20Cement-Based%20Matrix%20Systems%20for%20Extrusion%20of%20Wood-Fiber%20Cement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+refined+cement-based+matrix+systems+for+extrusion+of+wood-fiber+cement&as_occt=title&as_sauthors=nassar&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85116027738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000708127900004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2021.e00714" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #A Numerical Study on 3D Printed Cementitious Composites Mixes Subjected to Axial Compression ([2021-11](date/2021/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/22/6882/pdf?version=1637133422) <a href="https://doi.org/10.3390/ma14226882" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14226882" target="_blank">10.3390/ma14226882</a>
+<a href="https://www.mdpi.com/1996-1944/14/22/6882/pdf?version=1637133422" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14226882" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14226882" target="_blank">10.3390/ma14226882</a>
 
 <a href="../../../author/liu_hanqiu"><b>Liu</b>&nbsp;Hanqiu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9388-2596" title="ORCID: 0000-0002-9388-2596" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/egbe_idala_king-james"><b>Egbe</b>&nbsp;King-James</a></span>, <a href="../../../author/wang_haipeng"><b>Wang</b>&nbsp;Haipeng</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6303-3764" title="ORCID: 0000-0001-6303-3764" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nazar_matin_ali"><b>Nazar</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9577-3828" title="ORCID: 0000-0002-9577-3828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/jiao_pengcheng"><b>Jiao</b>&nbsp;Pengcheng</a></span>, <a href="../../../author/zhu_ronghua"><b>Zhu</b>&nbsp;Ronghua</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 22
 
 <a href="../../keyword/axis"><button class="btn">#axis</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/compression"><button class="btn">#compression</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/numeric"><button class="btn">#numeric</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Numerical%20Study%20on%203D%20Printed%20Cementitious%20Composites%20Mixes%20Subjected%20to%20Axial%20Compression" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+numerical+study+on+3d+printed+cementitious+composites+mixes+subjected+to+axial+compression&as_occt=title&as_sauthors=liu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85119358676&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000724486800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14226882" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

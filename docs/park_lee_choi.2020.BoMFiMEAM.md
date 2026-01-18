@@ -17,14 +17,15 @@ tags:
 ---
 
 #Buildability of Mortar-Feedstock in Material-Extrusion Additive Manufacturing ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://journals.pan.pl/Content/116384/PDF/AMM-2020-3-17-Hanshin%20Choi.pdf) <a href="https://doi.org/10.24425/amm.2020.133219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24425/amm.2020.133219" target="_blank">10.24425/amm.2020.133219</a>
+<a href="http://journals.pan.pl/Content/116384/PDF/AMM-2020-3-17-Hanshin%20Choi.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.24425/amm.2020.133219" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24425/amm.2020.133219" target="_blank">10.24425/amm.2020.133219</a>
 
 <a href="../../../author/park_jinsoo"><b>Park</b>&nbsp;Jinsoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1424-0657" title="ORCID: 0000-0003-1424-0657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lee_hojae"><b>Lee</b>&nbsp;Hojae</a></span>, <a href="../../../author/choi_hanshin"><b>Choi</b>&nbsp;Hanshin</a></span><br>
 Journal Article - Archives of Metallurgy and Materials, pp. 1069-1072
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/feedstock"><button class="btn">#feedstock</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Buildability%20of%20Mortar-Feedstock%20in%20Material-Extrusion%20Additive%20Manufacturing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=buildability+of+mortar-feedstock+in+material-extrusion+additive+manufacturing&as_occt=title&as_sauthors=park&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85086276367&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000548970500002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.24425/amm.2020.133219" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -19,14 +19,15 @@ tags:
 ---
 
 #Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR ([2025-05](date/2025/05))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" target="_blank">10.1016/j.conbuildmat.2025.141646</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2025.141646" target="_blank">10.1016/j.conbuildmat.2025.141646</a>
 
 <a href="../../../author/wang_guihua"><b>Wang</b>&nbsp;Guihua</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4869-0090" title="ORCID: 0000-0003-4869-0090" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_jiguo"><b>Zhou</b>&nbsp;Jiguo</a></span>, <span class="author"><a href="https://orcid.org/0009-0009-8692-7643" title="ORCID: 0009-0009-8692-7643" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_haoyun"><b>Liu</b>&nbsp;Haoyun</a></span>, <span class="author"><a href="https://orcid.org/0009-0001-0535-0179" title="ORCID: 0009-0001-0535-0179" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhang_jianming"><b>Zhang</b>&nbsp;Jianming</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 482, No. 141646
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rheological%20Properties%20and%20Mechanical%20Durability%20of%203D-Printed%20Concrete%20Based%20on%20Low-Field%20NMR" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rheological+properties+and+mechanical+durability+of+3d-printed+concrete+based+on+low-field+nmr&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004317598&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001489484400010" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2025.141646" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

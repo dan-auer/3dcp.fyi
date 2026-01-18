@@ -16,14 +16,15 @@ tags:
 ---
 
 #Design and Fabrication of a 3D Concrete Printed Pre-Stressed Bridge ([2021-04](date/2021/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2021_133.pdf) <a href="https://doi.org/10.52842/conf.caadria.2021.1.663" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2021.1.663" target="_blank">10.52842/conf.caadria.2021.1.663</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2021_133.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2021.1.663" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2021.1.663" target="_blank">10.52842/conf.caadria.2021.1.663</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2836-0019" title="ORCID: 0000-0003-2836-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhan_qiang"><b>Zhan</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2543-2307" title="ORCID: 0000-0002-2543-2307" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_xinjie"><b>Zhou</b>&nbsp;Xinjie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2543-2307" title="ORCID: 0000-0002-2543-2307" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhou_xinjie"><b>Zhou</b>&nbsp;Xinjie</a></span><br>
 Contribution - Proceedings of the 26th International Conference of the Association for Computer-Aided Architectural Design Research in Asia, pp. 663-672
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%20and%20Fabrication%20of%20a%203D%20Concrete%20Printed%20Pre-Stressed%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design+and+fabrication+of+a+3d+concrete+printed+pre-stressed+bridge&as_occt=title&as_sauthors=zhan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2021.1.663" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

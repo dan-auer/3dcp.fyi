@@ -21,14 +21,15 @@ tags:
 ---
 
 #Contour-Tracking-Control for Mobile Robots Applicable to Large-Scale Assembly and Additive Manufacturing in Construction ([2022-03](date/2022/03))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.procir.2022.02.163) <a href="https://doi.org/10.1016/j.procir.2022.02.163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2022.02.163" target="_blank">10.1016/j.procir.2022.02.163</a>
+<a href="https://doi.org/10.1016/j.procir.2022.02.163" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.procir.2022.02.163" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.procir.2022.02.163" target="_blank">10.1016/j.procir.2022.02.163</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8070-8989" title="ORCID: 0000-0001-8070-8989" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lachmayer_lukas"><b>Lachmayer</b>&nbsp;Lukas</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1632-0538" title="ORCID: 0000-0003-1632-0538" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/recker_tobias"><b>Recker</b>&nbsp;Tobias</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1697-1907" title="ORCID: 0000-0002-1697-1907" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/raatz_annika"><b>Raatz</b>&nbsp;Annika</a></span><br>
 Journal Article - Procedia CIRP, Vol. 106, pp. 108-113
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Contour-Tracking-Control%20for%20Mobile%20Robots%20Applicable%20to%20Large-Scale%20Assembly%20and%20Additive%20Manufacturing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=contour-tracking-control+for+mobile+robots+applicable+to+large-scale+assembly+and+additive+manufacturing+in+construction&as_occt=title&as_sauthors=lachmayer&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85127468945&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001490148000018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.procir.2022.02.163" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

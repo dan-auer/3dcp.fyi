@@ -21,14 +21,15 @@ tags:
 ---
 
 #A Design Approach for the Mechanical Properties of Polypropylene-Discontinuous-Fiber-Reinforced Cementitious Composites by Extrusion-Molding ([2002-09](date/2002/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/s0013-7944(02)00154-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/s0013-7944(02)00154-6" target="_blank">10.1016/s0013-7944(02)00154-6</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/s0013-7944(02)00154-6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/s0013-7944(02)00154-6" target="_blank">10.1016/s0013-7944(02)00154-6</a>
 
 <a href="../../../author/takashima_hiroyuki"><b>Takashima</b>&nbsp;Hiroyuki</a></span>, <a href="../../../author/miyagai_kiyotaka"><b>Miyagai</b>&nbsp;Kiyotaka</a></span>, <a href="../../../author/hashida_toshiyuki"><b>Hashida</b>&nbsp;Toshiyuki</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8678-3493" title="ORCID: 0000-0002-8678-3493" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_c_victor"><b>Li</b>&nbsp;Victor</a></span><br>
 Journal Article - Engineering Fracture Mechanics, Vol. 70, Iss. 7-8, pp. 853-870
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/continuous"><button class="btn">#continuous</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Design%20Approach%20for%20the%20Mechanical%20Properties%20of%20Polypropylene-Discontinuous-Fiber-Reinforced%20Cementitious%20Composites%20by%20Extrusion-Molding" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+design+approach+for+the+mechanical+properties+of+polypropylene-discontinuous-fiber-reinforced+cementitious+composites+by+extrusion-molding&as_occt=title&as_sauthors=takashima&as_ylo=2000&as_yhi=2004&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-0037405189&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000181213200003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/s0013-7944(02)00154-6" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

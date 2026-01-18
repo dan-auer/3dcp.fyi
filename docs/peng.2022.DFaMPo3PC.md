@@ -16,14 +16,15 @@ tags:
 ---
 
 #Digital Fabrication and Mechanical Properties of 3D Printing Concrete ([2022-08](date/2022/08))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.54097/hset.v10i.1227) <a href="https://doi.org/10.54097/hset.v10i.1227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.54097/hset.v10i.1227" target="_blank">10.54097/hset.v10i.1227</a>
+<a href="https://doi.org/10.54097/hset.v10i.1227" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.54097/hset.v10i.1227" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.54097/hset.v10i.1227" target="_blank">10.54097/hset.v10i.1227</a>
 
 <a href="../../../author/peng_guanhong"><b>Peng</b>&nbsp;Guanhong</a></span><br>
 Journal Article - Highlights in Science, Engineering and Technology, Vol. 10, pp. 61-69
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20and%20Mechanical%20Properties%20of%203D%20Printing%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+and+mechanical+properties+of+3d+printing+concrete&as_occt=title&as_sauthors=peng&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.54097/hset.v10i.1227" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -16,14 +16,15 @@ tags:
 ---
 
 #Green High-Performance Mortars for 3D Printing Applications ([2021-04](date/2021/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-37955-0_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-37955-0_32" target="_blank">10.1007/978-3-031-37955-0_32</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-37955-0_32" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-37955-0_32" target="_blank">10.1007/978-3-031-37955-0_32</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6676-9187" title="ORCID: 0000-0001-6676-9187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/falliano_devid"><b>Falliano</b>&nbsp;Devid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1279-9529" title="ORCID: 0000-0003-1279-9529" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/domenico_dario"><b>de&nbsp;Domenico</b>&nbsp;Dario</a></span>, <a href="../../../author/cosenza_paolo"><b>Cosenza</b>&nbsp;Paolo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9765-9247" title="ORCID: 0000-0001-9765-9247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ricciardi_giuseppe"><b>Ricciardi</b>&nbsp;Giuseppe</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6999-0466" title="ORCID: 0000-0002-6999-0466" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/restuccia_luciana"><b>Restuccia</b>&nbsp;Luciana</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0622-4203" title="ORCID: 0000-0002-0622-4203" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferro_andrea_giuseppe"><b>Ferro</b>&nbsp;Giuseppe</a></span><br>
 Contribution - Proceedings of Italian Concrete Conference 2020/21, pp. 441-450
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Green%20High-Performance%20Mortars%20for%203D%20Printing%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=green+high-performance+mortars+for+3d+printing+applications&as_occt=title&as_sauthors=falliano&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175699794&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-37955-0_32" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

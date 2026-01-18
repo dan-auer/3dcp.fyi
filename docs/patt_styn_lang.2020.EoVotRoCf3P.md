@@ -15,14 +15,15 @@ tags:
 ---
 
 #Effect of Vibration on the Rheology of Concrete for 3D Printing ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_36" target="_blank">10.1007/978-3-030-49916-7_36</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_36" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_36" target="_blank">10.1007/978-3-030-49916-7_36</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4234-6267" title="ORCID: 0000-0002-4234-6267" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pattaje-sooryanarayana_karthik"><b>Pattaje Sooryanarayana</b>&nbsp;Karthik</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5440-1024" title="ORCID: 0000-0002-5440-1024" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/stynoski_b_peter"><b>Stynoski</b>&nbsp;Peter</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6517-711X" title="ORCID: 0000-0002-6517-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lange_a_david"><b>Lange</b>&nbsp;David</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 353-359
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/vibration"><button class="btn">#vibration</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Vibration%20on%20the%20Rheology%20of%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+vibration+on+the+rheology+of+concrete+for+3d+printing&as_occt=title&as_sauthors=pattaje+sooryanarayana&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088263125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_36" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

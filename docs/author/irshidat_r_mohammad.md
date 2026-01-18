@@ -9,6 +9,60 @@ search:
 
 #  Irshidat Mohammad 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-9631-5485" target="_blank">0000-0001-9631-5485</a>
+
+    First Contribution
+    : 2023-06-26
+    
+    Last Contribution
+    : 2025-06-24
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 10
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a> (5)</li>
+        <li><a href="../../../author/john_john"><b>John</b> John</a> (4)</li>
+        <li><a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a> (4)</li>
+        <li><a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a> (3)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/ramahi_siraj"><b>Ramahi</b> Siraj</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../irsh_cabi_fadl_rama.2024.WMUi3PCfSCA/">Waste Materials Utilization in 3D Printable Concrete for Sustainable Construction Applications:<br/>A Review</a> (5)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (14)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (12)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (9)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/dabous_saleh"><b>Abu Dabous</b> Saleh</a> (1)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (1)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.EtMDi3CPTSOP/">Enhancing the Mix Design in 3D Concrete Printing Through Systematic Optimization Process</a></li>
   <li><a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a>, <a href="../../../author/john_john"><b>John</b> John</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../irsh_amja_kuma_john.2025.E3PCTWFA/">Enhancing 3D Printed Concrete Through Waste Fly Ash:<br/>A Comprehensive Approach to Sustainable and Efficient Mix Design</a></li>

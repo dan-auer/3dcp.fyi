@@ -15,14 +15,15 @@ tags:
 ---
 
 #Prediction of the Yield-Stress of Printing Mortar-Ink ([2020-07](date/2020/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://espace2.etsmtl.ca/id/eprint/20998/1/Ouellet-Plamondon-C-2020-20998.pdf) <a href="https://doi.org/10.1007/978-3-030-49916-7_37" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_37" target="_blank">10.1007/978-3-030-49916-7_37</a>
+<a href="https://espace2.etsmtl.ca/id/eprint/20998/1/Ouellet-Plamondon-C-2020-20998.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_37" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_37" target="_blank">10.1007/978-3-030-49916-7_37</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7743-470X" title="ORCID: 0000-0002-7743-470X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sergis_vasileios"><b>Sergis</b>&nbsp;Vasileios</a></span>, <a href="../../../author/charrier_malo"><b>Charrier</b>&nbsp;Malo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3795-4791" title="ORCID: 0000-0003-3795-4791" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b>&nbsp;Claudiane</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 360-369
 
 <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Prediction%20of%20the%20Yield-Stress%20of%20Printing%20Mortar-Ink" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=prediction+of+the+yield-stress+of+printing+mortar-ink&as_occt=title&as_sauthors=sergis&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088269053&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_37" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

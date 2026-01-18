@@ -20,14 +20,15 @@ tags:
 
 #Pushing Concrete Material-Usage to the Limit&nbsp;([2021-09](date/2021/09))
 <div class="h1-like">Weight-Optimized, 3D Printed Concrete Girders with External Reinforcement</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.35789/fib.proc.0055.2021.cdsymp.p064" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.35789/fib.proc.0055.2021.cdsymp.p064" target="_blank">10.35789/fib.proc.0055.2021.cdsymp.p064</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.35789/fib.proc.0055.2021.cdsymp.p064" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.35789/fib.proc.0055.2021.cdsymp.p064" target="_blank">10.35789/fib.proc.0055.2021.cdsymp.p064</a>
 
 <a href="../../../author/stoiber_nadine"><b>Stoiber</b>&nbsp;Nadine</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3416-8146" title="ORCID: 0000-0003-3416-8146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kromoser_benjamin"><b>Kromoser</b>&nbsp;Benjamin</a></span><br>
 Contribution - International fib Symposium, pp. 519-528
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/external"><button class="btn">#external</button></a> <a href="../../keyword/girder"><button class="btn">#girder</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> <a href="../../keyword/weight"><button class="btn">#weight</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pushing%20Concrete%20Material-Usage%20to%20the%20Limit" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pushing+concrete+material-usage+to+the+limit&as_occt=title&as_sauthors=stoiber&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85134806101&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.35789/fib.proc.0055.2021.cdsymp.p064" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

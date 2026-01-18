@@ -22,7 +22,7 @@ Contribution - Proceedings of the 12th International Conference of the Arab Soci
 
 <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/motion"><button class="btn">#motion</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Integration%20of%20Weaving-%20and%20Sewing-Motions%20into%20the%203D%20Printing%20of%20Clay%20for%20Lightweight%20Ceramic-Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=integration+of+weaving-+and+sewing-motions+into+the+3d+printing+of+clay+for+lightweight+ceramic-structures&as_occt=title&as_sauthors=kleibel-mcgee&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

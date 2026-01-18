@@ -8,6 +8,10 @@ search:
 
 # #ai
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/base"><button class="btn">#base (3)</button></a> <a href="../../keyword/acoustic"><button class="btn">#acoustic (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/eisazadeh_hamid"><b>Eisazadeh</b> Hamid</a>, <a href="../../../author/chatroudi_hosseini_narges"><b>Chatroudi</b> Narges</a>, <a href="../../../author/alizadeh_roozbeh"><b>Alizadeh</b> Roozbeh</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC/">AI-Based Prediction and Numerical Analysis of Mechanical and Microstructural Parameters of Carbon Fiber Reinforced 3D Printed Composites</a></li>
   <li><a href="../../../author/pandum_jeero"><b>Pandum</b> Jeero</a>, <a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a>, <a href="../../../author/sugiyama_takafumi"><b>Sugiyama</b> Takafumi</a>, <a href="../../../author/nakase_kota"><b>Nakase</b> Kota</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pand_hash_sugi_naka.2025.ADEo3PC/">AI-Driven Evaluation of 3D-Printed Concrete:<br/>Analyzing Printed Patterns Using Impact-Echo and Acoustic Emission</a></li>

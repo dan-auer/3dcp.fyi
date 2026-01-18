@@ -16,14 +16,15 @@ tags:
 ---
 
 #Evaluation of Model 3D Printer and Design Mix for 3D Concrete Printing ([2020-10](date/2020/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-16-6557-8_68" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6557-8_68" target="_blank">10.1007/978-981-16-6557-8_68</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-16-6557-8_68" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6557-8_68" target="_blank">10.1007/978-981-16-6557-8_68</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1159-898X" title="ORCID: 0000-0002-1159-898X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b>&nbsp;Ashutosh</a></span>, <a href="../../../author/pal_ankit"><b>Pal</b>&nbsp;Ankit</a></span>, <a href="../../../author/patel_singh_shiv"><b>Patel</b>&nbsp;Shiv</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6595-2465" title="ORCID: 0000-0001-6595-2465" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chourasia_ajay"><b>Chourasia</b>&nbsp;Ajay</a></span>, <a href="../../../author/jain_k_a"><b>Jain</b>&nbsp;A.</a></span><br>
 Contribution - Advances in Construction Materials and Sustainable Environment, pp. 837-847
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Model%203D%20Printer%20and%20Design%20Mix%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+model+3d+printer+and+design+mix+for+3d+concrete+printing&as_occt=title&as_sauthors=dwivedi&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121732923&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-16-6557-8_68" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

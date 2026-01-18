@@ -17,14 +17,15 @@ tags:
 
 #Applications of Additive Manufacturing in the Construction Industry&nbsp;([2017-07](date/2017/07))
 <div class="h1-like">A Prospective Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.22260/isarc2017/0033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2017/0033" target="_blank">10.22260/isarc2017/0033</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2017/0033" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2017/0033" target="_blank">10.22260/isarc2017/0033</a>
 
 <a href="../../../author/delgado-camacho_daniel"><b>Delgado Camacho</b>&nbsp;Daniel</a></span>, <a href="../../../author/clayton_patricia"><b>Clayton</b>&nbsp;Patricia</a></span>, <a href="../../../author/brien_j_william"><b>o'&nbsp;Brien</b>&nbsp;William</a></span>, <a href="../../../author/ferron_raissa"><b>Ferron</b>&nbsp;Raissa</a></span>, <a href="../../../author/juenger_maria"><b>Juenger</b>&nbsp;Maria</a></span>, <a href="../../../author/salamone_salvatore"><b>Salamone</b>&nbsp;Salvatore</a></span>, <a href="../../../author/seepersad_carolyn"><b>Seepersad</b>&nbsp;Carolyn</a></span><br>
 Contribution - Proceedings of the 34th International Symposium on Automation and Robotics in Construction
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Applications%20of%20Additive%20Manufacturing%20in%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=applications+of+additive+manufacturing+in+the+construction+industry&as_occt=title&as_sauthors=delgado+camacho&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2017/0033" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Effect of Alternating Current Field on Rheology of Fresh Cement-Based-Pastes ([2021-12](date/2021/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jobe.2021.103771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103771" target="_blank">10.1016/j.jobe.2021.103771</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2021.103771" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2021.103771" target="_blank">10.1016/j.jobe.2021.103771</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5841-8915" title="ORCID: 0000-0002-5841-8915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_qiyuan"><b>Xiao</b>&nbsp;Qiyuan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4765-9983" title="ORCID: 0000-0002-4765-9983" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/long_guangcheng"><b>Long</b>&nbsp;Guangcheng</a></span>, <a href="../../../author/feng_ruiping"><b>Feng</b>&nbsp;Ruiping</a></span>, <a href="../../../author/zeng_xiaohui"><b>Zeng</b>&nbsp;Xiaohui</a></span>, <a href="../../../author/dong_rongzhen"><b>Dong</b>&nbsp;Rongzhen</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7521-0374" title="ORCID: 0000-0002-7521-0374" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiang_yu"><b>Xiang</b>&nbsp;Yu</a></span>, <a href="../../../author/yang_kai"><b>Yang</b>&nbsp;Kai</a></span><br>
 Journal Article - Journal of Building Engineering, Vol. 48
 
 <a href="../../keyword/alteration"><button class="btn">#alteration</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/field"><button class="btn">#field</button></a> <a href="../../keyword/fresh"><button class="btn">#fresh</button></a> <a href="../../keyword/paste"><button class="btn">#paste</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Alternating%20Current%20Field%20on%20Rheology%20of%20Fresh%20Cement-Based-Pastes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+alternating+current+field+on+rheology+of+fresh+cement-based-pastes&as_occt=title&as_sauthors=xiao&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85121667689&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000774445400004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2021.103771" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

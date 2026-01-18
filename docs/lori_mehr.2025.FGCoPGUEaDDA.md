@@ -18,14 +18,15 @@ tags:
 ---
 
 #Filament-Geometry-Control of Printable Geopolymer Using Experimental and Data-Driven Approaches ([2025-01](date/2025/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.conbuildmat.2024.139853) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" target="_blank">10.1016/j.conbuildmat.2024.139853</a>
+<a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139853" target="_blank">10.1016/j.conbuildmat.2024.139853</a>
 
 <span class="author"><a href="https://orcid.org/0009-0000-3492-3469" title="ORCID: 0009-0000-3492-3469" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lori_rezaei_ali"><b>Lori</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5084-1823" title="ORCID: 0000-0002-5084-1823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mehrali_mehdi"><b>Mehrali</b>&nbsp;Mehdi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 461, No. 139853
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Filament-Geometry-Control%20of%20Printable%20Geopolymer%20Using%20Experimental%20and%20Data-Driven%20Approaches" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=filament-geometry-control+of+printable+geopolymer+using+experimental+and+data-driven+approaches&as_occt=title&as_sauthors=lori&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214326477&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001398679300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139853" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

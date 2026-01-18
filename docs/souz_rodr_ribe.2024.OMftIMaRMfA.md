@@ -17,14 +17,15 @@ tags:
 
 #Overburden Materials from the Iron Mining as Raw Materials for AAM&nbsp;([2025-01](date/2025/01))
 <div class="h1-like">Preliminary Assessment of Mixes for 3D Concrete Printing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-80724-4_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_51" target="_blank">10.1007/978-3-031-80724-4_51</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-80724-4_51" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-80724-4_51" target="_blank">10.1007/978-3-031-80724-4_51</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6584-1738" title="ORCID: 0000-0002-6584-1738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/souza_araujo_eduarda"><b>de&nbsp;Souza</b>&nbsp;Eduarda</a></span>, <span class="author"><a href="https://orcid.org/0009-0008-9359-1271" title="ORCID: 0009-0008-9359-1271" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodrigues-e-silva_de-kassia_rafaela"><b>Rodrigues e Silva</b>&nbsp;Rafaela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4072-6557" title="ORCID: 0000-0002-4072-6557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro-borges_henrique_paulo"><b>Ribeiro Borges</b>&nbsp;Paulo</a></span><br>
 Contribution - Proceedings of the 4th fib International Conference on Concrete Sustainability, pp. 414-421
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Overburden%20Materials%20from%20the%20Iron%20Mining%20as%20Raw%20Materials%20for%20AAM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=overburden+materials+from+the+iron+mining+as+raw+materials+for+aam&as_occt=title&as_sauthors=souza&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218025941&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001505314100051" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-80724-4_51" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -21,14 +21,15 @@ tags:
 
 #Effects of Superabsorbent Polymers (SAP) On the Rheological Behavior of Cement Mortars&nbsp;([2023-05](date/2023/05))
 <div class="h1-like">A Rheological Study on Performance Requirements for 3D Printable Cementitious Materials</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2023.131856" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131856" target="_blank">10.1016/j.conbuildmat.2023.131856</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2023.131856" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.131856" target="_blank">10.1016/j.conbuildmat.2023.131856</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-2874-9236" title="ORCID: 0009-0009-2874-9236" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/oh_sangwoo"><b>Oh</b>&nbsp;Sangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6450-2742" title="ORCID: 0000-0002-6450-2742" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/choi_seongcheol"><b>Choi</b>&nbsp;Seongcheol</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 392, No. 131856
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/requirement"><button class="btn">#requirement</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effects%20of%20Superabsorbent%20Polymers%20%28SAP%29%20On%20the%20Rheological%20Behavior%20of%20Cement%20Mortars" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effects+of+superabsorbent+polymers+%28sap%29+on+the+rheological+behavior+of+cement+mortars&as_occt=title&as_sauthors=oh&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162932212&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001014843800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2023.131856" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

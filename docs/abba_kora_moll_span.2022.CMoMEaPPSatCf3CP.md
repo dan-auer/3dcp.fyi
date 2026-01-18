@@ -19,14 +19,15 @@ tags:
 ---
 
 #CFD Modelling of Mortar-Extrusion and Path-Planning-Strategy at the Corner for 3D Concrete Printing ([2022-11](date/2022/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-32927-2_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32927-2_16" target="_blank">10.1007/978-3-031-32927-2_16</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-32927-2_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-32927-2_16" target="_blank">10.1007/978-3-031-32927-2_16</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5007-7714" title="ORCID: 0000-0002-5007-7714" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abbaoui_khalid"><b>el&nbsp;Abbaoui</b>&nbsp;Khalid</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2532-6181" title="ORCID: 0000-0003-2532-6181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korachi_issam"><b>al&nbsp;Korachi</b>&nbsp;Issam</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8678-8908" title="ORCID: 0000-0001-8678-8908" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mollah_tusher_md"><b>Mollah</b>&nbsp;Md.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5411-6821" title="ORCID: 0000-0002-5411-6821" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/spangenberg_jon"><b>Spangenberg</b>&nbsp;Jon</a></span><br>
 Contribution - Proceedings of the Casablanca International Conference on Additive Manufacturing, pp. 173-183
 
 <a href="../../keyword/cfd"><button class="btn">#cfd</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/corner"><button class="btn">#corner</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strategy"><button class="btn">#strategy</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=CFD%20Modelling%20of%20Mortar-Extrusion%20and%20Path-Planning-Strategy%20at%20the%20Corner%20for%203D%20Concrete%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=cfd+modelling+of+mortar-extrusion+and+path-planning-strategy+at+the+corner+for+3d+concrete+printing&as_occt=title&as_sauthors=abbaoui&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201792043&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-32927-2_16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,6 +8,10 @@ search:
 
 # #aerial
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/additive"><button class="btn">#additive (10)</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing (10)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (4)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/material"><button class="btn">#material (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a>, <a href="../../../author/dams_barrie"><b>Dams</b> Barrie</a>, <a href="../../../author/shepherd_paul"><b>Shepherd</b> Paul</a>, <a href="../../../author/chen_binling"><b>Chen</b> Binling</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ball_dams_shep_chen.2025.EAAMwCMUAD/">Exploring Aerial Additive Manufacturing with Cementitious Materials Using Autonomous Drones</a></li>
   <li><a href="../../../author/wang_lingyu"><b>Wang</b> Lingyu</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wang_zhiyong"><b>Wang</b> Zhiyong</a>, <a href="../../../author/chen_juan"><b>Chen</b> Juan</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_zhan_wang_chen.2024.AMiCUUAV/">Additive Manufacturing in Construction Using Unmanned Aerial Vehicle:<br/>Design, Implementation, and Material-Properties</a></li>

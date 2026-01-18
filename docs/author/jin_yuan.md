@@ -9,6 +9,60 @@ search:
 
 #  Jin Yuan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2021-11-29
+    
+    Last Contribution
+    : 2025-07-17
+
+    Number Contributions
+    : 5
+
+    Number Citations
+    : 63
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (5)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (5)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (3)</li>
+        <li><a href="../../../author/li_laibo"><b>Li</b> Laibo</a> (2)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a> (25)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (23)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (23)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (23)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (20)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (5)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (4)</li>
+        <li><a href="../../../author/peng_yiming"><b>Peng</b> Yiming</a> (4)</li>
+        <li><a href="../../../author/unluer_cise"><b>Unluer</b> Cise</a> (4)</li>
+        <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
   <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>

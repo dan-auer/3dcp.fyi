@@ -8,6 +8,10 @@ search:
 
 # #synchronization
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural (2)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (2)</button></a> <a href="../../keyword/rebar"><button class="btn">#rebar (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_yang_sun.2025.SCoSB3PRCS/">Synchronous Construction of Spray-Based 3D Printed Reinforced Concrete Structure:<br/>Effect of 2.5D Rebar Structure on the Flexural Performance of Slab</a></li>
   <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a>, <a href="../../../author/peng_bin"><b>Peng</b> Bin</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_chen_peng_chen.2024.TBaFPo3PRMRwSSCUDRR/">The Buildability and Flexural Properties of 3D Printed Recycled Mortar Reinforced with Synchronized Steel-Cable Under Different Reinforcement Ratios</a></li>

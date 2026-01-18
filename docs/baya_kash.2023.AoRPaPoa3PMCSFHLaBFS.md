@@ -24,14 +24,15 @@ tags:
 ---
 
 #Analysis of Rheological Properties and Printability of a 3D Printing Mortar Containing Silica-Fume, Hydrated Lime, and Blast-Furnace-Slag ([2023-09](date/2023/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.mtcomm.2023.107128) <a href="https://doi.org/10.1016/j.mtcomm.2023.107128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2023.107128" target="_blank">10.1016/j.mtcomm.2023.107128</a>
+<a href="https://doi.org/10.1016/j.mtcomm.2023.107128" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mtcomm.2023.107128" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2023.107128" target="_blank">10.1016/j.mtcomm.2023.107128</a>
 
 <a href="../../../author/bayat_hamid"><b>Bayat</b>&nbsp;Hamid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1080-645X" title="ORCID: 0000-0002-1080-645X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kashani_alireza"><b>Kashani</b>&nbsp;Alireza</a></span><br>
 Journal Article - Materials Today Communications, No. 107128
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/blast"><button class="btn">#blast</button></a> <a href="../../keyword/containment"><button class="btn">#containment</button></a> <a href="../../keyword/fume"><button class="btn">#fume</button></a> <a href="../../keyword/furnace"><button class="btn">#furnace</button></a> <a href="../../keyword/hydration"><button class="btn">#hydration</button></a> <a href="../../keyword/lime"><button class="btn">#lime</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Analysis%20of%20Rheological%20Properties%20and%20Printability%20of%20a%203D%20Printing%20Mortar%20Containing%20Silica-Fume%2C%20Hydrated%20Lime%2C%20and%20Blast-Furnace-Slag" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=analysis+of+rheological+properties+and+printability+of+a+3d+printing+mortar+containing+silica-fume%2C+hydrated+lime%2C+and+blast-furnace-slag&as_occt=title&as_sauthors=bayat&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85171847377&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001082748300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mtcomm.2023.107128" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

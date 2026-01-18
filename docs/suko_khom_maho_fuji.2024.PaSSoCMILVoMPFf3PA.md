@@ -22,14 +22,15 @@ tags:
 ---
 
 #Printability and Shape Stability of Cement Mortar Incorporating Low Volume of Micro-Polypropylene Fiber for 3D Printing Application ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-53389-1_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_18" target="_blank">10.1007/978-3-031-53389-1_18</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-53389-1_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-53389-1_18" target="_blank">10.1007/978-3-031-53389-1_18</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9580-7063" title="ORCID: 0000-0002-9580-7063" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b>&nbsp;Piti</a></span>, <a href="../../../author/khomkum_sila"><b>Khomkum</b>&nbsp;Sila</a></span>, <a href="../../../author/maho_buchit"><b>Maho</b>&nbsp;Buchit</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-4412-2074" title="ORCID: 0009-0004-4412-2074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fujikake_kazunori"><b>Fujikake</b>&nbsp;Kazunori</a></span><br>
 Contribution - Proceedings of the 1st Interdisciplinary Symposium on Smart & Sustainable Infrastructure, pp. 183-193
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Printability%20and%20Shape%20Stability%20of%20Cement%20Mortar%20Incorporating%20Low%20Volume%20of%20Micro-Polypropylene%20Fiber%20for%203D%20Printing%20Application" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=printability+and+shape+stability+of+cement+mortar+incorporating+low+volume+of+micro-polypropylene+fiber+for+3d+printing+application&as_occt=title&as_sauthors=sukontasukkul&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85186421935&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001267226300017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-53389-1_18" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Compensation Manipulator for Concrete 3D Printing Based on the CONPrint3D ([2024-04](date/2024/04))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.30919/esmm1127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.30919/esmm1127" target="_blank">10.30919/esmm1127</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.30919/esmm1127" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.30919/esmm1127" target="_blank">10.30919/esmm1127</a>
 
 <a href="../../../author/mustafa_azamat"><b>Mustafa</b>&nbsp;Azamat</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2559-908X" title="ORCID: 0009-0007-2559-908X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/storch_florian"><b>Storch</b>&nbsp;Florian</a></span>, <a href="../../../author/rustem_kairov"><b>Rustem</b>&nbsp;Kairov</a></span>, <a href="../../../author/plashnik_paul"><b>Plashnik</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9168-0835" title="ORCID: 0000-0002-9168-0835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/will_frank"><b>Will</b>&nbsp;Frank</a></span>, <a href="../../../author/mukhagali_sagyntai"><b>Mukhagali</b>&nbsp;Sagyntai</a></span>, <a href="../../../author/baigunchekov_zhumadil"><b>Baigunchekov</b>&nbsp;Zhumadil</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1886-2824" title="ORCID: 0000-0003-1886-2824" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/waurich_volker"><b>Waurich</b>&nbsp;Volker</a></span><br>
 Journal Article - ES Materials & Manufacturing
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manipulator"><button class="btn">#manipulator</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Compensation%20Manipulator%20for%20Concrete%203D%20Printing%20Based%20on%20the%20CONPrint3D" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=compensation+manipulator+for+concrete+3d+printing+based+on+the+conprint3d&as_occt=title&as_sauthors=mustafa&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85195027508&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.30919/esmm1127" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

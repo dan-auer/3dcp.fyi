@@ -18,14 +18,15 @@ tags:
 ---
 
 #Development of a Novel 3D Construction Printer for Consistent Buildability of Novel Geopolymer Mortar and Its Challenges ([2024-12](date/2024/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/s00170-024-14865-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-14865-1" target="_blank">10.1007/s00170-024-14865-1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s00170-024-14865-1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s00170-024-14865-1" target="_blank">10.1007/s00170-024-14865-1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0428-957X" title="ORCID: 0000-0003-0428-957X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ali_hazrat_md"><b>Ali</b>&nbsp;Md.</a></span>, <a href="../../../author/abilgaziyev_anuar"><b>Abilgaziyev</b>&nbsp;Anuar</a></span>, <a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b>&nbsp;Bakbergen</a></span>, <a href="../../../author/kurokawa_syuhei"><b>Kurokawa</b>&nbsp;Syuhei</a></span><br>
 Journal Article - The International Journal of Advanced Manufacturing Technology
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/consistency"><button class="btn">#consistency</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Novel%203D%20Construction%20Printer%20for%20Consistent%20Buildability%20of%20Novel%20Geopolymer%20Mortar%20and%20Its%20Challenges" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+novel+3d+construction+printer+for+consistent+buildability+of+novel+geopolymer+mortar+and+its+challenges&as_occt=title&as_sauthors=ali&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85212466129&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001380024400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s00170-024-14865-1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

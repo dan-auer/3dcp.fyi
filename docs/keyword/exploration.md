@@ -8,6 +8,10 @@ search:
 
 # #exploration
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (34)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (28)</button></a> <a href="../../keyword/material"><button class="btn">#material (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (8)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cardenas_villamil_valeria"><b>Cárdenas</b> Valeria</a>, <a href="../../../author/vargas_diego_juan"><b>Vargas</b> Juan</a>, <a href="../../../author/fantucci_stefano"><b>Fantucci</b> Stefano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../card_varg_fant.2026.TOaMEfItTPo3PPWC/">Topological Optimization and Material Exploration for Improving the Thermal Performance of 3D Printed Prefabricated Wall Components</a></li>
   <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a>, <a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../iqba_kasi_besk_inqi.2026.EKDaFRDi3PC/">Exploring Knowledge Domains and Future Research Directions in 3D Printed Concrete:<br/>A Bibliometric and Systematic Review</a></li>

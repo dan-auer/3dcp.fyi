@@ -14,14 +14,15 @@ tags:
 ---
 
 #An Fe-Rich Slag-Based Mortar for 3D Printing ([2020-07](date/2020/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-030-49916-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_1" target="_blank">10.1007/978-3-030-49916-7_1</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-030-49916-7_1" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_1" target="_blank">10.1007/978-3-030-49916-7_1</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5183-9971" title="ORCID: 0000-0001-5183-9971" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/beersaerts_glenn"><b>Beersaerts</b>&nbsp;Glenn</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3893-5322" title="ORCID: 0000-0003-3893-5322" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b>&nbsp;Sandra</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2210-5394" title="ORCID: 0000-0002-2210-5394" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pontikes_yiannis"><b>Pontikes</b>&nbsp;Yiannis</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 3-12
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slag"><button class="btn">#slag</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=An%20Fe-Rich%20Slag-Based%20Mortar%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=an+fe-rich+slag-based+mortar+for+3d+printing&as_occt=title&as_sauthors=beersaerts&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088250088&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-030-49916-7_1" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

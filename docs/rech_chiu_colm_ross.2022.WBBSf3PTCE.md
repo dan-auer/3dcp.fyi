@@ -16,14 +16,15 @@ tags:
 ---
 
 #Waste-Based Biopolymer-Slurry for 3D Printing Targeting Construction Elements ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://backend.orbit.dtu.dk/ws/files/297361832/1_s2.0_S2352492822018049_main.pdf) <a href="https://doi.org/10.1016/j.mtcomm.2022.104963" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2022.104963" target="_blank">10.1016/j.mtcomm.2022.104963</a>
+<a href="https://backend.orbit.dtu.dk/ws/files/297361832/1_s2.0_S2352492822018049_main.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.mtcomm.2022.104963" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.mtcomm.2022.104963" target="_blank">10.1016/j.mtcomm.2022.104963</a>
 
 <a href="../../../author/rech_arianna"><b>Rech</b>&nbsp;Arianna</a></span>, <a href="../../../author/chiujdea_ruxandra-stefania"><b>Chiujdea</b>&nbsp;Ruxandra-Stefania</a></span>, <a href="../../../author/colmo_claudia"><b>Colmo</b>&nbsp;Claudia</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0746-1566" title="ORCID: 0000-0003-0746-1566" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rossi_gabriella"><b>Rossi</b>&nbsp;Gabriella</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <a href="../../../author/tamke_martin"><b>Tamke</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3093-8556" title="ORCID: 0000-0002-3093-8556" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/thomsen_ramsgaard_mette"><b>Thomsen</b>&nbsp;Mette</a></span>, <a href="../../../author/daugaard_e_anders"><b>Daugaard</b>&nbsp;Anders</a></span><br>
 Journal Article - Materials Today Communications, Vol. 33
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/slurry"><button class="btn">#slurry</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Waste-Based%20Biopolymer-Slurry%20for%203D%20Printing%20Targeting%20Construction%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=waste-based+biopolymer-slurry+for+3d+printing+targeting+construction+elements&as_occt=title&as_sauthors=rech&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85142140416&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.mtcomm.2022.104963" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Quantifying Quality of 3D Printed Clay Objects Using a 3D Structured Light Scanning System ([2019-12](date/2019/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2019.100987" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100987" target="_blank">10.1016/j.addma.2019.100987</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2019.100987" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2019.100987" target="_blank">10.1016/j.addma.2019.100987</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9415-3187" title="ORCID: 0000-0001-9415-3187" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wi_kwangwoo"><b>Wi</b>&nbsp;Kwangwoo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7087-4446" title="ORCID: 0000-0002-7087-4446" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/suresh_vignesh"><b>Suresh</b>&nbsp;Vignesh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7466-3451" title="ORCID: 0000-0002-7466-3451" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wang_kejin"><b>Wang</b>&nbsp;Kejin</a></span>, <a href="../../../author/li_beiwen"><b>Li</b>&nbsp;Beiwen</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4180-7911" title="ORCID: 0000-0003-4180-7911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qin_hantang"><b>Qin</b>&nbsp;Hantang</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 32
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quality"><button class="btn">#quality</button></a> <a href="../../keyword/quantity"><button class="btn">#quantity</button></a> <a href="../../keyword/scan"><button class="btn">#scan</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Quantifying%20Quality%20of%203D%20Printed%20Clay%20Objects%20Using%20a%203D%20Structured%20Light%20Scanning%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=quantifying+quality+of+3d+printed+clay+objects+using+a+3d+structured+light+scanning+system&as_occt=title&as_sauthors=wi&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85076979637&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000522928600081" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2019.100987" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

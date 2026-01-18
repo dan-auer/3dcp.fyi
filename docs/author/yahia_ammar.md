@@ -9,6 +9,60 @@ search:
 
 #  Yahia Ammar 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2020-05-19
+    
+    Last Contribution
+    : 2025-10-30
+
+    Number Contributions
+    : 14
+
+    Number Citations
+    : 194
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a> (7)</li>
+        <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a> (6)</li>
+        <li><a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> (6)</li>
+        <li><a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a> (6)</li>
+        <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/moeini_amin_mohammad"><b>Moeini</b> Mohammad</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../moei_hoss_yahi.2020.EotRMtEtBUoCMUf3P/">Effectiveness of the Rheometric Methods to Evaluate the Build-Up of Cementitious Mortars Used for 3D Printing</a> (76)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (33)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (32)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (29)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (29)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> (8)</li>
+        <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a> (8)</li>
+        <li><a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a> (6)</li>
+        <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> (6)</li>
+        <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/gonzalez-avina_v_j"><b>González-Aviña</b> J.</a>, <a href="../../../author/hosseinpoor_masoud"><b>Hosseinpoor</b> Masoud</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/kohandelnia_mojtaba"><b>Kohandelnia</b> Mojtaba</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gonz_hoss_yahi_koha.2025.ABtECRPf3PA/">Anionic Biopolymers to Enhance Concrete Rheological Properties for 3D Printing Applications</a></li>
   <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../harb_yahi_rozi_louk.2025.ST/">Squeeze Test:<br/>A Toolkit for Assessing the Printability of Stiff Cement-Based Materials.</a></li>

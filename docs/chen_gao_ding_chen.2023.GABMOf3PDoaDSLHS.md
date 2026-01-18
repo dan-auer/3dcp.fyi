@@ -19,14 +19,15 @@ tags:
 ---
 
 #Genetic Algorithm-Based Multiobjective Optimization for 3D Printable Design of a Double-Shell Lunar-Habitat-Structure ([2023-07](date/2023/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1061/jaeeez.aseng-4755" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeeez.aseng-4755" target="_blank">10.1061/jaeeez.aseng-4755</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1061/jaeeez.aseng-4755" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeeez.aseng-4755" target="_blank">10.1061/jaeeez.aseng-4755</a>
 
 <a href="../../../author/chen_quanyao"><b>Chen</b>&nbsp;Quanyao</a></span>, <a href="../../../author/gao_yuyue"><b>Gao</b>&nbsp;Yuyue</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9873-3776" title="ORCID: 0000-0002-9873-3776" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ding_lieyun"><b>Ding</b>&nbsp;Lieyun</a></span>, <a href="../../../author/cheng_zhou"><b>Cheng</b>&nbsp;Zhou</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9843-762X" title="ORCID: 0000-0001-9843-762X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/han_wenbin"><b>Han</b>&nbsp;Wenbin</a></span>, <a href="../../../author/zhou_yan"><b>Zhou</b>&nbsp;Yan</a></span>, <a href="../../../author/yusheng_shi"><b>Yusheng</b>&nbsp;Shi</a></span><br>
 Journal Article - Journal of Aerospace Engineering, Vol. 36, Iss. 6
 
 <a href="../../keyword/algorithm"><button class="btn">#algorithm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/double"><button class="btn">#double</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Genetic%20Algorithm-Based%20Multiobjective%20Optimization%20for%203D%20Printable%20Design%20of%20a%20Double-Shell%20Lunar-Habitat-Structure" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=genetic+algorithm-based+multiobjective+optimization+for+3d+printable+design+of+a+double-shell+lunar-habitat-structure&as_occt=title&as_sauthors=chen&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85167432348&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001068154500012" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1061/jaeeez.aseng-4755" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

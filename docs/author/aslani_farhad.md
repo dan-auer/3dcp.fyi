@@ -9,6 +9,60 @@ search:
 
 #  Aslani Farhad 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-7640-711X" target="_blank">0000-0002-7640-711X</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2025-11-11
+
+    Number Contributions
+    : 20
+
+    Number Citations
+    : 385
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (4)</li>
+        <li><a href="../../../author/wang_lining"><b>Wang</b> Lining</a> (3)</li>
+        <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> (3)</li>
+        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a> (92)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (48)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (44)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (38)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (37)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (27)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (31)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (21)</li>
+        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (17)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (15)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bates_rhys"><b>Bates</b> Rhys</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../bate_asla.2025.Po3PCCwGRUAC/">Performance of 3D-Printed Concrete Columns with GFRP Rebars Under Axial Compression</a></li>
   <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>

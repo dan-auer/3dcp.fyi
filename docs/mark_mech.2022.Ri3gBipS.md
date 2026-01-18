@@ -11,14 +11,15 @@ tags:
 
 #Rissbildung in 3D gedruckten Betonelementen infolge plastischen Schwindens&nbsp;([2022-09](date/2022/09))
 <div class="h1-like">Ursachen und Quantifizierungsmethoden</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://tud.qucosa.de/api/qucosa%3A81870/attachment/ATT-0/) <a href="https://doi.org/10.25368/2022.387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25368/2022.387" target="_blank">10.25368/2022.387</a>
+<a href="https://tud.qucosa.de/api/qucosa%3A81870/attachment/ATT-0/" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.25368/2022.387" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.25368/2022.387" target="_blank">10.25368/2022.387</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8874-0078" title="ORCID: 0000-0001-8874-0078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/markin_viacheslav_slava"><b>Markin</b>&nbsp;Slava</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Contribution - Beiträge zum 61. Forschungskolloquium mit 9. Jahrestagung des DAfStb, pp. 115-120
 
 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Rissbildung%20in%203D%20gedruckten%20Betonelementen%20infolge%20plastischen%20Schwindens" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=rissbildung+in+3d+gedruckten+betonelementen+infolge+plastischen+schwindens&as_occt=title&as_sauthors=markin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.25368/2022.387" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

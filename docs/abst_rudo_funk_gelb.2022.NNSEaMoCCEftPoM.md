@@ -24,7 +24,7 @@ Contribution - Proceedings of the 14th fib PhD Symposium in Civil Engineering, p
 
 <a href="../../keyword/complexity"><button class="btn">#complexity</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/milling"><button class="btn">#milling</button></a> <a href="../../keyword/mould"><button class="btn">#mould</button></a> <a href="../../keyword/near"><button class="btn">#near</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/shape"><button class="btn">#shape</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Near-Net-Shape-Extrusion%20and%20Milling%20of%20Complex%20Concrete%20Elements%20for%20the%20Production%20of%20Moulds" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=near-net-shape-extrusion+and+milling+of+complex+concrete+elements+for+the+production+of+moulds&as_occt=title&as_sauthors=absto%C3%9F&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

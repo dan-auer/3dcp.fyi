@@ -8,6 +8,10 @@ search:
 
 # #temporary
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (5)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (4)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (2)</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/du_shizhao"><b>Du</b> Shizhao</a>, <a href="../../../author/kang_chunxia"><b>Kang</b> Chunxia</a>, <a href="../../../author/du_xiuli"><b>Du</b> Xiuli</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../du_kang_du.2025.FPo3PRCSfTP/">Fatigue Performance of 3D Printed Reusable Concrete Slabs for Temporary Pavements</a></li>
   <li><a href="../../../author/bartaky_markus"><b>Bartaky</b> Markus</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../bart_gosc_stav.2024.STH/">Sustainable Temporary Housing:<br/>An Evaluation-Framework for Large-Scale 3D Printer for Adobe Construction in Challenging Environments</a></li>

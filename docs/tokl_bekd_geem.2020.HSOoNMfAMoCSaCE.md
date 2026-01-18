@@ -19,14 +19,15 @@ tags:
 ---
 
 #Harmony-Search-Optimization of Nozzle Movement for Additive Manufacturing of Concrete Structures and Concrete Elements ([2020-06](date/2020/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2076-3417/10/12/4413/pdf?version=1605262554) <a href="https://doi.org/10.3390/app10124413" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app10124413" target="_blank">10.3390/app10124413</a>
+<a href="https://www.mdpi.com/2076-3417/10/12/4413/pdf?version=1605262554" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/app10124413" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/app10124413" target="_blank">10.3390/app10124413</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1550-1911" title="ORCID: 0000-0002-1550-1911" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toklu_cengiz_yusuf"><b>Toklu</b>&nbsp;Yusuf</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7327-9810" title="ORCID: 0000-0002-7327-9810" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bekdas_gebrail"><b>Bekdaş</b>&nbsp;Gebrail</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0370-5562" title="ORCID: 0000-0002-0370-5562" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/geem_woo_zong"><b>Geem</b>&nbsp;Zong</a></span><br>
 Journal Article - Applied Sciences, Vol. 10, Iss. 12
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/harmonization"><button class="btn">#harmonization</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/movement"><button class="btn">#movement</button></a> <a href="../../keyword/nozzle"><button class="btn">#nozzle</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Harmony-Search-Optimization%20of%20Nozzle%20Movement%20for%20Additive%20Manufacturing%20of%20Concrete%20Structures%20and%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=harmony-search-optimization+of+nozzle+movement+for+additive+manufacturing+of+concrete+structures+and+concrete+elements&as_occt=title&as_sauthors=toklu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85087342261&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000549346300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/app10124413" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

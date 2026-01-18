@@ -18,14 +18,15 @@ tags:
 
 #3D Printing of Buildings&nbsp;([2017-10](date/2017/10))
 <div class="h1-like">Construction of the Sustainable Houses of the Future by BIM</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.egypro.2017.09.562) <a href="https://doi.org/10.1016/j.egypro.2017.09.562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.egypro.2017.09.562" target="_blank">10.1016/j.egypro.2017.09.562</a>
+<a href="https://doi.org/10.1016/j.egypro.2017.09.562" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.egypro.2017.09.562" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.egypro.2017.09.562" target="_blank">10.1016/j.egypro.2017.09.562</a>
 
 <a href="../../../author/sakin_mehmet"><b>Sakin</b>&nbsp;Mehmet</a></span>, <a href="../../../author/kiroglu_caner_yusuf"><b>Kiroglu</b>&nbsp;Yusuf</a></span><br>
 Journal Article - Procedia Engineering, Vol. 134, pp. 702-711
 
 <a href="../../keyword/bim"><button class="btn">#bim</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Buildings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+buildings&as_occt=title&as_sauthors=sakin&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85032697722&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000426694800071" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.egypro.2017.09.562" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -47,8 +48,9 @@ Journal Article - Procedia Engineering, Vol. 134, pp. 702-711
     <ol class = "bordered-list">
       <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a></li>
     </ol>
-???+ bug "112 Citations"
+???+ bug "113 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a></li>
       <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a>, <a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a>, <a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../mura_krav_yuva_avud.2025.NGGC/">Next-Generation Green Construction:<br/>3D-Printed Geopolymer Concrete with Optimized Rheology, Mechanical Performance, and Environmental Efficiency</a></li>
       <li><a href="../../../author/adeel_muhammad"><b>Adeel</b> Muhammad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../adee.2025.TDCPfSCaA/">Three-Dimensional Concrete Printing for Sustainable Construction and Architecture:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/kubjana_lucy"><b>Kubjana</b> Lucy</a>, <a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a>, <a href="../../../author/adekunle_peter"><b>Adekunle</b> Peter</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kubj_aigb_adek.2025.AS3PC/">Advancing Sustainable 3D-Printed Concrete:<br/>A Bibliometric Study on Financing Housing Options</a></li>

@@ -23,14 +23,15 @@ tags:
 ---
 
 #Evaluation of Mechanical and Microstructural Properties of Sustainable 3D-Printed Engineered Cementitious Composites Incorporating Hybrid PE/PVA Fibers and Yellow River Sand ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.cscm.2025.e05578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05578" target="_blank">10.1016/j.cscm.2025.e05578</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05578" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05578" target="_blank">10.1016/j.cscm.2025.e05578</a>
 
 <a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/tan_binglin"><b>Tan</b>&nbsp;Binglin</a></span>, <a href="../../../author/jiajia_zhou"><b>Jiajia</b>&nbsp;Zhou</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ali_basit_syed"><b>Ali</b>&nbsp;Syed</a></span>, <a href="../../../author/iqbal_safdar"><b>Iqbal</b>&nbsp;Safdar</a></span>, <a href="../../../author/yuan_chengfang"><b>Yuan</b>&nbsp;Chengfang</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05578
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/pva"><button class="btn">#pva</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Mechanical%20and%20Microstructural%20Properties%20of%20Sustainable%203D-Printed%20Engineered%20Cementitious%20Composites%20Incorporating%20Hybrid%20PE/PVA%20Fibers%20and%20Yellow%20River%20Sand" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+mechanical+and+microstructural+properties+of+sustainable+3d-printed+engineered+cementitious+composites+incorporating+hybrid+pe%2Fpva+fibers+and+yellow+river+sand&as_occt=title&as_sauthors=raza&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001627843800004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05578" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

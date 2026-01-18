@@ -9,6 +9,60 @@ search:
 
 #  Markin Slava 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8874-0078" target="_blank">0000-0001-8874-0078</a>
+
+    First Contribution
+    : 2019-07-30
+    
+    Last Contribution
+    : 2024-09-30
+
+    Number Contributions
+    : 15
+
+    Number Citations
+    : 229
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (15)</li>
+        <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> (3)</li>
+        <li><a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> (2)</li>
+        <li><a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a> (2)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/krause_martin"><b>Krause</b> Martin</a>, <a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../mark_krau_otto_schr.2021.3PwFC/">3D Printing with Foam-Concrete:<br/>From Material Design and Testing to Application and Sustainability</a> (68)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (60)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (47)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (19)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (16)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
+        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (11)</li>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (11)</li>
+        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (11)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_cord_comb_mech.2024.DBo3PCEIbPS/">Deformation Behavior of 3D Printed Concrete Elements Induced by Plastic Shrinkage</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_mech.2024.MPSaCi3PCTSR/">Mitigating Plastic Shrinkage and Cracking in 3D Printed Concrete Through Surface Rewetting</a></li>

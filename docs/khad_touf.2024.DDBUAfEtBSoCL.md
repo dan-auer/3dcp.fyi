@@ -19,14 +19,15 @@ tags:
 ---
 
 #Data-Driven-Based Ultrasonics-Analysis for Evaluating the Bond-Strength of Concrete-Layers ([2023-09](date/2023/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.ultras.2023.107168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ultras.2023.107168" target="_blank">10.1016/j.ultras.2023.107168</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ultras.2023.107168" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ultras.2023.107168" target="_blank">10.1016/j.ultras.2023.107168</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9577-0117" title="ORCID: 0000-0002-9577-0117" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/khademi_pooria"><b>Khademi</b>&nbsp;Pooria</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2462-980X" title="ORCID: 0000-0003-2462-980X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/toufigh_vahab"><b>Toufigh</b>&nbsp;Vahab</a></span><br>
 Journal Article - Ultrasonics, Vol. 136
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/bond"><button class="btn">#bond</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/ultrasonic"><button class="btn">#ultrasonic</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Data-Driven-Based%20Ultrasonics-Analysis%20for%20Evaluating%20the%20Bond-Strength%20of%20Concrete-Layers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=data-driven-based+ultrasonics-analysis+for+evaluating+the+bond-strength+of+concrete-layers&as_occt=title&as_sauthors=khademi&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85172903387&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001084588500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ultras.2023.107168" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Li Baoshan 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2023-02-10
+    
+    Last Contribution
+    : 2024-01-18
+
+    Number Contributions
+    : 3
+
+    Number Citations
+    : 47
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lu_cong"><b>Lu</b> Cong</a> (3)</li>
+        <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> (2)</li>
+        <li><a href="../../../author/pang_zhiming"><b>Pang</b> Zhiming</a> (1)</li>
+        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a> (1)</li>
+        <li><a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/pang_zhiming"><b>Pang</b> Zhiming</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/wang_jiajie"><b>Wang</b> Jiajie</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../pang_lu_li_wang.2023.AMSMfQFOEotTPo3PECC/">A Multi-Scale Model for Quantifying Fiber-Orientation Effects on the Tensile Properties of 3D Printed Engineered Cementitious Composites</a> (23)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a> (12)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (9)</li>
+        <li><a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a> (8)</li>
+        <li><a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a> (6)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (8)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (7)</li>
+        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (7)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (6)</li>
+        <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../pi_lu_yao_li.2024.ARBPAMf3PECCCFD/">A Rheological-Based Printability-Assessment Method for 3D Printing Engineered Cementitious Composites Considering Fiber-Dispersion</a></li>
   <li><a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a>, <a href="../../../author/li_baoshan"><b>Li</b> Baoshan</a>, <a href="../../../author/zhou_junhui"><b>Zhou</b> Junhui</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pi_lu_li_zhou.2023.CPaFMo3PECC3EUBL/">Crack Propagation and Failure Mechanism of 3D Printing Engineered Cementitious Composites (3DP-ECC) Under Bending Loads</a></li>

@@ -13,14 +13,15 @@ tags:
 ---
 
 #Perspectives in Architected Infrastructure Materials ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://letters.rilem.net/index.php/rilem/article/download/183/191) <a href="https://doi.org/10.21809/rilemtechlett.2023.183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2023.183" target="_blank">10.21809/rilemtechlett.2023.183</a>
+<a href="https://letters.rilem.net/index.php/rilem/article/download/183/191" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.21809/rilemtechlett.2023.183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.21809/rilemtechlett.2023.183" target="_blank">10.21809/rilemtechlett.2023.183</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-3117-6212" title="ORCID: 0000-0003-3117-6212" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moini_mohamadreza"><b>Moini</b>&nbsp;Mohamadreza</a></span><br>
 Journal Article - RILEM Technical Letters, Vol. 8, pp. 125-140
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/infrastructure"><button class="btn">#infrastructure</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Perspectives%20in%20Architected%20Infrastructure%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=perspectives+in+architected+infrastructure+materials&as_occt=title&as_sauthors=moini&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85183420427&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.21809/rilemtechlett.2023.183" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

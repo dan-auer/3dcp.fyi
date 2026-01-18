@@ -21,14 +21,15 @@ tags:
 
 #Tensile Strain-Hardening Cementitious Composites and Its Practical Exploration Without Reinforcement&nbsp;([2022-12](date/2022/12))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.frontiersin.org/articles/10.3389/fmats.2022.1066796/pdf) <a href="https://doi.org/10.3389/fmats.2022.1066796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2022.1066796" target="_blank">10.3389/fmats.2022.1066796</a>
+<a href="https://www.frontiersin.org/articles/10.3389/fmats.2022.1066796/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3389/fmats.2022.1066796" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3389/fmats.2022.1066796" target="_blank">10.3389/fmats.2022.1066796</a>
 
 <a href="../../../author/jiang_fangming"><b>Jiang</b>&nbsp;Fangming</a></span>, <a href="../../../author/long_xiong"><b>Long</b>&nbsp;Xiong</a></span>, <a href="../../../author/tian_likang"><b>Tian</b>&nbsp;Likang</a></span>, <a href="../../../author/tan_yan"><b>Tan</b>&nbsp;Yan</a></span>, <a href="../../../author/yu_jiangtao"><b>Yu</b>&nbsp;Jiangtao</a></span><br>
 Journal Article - Frontiers in Materials, Vol. 9
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/practice"><button class="btn">#practice</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/strain"><button class="btn">#strain</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/without"><button class="btn">#without</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tensile%20Strain-Hardening%20Cementitious%20Composites%20and%20Its%20Practical%20Exploration%20Without%20Reinforcement" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tensile+strain-hardening+cementitious+composites+and+its+practical+exploration+without+reinforcement&as_occt=title&as_sauthors=jiang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85145349816&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000906393300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3389/fmats.2022.1066796" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Additive Manufacturing of Lightweight Gypsum and Expanded Polystyrene Granulate Composite ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2504-477X/7/10/425/pdf?version=1696927356) <a href="https://doi.org/10.3390/jcs7100425" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs7100425" target="_blank">10.3390/jcs7100425</a>
+<a href="https://www.mdpi.com/2504-477X/7/10/425/pdf?version=1696927356" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/jcs7100425" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jcs7100425" target="_blank">10.3390/jcs7100425</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6617-0120" title="ORCID: 0000-0002-6617-0120" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bumanis_girts"><b>Bumanis</b>&nbsp;Girts</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-1221-2026" title="ORCID: 0009-0007-1221-2026" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sapata_alise"><b>Sapata</b>&nbsp;Alise</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2332-1347" title="ORCID: 0000-0002-2332-1347" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sinka_maris"><b>Šinka</b>&nbsp;Māris</a></span>, <a href="../../../author/spurina_ella"><b>Spuriņa</b>&nbsp;Ella</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3250-5594" title="ORCID: 0000-0002-3250-5594" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bajare_diana"><b>Bajāre</b>&nbsp;Diāna</a></span><br>
 Journal Article - Journal of Composites Science, Vol. 7, Iss. 10, No. 425
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/expansion"><button class="btn">#expansion</button></a> <a href="../../keyword/grain"><button class="btn">#grain</button></a> <a href="../../keyword/gypsum"><button class="btn">#gypsum</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Lightweight%20Gypsum%20and%20Expanded%20Polystyrene%20Granulate%20Composite" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+lightweight+gypsum+and+expanded+polystyrene+granulate+composite&as_occt=title&as_sauthors=bumanis&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85175572292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001095235400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/jcs7100425" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

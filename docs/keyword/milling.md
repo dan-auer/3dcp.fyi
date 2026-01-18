@@ -8,6 +8,10 @@ search:
 
 # #milling
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (9)</button></a> <a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/green"><button class="btn">#green (4)</button></a> <a href="../../keyword/state"><button class="btn">#state (4)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/kinski_wojciech"><b>Kiński</b> Wojciech</a>, <a href="../../../author/siwicki_przemyslaw"><b>Siwicki</b> Przemysław</a>, <a href="../../../author/zielinski_jacek"><b>Zieliński</b> Jacek</a>, <a href="../../../author/smater_michal"><b>Smater</b> Michał</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../kins_siwi_ziel_smat.2026.AoaLSMPMMf3PfC/">Adaptation of a Large-Scale, Modular Printer-Milling Machine for 3D Printing from Concrete</a></li>

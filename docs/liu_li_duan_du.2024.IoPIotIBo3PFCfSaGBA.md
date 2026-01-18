@@ -20,14 +20,15 @@ tags:
 ---
 
 #Influence of Printing Interval on the Imbibition Behavior of 3D Printed Foam-Concrete for Sustainable and Green Building Applications ([2024-09](date/2024/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/su16177841) <a href="https://doi.org/10.3390/su16177841" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16177841" target="_blank">10.3390/su16177841</a>
+<a href="https://doi.org/10.3390/su16177841" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/su16177841" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/su16177841" target="_blank">10.3390/su16177841</a>
 
 <a href="../../../author/liu_xiaoshuang"><b>Liu</b>&nbsp;Xiaoshuang</a></span>, <a href="../../../author/li_shiming"><b>Li</b>&nbsp;Shiming</a></span>, <a href="../../../author/duan_yanjun"><b>Duan</b>&nbsp;Yanjun</a></span>, <a href="../../../author/du_zhiqin"><b>Du</b>&nbsp;Zhiqin</a></span>, <a href="../../../author/zuo_xiaobao"><b>Zuo</b>&nbsp;Xiaobao</a></span>, <a href="../../../author/dong_jianjun"><b>Dong</b>&nbsp;Jianjun</a></span>, <a href="../../../author/cheng_helan"><b>Cheng</b>&nbsp;Helan</a></span><br>
 Journal Article - Sustainability, Vol. 16, Iss. 17, No. 7841
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/interval"><button class="btn">#interval</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Printing%20Interval%20on%20the%20Imbibition%20Behavior%20of%203D%20Printed%20Foam-Concrete%20for%20Sustainable%20and%20Green%20Building%20Applications" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+printing+interval+on+the+imbibition+behavior+of+3d+printed+foam-concrete+for+sustainable+and+green+building+applications&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204153567&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001311461600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/su16177841" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

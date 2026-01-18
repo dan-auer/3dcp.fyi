@@ -20,14 +20,15 @@ tags:
 
 #Study on Printability of 3D Printing Carbon-Fiber-Reinforced Eco-Friendly Concrete&nbsp;([2024-08](date/2024/08))
 <div class="h1-like">Characterized by Fluidity and Consistency</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2024.e03589) <a href="https://doi.org/10.1016/j.cscm.2024.e03589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03589" target="_blank">10.1016/j.cscm.2024.e03589</a>
+<a href="https://doi.org/10.1016/j.cscm.2024.e03589" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2024.e03589" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2024.e03589" target="_blank">10.1016/j.cscm.2024.e03589</a>
 
 <a href="../../../author/xu_wen"><b>Xu</b>&nbsp;Wen</a></span>, <a href="../../../author/jiang_dengjie"><b>Jiang</b>&nbsp;Dengjie</a></span>, <a href="../../../author/zhao_qian"><b>Zhao</b>&nbsp;Qian</a></span>, <a href="../../../author/wang_linbing"><b>Wang</b>&nbsp;Linbing</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e03589
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/character"><button class="btn">#character</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/consistency"><button class="btn">#consistency</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Study%20on%20Printability%20of%203D%20Printing%20Carbon-Fiber-Reinforced%20Eco-Friendly%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=study+on+printability+of+3d+printing+carbon-fiber-reinforced+eco-friendly+concrete&as_occt=title&as_sauthors=xu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85199944995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001288646600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2024.e03589" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

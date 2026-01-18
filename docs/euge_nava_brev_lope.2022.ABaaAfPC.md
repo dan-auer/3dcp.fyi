@@ -20,14 +20,15 @@ tags:
 
 #Air-Bubbles as an Admixture for Printable Concrete&nbsp;([2022-02](date/2022/02))
 <div class="h1-like">A Review of the Rheological Effect of Entrained Air</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831532) <a href="https://doi.org/10.1089/3dp.2020.0302" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0302" target="_blank">10.1089/3dp.2020.0302</a>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9831532" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2020.0302" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2020.0302" target="_blank">10.1089/3dp.2020.0302</a>
 
 <span class="author"><a href="https://orcid.org/0009-0009-3820-8783" title="ORCID: 0009-0009-3820-8783" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/eugenin_claudia"><b>Eugenin</b>&nbsp;Claudia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2918-7900" title="ORCID: 0000-0002-2918-7900" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/navarrete_ivan"><b>Navarrete</b>&nbsp;Iván</a></span>, <a href="../../../author/brevis_wernher"><b>Brevis</b>&nbsp;Wernher</a></span>, <a href="../../../author/lopez_mauricio"><b>Lopez</b>&nbsp;Mauricio</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing, Vol. 9, Iss. 1, pp. 64-80
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/air"><button class="btn">#air</button></a> <a href="../../keyword/bubble"><button class="btn">#bubble</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/entrainment"><button class="btn">#entrainment</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Air-Bubbles%20as%20an%20Admixture%20for%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=air-bubbles+as+an+admixture+for+printable+concrete&as_occt=title&as_sauthors=eugenin&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124885995&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000642709300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2020.0302" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

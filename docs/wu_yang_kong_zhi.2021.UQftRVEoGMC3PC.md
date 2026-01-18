@@ -17,14 +17,15 @@ tags:
 ---
 
 #Uncertainty Quantification for the Representative Volume Element of Geometrically Mono-Clinic 3D Printed Concrete ([2021-05](date/2021/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.ijsolstr.2021.111102) <a href="https://doi.org/10.1016/j.ijsolstr.2021.111102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijsolstr.2021.111102" target="_blank">10.1016/j.ijsolstr.2021.111102</a>
+<a href="https://doi.org/10.1016/j.ijsolstr.2021.111102" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.ijsolstr.2021.111102" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.ijsolstr.2021.111102" target="_blank">10.1016/j.ijsolstr.2021.111102</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2033-0520" title="ORCID: 0000-0002-2033-0520" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_yuching"><b>Wu</b>&nbsp;Yuching</a></span>, <a href="../../../author/yang_qianfan"><b>Yang</b>&nbsp;Qianfan</a></span>, <a href="../../../author/kong_xiangrui"><b>Kong</b>&nbsp;Xiangrui</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3690-5018" title="ORCID: 0000-0002-3690-5018" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_peng"><b>Zhi</b>&nbsp;Peng</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1287-1199" title="ORCID: 0000-0003-1287-1199" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/xiao_jianzhuang"><b>Xiao</b>&nbsp;Jianzhuang</a></span><br>
 Journal Article - International Journal of Solids and Structures, Vol. 226-227
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/mono"><button class="btn">#mono</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Uncertainty%20Quantification%20for%20the%20Representative%20Volume%20Element%20of%20Geometrically%20Mono-Clinic%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=uncertainty+quantification+for+the+representative+volume+element+of+geometrically+mono-clinic+3d+printed+concrete&as_occt=title&as_sauthors=wu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85107270229&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000688287200004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.ijsolstr.2021.111102" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

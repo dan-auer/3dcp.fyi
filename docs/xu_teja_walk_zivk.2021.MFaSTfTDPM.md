@@ -20,14 +20,15 @@ tags:
 
 #Measuring Flow- and Setting-Time for Three-Dimensionally Printed Mortar&nbsp;([2021-11](date/2021/11))
 <div class="h1-like">Case Study</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.14359/51734152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734152" target="_blank">10.14359/51734152</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.14359/51734152" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51734152" target="_blank">10.14359/51734152</a>
 
 <a href="../../../author/xu_emily"><b>Xu</b>&nbsp;Emily</a></span>, <a href="../../../author/tejada_vanessa_karin"><b>Tejada</b>&nbsp;Karin</a></span>, <a href="../../../author/walker_david"><b>Walker</b>&nbsp;David</a></span>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span>, <a href="../../../author/hover_c_kenneth"><b>Hover</b>&nbsp;Kenneth</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 395-406
 
 <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Measuring%20Flow-%20and%20Setting-Time%20for%20Three-Dimensionally%20Printed%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=measuring+flow-+and+setting-time+for+three-dimensionally+printed+mortar&as_occt=title&as_sauthors=xu&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85122154125&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000750874800035" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.14359/51734152" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

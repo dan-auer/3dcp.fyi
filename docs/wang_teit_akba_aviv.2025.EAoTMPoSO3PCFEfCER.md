@@ -24,14 +24,15 @@ tags:
 ---
 
 #Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction ([2025-11](date/2025/11))
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1088/1742-6596/3140/2/022037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/3140/2/022037" target="_blank">10.1088/1742-6596/3140/2/022037</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/3140/2/022037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/3140/2/022037" target="_blank">10.1088/1742-6596/3140/2/022037</a>
 
 <a href="../../../author/wang_zherui"><b>Wang</b>&nbsp;Zherui</a></span>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b>&nbsp;E.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span>, <a href="../../../author/aviv_d"><b>Aviv</b>&nbsp;D.</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 3140, Iss. 2, No. 022037
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/floor"><button class="btn">#floor</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Assessment%20on%20Thermal%20Mass%20Performance%20of%20Structurally%20Optimized%2C%203D-Printed%20Concrete%20Floor%20Element%20for%20Carbon%20Emission%20Reduction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+assessment+on+thermal+mass+performance+of+structurally+optimized%2C+3d-printed+concrete+floor+element+for+carbon+emission+reduction&as_occt=title&as_sauthors=wang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/3140/2/022037" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #Additive Manufacturing Technologies for the Construction Industry ([2005-11](date/2005/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/0470033991.ch17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/0470033991.ch17" target="_blank">10.1002/0470033991.ch17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/0470033991.ch17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/0470033991.ch17" target="_blank">10.1002/0470033991.ch17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soar_c_rupert"><b>Soar</b>&nbsp;Rupert</a></span><br>
 Contribution - Rapid Manufacturing, pp. 249-273
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20Technologies%20for%20the%20Construction%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+technologies+for+the+construction+industry&as_occt=title&as_sauthors=soar&as_ylo=2003&as_yhi=2007&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84859206502&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000302865300018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/0470033991.ch17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

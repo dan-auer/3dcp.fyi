@@ -15,14 +15,15 @@ tags:
 ---
 
 #How 3D Printers for Houses Can Reduce CO2 Emissions ([2025-02](date/2025/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/buildings15040599) <a href="https://doi.org/10.3390/buildings15040599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15040599" target="_blank">10.3390/buildings15040599</a>
+<a href="https://doi.org/10.3390/buildings15040599" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings15040599" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15040599" target="_blank">10.3390/buildings15040599</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-9725-1952" title="ORCID: 0009-0008-9725-1952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/palazzo_andrea"><b>Palazzo</b>&nbsp;Andrea</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 4, No. 599
 
 <a href="../../keyword/co2"><button class="btn">#co2</button></a> <a href="../../keyword/emission"><button class="btn">#emission</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reduction"><button class="btn">#reduction</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=How%203D%20Printers%20for%20Houses%20Can%20Reduce%20CO2%20Emissions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=how+3d+printers+for+houses+can+reduce+co2+emissions&as_occt=title&as_sauthors=palazzo&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85218466711&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001432294100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings15040599" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

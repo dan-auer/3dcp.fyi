@@ -18,7 +18,7 @@ Contribution - Proceedings, pp. 409-418
 
 <a href="../../keyword/acoustic"><button class="btn">#acoustic</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Clay%20Acoustic%20Patterns" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=clay+acoustic+patterns&as_occt=title&as_sauthors=ascic&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

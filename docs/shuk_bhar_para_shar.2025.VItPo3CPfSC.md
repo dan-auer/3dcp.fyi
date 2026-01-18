@@ -19,14 +19,15 @@ tags:
 
 #Variables Influencing the Performance of 3D Concrete Printing for Sustainable Construction&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Current Status and Future Prospects</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-92801-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_13" target="_blank">10.1007/978-3-031-92801-7_13</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-92801-7_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-92801-7_13" target="_blank">10.1007/978-3-031-92801-7_13</a>
 
 <a href="../../../author/shukla_kant_bishnu"><b>Shukla</b>&nbsp;Bishnu</a></span>, <a href="../../../author/bharti_gaurav"><b>Bharti</b>&nbsp;Gaurav</a></span>, <a href="../../../author/parashar_bhupender"><b>Parashar</b>&nbsp;Bhupender</a></span>, <a href="../../../author/sharma_kumar_pushpendra"><b>Sharma</b>&nbsp;Pushpendra</a></span>, <a href="../../../author/verma_shivam"><b>Verma</b>&nbsp;Shivam</a></span><br>
 Contribution - Innovative Technologies for Smart and Sustainable Infrastructure, pp. 225-239
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Variables%20Influencing%20the%20Performance%20of%203D%20Concrete%20Printing%20for%20Sustainable%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=variables+influencing+the+performance+of+3d+concrete+printing+for+sustainable+construction&as_occt=title&as_sauthors=shukla&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-92801-7_13" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

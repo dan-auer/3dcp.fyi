@@ -19,14 +19,15 @@ tags:
 
 #Responsive Spatial Print&nbsp;([2018-10](date/2018/10))
 <div class="h1-like">Clay 3D Printing of Spatial Lattices Using Real-Time Model-Recalibration</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/acadia18_286.pdf) <a href="https://doi.org/10.52842/conf.acadia.2018.286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2018.286" target="_blank">10.52842/conf.acadia.2018.286</a>
+<a href="http://papers.cumincad.org/data/works/att/acadia18_286.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.acadia.2018.286" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.acadia.2018.286" target="_blank">10.52842/conf.acadia.2018.286</a>
 
 <a href="../../../author/im_claire_hyeonji"><b>Im</b>&nbsp;Hyeonji</a></span>, <a href="../../../author/othman_sulaiman"><b>al&nbsp;Othman</b>&nbsp;Sulaiman</a></span>, <a href="../../../author/castillo_luis-garcia_jose"><b>del&nbsp;Castillo</b>&nbsp;Jose</a></span><br>
 Contribution - Proceedings of the 38th Annual Conference of the Association for Computer Aided Design in Architecture (ACADIA), pp. 286-293
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/lattice"><button class="btn">#lattice</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/real"><button class="btn">#real</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/space"><button class="btn">#space</button></a> <a href="../../keyword/time"><button class="btn">#time</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Responsive%20Spatial%20Print" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=responsive+spatial+print&as_occt=title&as_sauthors=im&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.acadia.2018.286" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

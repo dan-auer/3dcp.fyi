@@ -17,14 +17,15 @@ tags:
 ---
 
 #Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels ([2025-03](date/2025/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" target="_blank">10.52842/conf.caadria.2025.2.111</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" target="_blank">10.52842/conf.caadria.2025.2.111</a>
 
 <span class="author"><a href="https://orcid.org/0009-0003-6767-9636" title="ORCID: 0009-0003-6767-9636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yuhan"><b>Li</b>&nbsp;Yuhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0802-6446" title="ORCID: 0000-0002-0802-6446" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rian_md_iasef"><b>Rian</b>&nbsp;Iasef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-2055" title="ORCID: 0000-0002-6424-2055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hanmei"><b>Chen</b>&nbsp;Hanmei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-2737" title="ORCID: 0000-0002-9796-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_shu"><b>Tang</b>&nbsp;Shu</a></span><br>
 Contribution - Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia, pp. 111-120
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Application%20of%20Fractal%20Curves%20for%203D%20Concrete%20Printing%20of%20Porous%20Prefab%20Panels" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=application+of+fractal+curves+for+3d+concrete+printing+of+porous+prefab+panels&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023387204&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2025.2.111" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

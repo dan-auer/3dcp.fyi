@@ -19,14 +19,15 @@ tags:
 ---
 
 #Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jobe.2025.112973) <a href="https://doi.org/10.1016/j.jobe.2025.112973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112973" target="_blank">10.1016/j.jobe.2025.112973</a>
+<a href="https://doi.org/10.1016/j.jobe.2025.112973" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.112973" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.112973" target="_blank">10.1016/j.jobe.2025.112973</a>
 
 <a href="../../../author/raza_ali"><b>Raza</b>&nbsp;Ali</a></span>, <a href="../../../author/junjie_zhang"><b>Junjie</b>&nbsp;Zhang</a></span>, <a href="../../../author/fan_jiahui"><b>Fan</b>&nbsp;Jiahui</a></span>, <a href="../../../author/umar_muhammad"><b>Umar</b>&nbsp;Muhammad</a></span>, <a href="../../../author/ali_faizan_muhammad"><b>Ali</b>&nbsp;Muhammad</a></span>, <a href="../../../author/iqbal_safdar"><b>Iqbal</b>&nbsp;Safdar</a></span>, <a href="../../../author/yuan_chengfang"><b>Yuan</b>&nbsp;Chengfang</a></span><br>
 Journal Article - Journal of Building Engineering, No. 112973
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/integration"><button class="btn">#integration</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sand"><button class="btn">#sand</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comprehensive%20Study%20on%20the%20Microstructural%20and%20Mechanical%20Performance%20of%203D-Printed%20Engineered%20Cementitious%20Composites%20with%20Yellow%20River%20Sand%20Integration" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comprehensive+study+on+the+microstructural+and+mechanical+performance+of+3d-printed+engineered+cementitious+composites+with+yellow+river+sand+integration&as_occt=title&as_sauthors=raza&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006779065&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001500496900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.112973" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

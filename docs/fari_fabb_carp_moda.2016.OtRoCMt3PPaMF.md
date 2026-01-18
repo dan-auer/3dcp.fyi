@@ -17,14 +17,15 @@ tags:
 ---
 
 #On the Reinforcement of Cement Mortars through 3D Printed Polymeric- and Metallic-Fibers ([2015-12](date/2015/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compositesb.2015.12.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2015.12.006" target="_blank">10.1016/j.compositesb.2015.12.006</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compositesb.2015.12.006" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compositesb.2015.12.006" target="_blank">10.1016/j.compositesb.2015.12.006</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9564-3935" title="ORCID: 0000-0002-9564-3935" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/farina_ilenia"><b>Farina</b>&nbsp;Ilenia</a></span>, <a href="../../../author/fabbrocino_f"><b>Fabbrocino</b>&nbsp;F.</a></span>, <a href="../../../author/carpentieri_g"><b>Carpentieri</b>&nbsp;G.</a></span>, <a href="../../../author/modano_m"><b>Modano</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2562-881X" title="ORCID: 0000-0002-2562-881X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/amendola_ada"><b>Amendola</b>&nbsp;Ada</a></span>, <a href="../../../author/goodall_russell"><b>Goodall</b>&nbsp;Russell</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3180-7478" title="ORCID: 0000-0002-3180-7478" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feo_luciano"><b>Feo</b>&nbsp;Luciano</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7549-6405" title="ORCID: 0000-0002-7549-6405" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fraternali_fernando"><b>Fraternali</b>&nbsp;Fernando</a></span><br>
 Journal Article - Composites Part B: Engineering, Vol. 90, pp. 76-85
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/metal"><button class="btn">#metal</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/polymer"><button class="btn">#polymer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=On%20the%20Reinforcement%20of%20Cement%20Mortars%20through%203D%20Printed%20Polymeric-%20and%20Metallic-Fibers" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=on+the+reinforcement+of+cement+mortars+through+3d+printed+polymeric-+and+metallic-fibers&as_occt=title&as_sauthors=farina&as_ylo=2013&as_yhi=2017&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84954112819&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000372559900008" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compositesb.2015.12.006" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

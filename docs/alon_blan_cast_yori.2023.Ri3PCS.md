@@ -14,14 +14,15 @@ tags:
 ---
 
 #Reinforcements in 3D Printing Concrete Structures ([2022-11](date/2022/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://repositorio.unican.es/xmlui/bitstream/10902/26990/2/Reinforcements3DPrinting.pdf) <a href="https://doi.org/10.1007/s43452-022-00552-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-022-00552-z" target="_blank">10.1007/s43452-022-00552-z</a>
+<a href="https://repositorio.unican.es/xmlui/bitstream/10902/26990/2/Reinforcements3DPrinting.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s43452-022-00552-z" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s43452-022-00552-z" target="_blank">10.1007/s43452-022-00552-z</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0080-4888" title="ORCID: 0000-0003-0080-4888" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b>&nbsp;Sara</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7010-2649" title="ORCID: 0000-0002-7010-2649" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5658-3901" title="ORCID: 0000-0001-5658-3901" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9332-2372" title="ORCID: 0000-0001-9332-2372" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b>&nbsp;Adrian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5968-2726" title="ORCID: 0000-0002-5968-2726" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/castanon-jano_laura"><b>Castañon-Jano</b>&nbsp;Laura</a></span><br>
 Journal Article - Archives of Civil and Mechanical Engineering, Vol. 23, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Reinforcements%20in%203D%20Printing%20Concrete%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=reinforcements+in+3d+printing+concrete+structures&as_occt=title&as_sauthors=alonso-ca%C3%B1on&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85141821010&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000881998200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s43452-022-00552-z" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

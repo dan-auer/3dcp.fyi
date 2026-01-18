@@ -15,14 +15,15 @@ tags:
 ---
 
 #Experimental Study on Behavior of Cement Concrete in 3d Printing ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-97-7043-4_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-7043-4_13" target="_blank">10.1007/978-981-97-7043-4_13</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-97-7043-4_13" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-97-7043-4_13" target="_blank">10.1007/978-981-97-7043-4_13</a>
 
 <span class="author"><a href="https://orcid.org/0009-0007-3845-2546" title="ORCID: 0009-0007-3845-2546" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vaishali_panneer"><b>Vaishali</b>&nbsp;Panneer</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-6657-2789" title="ORCID: 0009-0004-6657-2789" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/varunkumar_p"><b>Varunkumar</b>&nbsp;P.</a></span><br>
 Contribution - Recent Developments in Structural Engineering, pp. 133-142
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Behavior%20of%20Cement%20Concrete%20in%203d%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+behavior+of+cement+concrete+in+3d+printing&as_occt=title&as_sauthors=vaishali&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85210242031&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-97-7043-4_13" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -9,6 +9,60 @@ search:
 
 #  Kalthoff Matthias 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-9313-7617" target="_blank">0000-0002-9313-7617</a>
+
+    First Contribution
+    : 2021-12-02
+    
+    Last Contribution
+    : 2024-12-20
+
+    Number Contributions
+    : 11
+
+    Number Citations
+    : 30
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> (11)</li>
+        <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> (6)</li>
+        <li><a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a> (6)</li>
+        <li><a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a> (3)</li>
+        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (3)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/raupach_michael"><b>Raupach</b> Michael</a>, <a href="../../../author/matschei_thomas"><b>Matschei</b> Thomas</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../kalt_raup_mats.2022.IoRTMftSoMfMoTRCUaLME/">Investigation of Rheological Test-Methods for the Suitability of Mortars for Manufacturing of Textile-Reinforced Concrete Using a Laboratory Mortar-Extruder:<br/>LabMorTex</a> (11)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (33)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (19)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (17)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (14)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (3)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (2)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (2)</li>
+        <li><a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> (2)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../neef_kalt_mull_cruz.2024.MICFRfCEMbE/">Mineral-Impregnated Carbon-Fibers-Reinforcement for Concrete Elements Manufactured by Extrusion</a></li>
   <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>

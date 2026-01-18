@@ -8,6 +8,10 @@ search:
 
 # #adobe
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/construction"><button class="btn">#construction (2)</button></a> <a href="../../keyword/environment"><button class="btn">#environment (2)</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation (2)</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability (2)</button></a> <a href="../../keyword/scale"><button class="btn">#scale (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/tarek_shaimaa"><b>Tarek</b> Shaimaa</a>, <a href="../../../author/mansour_yasser"><b>Mansour</b> Yasser</a>, <a href="../../../author/abdelmohsen_sherif"><b>Abdelmohsen</b> Sherif</a>, <a href="../../../author/kohail_mohamed"><b>Kohail</b> Mohamed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../tare_mans_abde_koha.2025.EtRoAMiABE/">Evaluating the Role of Additive Manufacturing in Adobe Brick Enhancement:<br/>A Comparative Study</a></li>
   <li><a href="../../../author/bartaky_markus"><b>Bartaky</b> Markus</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../bart_gosc_stav.2024.STH/">Sustainable Temporary Housing:<br/>An Evaluation-Framework for Large-Scale 3D Printer for Adobe Construction in Challenging Environments</a></li>

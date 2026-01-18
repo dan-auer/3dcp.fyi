@@ -17,14 +17,15 @@ tags:
 ---
 
 #Structural Performance of Textile Reinforced 3D Printed Concrete Elements ([2023-10](date/2023/10))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.tib-op.org/ojs/index.php/ocp/article/download/429/657) <a href="https://doi.org/10.52825/ocp.v3i.429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.429" target="_blank">10.52825/ocp.v3i.429</a>
+<a href="https://www.tib-op.org/ojs/index.php/ocp/article/download/429/657" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52825/ocp.v3i.429" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52825/ocp.v3i.429" target="_blank">10.52825/ocp.v3i.429</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8277-9251" title="ORCID: 0000-0002-8277-9251" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dittel_gozdem"><b>Dittel</b>&nbsp;Gözdem</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5193-1871" title="ORCID: 0000-0002-5193-1871" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/scheurer_martin"><b>Scheurer</b>&nbsp;Martin</a></span>, <a href="../../../author/evers_clara"><b>Evers</b>&nbsp;Clara</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <a href="../../../author/patel_ankiet"><b>Patel</b>&nbsp;Ankiet</a></span>, <a href="../../../author/osswald_michael"><b>Osswald</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2480-8333" title="ORCID: 0000-0002-2480-8333" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gries_thomas"><b>Gries</b>&nbsp;Thomas</a></span><br>
 Contribution - Visions and Strategies for Reinforcing Additively Manufactured Constructions
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/textile"><button class="btn">#textile</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Performance%20of%20Textile%20Reinforced%203D%20Printed%20Concrete%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+performance+of+textile+reinforced+3d+printed+concrete+elements&as_occt=title&as_sauthors=dittel&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52825/ocp.v3i.429" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

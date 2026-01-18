@@ -8,7 +8,12 @@ search:
 
 # #hardened
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (101)</button></a> <a href="../../keyword/property"><button class="btn">#property (80)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (66)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (62)</button></a> <a href="../../keyword/composite"><button class="btn">#composite (52)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bhar_meno_sant.2026.ESoHPo3PCUCTaSCII/">Experimental Study of Hardened Properties of 3D-Printed Concrete Under Compression, Tension and Shear Considering Interlayer Influence</a></li>
   <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD/">Enhancing Fiber Alignment and Tensile Properties of 3D-Printed Ultra-High Performance Strain-Hardening Cementitious Composites by Nozzle Channel Design</a></li>
   <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/chen_wujun"><b>Chen</b> Wujun</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sun_qian_chen.2025.BIJISIfEFRo3PSHCC/">Bio-Inspired Jigsaw-Interlocking Suture Interfaces for Enhanced Flexural Response of 3D-Printed Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/khalid_waleed_lawand"><b>Khalid</b> Lawand</a>, <a href="../../../author/mermerdas_kasim"><b>Mermerdaş</b> Kasım</a>, <a href="../../../author/ekmen_sevin"><b>Ekmen</b> Şevin</a>, <a href="../../../author/khidhir-bzeni_dillshad"><b>Khidhir Bzeni</b> Dillshad</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../khal_merm_ekme_khid.2025.OoFaHPoFR3PGCURSM/">Optimization of Fresh and Hardened Properties of Fiber-Reinforced 3D Printed Geopolymer Composites Using Response Surface Methodology:<br/>A Data-Driven Approach Based on Prior Experimental Studies</a></li>

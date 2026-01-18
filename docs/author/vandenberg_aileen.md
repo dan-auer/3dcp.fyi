@@ -9,6 +9,60 @@ search:
 
 #  Vandenberg Aileen 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-1373-2230" target="_blank">0000-0002-1373-2230</a>
+
+    First Contribution
+    : 2018-09-12
+    
+    Last Contribution
+    : 2025-08-11
+
+    Number Contributions
+    : 4
+
+    Number Citations
+    : 39
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (3)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (3)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (3)</li>
+        <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a> (2)</li>
+        <li><a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../lowk_vand_pier_thom.2021.I3CPiaCL/">Injection 3D Concrete Printing in a Carrier Liquid:<br/>Underlying Physics and Applications to Lightweight Space Frame Structures</a> (26)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (13)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (11)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (9)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (8)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (7)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (7)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (6)</li>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/khader_noor"><b>Khader</b> Noor</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../xiao_khad_vand_lowk.2022.I3CPICwVB3GS/">Injection 3D Concrete Printing (I3DCP) Combined with Vector-Based 3D Graphic Statics</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Automated Toolpath Design of 3D Concrete Printing Structural Components ([2025-02](date/2025/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2025.104662" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104662" target="_blank">10.1016/j.addma.2025.104662</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2025.104662" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2025.104662" target="_blank">10.1016/j.addma.2025.104662</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1654-4865" title="ORCID: 0000-0003-1654-4865" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhi_yefan"><b>Zhi</b>&nbsp;Yefan</a></span>, <span class="author"><a href="https://orcid.org/0009-0005-1276-7705" title="ORCID: 0009-0005-1276-7705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chai_hua"><b>Chai</b>&nbsp;Hua</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6460-7109" title="ORCID: 0000-0001-6460-7109" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/teng_teng"><b>Teng</b>&nbsp;Teng</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6402-615X" title="ORCID: 0000-0002-6402-615X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b>&nbsp;Masoud</a></span><br>
 Journal Article - Additive Manufacturing, No. 104662
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/component"><button class="btn">#component</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/toolpath"><button class="btn">#toolpath</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Toolpath%20Design%20of%203D%20Concrete%20Printing%20Structural%20Components" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+toolpath+design+of+3d+concrete+printing+structural+components&as_occt=title&as_sauthors=zhi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85216786478&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001422931600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2025.104662" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

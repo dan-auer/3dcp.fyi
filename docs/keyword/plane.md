@@ -8,6 +8,10 @@ search:
 
 # #plane
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/wall"><button class="btn">#wall (6)</button></a> <a href="../../keyword/design"><button class="btn">#design (4)</button></a> <a href="../../keyword/load"><button class="btn">#load (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
   <li><a href="../../../author/dhanasekara_chamil"><b>Dhanasekara</b> Chamil</a>, <a href="../../../author/tanapornraweekit_ganchai"><b>Tanapornraweekit</b> Ganchai</a>, <a href="../../../author/tangtermsirikul_somnuk"><b>Tangtermsirikul</b> Somnuk</a>, <a href="../../../author/seepim_sirakan"><b>Seepim</b> Sirakan</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW/">Investigation of Out-of-Plane Bending Behaviour of 3D-Printed Reinforced and Unreinforced Walls</a></li>

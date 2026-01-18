@@ -19,14 +19,15 @@ tags:
 ---
 
 #Design, Data and Process Issues for Mega-Scale Rapid Manufacturing Machines Used for Construction ([2008-05](date/2008/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://figshare.com/ndownloader/files/17075564) <a href="https://doi.org/10.1016/j.autcon.2008.03.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2008.03.001" target="_blank">10.1016/j.autcon.2008.03.001</a>
+<a href="https://figshare.com/ndownloader/files/17075564" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.autcon.2008.03.001" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.autcon.2008.03.001" target="_blank">10.1016/j.autcon.2008.03.001</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0613-9516" title="ORCID: 0000-0003-0613-9516" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/buswell_a_richard"><b>Buswell</b>&nbsp;Richard</a></span>, <a href="../../../author/thorpe_tony"><b>Thorpe</b>&nbsp;Tony</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6523-5957" title="ORCID: 0000-0002-6523-5957" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soar_c_rupert"><b>Soar</b>&nbsp;Rupert</a></span>, <a href="../../../author/gibb_gf_alistar"><b>Gibb</b>&nbsp;Alistar</a></span><br>
 Journal Article - Automation in Construction, Vol. 17, Iss. 8, pp. 923-929
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/scale"><button class="btn">#scale</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Design%2C%20Data%20and%20Process%20Issues%20for%20Mega-Scale%20Rapid%20Manufacturing%20Machines%20Used%20for%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=design%2C+data+and+process+issues+for+mega-scale+rapid+manufacturing+machines+used+for+construction&as_occt=title&as_sauthors=buswell&as_ylo=2006&as_yhi=2010&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-45949093386&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000258161600004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.autcon.2008.03.001" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

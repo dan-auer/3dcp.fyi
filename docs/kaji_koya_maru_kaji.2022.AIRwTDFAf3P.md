@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automated Interlaminar-Reinforcement with Thickness-Directiona-Fiber-Arrangement for 3D Printing ([2022-02](date/2022/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruct.2022.115321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2022.115321" target="_blank">10.1016/j.compstruct.2022.115321</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compstruct.2022.115321" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruct.2022.115321" target="_blank">10.1016/j.compstruct.2022.115321</a>
 
 <a href="../../../author/kajimoto_jumpei"><b>Kajimoto</b>&nbsp;Jumpei</a></span>, <a href="../../../author/koyanagi_jun"><b>Koyanagi</b>&nbsp;Jun</a></span>, <a href="../../../author/maruyama_yusuke"><b>Maruyama</b>&nbsp;Yusuke</a></span>, <a href="../../../author/kajita_hideyuki"><b>Kajita</b>&nbsp;Hideyuki</a></span>, <a href="../../../author/matsuzaki_ryosuke"><b>Matsuzaki</b>&nbsp;Ryosuke</a></span><br>
 Journal Article - Composite Structures, Vol. 286
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/thickness"><button class="btn">#thickness</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Interlaminar-Reinforcement%20with%20Thickness-Directiona-Fiber-Arrangement%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+interlaminar-reinforcement+with+thickness-directiona-fiber-arrangement+for+3d+printing&as_occt=title&as_sauthors=kajimoto&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124491461&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000770677300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compstruct.2022.115321" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

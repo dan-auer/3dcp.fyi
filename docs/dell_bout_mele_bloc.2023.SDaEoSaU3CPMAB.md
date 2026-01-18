@@ -19,14 +19,15 @@ tags:
 ---
 
 #Structural Design and Engineering of Striatus, an Unreinforced 3D Concrete Printed Masonry Arch Bridge ([2023-07](date/2023/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.engstruct.2023.116534) <a href="https://doi.org/10.1016/j.engstruct.2023.116534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116534" target="_blank">10.1016/j.engstruct.2023.116534</a>
+<a href="https://doi.org/10.1016/j.engstruct.2023.116534" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.engstruct.2023.116534" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.engstruct.2023.116534" target="_blank">10.1016/j.engstruct.2023.116534</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4799-6015" title="ORCID: 0000-0002-4799-6015" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dell'endice_alessandro"><b>Dell’Endice</b>&nbsp;Alessandro</a></span>, <a href="../../../author/bouten_sam"><b>Bouten</b>&nbsp;Sam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4614-1808" title="ORCID: 0000-0002-4614-1808" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mele_tom"><b>van&nbsp;Mele</b>&nbsp;Tom</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2355-0614" title="ORCID: 0000-0003-2355-0614" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/block_philippe"><b>Block</b>&nbsp;Philippe</a></span><br>
 Journal Article - Engineering Structures, Vol. 292, No. 116534
 
 <a href="../../keyword/arch"><button class="btn">#arch</button></a> <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/masonry"><button class="btn">#masonry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/striatus"><button class="btn">#striatus</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Structural%20Design%20and%20Engineering%20of%20Striatus%2C%20an%20Unreinforced%203D%20Concrete%20Printed%20Masonry%20Arch%20Bridge" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=structural+design+and+engineering+of+striatus%2C+an+unreinforced+3d+concrete+printed+masonry+arch+bridge&as_occt=title&as_sauthors=dell%E2%80%99endice&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85164220545&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001041081500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.engstruct.2023.116534" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

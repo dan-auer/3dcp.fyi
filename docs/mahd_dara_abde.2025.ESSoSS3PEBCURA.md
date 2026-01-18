@@ -21,14 +21,15 @@ tags:
 ---
 
 #Evaluating Structure Stability of Self-Supporting 3D Printed Earth-Based Cantilevers Using Robotic ARM ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/17452007.2025.2506640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452007.2025.2506640" target="_blank">10.1080/17452007.2025.2506640</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/17452007.2025.2506640" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/17452007.2025.2506640" target="_blank">10.1080/17452007.2025.2506640</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8755-8733" title="ORCID: 0000-0001-8755-8733" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mahdy_deena"><b>el&nbsp;Mahdy</b>&nbsp;Deena</a></span>, <a href="../../../author/dara_seni"><b>Dara</b>&nbsp;Seni</a></span>, <a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b>&nbsp;Marwa</a></span><br>
 Journal Article - Architectural Engineering and Design Management, pp. 1-24
 
 <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/cantilever"><button class="btn">#cantilever</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/support"><button class="btn">#support</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluating%20Structure%20Stability%20of%20Self-Supporting%203D%20Printed%20Earth-Based%20Cantilevers%20Using%20Robotic%20ARM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluating+structure+stability+of+self-supporting+3d+printed+earth-based+cantilevers+using+robotic+arm&as_occt=title&as_sauthors=mahdy&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105007734178&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001505429300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/17452007.2025.2506640" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

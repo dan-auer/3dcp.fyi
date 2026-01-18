@@ -13,14 +13,15 @@ tags:
 ---
 
 #The Construction Factory of the Future ([2019-05](date/2019/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201970503) <a href="https://doi.org/10.1002/best.201970503" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201970503" target="_blank">10.1002/best.201970503</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/best.201970503" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.201970503" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.201970503" target="_blank">10.1002/best.201970503</a>
 
 <a href="../../../author/jacob_matthias"><b>Jacob</b>&nbsp;Matthias</a></span><br>
 Journal Article - Beton- und Stahlbetonbau, Vol. 114, Iss. 5
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/factory"><button class="btn">#factory</button></a> <a href="../../keyword/future"><button class="btn">#future</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Construction%20Factory%20of%20the%20Future" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+construction+factory+of+the+future&as_occt=title&as_sauthors=jacob&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85065221040&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000466839900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.201970503" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

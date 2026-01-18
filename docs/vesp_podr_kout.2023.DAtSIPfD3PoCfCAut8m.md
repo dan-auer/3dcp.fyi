@@ -18,14 +18,15 @@ tags:
 ---
 
 #DoE Approach to Setting Input Parameters for Digital 3D Printing of Concrete for Coarse Aggregates up to 8 mm ([2023-04](date/2023/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/16/9/3418/pdf?version=1682646098) <a href="https://doi.org/10.3390/ma16093418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16093418" target="_blank">10.3390/ma16093418</a>
+<a href="https://www.mdpi.com/1996-1944/16/9/3418/pdf?version=1682646098" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma16093418" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma16093418" target="_blank">10.3390/ma16093418</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8415-4346" title="ORCID: 0000-0001-8415-4346" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vespalec_arnost"><b>Vespalec</b>&nbsp;Arnošt</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0493-5922" title="ORCID: 0000-0003-0493-5922" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/podrouzek_jan"><b>Podroužek</b>&nbsp;Jan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5384-8668" title="ORCID: 0000-0002-5384-8668" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/koutny_daniel"><b>Koutný</b>&nbsp;Daniel</a></span><br>
 Journal Article - Materials, Vol. 16, Iss. 9
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/coarse"><button class="btn">#coarse</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=DoE%20Approach%20to%20Setting%20Input%20Parameters%20for%20Digital%203D%20Printing%20of%20Concrete%20for%20Coarse%20Aggregates%20up%20to%208%20mm" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=doe+approach+to+setting+input+parameters+for+digital+3d+printing+of+concrete+for+coarse+aggregates+up+to+8+mm&as_occt=title&as_sauthors=vespalec&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159367991&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000987661200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma16093418" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

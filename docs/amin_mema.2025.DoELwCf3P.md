@@ -15,14 +15,15 @@ tags:
 ---
 
 #Development of EPS Light‐weight Concrete for 3D Printing ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70085) <a href="https://doi.org/10.1002/suco.70085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70085" target="_blank">10.1002/suco.70085</a>
+<a href="https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/suco.70085" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1002/suco.70085" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/suco.70085" target="_blank">10.1002/suco.70085</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6717-3510" title="ORCID: 0000-0001-6717-3510" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aminpour_nima"><b>Aminpour</b>&nbsp;Nima</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span><br>
 Journal Article - Structural Concrete
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/weight"><button class="btn">#weight</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20EPS%20Light%E2%80%90weight%20Concrete%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+eps+light%E2%80%90weight+concrete+for+3d+printing&as_occt=title&as_sauthors=aminpour&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105004676179&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001484520700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/suco.70085" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

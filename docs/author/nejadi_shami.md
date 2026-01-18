@@ -9,6 +9,60 @@ search:
 
 #  Nejadi Shami 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3913-5872" target="_blank">0000-0002-3913-5872</a>
+
+    First Contribution
+    : 2017-02-20
+    
+    Last Contribution
+    : 2023-04-12
+
+    Number Contributions
+    : 10
+
+    Number Citations
+    : 429
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (10)</li>
+        <li><a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> (8)</li>
+        <li><a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> (3)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (2)</li>
+        <li><a href="../../../author/renneberg_jarred"><b>Renneberg</b> Jarred</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nazari_ali"><b>Nazari</b> Ali</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a> <a href="../../../date/2017/02">(2017-02)</a><br><a href="../../../shak_sanj_naza_neja.2017.M3PPtCBMaMPoCSUi3P/">Modified 3D Printed Powder to Cement-Based Material and Mechanical Properties of Cement Scaffold Used in 3D Printing</a> (122)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (23)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (19)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (19)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (18)</li>
+        <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> (18)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (25)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (17)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (17)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (17)</li>
+        <li><a href="../../../author/laghi_vittoria"><b>Laghi</b> Vittoria</a> (16)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../shak_neja_paul_gowr.2021.EoDOASSRaHCoMBo3PCMwawGFiPB3/">Effects of Different Orientation-Angle, Size, Surface-Roughness, and Heat-Curing on Mechanical Behavior of 3D Printed Cement-Mortar with and without Glass-Fiber in Powder-Based 3DP</a></li>
   <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/gowripalan_nadarajah"><b>Gowripalan</b> Nadarajah</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../shak_neja_gowr.2020.EoHCaEGFRAoPB3CM/">Effect of Heat-Curing and E6-Glass Fiber-Reinforcement Addition on Powder-Based 3DP Cement Mortar</a></li>

@@ -8,6 +8,10 @@ search:
 
 # #space
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (21)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (19)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (8)</button></a> <a href="../../keyword/base"><button class="btn">#base (7)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (6)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bakr_madhat_somahi"><b>Bakr</b> Somahi</a>, <a href="../../../author/cruz_marcos"><b>Cruz</b> Marcos</a>, <a href="../../../author/mayor-luque_ricardo"><b>Mayor-Luque</b> Ricardo</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bakr_cruz_mayo.2025.CS/">Cura Salad:<br/>Robotic Heated Spatial 3D Printing of Salt-Clay Composites for Health-Oriented Vernacular Architecture</a></li>
   <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>

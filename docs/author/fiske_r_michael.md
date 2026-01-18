@@ -9,6 +9,60 @@ search:
 
 #  Fiske Michael 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2005-01-13
+    
+    Last Contribution
+    : 2024-10-10
+
+    Number Contributions
+    : 6
+
+    Number Citations
+    : 70
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (3)</li>
+        <li><a href="../../../author/edmunson_e_jennifer"><b>Edmunson</b> Jennifer</a> (2)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (2)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (2)</li>
+        <li><a href="../../../author/mueller_p_robert"><b>Mueller</b> Robert</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/bodiford_melanie"><b>Bodiford</b> Melanie</a>, <a href="../../../author/burks_kevin"><b>Burks</b> Kevin</a>, <a href="../../../author/ethridge_ed"><b>Ethridge</b> Ed</a> et al. <a href="../../../date/2005/01">(2005-01)</a><br><a href="../../../khos_bodi_burk_ethr.2005.LCC/">Lunar Contour Crafting:<br/>A Novel Technique for ISRU-Based Habitat Development</a> (40)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (10)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (8)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (4)</li>
+        <li><a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> (4)</li>
+        <li><a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a> (4)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (17)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (11)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (7)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (7)</li>
+        <li><a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a> (5)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/zhou_hongyu"><b>Zhou</b> Hongyu</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../sorg_zand_zhou_fisk.2024.ItEoAVotMPo3PCC/">Investigating the Effect of Air-Voids on the Mechanical Properties of 3D Printable Cementitious Composites</a></li>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>

@@ -17,14 +17,15 @@ tags:
 ---
 
 #Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport ([2022-09](date/2022/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.addma.2022.103140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103140" target="_blank">10.1016/j.addma.2022.103140</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.addma.2022.103140" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.addma.2022.103140" target="_blank">10.1016/j.addma.2022.103140</a>
 
 <a href="../../../author/zhang_yuanyuan"><b>Zhang</b>&nbsp;Yuanyuan</a></span>, <a href="../../../author/pan_pan"><b>Pan</b>&nbsp;Pan</a></span>, <a href="../../../author/li_wenqiang"><b>Li</b>&nbsp;Wenqiang</a></span>, <a href="../../../author/dong_biqin"><b>Dong</b>&nbsp;Biqin</a></span>, <a href="../../../author/tang_jiaoning"><b>Tang</b>&nbsp;Jiaoning</a></span>, <a href="../../../author/xing_feng"><b>Xing</b>&nbsp;Feng</a></span>, <a href="../../../author/zhu_ming_guang"><b>Zhu</b>&nbsp;Guang</a></span><br>
 Journal Article - Additive Manufacturing, Vol. 59
 
 <a href="../../keyword/agent"><button class="btn">#agent</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/embedded"><button class="btn">#embedded</button></a> <a href="../../keyword/freeform"><button class="btn">#freeform</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/transport"><button class="btn">#transport</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Freeform%20Embedded%20Printing%20of%20Vasculature%20in%20Cementitious%20Materials%20for%20Healing-Agent%20Transport" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=freeform+embedded+printing+of+vasculature+in+cementitious+materials+for+healing-agent+transport&as_occt=title&as_sauthors=zhang&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138052968&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000861100400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.addma.2022.103140" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

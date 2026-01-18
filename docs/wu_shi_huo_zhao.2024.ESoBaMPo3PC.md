@@ -15,14 +15,15 @@ tags:
 ---
 
 #Experimental Study on Buildability and Mechanical Properties of 3D Printing Cob ([2024-11](date/2024/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.researchsquare.com/article/rs-3303412/latest.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" target="_blank">10.1016/j.conbuildmat.2024.139082</a>
+<a href="https://www.researchsquare.com/article/rs-3303412/latest.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.139082" target="_blank">10.1016/j.conbuildmat.2024.139082</a>
 
 <a href="../../../author/wu_xikai"><b>Wu</b>&nbsp;Xikai</a></span>, <a href="../../../author/shi_qingxuan"><b>Shi</b>&nbsp;Qingxuan</a></span>, <a href="../../../author/huo_jian"><b>Huo</b>&nbsp;Jian</a></span>, <a href="../../../author/zhao_yu"><b>Zhao</b>&nbsp;Yu</a></span>, <a href="../../../author/zhu_lingli"><b>Zhu</b>&nbsp;Lingli</a></span>, <a href="../../../author/tao_yi"><b>Tao</b>&nbsp;Yi</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 453, No. 139082
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20on%20Buildability%20and%20Mechanical%20Properties%20of%203D%20Printing%20Cob" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+on+buildability+and+mechanical+properties+of+3d+printing+cob&as_occt=title&as_sauthors=wu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208233625&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001354914000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2024.139082" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

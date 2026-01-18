@@ -24,14 +24,15 @@ tags:
 
 #Assessment of the Sustainability and Producibility of Adobe-Constructions Reinforced with Ca-Based Binders&nbsp;([2023-10](date/2023/10))
 <div class="h1-like">Environmental Life-Cycle-Analysis and 3D Printability</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" target="_blank">10.1016/j.scitotenv.2023.167695</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.scitotenv.2023.167695" target="_blank">10.1016/j.scitotenv.2023.167695</a>
 
 <a href="../../../author/genc_gokhan"><b>Genc</b>&nbsp;Gokhan</a></span>, <a href="../../../author/demircan_kilic_ruya"><b>Demircan</b>&nbsp;Ruya</a></span>, <a href="../../../author/beyhan_figen"><b>Beyhan</b>&nbsp;Figen</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6067-7337" title="ORCID: 0000-0001-6067-7337" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaplan_gokhan"><b>Kaplan</b>&nbsp;Gökhan</a></span><br>
 Journal Article - Science of the Total Environment, No. 167695
 
 <a href="../../keyword/adobe"><button class="btn">#adobe</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/binder"><button class="btn">#binder</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Assessment%20of%20the%20Sustainability%20and%20Producibility%20of%20Adobe-Constructions%20Reinforced%20with%20Ca-Based%20Binders" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=assessment+of+the+sustainability+and+producibility+of+adobe-constructions+reinforced+with+ca-based+binders&as_occt=title&as_sauthors=genc&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85173860731&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001097203100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.scitotenv.2023.167695" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

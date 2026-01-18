@@ -18,14 +18,15 @@ tags:
 ---
 
 #Robotic 3D Printing of Geopolymer Foam for Lightweight and Insulating Building Elements ([2023-11](date/2023/11))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1089/3dp.2023.0183) <a href="https://doi.org/10.1089/3dp.2023.0183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0183" target="_blank">10.1089/3dp.2023.0183</a>
+<a href="https://doi.org/10.1089/3dp.2023.0183" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1089/3dp.2023.0183" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1089/3dp.2023.0183" target="_blank">10.1089/3dp.2023.0183</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2893-6743" title="ORCID: 0000-0003-2893-6743" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bedarf_patrick"><b>Bedarf</b>&nbsp;Patrick</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8665-3779" title="ORCID: 0000-0002-8665-3779" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/szabo_anna"><b>Szabó</b>&nbsp;Anna</a></span>, <a href="../../../author/zanini_michele"><b>Zanini</b>&nbsp;Michele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5153-2985" title="ORCID: 0000-0002-5153-2985" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b>&nbsp;Benjamin</a></span><br>
 Journal Article - 3D Printing and Additive Manufacturing
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/geopolymer"><button class="btn">#geopolymer</button></a> <a href="../../keyword/insulation"><button class="btn">#insulation</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%203D%20Printing%20of%20Geopolymer%20Foam%20for%20Lightweight%20and%20Insulating%20Building%20Elements" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+3d+printing+of+geopolymer+foam+for+lightweight+and+insulating+building+elements&as_occt=title&as_sauthors=bedarf&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85179426149&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001139384500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1089/3dp.2023.0183" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

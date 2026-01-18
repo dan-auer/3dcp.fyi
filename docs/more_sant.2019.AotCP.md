@@ -19,14 +19,15 @@ tags:
 
 #Automatization of the Constructive Process&nbsp;([2019-06](date/2019/06))
 <div class="h1-like">A Systematic Study of the 3D Concrete Printing Technology (Contour Crafting)</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.11159/iccste19.232) <a href="https://doi.org/10.11159/iccste19.232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste19.232" target="_blank">10.11159/iccste19.232</a>
+<a href="https://doi.org/10.11159/iccste19.232" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.11159/iccste19.232" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.11159/iccste19.232" target="_blank">10.11159/iccste19.232</a>
 
 <a href="../../../author/moreira-jr_verginio_amarildo"><b>Moreira Jr.</b>&nbsp;Amarildo</a></span>, <a href="../../../author/santos_coelho_francielle"><b>dos&nbsp;Santos</b>&nbsp;Francielle</a></span><br>
 Contribution - Proceedings of the 4th International Conference on Civil, Structural and Transportation Engineering
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/contour"><button class="btn">#contour</button></a> <a href="../../keyword/craf"><button class="btn">#craf</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automatization%20of%20the%20Constructive%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automatization+of+the+constructive+process&as_occt=title&as_sauthors=moreira+jr.&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85082668620&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.11159/iccste19.232" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

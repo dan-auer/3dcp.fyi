@@ -19,14 +19,15 @@ tags:
 
 #Digital Printing of Mortar in Carrier-Liquid&nbsp;([2021-05](date/2021/05))
 <div class="h1-like">Comparison of Approaches to Predict Print Stability</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1617/s11527-021-01713-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01713-x" target="_blank">10.1617/s11527-021-01713-x</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1617/s11527-021-01713-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1617/s11527-021-01713-x" target="_blank">10.1617/s11527-021-01713-x</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6764-3682" title="ORCID: 0000-0001-6764-3682" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/benamara_abdeslam"><b>Benamara</b>&nbsp;Abdeslam</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3219-4458" title="ORCID: 0000-0002-3219-4458" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pierre_alexandre"><b>Pierre</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0059-5756" title="ORCID: 0000-0003-0059-5756" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaci_abdelhak"><b>Kaci</b>&nbsp;Abdelhak</a></span>, <a href="../../../author/melinge_yannick"><b>Mélinge</b>&nbsp;Yannick</a></span><br>
 Journal Article - Materials and Structures, Vol. 54, Iss. 3
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/comparison"><button class="btn">#comparison</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/liquid"><button class="btn">#liquid</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/prediction"><button class="btn">#prediction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stability"><button class="btn">#stability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Printing%20of%20Mortar%20in%20Carrier-Liquid" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+printing+of+mortar+in+carrier-liquid&as_occt=title&as_sauthors=benamara&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105970741&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000789447600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1617/s11527-021-01713-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #3D Printing Technologies in Architectural Design and Construction&nbsp;([2022-08](date/2022/08))
 <div class="h1-like">A Systematic Literature Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2075-5309/12/9/1319/pdf?version=1661678394) <a href="https://doi.org/10.3390/buildings12091319" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091319" target="_blank">10.3390/buildings12091319</a>
+<a href="https://www.mdpi.com/2075-5309/12/9/1319/pdf?version=1661678394" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/buildings12091319" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings12091319" target="_blank">10.3390/buildings12091319</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-6346-5102" title="ORCID: 0000-0001-6346-5102" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zujovic_masa"><b>Žujović</b>&nbsp;Maša</a></span>, <a href="../../../author/obradovic_radojko"><b>Obradović</b>&nbsp;Radojko</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5246-9244" title="ORCID: 0000-0002-5246-9244" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rakonjac_ivana"><b>Rakonjac</b>&nbsp;Ivana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7293-8194" title="ORCID: 0000-0001-7293-8194" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/milosevic_jelena"><b>Milošević</b>&nbsp;Jelena</a></span><br>
 Journal Article - Buildings, Vol. 12, Iss. 9
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Technologies%20in%20Architectural%20Design%20and%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+technologies+in+architectural+design+and+construction&as_occt=title&as_sauthors=%C5%BEujovi%C4%87&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85138816390&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000859406200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/buildings12091319" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

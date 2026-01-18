@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Concrete Printing with Variable-Width Filament ([2021-09](date/2021/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2021_040.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2021.2.153" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2021.2.153" target="_blank">10.52842/conf.ecaade.2021.2.153</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2021_040.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2021.2.153" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2021.2.153" target="_blank">10.52842/conf.ecaade.2021.2.153</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2836-0019" title="ORCID: 0000-0003-2836-0019" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zhan_qiang"><b>Zhan</b>&nbsp;Qiang</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0503-1696" title="ORCID: 0000-0002-0503-1696" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_hao"><b>Wu</b>&nbsp;Hao</a></span>, <a href="../../../author/zhang_liming"><b>Zhang</b>&nbsp;Liming</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2871-377X" title="ORCID: 0000-0002-2871-377X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_f_philip"><b>Yuan</b>&nbsp;Philip</a></span>, <a href="../../../author/gao_tianyi"><b>Gao</b>&nbsp;Tianyi</a></span><br>
 Contribution - Proceedings of the 39th International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 153-160
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/filament"><button class="btn">#filament</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Concrete%20Printing%20with%20Variable-Width%20Filament" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+concrete+printing+with+variable-width+filament&as_occt=title&as_sauthors=zhan&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2021.2.153" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

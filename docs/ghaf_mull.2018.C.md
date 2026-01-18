@@ -16,14 +16,15 @@ tags:
 
 #Commentary&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">3D Printing Set to Transform the Construction Industry</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](http://bura.brunel.ac.uk/handle/2438/16760) <a href="https://doi.org/10.1680/jstbu.18.00136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jstbu.18.00136" target="_blank">10.1680/jstbu.18.00136</a>
+<a href="http://bura.brunel.ac.uk/handle/2438/16760" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1680/jstbu.18.00136" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1680/jstbu.18.00136" target="_blank">10.1680/jstbu.18.00136</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-4694-9508" title="ORCID: 0000-0002-4694-9508" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b>&nbsp;Seyed</a></span>, <a href="../../../author/mullett_paul"><b>Mullett</b>&nbsp;Paul</a></span><br>
 Journal Article - Proceedings of the Institution of Civil Engineers - Structures and Buildings, Vol. 171, Iss. 10, pp. 737-738
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/setting"><button class="btn">#setting</button></a> <a href="../../keyword/transform"><button class="btn">#transform</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Commentary" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=commentary&as_occt=title&as_sauthors=ghaffar&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85053505284&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000447071000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1680/jstbu.18.00136" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

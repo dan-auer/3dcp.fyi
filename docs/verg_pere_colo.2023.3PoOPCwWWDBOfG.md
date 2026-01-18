@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Printing of Ordinary Portland Cement with Waste-Wood-Derived Biochar Obtained from Gasification ([2023-05](date/2023/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2023.e02117) <a href="https://doi.org/10.1016/j.cscm.2023.e02117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02117" target="_blank">10.1016/j.cscm.2023.e02117</a>
+<a href="https://doi.org/10.1016/j.cscm.2023.e02117" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2023.e02117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2023.e02117" target="_blank">10.1016/j.cscm.2023.e02117</a>
 
 <a href="../../../author/vergara_adolfo_luis"><b>Vergara</b>&nbsp;Luis</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3811-4471" title="ORCID: 0000-0002-3811-4471" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/perez_f_juan"><b>Pérez</b>&nbsp;Juan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4948-0482" title="ORCID: 0000-0003-4948-0482" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/colorado_a_henry"><b>Colorado</b>&nbsp;Henry</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 18
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/derivative"><button class="btn">#derivative</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> <a href="../../keyword/wood"><button class="btn">#wood</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20of%20Ordinary%20Portland%20Cement%20with%20Waste-Wood-Derived%20Biochar%20Obtained%20from%20Gasification" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+of+ordinary+portland+cement+with+waste-wood-derived+biochar+obtained+from+gasification&as_occt=title&as_sauthors=vergara&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85156094997&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000999635500001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2023.e02117" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

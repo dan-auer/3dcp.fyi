@@ -18,14 +18,15 @@ tags:
 
 #Engineered Cementitious Composites&nbsp;([2024-05](date/2024/05))
 <div class="h1-like">Design, Structural and 3D Printing Applications</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/b978-0-323-96020-5.00096-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-96020-5.00096-0" target="_blank">10.1016/b978-0-323-96020-5.00096-0</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/b978-0-323-96020-5.00096-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/b978-0-323-96020-5.00096-0" target="_blank">10.1016/b978-0-323-96020-5.00096-0</a>
 
 <a href="../../../author/sarker_mohiuddin"><b>Sarker</b>&nbsp;Mohiuddin</a></span>, <a href="../../../author/rahmadan_zillur_md"><b>Rahmadan</b>&nbsp;Md</a></span>, <a href="../../../author/abedin_joynal_mohammad"><b>Abedin</b>&nbsp;Mohammad</a></span><br>
 Contribution - Comprehensive Materials Processing, pp. 153-166
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Engineered%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=engineered+cementitious+composites&as_occt=title&as_sauthors=sarker&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85214531276&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/b978-0-323-96020-5.00096-0" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

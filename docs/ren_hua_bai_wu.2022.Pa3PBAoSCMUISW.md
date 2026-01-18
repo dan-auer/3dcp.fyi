@@ -19,14 +19,15 @@ tags:
 ---
 
 #Preparation and 3D Printing Building Application of Sulfoaluminate-Cementitious-Material Using Industrial Solid-Waste ([2022-06](date/2022/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.jclepro.2022.132597" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.132597" target="_blank">10.1016/j.jclepro.2022.132597</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jclepro.2022.132597" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jclepro.2022.132597" target="_blank">10.1016/j.jclepro.2022.132597</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5392-4264" title="ORCID: 0000-0001-5392-4264" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ren_chuangnan"><b>Ren</b>&nbsp;Chuangnan</a></span>, <a href="../../../author/hua_dongliang"><b>Hua</b>&nbsp;Dongliang</a></span>, <a href="../../../author/bai_yonghui"><b>Bai</b>&nbsp;Yonghui</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9125-8741" title="ORCID: 0000-0001-9125-8741" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wu_shuang"><b>Wu</b>&nbsp;Shuang</a></span>, <a href="../../../author/yao_yonggang"><b>Yao</b>&nbsp;Yonggang</a></span>, <a href="../../../author/wang_wenlong"><b>Wang</b>&nbsp;Wenlong</a></span><br>
 Journal Article - Journal of Cleaner Production, Vol. 363
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/solid"><button class="btn">#solid</button></a> <a href="../../keyword/sulfoaluminate"><button class="btn">#sulfoaluminate</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Preparation%20and%203D%20Printing%20Building%20Application%20of%20Sulfoaluminate-Cementitious-Material%20Using%20Industrial%20Solid-Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=preparation+and+3d+printing+building+application+of+sulfoaluminate-cementitious-material+using+industrial+solid-waste&as_occt=title&as_sauthors=ren&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85131770110&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000821891900004" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jclepro.2022.132597" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

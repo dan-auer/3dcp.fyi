@@ -8,6 +8,10 @@ search:
 
 # #fraction
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (7)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (6)</button></a> <a href="../../keyword/volume"><button class="btn">#volume (4)</button></a> <a href="../../keyword/application"><button class="btn">#application (3)</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/najm_omar"><b>Najm</b> Omar</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../najm_alha.2025.IoBiAAMIf3PS/">Implementation of Brucite in Alkali-Activated Materials Intended for 3D Printed Structures:<br/>A Fractional Factorial Design Approach</a></li>
   <li><a href="../../../author/li_yuhan"><b>Li</b> Yuhan</a>, <a href="../../../author/rian_md_iasef"><b>Rian</b> Iasef</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a>, <a href="../../../author/tang_shu"><b>Tang</b> Shu</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_rian_chen_tang.2025.AoFCf3CPoPPP/">Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels</a></li>

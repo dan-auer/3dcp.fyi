@@ -14,14 +14,15 @@ tags:
 ---
 
 #The Business Case for 3D Printing in the Built Environment ([2022-07](date/2022/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003023555-31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-31" target="_blank">10.1201/9781003023555-31</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003023555-31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-31" target="_blank">10.1201/9781003023555-31</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6587-875X" title="ORCID: 0000-0002-6587-875X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b>&nbsp;Philipp</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4114-4951" title="ORCID: 0000-0003-4114-4951" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wolf_alexander"><b>Wolf</b>&nbsp;Alexander</a></span><br>
 Contribution - Structures and Architecture, pp. 254-259
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/environment"><button class="btn">#environment</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20Business%20Case%20for%203D%20Printing%20in%20the%20Built%20Environment" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+business+case+for+3d+printing+in+the+built+environment&as_occt=title&as_sauthors=rosendahl&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001255052200031" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003023555-31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

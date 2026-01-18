@@ -14,14 +14,15 @@ tags:
 
 #Concrete AM&nbsp;([2022-07](date/2022/07))
 <div class="h1-like">An Insight into the Control of Main Parameters</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1201/9781003023555-30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-30" target="_blank">10.1201/9781003023555-30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1201/9781003023555-30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1201/9781003023555-30" target="_blank">10.1201/9781003023555-30</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-0908-3503" title="ORCID: 0000-0003-0908-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ribeiro_joao"><b>Ribeiro</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8439-7065" title="ORCID: 0000-0001-8439-7065" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/figueiredo_bruno"><b>Figueiredo</b>&nbsp;Bruno</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3170-4505" title="ORCID: 0000-0003-3170-4505" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b>&nbsp;Paulo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9677-3627" title="ORCID: 0000-0002-9677-3627" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/camoes_aires"><b>Camões</b>&nbsp;Aires</a></span><br>
 Contribution - Structures and Architecture, pp. 245-253
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Concrete%20AM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=concrete+am&as_occt=title&as_sauthors=ribeiro&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001255052200030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1201/9781003023555-30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

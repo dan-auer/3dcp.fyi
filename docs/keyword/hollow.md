@@ -8,6 +8,10 @@ search:
 
 # #hollow
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (12)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (11)</button></a> <a href="../../keyword/section"><button class="btn">#section (5)</button></a> <a href="../../keyword/core"><button class="btn">#core (4)</button></a> <a href="../../keyword/light"><button class="btn">#light (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
   <li><a href="../../../author/rousan_z_rajai"><b>Rousan</b> Rajai</a>, <a href="../../../author/alnemrawi_r_baraa"><b>Alnemrawi</b> Bara'a</a>, <a href="../../../author/abdalla_m_khairedin"><b>Abdalla</b> Khairedin</a>, <a href="../../../author/alhassan_mohammad"><b>Alhassan</b> Mohammad</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../rous_alne_abda_alha.2025.TFBoECCEOW3PSMoSaHS/">The Flexural Behavior of Engineered Cementitious Composites (ECC) One-Way 3D Printed Slabs Made of Solid and Hollow Sections</a></li>

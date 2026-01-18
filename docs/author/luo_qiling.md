@@ -9,6 +9,60 @@ search:
 
 #  Luo Qiling 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-07-11
+    
+    Last Contribution
+    : 2025-05-26
+
+    Number Contributions
+    : 7
+
+    Number Citations
+    : 52
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a> (7)</li>
+        <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> (6)</li>
+        <li><a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a> (2)</li>
+        <li><a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> (2)</li>
+        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/liu_kun"><b>Liu</b> Kun</a>, <a href="../../../author/li_yunchao"><b>Li</b> Yunchao</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../geng_luo_liu_li.2023.RSaPoMLiC3P/">Research Status and Prospect of Machine Learning in Construction 3D Printing</a> (16)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (23)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (19)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (18)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (16)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (15)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/cui_suping"><b>Cui</b> Suping</a> (3)</li>
+        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (3)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
+        <li><a href="../../../author/wang_xinxin"><b>Wang</b> Xinxin</a> (3)</li>
+        <li><a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> (3)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
   <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC/">Influence of Different Types of Superabsorbent Polymers on Fresh Mechanical Properties and Inter-Layer Adhesion of 3D Printed Concrete</a></li>

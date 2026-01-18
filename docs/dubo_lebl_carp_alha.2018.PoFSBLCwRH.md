@@ -16,14 +16,15 @@ tags:
 ---
 
 #Performances of Flax Shive-Based Lightweight Composites with Rapid Hardening ([2018-01](date/2018/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://hal.archives-ouvertes.fr/hal-03285010/file/Performances%20of%20flax%20shive%20lightweight%20composites%20with%20rapid%20hardening.pdf) <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.239" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.239" target="_blank">10.1016/j.conbuildmat.2017.12.239</a>
+<a href="https://hal.archives-ouvertes.fr/hal-03285010/file/Performances%20of%20flax%20shive%20lightweight%20composites%20with%20rapid%20hardening.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.239" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2017.12.239" target="_blank">10.1016/j.conbuildmat.2017.12.239</a>
 
 <a href="../../../author/dubois_vincent"><b>Dubois</b>&nbsp;Vincent</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8301-2984" title="ORCID: 0000-0002-8301-2984" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/leblanc_alexandre"><b>Leblanc</b>&nbsp;Alexandre</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7788-6132" title="ORCID: 0000-0002-7788-6132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carpentier_olivier"><b>Carpentier</b>&nbsp;Olivier</a></span>, <a href="../../../author/alhaik_ghaith"><b>Alhaik</b>&nbsp;Ghaith</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5248-5247" title="ORCID: 0000-0001-5248-5247" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wirquin_eric"><b>Wirquin</b>&nbsp;Eric</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 165, pp. 17-27
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Performances%20of%20Flax%20Shive-Based%20Lightweight%20Composites%20with%20Rapid%20Hardening" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=performances+of+flax+shive-based+lightweight+composites+with+rapid+hardening&as_occt=title&as_sauthors=dubois&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85044850254&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000428229100003" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2017.12.239" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

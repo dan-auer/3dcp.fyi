@@ -19,14 +19,15 @@ tags:
 
 #Digital and Physical Tools for Industrial Robots in Architecture&nbsp;([2012-12](date/2012/12))
 <div class="h1-like">Robotic Interaction and Interfaces</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1260/1478-0771.10.4.541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.4.541" target="_blank">10.1260/1478-0771.10.4.541</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1260/1478-0771.10.4.541" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1260/1478-0771.10.4.541" target="_blank">10.1260/1478-0771.10.4.541</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9924-2787" title="ORCID: 0000-0001-9924-2787" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/braumann_johannes"><b>Braumann</b>&nbsp;Johannes</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1463-7515" title="ORCID: 0000-0003-1463-7515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/brell-cokcan_sigrid"><b>Brell-Cokcan</b>&nbsp;Sigrid</a></span><br>
 Journal Article - International Journal of Architectural Computing, Vol. 10, Iss. 4, pp. 541-554
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/interaction"><button class="btn">#interaction</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/physics"><button class="btn">#physics</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20and%20Physical%20Tools%20for%20Industrial%20Robots%20in%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+and+physical+tools+for+industrial+robots+in+architecture&as_occt=title&as_sauthors=braumann&as_ylo=2010&as_yhi=2014&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-84874231824&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000212806300006" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1260/1478-0771.10.4.541" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

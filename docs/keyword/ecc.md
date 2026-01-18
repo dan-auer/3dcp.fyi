@@ -8,6 +8,10 @@ search:
 
 # #ecc
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (23)</button></a> <a href="../../keyword/composite"><button class="btn">#composite (13)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (10)</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered (10)</button></a> <a href="../../keyword/beam"><button class="btn">#beam (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/cong_long-yu"><b>Cong</b> Long-Yu</a>, <a href="../../../author/zhang_fang"><b>Zhang</b> Fang</a>, <a href="../../../author/qian_yong-jiu"><b>Qian</b> Yong-Jiu</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cong_zhan_qian.2026.FBIoRBwFR3PEPF/">Flexural Behavior Investigation of RC Beams with FRP-Reinforced 3D-Printed ECC Permanent Formwork</a></li>
   <li><a href="../../../author/liang_xiangzhou"><b>Liang</b> Xiangzhou</a>, <a href="../../../author/li_jinqian"><b>Li</b> Jinqian</a>, <a href="../../../author/li_ziwei"><b>Li</b> Ziwei</a>, <a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lian_li_li_wang.2026.EaAIotSBotDBR3PCBwUSSSSEF/">Experimental and Analytical Investigation of the Shear Behavior of the Developed BFRP Reinforced 3D Printed Composite Beams with U-Shaped Seawater Sea-Sand ECC Formwork</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://jresm.org/archive/resm2023.19me0925rs.pdf) <a href="https://doi.org/10.17515/resm2023.19me0925rs" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17515/resm2023.19me0925rs" target="_blank">10.17515/resm2023.19me0925rs</a>
+<a href="http://jresm.org/archive/resm2023.19me0925rs.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.17515/resm2023.19me0925rs" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.17515/resm2023.19me0925rs" target="_blank">10.17515/resm2023.19me0925rs</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7081-0285" title="ORCID: 0000-0001-7081-0285" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pham_loan_thi"><b>Pham</b>&nbsp;Thi</a></span>, <span class="author"><a href="https://orcid.org/0009-0006-7575-1265" title="ORCID: 0009-0006-7575-1265" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/trinh_thanh_duy"><b>Trinh</b>&nbsp;Duy</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-5148-7866" title="ORCID: 0009-0007-5148-7866" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/do_quang_trong"><b>Do</b>&nbsp;Trong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8377-214X" title="ORCID: 0000-0002-8377-214X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_yi_jie"><b>Huang</b>&nbsp;Jie</a></span><br>
 Journal Article - Research on Engineering Structures and Materials
 
 <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/flexural"><button class="btn">#flexural</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/width"><button class="btn">#width</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flexural%20Behavior%20of%20Printed%20Concrete%20Wide%20Beams%20with%20Dispersed%20Fibers-Reinforced" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flexural+behavior+of+printed+concrete+wide+beams+with+dispersed+fibers-reinforced&as_occt=title&as_sauthors=pham&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197309558&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.17515/resm2023.19me0925rs" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -8,7 +8,12 @@ search:
 
 # #affordability
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/house"><button class="btn">#house (6)</button></a> <a href="../../keyword/print"><button class="btn">#print (6)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/construction"><button class="btn">#construction (3)</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alawadi_abdullateef_fatemah"><b>Alawadi</b> Fatemah</a>, <a href="../../../author/murphy_martina"><b>Murphy</b> Martina</a>, <a href="../../../author/eadie_robert"><b>Eadie</b> Robert</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../alaw_murp_eadi.2026.CaSfSoAH/">Challenges and Solutions for Scalability of Affordable Housing:<br/>A Literature Review on 3D Printed Construction in Kuwait</a></li>
   <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a></li>
   <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/alvarez_gascon_eduardo"><b>Alvarez</b> Eduardo</a>, <a href="../../../author/feickert_kiley"><b>Feickert</b> Kiley</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../curt_alva_feic_muel.2024.MMFfLCC/">Multi-Material Fabrication for Low-Carbon Construction:<br/>An Optimised Floor System for Affordable Housing in Mexico</a></li>
   <li><a href="../../../author/moghayedi_alireza"><b>Moghayedi</b> Alireza</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/lediga_refilwe"><b>Lediga</b> Refilwe</a>, <a href="../../../author/mosiea_tshepang"><b>Mosiea</b> Tshepang</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mogh_maha_ledi_mosi.2024.RAHiA/">Revolutionizing Affordable Housing in Africa:<br/>A Comprehensive Technical and Sustainability Study of 3D Printing Technology</a></li>

@@ -21,14 +21,15 @@ tags:
 ---
 
 #Tip Penetration Test for Rapid in-Line Assessment of Static Yield Stress During 3D Concrete Printing Process ([2025-11](date/2025/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" target="_blank">10.1016/j.cemconcomp.2025.106412</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconcomp.2025.106412" target="_blank">10.1016/j.cemconcomp.2025.106412</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7372-653X" title="ORCID: 0000-0001-7372-653X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fasihi_ali"><b>Fasihi</b>&nbsp;Ali</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0528-2639" title="ORCID: 0000-0002-0528-2639" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/libre_ali_nicolas"><b>Libre</b>&nbsp;Nicolas</a></span><br>
 Journal Article - Cement and Concrete Composites, Vol. 166, No. 106412
 
 <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/line"><button class="btn">#line</button></a> <a href="../../keyword/penetration"><button class="btn">#penetration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/static"><button class="btn">#static</button></a> <a href="../../keyword/stress"><button class="btn">#stress</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> <a href="../../keyword/yield"><button class="btn">#yield</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Tip%20Penetration%20Test%20for%20Rapid%20in-Line%20Assessment%20of%20Static%20Yield%20Stress%20During%203D%20Concrete%20Printing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=tip+penetration+test+for+rapid+in-line+assessment+of+static+yield+stress+during+3d+concrete+printing+process&as_occt=title&as_sauthors=fasihi&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105022826849&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconcomp.2025.106412" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

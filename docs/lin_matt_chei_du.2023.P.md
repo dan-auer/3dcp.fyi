@@ -12,14 +12,15 @@ tags:
 
 #PneuPrint&nbsp;([2023-05](date/2023/05))
 <div class="h1-like">3D Printing on Inflatables</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://link.springer.com/content/pdf/10.1007/s44150-023-00092-x.pdf) <a href="https://doi.org/10.1007/s44150-023-00092-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-023-00092-x" target="_blank">10.1007/s44150-023-00092-x</a>
+<a href="https://link.springer.com/content/pdf/10.1007/s44150-023-00092-x.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/s44150-023-00092-x" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/s44150-023-00092-x" target="_blank">10.1007/s44150-023-00092-x</a>
 
 <a href="../../../author/lin_wei_che"><b>Lin</b>&nbsp;Che</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2681-534X" title="ORCID: 0000-0003-2681-534X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mattei_gabriele"><b>Mattei</b>&nbsp;Gabriele</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1109-9101" title="ORCID: 0000-0002-1109-9101" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheibas_ina"><b>Cheibas</b>&nbsp;Ina</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6678-6945" title="ORCID: 0000-0002-6678-6945" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/du_chaoyu"><b>Du</b>&nbsp;Chaoyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6869-6409" title="ORCID: 0000-0002-6869-6409" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aejmelaeus-lindstrom_julius-petrus_johan"><b>Aejmelaeus-Lindström</b>&nbsp;Johan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3761-7675" title="ORCID: 0000-0002-3761-7675" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gramazio_fabio"><b>Gramazio</b>&nbsp;Fabio</a></span><br>
 Journal Article - Architecture, Structures and Construction
 
 <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=PneuPrint" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pneuprint&as_occt=title&as_sauthors=lin&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105018971288&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/s44150-023-00092-x" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

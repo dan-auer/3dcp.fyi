@@ -17,14 +17,15 @@ tags:
 ---
 
 #Effect of Material-Ratio on the Performances in 3D Cement Printing and Its Optimization ([2020-12](date/2020/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://aip.scitation.org/doi/pdf/10.1063/5.0030186) <a href="https://doi.org/10.1063/5.0030186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0030186" target="_blank">10.1063/5.0030186</a>
+<a href="https://aip.scitation.org/doi/pdf/10.1063/5.0030186" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1063/5.0030186" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1063/5.0030186" target="_blank">10.1063/5.0030186</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8801-0091" title="ORCID: 0000-0001-8801-0091" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gu_hai"><b>Gu</b>&nbsp;Hai</a></span>, <a href="../../../author/sun_jianhua"><b>Sun</b>&nbsp;Jianhua</a></span>, <a href="../../../author/zhang_jie"><b>Zhang</b>&nbsp;Jie</a></span>, <a href="../../../author/xu_yuanyuan"><b>Xu</b>&nbsp;Yuanyuan</a></span>, <span class="author"><a href="https://orcid.org/0009-0002-6305-1377" title="ORCID: 0009-0002-6305-1377" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_bin"><b>Li</b>&nbsp;Bin</a></span>, <a href="../../../author/wu_weiwei"><b>Wu</b>&nbsp;Weiwei</a></span><br>
 Journal Article - AIP Advances, Vol. 10, Iss. 12
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ratio"><button class="btn">#ratio</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Material-Ratio%20on%20the%20Performances%20in%203D%20Cement%20Printing%20and%20Its%20Optimization" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+material-ratio+on+the+performances+in+3d+cement+printing+and+its+optimization&as_occt=title&as_sauthors=gu&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85097611056&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000598533800002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1063/5.0030186" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

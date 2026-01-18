@@ -8,7 +8,12 @@ search:
 
 # #absorbent
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (13)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (6)</button></a> <a href="../../keyword/base"><button class="btn">#base (4)</button></a> <a href="../../keyword/material"><button class="btn">#material (4)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_xin"><b>Zhang</b> Xin</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_xu_liu_sun.2026.EEWAi3PCwSPfHP/">Enhancing Electromagnetic Wave Absorption in 3D-Printed Concrete with Superabsorbent Polymers for High Performance</a></li>
   <li><a href="../../../author/lara_yamile"><b>Lara</b> Yamile</a>, <a href="../../../author/gianoli_pablo"><b>Gianoli</b> Pablo</a>, <a href="../../../author/gonzalez_elizabeth"><b>Gonzalez</b> Elizabeth</a>, <a href="../../../author/abreu_ana"><b>Abreu</b> Ana</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lara_gian_gonz_abre.2026.EoAMAAM/">Evaluation of Additively Manufactured Acoustic Absorbing Metamaterials</a></li>
   <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../gu_han_khay.2025.EoAKoSPo3PC/">Effect of Absorption Kinetics of Superabsorbent Polymer on 3D Printing Characteristics</a></li>
   <li><a href="../../../author/siqueira-neto_antonio_luiz"><b>Siqueira Neto</b> Luiz</a>, <a href="../../../author/isgor_o_burkan"><b>Isgor</b> Burkan</a>, <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../siqu_isgo_weis.2025.MFAiLACBM/">Modeling Fluid Absorption in Layered Anisotropic Cement-Based Materials</a></li>

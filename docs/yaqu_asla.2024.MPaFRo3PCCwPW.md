@@ -19,14 +19,15 @@ tags:
 ---
 
 #Mechanical Properties and Fire-Resistance of 3D Printed Cementitious Composites with Plastic Waste ([2024-12](date/2024/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1186/s40069-024-00731-7) <a href="https://doi.org/10.1186/s40069-024-00731-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-024-00731-7" target="_blank">10.1186/s40069-024-00731-7</a>
+<a href="https://doi.org/10.1186/s40069-024-00731-7" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1186/s40069-024-00731-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1186/s40069-024-00731-7" target="_blank">10.1186/s40069-024-00731-7</a>
 
 <a href="../../../author/yaqub_walid"><b>Yaqub</b>&nbsp;Walid</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span><br>
 Journal Article - International Journal of Concrete Structures and Materials, Vol. 18, Iss. 1
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/plastic"><button class="btn">#plastic</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/waste"><button class="btn">#waste</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Properties%20and%20Fire-Resistance%20of%203D%20Printed%20Cementitious%20Composites%20with%20Plastic%20Waste" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+properties+and+fire-resistance+of+3d+printed+cementitious+composites+with+plastic+waste&as_occt=title&as_sauthors=yaqub&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85211148251&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001367464300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1186/s40069-024-00731-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

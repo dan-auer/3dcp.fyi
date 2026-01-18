@@ -20,14 +20,15 @@ tags:
 ---
 
 #A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes ([2025-12](date/2025/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://amcaonline.org.ar/ojs3/index.php/rmc/article/download/406/408) <a href="https://doi.org/10.70567/rmc.v2.ocsid8671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.70567/rmc.v2.ocsid8671" target="_blank">10.70567/rmc.v2.ocsid8671</a>
+<a href="https://amcaonline.org.ar/ojs3/index.php/rmc/article/download/406/408" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.70567/rmc.v2.ocsid8671" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.70567/rmc.v2.ocsid8671" target="_blank">10.70567/rmc.v2.ocsid8671</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6826-9917" title="ORCID: 0000-0002-6826-9917" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ferrara_liberato"><b>Ferrara</b>&nbsp;Liberato</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2392-1684" title="ORCID: 0000-0002-2392-1684" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b>&nbsp;Giacomo</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7885-029X" title="ORCID: 0000-0001-7885-029X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b>&nbsp;Massimiliano</a></span><br>
 Journal Article - Resúmenes de Mecánica Computacional, Vol. 2, Iss. 1, pp. 11-11
 
 <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/dynamic"><button class="btn">#dynamic</button></a> <a href="../../keyword/fluid"><button class="btn">#fluid</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/particle"><button class="btn">#particle</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=A%20Particle%20Fluid%20Dynamics%20Modelling%20Approach%20to%20Design%203D%20Concrete%20Printing%20Materials%20and%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=a+particle+fluid+dynamics+modelling+approach+to+design+3d+concrete+printing+materials+and+processes&as_occt=title&as_sauthors=ferrara&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.70567/rmc.v2.ocsid8671" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

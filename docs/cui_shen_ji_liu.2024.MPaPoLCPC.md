@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical Performance and Permeability of Low-Carbon Printable Concrete ([2024-07](date/2024/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1080/21650373.2024.2374839) <a href="https://doi.org/10.1080/21650373.2024.2374839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2374839" target="_blank">10.1080/21650373.2024.2374839</a>
+<a href="https://doi.org/10.1080/21650373.2024.2374839" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2024.2374839" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2024.2374839" target="_blank">10.1080/21650373.2024.2374839</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1383-2418" title="ORCID: 0000-0002-1383-2418" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cui_weijiu"><b>Cui</b>&nbsp;Weijiu</a></span>, <a href="../../../author/shen_liang"><b>Shen</b>&nbsp;Liang</a></span>, <a href="../../../author/ji_dongsheng"><b>Ji</b>&nbsp;Dongsheng</a></span>, <a href="../../../author/liu_wenliang"><b>Liu</b>&nbsp;Wenliang</a></span>, <a href="../../../author/wang_tianheng"><b>Wang</b>&nbsp;Tianheng</a></span>, <a href="../../../author/hou_dongshuai"><b>Hou</b>&nbsp;Dongshuai</a></span>, <a href="../../../author/shen_wenkai"><b>Shen</b>&nbsp;Wenkai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2690-4035" title="ORCID: 0000-0003-2690-4035" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/shi_xinyu"><b>Shi</b>&nbsp;Xinyu</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7644-1318" title="ORCID: 0000-0002-7644-1318" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tao_yaxin"><b>Tao</b>&nbsp;Yaxin</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-11
 
 <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/permeability"><button class="btn">#permeability</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Performance%20and%20Permeability%20of%20Low-Carbon%20Printable%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+performance+and+permeability+of+low-carbon+printable+concrete&as_occt=title&as_sauthors=cui&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85197815954&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001266786600001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2024.2374839" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

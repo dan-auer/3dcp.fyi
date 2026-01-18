@@ -15,14 +15,15 @@ tags:
 ---
 
 #Automated Defect Detection in Clay Printing ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.iaarc.org/./publications/fulltext/201_Automated_defect_detection_in_clay_printing.pdf) <a href="https://doi.org/10.22260/isarc2025/0201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0201" target="_blank">10.22260/isarc2025/0201</a>
+<a href="https://www.iaarc.org/./publications/fulltext/201_Automated_defect_detection_in_clay_printing.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.22260/isarc2025/0201" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.22260/isarc2025/0201" target="_blank">10.22260/isarc2025/0201</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1923-7142" title="ORCID: 0000-0002-1923-7142" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/peralta_patricia"><b>Peralta</b>&nbsp;Patricia</a></span>, <a href="../../../author/al-zuriqat_thamer"><b>Al-Zuriqat</b>&nbsp;Thamer</a></span>, <a href="../../../author/noufal_mahmoud"><b>Noufal</b>&nbsp;Mahmoud</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7228-3503" title="ORCID: 0000-0001-7228-3503" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/smarsly_kay"><b>Smarsly</b>&nbsp;Kay</a></span><br>
 Contribution - Proceedings of the 42nd International Symposium on Automation and Robotics in Construction, pp. 1544-1550
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/defect"><button class="btn">#defect</button></a> <a href="../../keyword/detection"><button class="btn">#detection</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Automated%20Defect%20Detection%20in%20Clay%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=automated+defect+detection+in+clay+printing&as_occt=title&as_sauthors=peralta&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105016621530&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.22260/isarc2025/0201" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -23,14 +23,15 @@ tags:
 
 #Sustainable Raw-Earth Blocks Achieved with 3D-Printed Formworks&nbsp;([2025-02](date/2025/02))
 <div class="h1-like">Parametric Modeling, Prototyping, and Laboratory Testing</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2025.2465486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2025.2465486" target="_blank">10.1080/00038628.2025.2465486</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2025.2465486" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2025.2465486" target="_blank">10.1080/00038628.2025.2465486</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7534-3177" title="ORCID: 0000-0002-7534-3177" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b>&nbsp;Valentino</a></span>, <a href="../../../author/rossetti_pietro"><b>Rossetti</b>&nbsp;Pietro</a></span>, <a href="../../../author/polidoro_anthony"><b>Polidoro</b>&nbsp;Anthony</a></span>, <a href="../../../author/rossi_emilio"><b>Rossi</b>&nbsp;Emilio</a></span><br>
 Journal Article - Architectural Science Review, pp. 1-13
 
 <a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/block"><button class="btn">#block</button></a> <a href="../../keyword/earth"><button class="btn">#earth</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork</button></a> <a href="../../keyword/labor"><button class="btn">#labor</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/prototype"><button class="btn">#prototype</button></a> <a href="../../keyword/raw"><button class="btn">#raw</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/test"><button class="btn">#test</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Raw-Earth%20Blocks%20Achieved%20with%203D-Printed%20Formworks" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+raw-earth+blocks+achieved+with+3d-printed+formworks&as_occt=title&as_sauthors=sangiorgio&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85219733418&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001420370700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2025.2465486" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

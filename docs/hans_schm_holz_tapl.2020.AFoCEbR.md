@@ -18,14 +18,15 @@ tags:
 
 #Additive Fabrication of Concrete Elements by Robots&nbsp;([2020-09](date/2020/09))
 <div class="h1-like">Lightweight Concrete Ceiling</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.2307/j.ctv13xpsvw.20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.20" target="_blank">10.2307/j.ctv13xpsvw.20</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.2307/j.ctv13xpsvw.20" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/j.ctv13xpsvw.20" target="_blank">10.2307/j.ctv13xpsvw.20</a>
 
 <a href="../../../author/hansemann_georg"><b>Hansemann</b>&nbsp;Georg</a></span>, <a href="../../../author/schmid_robert"><b>Schmid</b>&nbsp;Robert</a></span>, <a href="../../../author/holzinger_christoph"><b>Holzinger</b>&nbsp;Christoph</a></span>, <a href="../../../author/tapley_paul_joshua"><b>Tapley</b>&nbsp;Joshua</a></span>, <a href="../../../author/kim_huy_hoang"><b>Kim</b>&nbsp;Hoang</a></span>, <a href="../../../author/sliskovic_valentino"><b>Sliskovic</b>&nbsp;Valentino</a></span>, <a href="../../../author/freytag_bernhard"><b>Freytag</b>&nbsp;Bernhard</a></span>, <a href="../../../author/trummer_andreas"><b>Trummer</b>&nbsp;Andreas</a></span>, <a href="../../../author/peters_stefan"><b>Peters</b>&nbsp;Stefan</a></span><br>
 Contribution - Fabricate 2020, pp. 124-129
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/ceiling"><button class="btn">#ceiling</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Fabrication%20of%20Concrete%20Elements%20by%20Robots" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+fabrication+of+concrete+elements+by+robots&as_occt=title&as_sauthors=hansemann&as_ylo=2018&as_yhi=2022&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2307/j.ctv13xpsvw.20" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

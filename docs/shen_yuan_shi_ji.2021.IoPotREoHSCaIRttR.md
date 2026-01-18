@@ -19,14 +19,15 @@ tags:
 ---
 
 #Influence of Pumping on the Resistivity Evolution of High-Strength Concrete and Its Relation to the Rheology ([2021-07](date/2021/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2021.124095" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124095" target="_blank">10.1016/j.conbuildmat.2021.124095</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2021.124095" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2021.124095" target="_blank">10.1016/j.conbuildmat.2021.124095</a>
 
 <a href="../../../author/shen_wenkai"><b>Shen</b>&nbsp;Wenkai</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4375-944X" title="ORCID: 0000-0003-4375-944X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yuan_qiang"><b>Yuan</b>&nbsp;Qiang</a></span>, <a href="../../../author/shi_caijun"><b>Shi</b>&nbsp;Caijun</a></span>, <a href="../../../author/ji_youhong"><b>Ji</b>&nbsp;Youhong</a></span>, <a href="../../../author/zeng_rong"><b>Zeng</b>&nbsp;Rong</a></span>, <a href="../../../author/li_wei"><b>Li</b>&nbsp;Wei</a></span>, <a href="../../../author/chen_zheng"><b>Chen</b>&nbsp;Zheng</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 302
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evolutionary"><button class="btn">#evolutionary</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> <a href="../../keyword/resistance"><button class="btn">#resistance</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Influence%20of%20Pumping%20on%20the%20Resistivity%20Evolution%20of%20High-Strength%20Concrete%20and%20Its%20Relation%20to%20the%20Rheology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=influence+of+pumping+on+the+resistivity+evolution+of+high-strength+concrete+and+its+relation+to+the+rheology&as_occt=title&as_sauthors=shen&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85109627559&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000691816200005" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2021.124095" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

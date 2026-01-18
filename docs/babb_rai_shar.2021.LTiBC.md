@@ -17,14 +17,15 @@ tags:
 
 #Latest Trend in Building Construction&nbsp;([2021-08](date/2021/08))
 <div class="h1-like">Three-Dimensional Printing</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1742-6596/1950/1/012007) <a href="https://doi.org/10.1088/1742-6596/1950/1/012007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/1950/1/012007" target="_blank">10.1088/1742-6596/1950/1/012007</a>
+<a href="https://doi.org/10.1088/1742-6596/1950/1/012007" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/1950/1/012007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/1950/1/012007" target="_blank">10.1088/1742-6596/1950/1/012007</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-5564-1150" title="ORCID: 0000-0002-5564-1150" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/babbar_atul"><b>Babbar</b>&nbsp;Atul</a></span>, <a href="../../../author/rai_aryan"><b>Rai</b>&nbsp;Aryan</a></span>, <a href="../../../author/sharma_ankit"><b>Sharma</b>&nbsp;Ankit</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 1950, Iss. 1
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/trend"><button class="btn">#trend</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Latest%20Trend%20in%20Building%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=latest+trend+in+building+construction&as_occt=title&as_sauthors=babbar&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85112427409&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/1950/1/012007" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

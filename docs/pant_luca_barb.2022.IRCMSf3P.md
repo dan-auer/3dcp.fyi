@@ -15,14 +15,15 @@ tags:
 ---
 
 #Investigations Regarding Concrete Mixes Suitable for 3D Printing ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://sciendo.com/pdf/10.2478/bipca-2022-0010) <a href="https://doi.org/10.2478/bipca-2022-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/bipca-2022-0010" target="_blank">10.2478/bipca-2022-0010</a>
+<a href="https://sciendo.com/pdf/10.2478/bipca-2022-0010" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.2478/bipca-2022-0010" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2478/bipca-2022-0010" target="_blank">10.2478/bipca-2022-0010</a>
 
 <a href="../../../author/pantiru_alexandru"><b>Panțiru</b>&nbsp;Alexandru</a></span>, <a href="../../../author/luca_ionel_bogdan"><b>Luca</b>&nbsp;Bogdan</a></span>, <span class="author"><a href="https://orcid.org/0009-0000-2953-2084" title="ORCID: 0009-0000-2953-2084" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/barbuta_marinela"><b>Bărbuța</b>&nbsp;Marinela</a></span><br>
 Journal Article - Bulletin of the Polytechnic Institute of Iași. Construction. Architecture Section, Vol. 68, Iss. 1, pp. 151-164
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigations%20Regarding%20Concrete%20Mixes%20Suitable%20for%203D%20Printing" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigations+regarding+concrete+mixes+suitable+for+3d+printing&as_occt=title&as_sauthors=pan%C8%9Biru&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.2478/bipca-2022-0010" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

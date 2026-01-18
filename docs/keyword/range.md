@@ -8,6 +8,10 @@ search:
 
 # #range
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (2)</button></a> <a href="../../keyword/direction"><button class="btn">#direction (1)</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar (1)</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/alonso-estebanez_alejandro"><b>Alonso-Estebanez</b> Alejandro</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a>, <a href="../../../author/bruncic_ana"><b>Brunčič</b> Ana</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../alon_alon_yori_brun.2025.RPRf3PSMUaNLCRR/">Rheological Parameter Ranges for 3D Printing Sustainable Mortars Using a New Low-Cost Rotational Rheometer</a></li>
   <li><a href="../../../author/saelens_lien"><b>Saelens</b> Lien</a>, <a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a>, <a href="../../../author/caspeele_robby"><b>Caspeele</b> Robby</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sael_wan_casp_titt.2023.ESotDDo3PCitER/">Experimental Study on the Directional Dependency of 3D Printed Concrete in the Elastic Range</a></li>

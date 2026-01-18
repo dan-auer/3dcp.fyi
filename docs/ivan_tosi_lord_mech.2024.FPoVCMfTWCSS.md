@@ -19,14 +19,15 @@ tags:
 ---
 
 #Flow Production of Variable Curved Modules for Thin-Walled Concrete Shell Structures ([2024-09](date/2024/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/best.202400054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400054" target="_blank">10.1002/best.202400054</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/best.202400054" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/best.202400054" target="_blank">10.1002/best.202400054</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0905-9557" title="ORCID: 0000-0002-0905-9557" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b>&nbsp;Egor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6276-2452" title="ORCID: 0000-0002-6276-2452" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tosic_zlata"><b>Tošić</b>&nbsp;Zlata</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9739-4728" title="ORCID: 0000-0001-9739-4728" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lordick_daniel"><b>Lordick</b>&nbsp;Daniel</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Beton- und Stahlbetonbau
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/flow"><button class="btn">#flow</button></a> <a href="../../keyword/modular"><button class="btn">#modular</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/shell"><button class="btn">#shell</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/thin"><button class="btn">#thin</button></a> <a href="../../keyword/variation"><button class="btn">#variation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Flow%20Production%20of%20Variable%20Curved%20Modules%20for%20Thin-Walled%20Concrete%20Shell%20Structures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=flow+production+of+variable+curved+modules+for+thin-walled+concrete+shell+structures&as_occt=title&as_sauthors=ivaniuk&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85204695213&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001318917100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/best.202400054" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

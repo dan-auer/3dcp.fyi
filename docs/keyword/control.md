@@ -8,6 +8,10 @@ search:
 
 # #control
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (75)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (63)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (34)</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology (28)</button></a> <a href="../../keyword/base"><button class="btn">#base (25)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_yifan"><b>Liu</b> Yifan</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_liu_yang_liu.2026.AoAITi3CPQIaC/">Application of Artificial Intelligence Technology in 3D Concrete Printing Quality Inspection and Control:<br/>A State-of-the-Art Review</a></li>
   <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a>, <a href="../../../author/kim_hong_jae"><b>Kim</b> Jae</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kim_kim.2025.VARCf3PoPCM/">Vibration-Assisted Rheological Control for 3D Printing of Precast Concrete Modules</a></li>

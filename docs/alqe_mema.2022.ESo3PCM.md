@@ -13,14 +13,15 @@ tags:
 ---
 
 #Experimental Study of 3D Printable Cob Mixtures ([2022-02](date/2022/02))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.conbuildmat.2022.126574" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126574" target="_blank">10.1016/j.conbuildmat.2022.126574</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.conbuildmat.2022.126574" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2022.126574" target="_blank">10.1016/j.conbuildmat.2022.126574</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-8533-9705" title="ORCID: 0000-0001-8533-9705" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/alqenaee_amnah"><b>Alqenaee</b>&nbsp;Amnah</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1000-7129" title="ORCID: 0000-0003-1000-7129" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/memari_m_ali"><b>Memari</b>&nbsp;Ali</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 324
 
 <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Experimental%20Study%20of%203D%20Printable%20Cob%20Mixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=experimental+study+of+3d+printable+cob+mixtures&as_occt=title&as_sauthors=alqenaee&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85124231521&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000754216300001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.conbuildmat.2022.126574" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

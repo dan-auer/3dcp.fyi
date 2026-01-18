@@ -21,14 +21,15 @@ tags:
 
 #Comparative Analysis of Onsite Versus Offsite 3D Printing in Construction&nbsp;([2026-01](date/2026/01))
 <div class="h1-like">Benefits, Challenges, and Case Studies</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-95-1822-7_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_62" target="_blank">10.1007/978-981-95-1822-7_62</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-95-1822-7_62" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-95-1822-7_62" target="_blank">10.1007/978-981-95-1822-7_62</a>
 
 <a href="../../../author/gnanaraj_salomie-nivetha_anies"><b>Gnanaraj</b>&nbsp;Anies</a></span>, <a href="../../../author/moreno_cristel-coronel_leyla"><b>Moreno</b>&nbsp;Leyla</a></span>, <a href="../../../author/thabet_baher-fouad-mohamed_reham"><b>Thabet</b>&nbsp;Reham</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5911-9423" title="ORCID: 0000-0002-5911-9423" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rangel_barbara"><b>Rangel</b>&nbsp;Bárbara</a></span>, <span class="author"><a href="https://orcid.org/0009-0004-1695-0593" title="ORCID: 0009-0004-1695-0593" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b>&nbsp;Jaime</a></span><br>
 Contribution - Construction, Energy, Environment and Sustainability, pp. 595-603
 
 <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/comparision"><button class="btn">#comparision</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/offsite"><button class="btn">#offsite</button></a> <a href="../../keyword/onsite"><button class="btn">#onsite</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/versus"><button class="btn">#versus</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Comparative%20Analysis%20of%20Onsite%20Versus%20Offsite%203D%20Printing%20in%20Construction" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=comparative+analysis+of+onsite+versus+offsite+3d+printing+in+construction&as_occt=title&as_sauthors=gnanaraj&as_ylo=2024&as_yhi=2028&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-95-1822-7_62" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

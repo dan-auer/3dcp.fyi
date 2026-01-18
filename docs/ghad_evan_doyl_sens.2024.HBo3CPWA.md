@@ -20,7 +20,7 @@ Contribution - Proceedings of 11th National SimBuild Conference 2024, pp. 637 - 
 
 <a href="../../keyword/assembly"><button class="btn">#assembly</button></a> <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Hygrothermal%20Behavior%20of%203D%20Concrete%20Printed%20Wall%20Assemblies" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=hygrothermal+behavior+of+3d+concrete+printed+wall+assemblies&as_occt=title&as_sauthors=ghaderi&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
@@ -40,7 +40,7 @@ Contribution - Proceedings of 11th National SimBuild Conference 2024, pp. 637 - 
 <div class="grid cards" markdown>
 ???+ example "1 References"
     <ol class = "bordered-list">
-      <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pess_jesu_guim_luca.2023.ECoHPoa3PCM/">Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar</a></li>
+      <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pess_jesu_guim_luca.2023.ECoHPoa3PCM/">Experimental Characterisation of Hygrothermal Properties of a 3D Printed Cementitious Mortar</a></li>
     </ol>
 ???+ bug "0 Citations"
     <ol  class = "bordered-list" reversed>

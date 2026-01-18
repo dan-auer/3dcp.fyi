@@ -13,14 +13,15 @@ tags:
 ---
 
 #Building a Metamaterial Slab with Gosper Curve ([2025-09](date/2025/09))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1177/1351010x251364495" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/1351010x251364495" target="_blank">10.1177/1351010x251364495</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1177/1351010x251364495" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1177/1351010x251364495" target="_blank">10.1177/1351010x251364495</a>
 
 <a href="../../../author/gulia_preeti"><b>Gulia</b>&nbsp;Preeti</a></span>, <a href="../../../author/dogra_sourabh"><b>Dogra</b>&nbsp;Sourabh</a></span>, <a href="../../../author/gupta_arpan"><b>Gupta</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1213-866X" title="ORCID: 0000-0002-1213-866X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/boddepalli_uday"><b>Boddepalli</b>&nbsp;Uday</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1503-0176" title="ORCID: 0000-0003-1503-0176" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/srinivas_dodda"><b>Srinivas</b>&nbsp;Dodda</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3563-7744" title="ORCID: 0000-0002-3563-7744" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/panda_narayan_biranchi"><b>Panda</b>&nbsp;Biranchi</a></span>, <a href="../../../author/ranjani_indu-siva_ghandi"><b>Ranjani</b>&nbsp;Ghandi</a></span><br>
 Journal Article - Building Acoustics
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Building%20a%20Metamaterial%20Slab%20with%20Gosper%20Curve" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=building+a+metamaterial+slab+with+gosper+curve&as_occt=title&as_sauthors=gulia&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105015840639&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1177/1351010x251364495" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

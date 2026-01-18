@@ -8,6 +8,10 @@ search:
 
 # #deformation
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (25)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (19)</button></a> <a href="../../keyword/base"><button class="btn">#base (9)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (9)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (8)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a></li>
   <li><a href="../../../author/keller_petr"><b>Keller</b> Petr</a>, <a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../kell_mend.2025.AoODPbAMfCMoT/">Analysis of Object Deformations Printed by Additive Manufacturing from Concrete Mixtures over Time</a></li>

@@ -9,6 +9,60 @@ search:
 
 #  Mai (née Dressler) Inka 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3182-5086" target="_blank">0000-0002-3182-5086</a>
+
+    First Contribution
+    : 2020-01-14
+    
+    Last Contribution
+    : 2025-12-12
+
+    Number Contributions
+    : 37
+
+    Number Citations
+    : 569
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (34)</li>
+        <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (12)</li>
+        <li><a href="../../../author/bohler_david"><b>Böhler</b> David</a> (9)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (9)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (9)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../mai_freu_lowk.2020.TEoADoFCPaoILSiS3P/">The Effect of Accelerator Dosage on Fresh Concrete Properties and on Inter-Layer Strength in Shotcrete 3D Printing</a> (127)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (95)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (94)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (87)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (83)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (81)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (73)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (63)</li>
+        <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (42)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (36)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (31)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/jacobi_ando"><b>Jacobi</b> Ando</a>, <a href="../../../author/zollner_jan-phillip"><b>Zöllner</b> Jan-Phillip</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../jaco_zoll_hack_mai.2025.EoPPRiI3CP/">Encasement of Pre-Placed Reinforcement in Injection 3D Concrete Printing:<br/>The Effect of Rheology and Process Parameters</a></li>
   <li><a href="../../../author/meier_niklas"><b>Meier</b> Niklas</a>, <a href="../../../author/herding_friedrich"><b>Herding</b> Friedrich</a>, <a href="../../../author/zetzener_harald"><b>Zetzener</b> Harald</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../meie_herd_zetz_mai.2025.SMoBMfPB3CP/">Surface Modification of Bulk Material for Particle Bed 3D Concrete Printing:<br/>Effect on Wettability, Porosity, and Mechanical Properties</a></li>

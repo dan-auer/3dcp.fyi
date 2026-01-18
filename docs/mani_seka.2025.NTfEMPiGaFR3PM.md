@@ -19,14 +19,15 @@ tags:
 ---
 
 #NDT Techniques for Evaluating Mechanical Properties in Green and Fiber-Reinforced 3D Printable Mixes ([2025-08](date/2025/08))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/10589759.2025.2543976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2025.2543976" target="_blank">10.1080/10589759.2025.2543976</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/10589759.2025.2543976" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/10589759.2025.2543976" target="_blank">10.1080/10589759.2025.2543976</a>
 
 <a href="../../../author/mani_aravindhraj"><b>Mani</b>&nbsp;Aravindhraj</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8808-7208" title="ORCID: 0000-0001-8808-7208" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sekar_kumar_muthu"><b>Sekar</b>&nbsp;Muthu</a></span><br>
 Journal Article - Nondestructive Testing and Evaluation, pp. 1-34
 
 <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/technique"><button class="btn">#technique</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=NDT%20Techniques%20for%20Evaluating%20Mechanical%20Properties%20in%20Green%20and%20Fiber-Reinforced%203D%20Printable%20Mixes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=ndt+techniques+for+evaluating+mechanical+properties+in+green+and+fiber-reinforced+3d+printable+mixes&as_occt=title&as_sauthors=mani&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105012611601&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001545660400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/10589759.2025.2543976" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

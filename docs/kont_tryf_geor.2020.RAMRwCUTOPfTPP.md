@@ -22,14 +22,15 @@ tags:
 
 #Robotic Additive Manufacturing (RAM) with Clay Using Topology-Optimization Principles for Tool-Path-Planning&nbsp;([2019-06](date/2019/06))
 <div class="h1-like">The Example of a Building Element</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/00038628.2019.1620170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1620170" target="_blank">10.1080/00038628.2019.1620170</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/00038628.2019.1620170" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/00038628.2019.1620170" target="_blank">10.1080/00038628.2019.1620170</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5804-9657" title="ORCID: 0000-0001-5804-9657" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b>&nbsp;Odysseas</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8896-4952" title="ORCID: 0000-0001-8896-4952" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tryfonos_george"><b>Tryfonos</b>&nbsp;George</a></span>, <a href="../../../author/georgiou_christos"><b>Georgiou</b>&nbsp;Christos</a></span><br>
 Journal Article - Architectural Science Review, Vol. 63, Iss. 2, pp. 105-118
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/path"><button class="btn">#path</button></a> <a href="../../keyword/ram"><button class="btn">#ram</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/tool"><button class="btn">#tool</button></a> <a href="../../keyword/topology"><button class="btn">#topology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Robotic%20Additive%20Manufacturing%20%28RAM%29%20with%20Clay%20Using%20Topology-Optimization%20Principles%20for%20Tool-Path-Planning" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=robotic+additive+manufacturing+%28ram%29+with+clay+using+topology-optimization+principles+for+tool-path-planning&as_occt=title&as_sauthors=kontovourkis&as_ylo=2017&as_yhi=2021&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85066615787&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000471575400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/00038628.2019.1620170" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

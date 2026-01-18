@@ -16,14 +16,15 @@ tags:
 ---
 
 #Evaluation of Material-Modification Using PET in 3D Concrete Printing Technology ([2021-01](date/2021/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/1044/1/012002) <a href="https://doi.org/10.1088/1757-899x/1044/1/012002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1044/1/012002" target="_blank">10.1088/1757-899x/1044/1/012002</a>
+<a href="https://doi.org/10.1088/1757-899x/1044/1/012002" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/1044/1/012002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/1044/1/012002" target="_blank">10.1088/1757-899x/1044/1/012002</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2918-7759" title="ORCID: 0000-0002-2918-7759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/skibicki_szymon"><b>Skibicki</b>&nbsp;Szymon</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8270-4412" title="ORCID: 0000-0001-8270-4412" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pultorak_monika"><b>Pułtorak</b>&nbsp;Monika</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8867-6974" title="ORCID: 0000-0002-8867-6974" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kaszynska_maria"><b>Kaszyńska</b>&nbsp;Maria</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 1044, Iss. 1
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Evaluation%20of%20Material-Modification%20Using%20PET%20in%203D%20Concrete%20Printing%20Technology" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=evaluation+of+material-modification+using+pet+in+3d+concrete+printing+technology&as_occt=title&as_sauthors=skibicki&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/1044/1/012002" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

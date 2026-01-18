@@ -20,14 +20,15 @@ tags:
 
 #3D-Printed Concrete Fracture&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1016/j.compstruc.2025.107822" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruc.2025.107822" target="_blank">10.1016/j.compstruc.2025.107822</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.compstruc.2025.107822" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.compstruc.2025.107822" target="_blank">10.1016/j.compstruc.2025.107822</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-5276-4828" title="ORCID: 0000-0001-5276-4828" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mukhtar_faisal"><b>Mukhtar</b>&nbsp;Faisal</a></span><br>
 Journal Article - Computers & Structures, Vol. 315, No. 107822
 
 <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fem"><button class="btn">#fem</button></a> <a href="../../keyword/fracture"><button class="btn">#fracture</button></a> <a href="../../keyword/law"><button class="btn">#law</button></a> <a href="../../keyword/mixing"><button class="btn">#mixing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D-Printed%20Concrete%20Fracture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d-printed+concrete+fracture&as_occt=title&as_sauthors=mukhtar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005254171&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001497841400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.compstruc.2025.107822" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

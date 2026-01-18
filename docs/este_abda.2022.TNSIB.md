@@ -17,14 +17,15 @@ tags:
 
 #The New Standard Is Biodigital&nbsp;([2022-10](date/2022/10))
 <div class="h1-like">Durable and Elastic 3D Printed Biodigital Clay Bricks</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2313-7673/7/4/159/pdf?version=1668321951) <a href="https://doi.org/10.3390/biomimetics7040159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/biomimetics7040159" target="_blank">10.3390/biomimetics7040159</a>
+<a href="https://www.mdpi.com/2313-7673/7/4/159/pdf?version=1668321951" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/biomimetics7040159" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/biomimetics7040159" target="_blank">10.3390/biomimetics7040159</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1877-1060" title="ORCID: 0000-0002-1877-1060" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/estevez_t_alberto"><b>Estévez</b>&nbsp;Alberto</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7984-3304" title="ORCID: 0000-0002-7984-3304" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/abdallah_k_yomna"><b>Abdallah</b>&nbsp;Yomna</a></span><br>
 Journal Article - Biomimetics, Vol. 7, Iss. 4
 
 <a href="../../keyword/brick"><button class="btn">#brick</button></a> <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/durability"><button class="btn">#durability</button></a> <a href="../../keyword/elasticity"><button class="btn">#elasticity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/standard"><button class="btn">#standard</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=The%20New%20Standard%20Is%20Biodigital" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=the+new+standard+is+biodigital&as_occt=title&as_sauthors=est%C3%A9vez&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85144900272&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000902325100001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/biomimetics7040159" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

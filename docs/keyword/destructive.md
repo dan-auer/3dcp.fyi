@@ -8,6 +8,10 @@ search:
 
 # #destructive
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (9)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (7)</button></a> <a href="../../keyword/test"><button class="btn">#test (7)</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation (4)</button></a> <a href="../../keyword/layer"><button class="btn">#layer (3)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/chen_weihua"><b>Chen</b> Weihua</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW/">Integrated Non-Destructive Assessment of 3D Printed UHPC Microstructure Using X-Ray Computed Tomography and Ultrasonic Waves</a></li>
   <li><a href="../../../author/shiotani_tomoki"><b>Shiotani</b> Tomoki</a>, <a href="../../../author/asaue_hisafumi"><b>Asaue</b> Hisafumi</a>, <a href="../../../author/ogura_hiroki"><b>Ogura</b> Hiroki</a>, <a href="../../../author/okude_nobuhiro"><b>Okude</b> Nobuhiro</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM/">Evaluation of Permanent 3D Printed Formwork of a Bridge Pier Using Non-Destructive Testing Methods</a></li>

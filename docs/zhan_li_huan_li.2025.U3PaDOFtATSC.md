@@ -18,14 +18,15 @@ tags:
 ---
 
 #Utilizing 3D Printing and Distributed Optic Fiber to Achieve Temperature-Sensitive Concrete ([2025-04](date/2025/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/9/1897/pdf?version=1745317464) <a href="https://doi.org/10.3390/ma18091897" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18091897" target="_blank">10.3390/ma18091897</a>
+<a href="https://www.mdpi.com/1996-1944/18/9/1897/pdf?version=1745317464" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18091897" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18091897" target="_blank">10.3390/ma18091897</a>
 
 <a href="../../../author/zhang_qiuju"><b>Zhang</b>&nbsp;Qiuju</a></span>, <a href="../../../author/li_yujia"><b>Li</b>&nbsp;Yujia</a></span>, <a href="../../../author/huang_yuefan"><b>Huang</b>&nbsp;Yuefan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6821-5751" title="ORCID: 0000-0001-6821-5751" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yangbo"><b>Li</b>&nbsp;Yangbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3496-7944" title="ORCID: 0000-0002-3496-7944" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_yahui"><b>Yang</b>&nbsp;Yahui</a></span>, <a href="../../../author/hu_yutao"><b>Hu</b>&nbsp;Yutao</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 9, No. 1897
 
 <a href="../../keyword/achievement"><button class="btn">#achievement</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/distribution"><button class="btn">#distribution</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sensitivity"><button class="btn">#sensitivity</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> <a href="../../keyword/util"><button class="btn">#util</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Utilizing%203D%20Printing%20and%20Distributed%20Optic%20Fiber%20to%20Achieve%20Temperature-Sensitive%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=utilizing+3d+printing+and+distributed+optic+fiber+to+achieve+temperature-sensitive+concrete&as_occt=title&as_sauthors=zhang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005026323&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001487731400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18091897" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

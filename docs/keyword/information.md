@@ -8,6 +8,10 @@ search:
 
 # #information
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (11)</button></a> <a href="../../keyword/model"><button class="btn">#model (10)</button></a> <a href="../../keyword/buildability"><button class="btn">#buildability (7)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (7)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/skoury_lior"><b>Skoury</b> Lior</a>, <a href="../../../author/asaf_ofer"><b>Asaf</b> Ofer</a>, <a href="../../../author/sprecher_aaron"><b>Sprecher</b> Aaron</a>, <a href="../../../author/menges_achim"><b>Menges</b> Achim</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../skou_asaf_spre_meng.2026.DIDTfLS3PiC/">Data-Informed Digital Twin for Large-Scale 3D Printing in Construction</a></li>
   <li><a href="../../../author/marco_giancarlo"><b>Marco</b> Giancarlo</a>, <a href="../../../author/yau_man_ho"><b>Yau</b> Ho</a>, <a href="../../../author/lombardi_davide"><b>Lombardi</b> Davide</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../marc_yau_lomb.2025.SINPSf3CP/">Stress-Informed Non-Planar Slicing for 3D Concrete Printing</a></li>

@@ -15,14 +15,15 @@ tags:
 ---
 
 #3D Printing Has Untapped Potential for Climate Mitigation in the Cement Sector ([2023-02](date/2023/02))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.nature.com/articles/s44172-023-00054-7.pdf) <a href="https://doi.org/10.1038/s44172-023-00054-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s44172-023-00054-7" target="_blank">10.1038/s44172-023-00054-7</a>
+<a href="https://www.nature.com/articles/s44172-023-00054-7.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1038/s44172-023-00054-7" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1038/s44172-023-00054-7" target="_blank">10.1038/s44172-023-00054-7</a>
 
 <a href="../../../author/gangotra_ankita"><b>Gangotra</b>&nbsp;Ankita</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8340-0290" title="ORCID: 0000-0002-8340-0290" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gado_emanuela"><b>del&nbsp;Gado</b>&nbsp;Emanuela</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5362-1308" title="ORCID: 0000-0002-5362-1308" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lewis_i_joanna"><b>Lewis</b>&nbsp;Joanna</a></span><br>
 Journal Article - Communications Engineering, Vol. 2, Iss. 1
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/climate"><button class="btn">#climate</button></a> <a href="../../keyword/mitigation"><button class="btn">#mitigation</button></a> <a href="../../keyword/potential"><button class="btn">#potential</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Has%20Untapped%20Potential%20for%20Climate%20Mitigation%20in%20the%20Cement%20Sector" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+has+untapped+potential+for+climate+mitigation+in+the+cement+sector&as_occt=title&as_sauthors=gangotra&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85162935385&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1038/s44172-023-00054-7" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

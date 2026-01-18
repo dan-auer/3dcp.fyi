@@ -21,14 +21,15 @@ tags:
 
 #Mechanical Behavior of Hardened Printed Concrete and the Effect of Cold Joints&nbsp;([2024-12](date/2024/12))
 <div class="h1-like">An Experimental Investigation</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/ma17246304) <a href="https://doi.org/10.3390/ma17246304" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17246304" target="_blank">10.3390/ma17246304</a>
+<a href="https://doi.org/10.3390/ma17246304" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma17246304" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma17246304" target="_blank">10.3390/ma17246304</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1780-3515" title="ORCID: 0000-0003-1780-3515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/glotz_theresa"><b>Glotz</b>&nbsp;Theresa</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-2468-3060" title="ORCID: 0009-0007-2468-3060" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rasehorn_jette_inken"><b>Rasehorn</b>&nbsp;Inken</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6801-5677" title="ORCID: 0000-0002-6801-5677" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/petryna_yuri"><b>Petryna</b>&nbsp;Yuri</a></span><br>
 Journal Article - Materials, Vol. 17, Iss. 24, No. 6304
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cold"><button class="btn">#cold</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/hardened"><button class="btn">#hardened</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/joint"><button class="btn">#joint</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20Behavior%20of%20Hardened%20Printed%20Concrete%20and%20the%20Effect%20of%20Cold%20Joints" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+behavior+of+hardened+printed+concrete+and+the+effect+of+cold+joints&as_occt=title&as_sauthors=glotz&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85213236990&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001384797400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma17246304" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

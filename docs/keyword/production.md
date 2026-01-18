@@ -8,7 +8,12 @@ search:
 
 # #production
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (52)</button></a> <a href="../../keyword/print"><button class="btn">#print (33)</button></a> <a href="../../keyword/element"><button class="btn">#element (14)</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement (13)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (12)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
   <li><a href="../../../author/nguyen_nhat"><b>Nguyen</b> Nhat</a>, <a href="../../../author/javan_kazem"><b>Javan</b> Kazem</a>, <a href="../../../author/jordan_adam"><b>Jordan</b> Adam</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_java_jord_akba.2026.TEAo3PMH/">Techno-Economic Analysis of 3D Printed Modular Housing:<br/>Productivity, Cost, and Environmental Assessment</a></li>
   <li><a href="../../../author/cojocari_iulia"><b>Cojocari</b> Iulia</a>, <a href="../../../author/martins_mota_mirna"><b>Martins</b> Mirna</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cojo_mart_rang_cunh.2026.S3PfLSPbOW/">Scaling 3D Printing for Large-Scale Production by Optimising Workflow</a></li>
   <li><a href="../../../author/melero-tur_sofia"><b>Melero-Tur</b> Sofía</a>, <a href="../../../author/jimenez-guerrero_adriano"><b>Jiménez-Guerrero</b> Adriano</a>, <a href="../../../author/perez-fenoy_jose"><b>Pérez-Fenoy</b> José</a>, <a href="../../../author/barbero-barrera_mar_maria"><b>Barbero-Barrera</b> María</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mele_jime_pere_barb.2026.RItPo3PCTtIoWM/">Re-Imagining the Production of 3D Printed Ceramics Through the Incorporation of Waste Materials</a></li>

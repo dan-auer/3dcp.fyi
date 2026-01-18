@@ -15,14 +15,15 @@ tags:
 ---
 
 #Relations Between the Printability Descriptors of Mortar and NMR Relaxometry Data ([2025-06](date/2025/06))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/13/3070/pdf?version=1751296363) <a href="https://doi.org/10.3390/ma18133070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18133070" target="_blank">10.3390/ma18133070</a>
+<a href="https://www.mdpi.com/1996-1944/18/13/3070/pdf?version=1751296363" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18133070" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18133070" target="_blank">10.3390/ma18133070</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-6760-7320" title="ORCID: 0000-0002-6760-7320" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rusu_m_mihai"><b>Rusu</b>&nbsp;Mihai</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8082-6600" title="ORCID: 0000-0001-8082-6600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ardelean_ioan"><b>Ardelean</b>&nbsp;Ioan</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 13
 
 <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/description"><button class="btn">#description</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/relation"><button class="btn">#relation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Relations%20Between%20the%20Printability%20Descriptors%20of%20Mortar%20and%20NMR%20Relaxometry%20Data" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=relations+between+the+printability+descriptors+of+mortar+and+nmr+relaxometry+data&as_occt=title&as_sauthors=rusu&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010336025&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001526404900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18133070" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

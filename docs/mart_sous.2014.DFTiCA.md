@@ -15,14 +15,15 @@ tags:
 ---
 
 #Digital Fabrication Technology in Concrete Architecture ([2014-09](date/2014/09))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/ecaade2014_239.content.pdf) <a href="https://doi.org/10.52842/conf.ecaade.2014.1.475" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2014.1.475" target="_blank">10.52842/conf.ecaade.2014.1.475</a>
+<a href="http://papers.cumincad.org/data/works/att/ecaade2014_239.content.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.ecaade.2014.1.475" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.ecaade.2014.1.475" target="_blank">10.52842/conf.ecaade.2014.1.475</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9597-9132" title="ORCID: 0000-0001-9597-9132" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/martins_filipe_pedro"><b>Martins</b>&nbsp;Pedro</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0024-4622" title="ORCID: 0000-0003-0024-4622" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sousa_pedro_jose"><b>Sousa</b>&nbsp;José</a></span><br>
 Contribution - Proceedings of the 32nd International Conference on Education and Research in Computer Aided Architectural Design in Europe, pp. 475-484
 
 <a href="../../keyword/architecture"><button class="btn">#architecture</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Digital%20Fabrication%20Technology%20in%20Concrete%20Architecture" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=digital+fabrication+technology+in+concrete+architecture&as_occt=title&as_sauthors=martins&as_ylo=2012&as_yhi=2016&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.ecaade.2014.1.475" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

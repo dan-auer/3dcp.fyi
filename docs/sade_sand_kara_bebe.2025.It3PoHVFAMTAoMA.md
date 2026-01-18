@@ -18,14 +18,15 @@ tags:
 ---
 
 #Improving the 3D Printability of High-Volume Fly-Ash Mixtures Through Addition of Mineral Admixtures ([2024-11](date/2024/11))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-70281-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_30" target="_blank">10.1007/978-3-031-70281-5_30</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-70281-5_30" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-70281-5_30" target="_blank">10.1007/978-3-031-70281-5_30</a>
 
 <a href="../../../author/sadeghzadeh-benam_shaghayegh"><b>Sadeghzadeh Benam</b>&nbsp;Shaghayegh</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8136-9357" title="ORCID: 0000-0002-8136-9357" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sandalci_ilgin"><b>Sandalci</b>&nbsp;Ilgin</a></span>, <a href="../../../author/kara_burhan"><b>Kara</b>&nbsp;Burhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2721-9777" title="ORCID: 0000-0003-2721-9777" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bebek_ozkan"><b>Bebek</b>&nbsp;Özkan</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1398-4021" title="ORCID: 0000-0003-1398-4021" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bundur_basaran_zeynep"><b>Bundur</b>&nbsp;Zeynep</a></span><br>
 Contribution - Proceedings of the RILEM Spring Convention and Conference 2024, pp. 265-273
 
 <a href="../../keyword/admixture"><button class="btn">#admixture</button></a> <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/mineral"><button class="btn">#mineral</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/volume"><button class="btn">#volume</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%203D%20Printability%20of%20High-Volume%20Fly-Ash%20Mixtures%20Through%20Addition%20of%20Mineral%20Admixtures" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+the+3d+printability+of+high-volume+fly-ash+mixtures+through+addition+of+mineral+admixtures&as_occt=title&as_sauthors=sadeghzadeh+benam&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85208963292&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001462588000030" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-70281-5_30" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

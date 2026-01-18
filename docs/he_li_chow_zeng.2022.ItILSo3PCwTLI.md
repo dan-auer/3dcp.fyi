@@ -21,14 +21,15 @@ tags:
 
 #Increasing the Inter-Layer Strength of 3D Printed Concrete with Tooth-Like Interface&nbsp;([2022-09](date/2022/09))
 <div class="h1-like">An Experimental and Theoretical Investigation</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.matdes.2022.111117) <a href="https://doi.org/10.1016/j.matdes.2022.111117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2022.111117" target="_blank">10.1016/j.matdes.2022.111117</a>
+<a href="https://doi.org/10.1016/j.matdes.2022.111117" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.matdes.2022.111117" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.matdes.2022.111117" target="_blank">10.1016/j.matdes.2022.111117</a>
 
 <a href="../../../author/he_lewei"><b>He</b>&nbsp;Lewei</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-4899-9477" title="ORCID: 0000-0003-4899-9477" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_hua"><b>Li</b>&nbsp;Hua</a></span>, <a href="../../../author/chow_tuck_wai"><b>Chow</b>&nbsp;Wai</a></span>, <a href="../../../author/zeng_biqing"><b>Zeng</b>&nbsp;Biqing</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9957-1078" title="ORCID: 0000-0002-9957-1078" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/qian_ye"><b>Qian</b>&nbsp;Ye</a></span><br>
 Journal Article - Materials & Design, Vol. 223
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/increase"><button class="btn">#increase</button></a> <a href="../../keyword/inter"><button class="btn">#inter</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/layer"><button class="btn">#layer</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/strength"><button class="btn">#strength</button></a> <a href="../../keyword/theory"><button class="btn">#theory</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Increasing%20the%20Inter-Layer%20Strength%20of%203D%20Printed%20Concrete%20with%20Tooth-Like%20Interface" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=increasing+the+inter-layer+strength+of+3d+printed+concrete+with+tooth-like+interface&as_occt=title&as_sauthors=he&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85137640972&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001068066400001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.matdes.2022.111117" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

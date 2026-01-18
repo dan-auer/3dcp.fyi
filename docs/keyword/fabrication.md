@@ -8,7 +8,13 @@ search:
 
 # #fabrication
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (121)</button></a> <a href="../../keyword/digital"><button class="btn">#digital (107)</button></a> <a href="../../keyword/print"><button class="btn">#print (60)</button></a> <a href="../../keyword/design"><button class="btn">#design (49)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (43)</button></a> 
+
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/duking_peter"><b>Düking</b> Peter</a>, <a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a>, <a href="../../../author/masur_lukas"><b>Masur</b> Lukas</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sawi_duki_plac_masu.2026.HRCiDFwC/">Human-Robot Collaboration in Digital Fabrication with Concrete:<br/>Quantifying Productivity and Psychophysiological Strain of Human Workers</a></li>
+  <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a>, <a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/milheiro-oliveira_paula"><b>Milheiro-Oliveira</b> Paula</a>, <a href="../../../author/pimentel_mario"><b>Pimentel</b> Mário</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mato_fons_milh_pime.2026.DoEECfDF/">Design of Eco-Efficient »Concrete« for Digital Fabrication</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../klof.2025.DBFTPTtUoMPaF/">Digital Building Fabrication – The Path Towards the Unity of Material, Process and Form:<br/>A Personal Reflection from Research and Practice</a></li>
   <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tene.2025.TAoFaRCSU3CP/">Technological Aspects of Fabricating a Reinforced Concrete Shell Using 3D Concrete Printing</a></li>

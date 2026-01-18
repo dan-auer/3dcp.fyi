@@ -8,6 +8,10 @@ search:
 
 # #complexity
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (23)</button></a> <a href="../../keyword/print"><button class="btn">#print (22)</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry (8)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (8)</button></a> <a href="../../keyword/formwork"><button class="btn">#formwork (7)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
   <li><a href="../../../author/kalmykov_oleg"><b>Kalmykov</b> Oleg</a>, <a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a>, <a href="../../../author/furman_inna"><b>Furman</b> Inna</a>, <a href="../../../author/demianenko_ivan"><b>Demianenko</b> Ivan</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../kalm_rezn_furm_demi.2025.EToaCGFSMU3T/">Experimental Testing of a Complex-Geometry Floor Slab Manufactured Using 3DCP Technology</a></li>

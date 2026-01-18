@@ -19,14 +19,15 @@ tags:
 ---
 
 #Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites ([2021-04](date/2021/04))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/14/9/2223/pdf?version=1619661502) <a href="https://doi.org/10.3390/ma14092223" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092223" target="_blank">10.3390/ma14092223</a>
+<a href="https://www.mdpi.com/1996-1944/14/9/2223/pdf?version=1619661502" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma14092223" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma14092223" target="_blank">10.3390/ma14092223</a>
 
 <a href="../../../author/zhang_hao"><b>Zhang</b>&nbsp;Hao</a></span>, <a href="../../../author/zhu_liming"><b>Zhu</b>&nbsp;Liming</a></span>, <a href="../../../author/zhang_fan"><b>Zhang</b>&nbsp;Fan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5781-8765" title="ORCID: 0000-0002-5781-8765" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_mijia"><b>Yang</b>&nbsp;Mijia</a></span><br>
 Journal Article - Materials, Vol. 14, Iss. 9
 
 <a href="../../keyword/alignment"><button class="btn">#alignment</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/content"><button class="btn">#content</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/property"><button class="btn">#property</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Effect%20of%20Fiber%20Content%20and%20Alignment%20on%20the%20Mechanical%20Properties%20of%203D%20Printing%20Cementitious%20Composites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=effect+of+fiber+content+and+alignment+on+the+mechanical+properties+of+3d+printing+cementitious+composites&as_occt=title&as_sauthors=zhang&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85105626663&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000650597900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma14092223" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

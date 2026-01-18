@@ -20,14 +20,15 @@ tags:
 
 #Emergency Response Mobile 3D Printing System&nbsp;([2025-07](date/2025/07))
 <div class="h1-like">A Case Study in Rapid Manufacturing of Polyurethane Foam Bridges</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cscm.2025.e05051) <a href="https://doi.org/10.1016/j.cscm.2025.e05051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05051" target="_blank">10.1016/j.cscm.2025.e05051</a>
+<a href="https://doi.org/10.1016/j.cscm.2025.e05051" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cscm.2025.e05051" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05051" target="_blank">10.1016/j.cscm.2025.e05051</a>
 
 <a href="../../../author/liang_jingwen"><b>Liang</b>&nbsp;Jingwen</a></span>, <a href="../../../author/zeng_zuo"><b>Zeng</b>&nbsp;Zuo</a></span>, <a href="../../../author/wang_penglin"><b>Wang</b>&nbsp;Penglin</a></span>, <a href="../../../author/wang_zhongxu"><b>Wang</b>&nbsp;Zhongxu</a></span>, <a href="../../../author/wen_shifeng"><b>Wen</b>&nbsp;Shifeng</a></span>, <a href="../../../author/zhou_yan"><b>Zhou</b>&nbsp;Yan</a></span>, <a href="../../../author/zhou_cheng"><b>Zhou</b>&nbsp;Cheng</a></span><br>
 Journal Article - Case Studies in Construction Materials, No. e05051
 
 <a href="../../keyword/bridge"><button class="btn">#bridge</button></a> <a href="../../keyword/case"><button class="btn">#case</button></a> <a href="../../keyword/foam"><button class="btn">#foam</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/mobile"><button class="btn">#mobile</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rapid"><button class="btn">#rapid</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Emergency%20Response%20Mobile%203D%20Printing%20System" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=emergency+response+mobile+3d+printing+system&as_occt=title&as_sauthors=liang&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105010891264&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001538991700001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cscm.2025.e05051" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

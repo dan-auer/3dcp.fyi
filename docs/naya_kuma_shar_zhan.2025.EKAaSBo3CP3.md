@@ -20,14 +20,15 @@ tags:
 
 #Exploring Key Aspects and Sustainable Benefits of 3D Concrete Printing (3DCP)&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">A Selective Review</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-96-3165-0_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_31" target="_blank">10.1007/978-981-96-3165-0_31</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-96-3165-0_31" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-96-3165-0_31" target="_blank">10.1007/978-981-96-3165-0_31</a>
 
 <a href="../../../author/nayaka_ramesh"><b>Nayaka</b>&nbsp;Ramesh</a></span>, <a href="../../../author/kumar_ujwal_h"><b>Kumar</b>&nbsp;H.</a></span>, <a href="../../../author/sharif_ahamed"><b>Sharif</b>&nbsp;Ahamed</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
 Contribution - Recent Advances in Additive Manufacturing, pp. 407-418
 
 <a href="../../keyword/3dcp"><button class="btn">#3dcp</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/benefit"><button class="btn">#benefit</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Key%20Aspects%20and%20Sustainable%20Benefits%20of%203D%20Concrete%20Printing%20%283DCP%29" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+key+aspects+and+sustainable+benefits+of+3d+concrete+printing+%283dcp%29&as_occt=title&as_sauthors=nayaka&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105006913738&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-96-3165-0_31" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

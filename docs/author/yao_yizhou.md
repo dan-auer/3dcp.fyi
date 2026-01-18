@@ -9,6 +9,60 @@ search:
 
 #  Yao Yizhou 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2022-09-05
+    
+    Last Contribution
+    : 2024-11-30
+
+    Number Contributions
+    : 2
+
+    Number Citations
+    : 100
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (2)</li>
+        <li><a href="../../../author/he_chunhui"><b>He</b> Chunhui</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (2)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a> (86)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (10)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (8)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (7)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (7)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (14)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (13)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (9)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (7)</li>
+        <li><a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a> (6)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../liu_wang_zhu_wu.2025.Do3PCMfWS/">Design of 3D Printed Concrete Masonry for Wall Structures:<br/>Mechanical Behavior and Strength Calculation Methods Under Various Loads</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a></li>

@@ -18,14 +18,15 @@ tags:
 ---
 
 #3D Printable Low-Carbon Concrete with Nano-Silica Pretreated Recycled Fine Aggregates ([2024-07](date/2024/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-64269-2_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_17" target="_blank">10.1007/978-3-031-64269-2_17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-64269-2_17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-64269-2_17" target="_blank">10.1007/978-3-031-64269-2_17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-9433-4033" title="ORCID: 0000-0001-9433-4033" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/liu_xuan"><b>Liu</b>&nbsp;Xuan</a></span>, <a href="../../../author/chen_xianrui"><b>Chen</b>&nbsp;Xianrui</a></span>, <a href="../../../author/leung_gordon"><b>Leung</b>&nbsp;Gordon</a></span>, <a href="../../../author/sham_ivan"><b>Sham</b>&nbsp;Ivan</a></span><br>
 Contribution - Construction 3D Printing, pp. 133-138
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/carbon"><button class="btn">#carbon</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/low"><button class="btn">#low</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/silica"><button class="btn">#silica</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printable%20Low-Carbon%20Concrete%20with%20Nano-Silica%20Pretreated%20Recycled%20Fine%20Aggregates" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printable+low-carbon+concrete+with+nano-silica+pretreated+recycled+fine+aggregates&as_occt=title&as_sauthors=liu&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85201258701&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001313092800017" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-64269-2_17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -23,14 +23,15 @@ tags:
 
 #Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials&nbsp;([2025-12](date/2025/12))
 <div class="h1-like">Rheology and Mechanical Behavior</div>
-:aca-openaccess:{ .xgreen .lg .middle } <a href="https://doi.org/10.1016/j.jobe.2025.114910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114910" target="_blank">10.1016/j.jobe.2025.114910</a>
+<a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jobe.2025.114910" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jobe.2025.114910" target="_blank">10.1016/j.jobe.2025.114910</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7745-7074" title="ORCID: 0000-0001-7745-7074" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cheng_zhangqi"><b>Cheng</b>&nbsp;Zhangqi</a></span>, <a href="../../../author/li_keyan"><b>Li</b>&nbsp;Keyan</a></span>, <a href="../../../author/liu_renlong"><b>Liu</b>&nbsp;Renlong</a></span><br>
 Journal Article - Journal of Building Engineering, No. 114910
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/ceramic"><button class="btn">#ceramic</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%203D%20Printed%20Engineered%20Cementitious%20Composites%20Incorporating%20Recycled%20Ceramic%20Materials" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+3d+printed+engineered+cementitious+composites+incorporating+recycled+ceramic+materials&as_occt=title&as_sauthors=cheng&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jobe.2025.114910" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

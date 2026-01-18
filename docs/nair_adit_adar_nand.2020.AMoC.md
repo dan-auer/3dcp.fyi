@@ -16,14 +16,15 @@ tags:
 
 #Additive Manufacturing of Concrete&nbsp;([2023-03](date/2023/03))
 <div class="h1-like">Challenges and Opportunities</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1088/1757-899x/814/1/012022) <a href="https://doi.org/10.1088/1757-899x/814/1/012022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/814/1/012022" target="_blank">10.1088/1757-899x/814/1/012022</a>
+<a href="https://doi.org/10.1088/1757-899x/814/1/012022" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1757-899x/814/1/012022" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1757-899x/814/1/012022" target="_blank">10.1088/1757-899x/814/1/012022</a>
 
 <a href="../../../author/nair_avinash"><b>Nair</b>&nbsp;Avinash</a></span>, <a href="../../../author/aditya_d_s"><b>Aditya</b>&nbsp;S.</a></span>, <a href="../../../author/adarsh_n_r"><b>Adarsh</b>&nbsp;R.</a></span>, <a href="../../../author/nandan_m"><b>Nandan</b>&nbsp;M.</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8382-3592" title="ORCID: 0000-0002-8382-3592" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dharek_shashikant_manish"><b>Dharek</b>&nbsp;Manish</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8400-2369" title="ORCID: 0000-0001-8400-2369" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sreedhara_m_b"><b>Sreedhara</b>&nbsp;B.</a></span>, <a href="../../../author/prashant_c_sunagar"><b>Prashant</b>&nbsp;Sunagar</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5140-9725" title="ORCID: 0000-0002-5140-9725" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sreekeshava_s_k"><b>Sreekeshava</b>&nbsp;K.</a></span><br>
 Journal Article - IOP Conference Series: Materials Science and Engineering, Vol. 814, Iss. 1
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/opportunity"><button class="btn">#opportunity</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Additive%20Manufacturing%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+manufacturing+of+concrete&as_occt=title&as_sauthors=nair&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85088052155&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1757-899x/814/1/012022" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

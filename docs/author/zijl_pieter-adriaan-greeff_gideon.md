@@ -9,6 +9,60 @@ search:
 
 # van Zijl Gideon 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0001-8066-7750" target="_blank">0000-0001-8066-7750</a>
+
+    First Contribution
+    : 2018-05-14
+    
+    Last Contribution
+    : 2025-06-23
+
+    Number Contributions
+    : 66
+
+    Number Citations
+    : 2855
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (36)</li>
+        <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> (17)</li>
+        <li><a href="../../../author/cho_seung"><b>Cho</b> Seung</a> (14)</li>
+        <li><a href="../../../author/heever_marchant"><b>van den Heever</b> Marchant</a> (12)</li>
+        <li><a href="../../../author/bester_a_frederick"><b>Bester</b> Frederick</a> (11)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a> (281)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (168)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (160)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (138)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (122)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (120)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (100)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (89)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (74)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (69)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (64)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../haar_krug_zijl.2025.3PCPBCCD/">3D Printed Concrete Pinned Beam-Column Connection Development</a></li>
   <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
@@ -16,7 +70,7 @@ search:
   <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../jaji_baba_zijl.2025.MPoEBTP3PGC/">Mechanical Performance of Extrusion-Based Two-Part 3D-Printed Geopolymer Concrete:<br/>A Review of Advances in Laboratory and Real-Scale Construction Projects</a></li>
   <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../krug_zijl.2024.ASEPoEB3CP/">A Structural Engineering Perspective on Extrusion-Based 3D Concrete Printing:<br/>From Green to Solid State</a></li>
   <li><a href="../../../author/colyn_markus"><b>Colyn</b> Markus</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../coly_baba_zijl.2024.AiSo3CP/">Advancements in Sustainability of 3D Concrete Printing:<br/>Presenting Low-Carbon Mixtures for Additively Manufactured Concrete Structures in Practice</a></li>
-  <li><a href="../../../author/timm_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../timm_vill_zijl.2024.BT/">Bridging Technologies:<br/>Integrating 3DCP and OSC Through BIM Implementation</a></li>
+  <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../timm_vill_zijl.2024.BT/">Bridging Technologies:<br/>Integrating 3DCP and OSC Through BIM Implementation</a></li>
   <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ibra_zijl_baba.2024.TDBo3PFRLCCCCUSL/">Time-Dependent Behavior of 3D Printed Fiber-Reinforced Limestone-Calcined-Clay-Cement Concrete Under Sustained Loadings</a></li>
   <li><a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/mwongo_mwiti"><b>Mwongo</b> Mwiti</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../vill_mwon_baba_zijl.2024.QRCaDWfUi3PC/">Quantifying Recycled Construction and Demolition Waste for Use in 3D Printed Concrete</a></li>
   <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ibra_zijl_baba.2024.MoLoFi3PLCCCCIbEMO/">Mitigation of Lack-of-Fusion in 3D Printed Limestone-Calcined-Clay-Cement Concrete Induced by Effective Micro-Organisms</a></li>

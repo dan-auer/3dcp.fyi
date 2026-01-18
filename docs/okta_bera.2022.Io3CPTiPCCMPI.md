@@ -18,14 +18,15 @@ tags:
 ---
 
 #Implementation of 3D Concrete Printing Technology in Pre-Cast Concrete Mass Production Industry ([2021-07](date/2021/07))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-981-16-6932-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6932-3_18" target="_blank">10.1007/978-981-16-6932-3_18</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-981-16-6932-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-981-16-6932-3_18" target="_blank">10.1007/978-981-16-6932-3_18</a>
 
 <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b>&nbsp;Astiti</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4781-7494" title="ORCID: 0000-0002-4781-7494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/berawi_ali_mohammed"><b>Berawi</b>&nbsp;Mohammed</a></span><br>
 Contribution - Proceedings of 4th International Conference on Civil Engineering and Architecture, pp. 207-221
 
 <a href="../../keyword/cast"><button class="btn">#cast</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/mass"><button class="btn">#mass</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/production"><button class="btn">#production</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Implementation%20of%203D%20Concrete%20Printing%20Technology%20in%20Pre-Cast%20Concrete%20Mass%20Production%20Industry" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=implementation+of+3d+concrete+printing+technology+in+pre-cast+concrete+mass+production+industry&as_occt=title&as_sauthors=oktaviani&as_ylo=2019&as_yhi=2023&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85125222891&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000774699000018" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-981-16-6932-3_18" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

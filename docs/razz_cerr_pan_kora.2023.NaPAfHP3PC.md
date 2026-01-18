@@ -19,14 +19,15 @@ tags:
 
 #Nanomaterials as Promising Additives for High-Performance 3D Printed Concrete&nbsp;([2023-04](date/2023/04))
 <div class="h1-like">A Critical Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/2079-4991/13/9/1440/pdf?version=1682161460) <a href="https://doi.org/10.3390/nano13091440" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/nano13091440" target="_blank">10.3390/nano13091440</a>
+<a href="https://www.mdpi.com/2079-4991/13/9/1440/pdf?version=1682161460" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/nano13091440" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/nano13091440" target="_blank">10.3390/nano13091440</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-2857-3305" title="ORCID: 0000-0003-2857-3305" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/razzaghian-ghadikolaee_mehrdad"><b>Razzaghian Ghadikolaee</b>&nbsp;Mehrdad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7018-4800" title="ORCID: 0000-0001-7018-4800" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/cerro-prada_elena"><b>Cerro-Prada</b>&nbsp;Elena</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3389-4656" title="ORCID: 0000-0003-3389-4656" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pan_zhu"><b>Pan</b>&nbsp;Zhu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7938-1835" title="ORCID: 0000-0001-7938-1835" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b>&nbsp;Asghar</a></span><br>
 Journal Article - Nanomaterials, Vol. 13, Iss. 9
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/critical"><button class="btn">#critical</button></a> <a href="../../keyword/height"><button class="btn">#height</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/promise"><button class="btn">#promise</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Nanomaterials%20as%20Promising%20Additives%20for%20High-Performance%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=nanomaterials+as+promising+additives+for+high-performance+3d+printed+concrete&as_occt=title&as_sauthors=razzaghian+ghadikolaee&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85159166120&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000987611000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/nano13091440" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

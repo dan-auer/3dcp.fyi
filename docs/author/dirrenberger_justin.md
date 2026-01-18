@@ -9,6 +9,60 @@ search:
 
 #  Dirrenberger Justin 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : <a href="https://orcid.org/0000-0002-3964-305X" target="_blank">0000-0002-3964-305X</a>
+
+    First Contribution
+    : 2016-03-25
+    
+    Last Contribution
+    : 2021-02-11
+
+    Number Contributions
+    : 12
+
+    Number Citations
+    : 1868
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a> (8)</li>
+        <li><a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> (5)</li>
+        <li><a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> (5)</li>
+        <li><a href="../../../author/bouyssou_charles"><b>Bouyssou</b> Charles</a> (4)</li>
+        <li><a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a> (990)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (29)</li>
+        <li><a href="../../../author/gibb_gf_alistar"><b>Gibb</b> Alistar</a> (28)</li>
+        <li><a href="../../../author/thorpe_tony"><b>Thorpe</b> Tony</a> (28)</li>
+        <li><a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> (22)</li>
+        <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a> (22)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (62)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (59)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (48)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (46)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (46)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/chantin_marjorie"><b>Chantin</b> Marjorie</a>, <a href="../../../author/vintila_raul_cristian"><b>Vintila</b> Cristian</a>, <a href="../../../author/fabritius_marc"><b>Fabritius</b> Marc</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../muni_chan_vint_fabr.2021.CHM/">Concrete Hybrid Manufacturing:<br/>A Machine Architecture</a></li>
   <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a></li>

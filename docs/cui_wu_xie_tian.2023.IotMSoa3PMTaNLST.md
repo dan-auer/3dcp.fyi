@@ -17,14 +17,15 @@ tags:
 ---
 
 #Investigation on the Micro-Structure of a 3D Printed Mortar Through a Novel Leaching-Subsidiary Tomography ([2023-03](date/2023/03))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/21650373.2023.2184430" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2023.2184430" target="_blank">10.1080/21650373.2023.2184430</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/21650373.2023.2184430" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/21650373.2023.2184430" target="_blank">10.1080/21650373.2023.2184430</a>
 
 <a href="../../../author/cui_dong"><b>Cui</b>&nbsp;Dong</a></span>, <a href="../../../author/wu_yingxuan"><b>Wu</b>&nbsp;Yingxuan</a></span>, <a href="../../../author/xie_xiaoying"><b>Xie</b>&nbsp;Xiaoying</a></span>, <a href="../../../author/tian_guanfei"><b>Tian</b>&nbsp;Guanfei</a></span>, <a href="../../../author/han_guantong"><b>Han</b>&nbsp;Guantong</a></span>, <a href="../../../author/wan_yi"><b>Wan</b>&nbsp;Yi</a></span>, <a href="../../../author/zheng_keren"><b>Zheng</b>&nbsp;Keren</a></span>, <a href="../../../author/li_wenting"><b>Li</b>&nbsp;Wenting</a></span><br>
 Journal Article - Journal of Sustainable Cement-Based Materials, pp. 1-14
 
 <a href="../../keyword/investigation"><button class="btn">#investigation</button></a> <a href="../../keyword/leach"><button class="btn">#leach</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> <a href="../../keyword/tomography"><button class="btn">#tomography</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Investigation%20on%20the%20Micro-Structure%20of%20a%203D%20Printed%20Mortar%20Through%20a%20Novel%20Leaching-Subsidiary%20Tomography" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=investigation+on+the+micro-structure+of+a+3d+printed+mortar+through+a+novel+leaching-subsidiary+tomography&as_occt=title&as_sauthors=cui&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85150458600&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000946200000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/21650373.2023.2184430" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

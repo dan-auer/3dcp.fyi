@@ -15,14 +15,15 @@ tags:
 ---
 
 #Parametric Design of Multipurpose 3D Printed Walls Based on Roberto Matta´s Drawings ([2023-12](date/2023/12))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://pdf.blucher.com.br/designproceedings/sigradi2023/463.pdf) <a href="https://doi.org/10.5151/sigradi2023-463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-463" target="_blank">10.5151/sigradi2023-463</a>
+<a href="https://pdf.blucher.com.br/designproceedings/sigradi2023/463.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.5151/sigradi2023-463" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5151/sigradi2023-463" target="_blank">10.5151/sigradi2023-463</a>
 
 <a href="../../../author/acuna_tomas"><b>Acuña</b>&nbsp;Tomás</a></span>, <a href="../../../author/avendano_martin"><b>Avendaño</b>&nbsp;Martín</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8716-6868" title="ORCID: 0000-0002-8716-6868" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banda_pablo"><b>Banda</b>&nbsp;Pablo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3225-0234" title="ORCID: 0000-0003-3225-0234" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b>&nbsp;Pedro</a></span><br>
 Contribution - Proceedings of the XXVIIth SIGraDi Conference, pp. 481-492
 
 <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Parametric%20Design%20of%20Multipurpose%203D%20Printed%20Walls%20Based%20on%20Roberto%20Matta%C2%B4s%20Drawings" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=parametric+design+of+multipurpose+3d+printed+walls+based+on+roberto+matta%C2%B4s+drawings&as_occt=title&as_sauthors=acu%C3%B1a&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.5151/sigradi2023-463" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

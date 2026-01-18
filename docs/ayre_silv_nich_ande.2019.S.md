@@ -13,14 +13,15 @@ tags:
 
 #SCRIM&nbsp;([2018-09](date/2018/09))
 <div class="h1-like">Sparse Concrete Reinforcement in Meshworks</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://adk.elsevierpure.com/files/62203271/ROBARCH_2018_SCRIM_Accepted_PrePrint_1_.pdf) <a href="https://doi.org/10.1007/978-3-319-92294-2_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_16" target="_blank">10.1007/978-3-319-92294-2_16</a>
+<a href="https://adk.elsevierpure.com/files/62203271/ROBARCH_2018_SCRIM_Accepted_PrePrint_1_.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-319-92294-2_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-319-92294-2_16" target="_blank">10.1007/978-3-319-92294-2_16</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-9266-065X" title="ORCID: 0000-0002-9266-065X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ayres_phil"><b>Ayres</b>&nbsp;Phil</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-9895-5128" title="ORCID: 0000-0001-9895-5128" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silva_ricardo-leal_wilson"><b>da&nbsp;Silva</b>&nbsp;Wilson</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2420-8351" title="ORCID: 0000-0003-2420-8351" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nicholas_paul"><b>Nicholas</b>&nbsp;Paul</a></span>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b>&nbsp;Thomas</a></span>, <a href="../../../author/greisen_portielje-rauff_johannes"><b>Greisen</b>&nbsp;Johannes</a></span><br>
 Contribution - Robotic Fabrication in Architecture, Art and Design 2018, pp. 207-220
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=SCRIM" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=scrim&as_occt=title&as_sauthors=ayres&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008858103&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-319-92294-2_16" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

@@ -18,14 +18,15 @@ tags:
 
 #Selective Sheet-Extrusion&nbsp;([2024-07](date/2024/07))
 <div class="h1-like">A Novel Manufacturing-Process for Large-Format Material-Extrusion</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.3390/jmmp8040145) <a href="https://doi.org/10.3390/jmmp8040145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jmmp8040145" target="_blank">10.3390/jmmp8040145</a>
+<a href="https://doi.org/10.3390/jmmp8040145" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/jmmp8040145" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/jmmp8040145" target="_blank">10.3390/jmmp8040145</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-2220-5408" title="ORCID: 0000-0002-2220-5408" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/parrott_brian"><b>Parrott</b>&nbsp;Brian</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2943-6217" title="ORCID: 0000-0002-2943-6217" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/coronado-preciado_angelica"><b>Coronado Preciado</b>&nbsp;Angelica</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7717-2159" title="ORCID: 0000-0001-7717-2159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feron_m_eric"><b>Feron</b>&nbsp;Eric</a></span><br>
 Journal Article - Journal of Manufacturing and Materials Processing, Vol. 8, Iss. 4, No. 145
 
 <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/format"><button class="btn">#format</button></a> <a href="../../keyword/large"><button class="btn">#large</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/selective"><button class="btn">#selective</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Selective%20Sheet-Extrusion" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=selective+sheet-extrusion&as_occt=title&as_sauthors=parrott&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85202632666&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001305302800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/jmmp8040145" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

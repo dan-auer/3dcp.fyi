@@ -15,14 +15,15 @@ tags:
 
 #Pumping of Concrete&nbsp;([2022-01](date/2022/01))
 <div class="h1-like">Understanding a Common Placement Method with Lots of Challenges</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.cemconres.2022.106720) <a href="https://doi.org/10.1016/j.cemconres.2022.106720" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106720" target="_blank">10.1016/j.cemconres.2022.106720</a>
+<a href="https://doi.org/10.1016/j.cemconres.2022.106720" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.cemconres.2022.106720" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cemconres.2022.106720" target="_blank">10.1016/j.cemconres.2022.106720</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-1146-7998" title="ORCID: 0000-0002-1146-7998" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/feys_dimitri"><b>Feys</b>&nbsp;Dimitri</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5603-2616" title="ORCID: 0000-0001-5603-2616" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/schutter_geert"><b>de&nbsp;Schutter</b>&nbsp;Geert</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7102-5094" title="ORCID: 0000-0001-7102-5094" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/fataei_shirin"><b>Fataei</b>&nbsp;Shirin</a></span>, <a href="../../../author/martys_s_nicos"><b>Martys</b>&nbsp;Nicos</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4685-7064" title="ORCID: 0000-0002-4685-7064" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b>&nbsp;Viktor</a></span><br>
 Journal Article - Cement and Concrete Research, Vol. 154
 
 <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/pump"><button class="btn">#pump</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Pumping%20of%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=pumping+of+concrete&as_occt=title&as_sauthors=feys&as_ylo=2020&as_yhi=2024&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85123643518&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:000831018000002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.cemconres.2022.106720" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

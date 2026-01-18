@@ -19,14 +19,15 @@ tags:
 
 #Artificial Intelligence in 3D Printed Concrete&nbsp;([2025-06](date/2025/06))
 <div class="h1-like">Sustainability Assessment and Implementation Challenges</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" target="_blank">10.9734/jmsrr/2025/v8i2421</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.9734/jmsrr/2025/v8i2421" target="_blank">10.9734/jmsrr/2025/v8i2421</a>
 
 <a href="../../../author/oseji_samuel"><b>Oseji</b>&nbsp;Samuel</a></span>, <a href="../../../author/chukwuemeka_prince"><b>Chukwuemeka</b>&nbsp;Prince</a></span>, <a href="../../../author/imoni_okes"><b>Imoni</b>&nbsp;Okes</a></span><br>
 Journal Article - Journal of Materials Science Research and Reviews, Vol. 8, Iss. 2, pp. 515-528
 
 <a href="../../keyword/artificial"><button class="btn">#artificial</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/challenge"><button class="btn">#challenge</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/implementation"><button class="btn">#implementation</button></a> <a href="../../keyword/intelligence"><button class="btn">#intelligence</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Artificial%20Intelligence%20in%203D%20Printed%20Concrete" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=artificial+intelligence+in+3d+printed+concrete&as_occt=title&as_sauthors=oseji&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.9734/jmsrr/2025/v8i2421" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

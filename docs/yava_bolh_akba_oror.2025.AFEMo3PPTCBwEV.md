@@ -26,7 +26,7 @@ Contribution - Proceedings of the IASS 2025 Annual Symposium
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/beam"><button class="btn">#beam</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/finite"><button class="btn">#finite</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/post"><button class="btn">#post</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/tension"><button class="btn">#tension</button></a> <a href="../../keyword/validation"><button class="btn">#validation</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Advanced%20Finite%20Element%20Modeling%20of%203D-Printed%20Post-Tensioned%20Concrete%20Beams%20with%20Experimental%20Validation" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=advanced+finite+element+modeling+of+3d-printed+post-tensioned+concrete+beams+with+experimental+validation&as_occt=title&as_sauthors=yavartanoo&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}
 :aca-blank:{ .lg .middle}

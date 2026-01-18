@@ -20,14 +20,15 @@ tags:
 ---
 
 #Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions ([2025-07](date/2025/07))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://www.mdpi.com/1996-1944/18/14/3327/pdf?version=1752584286) <a href="https://doi.org/10.3390/ma18143327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143327" target="_blank">10.3390/ma18143327</a>
+<a href="https://www.mdpi.com/1996-1944/18/14/3327/pdf?version=1752584286" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.3390/ma18143327" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/ma18143327" target="_blank">10.3390/ma18143327</a>
 
 <a href="../../../author/zafar_tayyab"><b>Zafar</b>&nbsp;Tayyab</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-8813-967X" title="ORCID: 0000-0001-8813-967X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b>&nbsp;Muhammad</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6043-7173" title="ORCID: 0000-0001-6043-7173" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/hojati_maryam"><b>Hojati</b>&nbsp;Maryam</a></span><br>
 Journal Article - Materials, Vol. 18, Iss. 14, No. 3327
 
 <a href="../../keyword/arid"><button class="btn">#arid</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/cure"><button class="btn">#cure</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/internal"><button class="btn">#internal</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/resilience"><button class="btn">#resilience</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20the%203D%20Printability%20of%20Engineered%20Cementitious%20Composites%20with%20Internal%20Curing%20for%20Resilient%20Construction%20in%20Arid%20Regions" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+the+3d+printability+of+engineered+cementitious+composites+with+internal+curing+for+resilient+construction+in+arid+regions&as_occt=title&as_sauthors=zafar&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105011623366&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001536748000001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.3390/ma18143327" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

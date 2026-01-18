@@ -17,14 +17,15 @@ tags:
 ---
 
 #Mechanical and Piezoresistive Behaviour of 3D Printed Self-Sensing One-Way Concrete Slab ([2025-05](date/2025/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.istruc.2025.109160) <a href="https://doi.org/10.1016/j.istruc.2025.109160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109160" target="_blank">10.1016/j.istruc.2025.109160</a>
+<a href="https://doi.org/10.1016/j.istruc.2025.109160" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.istruc.2025.109160" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.istruc.2025.109160" target="_blank">10.1016/j.istruc.2025.109160</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-0049-662X" title="ORCID: 0000-0002-0049-662X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sun_junbo"><b>Sun</b>&nbsp;Junbo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7640-711X" title="ORCID: 0000-0002-7640-711X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/aslani_farhad"><b>Aslani</b>&nbsp;Farhad</a></span>, <a href="../../../author/mann_dhruv"><b>Mann</b>&nbsp;Dhruv</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2888-9326" title="ORCID: 0000-0003-2888-9326" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/huang_bo"><b>Huang</b>&nbsp;Bo</a></span>, <a href="../../../author/peng_jin"><b>Peng</b>&nbsp;Jin</a></span><br>
 Journal Article - Structures, Vol. 78, No. 109160
 
 <a href="../../keyword/behavior"><button class="btn">#behavior</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/mechanics"><button class="btn">#mechanics</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/self"><button class="btn">#self</button></a> <a href="../../keyword/sensor"><button class="btn">#sensor</button></a> <a href="../../keyword/slab"><button class="btn">#slab</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Mechanical%20and%20Piezoresistive%20Behaviour%20of%203D%20Printed%20Self-Sensing%20One-Way%20Concrete%20Slab" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=mechanical+and+piezoresistive+behaviour+of+3d+printed+self-sensing+one-way+concrete+slab&as_occt=title&as_sauthors=sun&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105005510679&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001498984700002" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.istruc.2025.109160" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

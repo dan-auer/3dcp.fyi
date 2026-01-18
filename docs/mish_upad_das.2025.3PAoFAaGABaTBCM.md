@@ -18,14 +18,15 @@ tags:
 ---
 
 #3D Printing Aspects of Fly Ash and GGBS Admixed Binary and Ternary Blended Cementitious Mortar ([2025-06](date/2025/06))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1080/19648189.2025.2521381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2521381" target="_blank">10.1080/19648189.2025.2521381</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1080/19648189.2025.2521381" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1080/19648189.2025.2521381" target="_blank">10.1080/19648189.2025.2521381</a>
 
 <a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b>&nbsp;Sanjeet</a></span>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b>&nbsp;Bikash</a></span>, <a href="../../../author/das_busan_bibhuti"><b>Das</b>&nbsp;Bibhuti</a></span><br>
 Journal Article - European Journal of Environmental and Civil Engineering, pp. 1-31
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/aspects"><button class="btn">#aspects</button></a> <a href="../../keyword/binary"><button class="btn">#binary</button></a> <a href="../../keyword/blend"><button class="btn">#blend</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/ternary"><button class="btn">#ternary</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=3D%20Printing%20Aspects%20of%20Fly%20Ash%20and%20GGBS%20Admixed%20Binary%20and%20Ternary%20Blended%20Cementitious%20Mortar" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=3d+printing+aspects+of+fly+ash+and+ggbs+admixed+binary+and+ternary+blended+cementitious+mortar&as_occt=title&as_sauthors=mishra&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008956085&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001514356200001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1080/19648189.2025.2521381" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

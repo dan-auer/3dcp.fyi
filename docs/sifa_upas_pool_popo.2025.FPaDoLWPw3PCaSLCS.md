@@ -18,14 +18,15 @@ tags:
 ---
 
 #Fire Performance and Design of LSF Wall Panels with 3D Printed Concrete and Steel Lipped Channel Sections ([2025-12](date/2025/12))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1108/jsfe-06-2025-0025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jsfe-06-2025-0025" target="_blank">10.1108/jsfe-06-2025-0025</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1108/jsfe-06-2025-0025" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/jsfe-06-2025-0025" target="_blank">10.1108/jsfe-06-2025-0025</a>
 
 <span class="author"><a href="https://orcid.org/0009-0008-7592-5098" title="ORCID: 0009-0008-7592-5098" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/sifan_mohamed"><b>Sifan</b>&nbsp;Mohamed</a></span>, <a href="../../../author/upasiri_irindu"><b>Upasiri</b>&nbsp;Irindu</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7768-9676" title="ORCID: 0000-0001-7768-9676" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b>&nbsp;Keerthan</a></span>, <a href="../../../author/popo-ola_sunday"><b>Popo-Ola</b>&nbsp;Sunday</a></span>, <a href="../../../author/suntharalingam_thadshajini"><b>Suntharalingam</b>&nbsp;Thadshajini</a></span>, <a href="../../../author/thirunavukkarasu_kajaharan"><b>Thirunavukkarasu</b>&nbsp;Kajaharan</a></span><br>
 Journal Article - Journal of Structural Fire Engineering, pp. 1-32
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/fire"><button class="btn">#fire</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/section"><button class="btn">#section</button></a> <a href="../../keyword/steel"><button class="btn">#steel</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Fire%20Performance%20and%20Design%20of%20LSF%20Wall%20Panels%20with%203D%20Printed%20Concrete%20and%20Steel%20Lipped%20Channel%20Sections" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=fire+performance+and+design+of+lsf+wall+panels+with+3d+printed+concrete+and+steel+lipped+channel+sections&as_occt=title&as_sauthors=sifan&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105025481135&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/jsfe-06-2025-0025" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

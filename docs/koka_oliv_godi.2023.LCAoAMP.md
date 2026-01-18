@@ -18,14 +18,15 @@ tags:
 
 #Life Cycle Assessment of Additive Manufacturing Processes&nbsp;([2023-05](date/2023/05))
 <div class="h1-like">A Review</div>
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.jmsy.2023.05.007) <a href="https://doi.org/10.1016/j.jmsy.2023.05.007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmsy.2023.05.007" target="_blank">10.1016/j.jmsy.2023.05.007</a>
+<a href="https://doi.org/10.1016/j.jmsy.2023.05.007" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.jmsy.2023.05.007" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.jmsy.2023.05.007" target="_blank">10.1016/j.jmsy.2023.05.007</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1168-9803" title="ORCID: 0000-0003-1168-9803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kokare_samruddha"><b>Kokare</b>&nbsp;Samruddha</a></span>, <a href="../../../author/oliveira_pedro_joao"><b>Oliveira</b>&nbsp;João</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1244-5624" title="ORCID: 0000-0003-1244-5624" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/godina_radu"><b>Godina</b>&nbsp;Radu</a></span><br>
 Journal Article - Journal of Manufacturing Systems, Vol. 68, pp. 536-559
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/cycle"><button class="btn">#cycle</button></a> <a href="../../keyword/life"><button class="btn">#life</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Life%20Cycle%20Assessment%20of%20Additive%20Manufacturing%20Processes" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=life+cycle+assessment+of+additive+manufacturing+processes&as_occt=title&as_sauthors=kokare&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85160537107&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.jmsy.2023.05.007" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

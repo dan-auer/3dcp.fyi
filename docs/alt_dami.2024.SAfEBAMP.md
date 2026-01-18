@@ -17,14 +17,15 @@ tags:
 ---
 
 #Suitability-Analysis for Extrusion-Based Additive Manufacturing Process ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://doi.org/10.1016/j.amf.2023.200106) <a href="https://doi.org/10.1016/j.amf.2023.200106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.amf.2023.200106" target="_blank">10.1016/j.amf.2023.200106</a>
+<a href="https://doi.org/10.1016/j.amf.2023.200106" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1016/j.amf.2023.200106" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.amf.2023.200106" target="_blank">10.1016/j.amf.2023.200106</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-8125-4146" title="ORCID: 0000-0002-8125-4146" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/altiparmak_cem_sadettin"><b>Altıparmak</b>&nbsp;Sadettin</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3773-1045" title="ORCID: 0000-0003-3773-1045" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/daminabo_idawarifa-clinton_samuel"><b>Daminabo</b>&nbsp;Samuel</a></span><br>
 Journal Article - Additive Manufacturing Frontiers, No. 200106
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/analysis"><button class="btn">#analysis</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/extrusion"><button class="btn">#extrusion</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Suitability-Analysis%20for%20Extrusion-Based%20Additive%20Manufacturing%20Process" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=suitability-analysis+for+extrusion-based+additive+manufacturing+process&as_occt=title&as_sauthors=alt%C4%B1parmak&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85196626662&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1016/j.amf.2023.200106" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

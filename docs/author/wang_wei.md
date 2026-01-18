@@ -9,6 +9,60 @@ search:
 
 #  Wang Wei 
 
+
+<div class="grid cards" markdown>
+!!! question "Information"
+    ORCID
+    : N/A
+
+    First Contribution
+    : 2024-02-14
+    
+    Last Contribution
+    : 2025-08-13
+
+    Number Contributions
+    : 9
+
+    Number Citations
+    : 67
+
+!!! success "Top Co-Authors"
+    <ol>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (5)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (5)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (4)</li>
+    </ol>
+    
+!!! tip "Top Cited Articles"
+    <ol>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhou_mengting"><b>Zhou</b> Mengting</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../jia_zhou_chen_wang.2024.EoSFSaCoPMaMPo3PHSCM/">Effect of Steel-Fiber Shape and Content on Printability, Microstructure and Mechanical Properties of 3D Printable High-Strength Cementitious Materials</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Cites the Most"
+    <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (48)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (30)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (25)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (19)</li>
+    </ol>
+    
+!!! success "Persons This Author Is Cited Most By"
+    <ol>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (11)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (11)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (9)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (9)</li>
+    </ol>
+
+</div>
+-------
+
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>

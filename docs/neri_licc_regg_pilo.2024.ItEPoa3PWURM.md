@@ -17,14 +17,15 @@ tags:
 ---
 
 #Improving the Energy Performance of a 3D Printed Wall Using Recycled Material ([2024-01](date/2024/01))
-[:aca-openaccess:{ .xgreen .lg .middle}](https://iopscience.iop.org/article/10.1088/1742-6596/2685/1/012034/pdf) <a href="https://doi.org/10.1088/1742-6596/2685/1/012034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2685/1/012034" target="_blank">10.1088/1742-6596/2685/1/012034</a>
+<a href="https://iopscience.iop.org/article/10.1088/1742-6596/2685/1/012034/pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.1088/1742-6596/2685/1/012034" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1088/1742-6596/2685/1/012034" target="_blank">10.1088/1742-6596/2685/1/012034</a>
 
 <a href="../../../author/neri_manuela"><b>Neri</b>&nbsp;Manuela</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5119-7390" title="ORCID: 0000-0001-5119-7390" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/licciardello_lucia"><b>Licciardello</b>&nbsp;Lucia</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2387-4240" title="ORCID: 0000-0002-2387-4240" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/reggia_adriano"><b>Reggia</b>&nbsp;Adriano</a></span>, <a href="../../../author/pilotelli_m"><b>Pilotelli</b>&nbsp;M.</a></span>, <a href="../../../author/lezzi_m_a"><b>Lezzi</b>&nbsp;A.</a></span><br>
 Journal Article - Journal of Physics: Conference Series, Vol. 2685, Iss. 1, No. 012034
 
 <a href="../../keyword/energy"><button class="btn">#energy</button></a> <a href="../../keyword/improvement"><button class="btn">#improvement</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/recycling"><button class="btn">#recycling</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Improving%20the%20Energy%20Performance%20of%20a%203D%20Printed%20Wall%20Using%20Recycled%20Material" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=improving+the+energy+performance+of+a+3d+printed+wall+using+recycled+material&as_occt=title&as_sauthors=neri&as_ylo=2022&as_yhi=2026&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85184382587&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001441224500034" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1088/1742-6596/2685/1/012034" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

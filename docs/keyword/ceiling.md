@@ -8,6 +8,10 @@ search:
 
 # #ceiling
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/fabrication"><button class="btn">#fabrication (2)</button></a> <a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/structure"><button class="btn">#structure (2)</button></a> <a href="../../keyword/performance"><button class="btn">#performance (1)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../enge_hegg_cla.2025.MAFwC/">Multimodal Automated Fabrication with Concrete:<br/>Case-Study and Structural Performance of Ribbed CFRP-Reinforced Concrete Ceiling</a></li>
   <li><a href="../../../author/aziz_saqib"><b>Aziz</b> Saqib</a>, <a href="../../../author/alexander_bradley"><b>Alexander</b> Bradley</a>, <a href="../../../author/gengnagel_christoph"><b>Gengnagel</b> Christoph</a>, <a href="../../../author/loutfi_jamila"><b>Loutfi</b> Jamila</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../aziz_alex_geng_lout.2024.MMRCS/">Minimal Mineral ‑ Rethinking Ceiling Systems:<br/>Shaping the Future of Sustainable Construction</a></li>

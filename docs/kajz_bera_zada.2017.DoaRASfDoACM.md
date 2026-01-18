@@ -18,14 +18,15 @@ tags:
 ---
 
 #Development of a Robotic Arm Suitable for Demonstration of Advanced Control Methods ([2017-10](date/2017/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1109/icstcc.2017.8107037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icstcc.2017.8107037" target="_blank">10.1109/icstcc.2017.8107037</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1109/icstcc.2017.8107037" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1109/icstcc.2017.8107037" target="_blank">10.1109/icstcc.2017.8107037</a>
 
 <span class="author"><a href="https://orcid.org/0000-0002-7620-4494" title="ORCID: 0000-0002-7620-4494" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kajzr_daniel"><b>Kajzr</b>&nbsp;Daniel</a></span>, <a href="../../../author/beran_leos"><b>Beran</b>&nbsp;Leoš</a></span>, <a href="../../../author/zada_vaclav"><b>Záda</b>&nbsp;Václav</a></span><br>
 Contribution - Proceedings of the 21st International Conference on System Theory, Control and Computing, pp. 217-223
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/arm"><button class="btn">#arm</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/demonstration"><button class="btn">#demonstration</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/suitability"><button class="btn">#suitability</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Development%20of%20a%20Robotic%20Arm%20Suitable%20for%20Demonstration%20of%20Advanced%20Control%20Methods" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=development+of+a+robotic+arm+suitable+for+demonstration+of+advanced+control+methods&as_occt=title&as_sauthors=kajzr&as_ylo=2015&as_yhi=2019&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85040621690&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1109/icstcc.2017.8107037" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

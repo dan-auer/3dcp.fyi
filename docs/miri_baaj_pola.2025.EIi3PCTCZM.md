@@ -17,14 +17,15 @@ tags:
 ---
 
 #Exploring Interfaces in 3D-Printed Concrete Through Cohesive Zone Modelling ([2025-10](date/2025/10))
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1007/978-3-031-95288-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-95288-3_18" target="_blank">10.1007/978-3-031-95288-3_18</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1007/978-3-031-95288-3_18" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-95288-3_18" target="_blank">10.1007/978-3-031-95288-3_18</a>
 
 <span class="author"><a href="https://orcid.org/0009-0006-5503-9502" title="ORCID: 0009-0006-5503-9502" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/miri_sadat_zahra"><b>Miri</b>&nbsp;Zahra</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-0033-0803" title="ORCID: 0000-0003-0033-0803" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/baaj_hassan"><b>Baaj</b>&nbsp;Hassan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1653-3915" title="ORCID: 0000-0002-1653-3915" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/polak_anna_maria"><b>Polak</b>&nbsp;Maria</a></span><br>
 Contribution - Proceedings of the Canadian Society for Civil Engineering Annual Conference 2024, pp. 199-212
 
 <a href="../../keyword/cohesion"><button class="btn">#cohesion</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/exploration"><button class="btn">#exploration</button></a> <a href="../../keyword/interface"><button class="btn">#interface</button></a> <a href="../../keyword/model"><button class="btn">#model</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/zone"><button class="btn">#zone</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Exploring%20Interfaces%20in%203D-Printed%20Concrete%20Through%20Cohesive%20Zone%20Modelling" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=exploring+interfaces+in+3d-printed+concrete+through+cohesive+zone+modelling&as_occt=title&as_sauthors=miri&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105019178328&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1007/978-3-031-95288-3_18" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

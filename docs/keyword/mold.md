@@ -8,6 +8,10 @@ search:
 
 # #mold
 
+### Keywords by Co - Occurrence
+
+<a href="../../keyword/print"><button class="btn">#print (4)</button></a> <a href="../../keyword/additive"><button class="btn">#additive (3)</button></a> <a href="../../keyword/cast"><button class="btn">#cast (3)</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete (3)</button></a> <a href="../../keyword/component"><button class="btn">#component (2)</button></a> 
+
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/vanderlei_d_romel"><b>Vanderlei</b> Romel</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../wagn_silv_vand_das.2024.CAoMCa3PCBC/">Comparative Analysis of Mold-Cast and 3D Printed Cement-Based Components:<br/>Implications for Standardization in Additive Construction</a></li>
   <li><a href="../../../author/armstrong_o_kristina"><b>Armstrong</b> Kristina</a>, <a href="../../../author/kamath_dipti"><b>Kamath</b> Dipti</a>, <a href="../../../author/zhao_xianhui"><b>Zhao</b> Xianhui</a>, <a href="../../../author/rencheck_l_mitchell"><b>Rencheck</b> Mitchell</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arms_kama_zhao_renc.2023.LCCEaCEoMfPCC/">Life Cycle Cost, Energy, and Carbon Emissions of Molds for Pre-Cast Concrete:<br/>Exploring the Impacts of Material-Choices and Additive Manufacturing</a></li>

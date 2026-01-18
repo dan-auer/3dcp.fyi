@@ -16,14 +16,15 @@ tags:
 ---
 
 #Locally Differentiated Concrete by Digitally Controlled Injection ([2018-05](date/2018/05))
-[:aca-openaccess:{ .xgreen .lg .middle}](http://papers.cumincad.org/data/works/att/caadria2018_156.pdf) <a href="https://doi.org/10.52842/conf.caadria.2018.1.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2018.1.195" target="_blank">10.52842/conf.caadria.2018.1.195</a>
+<a href="http://papers.cumincad.org/data/works/att/caadria2018_156.pdf" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2018.1.195" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2018.1.195" target="_blank">10.52842/conf.caadria.2018.1.195</a>
 
 <a href="../../../author/chee_wei-shen_ryan"><b>Chee</b>&nbsp;Ryan</a></span>, <a href="../../../author/tan_lin_wei"><b>Tan</b>&nbsp;Wei</a></span>, <a href="../../../author/goh_hern_wei"><b>Goh</b>&nbsp;Wei</a></span>, <a href="../../../author/amtsberg_felix"><b>Amtsberg</b>&nbsp;Felix</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9609-2784" title="ORCID: 0000-0002-9609-2784" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dritsas_stylianos"><b>Dritsas</b>&nbsp;Stylianos</a></span><br>
 Contribution - Proceedings of the 23rd Conference on Computer Aided Architectural Design Research in Asia, pp. 195-204
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/difference"><button class="btn">#difference</button></a> <a href="../../keyword/digital"><button class="btn">#digital</button></a> <a href="../../keyword/injection"><button class="btn">#injection</button></a> <a href="../../keyword/local"><button class="btn">#local</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Locally%20Differentiated%20Concrete%20by%20Digitally%20Controlled%20Injection" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=locally+differentiated+concrete+by+digitally+controlled+injection&as_occt=title&as_sauthors=chee&as_ylo=2016&as_yhi=2020&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2018.1.195" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

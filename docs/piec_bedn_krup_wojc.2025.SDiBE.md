@@ -17,14 +17,15 @@ tags:
 
 #Sustainable Development in Building Engineering&nbsp;([2025-09](date/2025/09))
 <div class="h1-like">Hempcrete in 3D Printing Technology</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.15199/33.2025.09.17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.15199/33.2025.09.17" target="_blank">10.15199/33.2025.09.17</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.15199/33.2025.09.17" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.15199/33.2025.09.17" target="_blank">10.15199/33.2025.09.17</a>
 
 <span class="author"><a href="https://orcid.org/0000-0003-1172-9238" title="ORCID: 0000-0003-1172-9238" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/piechowka-mielnik_magdalena"><b>Piechówka-Mielnik</b>&nbsp;Magdalena</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1245-6027" title="ORCID: 0000-0002-1245-6027" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bednarz_lukasz"><b>Bednarz</b>&nbsp;Łukasz</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-2199-0598" title="ORCID: 0000-0002-2199-0598" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/krupa_michal"><b>Krupa</b>&nbsp;Michał</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7041-5373" title="ORCID: 0000-0001-7041-5373" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/wojciechowska_gabriela"><b>Wojciechowska</b>&nbsp;Gabriela</a></span>, <span class="author"><a href="https://orcid.org/0009-0007-7163-0375" title="ORCID: 0009-0007-7163-0375" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/dolinska_noella"><b>Dolińska</b>&nbsp;Noëlla</a></span><br>
 Journal Article - Construction Materials, Vol. 1, Iss. 9, pp. 133-139
 
 <a href="../../keyword/buildability"><button class="btn">#buildability</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/engineered"><button class="btn">#engineered</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Sustainable%20Development%20in%20Building%20Engineering" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=sustainable+development+in+building+engineering&as_occt=title&as_sauthors=piech%C3%B3wka-mielnik&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.15199/33.2025.09.17" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>

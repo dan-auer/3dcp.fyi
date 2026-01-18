@@ -21,14 +21,15 @@ tags:
 
 #Operational and Occupational Safety When Using Automated Manufacturing Processes on Construction Sites&nbsp;([2023-09](date/2023/09))
 <div class="h1-like">Consideration of Current Legal and Technical Framework Conditions</div>
-:aca-closedaccess:{ .xred .lg .middle} <a href="https://doi.org/10.1002/bate.202300021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.202300021" target="_blank">10.1002/bate.202300021</a>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.1002/bate.202300021" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1002/bate.202300021" target="_blank">10.1002/bate.202300021</a>
 
 <span class="author"><a href="https://orcid.org/0000-0001-7157-2143" title="ORCID: 0000-0001-7157-2143" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/otto_jens"><b>Otto</b>&nbsp;Jens</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2701-8086" title="ORCID: 0000-0003-2701-8086" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mischke_janik"><b>Mischke</b>&nbsp;Janik</a></span><br>
 Journal Article - Bautechnik, Vol. 100, Iss. 12, pp. 727-741
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/condition"><button class="btn">#condition</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/operation"><button class="btn">#operation</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/safety"><button class="btn">#safety</button></a> <a href="../../keyword/site"><button class="btn">#site</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
 
-<a href="https://scholar.google.com/scholar_lookup?title=Operational%20and%20Occupational%20Safety%20When%20Using%20Automated%20Manufacturing%20Processes%20on%20Construction%20Sites" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=operational+and+occupational+safety+when+using+automated+manufacturing+processes+on+construction+sites&as_occt=title&as_sauthors=otto&as_ylo=2021&as_yhi=2025&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-85169412421&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001056602800001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1002/bate.202300021" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
