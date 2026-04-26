@@ -19,17 +19,17 @@ search:
     : 2020-07-08
     
     Last Contribution
-    : 2024-09-11
+    : 2026-03-15
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 24
+    : 26
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (9)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
         <li><a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a> (2)</li>
         <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> (2)</li>
         <li><a href="../../../author/haist_michael"><b>Haist</b> Michael</a> (1)</li>
@@ -43,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (39)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (26)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (17)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (14)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (54)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (34)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (19)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,9 +64,10 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../rei_mech.2026.AaMtBoCBMitCoDF/">Assessing and Modeling the Buildability of Cement-Based Materials in the Context of Digital Fabrication</a></li>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.RBoSFRCitCoAM/">Rheological Behavior of Steel-Fiber-Reinforced Concrete in the Context of Additive Manufacturing</a></li>
   <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ivan_rei_mech.2024.APTfF3PCM/">Automating Penetration Tests for Fresh 3D Printed Cementitious Materials</a></li>
-  <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_chrisitan"><b>Baumert</b> Chrisitan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
+  <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_christian"><b>Baumert</b> Christian</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.CotRBoaRSSCitCo3P/">Characterisation of the Rheological Behavior of a Resource-Saving Sustainable Concrete in the Context of 3D Printing</a></li>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/bedolla_carolin"><b>Bedolla</b> Carolin</a>, <a href="../../../author/meyer_tamara"><b>Meyer</b> Tamara</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../rei_bedo_meye_mech.2023.RBoFRLFGCitCoAM/">Rheological Behavior of Fiber-Reinforced LC3 Fine-Grained Concrete in the Context of Additive Manufacturing</a></li>
   <li><a href="../../../author/kruppa_henning"><b>Kruppa</b> Henning</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../krup_kalt_neef_rei.2023.AABRfEa3PoCRC/">Alkali-Activated Binder-Requirements for Extrusion and 3D Printing of Carbon-Reinforced Concrete</a></li>

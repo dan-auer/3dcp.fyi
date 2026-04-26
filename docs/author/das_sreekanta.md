@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 20
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_wagn_khan_das.2024.SPoLS3PWStACL/">Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load</a> (9)</li>
+        <li><a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_wagn_khan_das.2024.SPoLS3PWStACL/">Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> (2)</li>
-        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (2)</li>
-        <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a> (2)</li>
-        <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (2)</li>
-        <li><a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> (2)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (2)</li>
+        <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> (2)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (2)</li>
+        <li><a href="../../../author/spencer_lee_lawson"><b>Spencer</b> Lawson</a> (2)</li>
+        <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> (2)</li>
     </ol>
 
 </div>

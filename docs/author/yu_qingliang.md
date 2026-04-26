@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 61
+    : 76
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../gao_chen_chen_yu.2023.TaMPo3PFGC/">Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>The Role of SAC on the Rheology and Phase Evolution of 3DPC</a> (20)</li>
+        <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../gao_chen_chen_yu.2023.TaMPo3PFGC/">Thermal and Mechanical Performance of 3D Printing Functionally Graded Concrete:<br/>The Role of SAC on the Rheology and Phase Evolution of 3DPC</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (4)</li>
-        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (4)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (5)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (5)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (4)</li>
         <li><a href="../../../author/liu_yue"><b>Liu</b> Yue</a> (3)</li>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (3)</li>
         <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (2)</li>
     </ol>
 

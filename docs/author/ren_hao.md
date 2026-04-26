@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a> (0)</li>
+        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a> (3)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (3)</li>
+        <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> (3)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (2)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a> (0)</li>
+        <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/kumar_vijay"><b>Kumar</b> Vijay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/borsaikia_c_arun"><b>Borsaikia</b> Arun</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maur_kuma_pand_bors.2025.IPCRi3CPwaSN/">Inline Polymer Cable Reinforcement in 3D Concrete Printing with a Special Nozzle</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> (1)</li>
+        <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a> (1)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (1)</li>
     </ol>
 
 </div>

@@ -66,8 +66,9 @@ Journal Article - Vietnam Journal of Science, Technology and Engineering, Vol. 6
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/aghajani-delavar_mohammad"><b>Aghajani Delavar</b> Mohammad</a>, <a href="../../../author/sharma_s"><b>Sharma</b> S.</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../agha_shar_chen_side.2026.EIoFSSC3PCWStIPCL/">Experimental Investigation on Full-Scale Shear-Critical 3D Printed Concrete Walls Subjected to In-Plane Cyclic Loading</a></li>
     </ol>
 </div>
 

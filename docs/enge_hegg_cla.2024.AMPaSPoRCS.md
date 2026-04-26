@@ -50,8 +50,9 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a></li>
       <li><a href="../../../author/meurer_maximilian"><b>Meurer</b> Maximilian</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../meur_cla.2021.MPoH3PCaM/">Mechanical Properties of Hardened 3D Printed Concretes and Mortars:<br/>Development of a Consistent Experimental Characterization-Strategy</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/bielak_jan"><b>Bielak</b> Jan</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../enge_biel_cla.2026.MECRCFS/">Material Efficient CFRP-Reinforced Concrete Floor Slabs</a></li>
       <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a>, <a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a>, <a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a>, <a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cruz_bosb_kalt_beck.2024.MMRaHSMoECRCW/">Material-Minimized Rib and Honeycomb Slabs Made of Extruded Carbon-Reinforced Concrete Webs</a></li>
     </ol>
 </div>

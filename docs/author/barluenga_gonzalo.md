@@ -19,17 +19,17 @@ search:
     : 2020-07-08
     
     Last Contribution
-    : 2026-01-02
+    : 2026-03-07
 
     Number Contributions
-    : 12
+    : 13
 
     Number Citations
-    : 47
+    : 55
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (9)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (10)</li>
         <li><a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a> (5)</li>
         <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> (4)</li>
         <li><a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> (4)</li>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a> (26)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (40)</li>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (36)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (27)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
-        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (22)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (47)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (42)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (31)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/gomez_enrique"><b>Gomez</b> Enrique</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../gome_vare_barl.2026.EoCPTaaRQCFOTf3PCBS/">Evaluation of Cone-Penetration Test as a Rheology Quality-Control Field-Oriented Test for 3D Printing Cement-Based Systems</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tino_marq_rama_barl.2026.EoCMoRPaPo3PCBC/">Effect of Cellulose Microfibers on Rheological Properties and Printability of 3D Printable Cement-Based Composites</a></li>
   <li><a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../marq_vare_barl.2025.IoRMAotBo3PCBM/">Influence of Rheology Modifying Admixtures on the Buildability of 3D Printing Cement-Based Mortars</a></li>
   <li><a href="../../../author/tinoco_pimentel_matheus"><b>Tinoco</b> Matheus</a>, <a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tino_marq_rama_barl.2025.FaHPoCFRMf3PiC/">Fresh and Hardened Properties of Cellulose Fiber-Reinforced Mortars for 3D Printing in Construction</a></li>

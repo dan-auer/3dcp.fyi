@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kazadi_kanyiki_billy"><b>Kazadi</b> Billy</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../kaza_yao_wang.2023.IPRMf3CP/">In-Process Reinforcement Method for 3D Concrete Printing:<br/>Status, Potentials and Challenges</a> (1)</li>
+        <li><a href="../../../author/kazadi_kanyiki_billy"><b>Kazadi</b> Billy</a>, <a href="../../../author/yao_liang"><b>Yao</b> Liang</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../kaza_yao_wang.2023.IPRMf3CP/">In-Process Reinforcement Method for 3D Concrete Printing:<br/>Status, Potentials and Challenges</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> (1)</li>
         <li><a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> (1)</li>
+        <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a> (1)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (1)</li>
         <li><a href="../../../author/shenawa_amaal"><b>Al Shenawa</b> Amaal</a> (1)</li>
     </ol>
 

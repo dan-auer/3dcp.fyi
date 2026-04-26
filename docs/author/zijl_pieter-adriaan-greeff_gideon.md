@@ -19,13 +19,13 @@ search:
     : 2018-05-14
     
     Last Contribution
-    : 2025-06-23
+    : 2026-03-14
 
     Number Contributions
-    : 66
+    : 67
 
     Number Citations
-    : 2855
+    : 2995
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,24 +38,24 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a> (281)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/gibson_ian"><b>Gibson</b> Ian</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../paul_zijl_tan_gibs.2018.ARo3CPSaMP/">A Review of 3D Concrete Printing Systems and Materials Properties:<br/>Current Status and Future Research Prospects</a> (291)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (168)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (160)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (138)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (122)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (120)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (170)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (162)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (139)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (124)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (123)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (100)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (89)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (104)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (93)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (74)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (69)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (73)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (64)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../timm_vill_zijl.2026.3CPitWH/">3D Concrete Printing in the Waste Hierachy:<br/>Reduce, Reuse and Recycle</a></li>
   <li><a href="../../../author/haar_bjorn"><b>Haar</b> Bjorn</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../haar_krug_zijl.2025.3PCPBCCD/">3D Printed Concrete Pinned Beam-Column Connection Development</a></li>
   <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a></li>
   <li><a href="../../../author/munemo_rue"><b>Munemo</b> Rue</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mune_krug_zijl.2025.STo3IwSBSfEIB/">Surface Treatment of 3DPC Interlayers with Silicate-Based Solution for Enhanced Interfacial Bonding</a></li>

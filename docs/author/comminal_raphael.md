@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 306
+    : 322
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a> (123)</li>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a>, <a href="../../../author/stang_henrik"><b>Stang</b> Henrik</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../comm_silv_ande_stan.2020.Mo3CPBoCFD/">Modelling of 3D Concrete Printing Based on Computational Fluid Dynamics</a> (133)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (25)</li>
-        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (22)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (28)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (25)</li>
         <li><a href="../../../author/abbaoui_khalid"><b>El Abbaoui</b> Khalid</a> (16)</li>
         <li><a href="../../../author/korachi_issam"><b>Al Korachi</b> Issam</a> (16)</li>
-        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (13)</li>
+        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (16)</li>
     </ol>
 
 </div>

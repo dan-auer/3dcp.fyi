@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 14
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a> (12)</li>
+        <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC/">The Influence of Pore Structure and Fiber Orientation on Anisotropic Mechanical Property of 3D Printed Ultra-High-Performance Concrete</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a> (3)</li>
         <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (3)</li>
         <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (3)</li>
-        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (2)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
     </ol>
 
 </div>

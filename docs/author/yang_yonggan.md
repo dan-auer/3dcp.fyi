@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 626
+    : 649
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (320)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (334)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (20)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (19)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (16)</li>
-        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> (14)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (15)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 43
 
     Number Citations
-    : 2950
+    : 3093
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (512)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (535)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (132)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (143)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (88)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (83)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (82)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (75)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (66)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (78)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (72)</li>
     </ol>
 
 </div>

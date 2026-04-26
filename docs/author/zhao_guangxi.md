@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xion_nie_liu_li.2024.EaOoMCCM3PRCC/">Evaluation and Optimization of Micro-Calcium-Carbonate-Modified 3D Printed Rubber-Crumb Concrete</a> (4)</li>
+        <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../xion_nie_liu_li.2024.EaOoMCCM3PRCC/">Evaluation and Optimization of Micro-Calcium-Carbonate-Modified 3D Printed Rubber-Crumb Concrete</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_xuemei"><b>Chen</b> Xuemei</a> (1)</li>
-        <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a> (1)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
         <li><a href="../../../author/liu_gengyuan"><b>Liu</b> Gengyuan</a> (1)</li>
         <li><a href="../../../author/luo_xu"><b>Luo</b> Xu</a> (1)</li>
-        <li><a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a> (1)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (1)</li>
     </ol>
 
 </div>

@@ -19,44 +19,44 @@ search:
     : 2022-01-07
     
     Last Contribution
-    : 2025-10-13
+    : 2026-01-23
 
     Number Contributions
-    : 23
+    : 24
 
     Number Citations
-    : 440
+    : 515
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (23)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (18)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (24)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (19)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (11)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (10)</li>
         <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (10)</li>
-        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (10)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (9)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (78)</li>
+        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (85)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (100)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (98)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (104)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (101)</li>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (52)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (51)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (52)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (32)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (42)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (19)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (18)</li>
         <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (16)</li>
-        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> (15)</li>
         <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (15)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (15)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kang_yuyang"><b>Kang</b> Yuyang</a>, <a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kang_yu_zhan_jia.2026.TCEoVMAaPPotAVSFo3PAEC/">The Coupling Effect of Viscosity Modifying Agents and Printing Process on the Air-Void Structure Formation of 3D Printed Air-Entrained Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xia_chen_chen_jia.2025.PTf3PCaACM/">Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials</a></li>

@@ -54,8 +54,9 @@ Contribution - Proceedings of the 11th International Conference on Fracture Mech
       <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a></li>
       <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a>, <a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a>, <a href="../../../author/dvorak_karel"><b>Dvořák</b> Karel</a>, <a href="../../../author/cerny_felix"><b>Černý</b> Felix</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../topo_pazd_dvor_cern.2026.AEAoTFiL3PFRFGC/">Acoustic Emission Analysis of Tensile Failure in Layered 3D-Printed Fibre-Reinforced Fine-Grained Concrete</a></li>
     </ol>
 </div>
 

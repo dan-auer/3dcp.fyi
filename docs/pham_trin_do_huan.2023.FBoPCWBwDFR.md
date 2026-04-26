@@ -69,8 +69,9 @@ Journal Article - Research on Engineering Structures and Materials
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a>, <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../amja_irsh_maur_rizm.2026.S3MP/">Sustainable 3D Mortar Printing:<br/>Material Optimization and Ultrasonic Characterization for Enhanced Construction Performance</a></li>
     </ol>
 </div>
 

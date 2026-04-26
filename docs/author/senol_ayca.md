@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/bedarf_patrick"><b>Bedarf</b> Patrick</a> (3)</li>
         <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (3)</li>
         <li><a href="../../../author/zanini_michele"><b>Zanini</b> Michele</a> (3)</li>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (2)</li>
-        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (2)</li>
+        <li><a href="../../../author/szabo_anna"><b>Szabó</b> Anna</a> (2)</li>
+        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (1)</li>
     </ol>
 
 </div>

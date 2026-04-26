@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 319
+    : 336
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a> (312)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/will_frank"><b>Will</b> Frank</a>, <a href="../../../author/nather_mathias"><b>Näther</b> Mathias</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../mech_nere_will_nath.2019.LSDCC/">Large-Scale Digital Concrete Construction:<br/>CONPrint3D Concept for On-Site, Monolithic 3D Printing</a> (329)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (45)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (46)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (14)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (14)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (11)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
     </ol>

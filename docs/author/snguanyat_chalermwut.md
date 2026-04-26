@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 76
+    : 91
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a> (34)</li>
+        <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a>, <a href="../../../author/pongpaisanseree_kittisak"><b>Pongpaisanseree</b> Kittisak</a>, <a href="../../../author/jiramarootapong_patiphat"><b>Jiramarootapong</b> Patiphat</a>, <a href="../../../author/snguanyat_chalermwut"><b>Snguanyat</b> Chalermwut</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../pras_pong_jira_sngu.2020.TaSIoLS3EPWP/">Thermal- and Sound-Insulation of Large-Scale 3D Extrusion-Printing Wall-Panel</a> (35)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> (8)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
-        <li><a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a> (4)</li>
-        <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a> (4)</li>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (4)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (7)</li>
+        <li><a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> (5)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
     </ol>
 
 </div>

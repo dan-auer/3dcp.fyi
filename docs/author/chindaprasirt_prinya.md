@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 26
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a>, <a href="../../../author/panklum_kasidet"><b>Panklum</b> Kasidet</a>, <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA/">Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application</a> (14)</li>
+        <li><a href="../../../author/sukontasukkul_piti"><b>Sukontasukkul</b> Piti</a>, <a href="../../../author/panklum_kasidet"><b>Panklum</b> Kasidet</a>, <a href="../../../author/maho_buchit"><b>Maho</b> Buchit</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA/">Effect of Synthetic Micro-Fiber and Viscosity-Modifying-Agent on Layer Deformation, Viscosity, and Open-Time of Cement Mortar for 3D Printing Application</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> (2)</li>
+        <li><a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a> (1)</li>
-        <li><a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> (1)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
         <li><a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> (1)</li>
-        <li><a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a> (1)</li>
     </ol>
 
 </div>

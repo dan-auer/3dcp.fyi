@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 114
+    : 119
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/snoeck_didier"><b>Snoeck</b> Didier</a>, <a href="../../../author/coensel_r"><b>Coensel</b> R.</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../putt_snoe_coen_schu.2021.EASPo3PCMwSP/">Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers</a> (63)</li>
+        <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/snoeck_didier"><b>Snoeck</b> Didier</a>, <a href="../../../author/coensel_r"><b>Coensel</b> R.</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../putt_snoe_coen_schu.2021.EASPo3PCMwSP/">Early-Age Shrinkage Phenomena of 3D Printed Cementitious Materials with Superabsorbent Polymers</a> (65)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (15)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (8)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
     </ol>
 
 </div>

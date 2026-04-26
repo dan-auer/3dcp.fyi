@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 78
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a> (23)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (11)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (9)</li>
-        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (8)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (11)</li>
+        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (10)</li>
         <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (7)</li>
     </ol>
 

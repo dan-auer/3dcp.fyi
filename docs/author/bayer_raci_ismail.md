@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 20
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a> (20)</li>
+        <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/jassim_muhammad"><b>Jassim</b> Muhammad</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../khan_jass_ilca_sahi.2023.3PoCM/">3D Printing of Circular Materials:<br/>Comparative Environmental Analysis of Materials and Construction Techniques</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (7)</li>
         <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (6)</li>
-        <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a> (2)</li>
+        <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (3)</li>
         <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (2)</li>
         <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (2)</li>
     </ol>

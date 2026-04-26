@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 79
+    : 82
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a> (79)</li>
+        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/zhou_jiawei"><b>Zhou</b> Jiawei</a>, <a href="../../../author/wang_qun"><b>Wang</b> Qun</a>, <a href="../../../author/shi_jiangpeng"><b>Shi</b> Jiangpeng</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sun_zhou_wang_shi.2022.PFRHSCCf3P/">PVA-Fiber-Reinforced High-Strength Cementitious Composite for 3D Printing:<br/>Mechanical Properties and Durability</a> (82)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (4)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
         <li><a href="../../../author/brand_s_alexander"><b>Brand</b> Alexander</a> (3)</li>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (3)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (3)</li>
     </ol>

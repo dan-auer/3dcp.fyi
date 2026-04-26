@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wu_wang_li.2024.RoTiILMaPoAMCM/">Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials</a> (2)</li>
+        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/wang_xinbo"><b>Wang</b> Xinbo</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../wu_wang_li.2024.RoTiILMaPoAMCM/">Role of Thixotropy in Inter-Layer Microstructure and Properties of Additively Manufactured Cementitious Materials</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/li_xinze"><b>Li</b> Xinze</a> (1)</li>
+        <li><a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> (2)</li>
+        <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (2)</li>
+        <li><a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> (2)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (1)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (1)</li>
-        <li><a href="../../../author/xue_hao"><b>Xue</b> Hao</a> (1)</li>
-        <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (1)</li>
-        <li><a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> (1)</li>
     </ol>
 
 </div>

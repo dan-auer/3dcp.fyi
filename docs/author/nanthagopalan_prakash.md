@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a>, <a href="../../../author/mala_jeet_hiranya"><b>Mala</b> Hiranya</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../guru_mala_nant.2024.EoWtBAtBRaAoPaMPo3PMM/">Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures</a> (1)</li>
+        <li><a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a>, <a href="../../../author/mala_jeet_hiranya"><b>Mala</b> Hiranya</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../guru_mala_nant.2024.EoWtBAtBRaAoPaMPo3PMM/">Effect of Water-to-Binder, Aggregate-to-Binder-Ratio and Admixtures on Printability and Mechanical Properties of 3D Printable Mortar Mixtures</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> (1)</li>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
+        <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a> (1)</li>
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (1)</li>
         <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> (1)</li>
         <li><a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a> (1)</li>

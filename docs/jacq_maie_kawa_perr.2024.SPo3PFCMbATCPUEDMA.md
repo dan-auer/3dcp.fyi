@@ -51,8 +51,9 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
     <ol class = "bordered-list">
       <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../jacq_perr_pica.2021.AoARBoCMf3PA/">Assessment of Asymmetrical Rheological Behavior of Cementitious Material for 3D Printing Application</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../robe_schm_unge_mezh.2026.CoTIotSBUo3PC/">Characterization of Temperature Influence on the Structural Build-Up of 3D Printed Concrete</a></li>
     </ol>
 </div>
 

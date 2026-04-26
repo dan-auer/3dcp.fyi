@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 77
+    : 83
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a> (54)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/gunasekara_chamila"><b>Gunasekara</b> Chamila</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_li_guna_fox.2022.3PCwRG/">3D Printed Concrete with Recycled Glass:<br/>Effect of Glass Gradation on Flexural Strength and Microstructure</a> (57)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (16)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (10)</li>
         <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a> (8)</li>
-        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (5)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (6)</li>
         <li><a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> (5)</li>
     </ol>
 

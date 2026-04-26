@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 24
+    : 38
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a> (12)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liang_zhan"><b>Liang</b> Zhan</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_lian_liu_wu.2025.SPo3PRCW/">Seismic Performance of 3D Printed Reinforced Concrete Walls:<br/>Experimental Study and Numerical Simulation</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (3)</li>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (9)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (8)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (4)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (4)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (4)</li>
     </ol>
 
 </div>

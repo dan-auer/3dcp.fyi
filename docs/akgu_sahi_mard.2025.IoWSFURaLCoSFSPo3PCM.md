@@ -88,8 +88,9 @@ Journal Article - Buildings, Vol. 15, Iss. 20, No. 3731
       <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a></li>
       <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/yahaya_mat_fadzil"><b>Yahaya</b> Fadzil</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../hasa_alia_hasa_yaha.2026.D3PCwTBMIFAaSF/">Designing 3D-Printed Concrete with Ternary Blended Mortars Incorporating Fly Ash and Silica Fume:<br/>Effects of Low Water-Binder Ratios on Workability and Strength</a></li>
     </ol>
 </div>
 

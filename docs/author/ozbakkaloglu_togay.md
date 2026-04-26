@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 241
+    : 272
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a> (121)</li>
+        <li><a href="../../../author/nodehi_mehrab"><b>Nodehi</b> Mehrab</a>, <a href="../../../author/aguayo_federico"><b>Aguayo</b> Federico</a>, <a href="../../../author/nodehi_edin_shahab"><b>Nodehi</b> Shahab</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../node_agua_node_ghol.2022.DPo3PC/">Durability Properties of 3D Printed Concrete</a> (137)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (10)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (6)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (6)</li>
         <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (5)</li>
-        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (5)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (5)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (5)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a> (5)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/guan_yongying"><b>Guan</b> Yongying</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC/">Influence of Extruded Strip-Shape and Dimension on the Mechanical Properties and Pore-Characteristics of 3D Printed Geopolymer Concrete</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (2)</li>
         <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
         <li><a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> (1)</li>
-        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
         <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a> (1)</li>
         <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> (1)</li>
     </ol>

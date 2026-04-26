@@ -81,8 +81,9 @@ Journal Article - Cement and Concrete Composites, No. 106188
       <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>, <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST/">Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test</a></li>
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../du_sun_deng_qian.2026.BPoBI3PPLSCAS/">Bending Performance of Bio-Inspired 3D Printed Porous Lattice SHCC Circular Arch Structures</a></li>
       <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ngo_li_huyn_zhan.2025.3PHC/">3D Printable Hemp Concrete:<br/>Rheological, Mechanical, and Microstructural Properties</a></li>
     </ol>
 </div>

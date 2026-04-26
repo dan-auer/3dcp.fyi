@@ -19,19 +19,20 @@ search:
     : 2024-05-23
     
     Last Contribution
-    : 2024-05-23
+    : 2024-11-06
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> (1)</li>
-        <li><a href="../../../author/evans_pete"><b>Evans</b> Pete</a> (1)</li>
-        <li><a href="../../../author/ghaderi_ehsan"><b>Ghaderi</b> Ehsan</a> (1)</li>
+        <li><a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> (2)</li>
+        <li><a href="../../../author/craine_jamie"><b>Craine</b> Jamie</a> (1)</li>
+        <li><a href="../../../author/gasper_jacob"><b>Gasper</b> Jacob</a> (1)</li>
+        <li><a href="../../../author/soward_hugh"><b>Soward</b> Hugh</a> (1)</li>
         <li><a href="../../../author/wu_chengde"><b>Wu</b> Chengde</a> (1)</li>
     </ol>
     
@@ -59,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/senske_nick"><b>Senske</b> Nick</a>, <a href="../../../author/gasper_jacob"><b>Gasper</b> Jacob</a>, <a href="../../../author/craine_jamie"><b>Craine</b> Jamie</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../doyl_sens_gasp_crai.2024.LLaL/">Luminosity, Labor, and Liability:<br/>Innovating Rural Spaces with Additive Manufacturing and Augmented Reality</a></li>
   <li><a href="../../../author/ghaderi_ehsan"><b>Ghaderi</b> Ehsan</a>, <a href="../../../author/evans_pete"><b>Evans</b> Pete</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/senske_nick"><b>Senske</b> Nick</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../ghad_evan_doyl_sens.2024.HBo3CPWA/">Hygrothermal Behavior of 3D Concrete Printed Wall Assemblies</a></li>
 </ol>

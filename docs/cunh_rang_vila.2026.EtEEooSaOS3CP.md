@@ -57,8 +57,9 @@ Contribution - Construction, Energy, Environment and Sustainability, pp. 407-418
       <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../raza_besk_zhon.2024.EAoOaO3CPTfLSB/">Economic Analysis of Offsite and Onsite 3D Construction Printing Techniques for Low-Story Buildings:<br/>A Comparative Value-Stream-Assessment</a></li>
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../teix_scha_rang_maia.2022.ARMtFi3PaNDPfC/">A Road Map to Find in 3D Printing a New Design Plasticity for Construction:<br/>The State of Art</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../brad_gent_kurt.2026.ECaEoO3PCW/">Embodied Carbon and Energy of Offsite 3D-Printed Concrete Walls</a></li>
     </ol>
 </div>
 

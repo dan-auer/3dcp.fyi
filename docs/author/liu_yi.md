@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 118
+    : 129
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a> (49)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a> (52)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (5)</li>
-        <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> (5)</li>
-        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (4)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (5)</li>
     </ol>
 
 </div>

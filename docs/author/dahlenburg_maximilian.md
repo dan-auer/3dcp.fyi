@@ -19,19 +19,19 @@ search:
     : 2022-04-21
     
     Last Contribution
-    : 2025-12-31
+    : 2026-03-17
 
     Number Contributions
-    : 7
+    : 8
 
     Number Citations
-    : 34
+    : 40
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a> (5)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
-        <li><a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> (3)</li>
+        <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a> (6)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (4)</li>
+        <li><a href="../../../author/fottner_johannes"><b>Fottner</b> Johannes</a> (4)</li>
         <li><a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a> (2)</li>
         <li><a href="../../../author/monte_renata"><b>Monte</b> Renata</a> (2)</li>
     </ol>
@@ -43,18 +43,18 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (14)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (12)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (11)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (11)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (9)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (15)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (13)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/dorfler_kathrin"><b>Dörfler</b> Kathrin</a> (5)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (5)</li>
-        <li><a href="../../../author/dielemans_gido"><b>Dielemans</b> Gido</a> (3)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
         <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (3)</li>
         <li><a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> (3)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a>, <a href="../../../author/grimm_benedikt"><b>Grimm</b> Benedikt</a>, <a href="../../../author/unterreiner_michael"><b>Unterreiner</b> Michael</a>, <a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_grim_unte_hech.2026.PotTRi3PFGCTNNBAM/">Properties of the Transition Region in 3D Printed Functionally Graded Concrete Through Near Nozzle Binder-Aggregate Mixing</a></li>
   <li><a href="../../../author/hechtl_maximilian_christian"><b>Hechtl</b> Christian</a>, <a href="../../../author/dahlenburg_maximilian"><b>Dahlenburg</b> Maximilian</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/krankel_thomas"><b>Kränkel</b> Thomas</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../hech_dahl_bos_kran.2025.ABAMA/">Adaptive-Binder-Aggregate Mixing (ABAM):<br/>Concept for Extrusion-Based Multi-Material 3D Concrete Printing</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

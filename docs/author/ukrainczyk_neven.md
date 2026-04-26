@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/guan_dian"><b>Guan</b> Dian</a> (1)</li>
         <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
-        <li><a href="../../../author/ping_pengxin"><b>Ping</b> Pengxin</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
         <li><a href="../../../author/wu_gan"><b>Wu</b> Gan</a> (1)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (1)</li>
     </ol>

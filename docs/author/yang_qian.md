@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/yang_qian"><b>Yang</b> Qian</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../jian_yang_zhu_zhan.2022.EtSEoCaSCotPoOM/">Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar</a> (4)</li>
+        <li><a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/yang_qian"><b>Yang</b> Qian</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../jian_yang_zhu_zhan.2022.EtSEoCaSCotPoOM/">Evaluating the Stiffening Effect of CSA and Sodium Carbonate on the Printability of OPC Mortar</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (3)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (3)</li>
-        <li><a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> (2)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (2)</li>
     </ol>
 
 </div>

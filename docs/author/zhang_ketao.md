@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 51
+    : 56
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a> (35)</li>
+        <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (9)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (9)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (8)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (8)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (7)</li>
-        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (7)</li>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (7)</li>
     </ol>
 
 </div>

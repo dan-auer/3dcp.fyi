@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -51,8 +51,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_bing"><b>Chen</b> Bing</a> (1)</li>
+        <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a> (1)</li>
         <li><a href="../../../author/li_bin"><b>Li</b> Bin</a> (1)</li>
-        <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a> (1)</li>
+        <li><a href="../../../author/li_wei"><b>Li</b> Wei</a> (1)</li>
+        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a> (1)</li>
     </ol>
 
 </div>

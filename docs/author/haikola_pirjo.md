@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/haikola_pirjo"><b>Haikola</b> Pirjo</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../liu_haik_fox_tran.2024.3PoCCwSP/">3D Printing of Cementitious Composites with Seashell-Particles:<br/>Mechanical and Microstructural Analysis</a> (6)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/haikola_pirjo"><b>Haikola</b> Pirjo</a>, <a href="../../../author/fox_kate"><b>Fox</b> Kate</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../liu_haik_fox_tran.2024.3PoCCwSP/">3D Printing of Cementitious Composites with Seashell-Particles:<br/>Mechanical and Microstructural Analysis</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

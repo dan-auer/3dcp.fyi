@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yin_xunzhi"><b>Yin</b> Xunzhi</a>, <a href="../../../author/guo_chong"><b>Guo</b> Chong</a>, <a href="../../../author/sun_bo"><b>Sun</b> Bo</a>, <a href="../../../author/chen_honggang"><b>Chen</b> Honggang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_guo_sun_chen.2023.TSotAiDCoCB/">The State of the Art in Digital Construction of Clay Buildings:<br/>Reviews of Existing Practices and Recommendations for Future Development</a> (4)</li>
+        <li><a href="../../../author/yin_xunzhi"><b>Yin</b> Xunzhi</a>, <a href="../../../author/guo_chong"><b>Guo</b> Chong</a>, <a href="../../../author/sun_bo"><b>Sun</b> Bo</a>, <a href="../../../author/chen_honggang"><b>Chen</b> Honggang</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_guo_sun_chen.2023.TSotAiDCoCB/">The State of the Art in Digital Construction of Clay Buildings:<br/>Reviews of Existing Practices and Recommendations for Future Development</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (1)</li>
         <li><a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> (1)</li>
+        <li><a href="../../../author/singh_k_s"><b>Singh</b> S.</a> (1)</li>
         <li><a href="../../../author/tamimi_k_adil"><b>Al Tamimi</b> Adil</a> (1)</li>
         <li><a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> (1)</li>
-        <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> (1)</li>
     </ol>
 
 </div>

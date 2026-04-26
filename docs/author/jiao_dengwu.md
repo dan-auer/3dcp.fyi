@@ -19,13 +19,13 @@ search:
     : 2019-08-13
     
     Last Contribution
-    : 2025-11-29
+    : 2026-03-20
 
     Number Contributions
-    : 7
+    : 8
 
     Number Citations
-    : 140
+    : 149
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a> (114)</li>
+        <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yuan_li_zhou_huan.2019.AFMfMtBoF3PM/">A Feasible Method for Measuring the Buildability of Fresh 3D Printing Mortar</a> (117)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (11)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (11)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (9)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (8)</li>
-        <li><a href="../../../author/lin_can"><b>Lin</b> Can</a> (7)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (7)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (8)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/mao_yong"><b>Mao</b> Yong</a>, <a href="../../../author/cheng_jinyi"><b>Cheng</b> Jinyi</a>, <a href="../../../author/guo_zhenbang"><b>Guo</b> Zhenbang</a>, <a href="../../../author/chi_baihong"><b>Chi</b> Baihong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../mao_chen_guo_chi.2026.FSMo3PCP/">Fumed Silica Modulation of 3D-Printed Cement Paste::<br/>Rheology, Microstructure, and Printability</a></li>
   <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/hu_shengming"><b>Hu</b> Shengming</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tao_hu_duan_jiao.2026.MRFBaEAMEo3PLCwFAC/">Magneto-Responsive Flow Behavior and Early-Age Microstructural Evolution of 3D Printing Lightweight Concrete with Fly Ash Cenospheres</a></li>
   <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>
   <li><a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/fakhrayee-nejad_siamak"><b>Fakhrayee Nejad</b> Siamak</a>, <a href="../../../author/ng_serina"><b>Ng</b> Serina</a>, <a href="../../../author/bose_baishakhi"><b>Bose</b> Baishakhi</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mikh_fakh_ng_bose.2024.PIaAiCP/">Practical Insights and Advances in Concrete Pumping</a></li>

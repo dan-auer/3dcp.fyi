@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 33
+    : 35
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a>, <a href="../../../author/pugacheva_polina"><b>Pugacheva</b> Polina</a>, <a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/weiss_ursula"><b>Weiss</b> Ursula</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../lauf_puga_rutz_weis.2021.EotBoCSFRCCBoaMSEIaaNMSA/">Evaluation of the Behavior of Carbon-Short-Fiber-Reinforced Concrete (CSFRC) Based on a Multi-Sensory Experimental Investigation and a Numerical Multi-Scale Approach</a> (9)</li>
+        <li><a href="../../../author/rutzen_matthias"><b>Rutzen</b> Matthias</a>, <a href="../../../author/schulz_michael"><b>Schulz</b> Michael</a>, <a href="../../../author/moosburger-will_judith"><b>Moosburger-Will</b> Judith</a>, <a href="../../../author/lauff_philipp"><b>Lauff</b> Philipp</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../rutz_schu_moos_lauf.2021.3PaaAMMfaCFRCCwOFS1Nm/">3D Printing as an Automated Manufacturing Method for a Carbon-Fiber-Reinforced Cementitious Composite with Outstanding Flexural Strength (105 N/mm²)</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

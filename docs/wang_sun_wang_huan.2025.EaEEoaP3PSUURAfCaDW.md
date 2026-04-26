@@ -78,8 +78,10 @@ Journal Article - Energy and Buildings, Vol. 347, No. 116405
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sapa_spur_alza_slos.2026.LCCfOSAaCDWf3P/">Low-CO2 Concrete from Oil Shale Ash and Construction Demolition Waste for 3D Printing</a></li>
+      <li><a href="../../../author/chang_mengzhu"><b>Chang</b> Mengzhu</a>, <a href="../../../author/zeng_jun"><b>Zeng</b> Jun</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chan_zeng.2026.POAo3PAfSSH/">Performance-Oriented Assessment of 3D-Printed Architecture for Small-Scale Housing</a></li>
     </ol>
 </div>
 

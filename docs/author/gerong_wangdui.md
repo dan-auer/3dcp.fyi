@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a> (0)</li>
+        <li><a href="../../../author/liao_minmao"><b>Liao</b> Minmao</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_pengfei"><b>Wang</b> Pengfei</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../liao_gero_wang_chen.2025.DoEECiaOCMfH3PC/">Determination of Elastic Engineering Constants in an Orthotropic Constitutive Model for Hardened 3D-Printed Concrete</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 40
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (3)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (6)</li>
         <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> (3)</li>
         <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (3)</li>
         <li><a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a> (2)</li>

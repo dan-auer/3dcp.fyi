@@ -88,8 +88,9 @@ Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05144
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mandal_romio"><b>Mandal</b> Romio</a>, <a href="../../../author/dubey_kumar_pawan"><b>Dubey</b> Pawan</a>, <a href="../../../author/arya_sampurna"><b>Arya</b> Sampurna</a>, <a href="../../../author/chakraborty_suman"><b>Chakraborty</b> Suman</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mand_dube_arya_chak.2026.RPi3PCCCSaRG/">Recycled Plastic in 3D‐Printed Cementitious Concrete: Current Status and Research Gaps</a></li>
     </ol>
 </div>
 

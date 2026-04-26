@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 834
+    : 862
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a> (609)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a> <a href="../../../date/2015/02">(2015-02)</a><br><a href="../../../perr_rang_pier.2016.SBUoCBMUf3PET/">Structural Build-Up of Cement-Based Materials Used for 3D Printing-Extrusion-Techniques</a> (633)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (52)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (52)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (51)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (39)</li>
         <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (35)</li>
-        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (33)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (34)</li>
     </ol>
 
 </div>

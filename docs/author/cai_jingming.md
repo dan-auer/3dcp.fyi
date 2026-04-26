@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 163
+    : 183
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a> (62)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a> (65)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (8)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (8)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (7)</li>
-        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (6)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (7)</li>
     </ol>
 
 </div>

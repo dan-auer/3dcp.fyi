@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a> (0)</li>
+        <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
+        <li><a href="../../../author/cui_bo"><b>Cui</b> Bo</a> (1)</li>
+        <li><a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> (1)</li>
+        <li><a href="../../../author/luo_aizhong"><b>Luo</b> Aizhong</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
     </ol>
 
 </div>

@@ -19,13 +19,13 @@ search:
     : 2018-06-11
     
     Last Contribution
-    : 2025-01-12
+    : 2026-02-15
 
     Number Contributions
-    : 26
+    : 27
 
     Number Citations
-    : 945
+    : 982
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (281)</li>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (289)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (42)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (39)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (40)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (37)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (35)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (36)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/licciardello_lucia"><b>Licciardello</b> Lucia</a>, <a href="../../../author/meillasson_hedwige"><b>Meillasson</b> Hedwige</a>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../licc_meil_soto_kauf.2025.DTToR3PCT/">Direct Tensile Test on Reinforced 3D-Printed Concrete Ties</a></li>
   <li><a href="../../../author/licciardello_lucia"><b>Licciardello</b> Lucia</a>, <a href="../../../author/soto_giraldo_alejandro"><b>Soto</b> Alejandro</a>, <a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a>, <a href="../../../author/metelli_giovanni"><b>Metelli</b> Giovanni</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../licc_soto_kauf_mete.2025.DtSo3PCwtMSST/">Determining the Strength of 3D Printed Concrete with the Modified Slant-Shear-Test</a></li>
   <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/sawicki_bartlomiej"><b>Sawicki</b> Bartłomiej</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../klof_sawi_bos_dorr.2024.IoRPaFiDFwC/">Interaction of Reinforcement, Process, and Form in Digital Fabrication with Concrete</a></li>
   <li><a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/thoma_karel"><b>Thoma</b> Karel</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../amma_gebh_thom_mata.2024.EBoCFSPwDFF/">Environmental Benefits of Concrete Floor Slabs Produced with Digitally Fabricated Formworks:<br/>A Case Study</a></li>

@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 23
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a> (9)</li>
+        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/baharlou_ehsan"><b>Baharlou</b> Ehsan</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../kili_ma_baha_ozbu.2023.EoVMAaNCoFaRVPaPCoCC/">Effects of Viscosity-Modifying Admixture and Nano-Clay on Fresh and Rheo-Viscoelastic Properties and Printability Characteristics of Cementitious Composites</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> (2)</li>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (2)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
         <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
     </ol>

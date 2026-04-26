@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 43
+    : 58
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a> (23)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/gerke_markus"><b>Gerke</b> Markus</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../wolf_bos_caro_gerk.2024.OLaILQAAASLo3CP/">On-Line and In-Line Quality-Assessment Across All Scale Levels of 3D Concrete Printing</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (4)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
-        <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> (3)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
-        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (7)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (5)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (4)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (4)</li>
     </ol>
 
 </div>

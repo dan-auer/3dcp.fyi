@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 119
+    : 140
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a> (58)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/zhang_qing"><b>Zhang</b> Qing</a>, <a href="../../../author/lombois-burger_helene"><b>Lombois-Burger</b> Hélène</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../ma_zhan_lomb_jia.2022.PSIRHaFOo3PCwPFaTRwS/">Pore-Structure, Internal Relative Humidity, and Fiber-Orientation of 3D Printed Concrete with Polypropylene-Fiber and Their Relation with Shrinkage</a> (66)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (10)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (8)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (11)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (9)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (9)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (7)</li>
     </ol>
 
 </div>

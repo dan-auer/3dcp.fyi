@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b> Gintautas</a>, <a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b> Aigerim</a>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a>, <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b> Kenzhebek</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../skri_tole_rish_akma.2025.DaCDi3PC/">Durability and Cracking Defects in 3D-Printed Concrete</a> (1)</li>
+        <li><a href="../../../author/skripkiunas_gintautas"><b>Skripkiūnas</b> Gintautas</a>, <a href="../../../author/tolegenova_aigerim"><b>Tolegenova</b> Aigerim</a>, <a href="../../../author/rishko_lyudmyla"><b>Rishko</b> Lyudmyla</a>, <a href="../../../author/akmalaiuly_kenzhebek"><b>Akmalaiuly</b> Kenzhebek</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../skri_tole_rish_akma.2025.DaCDi3PC/">Durability and Cracking Defects in 3D-Printed Concrete</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/citek_adam"><b>Čítek</b> Adam</a> (1)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/citek_david"><b>Čítek</b> David</a> (1)</li>
-        <li><a href="../../../author/holy_milan"><b>Holý</b> Milan</a> (1)</li>
         <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a> (1)</li>
-        <li><a href="../../../author/kotes_peter"><b>Koteš</b> Peter</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

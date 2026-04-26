@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/xu_quanbiao"><b>Xu</b> Quanbiao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../song_xu_wang_sun.2025.FDAMPo3PC/">Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete:<br/>Experimental and Theoretical Study</a> (1)</li>
+        <li><a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a>, <a href="../../../author/xu_quanbiao"><b>Xu</b> Quanbiao</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../song_xu_wang_sun.2025.FDAMPo3PC/">Flowability-Dependent Anisotropic Mechanical Properties of 3D Printing Concrete:<br/>Experimental and Theoretical Study</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
         <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
-        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (1)</li>
-        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (1)</li>
+        <li><a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> (1)</li>
     </ol>
 
 </div>

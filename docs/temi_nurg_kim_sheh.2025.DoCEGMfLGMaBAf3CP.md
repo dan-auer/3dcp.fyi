@@ -59,8 +59,9 @@ Journal Article - Structural Concrete
       <li><a href="../../../author/sayegh_monir_sameh"><b>Sayegh</b> Sameh</a>, <a href="../../../author/romdhane_lotfi"><b>Romdhane</b> Lotfi</a>, <a href="../../../author/manjikian_solair"><b>Manjikian</b> Solair</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../saye_romd_manj.2020.ACRo3PiC/">A Critical Review of 3D Printing in Construction:<br/>Benefits, Challenges, and Risks</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/sun_yuting"><b>Sun</b> Yuting</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>, <a href="../../../author/du_qianyu"><b>Du</b> Qianyu</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_sun_mbab_du.2026.3PCSSwPKEPME/">3D-Printed Concrete Structural Supercapacitor with PVA-KOH Enhanced Polymer Mortar Electrolyte</a></li>
     </ol>
 </div>
 

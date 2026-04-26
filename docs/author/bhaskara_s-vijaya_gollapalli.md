@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a> (5)</li>
+        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ravi_prem_giri_bhas.2025.TDPo3PUwSSCSaF/">Time-Dependent Properties of 3D-Printed UHPC with Silica Sand, Copper Slag, and Fibers</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (2)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (1)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (1)</li>
-        <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (1)</li>
+        <li><a href="../../../author/wei_ya"><b>Wei</b> Ya</a> (1)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
     </ol>
 

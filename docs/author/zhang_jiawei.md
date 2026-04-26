@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 14
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a> (14)</li>
+        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> (2)</li>
-        <li><a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> (2)</li>
-        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (2)</li>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (2)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a> (3)</li>
+        <li><a href="../../../author/huang_yujie"><b>Huang</b> Yujie</a> (3)</li>
+        <li><a href="../../../author/wu_jie"><b>Wu</b> Jie</a> (3)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (3)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (3)</li>
     </ol>
 
 </div>

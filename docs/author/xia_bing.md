@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 80
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a> (45)</li>
+        <li><a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xia_bing"><b>Xia</b> Bing</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hao_xiao_sun_xia.2022.TCo3PCWRFACPCM/">Thermal Conductivity of 3D Printed Concrete With Recycled Fine Aggregate Composite Phase-Change-Materials</a> (50)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (5)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
         <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> (4)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
     </ol>
 

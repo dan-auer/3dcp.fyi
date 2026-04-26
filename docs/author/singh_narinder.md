@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 26
+    : 31
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a> (26)</li>
+        <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a>, <a href="../../../author/colangelo_francesco"><b>Colangelo</b> Francesco</a>, <a href="../../../author/farina_ilenia"><b>Farina</b> Ilenia</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sing_cola_fari.2023.SNCC3P/">Sustainable Non-Conventional Concrete 3D Printing:<br/>A Review</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,9 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
         <li><a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> (2)</li>
         <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (2)</li>
-        <li><a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> (1)</li>
         <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
     </ol>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ye_yihang"><b>Ye</b> Yihang</a>, <a href="../../../author/hao_lulu"><b>Hao</b> Lulu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhan_zhan_ye_hao.2025.IoCi2IPoMPo3PCS/">Influence of Contacts in 2D Infill Patterns on Mechanical Properties of 3D Printed Concrete Structures</a> (1)</li>
+        <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ye_yihang"><b>Ye</b> Yihang</a>, <a href="../../../author/hao_lulu"><b>Hao</b> Lulu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zhan_zhan_ye_hao.2025.IoCi2IPoMPo3PCS/">Influence of Contacts in 2D Infill Patterns on Mechanical Properties of 3D Printed Concrete Structures</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a> (1)</li>
+        <li><a href="../../../author/li_yufeng"><b>Li</b> Yufeng</a> (1)</li>
+        <li><a href="../../../author/liu_bei"><b>Liu</b> Bei</a> (1)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
+        <li><a href="../../../author/wang_hao"><b>Wang</b> Hao</a> (1)</li>
+        <li><a href="../../../author/yin_haibin"><b>Yin</b> Haibin</a> (1)</li>
     </ol>
 
 </div>

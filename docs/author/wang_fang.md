@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 674
+    : 716
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a> (373)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wang_fang"><b>Wang</b> Fang</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../ma_li_wang_wang.2019.MAoAFRCfEB3P/">Mechanical Anisotropy of Aligned Fiber-Reinforced Composite for Extrusion-Based 3D Printing</a> (398)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (54)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (50)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (59)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (54)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (33)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (24)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (20)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
     </ol>
 
 </div>

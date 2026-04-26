@@ -25,7 +25,7 @@ search:
     : 20
 
     Number Citations
-    : 385
+    : 407
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a> (92)</li>
+        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a> (93)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (21)</li>
         <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (17)</li>
         <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (15)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (14)</li>
     </ol>
 
 </div>

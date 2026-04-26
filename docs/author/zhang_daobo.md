@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 76
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a> (34)</li>
+        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (4)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
-        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (3)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (3)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (4)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (4)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (4)</li>
     </ol>
 
 </div>

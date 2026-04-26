@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../baba_mcco_afsa.2025.CaOo3AfUWT/">Challenges and Opportunities of 3DCP Adoption for US Workforce Training</a> (0)</li>
+        <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a>, <a href="../../../author/afsari_kereshmeh"><b>Afsari</b> Kereshmeh</a>, <a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../baba_afsa_mcco.2025.IKCf3CPiAH/">Investigating Key Competencies for 3D Concrete Printing in Affordable Housing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/babajaniniashirvani_vida"><b>Babajaniniashirvani</b> Vida</a> (1)</li>
+        <li><a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> (1)</li>
+        <li><a href="../../../author/yanamala_akhileswar"><b>Yanamala</b> Akhileswar</a> (1)</li>
     </ol>
 
 </div>

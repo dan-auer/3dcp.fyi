@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a> (6)</li>
+        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/zhou_boyang"><b>Zhou</b> Boyang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC/">A Fracture Mechanics Model for Predicting Tensile Strength and Fracture Toughness of 3D Printed Engineered Cementitious Composites</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (3)</li>
         <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (3)</li>
         <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (2)</li>
-        <li><a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a> (2)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
+        <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a> (2)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (2)</li>
     </ol>
 
 </div>

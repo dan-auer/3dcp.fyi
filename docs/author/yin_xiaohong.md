@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/an_xuehui"><b>An</b> Xuehui</a>, <a href="../../../author/liang_qimin"><b>Liang</b> Qimin</a>, <a href="../../../author/li_pengfei"><b>Li</b> Pengfei</a>, <a href="../../../author/you_wei"><b>You</b> Wei</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../an_lian_li_you.2025.EAoPPaMPoUSP3PC/">Experimental Assessment on Printing Performance and Mechanical Properties of Underwater Self-Protecting 3D Printing Concrete</a> (2)</li>
+        <li><a href="../../../author/an_xuehui"><b>An</b> Xuehui</a>, <a href="../../../author/liang_qimin"><b>Liang</b> Qimin</a>, <a href="../../../author/li_pengfei"><b>Li</b> Pengfei</a>, <a href="../../../author/you_wei"><b>You</b> Wei</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../an_lian_li_you.2025.EAoPPaMPoUSP3PC/">Experimental Assessment on Printing Performance and Mechanical Properties of Underwater Self-Protecting 3D Printing Concrete</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> (1)</li>
         <li><a href="../../../author/aday_n_anastasia"><b>Aday</b> Anastasia</a> (1)</li>
-        <li><a href="../../../author/alawi_khamis_mubarak"><b>Al Alawi</b> Mubarak</a> (1)</li>
         <li><a href="../../../author/kevern_t_john"><b>Kevern</b> John</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
         <li><a href="../../../author/wei_hui"><b>Wei</b> Hui</a> (1)</li>
+        <li><a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> (1)</li>
     </ol>
 
 </div>

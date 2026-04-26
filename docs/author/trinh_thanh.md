@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a> (4)</li>
+        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> (2)</li>
         <li><a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> (2)</li>
         <li><a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a> (2)</li>
-        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (1)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
     </ol>
 
 </div>

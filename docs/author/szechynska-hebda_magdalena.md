@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 57
+    : 63
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a> (27)</li>
+        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../marc_ziej_gade_korn.2021.HMBoFAMaCf3P/">Hybrid Materials Based on Fly-Ash, Metakaolin, and Cement for 3D Printing</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> (8)</li>
+        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (7)</li>
         <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (7)</li>
+        <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (7)</li>
         <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (6)</li>
-        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (5)</li>
-        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (5)</li>
     </ol>
 
 </div>

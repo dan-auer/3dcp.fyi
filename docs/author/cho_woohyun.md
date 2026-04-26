@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 75
+    : 79
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a> (75)</li>
+        <li><a href="../../../author/jo_ho_jun"><b>Jo</b> Jun</a>, <a href="../../../author/jo_wan_byung"><b>Jo</b> Byung</a>, <a href="../../../author/cho_woohyun"><b>Cho</b> Woohyun</a>, <a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../jo_jo_cho_kim.2020.Doa3PfCS/">Development of a 3D Printer for Concrete Structures:<br/>Laboratory Testing of Cementitious Materials</a> (79)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
         <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> (4)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (2)</li>
         <li><a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> (2)</li>
         <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (2)</li>
-        <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> (2)</li>
     </ol>
 
 </div>

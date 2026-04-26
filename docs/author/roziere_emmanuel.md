@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 31
+    : 36
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../harb_rozi_yahi_louk.2022.PAoCBMBoRHKaVP/">Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties</a> (14)</li>
+        <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a>, <a href="../../../author/roziere_emmanuel"><b>Rozière</b> Emmanuel</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../harb_rozi_yahi_louk.2022.PAoCBMBoRHKaVP/">Printability-Assessment of Cement-Based Materials Based on Rheology, Hydration Kinetics, and Viscoelastic Properties</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (2)</li>
         <li><a href="../../../author/harbouz_ilhame"><b>Harbouz</b> Ilhame</a> (2)</li>
         <li><a href="../../../author/loukili_ahmed"><b>Loukili</b> Ahmed</a> (2)</li>
         <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (2)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (2)</li>
     </ol>
 

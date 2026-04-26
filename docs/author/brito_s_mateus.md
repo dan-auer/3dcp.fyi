@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/carvalho_c_ivo"><b>Carvalho</b> Ivo</a>, <a href="../../../author/melo_r-s_abcael"><b>Melo</b> Abcael</a>, <a href="../../../author/melo_d-r_carlos"><b>Melo</b> Carlos</a>, <a href="../../../author/brito_s_mateus"><b>Brito</b> Mateus</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../carv_melo_melo_brit.2024.EotEoRWPotRaMPoCMf3P/">Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing</a> (7)</li>
+        <li><a href="../../../author/carvalho_c_ivo"><b>Carvalho</b> Ivo</a>, <a href="../../../author/melo_r-s_abcael"><b>Melo</b> Abcael</a>, <a href="../../../author/melo_d-r_carlos"><b>Melo</b> Carlos</a>, <a href="../../../author/brito_s_mateus"><b>Brito</b> Mateus</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../carv_melo_melo_brit.2024.EotEoRWPotRaMPoCMf3P/">Evaluation of the Effect of Rubber-Waste-Particles on the Rheological and Mechanical Properties of Cementitious Materials for 3D Printing</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

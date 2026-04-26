@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a> (0)</li>
+        <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/jun_yubin"><b>Jun</b> Yubin</a>, <a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bang_ha_jun_yim.2026.OCWDbERfEIBSi3PCCC/">Optimal Casting Window Defined by Electrical Resistivity for Enhancing Interfacial Bond Strength in 3D Printed-Cast Concrete Composites</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/ahn_jin-hee"><b>Ahn</b> Jin-Hee</a> (1)</li>
+        <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a> (1)</li>
+        <li><a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a> (1)</li>
+        <li><a href="../../../author/hwang_young_ju"><b>Hwang</b> Ju</a> (1)</li>
+        <li><a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> (1)</li>
     </ol>
 
 </div>

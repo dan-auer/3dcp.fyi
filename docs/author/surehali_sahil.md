@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 35
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a> (23)</li>
+        <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> (4)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
-        <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (2)</li>
         <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (2)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (2)</li>
     </ol>

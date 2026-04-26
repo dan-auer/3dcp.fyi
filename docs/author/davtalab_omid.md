@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 186
+    : 190
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a> (75)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/yuan_xiao"><b>Yuan</b> Xiao</a>, <a href="../../../author/davtalab_omid"><b>Davtalab</b> Omid</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../kaze_yuan_davt_khos.2019.CVfRTEQMaCiRC/">Computer-Vision for Real-Time Extrusion-Quality-Monitoring and Control in Robotic Construction</a> (77)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (18)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (19)</li>
         <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (11)</li>
         <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a> (11)</li>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (8)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (9)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (6)</li>
     </ol>
 

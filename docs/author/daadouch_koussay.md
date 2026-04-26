@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../rein_daad_mesc.2024.NSoTDCPBoaUFaSMF/">Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation</a> (5)</li>
+        <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/daadouch_koussay"><b>Daadouch</b> Koussay</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../rein_daad_mesc.2024.NSoTDCPBoaUFaSMF/">Numerical Simulation of Three Dimensional Concrete Printing Based on a Unified Fluid and Solid Mechanics Formulation</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (1)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
-        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (1)</li>
-        <li><a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> (1)</li>
-        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (2)</li>
+        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (2)</li>
     </ol>
 
 </div>

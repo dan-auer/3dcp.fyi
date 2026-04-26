@@ -19,13 +19,13 @@ search:
     : 2023-09-16
     
     Last Contribution
-    : 2026-01-01
+    : 2026-02-25
 
     Number Contributions
-    : 6
+    : 7
 
     Number Citations
-    : 91
+    : 110
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a> (88)</li>
+        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a> (105)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (20)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (18)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (13)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (14)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (3)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (3)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (3)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhan_chen_zhou_li.2026.EaFESo3PCGLTCB/">Experimental and Finite Element Studies of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
   <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
   <li><a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../lu_sun_shen_zhan.2025.Bo3PECCE/">Buildability of 3D Printing Engineered Cementitious Composites (ECC):<br/>A Comprehensive Assessment Framework Under Laboratory Conditions</a></li>
   <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a>, <a href="../../../author/yue_ziyi"><b>Yue</b> Ziyi</a>, <a href="../../../author/gerong_wangdui"><b>Gerong</b> Wangdui</a>, <a href="../../../author/wang_zhenyue"><b>Wang</b> Zhenyue</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../chen_yue_gero_wang.2025.EoOaPPotBPo3PCGC/">Effect of Orthotropy and Printing Patterns on the Bending Performance of 3D Printed Concrete Grid Components</a></li>

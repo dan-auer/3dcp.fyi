@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a>, <a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>, <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_hu_shah.2024.ABi3PC/">Anisotropic Behavior in 3D Printed Concrete:<br/>Finite Element Simulation Approach</a> (5)</li>
+        <li><a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a>, <a href="../../../author/hu_xiangcheng"><b>Hu</b> Xiangcheng</a>, <a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../li_hu_shah.2024.ABi3PC/">Anisotropic Behavior in 3D Printed Concrete:<br/>Finite Element Simulation Approach</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (1)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
-        <li><a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> (1)</li>
-        <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (1)</li>
+        <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a> (1)</li>
         <li><a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

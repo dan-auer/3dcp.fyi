@@ -19,10 +19,10 @@ search:
     : 2024-03-23
     
     Last Contribution
-    : 2025-12-11
+    : 2026-01-28
 
     Number Contributions
-    : 4
+    : 5
 
     Number Citations
     : 2
@@ -30,7 +30,7 @@ search:
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> (3)</li>
-        <li><a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> (1)</li>
+        <li><a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -42,9 +42,9 @@ search:
     <ol>
         <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (7)</li>
         <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (6)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (6)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (6)</li>
         <li><a href="../../../author/li_heng"><b>Li</b> Heng</a> (5)</li>
-        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (5)</li>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -61,6 +61,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../roja_hasa.2026.PToaMRfPPSi3PW/">Parametric Teleoperation of a Mobile Robot for Placing Printing Supports in 3D Printed Walls</a></li>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sogand"><b>Hasanzadeh</b> Sogand</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../roja_hasa.2025.AUWfEEi3CPUa6DRA/">A Unified Workflow for Enhanced Efficiency in 3D Concrete Printing Using a 6 DoF Robotic Arm</a></li>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../roja_hasa.2025.HFi3CPfC/">Human Factor in 3D Concrete Printing for Construction</a></li>
   <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a>, <a href="../../../author/hasanzadeh_sognad"><b>Hasanzadeh</b> Sognad</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../roja_hasa.2025.AIBPWf3CPP/">An Integrated BIM Planning Workflow for 3D Concrete Printing Projects</a></li>

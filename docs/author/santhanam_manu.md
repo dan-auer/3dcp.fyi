@@ -19,13 +19,13 @@ search:
     : 2018-12-21
     
     Last Contribution
-    : 2026-01-17
+    : 2026-02-04
 
     Number Contributions
-    : 27
+    : 29
 
     Number Citations
-    : 1246
+    : 1340
 
 !!! success "Top Co-Authors"
     <ol>
@@ -33,21 +33,21 @@ search:
         <li><a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a> (6)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
         <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (5)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (4)</li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (5)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a> (338)</li>
+        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a> (353)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (54)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (54)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (47)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (46)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (41)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (56)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (56)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (52)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (48)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sant_raph_sant.2026.D/">DELRA:<br/>A Continuous Print Path Generation Algorithm for Concrete 3D Printing of Lattice Structures</a></li>
+  <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../pate_sant.2026.RaFSCf3PC/">Rheological and Fresh-State Characterization for 3D-Printable Concrete:<br/>Evaluating Printability Across Different Binder Systems</a></li>
   <li><a href="../../../author/bharti_mrityunjay"><b>Bharti</b> Mrityunjay</a>, <a href="../../../author/menon_arun"><b>Menon</b> Arun</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bhar_meno_sant.2026.ESoHPo3PCUCTaSCII/">Experimental Study of Hardened Properties of 3D-Printed Concrete Under Compression, Tension and Shear Considering Interlayer Influence</a></li>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
   <li><a href="../../../author/haripan_vislavath"><b>Haripan</b> Vislavath</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../hari_sent_sant_raph.2025.PAoC3PEwRFA/">Printability Assessment of Concrete 3D Printed Elements with Recycled Fine Aggregate</a></li>

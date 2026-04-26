@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 37
+    : 49
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a> (15)</li>
+        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/li_fangyuan"><b>Li</b> Fangyuan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../shah_li.2023.AIMfBAo3PCaEA/">An Innovative Method for Buildability-Assessment of 3D Printed Concrete at Early-Ages</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (3)</li>
-        <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (2)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (5)</li>
+        <li><a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a> (4)</li>
+        <li><a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
+        <li><a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> (3)</li>
     </ol>
 
 </div>

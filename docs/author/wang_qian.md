@@ -19,10 +19,10 @@ search:
     : 2025-04-22
     
     Last Contribution
-    : 2025-04-22
+    : 2026-03-28
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
@@ -31,22 +31,23 @@ search:
     <ol>
         <li><a href="../../../author/huang_guanying"><b>Huang</b> Guanying</a> (1)</li>
         <li><a href="../../../author/lai_sha"><b>Lai</b> Sha</a> (1)</li>
-        <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (1)</li>
         <li><a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a> (0)</li>
+        <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_wang_ma.2026.ASST3PC/">Advancing Sustainable Structures Through 3D Printed Concrete:<br/>Reinforcement Methods and Structural Design Philosophy</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/kamat_r_vineet"><b>Kamat</b> Vineet</a> (1)</li>
-        <li><a href="../../../author/menassa_carol"><b>Menassa</b> Carol</a> (1)</li>
-        <li><a href="../../../author/momeni_mahdi"><b>Momeni</b> Mahdi</a> (1)</li>
-        <li><a href="../../../author/zhang_jiale"><b>Zhang</b> Jiale</a> (1)</li>
-        <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (21)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (18)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (8)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (7)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -59,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_wang_ma.2026.ASST3PC/">Advancing Sustainable Structures Through 3D Printed Concrete:<br/>Reinforcement Methods and Structural Design Philosophy</a></li>
   <li><a href="../../../author/yue_hongzhe"><b>Yue</b> Hongzhe</a>, <a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/zhao_zixuan"><b>Zhao</b> Zixuan</a>, <a href="../../../author/lai_sha"><b>Lai</b> Sha</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../yue_wang_zhao_lai.2025.IBBaR/">Interactions Between BIM and Robotics:<br/>Towards Intelligent Construction Engineering and Management</a></li>
 </ol>

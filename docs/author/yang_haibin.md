@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 20
+    : 23
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM/">Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials</a> (19)</li>
+        <li><a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yang_haibin"><b>Yang</b> Haibin</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../cui_yu_cao_yang.2022.EoPaTPo3PCMwPCM/">Evaluation of Printability and Thermal Properties of 3D Printed Concrete Mixed with Phase-Change-Materials</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (1)</li>
-        <li><a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
         <li><a href="../../../author/wang_xiaonan"><b>Wang</b> Xiaonan</a> (1)</li>

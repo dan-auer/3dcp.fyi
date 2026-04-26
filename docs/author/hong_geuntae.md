@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/hong_geuntae"><b>Hong</b> Geuntae</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../oh_hong_choi.2023.DtEoSPMaRTotRPoCMUAoV/">Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance:<br/>A 3D Printing Perspective</a> (3)</li>
+        <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/hong_geuntae"><b>Hong</b> Geuntae</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../oh_hong_choi.2023.DtEoSPMaRTotRPoCMUAoV/">Determining the Effect of Superabsorbent Polymers, Macrofibers, and Resting Time on the Rheological Properties of Cement Mortar Using Analysis of Variance:<br/>A 3D Printing Perspective</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> (2)</li>
         <li><a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> (2)</li>
         <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a> (2)</li>
         <li><a href="../../../author/mak_bunleang"><b>Mak</b> Bunleang</a> (2)</li>
-        <li><a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> (2)</li>
-        <li><a href="../../../author/rasel_islam_risul"><b>Rasel</b> Risul</a> (1)</li>
+        <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a> (2)</li>
     </ol>
 
 </div>

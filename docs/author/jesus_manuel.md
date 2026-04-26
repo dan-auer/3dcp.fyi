@@ -25,7 +25,7 @@ search:
     : 15
 
     Number Citations
-    : 39
+    : 43
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a> (2)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (2)</li>
-        <li><a href="../../../author/haddad_madhar"><b>Haddad</b> Madhar</a> (2)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (3)</li>
+        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (3)</li>
+        <li><a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a> (2)</li>
-        <li><a href="../../../author/scoppa_martin"><b>Scoppa</b> Martin</a> (2)</li>
     </ol>
 
 </div>

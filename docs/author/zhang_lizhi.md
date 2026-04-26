@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lu_haoyu"><b>Lu</b> Haoyu</a>, <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>, <a href="../../../author/wang_junkai"><b>Wang</b> Junkai</a>, <a href="../../../author/shi_zhaoxin"><b>Shi</b> Zhaoxin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lu_zhan_wang_shi.2025.PToSLIfYSAo3PC/">Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete</a> (3)</li>
+        <li><a href="../../../author/lu_haoyu"><b>Lu</b> Haoyu</a>, <a href="../../../author/zhang_lizhi"><b>Zhang</b> Lizhi</a>, <a href="../../../author/wang_junkai"><b>Wang</b> Junkai</a>, <a href="../../../author/shi_zhaoxin"><b>Shi</b> Zhaoxin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lu_zhan_wang_shi.2025.PToSLIfYSAo3PC/">Penetration-Test of Sheet-Like Indenter for Yield-Stress-Assessment of 3D Printed Concrete</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/ellersick_liam"><b>Ellersick</b> Liam</a> (1)</li>
         <li><a href="../../../author/hassan_m"><b>Hassan</b> M.</a> (1)</li>
-        <li><a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> (1)</li>
         <li><a href="../../../author/liu_qing"><b>Liu</b> Qing</a> (1)</li>
         <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
     </ol>
 
 </div>

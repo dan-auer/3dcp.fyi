@@ -25,7 +25,7 @@ search:
     : 13
 
     Number Citations
-    : 1218
+    : 1271
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (710)</li>
+        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (746)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (61)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (45)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (63)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (46)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (44)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (41)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (37)</li>

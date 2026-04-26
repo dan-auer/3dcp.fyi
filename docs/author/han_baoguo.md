@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 363
+    : 382
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a> (363)</li>
+        <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a> (382)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (12)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (12)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (9)</li>

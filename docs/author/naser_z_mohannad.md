@@ -50,8 +50,8 @@ search:
     <ol>
         <li><a href="../../../author/alabduljabbar_hisham"><b>Alabduljabbar</b> Hisham</a> (3)</li>
         <li><a href="../../../author/khan_majid"><b>Khan</b> Majid</a> (3)</li>
-        <li><a href="../../../author/alyami_mana"><b>Alyami</b> Mana</a> (2)</li>
         <li><a href="../../../author/gamil_yaser"><b>Gamil</b> Yaser</a> (2)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
         <li><a href="../../../author/najeh_taoufik"><b>Najeh</b> Taoufik</a> (2)</li>
     </ol>
 

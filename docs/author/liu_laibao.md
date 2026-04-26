@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 17
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a> (15)</li>
+        <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/gao_pan"><b>Gao</b> Pan</a> (1)</li>
         <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
         <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
     </ol>
 
 </div>

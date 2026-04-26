@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a>, <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bera_sari_okta_mira.2024.IoBa3PToPPaPoPCCiCP/">Impact of BIM and 3D Printing Technologies on Production Process and Productivity of Pre-Cast Concrete in Construction Project</a> (3)</li>
+        <li><a href="../../../author/berawi_ali_mohammed"><b>Berawi</b> Mohammed</a>, <a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a>, <a href="../../../author/oktaviani_dana_astiti"><b>Oktaviani</b> Astiti</a>, <a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bera_sari_okta_mira.2024.IoBa3PToPPaPoPCCiCP/">Impact of BIM and 3D Printing Technologies on Production Process and Productivity of Pre-Cast Concrete in Construction Project</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (2)</li>
         <li><a href="../../../author/sari_mustika"><b>Sari</b> Mustika</a> (2)</li>
         <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (2)</li>
-        <li><a href="../../../author/bakri_fatimah_helty"><b>Bakri</b> Helty</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
     </ol>
 
 </div>

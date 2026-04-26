@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a> (3)</li>
+        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/guo_ruyi"><b>Guo</b> Ruyi</a>, <a href="../../../author/da_wan"><b>Da</b> Wan</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../cui_liu_guo_da.2025.GQIi3CPUAACV/">Geometrical Quality Inspection in 3D Concrete Printing Using AI-Assisted Computer Vision</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a> (1)</li>
-        <li><a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
+        <li><a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a> (1)</li>
         <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a> (1)</li>
-        <li><a href="../../../author/mawas_karam"><b>Mawas</b> Karam</a> (1)</li>
         <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
     </ol>
 

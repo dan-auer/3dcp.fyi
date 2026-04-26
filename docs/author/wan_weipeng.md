@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a>, <a href="../../../author/wan_weipeng"><b>Wan</b> Weipeng</a>, <a href="../../../author/song_lin"><b>Song</b> Lin</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ma_wan_song_liu.2022.AAoPOAf3CPBoGT/">An Approach of Path-Optimization Algorithm for 3D Concrete Printing Based on Graph-Theory</a> (3)</li>
+        <li><a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a>, <a href="../../../author/wan_weipeng"><b>Wan</b> Weipeng</a>, <a href="../../../author/song_lin"><b>Song</b> Lin</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ma_wan_song_liu.2022.AAoPOAf3CPBoGT/">An Approach of Path-Optimization Algorithm for 3D Concrete Printing Based on Graph-Theory</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> (1)</li>
         <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (1)</li>
-        <li><a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a> (1)</li>
-        <li><a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (1)</li>
+        <li><a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a> (1)</li>
         <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a> (1)</li>
     </ol>
 

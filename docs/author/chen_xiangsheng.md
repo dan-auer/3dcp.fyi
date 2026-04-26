@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 3
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a>, <a href="../../../author/huang_zhongkai"><b>Huang</b> Zhongkai</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_xu_chen_huan.2025.3PCTL/">3D Printed Concrete Tunnel Lining:<br/>Comparative Study on Mechanical Properties of Curved and Straight Printed Specimens</a> (2)</li>
+        <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a>, <a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a>, <a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a>, <a href="../../../author/huang_zhongkai"><b>Huang</b> Zhongkai</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_xu_chen_huan.2025.3PCTL/">3D Printed Concrete Tunnel Lining:<br/>Comparative Study on Mechanical Properties of Curved and Straight Printed Specimens</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> (1)</li>
+        <li><a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> (1)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (1)</li>
+        <li><a href="../../../author/jia_ru"><b>Jia</b> Ru</a> (1)</li>
+        <li><a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> (1)</li>
     </ol>
 
 </div>

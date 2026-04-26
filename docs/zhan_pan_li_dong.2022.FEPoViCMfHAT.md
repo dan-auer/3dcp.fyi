@@ -47,8 +47,9 @@ Journal Article - Additive Manufacturing, Vol. 59
     <ol class = "bordered-list">
       <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/pierre_alexandre"><b>Pierre</b> Alexandre</a>, <a href="../../../author/thomas_amaury"><b>Thomas</b> Amaury</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../lowk_vand_pier_thom.2021.I3CPiaCL/">Injection 3D Concrete Printing in a Carrier Liquid:<br/>Underlying Physics and Applications to Lightweight Space Frame Structures</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_xianfeng"><b>Wang</b> Xianfeng</a>, <a href="../../../author/zheng_junhao"><b>Zheng</b> Junhao</a>, <a href="../../../author/zhang_xuanzhe"><b>Zhang</b> Xuanzhe</a>, <a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_zhen_zhan_zhu.2026.PEB3PfEVSHiCM/">Pickering Emulsion-Based 3D Printing for Efficient Vascular Self-Healing in Cementitious Materials.</a></li>
     </ol>
 </div>
 

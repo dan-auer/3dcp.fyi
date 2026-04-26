@@ -47,8 +47,9 @@ Journal Article - Journal of Testing and Evaluation, Vol. 53, Iss. 4
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/xia_yuhang"><b>Xia</b> Yuhang</a>, <a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../xia_cao.2026.OoMPaPSo3PCfSP/">Optimization of Mix Proportion and Performance Study of 3D-Printed Concrete for Slope Protection</a></li>
     </ol>
 </div>
 

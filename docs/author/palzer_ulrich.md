@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/krenzer_knut"><b>Krenzer</b> Knut</a>, <a href="../../../author/palzer_ulrich"><b>Palzer</b> Ulrich</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kren_palz_mull_mech.2022.So3CPUDEM/">Simulation of 3D Concrete Printing Using Discrete Element Method</a> (8)</li>
+        <li><a href="../../../author/krenzer_knut"><b>Krenzer</b> Knut</a>, <a href="../../../author/palzer_ulrich"><b>Palzer</b> Ulrich</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kren_palz_mull_mech.2022.So3CPUDEM/">Simulation of 3D Concrete Printing Using Discrete Element Method</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (3)</li>
-        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (3)</li>
-        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (3)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (5)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (5)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (5)</li>
         <li><a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> (1)</li>
         <li><a href="../../../author/li_mengxue"><b>Li</b> Mengxue</a> (1)</li>
     </ol>

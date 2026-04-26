@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 284
+    : 305
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a> (284)</li>
+        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a> (305)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (29)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (32)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (15)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (14)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (14)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (11)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (11)</li>
     </ol>
 
 </div>

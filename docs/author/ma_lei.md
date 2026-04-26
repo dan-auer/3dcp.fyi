@@ -25,7 +25,7 @@ search:
     : 15
 
     Number Citations
-    : 706
+    : 777
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (162)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (70)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (39)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (31)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (29)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (27)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (77)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (43)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (34)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (32)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (30)</li>
     </ol>
 
 </div>

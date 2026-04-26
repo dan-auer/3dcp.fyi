@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_wanting"><b>Zhao</b> Wanting</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zhao_zhao_zhu_guan.2024.Po3PCfSW/">Preparation of 3D Printed Concrete from Solid Waste:<br/>Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing</a> (1)</li>
+        <li><a href="../../../author/zhao_wanting"><b>Zhao</b> Wanting</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zhao_zhao_zhu_guan.2024.Po3PCfSW/">Preparation of 3D Printed Concrete from Solid Waste:<br/>Study of the Relationship Between Steel-Slag Characteristics and Early Performance in 3D Printing</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

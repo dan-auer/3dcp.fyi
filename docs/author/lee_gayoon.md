@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/to_bao_quoc"><b>To</b> Quoc</a>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b> Koa</a>, <a href="../../../author/lee_gayoon"><b>Lee</b> Gayoon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL/">Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings</a> (11)</li>
+        <li><a href="../../../author/to_bao_quoc"><b>To</b> Quoc</a>, <a href="../../../author/pham_vo-anh_koa"><b>Pham</b> Koa</a>, <a href="../../../author/lee_gayoon"><b>Lee</b> Gayoon</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL/">Experimental and FEM Evaluation of the Influence of Inter-Layer Bonding Strength in 3D Printed Concrete Members Under Compressive and Flexural Loadings</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (2)</li>
         <li><a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> (2)</li>
         <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a> (2)</li>
-        <li><a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> (1)</li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
     </ol>
 

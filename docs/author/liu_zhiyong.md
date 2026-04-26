@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 185
+    : 208
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a> (88)</li>
+        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/liu_zhiyong"><b>Liu</b> Zhiyong</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../chen_zhan_pang_liu.2021.EB3PCwCA/">Extrusion-Based 3D Printing Concrete with Coarse Aggregate:<br/>Printability and Direction-Dependent Mechanical Performance</a> (96)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (8)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (7)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (7)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (7)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (10)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (9)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (9)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (9)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
     </ol>
 
 </div>

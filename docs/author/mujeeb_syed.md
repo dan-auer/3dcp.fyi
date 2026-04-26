@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 20
+    : 26
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a> (11)</li>
+        <li><a href="../../../author/samudrala_manideep"><b>Samudrala</b> Manideep</a>, <a href="../../../author/mujeeb_syed"><b>Mujeeb</b> Syed</a>, <a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a>, <a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../samu_muje_lanj_chip.2023.3PCfEEB/">3D Printable Concrete for Energy-Efficient Buildings</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chippagiri_ravijanya"><b>Chippagiri</b> Ravijanya</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/kamath_muralidhar"><b>Kamath</b> Muralidhar</a> (2)</li>
         <li><a href="../../../author/lanjewar_a_bhagyashri"><b>Lanjewar</b> Bhagyashri</a> (2)</li>
-        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (2)</li>
         <li><a href="../../../author/ralegaonkar_v_rahul"><b>Ralegaonkar</b> Rahul</a> (2)</li>
     </ol>
 

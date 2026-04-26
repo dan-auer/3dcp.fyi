@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b> Bharadwaj</a>, <a href="../../../author/sati_ala"><b>Sati</b> Ala</a>, <a href="../../../author/hosny_fatma"><b>Hosny</b> Fatma</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mant_sati_hosn_abda.2024.AG3PLCALFfAA/">A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications</a> (1)</li>
+        <li><a href="../../../author/mantha_r-k_bharadwaj"><b>Mantha</b> Bharadwaj</a>, <a href="../../../author/sati_ala"><b>Sati</b> Ala</a>, <a href="../../../author/hosny_fatma"><b>Hosny</b> Fatma</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../mant_sati_hosn_abda.2024.AG3PLCALFfAA/">A Generic 3D Printing Life Cycle Assessment (LCA) Framework for AEC Applications</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,6 +52,7 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> (1)</li>
+        <li><a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> (1)</li>
         <li><a href="../../../author/norouzi_yasaman"><b>Norouzi</b> Yasaman</a> (1)</li>
     </ol>
 

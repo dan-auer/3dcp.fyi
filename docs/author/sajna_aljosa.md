@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a> (4)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a> (1)</li>
-        <li><a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a> (1)</li>
-        <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a> (1)</li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
+        <li><a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> (1)</li>
         <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (1)</li>
         <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (1)</li>
     </ol>

@@ -19,21 +19,21 @@ search:
     : 2024-09-06
     
     Last Contribution
-    : 2024-09-06
+    : 2026-01-24
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 1
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/fernandez_raul"><b>Fernández</b> Raúl</a> (1)</li>
+        <li><a href="../../../author/fernandez_raul"><b>Fernández</b> Raúl</a> (2)</li>
+        <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a> (2)</li>
+        <li><a href="../../../author/corani_fernando_jose"><b>Corani</b> Jose</a> (1)</li>
         <li><a href="../../../author/frias_moises"><b>Frías</b> Moisés</a> (1)</li>
         <li><a href="../../../author/guerrero_antonio"><b>Guerrero</b> Antonio</a> (1)</li>
-        <li><a href="../../../author/marieta_cristina"><b>Marieta</b> Cristina</a> (1)</li>
-        <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -64,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a>, <a href="../../../author/corani_fernando_jose"><b>Corani</b> Jose</a>, <a href="../../../author/cuevas_jaime"><b>Cuevas</b> Jaime</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../padi_cora_cuev_guer.2026.VoIWiMPPCfEB3P/">Valorisation of Industrial Wastes in Magnesium Potassium Phosphate Cements for Extrusion-Based 3D Printing</a></li>
   <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a>, <a href="../../../author/fernandez_raul"><b>Fernández</b> Raúl</a>, <a href="../../../author/cuevas_jaime"><b>Cuevas</b> Jaime</a>, <a href="../../../author/marieta_cristina"><b>Marieta</b> Cristina</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../padi_fern_cuev_mari.2024.LCFMPCf3CP/">Low-Carbon Footprint Magnesium-Phosphate-Cement for 3D Concrete Printing</a></li>
 </ol>

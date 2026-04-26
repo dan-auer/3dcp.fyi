@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a> (0)</li>
+        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/anil_ozgur"><b>Anıl</b> Özgür</a> (1)</li>
+        <li><a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b> Kaan</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
+        <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a> (1)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
     </ol>
 
 </div>

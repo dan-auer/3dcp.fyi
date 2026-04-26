@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 30
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a> (23)</li>
+        <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a> (26)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (3)</li>
         <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (3)</li>
+        <li><a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a> (2)</li>
         <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (2)</li>
-        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (2)</li>
         <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> (2)</li>
     </ol>
 

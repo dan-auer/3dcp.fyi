@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 14
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS/">Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes</a> (14)</li>
+        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jiang_yifan"><b>Jiang</b> Yifan</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS/">Water Loss and Shrinkage Prediction in 3D Printed Concrete with Varying w/b and Specimen Sizes</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (2)</li>
         <li><a href="../../../author/li_muduo"><b>Li</b> Muduo</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
         <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (2)</li>
-        <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (2)</li>
     </ol>
 
 </div>

@@ -29,13 +29,13 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
         <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/carvalho_archer_tomas"><b>Carvalho</b> Tomás</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../josh_carv_gasp.2023.IoFBBFAiCf3P/">Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing</a> (1)</li>
+        <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/carvalho_archer_tomas"><b>Carvalho</b> Tomás</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../josh_carv_gasp.2023.IoFBBFAiCf3P/">Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -61,5 +61,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/carvalho_archer_tomas"><b>Carvalho</b> Tomás</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../josh_carv_gasp.2023.IoFBBFAiCf3P/">Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing</a></li>
+  <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/carvalho_archer_tomas"><b>Carvalho</b> Tomás</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../josh_carv_gasp.2023.IoFBBFAiCf3P/">Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing</a></li>
 </ol>

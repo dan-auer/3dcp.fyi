@@ -74,8 +74,9 @@ Journal Article - Journal of Building Engineering, No. 111827
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a>, <a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a>, <a href="../../../author/shi_quanbin"><b>Shi</b> Quanbin</a>, <a href="../../../author/yuan_pu"><b>Yuan</b> Pu</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../huan_wang_shi_yuan.2026.OtURaPo3PMwDSRS/">Optimizing the Utilization Rate and Performance of 3D-Printed Mortar with Dual-Size Recycled Sand</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../si_hopk_khan_mcna.2025.TSM/">Towards Sustainable Mortar:<br/>Optimising Sika-Fiber Dosage in Ground Granulated Blast Furnace Slag and Silica Fume Blends for 3D Concrete Printing</a></li>
     </ol>
 </div>

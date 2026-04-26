@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 31
+    : 35
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a> (25)</li>
+        <li><a href="../../../author/fonseca_mariana"><b>Fonseca</b> Mariana</a>, <a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../fons_mato.2023.3CPSfSaC/">3D Construction Printing Standing for Sustainability and Circularity:<br/>Material-Level Opportunities</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (4)</li>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (2)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
-        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (2)</li>
         <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> (2)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (2)</li>
     </ol>
 
 </div>

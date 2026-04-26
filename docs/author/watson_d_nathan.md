@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 13
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a> (9)</li>
+        <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a>, <a href="../../../author/watson_d_nathan"><b>Watson</b> Nathan</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../meis_wats_bile_duar.2022.DaSCfCSCAMiREvRAD/">Design and System Considerations for Construction-Scale Concrete Additive Manufacturing in Remote Environments via Robotic-Arm-Deposition</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

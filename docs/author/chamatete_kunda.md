@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a> (8)</li>
+        <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a>, <a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../cham_yalc.2024.NEoTPo3PCW/">Numerical Evaluation on Thermal Performance of 3D Printed Concrete Walls:<br/>The Effects of Lattice-Type, Filament-Width and Granular-Filling-Material</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,11 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ciza_baraka"><b>Ciza</b> Baraka</a> (2)</li>
+        <li><a href="../../../author/abdullahi_ahmed"><b>Abdullahi</b> Ahmed</a> (2)</li>
         <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (2)</li>
-        <li><a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> (2)</li>
+        <li><a href="../../../author/joda_akram"><b>Joda</b> Akram</a> (2)</li>
         <li><a href="../../../author/kaya_ebru"><b>Kaya</b> Ebru</a> (2)</li>
-        <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> (2)</li>
+        <li><a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a> (2)</li>
     </ol>
 
 </div>

@@ -51,8 +51,9 @@ Contribution - Proceedings of the 44th Annual Conference of the Association of C
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a>, <a href="../../../author/blankenstein_paul"><b>Blankenstein</b> Paul</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../mark_schr_blan_mech.2021.TDPWSCaSMf3CP/">Three-Dimensional-Printed Wood-Starch Composite as Support Material for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bugarin_gilberto_juan"><b>Bugarin</b> Juan</a>, <a href="../../../author/hajjar_pedron_ayla"><b>Hajjar</b> Ayla</a>, <a href="../../../author/ssengooba_aloysious"><b>Ssengooba</b> Aloysious</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../buga_hajj_ssen_rang.2026.ACBaSCitIP/">Advancing Circular Bioeconomy and Sustainable Construction in the Iberian Peninsula:<br/>Addressing the Potential of Timber Residues for 3D Printing</a></li>
     </ol>
 </div>
 

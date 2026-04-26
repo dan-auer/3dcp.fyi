@@ -19,18 +19,18 @@ search:
     : 2021-05-12
     
     Last Contribution
-    : 2025-08-19
+    : 2026-03-18
 
     Number Contributions
-    : 12
+    : 15
 
     Number Citations
-    : 280
+    : 305
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (12)</li>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (11)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (14)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (13)</li>
         <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> (5)</li>
         <li><a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> (5)</li>
         <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a> (5)</li>
@@ -38,23 +38,23 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a> (64)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a> (67)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (56)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (53)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (34)</li>
-        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (24)</li>
-        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (21)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (64)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (60)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (39)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (30)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (34)</li>
         <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (25)</li>
-        <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (11)</li>
+        <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (12)</li>
         <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> (11)</li>
         <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (11)</li>
     </ol>
@@ -64,6 +64,9 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ekinci_ozkan_mehmet"><b>Ekinci</b> Mehmet</a>, <a href="../../../author/belendir_utku"><b>Belendir</b> Utku</a>, <a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../ekin_bele_demi_sahi.2026.SLTIGMfEoLMf3P/">Sustainable Lightweight Thermal Insulating Geopolymer Mortars from End-of-Life Materials for 3D Printing.</a></li>
+  <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/akkaya_tuna_sercan"><b>Akkaya</b> Sercan</a>, <a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b> Kaan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../merc_akka_bca_celi.2026.DTTo3PCW/">Diagonal Tension Testing of 3D Printed Concrete Walls:<br/>Benchmarking Against Conventional Masonry</a></li>
+  <li><a href="../../../author/lyu_ping"><b>Lyu</b> Ping</a>, <a href="../../../author/zhou_bo"><b>Zhou</b> Bo</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/sinha_arkabrata"><b>Sinha</b> Arkabrata</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../lyu_zhou_wu_sinh.2026.Po3PUObPPMUSaSC/">Performance of 3D-Printed UHPC Optimized by Particle Packing Model Under Standard and Steam Curing</a></li>
   <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../merc_sahi_celi_ozka.2025.SPoPF3PCW/">Structural Performance of Pre-Fabricated 3D Printed Concrete Walls:<br/>Effect of Cold Joint, Axial Load and Load Type</a></li>
   <li><a href="../../../author/demirbas_osman_ali"><b>Demirbaş</b> Ali</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../demi_tugl_sahi_ilca.2025.ACSotVoRCAi3PCS/">A Comprehensive Study on the Valorization of Recycled Concrete Aggregates in 3D-Printable Cementitious Systems</a></li>
   <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/kulak_yilmaz_adnan"><b>Külak</b> Adnan</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW/">Reinforcement and Modular System for 3DCP Geopolymer Structures Using Construction and Demolition Waste</a></li>

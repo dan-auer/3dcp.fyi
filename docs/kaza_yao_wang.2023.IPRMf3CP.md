@@ -60,8 +60,9 @@ Contribution - Proceedings of the 2022 International Conference on Green Buildin
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maur_pand_dixi.2026.ESoVRaBBi3CPwaTIN/">Experimental Study on Void Reduction and Bonding Behavior in 3D Concrete Printing with a Trowel-Integrated Nozzle</a></li>
       <li><a href="../../../author/shenawa_amaal"><b>Shenawa</b> Amaal</a>, <a href="../../../author/karoti_mahadev_poonam"><b>Karoti</b> Poonam</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../shen_karo.2023.3PiCMCSaTPR/">3D Printing in Construction, Mixture Characteristics, Strength, and Thermal Performance-Review</a></li>
     </ol>
 </div>

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 26
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a>, <a href="../../../author/feng_pan"><b>Feng</b> Pan</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../shao_feng_zuo_wang.2022.ANMfItPoCBM/">A Novel Method for Improving the Printability of Cement-Based Materials:<br/>Controlling the Releasing of Capsules Containing Chemical Admixtures</a> (17)</li>
+        <li><a href="../../../author/shao_lijing"><b>Shao</b> Lijing</a>, <a href="../../../author/feng_pan"><b>Feng</b> Pan</a>, <a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/wang_haochuan"><b>Wang</b> Haochuan</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../shao_feng_zuo_wang.2022.ANMfItPoCBM/">A Novel Method for Improving the Printability of Cement-Based Materials:<br/>Controlling the Releasing of Capsules Containing Chemical Admixtures</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -15,7 +15,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-030-35533-3_16" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-35533-3_16" target="_blank">10.1007/978-3-030-35533-3_16</a>
 
-<a href="../../../author/annappa_vani"><b>Annappa</b>&nbsp;Vani</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <a href="../../../author/vitorino_joao"><b>Vitorino</b>&nbsp;João</a></span><br>
+<a href="../../../author/annappa_vani"><b>Annappa</b>&nbsp;Vani</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <a href="../../../author/vitorino_joao"><b>Vitorino</b>&nbsp;João</a></span><br>
 Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 121-130
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -59,13 +59,13 @@ Contribution - Proceedings of the International Conference on Automation Innovat
 
     ```bibtex
     @inproceedings{anna_gasp_mate_vito.2021.3PfCUSS,
-      author            = "Vani Annappa and Florindo Gaspar and Artur Mateus and João Vitorino",
+      author            = "Vani Annappa and Florindo José Mendes Gaspar and Artur Mateus and João Vitorino",
       title             = "3D Printing for Construction Using Stone Sludge",
       doi               = "10.1007/978-3-030-35533-3_16",
       year              = "2021",
       pages             = "121--130",
       booktitle         = "Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions",
-      editor            = "Hugo Rodrigues and Florindo Gaspar and Paulo Fernandes and Artur Mateus",
+      editor            = "Hugo Rodrigues and Florindo José Mendes Gaspar and Paulo Fernandes and Artur Mateus",
     }
 
 
@@ -75,10 +75,10 @@ Contribution - Proceedings of the International Conference on Automation Innovat
 
     === "IEEE"
 
-    <span id="iee">V. Annappa, F. Gaspar, A. Mateus and J. Vitorino, “3D Printing for Construction Using Stone Sludge”, in <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>,  2021, pp. 121–130. doi: 10.1007/978-3-030-35533-3_16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">V. Annappa, F. J. M. Gaspar, A. Mateus and J. Vitorino, “3D Printing for Construction Using Stone Sludge”, in <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>,  2021, pp. 121–130. doi: 10.1007/978-3-030-35533-3_16.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Annappa, Vani, Florindo Gaspar, Artur Mateus, and João Vitorino. “3D Printing for Construction Using Stone Sludge”. In <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>, edited by Hugo Rodrigues, Florindo Gaspar, Paulo Fernandes, and Artur Mateus, 121–30, 2021. https://doi.org/10.1007/978-3-030-35533-3_16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Annappa, Vani, Florindo José Mendes Gaspar, Artur Mateus, and João Vitorino. “3D Printing for Construction Using Stone Sludge”. In <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>, edited by Hugo Rodrigues, Florindo José Mendes Gaspar, Paulo Fernandes, and Artur Mateus, 121–30, 2021. https://doi.org/10.1007/978-3-030-35533-3_16.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

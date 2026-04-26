@@ -19,31 +19,31 @@ search:
     : 2020-03-26
     
     Last Contribution
-    : 2025-10-21
+    : 2026-03-16
 
     Number Contributions
-    : 19
+    : 20
 
     Number Citations
-    : 207
+    : 222
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (18)</li>
         <li><a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a> (5)</li>
+        <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (3)</li>
         <li><a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> (3)</li>
-        <li><a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a> (2)</li>
         <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a> (94)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a>, <a href="../../../author/courteille_eric"><b>Courteille</b> Eric</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../perr_jacq_rang_cour.2020.NoL/">Nailing of Layers:<br/>A Promising Way to Reinforce Concrete 3D Printing Structures</a> (98)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (76)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (77)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (74)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (65)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (57)</li>
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (16)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (15)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (13)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (15)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (11)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (11)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/araujo_fazio_sabrina"><b>Araujo</b> Sabrina</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maie_sesh_jacq_arau.2026.PEMSRwSBf3P/">Programming Earthen Materials’ Shape Retention with Synergistic Biopolymers for 3D Printing</a></li>
   <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jacq_kawa_span.2025.UtSBu3PCBM/">Unveiling the Structural Build-up 3D Printable Cement-Based Materials:<br/>From Small Amplitude Oscillatory Shear (SAOS) To Extensional (SAOE) Rheological Workflows</a></li>
   <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>

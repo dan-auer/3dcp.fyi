@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_wagn_khan_das.2024.SPoLS3PWStACL/">Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load</a> (9)</li>
+        <li><a href="../../../author/silveira_vinicius-gil_marcos"><b>Silveira</b> Marcos</a>, <a href="../../../author/wagner_s_juliana"><b>Wagner</b> Juliana</a>, <a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_wagn_khan_das.2024.SPoLS3PWStACL/">Structural Performance of Large-Scale 3D Printed Walls Subjected to Axial Compression Load</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,8 @@ search:
     <ol>
         <li><a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> (5)</li>
         <li><a href="../../../author/khanverdi_mohsen"><b>Khanverdi</b> Mohsen</a> (3)</li>
-        <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (2)</li>
-        <li><a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a> (2)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (2)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (2)</li>
         <li><a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a> (2)</li>
     </ol>
 

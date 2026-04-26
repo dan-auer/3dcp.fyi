@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 118
+    : 132
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a> (52)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_hui"><b>Ma</b> Hui</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_li_ma.2021.CCBwHBSaMHPCfLS3P/">Cementitious Composites Blending with High Belite-Sulfoaluminate and Medium-Heat Portland Cements for Large-Scale 3D Printing</a> (55)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (24)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (22)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (28)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (26)</li>
         <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (12)</li>
         <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (8)</li>
         <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (8)</li>

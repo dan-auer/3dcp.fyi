@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/shen_jianyu"><b>Shen</b> Jianyu</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_xiao_shen_ding.2024.PaMAo3PCwMSDfB/">Printability and Mechanical Anisotropy of 3D Printed Concrete with Manufactured Sand Derived from Basalt</a> (1)</li>
+        <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/shen_jianyu"><b>Shen</b> Jianyu</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../bai_xiao_shen_ding.2024.PaMAo3PCwMSDfB/">Printability and Mechanical Anisotropy of 3D Printed Concrete with Manufactured Sand Derived from Basalt</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> (1)</li>
+        <li><a href="../../../author/guo_guanqin"><b>Guo</b> Guanqin</a> (1)</li>
+        <li><a href="../../../author/jia_ru"><b>Jia</b> Ru</a> (1)</li>
+        <li><a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a> (1)</li>
+        <li><a href="../../../author/zheng_yuanxun"><b>Zheng</b> Yuanxun</a> (1)</li>
     </ol>
 
 </div>

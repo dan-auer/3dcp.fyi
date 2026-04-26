@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 2
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a> (2)</li>
+        <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a>, <a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a>, <a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a>, <a href="../../../author/huang_chia-yun"><b>Huang</b> Chia-Yun</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xue_wang_lee_huan.2025.DoS3PCM/">Development of Sustainable 3D Printing Concrete Materials:<br/>Impact of Natural Minerals and Wastes at High Replacement Ratios</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (1)</li>
+        <li><a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>

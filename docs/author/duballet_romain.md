@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 817
+    : 829
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a> (555)</li>
+        <li><a href="../../../author/gosselin_m_clement"><b>Gosselin</b> Clément</a>, <a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a>, <a href="../../../author/roux_philippe"><b>Roux</b> Philippe</a>, <a href="../../../author/gaudilliere-jami_nadja"><b>Gaudillière-Jami</b> Nadja</a> et al. <a href="../../../date/2016/03">(2016-03)</a><br><a href="../../../goss_duba_roux_gaud.2016.LS3PoUHPC/">Large-Scale 3D Printing of Ultra-High-Performance Concrete:<br/>A New Processing Route for Architects and Builders</a> (563)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (27)</li>
         <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (26)</li>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (26)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (26)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (26)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (25)</li>
     </ol>
 
 </div>

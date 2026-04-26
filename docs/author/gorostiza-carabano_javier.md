@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../madr_orte_goro_olss.2023.3C/">3D Claying:<br/>3D Printing and Recycling Clay</a> (7)</li>
+        <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/ortega_sotorrio_guillermo"><b>Ortega</b> Guillermo</a>, <a href="../../../author/gorostiza-carabano_javier"><b>Gorostiza Carabaño</b> Javier</a>, <a href="../../../author/olsson_olof-emanuel_nils"><b>Olsson</b> Nils</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../madr_orte_goro_olss.2023.3C/">3D Claying:<br/>3D Printing and Recycling Clay</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a> (1)</li>
-        <li><a href="../../../author/konigsberger_markus"><b>Königsberger</b> Markus</a> (1)</li>
         <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> (1)</li>
-        <li><a href="../../../author/medina_melany"><b>Medina</b> Melany</a> (1)</li>
+        <li><a href="../../../author/mirmotalebi_seyedali"><b>Mirmotalebi</b> Seyedali</a> (1)</li>
+        <li><a href="../../../author/moran-zabala_p_jean"><b>Morán-Zabala</b> Jean</a> (1)</li>
         <li><a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a> (1)</li>
     </ol>
 

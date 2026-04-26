@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 12
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a> (8)</li>
+        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a>, <a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/sahin_remzi"><b>Şahin</b> Remzi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../tarh_tarh_sahi.2025.CRoBMi3PC/">Comprehensive Review of Binder Matrices in 3D Printing Construction:<br/>Rheological Perspectives</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a> (1)</li>
         <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/singh_k_s"><b>Singh</b> S.</a> (1)</li>
     </ol>
 
 </div>

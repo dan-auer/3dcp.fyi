@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 8
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zeng_hu_sun_liu.2025.TCBo3PPFRUHPC/">Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete</a> (8)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hu_xianwen"><b>Hu</b> Xianwen</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/liu_yue"><b>Liu</b> Yue</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../zeng_hu_sun_liu.2025.TCBo3PPFRUHPC/">Triaxial Compressive Behavior of 3D Printed PE-Fiber-Reinforced Ultra-High-Performance Concrete</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> (1)</li>
         <li><a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a> (1)</li>
         <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a> (1)</li>
-        <li><a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
+        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (1)</li>
     </ol>
 

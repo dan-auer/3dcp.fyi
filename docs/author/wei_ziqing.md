@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lyu_elch_wang_sun.2024.MPaAAoR3PCIPF/">Mechanical Performance and Anisotropic Analysis of Rubberised 3D Printed Concrete Incorporating PP-Fiber</a> (5)</li>
+        <li><a href="../../../author/lyu_xin"><b>Lyu</b> Xin</a>, <a href="../../../author/elchalakani_mohamed"><b>Elchalakani</b> Mohamed</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lyu_elch_wang_sun.2024.MPaAAoR3PCIPF/">Mechanical Performance and Anisotropic Analysis of Rubberised 3D Printed Concrete Incorporating PP-Fiber</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (2)</li>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
         <li><a href="../../../author/li_baidian"><b>Li</b> Baidian</a> (1)</li>
-        <li><a href="../../../author/liu_chang"><b>Liu</b> Chang</a> (1)</li>
         <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (1)</li>
         <li><a href="../../../author/shang_jiaqi"><b>Shang</b> Jiaqi</a> (1)</li>
     </ol>

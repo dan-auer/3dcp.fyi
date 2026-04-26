@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a> (12)</li>
+        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/chen_yuwen"><b>Chen</b> Yuwen</a>, <a href="../../../author/li_dongdong"><b>Li</b> Dongdong</a>, <a href="../../../author/wang_yang"><b>Wang</b> Yang</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../liu_chen_li_wang.2024.SotFBaAo3PPFRC/">Study on the Fracture Behavior and Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
+        <li><a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> (2)</li>
         <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (2)</li>
-        <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a> (1)</li>
-        <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
     </ol>
 
 </div>

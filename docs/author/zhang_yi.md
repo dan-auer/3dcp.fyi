@@ -25,7 +25,7 @@ search:
     : 23
 
     Number Citations
-    : 135
+    : 146
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a> (39)</li>
+        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (7)</li>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (6)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (8)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (7)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (6)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (6)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
     </ol>
 
 </div>

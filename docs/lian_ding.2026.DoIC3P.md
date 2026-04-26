@@ -87,8 +87,9 @@ Journal Article - Cement and Concrete Research, Vol. 199, No. 108032
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/sun_yuting"><b>Sun</b> Yuting</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>, <a href="../../../author/du_qianyu"><b>Du</b> Qianyu</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_sun_mbab_du.2026.3PCSSwPKEPME/">3D-Printed Concrete Structural Supercapacitor with PVA-KOH Enhanced Polymer Mortar Electrolyte</a></li>
     </ol>
 </div>
 

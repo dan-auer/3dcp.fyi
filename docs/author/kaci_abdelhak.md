@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 19
+    : 25
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (4)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
         <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (3)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (3)</li>
-        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
     </ol>
 
 </div>

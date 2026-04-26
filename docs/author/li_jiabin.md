@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 36
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a> (36)</li>
+        <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

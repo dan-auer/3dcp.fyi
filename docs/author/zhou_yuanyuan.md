@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 19
+    : 21
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../liu_wang_ma_li.2023.UTSWMftFPEo3PC/">U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete:<br/>A Novel Reinforcing Approach</a> (19)</li>
+        <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../liu_wang_ma_li.2023.UTSWMftFPEo3PC/">U-Type Steel-Wire-Mesh for the Flexural Performance Enhancement of 3D Printed Concrete:<br/>A Novel Reinforcing Approach</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
-        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> (3)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (3)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (3)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (3)</li>
         <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (3)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
     </ol>
 
 </div>

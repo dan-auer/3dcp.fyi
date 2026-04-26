@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a> (6)</li>
+        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a>, <a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kili_soli_omra_ozbu.2024.EoCNoRaMPo3PCC/">Effects of Cellulose Nanofibrils on Rheological and Mechanical Properties of 3D Printable Cement Composites</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     <ol>
         <li><a href="../../../author/colosi_m_lisa"><b>Colosi</b> Lisa</a> (1)</li>
         <li><a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a> (1)</li>
-        <li><a href="../../../author/gdeh_tawfeeq"><b>Gdeh</b> Tawfeeq</a> (1)</li>
         <li><a href="../../../author/matos_ricardo_paulo"><b>de Matos</b> Paulo</a> (1)</li>
+        <li><a href="../../../author/runge_troy"><b>Runge</b> Troy</a> (1)</li>
         <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a> (1)</li>
     </ol>
 

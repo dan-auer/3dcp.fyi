@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a> (3)</li>
+        <li><a href="../../../author/mohamed_a_ibrahim"><b>Mohamed</b> Ibrahim</a>, <a href="../../../author/senthil_n_kumar"><b>Senthil</b> Kumar</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_sent.2024.3PCUPPC/">3D Printed Concrete Using Portland-Pozzolana-Cement:<br/>Fly-Ash-Based</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,11 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
-        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (1)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
+        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (1)</li>
-        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (1)</li>
+        <li><a href="../../../author/singh_k_s"><b>Singh</b> S.</a> (1)</li>
     </ol>
 
 </div>

@@ -19,44 +19,44 @@ search:
     : 2025-05-06
     
     Last Contribution
-    : 2025-09-01
+    : 2026-02-25
 
     Number Contributions
-    : 3
+    : 5
 
     Number Citations
-    : 9
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> (3)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (3)</li>
+        <li><a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> (2)</li>
         <li><a href="../../../author/das_b_b"><b>Das</b> B.</a> (2)</li>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
-        <li><a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> (1)</li>
-        <li><a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> (1)</li>
-        <li><a href="../../../author/snehal_k"><b>Snehal</b> K.</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a> (9)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (27)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (26)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (19)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (13)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (31)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (30)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (24)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (22)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
         <li><a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a> (2)</li>
-        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/qazi_nadeem"><b>Qazi</b> Nadeem</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../barb_qazi_das_kata.2026.MLIfSMASiLS3P/">Machine Learning Integration for Smarter, More Adaptive Systems in Large-Scale 3D Printing</a></li>
+  <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a>, <a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mish_das_chan_barb.2026.TtHaPiNMQBSf3PM/">Tuning the Hydration and Printability in Nano-Modified Quaternary Binder Systems for 3D-Printed Mortar</a></li>
   <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../barb_das_adak.2025.KVItPo3PC/">Key Variables Influencing the Performance of 3D Printed Concrete:<br/>A Comprehensive Analysis</a></li>
   <li><a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/prathap_y"><b>Prathap</b> Y.</a>, <a href="../../../author/sandeep_ankit"><b>Sandeep</b> Ankit</a>, <a href="../../../author/vaghamshi_v_keval"><b>Vaghamshi</b> Keval</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../das_prat_sand_vagh.2025.RtMSRDaMCo3PC/">Reviewing the Materials Selection, Rheology, Durability, and Microstructural Characteristics of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>

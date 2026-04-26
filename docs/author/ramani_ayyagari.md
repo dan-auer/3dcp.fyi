@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ramani_ayyagari"><b>Ramani</b> Ayyagari</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rama_chen_soto.2023.QtIoC3PotCSC/">Quantifying the Impact of Concrete 3D Printing on the Construction Supply Chain</a> (9)</li>
+        <li><a href="../../../author/ramani_ayyagari"><b>Ramani</b> Ayyagari</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a>, <a href="../../../author/soto_garcia_borja"><b>Soto</b> Borja</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../rama_chen_soto.2023.QtIoC3PotCSC/">Quantifying the Impact of Concrete 3D Printing on the Construction Supply Chain</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

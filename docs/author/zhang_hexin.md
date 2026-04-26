@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/assawamankongcharoen_sirikamol"><b>Assawamankongcharoen</b> Sirikamol</a> (1)</li>
-        <li><a href="../../../author/jaturapitakkul_chai"><b>Jaturapitakkul</b> Chai</a> (1)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
         <li><a href="../../../author/sakolaree_natthanicha"><b>Sakolaree</b> Natthanicha</a> (1)</li>
         <li><a href="../../../author/sungsiri_krisana"><b>Sungsiri</b> Krisana</a> (1)</li>
-        <li><a href="../../../author/tangchirapat_weerachart"><b>Tangchirapat</b> Weerachart</a> (1)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (1)</li>
     </ol>
 
 </div>

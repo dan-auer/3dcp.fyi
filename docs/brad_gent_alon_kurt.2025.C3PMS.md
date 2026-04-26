@@ -82,8 +82,11 @@ Journal Article - Construction and Building Materials, Vol. 493, No. 143150
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../xiao_zou_ding_duan.2021.FRMw1RFA/">Fiber-Reinforced Mortar with 100% Recycled Fine Aggregates:<br/>A Cleaner Perspective on 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a>, <a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a>, <a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../brad_gent_kurt.2026.ECaEoO3PCW/">Embodied Carbon and Energy of Offsite 3D-Printed Concrete Walls</a></li>
+      <li><a href="../../../author/lolli_francesca"><b>Lolli</b> Francesca</a>, <a href="../../../author/mehlomakulu_bungane"><b>Mehlomakulu</b> Bungane</a>, <a href="../../../author/azari-jafari_hessam"><b>Azari Jafari</b> Hessam</a>, <a href="../../../author/kirchain_randolph"><b>Kirchain</b> Randolph</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../loll_mehl_azar_kirc.2026.OtSoDC/">On the Sustainability of Digital Construction:<br/>Whole Building Life Cycle Carbon Emissions According to Three Construction Techniques</a></li>
+      <li><a href="../../../author/chang_mengzhu"><b>Chang</b> Mengzhu</a>, <a href="../../../author/zeng_jun"><b>Zeng</b> Jun</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chan_zeng.2026.POAo3PAfSSH/">Performance-Oriented Assessment of 3D-Printed Architecture for Small-Scale Housing</a></li>
     </ol>
 </div>
 

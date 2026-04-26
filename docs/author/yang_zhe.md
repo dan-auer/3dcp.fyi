@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/yang_min"><b>Yang</b> Min</a> (2)</li>
         <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
         <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (1)</li>
-        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/si_qi"><b>Si</b> Qi</a>, <a href="../../../author/zhang_wenna"><b>Zhang</b> Wenna</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b> Jianqiang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../si_zhan_pan_zhen.2025.SotMaDPo3PBFRC/">Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete</a> (6)</li>
+        <li><a href="../../../author/si_qi"><b>Si</b> Qi</a>, <a href="../../../author/zhang_wenna"><b>Zhang</b> Wenna</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>, <a href="../../../author/zheng_jianqiang"><b>Zheng</b> Jianqiang</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../si_zhan_pan_zhen.2025.SotMaDPo3PBFRC/">Study on the Mechanical and Durability Properties of 3D-Printed Bamboo Fiber-Reinforced Concrete</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

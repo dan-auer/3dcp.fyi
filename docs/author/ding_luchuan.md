@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dai_tao_zhan_ding.2024.Do3PAASMC/">Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete</a> (5)</li>
+        <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../dai_tao_zhan_ding.2024.Do3PAASMC/">Development of 3D Printable Alkali-Activated Slag-Metakaolin Concrete</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a> (1)</li>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
         <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
         <li><a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a> (1)</li>

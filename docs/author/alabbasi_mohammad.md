@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 38
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a> (38)</li>
+        <li><a href="../../../author/alabbasi_mohammad"><b>Alabbasi</b> Mohammad</a>, <a href="../../../author/agkathidis_asterios"><b>Agkathidis</b> Asterios</a>, <a href="../../../author/chen_hanmei"><b>Chen</b> Hanmei</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../alab_agka_chen.2023.R3PoCBCfRBiSA/">Robotic 3D Printing of Concrete Building Components for Residential Buildings in Saudi Arabia</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,8 +50,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (2)</li>
+        <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a> (2)</li>
+        <li><a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a> (2)</li>
         <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (2)</li>
         <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (2)</li>
     </ol>

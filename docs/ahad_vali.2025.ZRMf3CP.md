@@ -77,8 +77,10 @@ Journal Article - Buildings, Vol. 15, Iss. 10, No. 1721
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/liu_tianhao"><b>Liu</b> Tianhao</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wang_ma_liu_busw.2021.ILRo3PCbtIPDoUN/">Inter-Layer Reinforcement of 3D Printed Concrete by the In-Process Deposition of U-Nails</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/tian_zehao"><b>Tian</b> Zehao</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_tian_ma_zhan.2020.ILBIo3PCwPMM/">Inter-Layer Bonding Improvement of 3D Printed Concrete with Polymer-Modified Mortar:<br/>Experiments and Molecular Dynamics Studies</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/lv_liping"><b>Lv</b> Liping</a>, <a href="../../../author/he_jing"><b>He</b> Jing</a>, <a href="../../../author/chen_jiazhe"><b>Chen</b> Jiazhe</a>, <a href="../../../author/xu_dan"><b>Xu</b> Dan</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../lv_he_chen_xu.2026.IMOOfMHC3CPvaTTEGA/">Integrated Multi-Objective Optimization for Multi-Head Collaborative 3D Concrete Printing via a Trinary-Tree Enhanced Genetic Algorithm</a></li>
+      <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maur_pand_dixi.2026.ESoVRaBBi3CPwaTIN/">Experimental Study on Void Reduction and Bonding Behavior in 3D Concrete Printing with a Trowel-Integrated Nozzle</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/armstrong_o_kristina"><b>Armstrong</b> Kristina</a>, <a href="../../../author/kamath_dipti"><b>Kamath</b> Dipti</a>, <a href="../../../author/zhao_xianhui"><b>Zhao</b> Xianhui</a>, <a href="../../../author/rencheck_l_mitchell"><b>Rencheck</b> Mitchell</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arms_kama_zhao_renc.2023.LCCEaCEoMfPCC/">Life Cycle Cost, Energy, and Carbon Emissions of Molds for Pre-Cast Concrete:<br/>Exploring the Impacts of Material-Choices and Additive Manufacturing</a> (2)</li>
+        <li><a href="../../../author/armstrong_o_kristina"><b>Armstrong</b> Kristina</a>, <a href="../../../author/kamath_dipti"><b>Kamath</b> Dipti</a>, <a href="../../../author/zhao_xianhui"><b>Zhao</b> Xianhui</a>, <a href="../../../author/rencheck_l_mitchell"><b>Rencheck</b> Mitchell</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../arms_kama_zhao_renc.2023.LCCEaCEoMfPCC/">Life Cycle Cost, Energy, and Carbon Emissions of Molds for Pre-Cast Concrete:<br/>Exploring the Impacts of Material-Choices and Additive Manufacturing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a> (1)</li>
-        <li><a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> (1)</li>
-        <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a> (1)</li>
-        <li><a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a> (1)</li>
+        <li><a href="../../../author/block_philippe"><b>Block</b> Philippe</a> (2)</li>
+        <li><a href="../../../author/honic_meliha"><b>Honic</b> Meliha</a> (2)</li>
+        <li><a href="../../../author/silvennoinen_heidi"><b>Silvennoinen</b> Heidi</a> (2)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (2)</li>
+        <li><a href="../../../author/wolf_cathrine"><b>de Wolf</b> Cathrine</a> (2)</li>
     </ol>
 
 </div>

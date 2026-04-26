@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 28
+    : 32
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a> (23)</li>
+        <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/souza-dias_leonardo"><b>Souza Dias</b> Leonardo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../barb_anjo_cabr_souz.2022.DoCf3PwRCC/">Development of Composites for 3D Printing with Reduced Cement Consumption</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> (3)</li>
         <li><a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a> (3)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (2)</li>
+        <li><a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> (2)</li>
         <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (2)</li>
         <li><a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a> (2)</li>
     </ol>

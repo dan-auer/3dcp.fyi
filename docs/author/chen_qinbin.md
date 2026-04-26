@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a> (0)</li>
+        <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a>, <a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../chen_barb_cerv.2025.FEBAo3PCIFbEBaPF/">Finite Element Buildability Analysis of 3D Printed Concrete Including Failure by Elastic Buckling and Plastic Flow</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (2)</li>
+        <li><a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a> (1)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 57
+    : 59
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a> (57)</li>
+        <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a>, <a href="../../../author/nejadi_shami"><b>Nejadi</b> Shami</a>, <a href="../../../author/sutjipto_sheila"><b>Sutjipto</b> Sheila</a>, <a href="../../../author/paul_gavin"><b>Paul</b> Gavin</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM/">Effects of Deposition-Velocity in the Presence-Absence of E6-Glass-Fiber on Extrusion-Based 3D Printed Mortar</a> (59)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
         <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (6)</li>
         <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (6)</li>
         <li><a href="../../../author/shakor_n_pshtiwan"><b>Shakor</b> Pshtiwan</a> (4)</li>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (3)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (3)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (3)</li>
     </ol>
 
 </div>

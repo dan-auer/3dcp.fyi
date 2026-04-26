@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 24
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a> (24)</li>
+        <li><a href="../../../author/motalebi_arash"><b>Motalebi</b> Arash</a>, <a href="../../../author/khondoker_abu-hasan_mohammad"><b>Khondoker</b> Mohammad</a>, <a href="../../../author/kabir_golam"><b>Kabir</b> Golam</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../mota_khon_kabi.2023.ASRoLCAo3CP/">A Systematic Review of Life Cycle Assessments of 3D Concrete Printing</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,9 @@ search:
     <ol>
         <li><a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> (2)</li>
         <li><a href="../../../author/nieswiec_martyna"><b>Nieświec</b> Martyna</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (1)</li>
         <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
     </ol>
 
 </div>

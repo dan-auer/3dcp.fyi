@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 42
+    : 44
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ozal_ylm.2020.FaHPo3HSPCaIRA/">Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications</a> (37)</li>
+        <li><a href="../../../author/ozalp_fatih"><b>Özalp</b> Fatih</a>, <a href="../../../author/yilmaz_dilsad_halit"><b>Yılmaz</b> Halit</a> <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../ozal_ylm.2020.FaHPo3HSPCaIRA/">Fresh and Hardened Properties of 3D High-Strength Printing Concrete and Its Recent Applications</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

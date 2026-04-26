@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a> (0)</li>
+        <li><a href="../../../author/yerikania_utami"><b>Yerikania</b> Utami</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a>, <a href="../../../author/poh_hien_leong"><b>Poh</b> Leong</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yeri_du_poh.2025.ACEIoABoHCM3PC/">A Comprehensive Experimental Investigation of Anisotropy Behavior on Highly Carbon-Minimized 3D Printed Concrete</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (1)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (1)</li>
+        <li><a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> (1)</li>
     </ol>
 
 </div>

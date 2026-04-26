@@ -48,8 +48,9 @@ Journal Article - Architectural Design, Vol. 84, Iss. 3, pp. 44-53
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "103 Citations"
+???+ bug "104 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mahmood_zubayer_mir"><b>Mahmood</b> Mir</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mahm_alia_hasa.2026.ABaTRoSCMf3CPRTCSCaFD/">A Bibliometric and Technical Review of Supplementary Cementitious Materials for 3D Concrete Printing: Research Trends, Current Status, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/megnet_manuel"><b>Megnet</b> Manuel</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../dorr_megn_davi_drod.2025.IoDREfS3PoCS/">Integration of Discrete Reinforcement Elements for Shotcrete 3D Printing of Complex Structures</a></li>
       <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a>, <a href="../../../author/vandenberg_aileen"><b>Vandenberg</b> Aileen</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiao_vand_lowk_mai.2025.ARAPoSTfI3CP/">Automated Robotic Assembly Planning of Space Trusses for Injection 3D Concrete Printing</a></li>
       <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../mish_baba_comb.2025.LaRPi3PGC/">Limitations and Research Priorities in 3D-Printed Geopolymer Concrete:<br/>A Perspective Contribution</a></li>

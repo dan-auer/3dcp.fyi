@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 8
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bai_yikui"><b>Bai</b> Yikui</a> (2)</li>
+        <li><a href="../../../author/arya_sampurna"><b>Arya</b> Sampurna</a> (2)</li>
+        <li><a href="../../../author/chakraborty_suman"><b>Chakraborty</b> Suman</a> (2)</li>
         <li><a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a> (2)</li>
+        <li><a href="../../../author/mandal_romio"><b>Mandal</b> Romio</a> (2)</li>
         <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a> (2)</li>
-        <li><a href="../../../author/qiao_youxin"><b>Qiao</b> Youxin</a> (2)</li>
-        <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 20
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>, <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gisl_bruh_bres_sen.2022.P3PCBSaEP/">Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>A Cradle-to-Grave Comparative Life Cycle Assessment</a> (20)</li>
+        <li><a href="../../../author/gislason_styrmir"><b>Gislason</b> Styrmir</a>, <a href="../../../author/bruhn_simon"><b>Bruhn</b> Simon</a>, <a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sen_burak"><b>Sen</b> Burak</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../gisl_bruh_bres_sen.2022.P3PCBSaEP/">Porous 3D Printed Concrete Beams Show an Environmental Promise:<br/>A Cradle-to-Grave Comparative Life Cycle Assessment</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (3)</li>
+        <li><a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> (2)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (2)</li>
+        <li><a href="../../../author/mahdy_deena"><b>El Mahdy</b> Deena</a> (2)</li>
         <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> (2)</li>
-        <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> (2)</li>
-        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (2)</li>
-        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (2)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
     </ol>
 
 </div>

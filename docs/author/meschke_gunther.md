@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 67
+    : 80
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a> (46)</li>
+        <li><a href="../../../author/reinold_michel_janis"><b>Reinold</b> Janis</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/meschke_gunther"><b>Meschke</b> Günther</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../rein_nere_mech_mesc.2022.EPSaLSPD3CPUtPFEM/">Extrusion-Process-Simulation and Layer-Shape-Prediction During 3D Concrete Printing Using the Particle-Finite-Element-Method</a> (53)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (6)</li>
-        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (6)</li>
-        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (6)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (11)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (11)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (11)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (5)</li>
         <li><a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> (5)</li>
-        <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a> (5)</li>
     </ol>
 
 </div>

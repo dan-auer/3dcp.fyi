@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 115
+    : 120
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a> (67)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/lu_jenny"><b>Lu</b> Jenny</a>, <a href="../../../author/wang_lining"><b>Wang</b> Lining</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../sun_asla_lu_wang.2021.FRLECCf3CP/">Fiber-Reinforced Lightweight Engineered Cementitious Composites for 3D Concrete Printing</a> (70)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (16)</li>
         <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> (15)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (9)</li>
-        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (8)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
     </ol>
 

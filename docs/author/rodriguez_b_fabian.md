@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 68
+    : 75
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a> (41)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/baghaie_ahmadreza"><b>Baghaie</b> Ahmadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../moin_bagh_rodr_zava.2021.QMIo3PaCCPUMCTaIA/">Quantitative Microstructural Investigation of 3D Printed and Cast Cement-Pastes Using Micro-Computed Tomography- and Image-Analysis</a> (43)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (14)</li>
-        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (11)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (16)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (13)</li>
         <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (10)</li>
-        <li><a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a> (7)</li>
-        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (7)</li>
+        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (9)</li>
+        <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> (8)</li>
     </ol>
 
 </div>

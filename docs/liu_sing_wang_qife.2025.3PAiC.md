@@ -134,8 +134,9 @@ Contribution - Multi-Material Additive Manufacturing, pp. 475-530
       <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_pan_zhou_cai.2021.MPoECCBFbEB3/">Mechanical Properties of Engineered Cementitious Composites Beams Fabricated by Extrusion-Based 3D</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/yuan_pu"><b>Yuan</b> Pu</a>, <a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a>, <a href="../../../author/huang_jie"><b>Huang</b> Jie</a>, <a href="../../../author/shi_quanbin"><b>Shi</b> Quanbin</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../yuan_wang_huan_shi.2026.FMPaEIo3PMIRFAfDaRW/">Feasibility, Mechanical Properties, and Environmental Impact of 3D-Printed Mortar Incorporating Recycled Fine Aggregates from Decoration and Renovation Waste</a></li>
     </ol>
 </div>
 

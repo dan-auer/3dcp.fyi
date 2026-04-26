@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a> (4)</li>
+        <li><a href="../../../author/krishna_s_r"><b>Krishna</b> R.</a>, <a href="../../../author/rehman_ur_asif"><b>Rehman</b> Asif</a>, <a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a>, <a href="../../../author/saha_suman"><b>Saha</b> Suman</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../kris_rehm_mish_saha.2024.AMoGCfSC/">Additive Manufacturing of Geopolymer Composites for Sustainable Construction:<br/>Critical Factors, Advancements, Challenges, and Future Directions</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a> (2)</li>
         <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> (2)</li>
         <li><a href="../../../author/xu_jie"><b>Xu</b> Jie</a> (2)</li>
-        <li><a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> (1)</li>
-        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
     </ol>
 
 </div>

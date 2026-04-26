@@ -88,8 +88,10 @@ Journal Article - Journal of Building Engineering, No. 113965
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a></li>
       <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a>, <a href="../../../author/zhu_liming"><b>Zhu</b> Liming</a>, <a href="../../../author/zhang_fan"><b>Zhang</b> Fan</a>, <a href="../../../author/yang_mijia"><b>Yang</b> Mijia</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhan_zhu_zhan_yang.2021.EoFCaAotMPo3PCC/">Effect of Fiber Content and Alignment on the Mechanical Properties of 3D Printing Cementitious Composites</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC/">Experimental Study on the Role of Defect-Driven Interfaces and Porosity in Governing the Mechanical Behavior of 3D-Printed Concrete</a></li>
+      <li><a href="../../../author/mo_jinxu"><b>Mo</b> Jinxu</a>, <a href="../../../author/lu_han"><b>Lu</b> Han</a>, <a href="../../../author/ren_fengming"><b>Ren</b> Fengming</a>, <a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mo_lu_ren_lai.2026.IoWRPSaRRotCSAaPSo3PC/">Impact of Waste Rubber Powder Size and Replacement Ratio on the Compressive Strength Anisotropy and Pore Structure of 3D Printed Concrete</a></li>
     </ol>
 </div>
 

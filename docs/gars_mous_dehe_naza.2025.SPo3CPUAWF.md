@@ -87,8 +87,9 @@ Journal Article - Scientific Reports, Vol. 15, Iss. 1
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_jianfen"><b>Luo</b> Jianfen</a>, <a href="../../../author/wang_qidong"><b>Wang</b> Qidong</a>, <a href="../../../author/wang_lijia"><b>Wang</b> Lijia</a>, <a href="../../../author/fang_mingyue"><b>Fang</b> Mingyue</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_wang_wang_fang.2026.ARotRPo3PC/">A Review of the Rheological Properties of 3D-Printed Concrete:<br/>Raw Materials, Printing Parameters, and Evolution Mechanisms</a></li>
       <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>

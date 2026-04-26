@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>, <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP/">Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing</a> (1)</li>
+        <li><a href="../../../author/gunzel_s_f"><b>Günzel</b> F.</a>, <a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kanyenze_simon_simba"><b>Kanyenze</b> Simba</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../gunz_moel_kany_krug.2024.IICSMtItCPoEB3CP/">Investigating Inherent Cement Setting Mechanisms to Improve the Constructability Performance of Extrusion-Based 3D Concrete Printing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
         <li><a href="../../../author/benjamin_babitha"><b>Benjamin</b> Babitha</a> (1)</li>
-        <li><a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> (1)</li>
-        <li><a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> (1)</li>
-        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (1)</li>
+        <li><a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> (1)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (1)</li>
         <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (1)</li>
     </ol>
 

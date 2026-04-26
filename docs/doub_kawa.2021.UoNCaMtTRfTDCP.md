@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Douba AlaEddin, Kawashima Shiho
+title: Douba Ala, Kawashima Shiho
 description:
 tags:
  - clay
@@ -21,7 +21,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.14359/51733129" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.14359/51733129" target="_blank">10.14359/51733129</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_alaeddin"><b>Douba</b>&nbsp;AlaEddin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_eddin_ala"><b>Douba</b>&nbsp;Ala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
 Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
 
 <a href="../../keyword/clay"><button class="btn">#clay</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/dimension"><button class="btn">#dimension</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/tailoring"><button class="btn">#tailoring</button></a> <a href="../../keyword/three"><button class="btn">#three</button></a> <a href="../../keyword/use"><button class="btn">#use</button></a> 
@@ -94,8 +94,8 @@ Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
       <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vare_barl_perr.2023.EaSBUo3PCPwFANCaV/">Extrusion and Structural Build-Up of 3D Printing Cement-Pastes with Fly-Ash, Nano-Clay and VMAs</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_sanj.2023.MoRMfQMMi3CP/">Mechanisms of Rheological Modifiers for Quick Mixing Method in 3D Concrete Printing</a></li>
       <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../arun_nema_khay_rame.2022.RCoUHPCf3P/">Rheological Characterization of Ultra-High-Performance Concrete for 3D Printing</a></li>
-      <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../doub_badj_kawa.2022.IoIPoRMPS/">Influence of Infill-Pattern on Reactive MgO Printed Structures</a></li>
-      <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
+      <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../doub_badj_kawa.2022.IoIPoRMPS/">Influence of Infill-Pattern on Reactive MgO Printed Structures</a></li>
+      <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
     </ol>
 </div>
 
@@ -105,7 +105,7 @@ Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
 
     ```bibtex
     @article{doub_kawa.2021.UoNCaMtTRfTDCP,
-      author            = "AlaEddin Douba and Shiho Kawashima",
+      author            = "Ala Eddin Douba and Shiho Kawashima",
       title             = "Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing",
       doi               = "10.14359/51733129",
       year              = "2021",
@@ -122,10 +122,10 @@ Journal Article - ACI Materials Journal, Vol. 118, Iss. 6, pp. 275-289
 
     === "IEEE"
 
-    <span id="iee">A. Douba  and S. Kawashima, “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 275–289, 2021, doi: 10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. E. Douba  and S. Kawashima, “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”, <i>ACI Materials Journal</i>, vol. 118, no. 6, pp. 275–289, 2021, doi: 10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Douba, AlaEddin, and Shiho Kawashima. “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 275–89. https://doi.org/10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Douba, Ala Eddin, and Shiho Kawashima. “Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing”. <i>ACI Materials Journal</i> 118, no. 6 (2021): 275–89. https://doi.org/10.14359/51733129.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

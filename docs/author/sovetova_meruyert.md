@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 21
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a> (10)</li>
+        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (3)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
-        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (2)</li>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (2)</li>
         <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (2)</li>
-        <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
     </ol>
 
 </div>

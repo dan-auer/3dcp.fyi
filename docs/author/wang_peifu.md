@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a> (9)</li>
+        <li><a href="../../../author/zhao_yanhua"><b>Zhao</b> Yanhua</a>, <a href="../../../author/meng_wei"><b>Meng</b> Wei</a>, <a href="../../../author/wang_peifu"><b>Wang</b> Peifu</a>, <a href="../../../author/qian_dongqing"><b>Qian</b> Dongqing</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhao_meng_wang_qian.2022.RPoC3PTaIESMaMDC/">Research-Progress of Concrete 3D Printing Technology and Its Equipment System, Material, and Molding-Defect-Control</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/afridi_ali_muhammad"><b>Afridi</b> Muhammad</a> (1)</li>
+        <li><a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> (2)</li>
+        <li><a href="../../../author/laflamme_simon"><b>Laflamme</b> Simon</a> (2)</li>
+        <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a> (2)</li>
+        <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (2)</li>
         <li><a href="../../../author/fang_xinjun"><b>Fang</b> Xinjun</a> (1)</li>
-        <li><a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> (1)</li>
-        <li><a href="../../../author/nelli-silva_carlos_emilio"><b>Nelli Silva</b> Emílio</a> (1)</li>
-        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (1)</li>
     </ol>
 
 </div>

@@ -48,8 +48,9 @@ Journal Article - IFAC-PapersOnLine, Vol. 58, Iss. 19, pp. 634-639
       <li><a href="../../../author/lim_sungwoo"><b>Lim</b> Sungwoo</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/austin_a_simon"><b>Austin</b> Simon</a> et al. <a href="../../../date/2011/07">(2011-07)</a><br><a href="../../../lim_busw_le_aust.2012.DiCSAMP/">Developments in Construction-Scale Additive Manufacturing Processes</a></li>
       <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../timm_vill_zijl.2026.3CPitWH/">3D Concrete Printing in the Waste Hierachy:<br/>Reduce, Reuse and Recycle</a></li>
       <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a>, <a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ciso_kowa.2025.TIotCSGoSCi3PCE/">The Influence of the Cross-Sectional Geometry on Stress Concentration in 3D Printed Concrete Elements:<br/>A Preliminary Study</a></li>
     </ol>
 </div>

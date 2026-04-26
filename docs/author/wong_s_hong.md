@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a> (0)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (1)</li>
+        <li><a href="../../../author/kiriparan_balrajh"><b>Kiriparan</b> Balrajh</a> (1)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (1)</li>
     </ol>
 
 </div>

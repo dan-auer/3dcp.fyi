@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 52
+    : 62
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a> (52)</li>
+        <li><a href="../../../author/daungwilailuk_totsawat"><b>Daungwilailuk</b> Totsawat</a>, <a href="../../../author/pheinsusom_phoonsak"><b>Pheinsusom</b> Phoonsak</a>, <a href="../../../author/pansuk_withit"><b>Pansuk</b> Withit</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../daun_phei_pans.2021.ULToLS3PCWaFEMA/">Uniaxial Load Testing of Large-Scale 3D Printed Concrete Wall and Finite-Element-Model-Analysis</a> (61)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (4)</li>
         <li><a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> (3)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (3)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (3)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
+        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
     </ol>
 
 </div>

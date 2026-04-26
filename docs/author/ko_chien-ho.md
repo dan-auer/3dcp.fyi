@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ko_chien-ho"><b>Ko</b> Chien-Ho</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../ko.2022.CaLoC3PiA/">Constraints and Limitations of Concrete 3D Printing in Architecture</a> (12)</li>
+        <li><a href="../../../author/ko_chien-ho"><b>Ko</b> Chien-Ho</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../ko.2022.CaLoC3PiA/">Constraints and Limitations of Concrete 3D Printing in Architecture</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

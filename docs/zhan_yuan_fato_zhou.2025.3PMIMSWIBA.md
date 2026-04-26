@@ -85,8 +85,10 @@ Journal Article - Cleaner Materials, No. 100358
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/li_haiyan"><b>Li</b> Haiyan</a>, <a href="../../../author/luo_aizhong"><b>Luo</b> Aizhong</a>, <a href="../../../author/zhang_xiaozhong"><b>Zhang</b> Xiaozhong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../li_luo_zhan_ma.2026.OoOPAACfEB3PTIPE/">Optimization of One-Part Alkali-Activated Concrete for Extrusion-Based 3D Printing Through Integrated Performance Evaluation</a></li>
+      <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a>, <a href="../../../author/sheikh_mazhar_taimur"><b>Sheikh</b> Taimur</a>, <a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yuan_zia_shei_irfa.2026.EIBSo3PCTMDbMoISBA/">Enhancing Interlayer Bond Strength of 3D-Printed Concrete Through Microstructural Densification by Means of Incorporating Sugarcane Bagasse Ash</a></li>
     </ol>
 </div>
 

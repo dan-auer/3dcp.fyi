@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a> (1)</li>
         <li><a href="../../../author/bhojaraja_e_b"><b>Bhojaraja</b> B.</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (1)</li>
         <li><a href="../../../author/oumam_mina"><b>Oumam</b> Mina</a> (1)</li>
         <li><a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> (1)</li>
-        <li><a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a> (1)</li>
     </ol>
 
 </div>

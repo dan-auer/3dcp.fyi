@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/shen_luming"><b>Shen</b> Luming</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>, <a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cao_shen_mukh_abba.2025.IotIBSia3PMwBSiIS/">Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces</a> (0)</li>
+        <li><a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/shen_luming"><b>Shen</b> Luming</a>, <a href="../../../author/mukherjee_abhijit"><b>Mukherjee</b> Abhijit</a>, <a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../cao_shen_mukh_abba.2025.IotIBSia3PMwBSiIS/">Improvement of the Interlayer Bonding Strength in a 3D-Printed Mortar with Biocement Sprayed into Interlayer Surfaces</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> (1)</li>
+        <li><a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/huang_zili"><b>Huang</b> Zili</a> (1)</li>
+        <li><a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a> (1)</li>
+        <li><a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> (1)</li>
     </ol>
 
 </div>

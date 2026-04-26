@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> (1)</li>
         <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a> (1)</li>
         <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a> (1)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (1)</li>
         <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (1)</li>
-        <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> (1)</li>
     </ol>
 
 </div>

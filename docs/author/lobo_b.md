@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/lobo_b"><b>Lobo</b> B.</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../blaa_lobo.2020.ARMaPS/">A Robust Mortar and Printing System</a> (7)</li>
+        <li><a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/lobo_b"><b>Lobo</b> B.</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../blaa_lobo.2020.ARMaPS/">A Robust Mortar and Printing System</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

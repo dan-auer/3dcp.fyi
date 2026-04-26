@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 5
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a> (2)</li>
+        <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/li_wengui"><b>Li</b> Wengui</a> (1)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (1)</li>
         <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (1)</li>
         <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (1)</li>
-        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (1)</li>
-        <li><a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a> (1)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (1)</li>
+        <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a> (1)</li>
     </ol>
 
 </div>

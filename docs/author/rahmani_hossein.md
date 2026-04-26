@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rahmani_hossein"><b>Rahmani</b> Hossein</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../chen_rahm_schl_copu.2024.AAtDSoD3PLCCBCMUCN/">An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate</a> (4)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/rahmani_hossein"><b>Rahmani</b> Hossein</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../chen_rahm_schl_copu.2024.AAtDSoD3PLCCBCMUCN/">An Approach to Develop Set-on-Demand 3D Printable Limestone-Calcined-Clay-Based Cementitious Materials Using Calcium-Nitrate</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> (1)</li>
-        <li><a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> (1)</li>
-        <li><a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> (1)</li>
         <li><a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> (1)</li>
+        <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a> (1)</li>
         <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (1)</li>
+        <li><a href="../../../author/silva-nunes_ueslei"><b>Silva Nunes</b> Ueslei</a> (1)</li>
     </ol>
 
 </div>

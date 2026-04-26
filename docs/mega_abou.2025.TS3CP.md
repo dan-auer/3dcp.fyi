@@ -64,8 +64,9 @@ Journal Article - Construction Materials, Vol. 5, Iss. 4, No. 80
       <li><a href="../../../author/yin_yunchao"><b>Yin</b> Yunchao</a>, <a href="../../../author/huang_jian"><b>Huang</b> Jian</a>, <a href="../../../author/wang_tiezhu"><b>Wang</b> Tiezhu</a>, <a href="../../../author/yang_rong"><b>Yang</b> Rong</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../yin_huan_wang_yang.2023.EoHMoRaPotFPLoCASB3PC/">Effect of Hydroxypropyl-Methylcellulose on Rheology and Printability of the First Printed Layer of Cement Activated Slag-Based 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/deng_zhicong"><b>Deng</b> Zhicong</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhan_deng_chen_zhan.2022.PtSYSo3PCBoFoPaToEPL/">Predicting the Static Yield-Stress of 3D Printable Concrete Based on Flowability of Paste and Thickness of Excess-Paste-Layer</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/yahaya_mat_fadzil"><b>Yahaya</b> Fadzil</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../hasa_alia_hasa_yaha.2026.D3PCwTBMIFAaSF/">Designing 3D-Printed Concrete with Ternary Blended Mortars Incorporating Fly Ash and Silica Fume:<br/>Effects of Low Water-Binder Ratios on Workability and Strength</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 137
+    : 146
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a> (103)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a> (108)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (6)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (5)</li>

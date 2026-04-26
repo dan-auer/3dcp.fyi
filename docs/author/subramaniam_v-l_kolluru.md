@@ -25,7 +25,7 @@ search:
     : 18
 
     Number Citations
-    : 95
+    : 107
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a> (38)</li>
+        <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kond_subr.2021.FoAAFASBf3CP/">Formulation of Alkali-Activated Fly-Ash-Slag Binders for 3D Concrete Printing</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a> (4)</li>
         <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> (4)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
         <li><a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> (3)</li>
-        <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a> (3)</li>
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (3)</li>
     </ol>
 

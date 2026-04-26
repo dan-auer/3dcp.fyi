@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_yuecheng"><b>Zhou</b> Yuecheng</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/li_haonian"><b>Li</b> Haonian</a>, <a href="../../../author/wang_chong"><b>Wang</b> Chong</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhou_xiao_li_wang.2025.SotRPaPoMSMMMf3P/">Study on the Rheological Properties and Printability of Multi-Scale Material Modified Mortar for 3D Printing</a> (1)</li>
+        <li><a href="../../../author/li_fuhai"><b>Li</b> Fuhai</a>, <a href="../../../author/xiao_sai"><b>Xiao</b> Sai</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/li_kepu"><b>Li</b> Kepu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_yang_li.2025.MPaAo3PCMwMMBoOPPD/">Mechanical Properties and Anisotropy of 3D-Printed Concrete Modified with Multiscale Materials Based on Optimized Printing Process Design</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> (1)</li>
-        <li><a href="../../../author/lu_qi"><b>Lu</b> Qi</a> (1)</li>
-        <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (1)</li>
+        <li><a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (1)</li>
+        <li><a href="../../../author/lu_han"><b>Lu</b> Han</a> (1)</li>
+        <li><a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> (1)</li>
     </ol>
 
 </div>

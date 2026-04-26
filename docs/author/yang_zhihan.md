@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 195
+    : 207
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a> (195)</li>
+        <li><a href="../../../author/han_yilong"><b>Han</b> Yilong</a>, <a href="../../../author/yang_zhihan"><b>Yang</b> Zhihan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../han_yang_ding_xiao.2021.EaEAo3PBwRC/">Environmental and Economic Assessment on 3D Printed Buildings with Recycled Concrete</a> (207)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (12)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (9)</li>
         <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> (7)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (6)</li>
         <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (6)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 72
+    : 81
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a> (39)</li>
+        <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
         <li><a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a> (4)</li>
-        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
     </ol>
 

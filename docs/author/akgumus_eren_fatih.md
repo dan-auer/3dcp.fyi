@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sahi_akgu_mard.2024.MaRPoFR3PCiToFCaAR/">Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio</a> (6)</li>
+        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sahi_akgu_mard.2024.MaRPoFR3PCiToFCaAR/">Mechanical and Rheological Properties of Fiber‐Reinforced 3D Printable Concrete in Terms of Fiber Content and Aspect Ratio</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
-        <li><a href="../../../author/liu_gengyuan"><b>Liu</b> Gengyuan</a> (1)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
+        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> (1)</li>
-        <li><a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> (1)</li>
     </ol>
 
 </div>

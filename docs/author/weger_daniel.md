@@ -19,13 +19,13 @@ search:
     : 2018-01-25
     
     Last Contribution
-    : 2025-06-24
+    : 2026-03-25
 
     Number Contributions
-    : 25
+    : 26
 
     Number Citations
-    : 922
+    : 958
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a> (302)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a>, <a href="../../../author/dini_enrico"><b>Dini</b> Enrico</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../lowk_dini_perr_wege.2018.PB3PiCC/">Particle-Bed 3D Printing in Concrete Construction:<br/>Possibilities and Challenges</a> (310)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (80)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (55)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (56)</li>
         <li><a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> (50)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (43)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (35)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/kostner_julia"><b>Kostner</b> Julia</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../brun_kost_wege_sten.2026.DoAMSC/">Durability of Additively Manufactured SPI Components:<br/>Influence of Layer-Related Microstructural Characteristics</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gartner_benjamin"><b>Gartner</b> Benjamin</a>, <a href="../../../author/rausch_anne"><b>Rausch</b> Anne</a>, <a href="../../../author/schiessl-pecka_angelika"><b>Schießl-Pecka</b> Angelika</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wege_gart_raus_schi.2024.RoaRSF/">Realization of a Reinforced SPI Façade:<br/>Direction-Dependent Material-Properties and Durability-Assessment</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/kuhn_alexander"><b>Kuhn</b> Alexander</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mech_kuhn_mai_nere.2024.AMwC/">Additive Manufacturing with Concrete:<br/>Guidelines for Planning and Implementing Projects</a></li>

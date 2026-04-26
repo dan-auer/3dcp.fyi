@@ -19,10 +19,10 @@ search:
     : 2023-08-31
     
     Last Contribution
-    : 2023-08-31
+    : 2026-03-09
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 3
@@ -30,9 +30,10 @@ search:
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (1)</li>
-        <li><a href="../../../author/huang_l_y"><b>Huang</b> Y.</a> (1)</li>
+        <li><a href="../../../author/sheng_r"><b>Sheng</b> R.</a> (1)</li>
+        <li><a href="../../../author/zhang_j-l"><b>Zhang</b> J.-L.</a> (1)</li>
+        <li><a href="../../../author/zhang_j-y"><b>Zhang</b> J.-Y.</a> (1)</li>
         <li><a href="../../../author/zhang_l_l"><b>Zhang</b> L.</a> (1)</li>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -63,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sheng_r"><b>Sheng</b> R.</a>, <a href="../../../author/yuan_y"><b>Yuan</b> Y.</a>, <a href="../../../author/zhang_j-y"><b>Zhang</b> J.-Y.</a>, <a href="../../../author/zhang_j-l"><b>Zhang</b> J.-L.</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS/">Optimization of Mixing Time for Printcrete Using a Non-Contact Monitoring System</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_l_y"><b>Huang</b> Y.</a>, <a href="../../../author/zhang_l_l"><b>Zhang</b> L.</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zuo_cort_huan_zhan.2023.MotDoFSfC3P/">Measurement of the Density of Formed Structures for Concrete 3D Printing</a></li>
 </ol>

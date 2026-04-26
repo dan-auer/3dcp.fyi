@@ -97,8 +97,10 @@ Journal Article - Cement and Concrete Composites, No. 106467
       <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/li_junrui"><b>Li</b> Junrui</a>, <a href="../../../author/wang_penghui"><b>Wang</b> Penghui</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../zhu_pan_li_wang.2022.RBMaSHBo3PECC/">Relationship Between Microstructure and Strain-Hardening Behavior of 3D Printed Engineered Cementitious Composites</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a>, <a href="../../../author/sun_yan"><b>Sun</b> Yan</a>, <a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../du_sun_deng_qian.2026.BPoBI3PPLSCAS/">Bending Performance of Bio-Inspired 3D Printed Porous Lattice SHCC Circular Arch Structures</a></li>
+      <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wei_jinhui"><b>Wei</b> Jinhui</a>, <a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhan_wei_chen_yu.2026.ECaTMotBBBFBa3PSHCC/">Experimental Characterization and Theoretical Modeling of the Bonding Behavior Between FRP Bars and 3D Printed Strain-Hardening Cementitious Composites</a></li>
     </ol>
 </div>
 

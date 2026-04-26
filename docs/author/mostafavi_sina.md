@@ -19,18 +19,21 @@ search:
     : 2019-08-21
     
     Last Contribution
-    : 2019-08-21
+    : 2026-04-02
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 1
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/bagheri_bahar"><b>Bagheri</b> Bahar</a> (1)</li>
         <li><a href="../../../author/du_chong"><b>Du</b> Chong</a> (1)</li>
+        <li><a href="../../../author/etemadi_ali"><b>Etemadi</b> Ali</a> (1)</li>
         <li><a href="../../../author/kemper_norbert_benjamin"><b>Kemper</b> Benjamin</a> (1)</li>
+        <li><a href="../../../author/mehan_asman"><b>Mehan</b> Asman</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -57,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/mostafavi_sina"><b>Mostafavi</b> Sina</a>, <a href="../../../author/motejano-hernandez_umberto_edgar"><b>Motejano-Hernandez</b> Edgar</a>, <a href="../../../author/bagheri_bahar"><b>Bagheri</b> Bahar</a>, <a href="../../../author/etemadi_ali"><b>Etemadi</b> Ali</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../most_mote_bagh_etem.2024.RC3PCTP/">Robotic Concrete 3D Printing Continuous Toolpath Planning:<br/>From Single Curve to Voxel-Based Systems for Design-to-Production of Urban Furnitures</a></li>
   <li><a href="../../../author/mostafavi_sina"><b>Mostafavi</b> Sina</a>, <a href="../../../author/kemper_norbert_benjamin"><b>Kemper</b> Benjamin</a>, <a href="../../../author/du_chong"><b>Du</b> Chong</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../most_kemp_du.2019.MHiA/">Materializing Hybridity in Architecture:<br/>Design to Robotic Production of Multi-Materiality in Multiple Scales</a></li>
 </ol>

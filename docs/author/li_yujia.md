@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 9
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,8 +53,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
-        <li><a href="../../../author/huang_chih-hong"><b>Huang</b> Chih-Hong</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/shima_kanako"><b>Shima</b> Kanako</a> (1)</li>
         <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (1)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (1)</li>
     </ol>

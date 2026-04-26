@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 18
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC/">Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>Meso-Scale Finite-Element-Analysis</a> (12)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/lu_pengyuan"><b>Lu</b> Pengyuan</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/dong_liang"><b>Dong</b> Liang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_lu_liu_dong.2024.EoSFwDOoMPo3PSFRC/">Effect of Steel-Fiber with Different Orientations on Mechanical Properties of 3D Printed Steel-Fiber-Reinforced Concrete:<br/>Meso-Scale Finite-Element-Analysis</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (2)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (3)</li>
         <li><a href="../../../author/gong_yifan"><b>Gong</b> Yifan</a> (2)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (2)</li>
-        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (2)</li>
+        <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> (2)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (2)</li>
         <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (2)</li>
     </ol>
 

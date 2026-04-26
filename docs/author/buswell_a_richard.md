@@ -19,13 +19,13 @@ search:
     : 2006-06-30
     
     Last Contribution
-    : 2026-01-15
+    : 2026-04-21
 
     Number Contributions
-    : 41
+    : 42
 
     Number Citations
-    : 4995
+    : 5211
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a> (990)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a>, <a href="../../../author/dirrenberger_justin"><b>Dirrenberger</b> Justin</a> <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../busw_silv_jone_dirr.2018.3PUCE/">3D Printing Using Concrete-Extrusion:<br/>A Roadmap for Research</a> (1034)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (122)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (125)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (97)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (87)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (83)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (77)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (89)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (88)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (79)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (208)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (149)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (130)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (122)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (109)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (216)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (156)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (132)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (125)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (110)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jamhiri_babak"><b>Jamhiri</b> Babak</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../jamh_busw_blan.2026.HHIY3PC/">How Homogenous Is Your 3D Printed Concrete?:<br/>A New Approach to Assessing Anisotropy Using Weibull Statistics</a></li>
   <li><a href="../../../author/liu_xingzi"><b>Liu</b> Xingzi</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/cavalaro_sergio"><b>Cavalaro</b> Sergio</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_busw_cava_xu.2026.IoIFVotFMaCSo3PC/">Influence of Inter-Filament Voids on the Failure Mechanism and Compressive Strength of 3D Printed Concrete</a></li>
   <li><a href="../../../author/crook_thomas"><b>Crook</b> Thomas</a>, <a href="../../../author/li_matthew"><b>Li</b> Matthew</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/allinson_david"><b>Allinson</b> David</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../croo_li_busw_alli.2025.AHPo3PC/">Anisotropic Hygrothermal Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

@@ -19,26 +19,26 @@ search:
     : 2025-02-26
     
     Last Contribution
-    : 2025-02-26
+    : 2026-02-16
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> (1)</li>
-        <li><a href="../../../author/lin_can"><b>Lin</b> Can</a> (1)</li>
-        <li><a href="../../../author/lu_jian-xin"><b>Lu</b> Jian-Xin</a> (1)</li>
-        <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a> (1)</li>
+        <li><a href="../../../author/feng_xiaodi"><b>Feng</b> Xiaodi</a> (1)</li>
+        <li><a href="../../../author/lu_yifan"><b>Lu</b> Yifan</a> (1)</li>
+        <li><a href="../../../author/min_benzhi"><b>Min</b> Benzhi</a> (1)</li>
+        <li><a href="../../../author/yue_honghao"><b>Yue</b> Honghao</a> (1)</li>
         <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a> (2)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
-        <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> (1)</li>
-        <li><a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> (1)</li>
-        <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a> (1)</li>
-        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (2)</li>
+        <li><a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> (2)</li>
+        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a> (2)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (2)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (1)</li>
     </ol>
 
 </div>
@@ -64,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ma_siqi"><b>Ma</b> Siqi</a>, <a href="../../../author/zhang_feng"><b>Zhang</b> Feng</a>, <a href="../../../author/fu_shuai"><b>Fu</b> Shuai</a>, <a href="../../../author/min_benzhi"><b>Min</b> Benzhi</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../ma_zhan_fu_min.2026.BMBo3PLRSBGfMaTP/">Bioinspired Multilayer Barriers of 3D-Printed Lunar Regolith Simulant-Based Geopolymers for Mechanical and Thermal Protection</a></li>
   <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../duan_tao_lin_jiao.2025.3PDDMoLMitPM/">3D Printing-Driven Dynamic Migration of Lightweight Microspheres in the Printable Mortars:<br/>Experiment and Modelling</a></li>
 </ol>

@@ -19,19 +19,19 @@ search:
     : 2023-09-02
     
     Last Contribution
-    : 2025-11-05
+    : 2026-01-31
 
     Number Contributions
-    : 10
+    : 11
 
     Number Citations
-    : 34
+    : 39
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (10)</li>
         <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (9)</li>
-        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (9)</li>
-        <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> (3)</li>
+        <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a> (4)</li>
         <li><a href="../../../author/dziura_pawel"><b>Dziura</b> Paweł</a> (2)</li>
         <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a> (2)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/hutyra_adam"><b>Hutyra</b> Adam</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/gora_michal"><b>Góra</b> Michał</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../huty_maro_rudz_gora.2026.RoMPTf3CP/">Review of Material Processing Technology for 3D Concrete Printing</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/shah_muzammil-ali_syed"><b>Shah</b> Syed</a>, <a href="../../../author/tran_hung_doan"><b>Tran</b> Doan</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../maro_rudz_shah_tran.2025.DoEFCMf3PUFAaDW/">Development of Eco-Friendly Construction Materials for 3D Printing Using Fly Ash and Demolition Waste</a></li>
   <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../maro_rudz_hebd.2025.RCi3CPM/">Recycled Components in 3D Concrete Printing Mixes:<br/>A Review</a></li>
   <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a>, <a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a>, <a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rudz_maro_hebd.2025.CoPaTCoCaAAHBi3PFRFC/">Comparison of Porosity and Thermal Conductivity of Concrete and Alkali-Activated Hybrid Binders in 3D-Printed Fiber-Reinforced Foamed Composites</a></li>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 4
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a> (4)</li>
+        <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (1)</li>
+        <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> (2)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
-        <li><a href="../../../author/runge_troy"><b>Runge</b> Troy</a> (1)</li>
-        <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> (1)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
     </ol>
 

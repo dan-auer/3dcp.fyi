@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 170
+    : 181
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a> (91)</li>
+        <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a> (98)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (4)</li>
         <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (4)</li>
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (4)</li>
         <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (4)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (3)</li>
     </ol>
 
 </div>

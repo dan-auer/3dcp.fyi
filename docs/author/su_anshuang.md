@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a> (0)</li>
+        <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a>, <a href="../../../author/su_anshuang"><b>Su</b> Anshuang</a>, <a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_su_gao.2025.IoIPo3PMOCBMbCC/">Improvement of Interlayer Performance of 3D Printable Magnesium Oxysulfate Cement-Based Materials by Carbonation Curing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a> (1)</li>
+        <li><a href="../../../author/li_wei"><b>Li</b> Wei</a> (1)</li>
+        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a> (1)</li>
+        <li><a href="../../../author/lu_mingyang"><b>Lu</b> Mingyang</a> (1)</li>
+        <li><a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a> (1)</li>
     </ol>
 
 </div>

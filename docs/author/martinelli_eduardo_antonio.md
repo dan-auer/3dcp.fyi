@@ -19,13 +19,13 @@ search:
     : 2022-08-19
     
     Last Contribution
-    : 2025-03-04
+    : 2026-02-06
 
     Number Contributions
-    : 4
+    : 5
 
     Number Citations
-    : 25
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a> (18)</li>
+        <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/dantas_f-o-a_andre"><b>Dantas</b> André</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../arau_mart_cabr_dant.2022.TPoCLCf3P/">Thermal Performance of Cement-Leca Composites for 3D Printing</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (19)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (13)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (12)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (10)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (8)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (14)</li>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (14)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (14)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/lima-andrade_everton"><b>Lima Andrade</b> Everton</a>, <a href="../../../author/silva-nunes_ueslei"><b>Silva Nunes</b> Ueslei</a>, <a href="../../../author/souza_alysson-brilhante-faheina_paulo"><b>Souza</b> Paulo</a>, <a href="../../../author/vieira-nobrega_cecilia_ana"><b>Vieira Nóbrega</b> Ana</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../lima_silv_souz_viei.2026.AoAf3PLBCM/">Assessment of Accelerators for 3D-Printed LC3-Based Cementitious Materials</a></li>
   <li><a href="../../../author/araujo_a_risia"><b>Araújo</b> Rísia</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../arau_mart_cabr_nune.2025.EoLECALOtPoCCf3P/">Effect of Lightweight Expanded Clay Aggregate (LECA) On the Printability of Cementitious Compositions for 3D Printing</a></li>
   <li><a href="../../../author/nobrega_christinna-secundo-lopes_anna"><b>Nóbrega</b> Anna</a>, <a href="../../../author/queiroz-junior_carlos_cleanto"><b>Queiroz Junior</b> Cleanto</a>, <a href="../../../author/souza_rossine-medeiros_wendell"><b>Souza</b> Wendell</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../nobr_quei_souz_cabr.2024.CMfSEAUCCi3P/">Computational Modeling for Structural Element Analysis Using Cement Composites in 3D Printing</a></li>
   <li><a href="../../../author/diniz_alessandro-almeida_hugo"><b>Diniz</b> Hugo</a>, <a href="../../../author/martinelli_eduardo_antonio"><b>Martinelli</b> Antônio</a>, <a href="../../../author/cabral_cavalcanti_kleber"><b>Cabral</b> Kleber</a>, <a href="../../../author/ferreira_landolfo-silva_ruan"><b>Ferreira</b> Ruan</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P/">Synergistic Effects of the Use of Metakaolin, Sand and Water on the Properties of Cementitious Composites for 3D Printing</a></li>

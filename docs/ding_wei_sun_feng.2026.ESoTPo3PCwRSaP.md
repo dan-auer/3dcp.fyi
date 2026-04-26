@@ -85,8 +85,9 @@ Journal Article - Construction and Building Materials, Vol. 506, No. 144934
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a>, <a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a>, <a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a>, <a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_wang_li_yang.2026.RPaMftCoLEoEB3PC/">Recent Progress and Methodology for the Characterization of Layer-Effects of Extrusion-Based 3D-Printed Concrete</a></li>
     </ol>
 </div>
 

@@ -19,41 +19,41 @@ search:
     : 2021-12-01
     
     Last Contribution
-    : 2025-01-08
+    : 2026-03-25
 
     Number Contributions
-    : 8
+    : 9
 
     Number Citations
-    : 55
+    : 57
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a> (3)</li>
+        <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a> (4)</li>
         <li><a href="../../../author/obermeier_nico"><b>Obermeier</b> Nico</a> (3)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (3)</li>
         <li><a href="../../../author/wiese_felix"><b>Wiese</b> Felix</a> (3)</li>
-        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (2)</li>
         <li><a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a> (27)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a>, <a href="../../../author/korte_waldemar"><b>Korte</b> Waldemar</a>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b> Fabian</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../wege_gehl_kort_meye.2021.BR/">Building Rethought:<br/>3D Concrete Printing in Building Practice</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (31)</li>
-        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (25)</li>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (23)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (35)</li>
+        <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (29)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (26)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (22)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (5)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (4)</li>
         <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (4)</li>
         <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a> (4)</li>
         <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (3)</li>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/kostner_julia"><b>Kostner</b> Julia</a>, <a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../brun_kost_wege_sten.2026.DoAMSC/">Durability of Additively Manufactured SPI Components:<br/>Influence of Layer-Related Microstructural Characteristics</a></li>
   <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a>, <a href="../../../author/kustermann_andrea"><b>Kustermann</b> Andrea</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../brun_sten_kust.2024.3PBPUDCBaRS/">3D Particle-Bed Printing Using Different Cementitious Binders and Recycled Sand</a></li>
   <li><a href="../../../author/obermeier_nico"><b>Obermeier</b> Nico</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/wiese_felix"><b>Wiese</b> Felix</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ober_rich_wies_sten.2024.LGWPaRE3PCBC/">Low Global-Warming-Potential and Resource-Efficient 3D Printing Cement-Based Concrete</a></li>
   <li><a href="../../../author/brunner_kim"><b>Brunner</b> Kim</a>, <a href="../../../author/tandon_kai"><b>Tandon</b> Kai</a>, <a href="../../../author/stengel_thorsten"><b>Stengel</b> Thorsten</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../brun_tand_sten.2024.HCo3PBPCS/">Hydration Characteristics of 3D Particle-Bed Printed Cementitious Specimens</a></li>

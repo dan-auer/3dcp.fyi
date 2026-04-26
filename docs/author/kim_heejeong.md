@@ -19,35 +19,35 @@ search:
     : 2020-07-08
     
     Last Contribution
-    : 2025-11-18
+    : 2026-04-02
 
     Number Contributions
-    : 5
+    : 6
 
     Number Citations
-    : 36
+    : 39
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a> (2)</li>
-        <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a> (1)</li>
+        <li><a href="../../../author/alipanahi_pouya"><b>Alipanahi</b> Pouya</a> (1)</li>
         <li><a href="../../../author/ellersick_liam"><b>Ellersick</b> Liam</a> (1)</li>
         <li><a href="../../../author/gehlen_christoph"><b>Gehlen</b> Christoph</a> (1)</li>
-        <li><a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> (1)</li>
+        <li><a href="../../../author/shekarchi_mohammad"><b>Shekarchi</b> Mohammad</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a> (32)</li>
+        <li><a href="../../../author/weger_daniel"><b>Weger</b> Daniel</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/talke_daniel"><b>Talke</b> Daniel</a>, <a href="../../../author/henke_klaudius"><b>Henke</b> Klaudius</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../wege_kim_talk_henk.2020.LC3PbSCA/">Lightweight Concrete 3D Printing by Selective Cement-Activation:<br/>Investigation of Thermal Conductivity, Strength and Water-Distribution</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (11)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (12)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (9)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
-        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (8)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/azarhomayun_fazel"><b>Azarhomayun</b> Fazel</a>, <a href="../../../author/alipanahi_pouya"><b>Alipanahi</b> Pouya</a>, <a href="../../../author/zeng_hang"><b>Zeng</b> Hang</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../azar_alip_zeng_kim.2026.EaNIoPSCi3PCUNZ/">Experimental and Numerical Investigation of Plastic Shrinkage Control in 3D-Printed Concrete Using Natural Zeolite</a></li>
   <li><a href="../../../author/baah_tawiah_thomas"><b>Baah</b> Thomas</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a>, <a href="../../../author/latypov_marat"><b>Latypov</b> Marat</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../baah_kim_laty.2025.MOAEAfO3CPMaPICaDWfSC/">Multi-Objective Adaptive Experimental Approach for Optimizing 3D Concrete Printing Mixtures and Parameters Incorporating Construction and Demolition Waste for Sustainable Construction</a></li>
   <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kurn_kim.2025.EtPo3PLCCCUHCAaSF/">Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume</a></li>
   <li><a href="../../../author/pederson_federico"><b>Pederson</b> Federico</a>, <a href="../../../author/ellersick_liam"><b>Ellersick</b> Liam</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../pede_elle_kim.2025.ARoLRBAAMaSRfUaaCM/">A Review of Lunar Regolith Based Alkali Activated Materials and Sintered Regolith for Use as a Construction Material</a></li>

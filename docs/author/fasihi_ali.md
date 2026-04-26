@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 27
+    : 33
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a> (22)</li>
+        <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../fasi_libr.2024.FPtD/">From Pumping to Deposition:<br/>A Comprehensive Review of Test-Methods for Characterizing Concrete-Printability</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,11 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (2)</li>
-        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
-        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
-        <li><a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> (1)</li>
-        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>
+        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (3)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (3)</li>
+        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (3)</li>
+        <li><a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b> Caleb</a> (2)</li>
+        <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> (2)</li>
     </ol>
 
 </div>

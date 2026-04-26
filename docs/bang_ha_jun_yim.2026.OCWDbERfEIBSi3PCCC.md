@@ -67,8 +67,9 @@ Journal Article - Construction and Building Materials, Vol. 506, No. 145015
       <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zuo_qinxin"><b>Zuo</b> Qinxin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yu_zuo_zhan_pan.2024.AIoEtBPo3PCPFaPCC/">An Investigation on Enhancing the Bonding Properties of 3D Printed Concrete Permanent Formwork and Post-Casted Concrete</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/hwang_young_ju"><b>Hwang</b> Ju</a>, <a href="../../../author/ahn_jin-hee"><b>Ahn</b> Jin-Hee</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../bang_ha_hwan_ahn.2026.HRCw3PF/">Hybrid RC Columns with 3D Printed Formworks:<br/>A Case Study on Process-Informed Structural Integrity</a></li>
     </ol>
 </div>
 

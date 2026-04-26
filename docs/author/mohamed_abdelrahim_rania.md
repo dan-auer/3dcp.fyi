@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 14
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b> Rania</a>, <a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b> Abdelaziz</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_moha.2024.EtEBo3PTiCC/">Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction:<br/>A Review</a> (14)</li>
+        <li><a href="../../../author/mohamed_abdelrahim_rania"><b>Mohamed</b> Rania</a>, <a href="../../../author/mohamed_farouk-a_abdelaziz"><b>Mohamed</b> Abdelaziz</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../moha_moha.2024.EtEBo3PTiCC/">Exploring the Environmental Benefits of 3D Printing Technology in Concrete Construction:<br/>A Review</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
         <li><a href="../../../author/she_wei"><b>She</b> Wei</a> (2)</li>
         <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a> (2)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (2)</li>
-        <li><a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a> (1)</li>
-        <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (2)</li>
+        <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chov_rich_dac.2025.FASFFfAM/">Fabrication-Aware Structural Form-Finding for Additive Manufacturing:<br/>An Equilibrium-Based Approach</a> (1)</li>
+        <li><a href="../../../author/chovghi_frederic"><b>Chovghi</b> Frederic</a>, <a href="../../../author/richter_christiane"><b>Richter</b> Christiane</a>, <a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../chov_rich_dac.2025.FASFFfAM/">Fabrication-Aware Structural Form-Finding for Additive Manufacturing:<br/>An Equilibrium-Based Approach</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/dacunto_pierluigi"><b>D'Acunto</b> Pierluigi</a> (1)</li>
-        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (1)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (1)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (1)</li>
         <li><a href="../../../author/xiao_yinan"><b>Xiao</b> Yinan</a> (1)</li>

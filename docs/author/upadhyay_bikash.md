@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a> (1)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mish_upad_das.2025.EtRoMiBaTB3PM/">Exploring the Role of Metakaolin in Binary and Ternary Blended 3D Printable Mortars:<br/>Deep Insights into Printability</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
-        <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a> (1)</li>
-        <li><a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> (1)</li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (2)</li>
+        <li><a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> (2)</li>
+        <li><a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> (2)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/sadrolodabaee_payam"><b>Sadrolodabaee</b> Payam</a> (1)</li>
     </ol>
 
 </div>

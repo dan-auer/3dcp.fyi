@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,8 +53,8 @@ search:
         <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a> (1)</li>
         <li><a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> (1)</li>
         <li><a href="../../../author/li_chao"><b>Li</b> Chao</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
         <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (1)</li>
-        <li><a href="../../../author/zheng_shuyi"><b>Zheng</b> Shuyi</a> (1)</li>
     </ol>
 
 </div>

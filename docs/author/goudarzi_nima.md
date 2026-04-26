@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/troemner_matthew"><b>Troemner</b> Matthew</a>, <a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/meehan_jonathan"><b>Meehan</b> Jonathan</a>, <a href="../../../author/johnson_benton"><b>Johnson</b> Benton</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../troe_ramy_meeh_john.2022.A3PCAtMHAaF/">A 3D Printing-Centered Approach to Mars-Habitat Architecture and Fabrication</a> (6)</li>
+        <li><a href="../../../author/troemner_matthew"><b>Troemner</b> Matthew</a>, <a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/meehan_jonathan"><b>Meehan</b> Jonathan</a>, <a href="../../../author/johnson_benton"><b>Johnson</b> Benton</a> et al. <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../troe_ramy_meeh_john.2022.A3PCAtMHAaF/">A 3D Printing-Centered Approach to Mars-Habitat Architecture and Fabrication</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/an_mingzhe"><b>An</b> Mingzhe</a> (1)</li>
-        <li><a href="../../../author/han_song"><b>Han</b> Song</a> (1)</li>
         <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (1)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (1)</li>
         <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> (1)</li>
         <li><a href="../../../author/zhang_lulu"><b>Zhang</b> Lulu</a> (1)</li>
     </ol>

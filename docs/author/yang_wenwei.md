@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 82
+    : 100
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a> (33)</li>
+        <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (13)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (12)</li>
         <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (9)</li>
         <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (7)</li>
         <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (7)</li>

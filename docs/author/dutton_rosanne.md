@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 136
+    : 138
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a> (136)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a>, <a href="../../../author/dutton_rosanne"><b>Dutton</b> Rosanne</a> <a href="../../../date/1998/01">(1998-01)</a><br><a href="../../../khos_dutt.1998.IRPPMLSSSCSiaWVoM/">Innovative Rapid Prototyping Process Makes Large-Sized, Smooth-Surfaced Complex Shapes in a Wide Variety of Materials</a> (138)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,7 @@ search:
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (8)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (8)</li>
         <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (6)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (5)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (5)</li>
     </ol>
 
 </div>

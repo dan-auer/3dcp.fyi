@@ -63,8 +63,9 @@ Journal Article - Construction and Building Materials, Vol. 495, No. 143639
       <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../xu_chen_zhao_li.2021.PaECoAM3PWPCBMBotRSM/">Printability and Efflorescence-Control of Admixtures-Modified 3D Printed White Portland-Cement-Based Materials Based on the Response-Surface-Methodology</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/sun_yuting"><b>Sun</b> Yuting</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>, <a href="../../../author/du_qianyu"><b>Du</b> Qianyu</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_sun_mbab_du.2026.3PCSSwPKEPME/">3D-Printed Concrete Structural Supercapacitor with PVA-KOH Enhanced Polymer Mortar Electrolyte</a></li>
     </ol>
 </div>
 

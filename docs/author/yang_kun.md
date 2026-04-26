@@ -19,20 +19,20 @@ search:
     : 2025-01-20
     
     Last Contribution
-    : 2025-03-24
+    : 2026-02-11
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
     : 2
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> (2)</li>
-        <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a> (2)</li>
+        <li><a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> (3)</li>
+        <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a> (3)</li>
         <li><a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> (1)</li>
-        <li><a href="../../../author/yang_fan"><b>Yang</b> Fan</a> (1)</li>
+        <li><a href="../../../author/fei_linlin"><b>Fei</b> Linlin</a> (1)</li>
         <li><a href="../../../author/yuan_jingbo"><b>Yuan</b> Jingbo</a> (1)</li>
     </ol>
     
@@ -43,7 +43,7 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (4)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (3)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (3)</li>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_lianzhi"><b>Zhang</b> Lianzhi</a>, <a href="../../../author/li_xiao"><b>Li</b> Xiao</a>, <a href="../../../author/lin_lin"><b>Lin</b> Lin</a>, <a href="../../../author/ren_changzai"><b>Ren</b> Changzai</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P/">Analytical and Experimental Study on Fluid–Solid Coupling of Variable-Caliber Nozzles for Concrete 3D Printing</a></li>
   <li><a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/yuan_jingbo"><b>Yuan</b> Jingbo</a>, <a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yang_fan"><b>Yang</b> Fan</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yang_yuan_wang_yang.2025.Oo3PNSatIoPPotFPoUC/">Optimization of 3D Printing Nozzle Structure and the Influence of Process Parameters on the Forming Performance of Underwater Concrete</a></li>
   <li><a href="../../../author/wang_yibo"><b>Wang</b> Yibo</a>, <a href="../../../author/yan_ming"><b>Yan</b> Ming</a>, <a href="../../../author/yang_kun"><b>Yang</b> Kun</a>, <a href="../../../author/ao_chenyang"><b>Ao</b> Chenyang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_yan_yang_ao.2025.EoWSotECo3PoCM/">Effect of Wall-Slip on the Extrusion-Characteristics of 3D Printing of Cementitious Materials</a></li>
 </ol>

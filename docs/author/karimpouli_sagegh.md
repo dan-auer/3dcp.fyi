@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b> Sagegh</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b> Hamed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA/">Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates</a> (0)</li>
+        <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a>, <a href="../../../author/karimpouli_sagegh"><b>Karimpouli</b> Sagegh</a>, <a href="../../../author/yang_liming"><b>Yang</b> Liming</a>, <a href="../../../author/ramandi_lamei_hamed"><b>Ramandi</b> Hamed</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA/">Investigation of Interlayer Bonding and Pore Characteristics in 3D-Printed High-Strength Mortar Incorporating Recycled Lightweight Aggregates</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a> (1)</li>
+        <li><a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> (1)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (1)</li>
     </ol>
 
 </div>

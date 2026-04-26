@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 13
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../xion_nie_liu_li.2024.OoFRLRCMDf3P/">Optimization of Fiber-Reinforced Lightweight Rubber-Concrete Mix-Design for 3D Printing</a> (9)</li>
+        <li><a href="../../../author/xiong_baocheng"><b>Xiong</b> Baocheng</a>, <a href="../../../author/nie_ping"><b>Nie</b> Ping</a>, <a href="../../../author/liu_huanbao"><b>Liu</b> Huanbao</a>, <a href="../../../author/li_xiaoxi"><b>Li</b> Xiaoxi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../xion_nie_liu_li.2024.OoFRLRCMDf3P/">Optimization of Fiber-Reinforced Lightweight Rubber-Concrete Mix-Design for 3D Printing</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a> (2)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (2)</li>
         <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> (2)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (2)</li>
-        <li><a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> (2)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (2)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (2)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (2)</li>
     </ol>
 

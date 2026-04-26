@@ -19,19 +19,20 @@ search:
     : 2026-01-01
     
     Last Contribution
-    : 2026-01-01
+    : 2026-02-25
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a> (1)</li>
-        <li><a href="../../../author/li_zheng"><b>Li</b> Zheng</a> (1)</li>
-        <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> (1)</li>
+        <li><a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a> (2)</li>
+        <li><a href="../../../author/li_zheng"><b>Li</b> Zheng</a> (2)</li>
+        <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a> (2)</li>
+        <li><a href="../../../author/pan_yuxin"><b>Pan</b> Yuxin</a> (1)</li>
         <li><a href="../../../author/zhou_xuhong"><b>Zhou</b> Xuhong</a> (1)</li>
     </ol>
     
@@ -42,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (2)</li>
-        <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (1)</li>
-        <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a> (1)</li>
-        <li><a href="../../../author/mogra_mihir"><b>Mogra</b> Mihir</a> (1)</li>
-        <li><a href="../../../author/zidan_yousef"><b>Abu Zidan</b> Yousef</a> (1)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (3)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (2)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (2)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -59,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhan_chen_zhou_li.2026.EaFESo3PCGLTCB/">Experimental and Finite Element Studies of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
   <li><a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a>, <a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a>, <a href="../../../author/li_zheng"><b>Li</b> Zheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_chen_zhou_li.2026.EIotMPo3PCGLTCB/">Experimental Investigation on the Mechanical Performance of 3D-Printed Concrete-Glued Laminated Timber Composite Beams</a></li>
 </ol>

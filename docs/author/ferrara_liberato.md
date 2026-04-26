@@ -19,18 +19,18 @@ search:
     : 2014-03-26
     
     Last Contribution
-    : 2025-12-19
+    : 2026-04-10
 
     Number Contributions
-    : 28
+    : 32
 
     Number Citations
-    : 454
+    : 506
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (9)</li>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (8)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (12)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (11)</li>
         <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a> (7)</li>
         <li><a href="../../../author/marcucci_andrea"><b>Marcucci</b> Andrea</a> (7)</li>
         <li><a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a> (6)</li>
@@ -38,24 +38,24 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a> (194)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a> (209)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (63)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (55)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (47)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (46)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (43)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (75)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (61)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (60)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (55)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (53)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (32)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (24)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (20)</li>
-        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (20)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (22)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (21)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (16)</li>
     </ol>
 
@@ -64,6 +64,10 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rizz_bos_wolf_ferr.2026.AUFSEVFEMftSo3CPAPS/">A Unified Fluid-Solid Elasto-Viscoplastic Finite Element Model for the Simulation of 3D Concrete Printing Across Process Scales</a></li>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rizz_ferr_crem.2026.HFFEMoML3PwCT/">High-Fidelity Finite Element Modelling of Multi-Layer 3D Printing with Complex Toolpaths</a></li>
+  <li><a href="../../../author/alzoubi_y"><b>Alzoubi</b> Y.</a>, <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cibelli_antonio"><b>Cibelli</b> Antonio</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../alzo_muci_ferr_cibe.2026.NMoIAi3PCwL/">Numerical Modelling of Interlayer Adhesion in 3D-Printed Concrete with LDPM</a></li>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../rizz_lant_ferr_crem.2026.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>
   <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rizz_lant_ferr_crem.2025.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>

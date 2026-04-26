@@ -63,8 +63,9 @@ Contribution - Proceedings of the 41st International Symposium on Automation and
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/ruan_shaoqin"><b>Ruan</b> Shaoqin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../weng_li_ruan_wong.2020.CEEaPAoaCBUFT3PaaPCA/">Comparative Economic, Environmental and Productivity-Assessment of a Concrete Bathroom Unit Fabricated Through 3D Printing and a Pre-Cast Approach</a></li>
       <li><a href="../../../author/yao_yue"><b>Yao</b> Yue</a>, <a href="../../../author/hu_mingming"><b>Hu</b> Mingming</a>, <a href="../../../author/maio_francesco"><b>Maio</b> Francesco</a>, <a href="../../../author/cucurachi_stefano"><b>Cucurachi</b> Stefano</a> <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../yao_hu_maio_cucu.2020.LCAo3PGC/">Life Cycle Assessment of 3D Printing Geopolymer Concrete:<br/>An Ex‐Ante Study</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../koca.2026.EAoWDMi3CPaCiPCTaBIMSLCAF/">Environmental Assessment of Waste-Derived Materials in 3D Concrete Printing and Cast-in-Place Construction Through a BIM-Integrated Multi-Scale Life Cycle Assessment Framework</a></li>
       <li><a href="../../../author/norouzi_yasaman"><b>Norouzi</b> Yasaman</a>, <a href="../../../author/dixit_kumar_manish"><b>Dixit</b> Manish</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../noro_dixi.2026.ARoAaCoUHf3PiC/">A Review of Advantages and Challenges of Using Hempcrete for 3D Printing in Construction</a></li>
     </ol>
 </div>

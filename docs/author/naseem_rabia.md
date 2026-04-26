@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 18
+    : 19
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>, <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../shah_shen_nase_yao.2021.IoPCMoCBfC3P/">Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing</a> (18)</li>
+        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/naseem_rabia"><b>Naseem</b> Rabia</a>, <a href="../../../author/yao_yonggang"><b>Yao</b> Yonggang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../shah_shen_nase_yao.2021.IoPCMoCBfC3P/">Influence of Phase-Change-Material on Concrete Behavior for Construction 3D Printing</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

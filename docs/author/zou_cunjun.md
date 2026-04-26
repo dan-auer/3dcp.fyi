@@ -19,21 +19,21 @@ search:
     : 2025-05-10
     
     Last Contribution
-    : 2025-05-10
+    : 2026-01-21
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 1
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/hu_jiawei"><b>Hu</b> Jiawei</a> (1)</li>
-        <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a> (1)</li>
-        <li><a href="../../../author/shi_hao"><b>Shi</b> Hao</a> (1)</li>
-        <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> (1)</li>
-        <li><a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> (1)</li>
+        <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a> (2)</li>
+        <li><a href="../../../author/shi_hao"><b>Shi</b> Hao</a> (2)</li>
+        <li><a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> (2)</li>
+        <li><a href="../../../author/chen_jiacheng"><b>Chen</b> Jiacheng</a> (1)</li>
+        <li><a href="../../../author/duan_lan"><b>Duan</b> Lan</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -64,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/shi_hao"><b>Shi</b> Hao</a>, <a href="../../../author/wu_ye"><b>Wu</b> Ye</a>, <a href="../../../author/chen_jiacheng"><b>Chen</b> Jiacheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../luo_shi_wu_chen.2026.IFPFaTPo3PCwDO/">Inter-Filaments Pore Features and Tensile Properties of 3D Printed Concrete with Different Overlap</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
 </ol>

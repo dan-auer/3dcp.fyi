@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a> (9)</li>
+        <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ulub.2022.LSCI/">Lunar Shelter Construction Issues:<br/>The State of the Art Towards 3D Printing Technologies</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

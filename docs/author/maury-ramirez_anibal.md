@@ -43,7 +43,7 @@ search:
         <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (1)</li>
         <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (1)</li>
         <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a> (1)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
         <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
     </ol>
     

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a> (2)</li>
+        <li><a href="../../../author/wang_guihua"><b>Wang</b> Guihua</a>, <a href="../../../author/zhou_jiguo"><b>Zhou</b> Jiguo</a>, <a href="../../../author/liu_haoyun"><b>Liu</b> Haoyun</a>, <a href="../../../author/zhang_jianming"><b>Zhang</b> Jianming</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN/">Rheological Properties and Mechanical Durability of 3D-Printed Concrete Based on Low-Field NMR</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cundy_andrew"><b>Cundy</b> Andrew</a> (1)</li>
         <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
         <li><a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (1)</li>
-        <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (1)</li>
+        <li><a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> (1)</li>
     </ol>
 
 </div>

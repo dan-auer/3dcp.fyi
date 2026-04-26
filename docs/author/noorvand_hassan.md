@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 54
+    : 64
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (33)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (16)</li>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (9)</li>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (7)</li>
-        <li><a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a> (6)</li>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (6)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (22)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (15)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (10)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (9)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (9)</li>
     </ol>
 
 </div>

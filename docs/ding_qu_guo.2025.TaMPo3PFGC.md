@@ -101,8 +101,9 @@ Journal Article - Journal of Building Engineering, No. 113144
       <li><a href="../../../author/zandifaez_peyman"><b>Zandifaez</b> Peyman</a>, <a href="../../../author/shen_zhenglai"><b>Shen</b> Zhenglai</a>, <a href="../../../author/sorgenfrei_reese"><b>Sorgenfrei</b> Reese</a>, <a href="../../../author/li_yucen"><b>Li</b> Yucen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../zand_shen_sorg_li.2024.PtFLaUL3PCC/">Pathways to Formulate Lightweight and Ultra-Lightweight 3D Printable Cementitious Composites</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mo_jinxu"><b>Mo</b> Jinxu</a>, <a href="../../../author/lu_han"><b>Lu</b> Han</a>, <a href="../../../author/ren_fengming"><b>Ren</b> Fengming</a>, <a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mo_lu_ren_lai.2026.IoWRPSaRRotCSAaPSo3PC/">Impact of Waste Rubber Powder Size and Replacement Ratio on the Compressive Strength Anisotropy and Pore Structure of 3D Printed Concrete</a></li>
     </ol>
 </div>
 

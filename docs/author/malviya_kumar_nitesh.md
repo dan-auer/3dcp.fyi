@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a> (3)</li>
+        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/malviya_kumar_nitesh"><b>Malviya</b> Nitesh</a>, <a href="../../../author/kumar_shivam"><b>Kumar</b> Shivam</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../saha_bish_malv_kuma.2024.AoWMUa3CPDA/">Aspects of Waste-Material-Utilization and 3D Concrete Printer Development-Approach:<br/>A Review</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a> (1)</li>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
         <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (1)</li>
         <li><a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a> (1)</li>
         <li><a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> (1)</li>

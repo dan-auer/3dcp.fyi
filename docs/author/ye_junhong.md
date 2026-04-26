@@ -19,13 +19,13 @@ search:
     : 2021-01-22
     
     Last Contribution
-    : 2025-11-04
+    : 2026-01-29
 
     Number Contributions
-    : 21
+    : 22
 
     Number Citations
-    : 466
+    : 541
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a> (156)</li>
+        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a> (176)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (18)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (17)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (17)</li>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (15)</li>
-        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (15)</li>
-        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (14)</li>
+        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (17)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/sajib_hasan_mahabub"><b>Sajib</b> Mahabub</a>, <a href="../../../author/arif_arifuggaman"><b>Arif</b> Arifuggaman</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../uddi_saji_arif_ye.2026.FMtS/">From Mix to Structure:<br/>A Critical Review of 3D Printed Fiber Reinforced Concrete (3DP-FRC)</a></li>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../chen_yu_ye_yu.2026.3PHPFRCC/">3D Printed High-Performance Fiber-Reinforced Cementitious Composites:<br/>Fresh, Mechanical, and Microstructural Properties</a></li>
   <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../teng_ye_yu_weng.2025.MMPtSEIaFPi3CP/">Multi-Material Printing to Simultaneously Enhance Interlayer and Flexural Performance in 3D Concrete Printing</a></li>

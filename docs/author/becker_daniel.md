@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 65
+    : 71
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a> (54)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a>, <a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../busw_xu_beck_dobr.2022.GQAf3CPaHCMUaSTPfBC/">Geometric Quality Assurance for 3D Concrete Printing and Hybrid Construction Manufacturing Using a Standardised Test Part for Benchmarking Capability</a> (56)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (11)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (12)</li>
         <li><a href="../../../author/kolawole_temitope_john"><b>Kolawole</b> John</a> (8)</li>
         <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a> (6)</li>
         <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (5)</li>

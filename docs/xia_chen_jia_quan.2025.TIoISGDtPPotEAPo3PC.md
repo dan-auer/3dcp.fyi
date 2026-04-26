@@ -74,8 +74,10 @@ Journal Article - Cement and Concrete Composites, No. 106365
       <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../xia_chen_chen_jia.2024.UaMtPDo3PCBoVCB/">Understanding and Modeling the Plastic Deformation of 3D Printed Concrete Based on Viscoelastic Creep Behavior</a></li>
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_guosheng"><b>Wang</b> Guosheng</a>, <a href="../../../author/zhang_ziyi"><b>Zhang</b> Ziyi</a>, <a href="../../../author/tao_junwei"><b>Tao</b> Junwei</a>, <a href="../../../author/tian_gang"><b>Tian</b> Gang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_zhan_tao_tian.2026.AFBoPFR3PC/">Anisotropic Fracture Behavior of PAN Fiber Reinforced 3D Printed Concrete:<br/>Crack Evolution and Fiber Orientation Toughening Mechanism</a></li>
+      <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../xia_chen_yu_zhan.2026.PDINUGDoMaRPW3PC/">Plastic Deformation Induced Non-Uniform Global Distribution of Microstructure and Related Performances Within 3D Printed Concrete</a></li>
     </ol>
 </div>
 

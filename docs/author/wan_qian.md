@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 106
+    : 114
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/li_zhi"><b>Li</b> Zhi</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../bi_xia_tran_li.2022.CCZHTPfLFAM/">Continuous Contour-Zigzag Hybrid Tool-Path for Large-Format Additive Manufacturing</a> (25)</li>
+        <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
-        <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (8)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (8)</li>
+        <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a> (8)</li>
         <li><a href="../../../author/wang_qiang"><b>Wang</b> Qiang</a> (8)</li>
-        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (6)</li>
     </ol>
 
 </div>

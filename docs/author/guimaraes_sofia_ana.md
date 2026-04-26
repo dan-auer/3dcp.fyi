@@ -19,26 +19,26 @@ search:
     : 2021-02-18
     
     Last Contribution
-    : 2026-01-02
+    : 2026-03-25
 
     Number Contributions
-    : 22
+    : 23
 
     Number Citations
-    : 161
+    : 178
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> (12)</li>
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (11)</li>
-        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (8)</li>
+        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (9)</li>
         <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a> (8)</li>
         <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a> (7)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a> (93)</li>
+        <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a> (99)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -46,17 +46,17 @@ search:
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (41)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (31)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (29)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (27)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (29)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (7)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (10)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (6)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (6)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (6)</li>
-        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (5)</li>
         <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (5)</li>
-        <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (5)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../pess_luca_simo_guim.2026.DPia3PMWS/">Drying Process in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
   <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a>, <a href="../../../author/lopes_joana"><b>Lopes</b> Joana</a>, <a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jesu_lope_teix_guim.2026.AoSCPo3PBE/">Application of Self-Cleaning Products on 3D-Printed Building Elements:<br/>An Experimental Study</a></li>
   <li><a href="../../../author/nadais_mariana"><b>Nadais</b> Mariana</a>, <a href="../../../author/cunha_p_rui"><b>Cunha</b> Rui</a>, <a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/delgado_m-p-q_joao"><b>Delgado</b> João</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nada_cunh_pess_delg.2026.EIEQTRTM/">Enhancing Indoor Environmental Quality Through Real-Time Monitoring:<br/>A Case Study of a 3D-Printed House</a></li>
   <li><a href="../../../author/latorraca_f_tassia"><b>Latorraca</b> Tássia</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../lato_rang_guim.2026.O3PCPTPwMMaGD/">Optimizing 3D-Printed Concrete Panels’ Thermal Performance with Materials, Metrics, and Generative Design</a></li>

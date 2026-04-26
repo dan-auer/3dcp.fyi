@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a>, <a href="../../../author/lee_hoon_sang"><b>Lee</b> Sang</a>, <a href="../../../author/kim_hyun_jae"><b>Kim</b> Jae</a>, <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lee_lee_kim_jeon.2024.ILBSo3PCMwUHPCM/">Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix</a> (7)</li>
+        <li><a href="../../../author/lee_jung_yoon"><b>Lee</b> Yoon</a>, <a href="../../../author/lee_hoon_sang"><b>Lee</b> Sang</a>, <a href="../../../author/kim_hyun_jae"><b>Kim</b> Jae</a>, <a href="../../../author/jeong_hoseong"><b>Jeong</b> Hoseong</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lee_lee_kim_jeon.2024.ILBSo3PCMwUHPCM/">Inter-Layer Bond Strength of 3D Printed Concrete Members with Ultra-High-Performance Concrete Mix</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a> (1)</li>
-        <li><a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> (1)</li>
-        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (1)</li>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (2)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
+        <li><a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> (2)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
-        <li><a href="../../../author/sun_bin"><b>Sun</b> Bin</a> (1)</li>
     </ol>
 
 </div>

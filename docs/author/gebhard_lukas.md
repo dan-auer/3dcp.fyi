@@ -25,7 +25,7 @@ search:
     : 18
 
     Number Citations
-    : 475
+    : 499
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a> (153)</li>
+        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../gebh_mata_anto_dill.2021.SBo3PCBwVRS/">Structural Behavior of 3D Printed Concrete Beams with Various Reinforcement-Strategies</a> (163)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (28)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (25)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (26)</li>
         <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (24)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (23)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (20)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (24)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (23)</li>
     </ol>
 
 </div>

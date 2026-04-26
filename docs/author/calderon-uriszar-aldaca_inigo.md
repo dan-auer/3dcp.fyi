@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 56
+    : 61
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a> (17)</li>
+        <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../aram_cald_puen.2022.BSoSRPttH3PCL/">Bonding Strength of Steel-Rebars Perpendicular to the Hardened 3D Printed Concrete-Layers</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
     <ol>
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
-        <li><a href="../../../author/ahmad_furqan"><b>Ahmad</b> Furqan</a> (2)</li>
+        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (3)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (2)</li>
-        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (2)</li>
     </ol>
 
 </div>

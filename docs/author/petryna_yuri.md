@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 19
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a> (17)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a>, <a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR/">Evaluation of the Unconfined Uniaxial Compression-Test to Study the Evolution of Apparent Printable Mortar-Properties During the Early-Age Transition-Regime</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (5)</li>
-        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (3)</li>
+        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (6)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (4)</li>
         <li><a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a> (2)</li>
-        <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a> (2)</li>
         <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (2)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (2)</li>
     </ol>
 
 </div>

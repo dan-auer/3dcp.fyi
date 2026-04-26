@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 74
+    : 80
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a> (47)</li>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/zahabi_mehrzad"><b>Zahabi</b> Mehrzad</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../hoja_mema_zaha_wu.2022.BWRf3CP/">Barbed-Wire Reinforcement for 3D Concrete Printing</a> (51)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

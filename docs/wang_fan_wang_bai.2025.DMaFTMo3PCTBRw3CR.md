@@ -81,8 +81,11 @@ Journal Article - Engineering Structures, Vol. 344, No. 121368
       <li><a href="../../../author/zhang_dan"><b>Zhang</b> Dan</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/guan_jingyuan"><b>Guan</b> Jingyuan</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_ma_guan_wang.2023.CBoUPTPCSCCFb3PCPF/">Cyclic Behavior of Unbonded Post-Tensioned Pre-Cast Segmental Concrete Columns Fabricated by 3D Printed Concrete Permanent Formwork</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../trip_nair_raja_sant.2026.DBBAo3PCaINS/">Deformation-Based Buildability Assessment of 3D Printed Concrete and Its Numerical Simulation</a></li>
+      <li><a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/lin_yini"><b>Lin</b> Yini</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../tang_yan_han_lin.2026.FMo3PFATCRoIBaMP/">Failure Mechanisms of 3D Printed Formwork Arches: The Critical Role of Interfacial Bond and Manufacturing Parameters</a></li>
+      <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_wang_ma.2026.ASST3PC/">Advancing Sustainable Structures Through 3D Printed Concrete:<br/>Reinforcement Methods and Structural Design Philosophy</a></li>
     </ol>
 </div>
 

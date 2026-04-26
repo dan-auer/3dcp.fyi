@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../miri_pola_baaj.2023.FEAoHPo3PC/">Finite-Element-Analysis of Hardened Properties of 3D Printed Concrete</a> (3)</li>
+        <li><a href="../../../author/miri_sadat_zahra"><b>Miri</b> Zahra</a>, <a href="../../../author/polak_anna_maria"><b>Polak</b> Maria</a>, <a href="../../../author/baaj_hassan"><b>Baaj</b> Hassan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../miri_pola_baaj.2023.FEAoHPo3PC/">Finite-Element-Analysis of Hardened Properties of 3D Printed Concrete</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,8 +50,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (1)</li>
-        <li><a href="../../../author/meral-akgul_cagla"><b>Meral Akgul</b> Cagla</a> (1)</li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
         <li><a href="../../../author/shaban_nefize"><b>Shaban</b> Nefize</a> (1)</li>
         <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (1)</li>
         <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (1)</li>

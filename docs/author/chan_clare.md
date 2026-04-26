@@ -30,13 +30,13 @@ search:
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a> (1)</li>
-        <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a> (1)</li>
+        <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a> (1)</li>
         <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a> (9)</li>
+        <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -62,5 +62,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
+  <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
 </ol>

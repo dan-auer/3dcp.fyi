@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a> (1)</li>
+        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/quan_hongzhu"><b>Quan</b> Hongzhu</a>, <a href="../../../author/liu_cheng"><b>Liu</b> Cheng</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../chen_zhan_quan_liu.2024.EATDMPo3PCwCA/">Early-Age Time-Dependent Mechanical Properties of 3D Printed Concrete with Coarse Aggregates</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/pei_qiang"><b>Pei</b> Qiang</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (1)</li>
+        <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a> (1)</li>
         <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> (1)</li>
-        <li><a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a> (1)</li>
-        <li><a href="../../../author/yang_qianli"><b>Yang</b> Qianli</a> (1)</li>
-        <li><a href="../../../author/yu_ruifang"><b>Yu</b> Ruifang</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/ramallo_laura"><b>Ramallo</b> Laura</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../marq_rama_vare_barl.2024.3PAAoCLMwMPCM/">3D Printing Architectural Applications of Cement-Lime Mortars with Microencapsulated Phase-Change-Material</a> (1)</li>
+        <li><a href="../../../author/marquez_martin_alvaro"><b>Márquez</b> Álvaro</a>, <a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a>, <a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../marq_vare_barl.2024.RaEAEo3PCLFPwNCaM/">Rheology and Early-Age Evaluation of 3D Printable Cement-Limestone-Filler-Pastes with Nano-Clays and Methylcellulose</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (1)</li>
+        <li><a href="../../../author/gomez_enrique"><b>Gomez</b> Enrique</a> (1)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (1)</li>
     </ol>
 
 </div>

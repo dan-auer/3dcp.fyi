@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 25
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a> (23)</li>
+        <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (3)</li>
         <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a> (2)</li>
-        <li><a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a> (2)</li>
         <li><a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> (2)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (2)</li>
         <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (2)</li>
     </ol>
 

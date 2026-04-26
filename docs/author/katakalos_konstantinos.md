@@ -16,41 +16,47 @@ search:
     : <a href="https://orcid.org/0000-0001-6272-1071" target="_blank">0000-0001-6272-1071</a>
 
     First Contribution
-    : 2025-09-05
+    : 2025-06-18
     
     Last Contribution
     : 2025-09-05
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a> (1)</li>
+        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a> (2)</li>
+        <li><a href="../../../author/boutsikas_paraschos"><b>Boutsikas</b> Paraschos</a> (1)</li>
         <li><a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a> (1)</li>
         <li><a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a> (1)</li>
+        <li><a href="../../../author/michailidis_nikolas"><b>Michailidis</b> Nikolas</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a> (0)</li>
+        <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (4)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (4)</li>
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (2)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (2)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/anil_ozgur"><b>Anıl</b> Özgür</a> (1)</li>
+        <li><a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b> Kaan</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
+        <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a> (1)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
     </ol>
 
 </div>
@@ -59,4 +65,5 @@ search:
 
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/gkountas_charalampos"><b>Gkountas</b> Charalampos</a>, <a href="../../../author/melidis_lazaros"><b>Melidis</b> Lazaros</a>, <a href="../../../author/katakalos_konstantinos"><b>Katakalos</b> Konstantinos</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chor_gkou_meli_kata.2025.SPEo3PCWTNM/">Seismic Performance Evaluation of 3D-Printed Concrete Walls Through Numerical Methods</a></li>
+  <li><a href="../../../author/boutsikas_paraschos"><b>Boutsikas</b> Paraschos</a>, <a href="../../../author/chortis_alexandros"><b>Chortis</b> Alexandros</a>, <a href="../../../author/argyros_apostolos"><b>Argyros</b> Apostolos</a>, <a href="../../../author/michailidis_nikolas"><b>Michailidis</b> Nikolas</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bout_chor_argy_mich.2025.IDaEoa3PTOPB/">Innovative Design and Experiment of a 3D Printed Topology Optimized Pedestrian Bridge</a></li>
 </ol>

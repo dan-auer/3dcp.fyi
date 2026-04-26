@@ -19,7 +19,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-031-25795-7_6" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-25795-7_6" target="_blank">10.1007/978-3-031-25795-7_6</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9411-5823" title="ORCID: 0000-0002-9411-5823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_archer_tomas"><b>de&nbsp;Carvalho</b>&nbsp;Tomás</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9411-5823" title="ORCID: 0000-0002-9411-5823" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carvalho_archer_tomas"><b>de&nbsp;Carvalho</b>&nbsp;Tomás</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
 Contribution - Sustainable and Digital Building, pp. 73-87
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -62,13 +62,13 @@ Contribution - Sustainable and Digital Building, pp. 73-87
 
     ```bibtex
     @inproceedings{josh_carv_gasp.2023.IoFBBFAiCf3P,
-      author            = "Arpan Joshi and Tomás Archer de Carvalho and Florindo Gaspar",
+      author            = "Arpan Joshi and Tomás Archer de Carvalho and Florindo José Mendes Gaspar",
       title             = "Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing",
       doi               = "10.1007/978-3-031-25795-7_6",
       year              = "2023",
       pages             = "73--87",
       booktitle         = "Sustainable and Digital Building",
-      editor            = "Florindo Gaspar and Artur Mateus",
+      editor            = "Florindo José Mendes Gaspar and Artur Mateus",
     }
 
 
@@ -78,10 +78,10 @@ Contribution - Sustainable and Digital Building, pp. 73-87
 
     === "IEEE"
 
-    <span id="iee">A. Joshi, T. A. de Carvalho and F. Gaspar, “Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing”, in <i>Sustainable and Digital Building</i>,  2023, pp. 73–87. doi: 10.1007/978-3-031-25795-7_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. Joshi, T. A. de Carvalho and F. J. M. Gaspar, “Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing”, in <i>Sustainable and Digital Building</i>,  2023, pp. 73–87. doi: 10.1007/978-3-031-25795-7_6.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Joshi, Arpan, Tomás Archer de Carvalho, and Florindo Gaspar. “Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing”. In <i>Sustainable and Digital Building</i>, edited by Florindo Gaspar and Artur Mateus, 73–87, 2023. https://doi.org/10.1007/978-3-031-25795-7_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Joshi, Arpan, Tomás Archer de Carvalho, and Florindo José Mendes Gaspar. “Incorporation of Forest Biomass-Based Fly-Ash in Cement for 3D Printing”. In <i>Sustainable and Digital Building</i>, edited by Florindo José Mendes Gaspar and Artur Mateus, 73–87, 2023. https://doi.org/10.1007/978-3-031-25795-7_6.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

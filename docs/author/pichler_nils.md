@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../sakh_raza_wang_fan.2025.AoPTCiN3PT/">Assessment of Post-Tension Capacity in Novel 3D-Printed Topology:<br/>Optimized Formwork via Load Transfer Testing</a> (0)</li>
+        <li><a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a>, <a href="../../../author/fan_haifeng"><b>Fan</b> Haifeng</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS/">Design Optimization and Assessment of Stay-in-Place 3D Printed Concrete Formwork for Slabs</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (1)</li>
+        <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a> (1)</li>
     </ol>
 
 </div>

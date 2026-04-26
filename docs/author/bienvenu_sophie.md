@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a> (0)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/llontop_camila"><b>Llontop</b> Camila</a> (1)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (1)</li>
+        <li><a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a> (1)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (1)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> (1)</li>
     </ol>
 
 </div>

@@ -19,44 +19,44 @@ search:
     : 2021-06-30
     
     Last Contribution
-    : 2025-10-13
+    : 2026-03-26
 
     Number Contributions
-    : 18
+    : 19
 
     Number Citations
-    : 589
+    : 644
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (18)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (19)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (9)</li>
         <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (9)</li>
         <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (8)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (8)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (8)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (162)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (84)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (50)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (43)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (40)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (38)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (89)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (54)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (44)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (41)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (59)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (35)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (27)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (27)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (23)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (62)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (38)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (31)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (30)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (27)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../xia_chen_yu_zhan.2026.PDINUGDoMaRPW3PC/">Plastic Deformation Induced Non-Uniform Global Distribution of Microstructure and Related Performances Within 3D Printed Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../xia_chen_chen_jia.2025.PTf3PCaACM/">Programmable Toughening for 3D Printed Concrete and Architected Cementitious Materials</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>

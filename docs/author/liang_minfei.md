@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 79
+    : 93
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a> (28)</li>
+        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a>, <a href="../../../author/zhang_hongzhi"><b>Zhang</b> Hongzhi</a>, <a href="../../../author/liang_minfei"><b>Liang</b> Minfei</a>, <a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../chan_zhan_lian_schl.2022.NSoEBi3CPUtLMwGNL/">Numerical Simulation of Elastic Buckling in 3D Concrete Printing Using the Lattice-Model with Geometric Non-Linearity</a> (30)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (7)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (6)</li>
         <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (6)</li>
         <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (6)</li>
         <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (6)</li>
-        <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a> (5)</li>
     </ol>
 
 </div>

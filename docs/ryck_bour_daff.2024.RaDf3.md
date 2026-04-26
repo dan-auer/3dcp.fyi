@@ -60,7 +60,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 44-51
       title             = "Research and Development for 3DCP: Challenges, Opportunities and Solutions in Current 3DCP Realizations from B+G",
       year              = "2024",
       pages             = "44--51",
-      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2021",
+      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2024",
       editor            = "Nadja Gaudillière-Jami and Alexander Wolf",
     }
 
@@ -71,10 +71,10 @@ Contribution - Built Environment Additive Manufacturing, pp. 44-51
 
     === "IEEE"
 
-    <span id="iee">K. de Rycke, M. Bourriche and T. Daffner, “Research and Development for 3DCP: Challenges, Opportunities and Solutions in Current 3DCP Realizations from B+G”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>,  2024, pp. 44–51.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">K. de Rycke, M. Bourriche and T. Daffner, “Research and Development for 3DCP: Challenges, Opportunities and Solutions in Current 3DCP Realizations from B+G”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>,  2024, pp. 44–51.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Rycke, Klaas de, Meriem Bourriche, and Tim Daffner. “Research and Development for 3DCP: Challenges, Opportunities and Solutions in Current 3DCP Realizations from B+G”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 44–51, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Rycke, Klaas de, Meriem Bourriche, and Tim Daffner. “Research and Development for 3DCP: Challenges, Opportunities and Solutions in Current 3DCP Realizations from B+G”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 44–51, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

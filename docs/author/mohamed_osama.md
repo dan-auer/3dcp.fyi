@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a> (6)</li>
+        <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a>, <a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a>, <a href="../../../author/isam_fida"><b>Isam</b> Fida</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../moha_mish_isam.2025.AOo3PCfBS/">An Overview of 3D Printed Concrete for Building Structures:<br/>Material Properties, Sustainability, Future Opportunities, and Challenges</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cui_xiaoshuang"><b>Cui</b> Xiaoshuang</a> (1)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
-        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a> (1)</li>
-        <li><a href="../../../author/lin_guan"><b>Lin</b> Guan</a> (1)</li>
-        <li><a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a> (1)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (1)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
+        <li><a href="../../../author/zeng_jun"><b>Zeng</b> Jun</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
     </ol>
 
 </div>

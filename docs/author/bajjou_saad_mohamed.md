@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ramadany_mohamed"><b>Ramadany</b> Mohamed</a>, <a href="../../../author/bajjou_saad_mohamed"><b>Bajjou</b> Mohamed</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../rama_bajj.2021.AaIoCAMiCI/">Applicability and Integration of Concrete Additive Manufacturing in Construction Industry:<br/>A Case Study</a> (5)</li>
+        <li><a href="../../../author/ramadany_mohamed"><b>Ramadany</b> Mohamed</a>, <a href="../../../author/bajjou_saad_mohamed"><b>Bajjou</b> Mohamed</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../rama_bajj.2021.AaIoCAMiCI/">Applicability and Integration of Concrete Additive Manufacturing in Construction Industry:<br/>A Case Study</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,8 +49,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/akman_arabella"><b>Akman</b> Arabella</a> (1)</li>
+        <li><a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> (1)</li>
         <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a> (1)</li>
-        <li><a href="../../../author/le_an"><b>Le</b> An</a> (1)</li>
         <li><a href="../../../author/medina_moises"><b>Medina</b> Moisés</a> (1)</li>
         <li><a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a> (1)</li>
     </ol>

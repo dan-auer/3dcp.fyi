@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 26
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a> (26)</li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/patel_abhishek"><b>Patel</b> Abhishek</a>, <a href="../../../author/bhat_saqib"><b>Bhat</b> Saqib</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../raph_sent_pate_bhat.2023.ARoC3PSM/">A Review of Concrete 3D Printed Structural Members</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a> (2)</li>
+        <li><a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a> (2)</li>
         <li><a href="../../../author/liu_han"><b>Liu</b> Han</a> (2)</li>
-        <li><a href="../../../author/radl_elisabeth"><b>Radl</b> Elisabeth</a> (2)</li>
         <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (2)</li>
-        <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (2)</li>
-        <li><a href="../../../author/vill_markus"><b>Vill</b> Markus</a> (2)</li>
+        <li><a href="../../../author/yim_jae_hong"><b>Yim</b> Hong</a> (2)</li>
     </ol>
 
 </div>

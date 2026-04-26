@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_zhan_liu_wu.2024.ILR3PCwRCA/">Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate:<br/>Shear Properties and Enhancement Methods</a> (12)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_zhan_liu_wu.2024.ILR3PCwRCA/">Inter-Layer Reinforced 3D Printed Concrete with Recycled Coarse Aggregate:<br/>Shear Properties and Enhancement Methods</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (4)</li>
-        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (2)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (3)</li>
         <li><a href="../../../author/luo_tao"><b>Luo</b> Tao</a> (1)</li>
     </ol>
 

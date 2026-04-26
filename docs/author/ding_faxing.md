@@ -19,10 +19,10 @@ search:
     : 2023-08-30
     
     Last Contribution
-    : 2023-08-30
+    : 2026-02-16
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 2
@@ -30,7 +30,9 @@ search:
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> (1)</li>
+        <li><a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a> (1)</li>
         <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a> (1)</li>
+        <li><a href="../../../author/yu_chaomin"><b>Yu</b> Chaomin</a> (1)</li>
         <li><a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> (1)</li>
     </ol>
     
@@ -41,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (7)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (3)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
         <li><a href="../../../author/secrieru_egor"><b>Secrieru</b> Egor</a> (3)</li>
-        <li><a href="../../../author/fataei_shirin"><b>Fataei</b> Shirin</a> (2)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (2)</li>
-        <li><a href="../../../author/schrofl_christof"><b>Schröfl</b> Christof</a> (2)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -62,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/yu_chaomin"><b>Yu</b> Chaomin</a>, <a href="../../../author/si_qi"><b>Si</b> Qi</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a>, <a href="../../../author/ding_faxing"><b>Ding</b> Faxing</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yu_si_pan_ding.2026.SotAMaDPo3PRPC/">Study on the Anisotropic Mechanical and Durability Properties of 3D-Printed Recycled PVC Concrete</a></li>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/ding_faxing"><b>Ding</b> Faxing</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../xie_liu_ding_zhan.2023.CaMotPMSttSFoCFUP/">Characteristics and Mechanism of the Particle-Migration Subject to the Shear Flow of Concrete Flow Under Pressure</a></li>
 </ol>

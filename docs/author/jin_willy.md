@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 7
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a> (4)</li>
+        <li><a href="../../../author/jin_willy"><b>Jin</b> Willy</a>, <a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../jin_caro_ouel.2024.MtCFo3PC/">Minimizing the Carbon Footprint of 3D Printing Concrete:<br/>Leveraging Parametric LCA and Neural Networks Through Multi-Objective-Optimization</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> (2)</li>
         <li><a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a> (2)</li>
-        <li><a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> (2)</li>
-        <li><a href="../../../author/mahdy_deena"><b>El Mahdy</b> Deena</a> (2)</li>
+        <li><a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a> (2)</li>
         <li><a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a> (2)</li>
+        <li><a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> (2)</li>
     </ol>
 
 </div>

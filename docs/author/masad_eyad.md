@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 136
+    : 150
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a> (91)</li>
+        <li><a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../moha_masa_gham.2020.3CPS/">3D Concrete Printing Sustainability:<br/>A Comparative Life Cycle Assessment of Four Construction Method Scenarios</a> (98)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (5)</li>
         <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (4)</li>
-        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (4)</li>
         <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (4)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (4)</li>
         <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (4)</li>

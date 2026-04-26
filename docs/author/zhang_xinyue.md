@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a>, <a href="../../../author/zhang_xinyue"><b>Zhang</b> Xinyue</a>, <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>, <a href="../../../author/wang_yilin"><b>Wang</b> Yilin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhan_zhou_wang.2024.EAo3PCaaTPDF/">Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow</a> (1)</li>
+        <li><a href="../../../author/sun_yubo"><b>Sun</b> Yubo</a>, <a href="../../../author/zhang_xinyue"><b>Zhang</b> Xinyue</a>, <a href="../../../author/zhou_jiangang"><b>Zhou</b> Jiangang</a>, <a href="../../../author/wang_yilin"><b>Wang</b> Yilin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhan_zhou_wang.2024.EAo3PCaaTPDF/">Extrudability-Analysis of 3D Printable Concrete as a Two-Phase Discrete Flow</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b> Daiva</a> (1)</li>
         <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> (1)</li>
+        <li><a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a> (1)</li>
+        <li><a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> (1)</li>
     </ol>
 
 </div>

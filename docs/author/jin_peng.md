@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a> (5)</li>
+        <li><a href="../../../author/jin_peng"><b>Jin</b> Peng</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/kohestanian_mohammad"><b>Kohestanian</b> Mohammad</a>, <a href="../../../author/mehrali_mehdi"><b>Mehrali</b> Mehdi</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../jin_hasa_kohe_mehr.2024.MNAi3PC/">Micro/Nano Additives in 3D Printing Concrete:<br/>Opportunities, Challenges, and Potential Outlook in Construction Applications</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/ali_danish_syed"><b>Ali</b> Syed</a> (1)</li>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> (1)</li>
-        <li><a href="../../../author/moradllo_khanzadeh_mehdi"><b>Moradllo</b> Mehdi</a> (1)</li>
         <li><a href="../../../author/runge_troy"><b>Runge</b> Troy</a> (1)</li>
+        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
+        <li><a href="../../../author/zhuang_kunde"><b>Zhuang</b> Kunde</a> (1)</li>
     </ol>
 
 </div>

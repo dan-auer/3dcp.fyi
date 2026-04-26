@@ -60,8 +60,9 @@ Journal Article - Cement and Concrete Composites, No. 105896
       <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/cui_can"><b>Cui</b> Can</a>, <a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../ye_cui_yu_yu.2021.EoPFCoWaMAPo3PUHDC/">Effect of Polyethylene-Fiber Content on Workability and Mechanical-Anisotropic Properties of 3D Printed Ultra-High-Ductile Concrete</a></li>
       <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_asla.2021.DoFRECCUPAFaACPf3CP/">Development of Fiber-Reinforced Engineered Cementitious Composite Using Polyvinyl-Alcohol-Fiber and Activated Carbon-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_xusheng"><b>Chen</b> Xusheng</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/bao_bingtong"><b>Bao</b> Bingtong</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chen_jia_bao_dong.2026.EoCAaSFIuEotPo3PSFRC/">Effect of Coarse Aggregate and Steel Fiber Interaction under Extrusion on the Performance of 3D-Printed Steel Fiber-Reinforced Concrete</a></li>
     </ol>
 </div>
 

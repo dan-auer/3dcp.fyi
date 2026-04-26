@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a> (1)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (1)</li>
-        <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (1)</li>
-        <li><a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a> (1)</li>
-        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
+        <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

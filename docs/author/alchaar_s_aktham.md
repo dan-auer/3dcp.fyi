@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 77
+    : 81
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a> (77)</li>
+        <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a> (81)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (4)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
         <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (3)</li>
-        <li><a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> (3)</li>
         <li><a href="../../../author/tamimi_k_adil"><b>Al Tamimi</b> Adil</a> (3)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (3)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 32
+    : 42
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (30)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (3)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (3)</li>
         <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (2)</li>
-        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (2)</li>
-        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a> (5)</li>
+        <li><a href="../../../author/gebhard_lukas"><b>Gebhard</b> Lukas</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a>, <a href="../../../author/ammann_rebecca"><b>Ammann</b> Rebecca</a>, <a href="../../../author/pressmair_nadine"><b>Pressmair</b> Nadine</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../gebh_mata_amma_pres.2024.ESEwDC/">Enhancing Structural Efficiency with Digital Concrete:<br/>Principles, Opportunities and Case Studies</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (1)</li>
         <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (1)</li>
-        <li><a href="../../../author/leusmann_thorsten"><b>Leusmann</b> Thorsten</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
         <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (1)</li>
-        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
     </ol>
 
 </div>

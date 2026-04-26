@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 36
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P/">Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing</a> (36)</li>
+        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/zhu_weiping"><b>Zhu</b> Weiping</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../lu_zhu_weng_liu.2020.SoMASaaCMfSSB3P/">Study of MgO-Activated-Slag as a Cementless Material for Sustainable Spray-Based 3D Printing</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (7)</li>
         <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a> (6)</li>
-        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (6)</li>
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (5)</li>
         <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (5)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (5)</li>

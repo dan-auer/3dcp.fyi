@@ -43,8 +43,9 @@ Contribution - Proceedings of the 2nd RILEM International Conference on Concrete
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "7 Citations"
+???+ bug "8 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a>, <a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a>, <a href="../../../author/blanco_ana"><b>Blanco</b> Ana</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../goel_kore_blan.2026.UtRoSCMi3PC/">Understanding the Role of Supplementary Cementitious Materials in 3D Printed Concrete</a></li>
       <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a></li>
       <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a>, <a href="../../../author/tohidloo_mohammad"><b>Tohidloo</b> Mohammad</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../givk_tohi.2024.TEoFTCaSAASotCSaMo3PAEC/">The Effect of Freeze-Thaw-Cycles and Sulfuric-Acid-Attack Separately on the Compressive Strength and Microstructure of 3D Printed Air-Entrained Concrete</a></li>
       <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../du_zhou_lai_wu.2023.EoPSoDaMPo3PC/">Effect of Pore-Structure on Durability and Mechanical Performance of 3D Printed Concrete</a></li>

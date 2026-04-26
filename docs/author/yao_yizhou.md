@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 100
+    : 113
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a> (86)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_wu_bai.2022.3PCwRCA/">3D Printing Concrete with Recycled Coarse Aggregates:<br/>The Influence of Pore-Structure on Inter-Layer Adhesion</a> (93)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (14)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (13)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (9)</li>
-        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (7)</li>
-        <li><a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a> (6)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (18)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (17)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (10)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (10)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
     </ol>
 
 </div>

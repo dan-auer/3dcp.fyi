@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 10
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a> (9)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a>, <a href="../../../author/snehal_k"><b>Snehal</b> K.</a>, <a href="../../../author/das_b_b"><b>Das</b> B.</a>, <a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mish_sneh_das_chan.2025.FPtP/">From Printing to Performance:<br/>A Review on 3D Concrete Printing Processes, Materials, and Life Cycle Assessment</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
-        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (1)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
+        <li><a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a> (3)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (3)</li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (2)</li>
+        <li><a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> (2)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
     </ol>
 
 </div>

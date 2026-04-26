@@ -19,44 +19,44 @@ search:
     : 2022-06-29
     
     Last Contribution
-    : 2025-06-24
+    : 2026-03-09
 
     Number Contributions
-    : 9
+    : 11
 
     Number Citations
-    : 15
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (6)</li>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (8)</li>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (4)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (4)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
-        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (3)</li>
-        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (3)</li>
-        <li><a href="../../../author/wolf_christoph"><b>Wolf</b> Christoph</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a> (5)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (10)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (7)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (5)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (5)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (13)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (10)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (7)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a> (3)</li>
-        <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a> (3)</li>
-        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (3)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
-        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (4)</li>
+        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (4)</li>
+        <li><a href="../../../author/jamhiri_babak"><b>Jamhiri</b> Babak</a> (3)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../rehm_robe_unge_wolf.2026.ASFiEB3CPUaPMwNLH/">Assessing Structural Failure in Extrusion-Based 3D Concrete Printing Using a Plasticity Model with Non-Linear Hardening</a></li>
+  <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../robe_schm_unge_mezh.2026.CoTIotSBUo3PC/">Characterization of Temperature Influence on the Structural Build-Up of 3D Printed Concrete</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/kujath_cezary"><b>Kujath</b> Cezary</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../robe_kuja_bos_mech.2025.DaIoaDSfQSaAED/">Design and Implementation of a Database System for Querying, Sharing, and Analyzing Experimental Data:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

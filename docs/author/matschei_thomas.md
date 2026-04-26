@@ -25,7 +25,7 @@ search:
     : 13
 
     Number Citations
-    : 32
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
+        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (4)</li>
         <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (3)</li>
         <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (3)</li>
         <li><a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> (3)</li>
-        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (3)</li>
     </ol>
 
 </div>

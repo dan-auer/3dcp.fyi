@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 8
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>, <a href="../../../author/hou_jia"><b>Hou</b> Jia</a>, <a href="../../../author/ge_mengmeng"><b>Ge</b> Mengmeng</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_liu_hou_ge.2024.RPaTAoC3PTBoC/">Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace</a> (8)</li>
+        <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/liu_zhenhua"><b>Liu</b> Zhenhua</a>, <a href="../../../author/hou_jia"><b>Hou</b> Jia</a>, <a href="../../../author/ge_mengmeng"><b>Ge</b> Mengmeng</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../wang_liu_hou_ge.2024.RPaTAoC3PTBoC/">Research-Progress and Trend-Analysis of Concrete 3D Printing Technology Based on CiteSpace</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/ghoshal_k_sib"><b>Ghoshal</b> Sib</a> (1)</li>
         <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
         <li><a href="../../../author/martinelli_enzo"><b>Martinelli</b> Enzo</a> (1)</li>
-        <li><a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> (1)</li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
     </ol>
 
 </div>

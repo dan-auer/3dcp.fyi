@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 34
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a> (34)</li>
+        <li><a href="../../../author/qaidi_shaker"><b>Qaidi</b> Shaker</a>, <a href="../../../author/yahia_ammar"><b>Yahia</b> Ammar</a>, <a href="../../../author/tayeh_a_b"><b>Tayeh</b> B.</a>, <a href="../../../author/unis_h"><b>Unis</b> H.</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../qaid_yahi_taye_unis.2022.3PGC/">3D Printed Geopolymer Composites:<br/>A Review</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> (4)</li>
         <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (3)</li>
         <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> (3)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (3)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (3)</li>
-        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (2)</li>
     </ol>
 
 </div>

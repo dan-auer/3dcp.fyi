@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a> (2)</li>
+        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/jankovsky_ondrej"><b>Jankovský</b> Ondřej</a> (1)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (1)</li>
         <li><a href="../../../author/maierova_petra"><b>Maierová</b> Petra</a> (1)</li>
-        <li><a href="../../../author/miarka_petr"><b>Miarka</b> Petr</a> (1)</li>
         <li><a href="../../../author/pavlik_zbysek"><b>Pavlík</b> Zbyšek</a> (1)</li>
-        <li><a href="../../../author/topinkova_michaela"><b>Topinková</b> Michaela</a> (1)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
     </ol>
 
 </div>

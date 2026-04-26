@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a>, <a href="../../../author/goel_abhimanyu"><b>Goel</b> Abhimanyu</a>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b> De</a>, <a href="../../../author/yeo_charlene"><b>Yeo</b> Charlene</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lin_goel_wong_yeo.2022.CLDCSfC3PF/">Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication</a> (12)</li>
+        <li><a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a>, <a href="../../../author/goel_abhimanyu"><b>Goel</b> Abhimanyu</a>, <a href="../../../author/wong_hui-alwin_de"><b>Wong</b> De</a>, <a href="../../../author/yeo_charlene"><b>Yeo</b> Charlene</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lin_goel_wong_yeo.2022.CLDCSfC3PF/">Compressive Load-Dominated Concrete Structures for Customized 3D Printing Fabrication</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
         <li><a href="../../../author/nicholas_paul"><b>Nicholas</b> Paul</a> (1)</li>
-        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (1)</li>
         <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (1)</li>
         <li><a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> (1)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (1)</li>

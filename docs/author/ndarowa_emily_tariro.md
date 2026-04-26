@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ndarowa_emily_tariro"><b>Ndarowa</b> Tariro</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/ikotun_d_bolane"><b>Ikotun</b> Bolane</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../ndar_maha_ikot.2024.ARoOoLaCCCCMf3P/">A Review of Optimization of Limestone and Calcined-Clay-Cement Concrete Mixtures for 3D Printing</a> (0)</li>
+        <li><a href="../../../author/ndarowa_emily_tariro"><b>Ndarowa</b> Tariro</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/ikotun_d_bolane"><b>Ikotun</b> Bolane</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../ndar_maha_ikot.2024.ARoOoLaCCCCMf3P/">A Review of Optimization of Limestone and Calcined-Clay-Cement Concrete Mixtures for 3D Printing</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
+        <li><a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (1)</li>
+        <li><a href="../../../author/mahmood_zubayer_mir"><b>Mahmood</b> Mir</a> (1)</li>
+        <li><a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> (1)</li>
     </ol>
 
 </div>

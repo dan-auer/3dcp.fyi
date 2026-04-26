@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 56
+    : 61
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a> (46)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_zixuan"><b>Chen</b> Zixuan</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../xiao_chen_ding_zou.2022.BBoSCR3PCitDPttI/">Bending Behavior of Steel-Cable-Reinforced 3D Printed Concrete in the Direction Perpendicular to the Interfaces</a> (49)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (6)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (6)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (5)</li>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (4)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (4)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
     </ol>
 
 </div>

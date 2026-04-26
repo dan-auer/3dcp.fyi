@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 189
+    : 210
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a> (95)</li>
+        <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a> (106)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (17)</li>
         <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (15)</li>
         <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> (13)</li>
-        <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a> (12)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (13)</li>
     </ol>
 
 </div>

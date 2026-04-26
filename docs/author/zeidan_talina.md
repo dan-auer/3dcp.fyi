@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 30
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a> (30)</li>
+        <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/dam_benjamin"><b>Dam</b> Benjamin</a>, <a href="../../../author/zeidan_talina"><b>Zeidan</b> Talina</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../moha_rahu_dam_zeid.2022.PCEIaCAf3PCM/">Performance Criteria, Environmental Impact and Cost-Assessment for 3D Printable Concrete Mixtures</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (6)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (5)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (5)</li>
         <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> (4)</li>
         <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (4)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (4)</li>

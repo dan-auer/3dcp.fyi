@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chaa_styn_bank.2018.SBoLPRCB/">Structural Behavior of Layer-Printed Reinforced Concrete Beams</a> (10)</li>
+        <li><a href="../../../author/chaar_k_ghassan"><b>Chaar</b> Ghassan</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a>, <a href="../../../author/banko_l_marion"><b>Banko</b> Marion</a> <a href="../../../date/2018/11">(2018-11)</a><br><a href="../../../chaa_styn_bank.2018.SBoLPRCB/">Structural Behavior of Layer-Printed Reinforced Concrete Beams</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

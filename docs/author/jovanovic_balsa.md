@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/jovanovic_balsa"><b>Jovanović</b> Balša</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mira_jova_lesa_schu.2023.GCo3CPMfaRP/">Geometric Conformability of 3D Concrete Printing Mixtures from a Rheological Perspective</a> (6)</li>
+        <li><a href="../../../author/miranda_r-m_luiza"><b>Miranda</b> Luiza</a>, <a href="../../../author/jovanovic_balsa"><b>Jovanović</b> Balša</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mira_jova_lesa_schu.2023.GCo3CPMfaRP/">Geometric Conformability of 3D Concrete Printing Mixtures from a Rheological Perspective</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     <ol>
         <li><a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a> (1)</li>
         <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (1)</li>
-        <li><a href="../../../author/da_wan"><b>Da</b> Wan</a> (1)</li>
         <li><a href="../../../author/ding_luchuan"><b>Ding</b> Luchuan</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
         <li><a href="../../../author/yu_xiaona"><b>Yu</b> Xiaona</a> (1)</li>
     </ol>
 

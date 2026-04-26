@@ -19,13 +19,13 @@ search:
     : 2018-01-04
     
     Last Contribution
-    : 2026-01-17
+    : 2026-02-26
 
     Number Contributions
-    : 24
+    : 25
 
     Number Citations
-    : 1277
+    : 1323
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a> (232)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a> (236)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (36)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (39)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (33)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (29)</li>
         <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (28)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (66)</li>
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (50)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (46)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (41)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (39)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (38)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/lao_junying"><b>Lao</b> Junying</a>, <a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../nguy_jie_lao_huan.2026.EaMSMIoPLCECCwDPFC/">Experimental and Multi-Scale Modelling Investigation of Printable, Low-Cement Engineered Cementitious Composites with Different Polyethene Fiber Contents</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/lao_junying"><b>Lao</b> Junying</a>, <a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_jie_lao_huan.2026.PoLRaA3PCCwLCECC/">Performance of Lightweight, Reinforced, and Assemblable 3D-Printed Concrete Columns with Low-Carbon Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/zhao_huanyu"><b>Zhao</b> Huanyu</a>, <a href="../../../author/meng_dan"><b>Meng</b> Dan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../qian_zhao_meng.2024.NSoCBw3PSHCCS/">Numerical Study of Concrete Beams with 3D Printed Strain-Hardening Cementitious Composites (SHCC)</a></li>
   <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a>, <a href="../../../author/li_ho-holden_king"><b>Li</b> King</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../lu_li_qian_li.2024.HP3CPwZ/">High-Performance 3D Concrete Printing with Zeolite</a></li>

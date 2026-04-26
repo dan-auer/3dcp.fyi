@@ -57,8 +57,8 @@ Contribution - Proceedings of the 27th Conference on Computer Aided Architectura
     </ol>
 ???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
-      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
-      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
     </ol>
 </div>
 

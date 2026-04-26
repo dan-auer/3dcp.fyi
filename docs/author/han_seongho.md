@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ahn_han_shin_khay.2025.NMtE3PCQUUSET/">Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques</a> (1)</li>
+        <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a>, <a href="../../../author/han_seongho"><b>Han</b> Seongho</a>, <a href="../../../author/shin_myoungsu"><b>Shin</b> Myoungsu</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../ahn_han_shin_khay.2025.NMtE3PCQUUSET/">Novel Method to Evaluate 3D Printed Concrete Quality Using Ultrasonic Scatter-Energy-Techniques</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (1)</li>
+        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a> (1)</li>
     </ol>
 
 </div>

@@ -17,7 +17,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-030-35533-3_19" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-35533-3_19" target="_blank">10.1007/978-3-030-35533-3_19</a>
 
-<a href="../../../author/freire_tiago"><b>Freire</b>&nbsp;Tiago</a></span>, <a href="../../../author/brun_francis"><b>Brun</b>&nbsp;Francis</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
+<a href="../../../author/freire_tiago"><b>Freire</b>&nbsp;Tiago</a></span>, <a href="../../../author/brun_francis"><b>Brun</b>&nbsp;Francis</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
 Contribution - Proceedings of the International Conference on Automation Innovation in Construction, pp. 157-167
 
 <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/industry"><button class="btn">#industry</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/technology"><button class="btn">#technology</button></a> 
@@ -72,13 +72,13 @@ Contribution - Proceedings of the International Conference on Automation Innovat
 
     ```bibtex
     @inproceedings{frei_brun_mate_gasp.2021.3PTitCI,
-      author            = "Tiago Freire and Francis Brun and Artur Mateus and Florindo Gaspar",
+      author            = "Tiago Freire and Francis Brun and Artur Mateus and Florindo José Mendes Gaspar",
       title             = "3D Printing Technology in the Construction Industry",
       doi               = "10.1007/978-3-030-35533-3_19",
       year              = "2021",
       pages             = "157--167",
       booktitle         = "Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions",
-      editor            = "Hugo Rodrigues and Florindo Gaspar and Paulo Fernandes and Artur Mateus",
+      editor            = "Hugo Rodrigues and Florindo José Mendes Gaspar and Paulo Fernandes and Artur Mateus",
     }
 
 
@@ -88,10 +88,10 @@ Contribution - Proceedings of the International Conference on Automation Innovat
 
     === "IEEE"
 
-    <span id="iee">T. Freire, F. Brun, A. Mateus and F. Gaspar, “3D Printing Technology in the Construction Industry”, in <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>,  2021, pp. 157–167. doi: 10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">T. Freire, F. Brun, A. Mateus and F. J. M. Gaspar, “3D Printing Technology in the Construction Industry”, in <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>,  2021, pp. 157–167. doi: 10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Freire, Tiago, Francis Brun, Artur Mateus, and Florindo Gaspar. “3D Printing Technology in the Construction Industry”. In <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>, edited by Hugo Rodrigues, Florindo Gaspar, Paulo Fernandes, and Artur Mateus, 157–67, 2021. https://doi.org/10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Freire, Tiago, Francis Brun, Artur Mateus, and Florindo José Mendes Gaspar. “3D Printing Technology in the Construction Industry”. In <i>Proceedings of the International Conference on Automation Innovation in Construction: Sustainability and Automation in Smart Constructions</i>, edited by Hugo Rodrigues, Florindo José Mendes Gaspar, Paulo Fernandes, and Artur Mateus, 157–67, 2021. https://doi.org/10.1007/978-3-030-35533-3_19.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

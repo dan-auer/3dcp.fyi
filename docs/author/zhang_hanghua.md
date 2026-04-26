@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 128
+    : 141
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a> (66)</li>
+        <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a> (71)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (9)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (8)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (7)</li>
-        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (7)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (7)</li>
     </ol>
 
 </div>

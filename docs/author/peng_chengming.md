@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../peng_yang_li.2024.APMfIWEaEVo3PCM/">A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials</a> (0)</li>
+        <li><a href="../../../author/peng_chengming"><b>Peng</b> Chengming</a>, <a href="../../../author/yang_zhenjun"><b>Yang</b> Zhenjun</a>, <a href="../../../author/li_hui"><b>Li</b> Hui</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../peng_yang_li.2024.APMfIWEaEVo3PCM/">A Predictive Model for Interlayer-Water-Evolution and Experimental Validation of 3D Printed Cementitious Materials</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a> (1)</li>
+        <li><a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a> (1)</li>
+        <li><a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a> (1)</li>
+        <li><a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> (1)</li>
     </ol>
 
 </div>

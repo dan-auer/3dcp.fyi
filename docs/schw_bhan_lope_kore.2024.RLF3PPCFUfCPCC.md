@@ -57,8 +57,9 @@ Journal Article - Journal of Composites for Construction, Vol. 28, Iss. 6
       <li><a href="../../../author/jipa_mihail-andrei"><b>Jipa</b> Mihail-Andrei</a>, <a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../jipa_dill.2022.3PFfC/">3D Printed Formwork for Concrete:<br/>State of the Art, Opportunities, Challenges, and Applications</a></li>
       <li><a href="../../../author/teizer_jochen"><b>Teizer</b> Jochen</a>, <a href="../../../author/blickle_alexander"><b>Blickle</b> Alexander</a>, <a href="../../../author/king_tobias"><b>King</b> Tobias</a>, <a href="../../../author/leitzbach_olaf"><b>Leitzbach</b> Olaf</a> et al. <a href="../../../date/2016/07">(2016-07)</a><br><a href="../../../teiz_blic_king_leit.2016.LS3PoCGSiC/">Large-Scale 3D Printing of Complex Geometric Shapes in Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/silvennoinen_heidi"><b>Silvennoinen</b> Heidi</a>, <a href="../../../author/honic_meliha"><b>Honic</b> Meliha</a>, <a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../silv_honi_slav_bloc.2026.AMfCC/">Additive Manufacturing for Circular Construction:<br/>A Review of Design Strategies and Their Assessment</a></li>
     </ol>
 </div>
 

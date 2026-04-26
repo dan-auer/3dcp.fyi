@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 13
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../otto_maiw.2024.CaAQAo3CPS/">Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces</a> (7)</li>
+        <li><a href="../../../author/otto_jens"><b>Otto</b> Jens</a>, <a href="../../../author/maiwald_patrick"><b>Maiwald</b> Patrick</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../otto_maiw.2024.CaAQAo3CPS/">Classification and Automated Quality Assurance of 3D Concrete Printed Surfaces</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

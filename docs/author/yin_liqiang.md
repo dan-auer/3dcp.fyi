@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a> (2)</li>
+        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/liang_long"><b>Liang</b> Long</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/liu_lingfei"><b>Liu</b> Lingfei</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../chen_lian_ye_liu.2025.MLEPBDoTDPECC/">Machine Learning-Enabled Performance-Based Design of Three-Dimensional Printed Engineered Cementitious Composites</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (1)</li>
         <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (1)</li>
-        <li><a href="../../../author/ge_yulin"><b>Ge</b> Yulin</a> (1)</li>
-        <li><a href="../../../author/tulliani_jean-marc"><b>Tulliani</b> Jean-Marc</a> (1)</li>
+        <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
         <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (1)</li>
     </ol>
 

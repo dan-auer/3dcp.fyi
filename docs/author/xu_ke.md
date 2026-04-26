@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_jie"><b>Yang</b> Jie</a>, <a href="../../../author/xu_ke"><b>Xu</b> Ke</a>, <a href="../../../author/he_haijie"><b>He</b> Haijie</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_he.2025.MPSaAPoFR3PC/">Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete</a> (0)</li>
+        <li><a href="../../../author/yang_jie"><b>Yang</b> Jie</a>, <a href="../../../author/xu_ke"><b>Xu</b> Ke</a>, <a href="../../../author/he_haijie"><b>He</b> Haijie</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_he.2025.MPSaAPoFR3PC/">Materials, Performance Studies, and Application Progress of Fiber-Reinforced 3D-Printed Concrete</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -45,7 +45,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> (1)</li>
+        <li><a href="../../../author/xia_yuhang"><b>Xia</b> Yuhang</a> (1)</li>
     </ol>
 
 </div>

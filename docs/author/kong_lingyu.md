@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 31
+    : 38
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a> (31)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/kong_lingyu"><b>Kong</b> Lingyu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../jia_kong_jia_ma.2024.PaMPo3PUHPCILP/">Printability and Mechanical Properties of 3D Printing Ultra-High-Performance Concrete Incorporating Limestone-Powder</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (3)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (4)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (4)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (3)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (3)</li>
         <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (3)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
     </ol>
 
 </div>

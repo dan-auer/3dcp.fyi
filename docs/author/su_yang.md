@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_sun_wang_wang.2025.RTaHADMf3CPUTN/">Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks</a> (8)</li>
+        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_sun_wang_wang.2025.RTaHADMf3CPUTN/">Real-Time and High-Accuracy Defect Monitoring for 3D Concrete Printing Using Transformer Networks</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

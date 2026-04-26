@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 38
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a> (22)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/sanin_sandro"><b>Sanin</b> Sandro</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../bres_sani_nabo.2021.TPSDaMiR3CP/">Tool-Path Simulation, Design and Manipulation in Robotic 3D Concrete Printing</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (8)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a> (7)</li>
         <li><a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> (6)</li>
         <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (4)</li>
         <li><a href="../../../author/gursoy_toykoc_benay"><b>Gürsoy</b> Benay</a> (4)</li>
-        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (4)</li>
+        <li><a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a> (3)</li>
     </ol>
 
 </div>

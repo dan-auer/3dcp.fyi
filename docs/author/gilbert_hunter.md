@@ -25,19 +25,19 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (1)</li>
         <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (1)</li>
         <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (1)</li>
-        <li><a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> (1)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a> (3)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (2)</li>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (2)</li>
-        <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (1)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (4)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (4)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (2)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (2)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
-        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (1)</li>
     </ol>
 
 </div>
@@ -63,5 +63,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
+  <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
 </ol>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/ly_duy-khuong"><b>Ly</b> Duy-Khuong</a>, <a href="../../../author/nguyen_tan"><b>Nguyen</b> Tan</a>, <a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b> Nhi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../tran_ly_nguy_tran.2024.RPoWPf3PwSSAUBRaEA/">Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm</a> (4)</li>
+        <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/ly_duy-khuong"><b>Ly</b> Duy-Khuong</a>, <a href="../../../author/nguyen_tan"><b>Nguyen</b> Tan</a>, <a href="../../../author/tran_ngoc-thi_nhi"><b>Tran</b> Nhi</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../tran_ly_nguy_tran.2024.RPoWPf3PwSSAUBRaEA/">Robust Prediction of Workability Properties for 3D Printing with Steel-Slag-Aggregate Using Bayesian Regularization and Evolution Algorithm</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/ahmad_furqan"><b>Ahmad</b> Furqan</a> (1)</li>
         <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
         <li><a href="../../../author/qureshi_zeeshan_muhammad"><b>Qureshi</b> Muhammad</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> (1)</li>
     </ol>
 
 </div>

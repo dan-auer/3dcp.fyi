@@ -71,8 +71,9 @@ Journal Article - Materials, Vol. 18, Iss. 17, No. 3989
       <li><a href="../../../author/wang_qing"><b>Wang</b> Qing</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/li_jie"><b>Li</b> Jie</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_ren_li.2023.DRMfP3PCB/">Damage-Rheology Model for Predicting 3D Printed Concrete Buildability</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../jin_sun_chen_zhou.2026.PtPoCCi3P/">Predicting the Printability of Cementitious Composites in 3D Printing:<br/>Relevance Between Rheological Protocols and Structural Deformation</a></li>
       <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>

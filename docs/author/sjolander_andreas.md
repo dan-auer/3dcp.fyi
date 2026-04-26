@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/sjolander_andreas"><b>Sjölander</b> Andreas</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../varg_sjol_west_silf.2024.ITOo3PCS/">Internal Topology-Optimization of 3D Printed Concrete Structures:<br/>A Method for Enhanced Performance and Material-Efficiency</a> (8)</li>
+        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/sjolander_andreas"><b>Sjölander</b> Andreas</a>, <a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../varg_sjol_west_silf.2024.ITOo3PCS/">Internal Topology-Optimization of 3D Printed Concrete Structures:<br/>A Method for Enhanced Performance and Material-Efficiency</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

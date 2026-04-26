@@ -17,24 +17,27 @@ tags:
 ---
 
 #Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels ([2025-03](date/2025/03))
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.caadria.2025.2.111" target="_blank">10.52842/conf.caadria.2025.2.111</a>
+
 <span class="author"><a href="https://orcid.org/0009-0003-6767-9636" title="ORCID: 0009-0003-6767-9636" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/li_yuhan"><b>Li</b>&nbsp;Yuhan</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-0802-6446" title="ORCID: 0000-0002-0802-6446" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rian_md_iasef"><b>Rian</b>&nbsp;Iasef</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-6424-2055" title="ORCID: 0000-0002-6424-2055" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/chen_hanmei"><b>Chen</b>&nbsp;Hanmei</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9796-2737" title="ORCID: 0000-0002-9796-2737" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/tang_shu"><b>Tang</b>&nbsp;Shu</a></span><br>
-Contribution - Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia, pp. 111-120
+Contribution - Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia, pp. 111-120
 
 <a href="../../keyword/application"><button class="btn">#application</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/curve"><button class="btn">#curve</button></a> <a href="../../keyword/fraction"><button class="btn">#fraction</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/prefabrication"><button class="btn">#prefabrication</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
 <a href="https://scholar.google.com/scholar?as_q=application+of+fractal+curves+for+3d+concrete+printing+of+porous+prefab+panels&as_occt=title&as_sauthors=li&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
+<a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105023387204&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.52842/conf.caadria.2025.2.111" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.52842/conf.caadria.2025.2.111" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.52842/conf.caadria.2025.2.111" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.52842/conf.caadria.2025.2.111" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.52842/conf.caadria.2025.2.111&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.52842/conf.caadria.2025.2.111" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.52842/conf.caadria.2025.2.111&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W4414834092" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.52842/conf.caadria.2025.2.111" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.52842/conf.caadria.2025.2.111?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
 ???+ quote "Abstract" 
     3D Concrete Printing (3DCP) is an innovative automated construction method gaining recognition for its remarkable potential in design flexibility, material efficiency, and rapid construction. However, challenges such as local buckling, inadequate porosity, and limited geometric exploration hinder its broader application, especially in creating lightweight, insulative prefab panels. This study introduces a novel toolpath design for 3D printing using fractal geometry to achieve controlled porosity, enhancing cavity precision, reducing material consumption, and maintaining structural integrity. Key research questions include the influence of nozzle size on porous, drying rates on layer adhesion, and material efficiency in extended toolpath designs. The methodology combines generative design and computational modeling using Grasshopper, structural analysis with Karamba, and empirical validation through physical prototyping. The anticipated outcomes include lightweight prefab panels with enhanced porosity, superior structural performance, and effective cavity-driven insulation. By demonstrating the potential of fractal-inspired toolpaths, this research aims to address critical challenges in 3DCP and contribute to the evolution of sustainable and innovative construction technologies.
 
@@ -67,9 +70,10 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
     @inproceedings{li_rian_chen_tang.2025.AoFCf3CPoPPP,
       author            = "Yuhan Li and Iasef Md. Rian and Hanmei Chen and Shu Tang",
       title             = "Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels",
+      doi               = "10.52842/conf.caadria.2025.2.111",
       year              = "2025",
       pages             = "111--120",
-      booktitle         = "Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics",
+      booktitle         = "Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia",
       editor            = "Dagmar Reinhardt and Nicolas Rogeau and Christiane M. Herr and Anastasia Globa and Jielin Chen and Taro Narahara",
     }
 
@@ -80,10 +84,10 @@ Contribution - Proceedings of the 30th International Conference on Computer-Aide
 
     === "IEEE"
 
-    <span id="iee">Y. Li, I. M. Rian, H. Chen and S. Tang, “Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels”, in <i>Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics</i>,  2025, pp. 111–120.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">Y. Li, I. M. Rian, H. Chen and S. Tang, “Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels”, in <i>Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia</i>,  2025, pp. 111–120. doi: 10.52842/conf.caadria.2025.2.111.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Li, Yuhan, Iasef Md. Rian, Hanmei Chen, and Shu Tang. “Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels”. In <i>Proceedings of the 30th International Conference on Computer-Aided Architectural Design Research in Asia: Architectural Informatics</i>, edited by Dagmar Reinhardt, Nicolas Rogeau, Christiane M. Herr, Anastasia Globa, Jielin Chen, and Taro Narahara, 111–20, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Li, Yuhan, Iasef Md. Rian, Hanmei Chen, and Shu Tang. “Application of Fractal Curves for 3D Concrete Printing of Porous Prefab Panels”. In <i>Proceedings of the 30th Conference on Computer Aided Architectural Design Research in Asia</i>, edited by Dagmar Reinhardt, Nicolas Rogeau, Christiane M. Herr, Anastasia Globa, Jielin Chen, and Taro Narahara, 111–20, 2025. https://doi.org/10.52842/conf.caadria.2025.2.111.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

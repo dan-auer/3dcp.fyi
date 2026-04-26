@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a> (0)</li>
+        <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xu_sun_sun_chen.2025.RRMbAICfISP/">Realizing Rheological Manipulation by Adjusting Initiator Concentrations for In-Situ Polymerization:<br/>Towards 3D Concrete Printing Applications</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/han_song"><b>Han</b> Song</a> (1)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
+        <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a> (1)</li>
+        <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> (1)</li>
     </ol>
 
 </div>

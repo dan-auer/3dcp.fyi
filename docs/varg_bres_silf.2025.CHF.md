@@ -21,24 +21,27 @@ tags:
 
 #Circular Hybrid Façades&nbsp;([2025-11](date/2025/11))
 <div class="h1-like">Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements</div>
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.sigradi.2025.1.1135" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.sigradi.2025.1.1135" target="_blank">10.52842/conf.sigradi.2025.1.1135</a>
+
 <span class="author"><a href="https://orcid.org/0000-0002-0641-0567" title="ORCID: 0000-0002-0641-0567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_hernandez_jose"><b>Vargas</b>&nbsp;José</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5063-4595" title="ORCID: 0000-0001-5063-4595" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/breseghello_luca"><b>Breseghello</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1526-9331" title="ORCID: 0000-0002-1526-9331" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b>&nbsp;Johan</a></span><br>
 Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 1135-1146
 
 <a href="../../keyword/circular"><button class="btn">#circular</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/efficient"><button class="btn">#efficient</button></a> <a href="../../keyword/element"><button class="btn">#element</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> <a href="../../keyword/skin"><button class="btn">#skin</button></a> <a href="../../keyword/temperature"><button class="btn">#temperature</button></a> 
 
 <a href="https://scholar.google.com/scholar?as_q=circular+hybrid+fa%C3%A7ades&as_occt=title&as_sauthors=vargas&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
+<a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.52842/conf.sigradi.2025.1.1135" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.52842/conf.sigradi.2025.1.1135" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.52842/conf.sigradi.2025.1.1135" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.52842/conf.sigradi.2025.1.1135" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.52842/conf.sigradi.2025.1.1135&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.52842/conf.sigradi.2025.1.1135" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.52842/conf.sigradi.2025.1.1135&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W7133134527" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.52842/conf.sigradi.2025.1.1135" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.52842/conf.sigradi.2025.1.1135?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
 ???+ quote "Abstract" 
     3D concrete printing (3DCP) offers a versatile, flexible approach for producing customisable, project-specific components as one-off solutions. This paper explores the use of 3DCP as a circular retrofit strategy to fabricate thermally optimised facade outer skins for reused concrete elements. This work formulates a computational design-to- fabrication workflow for the development of three-wythe printed elements, assessing printability, material quantities, and 2D numerical simulations in THERM, while maintaining a consistent internal topology for fabrication. The approach is tested by simulating and comparing four variants from a benchmark uniform section to a customised design. Thermal transmittance improved from 0.41 W/(m2·K) for the base design to 0.29 W/(m2·K) for the custom variable case, using the same amount of printing material. These findings indicate that performance-driven design can deliver meaningful performance upgrades for reuse and suggest the potential of 3DCP as a key enabler technology to facilitate reuse and advance circularity in the built environment.
 
@@ -69,6 +72,7 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
     @inproceedings{varg_bres_silf.2025.CHF,
       author            = "José Hernández Vargas and Luca Breseghello and Johan Silfwerbrand",
       title             = "Circular Hybrid Façades: Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements",
+      doi               = "10.52842/conf.sigradi.2025.1.1135",
       year              = "2025",
       pages             = "1135--1146",
       booktitle         = "Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches",
@@ -81,10 +85,10 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
 
     === "IEEE"
 
-    <span id="iee">J. H. Vargas, L. Breseghello and J. Silfwerbrand, “Circular Hybrid Façades: Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements”, in <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>,  2025, pp. 1135–1146.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">J. H. Vargas, L. Breseghello and J. Silfwerbrand, “Circular Hybrid Façades: Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements”, in <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>,  2025, pp. 1135–1146. doi: 10.52842/conf.sigradi.2025.1.1135.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Vargas, José Hernández, Luca Breseghello, and Johan Silfwerbrand. “Circular Hybrid Façades: Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements”. In <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>, 1135–46, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Vargas, José Hernández, Luca Breseghello, and Johan Silfwerbrand. “Circular Hybrid Façades: Responsive Design of Thermally Efficient 3D Printed Concrete Skins on Reused Concrete Elements”. In <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>, 1135–46, 2025. https://doi.org/10.52842/conf.sigradi.2025.1.1135.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 16
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a> (16)</li>
+        <li><a href="../../../author/brooks_lee_adam"><b>Brooks</b> Adam</a>, <a href="../../../author/he_yawen"><b>He</b> Yawen</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/seyfimakrani_shayan"><b>Seyfimakrani</b> Shayan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../broo_he_farz_seyf.2022.IPETESi3PCC/">Incorporating PCM-Enabled Thermal Energy Storage into 3D Printable Cementitious Composites</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
     <ol>
         <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (3)</li>
         <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (3)</li>
-        <li><a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a> (2)</li>
         <li><a href="../../../author/ranjbar_navid"><b>Ranjbar</b> Navid</a> (2)</li>
     </ol>

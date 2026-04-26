@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 44
+    : 51
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a> (13)</li>
+        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (10)</li>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (12)</li>
         <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a> (9)</li>
         <li><a href="../../../author/bakhshi_amir"><b>Bakhshi</b> Amir</a> (5)</li>
-        <li><a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a> (2)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
+        <li><a href="../../../author/shojaeian_hamideh"><b>Shojaeian</b> Hamideh</a> (2)</li>
     </ol>
 
 </div>

@@ -19,20 +19,21 @@ search:
     : 2025-08-08
     
     Last Contribution
-    : 2025-08-08
+    : 2026-04-14
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 1
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> (2)</li>
+        <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a> (2)</li>
         <li><a href="../../../author/huang_han"><b>Huang</b> Han</a> (1)</li>
-        <li><a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> (1)</li>
+        <li><a href="../../../author/tan_yushuang"><b>Tan</b> Yushuang</a> (1)</li>
         <li><a href="../../../author/wu_jie"><b>Wu</b> Jie</a> (1)</li>
-        <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -42,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
-        <li><a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a> (3)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (3)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
-        <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (2)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -63,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/zhang_zhenming"><b>Zhang</b> Zhenming</a>, <a href="../../../author/tan_yushuang"><b>Tan</b> Yushuang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../yang_wang_zhan_tan.2026.ACAo3PCIFaFG/">A Comparative Analysis of 3D-Printed Concrete Incorporating Fibers and Fiber Grids:<br/>Mechanical Properties and Microstructure</a></li>
   <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/huang_han"><b>Huang</b> Han</a>, <a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_wang_huan_wu.2025.AWCBMfUS3CP/">Anti-Washout Cement-Based Material for Under-Seawater 3D Concrete Printing:<br/>Design, Mechanical Properties and Microstructural Analysis</a></li>
 </ol>

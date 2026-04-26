@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/leusnik_sander"><b>Leusnik</b> Sander</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chri_leus_koss.2023.MA3PoBBCCiC/">Multi-Axial 3D Printing of Biopolymer-Based Concrete Composites in Construction</a> (9)</li>
+        <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/leusnik_sander"><b>Leusnik</b> Sander</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chri_leus_koss.2023.MA3PoBBCCiC/">Multi-Axial 3D Printing of Biopolymer-Based Concrete Composites in Construction</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

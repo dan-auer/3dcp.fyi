@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cojocari_iulia"><b>Cojocari</b> Iulia</a>, <a href="../../../author/martins_mota_mirna"><b>Martins</b> Mirna</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cojo_mart_rang_cunh.2026.S3PfLSPbOW/">Scaling 3D Printing for Large-Scale Production by Optimising Workflow</a> (0)</li>
+        <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a>, <a href="../../../author/vilas-boas_rodrigo"><b>Vilas-Boas</b> Rodrigo</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cunh_rang_vila.2026.EtEEooSaOS3CP/">Evaluating the Environmental Efficiency of on-Site and Off-Site 3D Construction Printing:<br/>A Roadmap Towards Sustainable Building Practices</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/bradford_katy"><b>Bradford</b> Katy</a> (2)</li>
+        <li><a href="../../../author/gentry_russell"><b>Gentry</b> Russell</a> (2)</li>
+        <li><a href="../../../author/kurtis_kimberly"><b>Kurtis</b> Kimberly</a> (2)</li>
     </ol>
 
 </div>

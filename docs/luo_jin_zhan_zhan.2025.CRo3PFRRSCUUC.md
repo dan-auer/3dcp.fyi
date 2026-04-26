@@ -88,8 +88,9 @@ Journal Article - Construction and Building Materials, Vol. 494, No. 143474
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../zhou_zhan_ma_li.2022.IoPPo3PECC/">Influence of Printing Parameters on 3D Printing Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a>, <a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a>, <a href="../../../author/shi_quanbin"><b>Shi</b> Quanbin</a>, <a href="../../../author/yuan_pu"><b>Yuan</b> Pu</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../huan_wang_shi_yuan.2026.OtURaPo3PMwDSRS/">Optimizing the Utilization Rate and Performance of 3D-Printed Mortar with Dual-Size Recycled Sand</a></li>
     </ol>
 </div>
 

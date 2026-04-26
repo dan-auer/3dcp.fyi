@@ -19,21 +19,21 @@ search:
     : 2025-05-15
     
     Last Contribution
-    : 2025-05-15
+    : 2026-02-10
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 4
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (1)</li>
-        <li><a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a> (1)</li>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (1)</li>
-        <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (1)</li>
-        <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/wang_yifei"><b>Wang</b> Yifei</a> (2)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (2)</li>
+        <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -64,5 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhu_liu_zhan_zhu.2024.RRaSBuo3PMSCvSMP/">Rheological Rejuvenation and Structural Build-up of 3D Printed Manufactured Sand Concrete via Secondary Mixing Protocol</a></li>
   <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
 </ol>

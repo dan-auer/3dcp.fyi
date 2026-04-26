@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 77
+    : 80
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a> (77)</li>
+        <li><a href="../../../author/borg-costanzi_christopher"><b>Borg Costanzi</b> Christopher</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/schipper_h_roel"><b>Schipper</b> Roel</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2018/07">(2018-07)</a><br><a href="../../../borg_ahme_schi_bos.2018.3PCoTS/">3D Printing Concrete on Temporary Surfaces:<br/>The Design and Fabrication of a Concrete Shell Structure</a> (80)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
         <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (5)</li>
         <li><a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a> (5)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
     </ol>
 
 </div>

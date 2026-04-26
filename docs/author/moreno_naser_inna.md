@@ -29,13 +29,13 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> (1)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (1)</li>
         <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_alva.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a> (0)</li>
+        <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_garc.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -57,5 +57,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_alva.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a></li>
+  <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_garc.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a></li>
 </ol>

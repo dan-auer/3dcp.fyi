@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 6
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a>, <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH/">Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing</a> (5)</li>
+        <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a>, <a href="../../../author/top_merve_semahat"><b>Top</b> Semahat</a>, <a href="../../../author/gokgoz_izel_berru"><b>Gökgöz</b> Berru</a>, <a href="../../../author/gebel_seyma"><b>Gebel</b> Şeyma</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../takv_top_gokg_gebe.2024.Ao3CPTiBCwDADDiH/">Applicability of 3D Concrete Printing Technology in Building Construction with Different Architectural Design Decisions in Housing</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/mudasir_maryam"><b>Mudasir</b> Maryam</a> (2)</li>
         <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (2)</li>
-        <li><a href="../../../author/bai_song"><b>Bai</b> Song</a> (1)</li>
+        <li><a href="../../../author/shima_kanako"><b>Shima</b> Kanako</a> (1)</li>
         <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (1)</li>
         <li><a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a> (1)</li>
     </ol>

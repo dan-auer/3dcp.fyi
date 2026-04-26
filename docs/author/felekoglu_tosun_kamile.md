@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b> Kamile</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../saru_kesk_fele_fele.2022.EoFRoEaBoMAMPCM/">Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars:<br/>A Rheometer-Based Simulation-Analysis</a> (5)</li>
+        <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_tosun_kamile"><b>Felekoğlu</b> Kamile</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../saru_kesk_fele_fele.2022.EoFRoEaBoMAMPCM/">Effect of Fiber-Reinforcement on Extrudability and Buildability of Mineral-Additive-Modified Portland-Cement Mortars:<br/>A Rheometer-Based Simulation-Analysis</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/beytekin_elif_hatice"><b>Beytekin</b> Hatice</a> (1)</li>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (2)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (2)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> (2)</li>
         <li><a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a> (1)</li>
         <li><a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> (1)</li>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (1)</li>
-        <li><a href="../../../author/tsakou_myriam-elissavet"><b>Tsakou</b> Myriam-Elissavet</a> (1)</li>
     </ol>
 
 </div>

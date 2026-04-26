@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 92
+    : 97
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a> (90)</li>
+        <li><a href="../../../author/papachristoforou_michail"><b>Papachristoforou</b> Michail</a>, <a href="../../../author/mitsopoulos_vasilios"><b>Mitsopoulos</b> Vasilios</a>, <a href="../../../author/stefanidou_maria"><b>Stefanidou</b> Maria</a> <a href="../../../date/2018/10">(2018-10)</a><br><a href="../../../papa_mits_stef.2018.EoWPi3PC/">Evaluation of Workability Parameters in 3D Printing Concrete</a> (95)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
-        <li><a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> (2)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (3)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (3)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
         <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
-        <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (2)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (2)</li>
     </ol>
 

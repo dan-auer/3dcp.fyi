@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 99
+    : 108
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>, <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a>, <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM/">Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods</a> (45)</li>
+        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/liu_xiaoyan"><b>Liu</b> Xiaoyan</a>, <a href="../../../author/li_guangtao"><b>Li</b> Guangtao</a>, <a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../liu_liu_li_geng.2022.SoAo3PPFRCUDaNDTM/">Study on Anisotropy of 3D Printing PVA-Fiber-Reinforced Concrete Using Destructive and Non-Destructive Testing Methods</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cui_suping"><b>Cui</b> Suping</a> (3)</li>
+        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (4)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
-        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (3)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (3)</li>
         <li><a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> (3)</li>
         <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (3)</li>
     </ol>

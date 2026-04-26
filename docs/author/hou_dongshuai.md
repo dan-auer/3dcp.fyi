@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../cui_shen_ji_liu.2024.MPaPoLCPC/">Mechanical Performance and Permeability of Low-Carbon Printable Concrete</a> (4)</li>
+        <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>, <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhao_hou_li.2025.RCoCPbISPf3PA/">Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> (1)</li>
-        <li><a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> (1)</li>
-        <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> (1)</li>
-        <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a> (1)</li>
+        <li><a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> (2)</li>
+        <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

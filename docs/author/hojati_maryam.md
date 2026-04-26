@@ -19,13 +19,13 @@ search:
     : 2018-04-13
     
     Last Contribution
-    : 2025-07-15
+    : 2026-03-23
 
     Number Contributions
-    : 19
+    : 20
 
     Number Citations
-    : 249
+    : 271
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a> (97)</li>
+        <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a> (103)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (6)</li>
         <li><a href="../../../author/aminpour_nima"><b>Aminpour</b> Nima</a> (5)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (5)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (5)</li>
         <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (5)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zozaya_daiquiri"><b>Zozaya</b> Daiquiri</a>, <a href="../../../author/shojaeian_hamideh"><b>Shojaeian</b> Hamideh</a>, <a href="../../../author/uvina-contreras_francisco"><b>Uviña-Contreras</b> Francisco</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zoza_shoj_uvin_hoja.2026.3PoEBM/">3D Printing of Earth-Based Mixtures:<br/>Linking Material Design, Printability, and Structural Performance</a></li>
   <li><a href="../../../author/zafar_tayyab"><b>Zafar</b> Tayyab</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_zafa_hoja.2025.Et3PoECCwICfRCiAR/">Exploring the 3D Printability of Engineered Cementitious Composites with Internal Curing for Resilient Construction in Arid Regions</a></li>
   <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/javadnejad_farid"><b>Javadnejad</b> Farid</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../zafa_java_hoja.2025.ORPo3PCMvEML/">Optimizing Rheological Properties of 3D Printed Cementitious Materials via Ensemble Machine Learning</a></li>
   <li><a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/shahid_adnan"><b>Shahid</b> Adnan</a>, <a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zafa_shah_sedg_hoja.2025.OoBAf3PCS/">Optimization of Biopolymer Additives for 3D Printable Cementitious Systems:<br/>A Design of Experiment Approach</a></li>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 24
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a> (15)</li>
+        <li><a href="../../../author/ebrahimi_mahdi"><b>Ebrahimi</b> Mahdi</a>, <a href="../../../author/mohseni_mohammad"><b>Mohseni</b> Mohammad</a>, <a href="../../../author/aslani_alireza"><b>Aslani</b> Alireza</a>, <a href="../../../author/zahedi_rahim"><b>Zahedi</b> Rahim</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../ebra_mohs_asla_zahe.2022.IoTPaLCAoa3PB/">Investigation of Thermal Performance and Life Cycle Assessment of a 3D Printed Building</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (2)</li>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (2)</li>
-        <li><a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a> (2)</li>
         <li><a href="../../../author/mccoy_p_andrew"><b>McCoy</b> Andrew</a> (2)</li>
         <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a> (2)</li>
+        <li><a href="../../../author/pontrandolfo_pierpaolo"><b>Pontrandolfo</b> Pierpaolo</a> (2)</li>
     </ol>
 
 </div>

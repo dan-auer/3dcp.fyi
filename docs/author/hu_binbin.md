@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../duan_deng_xiao_lv.2024.ERoSDMD3CP/">Experimental Realization on Stress-Distribution Monitoring During 3D Concrete Printing</a> (7)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../duan_deng_xiao_lv.2024.ERoSDMD3CP/">Experimental Realization on Stress-Distribution Monitoring During 3D Concrete Printing</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alessandro_antonella"><b>d' Alessandro</b> Antonella</a> (2)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (2)</li>
         <li><a href="../../../author/sousa_israel"><b>Sousa</b> Israel</a> (2)</li>
         <li><a href="../../../author/ubertini_filippo"><b>Ubertini</b> Filippo</a> (2)</li>
-        <li><a href="../../../author/ramahi_siraj"><b>Al Ramahi</b> Siraj</a> (1)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (2)</li>
     </ol>
 
 </div>

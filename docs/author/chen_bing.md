@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 68
+    : 76
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a> (41)</li>
+        <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/vo_liem_thanh"><b>Vo</b> Thanh</a>, <a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../wang_chen_vo_reza.2023.MARaCFo3PC/">Mechanical Anisotropy, Rheology and Carbon Footprint of 3D Printable Concrete:<br/>A Review</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> (3)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (3)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
         <li><a href="../../../author/wang_liang"><b>Wang</b> Liang</a> (3)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (3)</li>
-        <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (2)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (2)</li>
     </ol>
 
 </div>

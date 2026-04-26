@@ -20,7 +20,7 @@ tags:
 <a href="https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=1132&context=c3_2025" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
  <a href="https://doi.org/10.5703/1288284318063" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.5703/1288284318063" target="_blank">10.5703/1288284318063</a>
 
-<span class="author"><a href="https://orcid.org/0000-0003-2365-9388" title="ORCID: 0000-0003-2365-9388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_onur"><b>Ozturk</b>&nbsp;Onur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3663-4515" title="ORCID: 0009-0003-3663-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lunsford_caleb"><b>Lunsford</b>&nbsp;Caleb</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b>&nbsp;Sriramya</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0003-2365-9388" title="ORCID: 0000-0003-2365-9388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/ozturk_onur"><b>Ozturk</b>&nbsp;Onur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-3663-4515" title="ORCID: 0009-0003-3663-4515" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b>&nbsp;Caleb</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5887-5817" title="ORCID: 0000-0002-5887-5817" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b>&nbsp;Sriramya</a></span><br>
 Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
 <a href="../../keyword/advance"><button class="btn">#advance</button></a> <a href="../../keyword/approach"><button class="btn">#approach</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/stage"><button class="btn">#stage</button></a> <a href="../../keyword/underwater"><button class="btn">#underwater</button></a> 
@@ -57,7 +57,7 @@ Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
     ```bibtex
     @inproceedings{oztu_luns_nair.2025.AUCw3P,
-      author            = "Onur Ozturk and Caleb Lunsford and Sriramya Duddukuri Nair",
+      author            = "Onur Ozturk and Caleb Vincent Lunsford and Sriramya Duddukuri Nair",
       title             = "Advancing Underwater Construction with 3D Printing: A Two-Stage Approach",
       doi               = "10.5703/1288284318063",
       year              = "2025",
@@ -72,10 +72,10 @@ Contribution - Proceedings of the Carbon Conscious Concrete Symposium 2025
 
     === "IEEE"
 
-    <span id="iee">O. Ozturk, C. Lunsford and S. D. Nair, “Advancing Underwater Construction with 3D Printing: A Two-Stage Approach”, in <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>,  2025. doi: 10.5703/1288284318063.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">O. Ozturk, C. V. Lunsford and S. D. Nair, “Advancing Underwater Construction with 3D Printing: A Two-Stage Approach”, in <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>,  2025. doi: 10.5703/1288284318063.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Ozturk, Onur, Caleb Lunsford, and Sriramya Duddukuri Nair. “Advancing Underwater Construction with 3D Printing: A Two-Stage Approach”. In <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>, edited by xxx, 2025. https://doi.org/10.5703/1288284318063.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Ozturk, Onur, Caleb Vincent Lunsford, and Sriramya Duddukuri Nair. “Advancing Underwater Construction with 3D Printing: A Two-Stage Approach”. In <i>Proceedings of the Carbon Conscious Concrete Symposium 2025</i>, edited by xxx, 2025. https://doi.org/10.5703/1288284318063.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

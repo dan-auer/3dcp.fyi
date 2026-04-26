@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 25
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/hu_yuanyuan"><b>Hu</b> Yuanyuan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../yang_wang_hu_sanj.2024.AITOMIMCf3PFRCS/">An Integrated Topology-Optimization Method Including Manufacturing-Constraints for 3D Printed Fiber-Reinforced Concrete Structures</a> (11)</li>
+        <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/hu_yuanyuan"><b>Hu</b> Yuanyuan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../yang_wang_hu_sanj.2024.AITOMIMCf3PFRCS/">An Integrated Topology-Optimization Method Including Manufacturing-Constraints for 3D Printed Fiber-Reinforced Concrete Structures</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

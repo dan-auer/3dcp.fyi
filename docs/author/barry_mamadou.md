@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../barr_jacq_kach_perr.2024.IotENULC/">Instrumentation of the Extruder Nozzle Using Load Cells:<br/>Towards an In-Line Quality-Control Device for 3D Printed Cement-Based Materials</a> (1)</li>
+        <li><a href="../../../author/barry_mamadou"><b>Barry</b> Mamadou</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../barr_jacq_perr.2025.PVaPaQCTfE3CP/">Pocket Vane and Penetrometer as Quality Control Tool for Extrusion 3D Concrete Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/gomez_enrique"><b>Gomez</b> Enrique</a> (1)</li>
         <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (1)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
         <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (1)</li>
-        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> (1)</li>
-        <li><a href="../../../author/ye_yinlin"><b>Ye</b> Yinlin</a> (1)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (1)</li>
     </ol>
 
 </div>

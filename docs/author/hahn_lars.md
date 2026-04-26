@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/hahn_lars"><b>Hahn</b> Lars</a>, <a href="../../../author/le-xuan_hung"><b>Le Xuan</b> Hung</a>, <a href="../../../author/mersch_johannes"><b>Mersch</b> Johannes</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../frie_hahn_lex_mers.2023.RAMTf3NMRSitCA/">Robot-Assisted Manufacturing Technology for 3D Non-Metallic Reinforcement Structures in the Construction Applications</a> (3)</li>
+        <li><a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/hahn_lars"><b>Hahn</b> Lars</a>, <a href="../../../author/le-xuan_hung"><b>Le Xuan</b> Hung</a>, <a href="../../../author/mersch_johannes"><b>Mersch</b> Johannes</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../frie_hahn_lex_mers.2023.RAMTf3NMRSitCA/">Robot-Assisted Manufacturing Technology for 3D Non-Metallic Reinforcement Structures in the Construction Applications</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

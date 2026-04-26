@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 311
+    : 347
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (120)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (133)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (12)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (12)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (10)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (10)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (14)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (14)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (13)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (13)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
     </ol>
 
 </div>

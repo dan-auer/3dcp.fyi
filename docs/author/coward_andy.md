@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 13
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/coward_andy"><b>Coward</b> Andy</a>, <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../cowa_sre.2023.3PCBaOLCSE/">3D Printed Concrete Beams as Optimised Load Carrying Structural Elements:<br/>The Minimass Beam</a> (12)</li>
+        <li><a href="../../../author/coward_andy"><b>Coward</b> Andy</a>, <a href="../../../author/sorensen_harrild_jesper"><b>Sørensen</b> Jesper</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../cowa_sre.2023.3PCBaOLCSE/">3D Printed Concrete Beams as Optimised Load Carrying Structural Elements:<br/>The Minimass Beam</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> (2)</li>
+        <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a> (2)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
-        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (2)</li>
         <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (2)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (2)</li>
-        <li><a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> (2)</li>
     </ol>
 
 </div>

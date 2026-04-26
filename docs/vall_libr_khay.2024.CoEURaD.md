@@ -64,8 +64,9 @@ Journal Article - ACI Materials Journal, Vol. 121, Iss. 2
       <li><a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/hong_jinxiang"><b>Hong</b> Jinxiang</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wi_hong_wang.2021.DPZoTDPMUFTT/">Determining Printable Zone of Three-Dimensional-Printable Mortar Using Flow-Table Tests</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../li_khay.2026.EB3PoFRC/">Extrusion-Based 3D Printing of Fiber-Reinforced Concrete</a></li>
       <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a>, <a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../fasi_libr.2024.IBMaPPD3CEP/">Interaction Between Material and Process-Parameters During 3D Concrete-Extrusion-Process</a></li>
     </ol>
 </div>

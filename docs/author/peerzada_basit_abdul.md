@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/srivastava_manu"><b>Srivastava</b> Manu</a>, <a href="../../../author/ammons_jake"><b>Ammons</b> Jake</a>, <a href="../../../author/peerzada_basit_abdul"><b>Peerzada</b> Abdul</a>, <a href="../../../author/krovi_n_venkat"><b>Krovi</b> Venkat</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../sriv_ammo_peer_krov.2022.3PoCwaCRHUVCK/">3D Printing of Concrete with a Continuum-Robot-Hose Using Variable-Curvature Kinematics</a> (3)</li>
+        <li><a href="../../../author/srivastava_manu"><b>Srivastava</b> Manu</a>, <a href="../../../author/ammons_jake"><b>Ammons</b> Jake</a>, <a href="../../../author/peerzada_basit_abdul"><b>Peerzada</b> Abdul</a>, <a href="../../../author/krovi_n_venkat"><b>Krovi</b> Venkat</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../sriv_ammo_peer_krov.2022.3PoCwaCRHUVCK/">3D Printing of Concrete with a Continuum-Robot-Hose Using Variable-Curvature Kinematics</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/bengar_akbarzadeh_habib"><b>Bengar</b> Habib</a> (1)</li>
-        <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a> (1)</li>
         <li><a href="../../../author/mousavi_fateme"><b>Mousavi</b> Fateme</a> (1)</li>
         <li><a href="../../../author/mousavi_moein"><b>Mousavi</b> Moein</a> (1)</li>
         <li><a href="../../../author/srivastava_manu"><b>Srivastava</b> Manu</a> (1)</li>

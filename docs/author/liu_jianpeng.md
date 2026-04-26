@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS/">Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil</a> (6)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a>, <a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_zong_zhu.2023.PGAaMSo3PVCBwCaS/">Plant-Germination Ability and Mechanical Strength of 3D Printed Vegetation Concrete Bound with Cement and Soil</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (5)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (7)</li>
         <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> (4)</li>
-        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (3)</li>
-        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (3)</li>
-        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (2)</li>
+        <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> (4)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (4)</li>
+        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (4)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 85
+    : 97
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a> (31)</li>
+        <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/pang_bo"><b>Pang</b> Bo</a>, <a href="../../../author/wang_dafu"><b>Wang</b> Dafu</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../chen_zhan_pang_wang.2022.SFODaEo3PCwCA/">Steel-Fiber Orientational Distribution and Effects on 3D Printed Concrete with Coarse Aggregate</a> (33)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (5)</li>
         <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (5)</li>
         <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (5)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
         <li><a href="../../../author/wang_xiaomeng"><b>Wang</b> Xiaomeng</a> (4)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
     </ol>
 
 </div>

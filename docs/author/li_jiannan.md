@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_sing_zhao_sun.2024.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D Printed Concrete Through Recycled Ultra-Fine Waste-Glass-Powder</a> (3)</li>
+        <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_sing_zhao_sun.2024.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D Printed Concrete Through Recycled Ultra-Fine Waste-Glass-Powder</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> (1)</li>
         <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> (1)</li>
-        <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (1)</li>
+        <li><a href="../../../author/lu_han"><b>Lu</b> Han</a> (1)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (1)</li>
-        <li><a href="../../../author/zhou_yi_yi"><b>Zhou</b> Yi</a> (1)</li>
     </ol>
 
 </div>

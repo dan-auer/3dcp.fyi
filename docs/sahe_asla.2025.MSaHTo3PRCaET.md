@@ -56,8 +56,10 @@ Journal Article - Journal of Building Engineering, No. 113483
       <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> et al. <a href="../../../date/2017/09">(2017-09)</a><br><a href="../../../pand_paul_moha_tay.2018.MoTBSo3PGM/">Measurement of Tensile Bond Strength of 3D Printed Geopolymer Mortar</a></li>
       <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../paul_tay_pand_tan.2018.FaHPo3PCMfBaC/">Fresh and Hardened Properties of 3D Printable Cementitious Materials for Building and Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/shazad_qamar"><b>Shazad</b> Qamar</a>, <a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC/">Experimental Study on the Role of Defect-Driven Interfaces and Porosity in Governing the Mechanical Behavior of 3D-Printed Concrete</a></li>
+      <li><a href="../../../author/mo_jinxu"><b>Mo</b> Jinxu</a>, <a href="../../../author/lu_han"><b>Lu</b> Han</a>, <a href="../../../author/ren_fengming"><b>Ren</b> Fengming</a>, <a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mo_lu_ren_lai.2026.IoWRPSaRRotCSAaPSo3PC/">Impact of Waste Rubber Powder Size and Replacement Ratio on the Compressive Strength Anisotropy and Pore Structure of 3D Printed Concrete</a></li>
     </ol>
 </div>
 

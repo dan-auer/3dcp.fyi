@@ -25,7 +25,7 @@ search:
     : 15
 
     Number Citations
-    : 1093
+    : 1162
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (236)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (249)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (90)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (91)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (60)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (42)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (44)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (30)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (26)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (28)</li>
     </ol>
 
 </div>

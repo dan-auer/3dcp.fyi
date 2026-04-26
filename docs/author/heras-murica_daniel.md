@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 116
+    : 119
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a> (116)</li>
+        <li><a href="../../../author/heras-murica_daniel"><b>Heras Murica</b> Daniel</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../hera_gene_taha.2020.EtSoIPPotAo3PC/">Examining the Significance of Infill-Printing-Pattern on the Anisotropy of 3D Printed Concrete</a> (119)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,9 @@ search:
     <ol>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (7)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (4)</li>
         <li><a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a> (3)</li>
         <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (3)</li>
-        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (3)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/zhang_meixiang"><b>Zhang</b> Meixiang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ding_zhan_zhao_zhan.2024.IoPSLWCRFAoMPaPSo3PM/">Impact of Pre-Soaked Lime-Water-Carbonized Recycled Fine Aggregate on Mechanical Properties and Pore-Structure of 3D Printed Mortar</a> (6)</li>
+        <li><a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a>, <a href="../../../author/zhang_yaqi"><b>Zhang</b> Yaqi</a>, <a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/zhang_meixiang"><b>Zhang</b> Meixiang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../ding_zhan_zhao_zhan.2024.IoPSLWCRFAoMPaPSo3PM/">Impact of Pre-Soaked Lime-Water-Carbonized Recycled Fine Aggregate on Mechanical Properties and Pore-Structure of 3D Printed Mortar</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

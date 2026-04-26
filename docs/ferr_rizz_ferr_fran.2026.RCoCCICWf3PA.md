@@ -59,8 +59,10 @@ Journal Article - Cement and Concrete Composites, Vol. 167, No. 106452
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_sale_rous.2021.FGCiEBAMoC/">Filament-Geometry-Control in Extrusion-Based Additive Manufacturing of Concrete:<br/>The Good, the Bad and the Ugly</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mao_yong"><b>Mao</b> Yong</a>, <a href="../../../author/cheng_jinyi"><b>Cheng</b> Jinyi</a>, <a href="../../../author/guo_zhenbang"><b>Guo</b> Zhenbang</a>, <a href="../../../author/chi_baihong"><b>Chi</b> Baihong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../mao_chen_guo_chi.2026.FSMo3PCP/">Fumed Silica Modulation of 3D-Printed Cement Paste::<br/>Rheology, Microstructure, and Printability</a></li>
+      <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../rizz_lant_ferr_crem.2026.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>
     </ol>
 </div>
 

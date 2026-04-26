@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 92
+    : 98
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a> (92)</li>
+        <li><a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a>, <a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/bisetti_sameercharan"><b>Bisetti</b> Sameercharan</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ivan_ivan_bise_nere.2022.CBMfIAoBiF3PMaC/">Comparison Between Methods for Indirect Assessment of Buildability in Fresh 3D Printed Mortar and Concrete</a> (98)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
-        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (7)</li>
-        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (6)</li>
-        <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> (5)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
+        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (8)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (7)</li>
+        <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a> (6)</li>
         <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (5)</li>
     </ol>
 

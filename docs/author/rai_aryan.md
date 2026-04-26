@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/babbar_atul"><b>Babbar</b> Atul</a>, <a href="../../../author/rai_aryan"><b>Rai</b> Aryan</a>, <a href="../../../author/sharma_ankit"><b>Sharma</b> Ankit</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../babb_rai_shar.2021.LTiBC/">Latest Trend in Building Construction:<br/>Three-Dimensional Printing</a> (0)</li>
+        <li><a href="../../../author/babbar_atul"><b>Babbar</b> Atul</a>, <a href="../../../author/rai_aryan"><b>Rai</b> Aryan</a>, <a href="../../../author/sharma_ankit"><b>Sharma</b> Ankit</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../babb_rai_shar.2021.LTiBC/">Latest Trend in Building Construction:<br/>Three-Dimensional Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/marifah_lailatul_sofa"><b>Marifah</b> Sofa</a> (1)</li>
+        <li><a href="../../../author/permadi_damas_dio"><b>Permadi</b> Dio</a> (1)</li>
+        <li><a href="../../../author/saputri_sukmayu_utamy"><b>Saputri</b> Utamy</a> (1)</li>
     </ol>
 
 </div>

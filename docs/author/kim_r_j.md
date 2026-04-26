@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b> Bakbergen</a>, <a href="../../../author/nurgaliuly_dias"><b>Nurgaliuly</b> Dias</a>, <a href="../../../author/kim_r_j"><b>Kim</b> J.</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../temi_nurg_kim_sheh.2025.DoCEGMfLGMaBAf3CP/">Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing</a> (0)</li>
+        <li><a href="../../../author/temirzakuly_bakbergen"><b>Temirzakuly</b> Bakbergen</a>, <a href="../../../author/nurgaliuly_dias"><b>Nurgaliuly</b> Dias</a>, <a href="../../../author/kim_r_j"><b>Kim</b> J.</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../temi_nurg_kim_sheh.2025.DoCEGMfLGMaBAf3CP/">Development of Cost-Effective Geopolymer Mortars from Low-Grade Metakaolin and Bottom Ash for 3D Construction Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a> (1)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (1)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (1)</li>
+        <li><a href="../../../author/zhang_yiying"><b>Zhang</b> Yiying</a> (1)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (1)</li>
     </ol>
 
 </div>

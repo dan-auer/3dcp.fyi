@@ -45,8 +45,9 @@ Contribution - Proceedings of the 12th International Conference on Fracture Mech
     <ol class = "bordered-list">
       <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/gan_yidong"><b>Gan</b> Yidong</a>, <a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../chen_he_gan_copu.2022.ARoPSSCMaCMitCoEB3CP/">A Review of Printing-Strategies, Sustainable Cementitious Materials and Characterization Methods in the Context of Extrusion-Based 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/bang_soo_jin"><b>Bang</b> Jin</a>, <a href="../../../author/ha_jun_seong"><b>Ha</b> Seong</a>, <a href="../../../author/hwang_young_ju"><b>Hwang</b> Ju</a>, <a href="../../../author/ahn_jin-hee"><b>Ahn</b> Jin-Hee</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../bang_ha_hwan_ahn.2026.HRCw3PF/">Hybrid RC Columns with 3D Printed Formworks:<br/>A Case Study on Process-Informed Structural Integrity</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 9
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moghayedi_alireza"><b>Moghayedi</b> Alireza</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/lediga_refilwe"><b>Lediga</b> Refilwe</a>, <a href="../../../author/mosiea_tshepang"><b>Mosiea</b> Tshepang</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mogh_maha_ledi_mosi.2024.RAHiA/">Revolutionizing Affordable Housing in Africa:<br/>A Comprehensive Technical and Sustainability Study of 3D Printing Technology</a> (9)</li>
+        <li><a href="../../../author/moghayedi_alireza"><b>Moghayedi</b> Alireza</a>, <a href="../../../author/mahachi_jeffrey"><b>Mahachi</b> Jeffrey</a>, <a href="../../../author/lediga_refilwe"><b>Lediga</b> Refilwe</a>, <a href="../../../author/mosiea_tshepang"><b>Mosiea</b> Tshepang</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../mogh_maha_ledi_mosi.2024.RAHiA/">Revolutionizing Affordable Housing in Africa:<br/>A Comprehensive Technical and Sustainability Study of 3D Printing Technology</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/imoni_okes"><b>Imoni</b> Okes</a> (1)</li>
-        <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a> (1)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
-        <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (1)</li>
-        <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (1)</li>
+        <li><a href="../../../author/pontrandolfo_pierpaolo"><b>Pontrandolfo</b> Pierpaolo</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
     </ol>
 
 </div>

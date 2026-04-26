@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 506
+    : 539
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a> (239)</li>
+        <li><a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../hou_duan_xiao_ye.2021.ARo3PC/">A Review of 3D Printed Concrete:<br/>Performance-Requirements, Testing Measurements and Mix-Design</a> (247)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (36)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (37)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (21)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (20)</li>
-        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (19)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (15)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (17)</li>
         <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (13)</li>
     </ol>
 

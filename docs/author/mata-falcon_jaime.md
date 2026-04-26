@@ -25,7 +25,7 @@ search:
     : 31
 
     Number Citations
-    : 1147
+    : 1189
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (281)</li>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../aspr_menn_bos_sale.2018.RRfDFwC/">Rethinking Reinforcement for Digital Fabrication with Concrete</a> (289)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (63)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (55)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (48)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (49)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (46)</li>
         <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (45)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (45)</li>
     </ol>
 
 </div>

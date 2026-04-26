@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 38
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a> (37)</li>
+        <li><a href="../../../author/rollakanti_rahul_chiranjeevi"><b>Rollakanti</b> Chiranjeevi</a>, <a href="../../../author/prasad_venkata-siva-rama_c"><b>Prasad</b> C.</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../roll_pras.2022.APCaCPo3CPTatFoSC/">Applications, Performance, Challenges and Current Progress of 3D Concrete Printing Technologies as the Future of Sustainable Construction:<br/>A State of the Art Review</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (2)</li>
+        <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a> (2)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (2)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (2)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (2)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (2)</li>
-        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (2)</li>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (1)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
     </ol>
 
 </div>

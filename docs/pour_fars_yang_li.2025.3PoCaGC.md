@@ -109,8 +109,9 @@ Journal Article - Journal of Structural Design and Construction Practice, Vol. 3
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zare_khos.2018._oMIoILAoCiCC/">_Effects of Mixture Ingredients on Inter-Layer Adhesion of Concrete in Contour Crafting</a></li>
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/li_haiyan"><b>Li</b> Haiyan</a>, <a href="../../../author/luo_aizhong"><b>Luo</b> Aizhong</a>, <a href="../../../author/zhang_xiaozhong"><b>Zhang</b> Xiaozhong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../li_luo_zhan_ma.2026.OoOPAACfEB3PTIPE/">Optimization of One-Part Alkali-Activated Concrete for Extrusion-Based 3D Printing Through Integrated Performance Evaluation</a></li>
     </ol>
 </div>
 

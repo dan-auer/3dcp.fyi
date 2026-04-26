@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 75
+    : 81
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a> (34)</li>
+        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/han_dong"><b>Han</b> Dong</a>, <a href="../../../author/zhang_zhiling"><b>Zhang</b> Zhiling</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../xu_huan_han_zhan.2022.TAC/">Toward Automated Construction:<br/>The Design-to-Printing Workflow for a Robotic In-Situ 3D Printed House</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (5)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
-        <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> (4)</li>
         <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (4)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
     </ol>
 
 </div>

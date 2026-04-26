@@ -19,13 +19,13 @@ search:
     : 2018-03-20
     
     Last Contribution
-    : 2025-10-21
+    : 2026-04-05
 
     Number Contributions
-    : 29
+    : 31
 
     Number Citations
-    : 1153
+    : 1221
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a> (292)</li>
+        <li><a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a>, <a href="../../../author/auricchio_ferdinando"><b>Auricchio</b> Ferdinando</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/mercuri_valentina"><b>Mercuri</b> Valentina</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../aspr_auri_menn_merc.2018.3PoRCE/">3D Printing of Reinforced Concrete Elements:<br/>Technology and Design Approach</a> (299)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (74)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (60)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (52)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (43)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (43)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (81)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (65)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (57)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (49)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (52)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (43)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (53)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (42)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (40)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (40)</li>
-        <li><a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> (38)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/cassese_paolino"><b>Cassese</b> Paolino</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/prota_a"><b>Prota</b> A.</a>, <a href="../../../author/occhiuzzi_antonio"><b>Occhiuzzi</b> Antonio</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../cass_menn_prot_occh.2026.EIotACBo3PCPwPII/">Experimental Investigation on the Axial Compressive Behavior of 3D-Printed Cementitious Panels with Process-Induced Imperfections</a></li>
+  <li><a href="../../../author/giulivo_gianluca"><b>Giulivo</b> Gianluca</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../giul_menn.2025.TRoIIi3PE/">The Role of Interlayer Interfaces in 3D-Printed Elements:<br/>A Nonlinear FEM-Based Study</a></li>
   <li><a href="../../../author/bianco_nicola"><b>Bianco</b> Nicola</a>, <a href="../../../author/fragnito_andrea"><b>Fragnito</b> Andrea</a>, <a href="../../../author/iasiello_marcello"><b>Iasiello</b> Marcello</a>, <a href="../../../author/mauro_maria_gerardo"><b>Mauro</b> Gerardo</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bian_frag_iasi_maur.2025.NAoa3PCEIPN/">Numerical Analysis of a 3D Printed Concrete Envelope Incorporating PCM Nanoparticles</a></li>
   <li><a href="../../../author/giulivo_marco"><b>Giulivo</b> Marco</a>, <a href="../../../author/capozzi_vittorio"><b>Capozzi</b> Vittorio</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../giul_capo_menn.2025.EaAAotiPBo3PCWStCL/">Experimental and Analytical Assessment of the in-Plane Behaviour of 3D Printed Concrete Walls Subjected to Cyclic Loads</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

@@ -19,20 +19,20 @@ search:
     : 2023-06-16
     
     Last Contribution
-    : 2025-12-13
+    : 2026-01-24
 
     Number Contributions
-    : 5
+    : 6
 
     Number Citations
-    : 8
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a> (5)</li>
         <li><a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> (3)</li>
         <li><a href="../../../author/jarabo_rocio"><b>Jarabo</b> Rocío</a> (2)</li>
-        <li><a href="../../../author/cabello_z"><b>Cabello</b> Z.</a> (1)</li>
+        <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a> (1)</li>
         <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a> (1)</li>
     </ol>
     
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> (1)</li>
         <li><a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> (1)</li>
-        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (1)</li>
         <li><a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> (1)</li>
-        <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> (1)</li>
+        <li><a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
+        <li><a href="../../../author/zhang_shuting"><b>Zhang</b> Shuting</a> (1)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/padilla-encinas_pilar"><b>Padilla-Encinas</b> Pilar</a>, <a href="../../../author/corani_fernando_jose"><b>Corani</b> Jose</a>, <a href="../../../author/cuevas_jaime"><b>Cuevas</b> Jaime</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../padi_cora_cuev_guer.2026.VoIWiMPPCfEB3P/">Valorisation of Industrial Wastes in Magnesium Potassium Phosphate Cements for Extrusion-Based 3D Printing</a></li>
   <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a>, <a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../tabo_hoyo_asen_guer.2025.IotCPPotMPaDo3PC/">Influence of the Construction Process Parameters on the Mechanical Performance and Durability of 3D Printed Concrete:<br/>A Systematic Review</a></li>
   <li><a href="../../../author/guerrero_m_ana"><b>Guerrero</b> Ana</a>, <a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fernandez_fernando"><b>Fernández</b> Fernando</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../guer_asen_fern.2026.LFAMwCaC/">Large‐Format Additive Manufacturing with Cement and Clays:<br/>Characterization Methods</a></li>
   <li><a href="../../../author/asensio_eloy"><b>Asensio</b> Eloy</a>, <a href="../../../author/fenandez_f"><b>Fenàndez</b> F.</a>, <a href="../../../author/cabello_z"><b>Cabello</b> Z.</a>, <a href="../../../author/alvarez_o"><b>Álvarez</b> O.</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../asen_fena_cabe_alva.2024.LCEMUBAf3P/">Low-Clinker ECC Materials Using Biomass Ash for 3D Printing</a></li>

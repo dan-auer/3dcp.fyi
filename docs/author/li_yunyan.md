@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a>, <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moza_kamr_li_mata.2024.LCF3PfRCC/">Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction</a> (2)</li>
+        <li><a href="../../../author/mozaffari_salma"><b>Mozaffari</b> Salma</a>, <a href="../../../author/kamravafar_rahasadat"><b>Kamravafar</b> Rahasadat</a>, <a href="../../../author/li_yunyan"><b>Li</b> Yunyan</a>, <a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moza_kamr_li_mata.2024.LCF3PfRCC/">Leveraging Clay-Formwork 3D Printing for Reinforced-Concrete Construction</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/block_philippe"><b>Block</b> Philippe</a> (1)</li>
         <li><a href="../../../author/magdassi_shlomo"><b>Magdassi</b> Shlomo</a> (1)</li>
         <li><a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a> (1)</li>
         <li><a href="../../../author/pichler_nils"><b>Pichler</b> Nils</a> (1)</li>
-        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (1)</li>
-        <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
     </ol>
 
 </div>

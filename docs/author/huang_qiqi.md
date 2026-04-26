@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 19
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../maie_armi_miko_huan.2024.Ra3PoABSEC/">Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete</a> (19)</li>
+        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../maie_armi_miko_huan.2024.Ra3PoABSEC/">Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (6)</li>
+        <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (6)</li>
+        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (6)</li>
         <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (5)</li>
-        <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (5)</li>
-        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (5)</li>
-        <li><a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a> (2)</li>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (3)</li>
     </ol>
 
 </div>

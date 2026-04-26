@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a> (5)</li>
+        <li><a href="../../../author/ralston_nadia"><b>Ralston</b> Nadia</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rals_gupt_moin.2024.3PoACSBwEaISC/">3D Printing of Architected Calcium-Silicate Binders with Enhanced and In-Situ Carbonation</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (2)</li>
         <li><a href="../../../author/abbas_ali"><b>Abbas</b> Ali</a> (1)</li>
-        <li><a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a> (1)</li>
         <li><a href="../../../author/daly_ronan"><b>Daly</b> Ronan</a> (1)</li>
-        <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> (1)</li>
-        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (1)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (1)</li>
+        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (1)</li>
     </ol>
 
 </div>

@@ -69,8 +69,11 @@ Journal Article - Journal of Building Engineering, No. 112111
       <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zava_nane_silv_ruiz.2024.ACUEEBC/">Additive Construction Using Enhanced Earthen-Based Composites:<br/>Improvement of the Mechanical Strength and Water Durability Using Chitosan and Agave-Fibers</a></li>
       <li><a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2012/09">(2012-09)</a><br><a href="../../../zhan_khos.2013.OMOPfCbCC/">Optimal Machine Operation Planning for Construction by Contour Crafting</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a>, <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE/">Improved Resistance to Water Erosion and Self-Healing Capacity of Earthen-Based 3D Printed Elements Using Enzyme-Induced Carbonate Precipitation (EICP)</a></li>
+      <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a>, <a href="../../../author/qazi_nadeem"><b>Qazi</b> Nadeem</a>, <a href="../../../author/das_busan_bibhuti"><b>Das</b> Bibhuti</a>, <a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../barb_qazi_das_kata.2026.MLIfSMASiLS3P/">Machine Learning Integration for Smarter, More Adaptive Systems in Large-Scale 3D Printing</a></li>
+      <li><a href="../../../author/bihari_adam"><b>Bihari</b> Ádám</a>, <a href="../../../author/nemes_rita"><b>Nemes</b> Rita</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../biha_neme.2026.IoWVAaTCPoSEMftCo3PWS/">Investigation of Water Vapor Adsorption and Thermal Conductivity Properties of Stabilized Earth Mixtures for the Construction of 3D Printed Wall Structures</a></li>
     </ol>
 </div>
 

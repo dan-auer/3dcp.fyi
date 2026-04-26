@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (4)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (6)</li>
         <li><a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> (2)</li>
         <li><a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> (2)</li>
         <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (2)</li>

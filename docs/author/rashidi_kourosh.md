@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 13
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a> (13)</li>
+        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/rashidi_kourosh"><b>Rashidi</b> Kourosh</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../sedg_rash_hoja.2024.LS3WP/">Large-Scale 3D Wall Printing:<br/>From Concept to Reality</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (2)</li>
         <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (2)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (2)</li>
-        <li><a href="../../../author/ahmed_mohamed-aly_aly"><b>Ahmed</b> Aly</a> (1)</li>
-        <li><a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> (1)</li>
-        <li><a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/floris_ignazio"><b>Floris</b> Ignazio</a>, <a href="../../../author/duran_dayan"><b>Duran</b> Dayan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sang_flor_dura.2025.UIAfBBMt3CPaSP/">Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping</a> (0)</li>
+        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/floris_ignazio"><b>Floris</b> Ignazio</a>, <a href="../../../author/duran_dayan"><b>Duran</b> Dayan</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sang_flor_dura.2025.UIAfBBMt3CPaSP/">Unified Integration Approach for Bridging BIM Model to 3D Construction Printing and Scale Prototyping</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/kocaer_oznur"><b>Kocaer</b> Öznur</a> (1)</li>
     </ol>
 
 </div>

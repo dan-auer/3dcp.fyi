@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 268
+    : 284
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a> (65)</li>
+        <li><a href="../../../author/bi_minghao"><b>Bi</b> Minghao</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/xia_lingwei"><b>Xia</b> Lingwei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../bi_tran_xia_ma.2022.TOf3CPwVMC/">Topology-Optimization for 3D Concrete Printing with Various Manufacturing-Constraints</a> (66)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (12)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (13)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (9)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
-        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (8)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
         <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (8)</li>
     </ol>
 

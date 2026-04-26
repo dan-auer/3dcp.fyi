@@ -19,35 +19,35 @@ search:
     : 2024-04-04
     
     Last Contribution
-    : 2025-11-26
+    : 2026-03-12
 
     Number Contributions
-    : 11
+    : 13
 
     Number Citations
-    : 15
+    : 21
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (10)</li>
-        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (7)</li>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (12)</li>
+        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (9)</li>
+        <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> (7)</li>
         <li><a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a> (5)</li>
-        <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> (5)</li>
         <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (5)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (8)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (11)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
-        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (8)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (8)</li>
-        <li><a href="../../../author/wu_hao"><b>Wu</b> Hao</a> (6)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS/">Design-to-Fabrication Workflow for 3D Concrete Printed Structures with Embedded Periodic Anticlastic Surfaces</a></li>
+  <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/motavaselian_amir"><b>Motavaselian</b> Amir</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhi_oror_mota_chai.2025.TOfaPTC3PFS/">Toolpath Optimization for a Post-Tensioned Concrete 3D-Printed Floor Structure</a></li>
   <li><a href="../../../author/wang_zherui"><b>Wang</b> Zherui</a>, <a href="../../../author/teitelbaum_e"><b>Teitelbaum</b> E.</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/aviv_d"><b>Aviv</b> D.</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER/">Experimental Assessment on Thermal Mass Performance of Structurally Optimized, 3D-Printed Concrete Floor Element for Carbon Emission Reduction</a></li>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhi_akba.2025.STToSCi3CPfOBaSQ/">Surface-Toolpath Twins of Shell Components in 3D Concrete Printing for Optimized Buildability and Surface Quality</a></li>

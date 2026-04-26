@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 19
+    : 23
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_cai_ma_hou.2024.SB3CPPDM/">Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>Actionable Insight for High Printing Quality</a> (12)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/cai_huachong"><b>Cai</b> Huachong</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/hou_guanyu"><b>Hou</b> Guanyu</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../liu_cai_ma_hou.2024.SB3CPPDM/">Spray-Based 3D Concrete Printing-Parameter Design-Model:<br/>Actionable Insight for High Printing Quality</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (11)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (8)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (12)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (9)</li>
         <li><a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a> (5)</li>
         <li><a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a> (4)</li>
     </ol>

@@ -25,7 +25,7 @@ search:
     : 15
 
     Number Citations
-    : 460
+    : 475
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a> (127)</li>
+        <li><a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> et al. <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../liu_li_weng_wong.2019.MDAtOtRPotMUi3CMP/">Mixture-Design-Approach to Optimize the Rheological Properties of the Material Used in 3D Cementitious Material-Printing</a> (132)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (31)</li>
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (29)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (26)</li>
-        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (18)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (19)</li>
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (15)</li>
     </ol>
 

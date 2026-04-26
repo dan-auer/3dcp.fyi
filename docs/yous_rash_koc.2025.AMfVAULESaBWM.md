@@ -64,8 +64,9 @@ Journal Article - Engineering Structures, Vol. 344, No. 121321
       <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yous_rash_koc.2024.PTfS3PoCS/">Parameter-Tuning for Sustainable 3D Printing of Clay Structures</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../yous_koc.2026.BI4PoESCfSLWA/">Bio-Inspired 4D Printing of Earthen Soil Composites for Structural Living Wall Applications</a></li>
       <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a></li>
     </ol>
 </div>

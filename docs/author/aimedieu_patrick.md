@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zuo_cane_keit_aime.2024.DIDiEFCBMaVEA/">Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages:<br/>From Standard Casting to 3D Printing</a> (2)</li>
+        <li><a href="../../../author/zuo_wenqiang"><b>Zuo</b> Wenqiang</a>, <a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a>, <a href="../../../author/aimedieu_patrick"><b>Aimedieu</b> Patrick</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zuo_cane_keit_aime.2024.DIDiEFCBMaVEA/">Drying-Induced Damages in Exposed Fresh Cement-Based Materials at Very Early-Ages:<br/>From Standard Casting to 3D Printing</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (1)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (1)</li>
-        <li><a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> (1)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (1)</li>
-        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (1)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (2)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (2)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

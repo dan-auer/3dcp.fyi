@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 28
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a> (28)</li>
+        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (3)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (2)</li>
         <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
         <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (2)</li>
-        <li><a href="../../../author/gao_pan"><b>Gao</b> Pan</a> (1)</li>
-        <li><a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> (1)</li>
     </ol>
 
 </div>

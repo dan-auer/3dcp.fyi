@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 389
+    : 418
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a> (214)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/li_zhenming"><b>Li</b> Zhenming</a>, <a href="../../../author/chang_ze"><b>Chang</b> Ze</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../chen_figu_li_chan.2020.IPoLCCBCMbUVMA/">Improving Printability of Limestone-Calcined-Clay-Based Cementitious Materials by Using Viscosity-Modifying Admixture</a> (224)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
         <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (14)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (14)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (13)</li>
         <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (12)</li>
-        <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (11)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (12)</li>
     </ol>
 
 </div>

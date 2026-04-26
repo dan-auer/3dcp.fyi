@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 20
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/novak_josef"><b>Novák</b> Josef</a>, <a href="../../../author/kohoutkova_alena"><b>Kohoutková</b> Alena</a>, <a href="../../../author/vosynek_petr"><b>Vosynek</b> Petr</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vesp_nova_koho_vosy.2020.IBaITSoaHCMwaCAfAM/">Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing</a> (16)</li>
+        <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/novak_josef"><b>Novák</b> Josef</a>, <a href="../../../author/kohoutkova_alena"><b>Kohoutková</b> Alena</a>, <a href="../../../author/vosynek_petr"><b>Vosynek</b> Petr</a> et al. <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vesp_nova_koho_vosy.2020.IBaITSoaHCMwaCAfAM/">Interface Behavior and Interface Tensile Strength of a Hardened Concrete Mixture with a Coarse Aggregate for Additive Manufacturing</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
-        <li><a href="../../../author/chen_bing"><b>Chen</b> Bing</a> (2)</li>
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a> (2)</li>
+        <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a> (2)</li>
+        <li><a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a> (2)</li>
     </ol>
 
 </div>

@@ -55,7 +55,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 52-59
       title             = "Hybrid Additive Manufacturing",
       year              = "2024",
       pages             = "52--59",
-      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2021",
+      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2024",
       editor            = "Nadja Gaudillière-Jami and Alexander Wolf",
     }
 
@@ -66,10 +66,10 @@ Contribution - Built Environment Additive Manufacturing, pp. 52-59
 
     === "IEEE"
 
-    <span id="iee">N. P. Hack, R. Dörrie and H. Kloft, “Hybrid Additive Manufacturing”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>,  2024, pp. 52–59.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">N. P. Hack, R. Dörrie and H. Kloft, “Hybrid Additive Manufacturing”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>,  2024, pp. 52–59.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Hack, Norman Peter, Robin Dörrie, and Harald Kloft. “Hybrid Additive Manufacturing”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 52–59, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Hack, Norman Peter, Robin Dörrie, and Harald Kloft. “Hybrid Additive Manufacturing”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 52–59, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

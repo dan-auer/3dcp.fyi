@@ -60,8 +60,9 @@ Contribution - Proceedings of the 10th International Conference on Research into
       <li><a href="../../../author/xu_yading"><b>Xu</b> Yading</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../xu_savi.2019.DoSHCCSRw3PPR/">Development of Strain-Hardening Cementitious Composite (SHCC) Reinforced with 3D Printed Polymeric Reinforcement:<br/>Mechanical Properties</a></li>
       <li><a href="../../../author/yang_jun-mo"><b>Yang</b> Jun-Mo</a>, <a href="../../../author/park_in-beom"><b>Park</b> In-Beom</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/kwon_hongkyu"><b>Kwon</b> Hongkyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../yang_park_lee_kwon.2022.EoNDoPQaHPoU3PC/">Effects of Nozzle Details on Print Quality and Hardened Properties of Underwater 3D Printed Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maur_pand_dixi.2026.ESoVRaBBi3CPwaTIN/">Experimental Study on Void Reduction and Bonding Behavior in 3D Concrete Printing with a Trowel-Integrated Nozzle</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/augonis_algirdas"><b>Augonis</b> Algirdas</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../butk_vait_sink_augo.2023.IoCBSGi3CP/">Influence of Carbonated-Bottom-Slag-Granules in 3D Concrete Printing</a> (6)</li>
+        <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/augonis_algirdas"><b>Augonis</b> Algirdas</a> et al. <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../butk_vait_sink_augo.2023.IoCBSGi3CP/">Influence of Carbonated-Bottom-Slag-Granules in 3D Concrete Printing</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

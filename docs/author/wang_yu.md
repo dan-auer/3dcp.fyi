@@ -19,35 +19,35 @@ search:
     : 2020-06-27
     
     Last Contribution
-    : 2023-11-14
+    : 2026-02-09
 
     Number Contributions
-    : 8
+    : 9
 
     Number Citations
-    : 467
+    : 488
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> (3)</li>
-        <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a> (3)</li>
+        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (3)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (3)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
-        <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (2)</li>
+        <li><a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> (3)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (236)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../ding_xiao_zou_wang.2020.HPoL3PCwRS/">Hardened Properties of Layered 3D Printed Concrete with Recycled Sand</a> (249)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (33)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (19)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (18)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (17)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (16)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b> Naveenkumar</a>, <a href="../../../author/cubillos-gamez_l_david"><b>Cubillos-Gamez</b> David</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC/">Cellulose Nanofibers and Limestone Filler Enable High-Performance, Sustainable, and Cost-Efficient Printable Concrete</a></li>
   <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a></li>
   <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/teng_huaijin"><b>Teng</b> Huaijin</a>, <a href="../../../author/liao_hengcheng"><b>Liao</b> Hengcheng</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../pan_teng_liao_jian.2022.EoSPAoMPo3PCBM/">Effect of Shaping Plate Apparatus on Mechanical Properties of 3D Printed Cement-Based Materials:<br/>Experimental and Numerical Studies</a></li>

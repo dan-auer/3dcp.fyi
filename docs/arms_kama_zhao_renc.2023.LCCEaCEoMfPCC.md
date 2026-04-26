@@ -55,8 +55,9 @@ Journal Article - Resources, Conservation and Recycling, Vol. 197, No. 107117
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "2 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/silvennoinen_heidi"><b>Silvennoinen</b> Heidi</a>, <a href="../../../author/honic_meliha"><b>Honic</b> Meliha</a>, <a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../silv_honi_slav_bloc.2026.AMfCC/">Additive Manufacturing for Circular Construction:<br/>A Review of Design Strategies and Their Assessment</a></li>
       <li><a href="../../../author/turk_ayse"><b>Türk</b> Ayşe</a>, <a href="../../../author/turk_furkan"><b>Türk</b> Furkan</a>, <a href="../../../author/edebali_serpil"><b>Edebali</b> Serpil</a>, <a href="../../../author/keskin_sultan_ulku"><b>Keskin</b> Ülkü</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../turk_turk_edeb_kesk.2025.3PMwGM/">3D Printable Mortars with Green Materials:<br/>Sustainable Solutions with Nanocellulose</a></li>
       <li><a href="../../../author/schweizer_katie"><b>Schweizer</b> Katie</a>, <a href="../../../author/bhandari_sunil"><b>Bhandari</b> Sunil</a>, <a href="../../../author/lopez-anido_a_roberto"><b>Lopez-Anido</b> Roberto</a>, <a href="../../../author/korey_n_matthew"><b>Korey</b> Matthew</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC/">Recycling Large-Format 3D Printed Polymer Composite Formworks Used for Casting Pre-Cast Concrete:<br/>Technical Feasibility and Challenges</a></li>
     </ol>

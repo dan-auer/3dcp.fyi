@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 42
+    : 48
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (4)</li>
         <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (4)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
         <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (3)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (3)</li>
-        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 27
+    : 32
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a> (27)</li>
+        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a> (32)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (2)</li>
-        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (2)</li>
-        <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (2)</li>
+        <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> (3)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (3)</li>
         <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (2)</li>
         <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (2)</li>
+        <li><a href="../../../author/yu_chaomin"><b>Yu</b> Chaomin</a> (2)</li>
     </ol>
 
 </div>

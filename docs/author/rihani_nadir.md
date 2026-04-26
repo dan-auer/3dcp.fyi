@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../akhr_oulk_jai_riha.2025.EBM3PEaBNI/">Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations</a> (2)</li>
+        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a>, <a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../akhr_oulk_jai_riha.2025.EBM3PEaBNI/">Earth-Based Materials 3D Printing, Extrudability and Buildability Numerical Investigations</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (2)</li>
+        <li><a href="../../../author/baalal_eddine_salah"><b>Baalal</b> Salah</a> (2)</li>
+        <li><a href="../../../author/el-jai_mostapha"><b>El Jai</b> Mostapha</a> (2)</li>
+        <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (2)</li>
         <li><a href="../../../author/cherkaoui_khalid"><b>Cherkaoui</b> Khalid</a> (1)</li>
-        <li><a href="../../../author/foulki_rida"><b>Foulki</b> Rida</a> (1)</li>
-        <li><a href="../../../author/mesoudy_el_mouad"><b>Mesoudy</b> Mouad</a> (1)</li>
     </ol>
 
 </div>

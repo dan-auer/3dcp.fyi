@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 3
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a> (2)</li>
+        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_kaiyun"><b>Huang</b> Kaiyun</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhon_huan_liu_wang.2024.CDAMoSSSM/">CO2-Driven Additive Manufacturing of Sustainable Steel-Slag-Mortars</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a> (1)</li>
-        <li><a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> (1)</li>
-        <li><a href="../../../author/maierova_petra"><b>Maierová</b> Petra</a> (1)</li>
-        <li><a href="../../../author/pavlik_zbysek"><b>Pavlík</b> Zbyšek</a> (1)</li>
-        <li><a href="../../../author/topinkova_michaela"><b>Topinková</b> Michaela</a> (1)</li>
+        <li><a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a> (2)</li>
+        <li><a href="../../../author/luo_jintao"><b>Luo</b> Jintao</a> (2)</li>
+        <li><a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> (2)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (2)</li>
+        <li><a href="../../../author/zhang_shuting"><b>Zhang</b> Shuting</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 15
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../luo_li_wang.2024.SoBPo3PPFRCBM/">Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material</a> (11)</li>
+        <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../luo_li_wang.2024.SoBPo3PPFRCBM/">Study on Bending Performance of 3D Printed PVA-Fiber-Reinforced Cement-Based Material</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

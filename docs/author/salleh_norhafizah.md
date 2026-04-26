@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/salleh_norhafizah"><b>Salleh</b> Norhafizah</a>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b> Nur</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b> Zalipah</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sall_jama_abdu_jame.2021.NTi3CPbUGGBFS/">New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag:<br/>A Review</a> (6)</li>
+        <li><a href="../../../author/salleh_norhafizah"><b>Salleh</b> Norhafizah</a>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b> Nur</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b> Zalipah</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sall_jama_abdu_jame.2021.NTi3CPbUGGBFS/">New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag:<br/>A Review</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> (2)</li>
+        <li><a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> (2)</li>
         <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
-        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
     </ol>
 
 </div>

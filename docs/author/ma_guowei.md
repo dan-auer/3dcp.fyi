@@ -19,44 +19,44 @@ search:
     : 2017-08-30
     
     Last Contribution
-    : 2025-12-18
+    : 2026-03-28
 
     Number Contributions
-    : 80
+    : 82
 
     Number Citations
-    : 4063
+    : 4336
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (60)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (61)</li>
         <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (19)</li>
         <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (11)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (10)</li>
         <li><a href="../../../author/wang_fang"><b>Wang</b> Fang</a> (10)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (9)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a> (435)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> <a href="../../../date/2017/12">(2017-12)</a><br><a href="../../../ma_li_wang.2018.PPoCMCCTfEB3P/">Printable Properties of Cementitious Material Containing Copper-Tailings for Extrusion-Based 3D Printing</a> (450)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (151)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (142)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (139)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (133)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (154)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (146)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (143)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (137)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (114)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (134)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (107)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (110)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (92)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (83)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (77)</li>
-        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (69)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_wang_ma.2026.ASST3PC/">Advancing Sustainable Structures Through 3D Printed Concrete:<br/>Reinforcement Methods and Structural Design Philosophy</a></li>
+  <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/zhang_yalei"><b>Zhang</b> Yalei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../sun_liu_zhan_ma.2026.SB3PTLC/">Spray-Based 3D Printed Tunnel Lining Concrete:<br/>Optimization of Full-Angle Printing Path</a></li>
   <li><a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../yan_zhan_ma.2025.SEoMSMoRaUESPo3PFGG/">Synergistic Effect of Multi-Supplementary Materials on Rheology and Ultra-Early Stage Properties of 3D Printable FA-GBFS Geopolymer</a></li>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>

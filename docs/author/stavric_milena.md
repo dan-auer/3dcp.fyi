@@ -19,10 +19,10 @@ search:
     : 2023-09-17
     
     Last Contribution
-    : 2024-11-15
+    : 2026-03-17
 
     Number Contributions
-    : 4
+    : 5
 
     Number Citations
     : 7
@@ -30,10 +30,10 @@ search:
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a> (4)</li>
-        <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a> (3)</li>
+        <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a> (4)</li>
         <li><a href="../../../author/ristoski_kristijan"><b>Ristoski</b> Kristijan</a> (2)</li>
         <li><a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a> (2)</li>
-        <li><a href="../../../author/konigsberger_markus"><b>Königsberger</b> Markus</a> (1)</li>
+        <li><a href="../../../author/shih_guan_shen"><b>Shih</b> Shen</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -44,10 +44,10 @@ search:
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (3)</li>
+        <li><a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> (3)</li>
+        <li><a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a> (3)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
-        <li><a href="../../../author/klug_christina"><b>Klug</b> Christina</a> (2)</li>
-        <li><a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a> (2)</li>
+        <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wagiri_felicia"><b>Wagiri</b> Felicia</a>, <a href="../../../author/shih_guan_shen"><b>Shih</b> Shen</a>, <a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wagi_shih_jauk_stav.2026.CC/">Continuous Clay:<br/>Optimized Toolpaths for 3D-Printed Ceramic Structures Inspired by Weaving Patterns</a></li>
   <li><a href="../../../author/bartaky_markus"><b>Bartaky</b> Markus</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../bart_gosc_stav.2024.STH/">Sustainable Temporary Housing:<br/>An Evaluation-Framework for Large-Scale 3D Printer for Adobe Construction in Challenging Environments</a></li>
   <li><a href="../../../author/kleibel-mcgee_kilian"><b>Kleibel-McGee</b> Kilian</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/ristoski_kristijan"><b>Ristoski</b> Kristijan</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../klei_gosc_jauk_rist.2024.IoWaSMit3PoCfLCS/">Integration of Weaving- and Sewing-Motions into the 3D Printing of Clay for Lightweight Ceramic-Structures</a></li>
   <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a>, <a href="../../../author/vasatko_hana"><b>Vašatko</b> Hana</a>, <a href="../../../author/gosch_lukas"><b>Gosch</b> Lukas</a>, <a href="../../../author/ristoski_kristijan"><b>Ristoski</b> Kristijan</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../jauk_vasa_gosc_rist.2023.CoCBC/">Coextrusion of Clay-Based Composites:<br/>Using a Multi-Material Approach to Achieve Gradient Porosity in 3D Printed Ceramics</a></li>

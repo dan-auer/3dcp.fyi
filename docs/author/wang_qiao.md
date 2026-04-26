@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 74
+    : 84
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a> (34)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
-        <li><a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a> (3)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (3)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
         <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (3)</li>
     </ol>
 

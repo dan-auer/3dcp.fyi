@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 17
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/shen_kaige"><b>Shen</b> Kaige</a>, <a href="../../../author/cai_chen"><b>Cai</b> Chen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ding_shen_cai_xiao.2024.3PCwSSA/">3D Printed Concrete with Sewage Sludge Ash:<br/>Fresh and Hardened Properties</a> (13)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/shen_kaige"><b>Shen</b> Kaige</a>, <a href="../../../author/cai_chen"><b>Cai</b> Chen</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../ding_shen_cai_xiao.2024.3PCwSSA/">3D Printed Concrete with Sewage Sludge Ash:<br/>Fresh and Hardened Properties</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (4)</li>
         <li><a href="../../../author/he_gang"><b>He</b> Gang</a> (2)</li>
         <li><a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> (2)</li>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (2)</li>
+        <li><a href="../../../author/sarkar_sudipto"><b>Sarkar</b> Sudipto</a> (2)</li>
         <li><a href="../../../author/zhang_xiaoling"><b>Zhang</b> Xiaoling</a> (2)</li>
     </ol>
 

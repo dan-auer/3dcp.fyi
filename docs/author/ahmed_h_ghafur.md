@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 173
+    : 195
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a> (106)</li>
+        <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../ahme.2023.ARo3CP/">A Review of 3D Concrete Printing:<br/>Materials and Process Characterization, Economic Considerations and Environmental Sustainability</a> (120)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/clucas_don"><b>Clucas</b> Don</a> (5)</li>
         <li><a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> (5)</li>
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
         <li><a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> (5)</li>
         <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (5)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (5)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 15
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a> (3)</li>
         <li><a href="../../../author/bassani_andrea"><b>Bassani</b> Andrea</a> (2)</li>
-        <li><a href="../../../author/kompella_kasyapa_sriram"><b>Kompella</b> Sriram</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/monte_lo_francesco"><b>Monte</b> Francesco</a> (2)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (2)</li>
     </ol>

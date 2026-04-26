@@ -19,44 +19,44 @@ search:
     : 2018-08-29
     
     Last Contribution
-    : 2024-10-13
+    : 2026-02-09
 
     Number Contributions
-    : 10
+    : 11
 
     Number Citations
-    : 202
+    : 212
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (10)</li>
-        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (10)</li>
+        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (11)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (11)</li>
         <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (8)</li>
         <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a> (6)</li>
-        <li><a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> (2)</li>
+        <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a> (74)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a> (75)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (19)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (17)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (15)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (15)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (37)</li>
-        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (27)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (40)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (30)</li>
         <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (24)</li>
-        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (18)</li>
-        <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> (16)</li>
+        <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (21)</li>
+        <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> (19)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b> Naveenkumar</a>, <a href="../../../author/cubillos-gamez_l_david"><b>Cubillos-Gamez</b> David</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC/">Cellulose Nanofibers and Limestone Filler Enable High-Performance, Sustainable, and Cost-Efficient Printable Concrete</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
   <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC/">Mechanical Properties and Fracture Phenomena in 3D Printed Helical Cementitious Architected Materials Under Compression</a></li>
   <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM/">Influence of Type of Fibers on Fresh and Hardened Properties of Three-Dimensional-Printed Cementitious Mortars</a></li>

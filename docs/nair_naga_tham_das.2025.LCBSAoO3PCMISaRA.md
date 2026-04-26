@@ -57,8 +57,9 @@ Journal Article - Results in Engineering, No. 108002
       <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a></li>
       <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/yang_xin"><b>Yang</b> Xin</a>, <a href="../../../author/wang_haihong"><b>Wang</b> Haihong</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_wang_yang_wang.2025.RMUiFR3PC/">Red Mud Utilization in Fiber-Reinforced 3D Printed Concrete:<br/>Mechanical Properties and Environmental Impact Analysis</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/spurina_ella"><b>Spuriņa</b> Ella</a>, <a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sapa_spur_alza_slos.2026.LCCfOSAaCDWf3P/">Low-CO2 Concrete from Oil Shale Ash and Construction Demolition Waste for 3D Printing</a></li>
     </ol>
 </div>
 

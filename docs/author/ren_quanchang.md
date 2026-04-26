@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 173
+    : 192
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a> (125)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a> (137)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (9)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (8)</li>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (8)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (10)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (10)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (9)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (9)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (8)</li>
     </ol>
 

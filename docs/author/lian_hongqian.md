@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ding_lian.2026.BAo3CP/">Buildability Analysis of 3D Concrete Printing:<br/>A Finite Element Model Incorporating Segment-by-Segment Activation, Nozzle Constraint, and Extrusion Pressure</a> (0)</li>
+        <li><a href="../../../author/lian_hongqian"><b>Lian</b> Hongqian</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lian_ding.2026.DoIC3P/">Deformation of Inclined Concrete 3D Printing:<br/>A Computational Fluid Dynamics Analysis</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a> (1)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (1)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (1)</li>
+        <li><a href="../../../author/zhang_yiying"><b>Zhang</b> Yiying</a> (1)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (1)</li>
     </ol>
 
 </div>

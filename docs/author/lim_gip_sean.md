@@ -19,35 +19,35 @@ search:
     : 2023-10-24
     
     Last Contribution
-    : 2025-11-11
+    : 2026-01-22
 
     Number Contributions
-    : 7
+    : 8
 
     Number Citations
-    : 25
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (6)</li>
-        <li><a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> (5)</li>
-        <li><a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> (5)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (7)</li>
+        <li><a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> (6)</li>
+        <li><a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> (6)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (5)</li>
-        <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (3)</li>
+        <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a> (17)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/phua_liang-bryan_seng"><b>Phua</b> Seng</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../tay_lim_phua_tan.2023.ECSPT3CP/">Exploring Carbon-Sequestration-Potential Through 3D Concrete Printing</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (21)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (16)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (22)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (17)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (14)</li>
-        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (10)</li>
-        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a> (8)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (11)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jhun_jihye"><b>Jhun</b> Jihye</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../jhun_lee_paul_lim.2026.PoRHBi3CP/">Potential of Rice Husk Biochar in 3D Concrete Printing:<br/>An Analysis of Fresh-State Rheology, Strength Retention, and Carbon Sequestration</a></li>
   <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/bawarith_khalid-a_nuran"><b>Bawarith</b> Nuran</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../lim_lee_bawa_paul.2025.TEoSCAoEICaACwCSI3CP/">The Efficacy of Self-Curing Agents on Enhanced Internal Curing and Accelerated Carbonation with CO2-Steam Integrated 3D Concrete Printing</a></li>
   <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a>, <a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../paul_lee_tay_lim.2026.UtSPo3CPwLAaSCC/">Unlocking the Sustainable Potential of 3D Concrete Printing with Large Aggregates and Steam–CO2 Curing</a></li>
   <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lim_tan.2024.ARMfCAM/">A Rheological Model for Concrete Additive Manufacturing</a></li>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 14
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/samad_afifah-izzati-abd_nur"><b>Samad</b> Nur</a>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b> Mustaffa</a>, <a href="../../../author/shahidan_shahiron"><b>Shahidan</b> Shahiron</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../sama_abdu_ibra_shah.2022.IPo3PCURHAaPCR/">Initial Properties of 3D Printing Concrete Using Rice-Husk-Ash as Partial Cement Replacement</a> (10)</li>
+        <li><a href="../../../author/samad_afifah-izzati-abd_nur"><b>Samad</b> Nur</a>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>, <a href="../../../author/ibrahim_mustaffa"><b>Ibrahim</b> Mustaffa</a>, <a href="../../../author/shahidan_shahiron"><b>Shahidan</b> Shahiron</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../sama_abdu_ibra_shah.2022.IPo3PCURHAaPCR/">Initial Properties of 3D Printing Concrete Using Rice-Husk-Ash as Partial Cement Replacement</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> (3)</li>
+        <li><a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> (3)</li>
         <li><a href="../../../author/fawzia_sabrina"><b>Fawzia</b> Sabrina</a> (2)</li>
-        <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (2)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
-        <li><a href="../../../author/ramli-sulong_hafizah_nor"><b>Ramli Sulong</b> Nor</a> (2)</li>
         <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (2)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 135
+    : 145
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a> (111)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/he_shan"><b>He</b> Shan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wan_zhi"><b>Wan</b> Zhi</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../chen_he_zhan_wan.2021.3PoCCLBCM/">3D Printing of Calcined-Clay-Limestone-Based Cementitious Materials</a> (118)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (8)</li>
         <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (7)</li>
         <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (6)</li>
-        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (5)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
     </ol>
 
 </div>

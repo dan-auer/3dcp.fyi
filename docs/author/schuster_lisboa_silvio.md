@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a> (4)</li>
+        <li><a href="../../../author/zat_tuani"><b>Zat</b> Tuani</a>, <a href="../../../author/schuster_lisboa_silvio"><b>Schuster</b> Sílvio</a>, <a href="../../../author/schmitt-duarte_ester"><b>Schmitt Duarte</b> Ester</a>, <a href="../../../author/freitas-daudt_natalia"><b>Freitas Daudt</b> Natália</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP/">Rheological Properties of High-Performance Concrete Reinforced with Microfibers and Their Effects on 3D Printing Process</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/belek-fialho-teixeira_muge"><b>Belek Fialho Teixeira</b> Müge</a> (1)</li>
         <li><a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> (1)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
-        <li><a href="../../../author/kangavar_eyni_mohammad"><b>Kangavar</b> Mohammad</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/lin_guan"><b>Lin</b> Guan</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
     </ol>
 
 </div>

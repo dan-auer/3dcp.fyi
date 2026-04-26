@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a>, <a href="../../../author/li_yaqi"><b>Li</b> Yaqi</a>, <a href="../../../author/qian_qiwei"><b>Qian</b> Qiwei</a>, <a href="../../../author/chi_yin"><b>Chi</b> Yin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../fern_li_qian_chi.2024.EoCAo3PaMPoUHPFRC/">Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete</a> (5)</li>
+        <li><a href="../../../author/fernand_muhirwa"><b>Fernand</b> Muhirwa</a>, <a href="../../../author/li_yaqi"><b>Li</b> Yaqi</a>, <a href="../../../author/qian_qiwei"><b>Qian</b> Qiwei</a>, <a href="../../../author/chi_yin"><b>Chi</b> Yin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../fern_li_qian_chi.2024.EoCAo3PaMPoUHPFRC/">Effects of Coarse Aggregates on 3D Printability and Mechanical Properties of Ultra-High-Performance Fiber-Reinforced Concrete</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/adak_dibyendu"><b>Adak</b> Dibyendu</a> (1)</li>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (1)</li>
-        <li><a href="../../../author/wang_fei"><b>Wang</b> Fei</a> (1)</li>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (1)</li>
-        <li><a href="../../../author/yang_guojun"><b>Yang</b> Guojun</a> (1)</li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (1)</li>
+        <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

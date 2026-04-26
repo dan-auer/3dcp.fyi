@@ -61,8 +61,9 @@ Journal Article - Civil Engineering Dimension, Vol. 25, Iss. 1, pp. 1-9
       <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shao_jianwen"><b>Shao</b> Jianwen</a>, <a href="../../../author/zhang_jing"><b>Zhang</b> Jing</a>, <a href="../../../author/zou_daoqin"><b>Zou</b> Daoqin</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../wang_shao_zhan_zou.2022.BSPaCMoIBVaHFo3PC/">Bond Shear Performances and Constitutive Model of Interfaces Between Vertical and Horizontal Filaments of 3D Printed Concrete</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/amjad_umar"><b>Amjad</b> Umar</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a>, <a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a>, <a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../amja_irsh_maur_rizm.2026.S3MP/">Sustainable 3D Mortar Printing:<br/>Material Optimization and Ultrasonic Characterization for Enhanced Construction Performance</a></li>
     </ol>
 </div>
 

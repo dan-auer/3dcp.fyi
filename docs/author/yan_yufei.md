@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 46
+    : 51
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ma_yan_zhan_sanj.2022.EoSSo3CPoGwQB/">Effect of Steel-Slag on 3D Concrete Printing of Geopolymer with Quaternary Binders</a> (33)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/yan_yufei"><b>Yan</b> Yufei</a>, <a href="../../../author/zhang_mo"><b>Zhang</b> Mo</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ma_yan_zhan_sanj.2022.EoSSo3CPoGwQB/">Effect of Steel-Slag on 3D Concrete Printing of Geopolymer with Quaternary Binders</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sharma_shivam"><b>Sharma</b> Shivam</a>, <a href="../../../author/tahlawi_m"><b>Tahlawi</b> M.</a>, <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL/">Structural Design Methodology for Low-Rise 3D Printed Concrete (3DPC) Buildings Subjected to Non-Seismic Loading:<br/>Description, Application and Validation</a> (7)</li>
+        <li><a href="../../../author/sharma_shivam"><b>Sharma</b> Shivam</a>, <a href="../../../author/tahlawi_m"><b>Tahlawi</b> M.</a>, <a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL/">Structural Design Methodology for Low-Rise 3D Printed Concrete (3DPC) Buildings Subjected to Non-Seismic Loading:<br/>Description, Application and Validation</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> (1)</li>
-        <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (1)</li>
-        <li><a href="../../../author/tian_yiming"><b>Tian</b> Yiming</a> (1)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (3)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (2)</li>
+        <li><a href="../../../author/sharma_s"><b>Sharma</b> S.</a> (2)</li>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (1)</li>
         <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a> (1)</li>
-        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 22
+    : 25
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rui_aoyu"><b>Rui</b> Aoyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../rui_wang_lin_ma.2023.ESoDAo3PCEtSA/">Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack</a> (22)</li>
+        <li><a href="../../../author/rui_aoyu"><b>Rui</b> Aoyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../rui_wang_lin_ma.2023.ESoDAo3PCEtSA/">Experimental Study on Damage Anisotropy of 3D Printed Concrete Exposed to Sulfate-Attack</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/lu_cong"><b>Lu</b> Cong</a> (3)</li>
         <li><a href="../../../author/bu_dechao"><b>Bu</b> Dechao</a> (2)</li>
-        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a> (2)</li>
-        <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
-        <li><a href="../../../author/wang_jingquan"><b>Wang</b> Jingquan</a> (1)</li>
+        <li><a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a> (2)</li>
+        <li><a href="../../../author/si_qi"><b>Si</b> Qi</a> (2)</li>
+        <li><a href="../../../author/yu_chaomin"><b>Yu</b> Chaomin</a> (2)</li>
     </ol>
 
 </div>

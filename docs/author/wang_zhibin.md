@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 223
+    : 249
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (78)</li>
+        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (85)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (26)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (27)</li>
         <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (13)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (13)</li>
         <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (12)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (11)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (11)</li>
     </ol>
 
 </div>

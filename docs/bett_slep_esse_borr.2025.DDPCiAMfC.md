@@ -20,7 +20,7 @@ tags:
 #Data-Driven Parameter Calibration in Additive Manufacturing for Construction&nbsp;([2025-05](date/2025/05))
 <div class="h1-like">An Introduction to Learning by Printing</div>
 <span class="author"><a href="https://orcid.org/0009-0002-0295-0942" title="ORCID: 0009-0002-0295-0942" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bettermann_luca"><b>Bettermann</b>&nbsp;Luca</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3475-3855" title="ORCID: 0000-0003-3475-3855" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/slepicka_martin"><b>Slepicka</b>&nbsp;Martin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4234-689X" title="ORCID: 0000-0002-4234-689X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/esser_sebastian"><b>Esser</b>&nbsp;Sebastian</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2088-7254" title="ORCID: 0000-0003-2088-7254" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/borrmann_andre"><b>Borrmann</b>&nbsp;André</a></span><br>
-Contribution - Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering
+Contribution - Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering, pp. 1-10
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/calibration"><button class="btn">#calibration</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/data"><button class="btn">#data</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
 
@@ -70,6 +70,7 @@ Contribution - Proceedings of the 32nd EG-ICE International Workshop on Intellig
       author            = "Luca Bettermann and Martin Slepicka and Sebastian Esser and André Borrmann",
       title             = "Data-Driven Parameter Calibration in Additive Manufacturing for Construction: An Introduction to Learning by Printing",
       year              = "2025",
+      pages             = "1--10",
       booktitle         = "Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering",
     }
 
@@ -80,10 +81,10 @@ Contribution - Proceedings of the 32nd EG-ICE International Workshop on Intellig
 
     === "IEEE"
 
-    <span id="iee">L. Bettermann, M. Slepicka, S. Esser and A. Borrmann, “Data-Driven Parameter Calibration in Additive Manufacturing for Construction: An Introduction to Learning by Printing”,  2025.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">L. Bettermann, M. Slepicka, S. Esser and A. Borrmann, “Data-Driven Parameter Calibration in Additive Manufacturing for Construction: An Introduction to Learning by Printing”, in <i>Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering</i>,  2025, pp. 1–10.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Bettermann, Luca, Martin Slepicka, Sebastian Esser, and André Borrmann. “Data-Driven Parameter Calibration in Additive Manufacturing for Construction: An Introduction to Learning by Printing”. In <i>Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering</i>, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Bettermann, Luca, Martin Slepicka, Sebastian Esser, and André Borrmann. “Data-Driven Parameter Calibration in Additive Manufacturing for Construction: An Introduction to Learning by Printing”. In <i>Proceedings of the 32nd EG-ICE International Workshop on Intelligent Computing in Engineering</i>, 1–10, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

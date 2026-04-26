@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a> (1)</li>
+        <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
         <li><a href="../../../author/goel_abhimanyu"><b>Goel</b> Abhimanyu</a> (1)</li>
         <li><a href="../../../author/kua_wei_harn"><b>Kua</b> Harn</a> (1)</li>
         <li><a href="../../../author/lin_alexander"><b>Lin</b> Alexander</a> (1)</li>
-        <li><a href="../../../author/shi_anqi"><b>Shi</b> Anqi</a> (1)</li>
-        <li><a href="../../../author/wang_hanmo"><b>Wang</b> Hanmo</a> (1)</li>
+        <li><a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a> (1)</li>
+        <li><a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> (1)</li>
     </ol>
 
 </div>

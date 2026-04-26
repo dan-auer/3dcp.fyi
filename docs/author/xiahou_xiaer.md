@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>, <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiah_ding_yu_lu.2025.FWtS/">From Waste to Strength:<br/>Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</a> (0)</li>
+        <li><a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>, <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiah_ding_yu_lu.2025.FWtS/">From Waste to Strength:<br/>Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/arya_sampurna"><b>Arya</b> Sampurna</a> (1)</li>
+        <li><a href="../../../author/bhattacharjee_arjak"><b>Bhattacharjee</b> Arjak</a> (1)</li>
+        <li><a href="../../../author/chakraborty_suman"><b>Chakraborty</b> Suman</a> (1)</li>
+        <li><a href="../../../author/dubey_kumar_pawan"><b>Dubey</b> Pawan</a> (1)</li>
+        <li><a href="../../../author/mandal_romio"><b>Mandal</b> Romio</a> (1)</li>
     </ol>
 
 </div>

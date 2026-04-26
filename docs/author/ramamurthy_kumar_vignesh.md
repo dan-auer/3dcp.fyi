@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a> (6)</li>
+        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a>, <a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ravi_giri_rama_prem.2023.IoTPoDtRPoCPMfC3P/">Influence of Test-Protocol on Determining the Rheological Properties of Cement-Pastes-Mixtures for Concrete 3D Printing</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
         <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (3)</li>
         <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (2)</li>
         <li><a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> (2)</li>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
-        <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a> (1)</li>
+        <li><a href="../../../author/cerny_felix"><b>Černý</b> Felix</a> (1)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
     </ol>
 
 </div>

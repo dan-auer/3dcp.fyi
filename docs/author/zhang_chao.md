@@ -25,7 +25,7 @@ search:
     : 16
 
     Number Citations
-    : 897
+    : 976
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a> (284)</li>
+        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a> (305)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (79)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (46)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (40)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (39)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (31)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (83)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (53)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (41)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (41)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (32)</li>
     </ol>
 
 </div>

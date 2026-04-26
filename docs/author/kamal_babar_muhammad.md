@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a> (1)</li>
+        <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a> (1)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
         <li><a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> (1)</li>
-        <li><a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a> (1)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (1)</li>
     </ol>
 
 </div>

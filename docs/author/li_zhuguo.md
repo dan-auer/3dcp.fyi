@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>, <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>, <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../xu_li_jian.2022.NAtPFoFCBoMM/">Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method</a> (3)</li>
+        <li><a href="../../../author/xu_zhisong"><b>Xu</b> Zhisong</a>, <a href="../../../author/li_zhuguo"><b>Li</b> Zhuguo</a>, <a href="../../../author/jiang_fei"><b>Jiang</b> Fei</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../xu_li_jian.2022.NAtPFoFCBoMM/">Numerical Approach to Pipe Flow of Fresh Concrete Based on MPS Method</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/abbaoui_khalid"><b>El Abbaoui</b> Khalid</a> (1)</li>
-        <li><a href="../../../author/hashimoto_katsufumi"><b>Hashimoto</b> Katsufumi</a> (1)</li>
         <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (1)</li>
         <li><a href="../../../author/nakada_kiyofumi"><b>Nakada</b> Kiyofumi</a> (1)</li>
-        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (1)</li>
+        <li><a href="../../../author/xue_tianju"><b>Xue</b> Tianju</a> (1)</li>
+        <li><a href="../../../author/zhao_jidong"><b>Zhao</b> Jidong</a> (1)</li>
     </ol>
 
 </div>

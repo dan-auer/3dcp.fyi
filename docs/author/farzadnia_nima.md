@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 56
+    : 61
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a> (32)</li>
+        <li><a href="../../../author/vallurupalli_kavya"><b>Vallurupalli</b> Kavya</a>, <a href="../../../author/farzadnia_nima"><b>Farzadnia</b> Nima</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../vall_farz_khay.2021.EoFBaPIVoSSo3PE/">Effect of Flow Behavior and Process-Induced Variations on Shape Stability of 3D Printed Elements:<br/>A Review</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (4)</li>
-        <li><a href="../../../author/li_hui"><b>Li</b> Hui</a> (3)</li>
-        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (3)</li>
-        <li><a href="../../../author/libre_ali_nicolas"><b>Libre</b> Nicolas</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (3)</li>
         <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (3)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (3)</li>
     </ol>
 
 </div>

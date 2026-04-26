@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 36
+    : 39
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a> (36)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/hajikarimian_hamed"><b>Hajikarimian</b> Hamed</a>, <a href="../../../author/jorgensen_broner_henrik"><b>Jørgensen</b> Henrik</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../bres_haji_jrg_nabo.2023.3/">3DLightBeam+:<br/>Design, Simulation, and Testing of Carbon-Efficient Reinforced 3D Concrete Printed Beams</a> (39)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
         <li><a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> (3)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
         <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (3)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (2)</li>
-        <li><a href="../../../author/safanelli_nicollas"><b>Safanelli</b> Nicollas</a> (2)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
     </ol>
 
 </div>

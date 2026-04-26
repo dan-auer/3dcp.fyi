@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 9
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (4)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> (4)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (4)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (3)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
-        <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a> (2)</li>
     </ol>
 
 </div>

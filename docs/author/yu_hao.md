@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 13
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a> (12)</li>
+        <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> (3)</li>
-        <li><a href="../../../author/he_gang"><b>He</b> Gang</a> (2)</li>
-        <li><a href="../../../author/mu_xiaoshao"><b>Mu</b> Xiaoshao</a> (2)</li>
-        <li><a href="../../../author/zhang_xiaoling"><b>Zhang</b> Xiaoling</a> (2)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
+        <li><a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> (5)</li>
+        <li><a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a> (3)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
+        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (2)</li>
+        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (2)</li>
     </ol>
 
 </div>

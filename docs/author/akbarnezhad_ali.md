@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a> (2)</li>
+        <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a>, <a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a>, <a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a>, <a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../bani_akba_shei_haou.2025.3PiC/">3D Printing in Construction:<br/>Sustainable Technology for Building Industry</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> (1)</li>
-        <li><a href="../../../author/jamjala_siva"><b>Jamjala</b> Siva</a> (1)</li>
-        <li><a href="../../../author/kafle_bidur"><b>Kafle</b> Bidur</a> (1)</li>
-        <li><a href="../../../author/reddy_s-k-karthik_k"><b>Reddy</b> K.</a> (1)</li>
-        <li><a href="../../../author/thulasirangan-lakshmidevi_manivannan"><b>Thulasirangan Lakshmidevi</b> Manivannan</a> (1)</li>
+        <li><a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> (1)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (1)</li>
+        <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (1)</li>
     </ol>
 
 </div>

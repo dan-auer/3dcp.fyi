@@ -45,8 +45,9 @@ Journal Article - Cement and Concrete Composites, No. 105649
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "3 Citations"
+???+ bug "4 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/wu_chao-lan"><b>Wu</b> Chao-Lan</a>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP/">In-Process Embedded FRP Grid for Enhanced Flexural Performance of 3D Printed Concrete Plates</a></li>
       <li><a href="../../../author/xiahou_xiaer"><b>Xiahou</b> Xiaer</a>, <a href="../../../author/ding_xingyuan"><b>Ding</b> Xingyuan</a>, <a href="../../../author/yu_ke-ke"><b>Yu</b> Ke-Ke</a>, <a href="../../../author/lu_cong"><b>Lu</b> Cong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../xiah_ding_yu_lu.2025.FWtS/">From Waste to Strength:<br/>Sustainable Valorization of Modified Recycled PET Fibers for Rheological Control and Performance Enhancement in 3D Printed Concrete</a></li>
       <li><a href="../../../author/bhattacharjee_biswajoy"><b>Bhattacharjee</b> Biswajoy</a>, <a href="../../../author/sahu_kumar_prakash"><b>Sahu</b> Prakash</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../bhat_sahu.2025.RIaIo3PitBaCS/">Recent Innovations and Implementations of 3D Printing in the Building and Construction Sector</a></li>
       <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../ding_liu_ou_nish.2024.3PHFRECC/">3D Printing Hybrid-Fiber-Reinforced Engineered Cementitious Composites:<br/>Feasibility in Long-Open-Time Applications</a></li>

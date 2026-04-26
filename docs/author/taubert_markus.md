@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 143
+    : 159
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a> (120)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a> (130)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (15)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (12)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (12)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (10)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (10)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (10)</li>
     </ol>
 
 </div>

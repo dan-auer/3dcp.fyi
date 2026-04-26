@@ -62,8 +62,9 @@ Journal Article - Buildings, Vol. 15, Iss. 22, No. 4031
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../zhu_wang_sun_wei.2023.AESotIoWRPotCFaIPo3PSCC/">An Experimental Study on the Influence of Waste-Rubber-Particles on the Compressive, Flexural and Impact Properties of 3D Printable Sustainable Cementitious Composites</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_guixiang"><b>Chen</b> Guixiang</a>, <a href="../../../author/zhang_xuanzheng"><b>Zhang</b> Xuanzheng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/hu_kui"><b>Hu</b> Kui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chen_zhan_wang_hu.2026.AaMEo3PVMTIMIBFUDPP/">Anisotropy and Mechanical Enhancement of 3D-Printed Vitrified Microsphere Thermal Insulation Mortar Incorporating Basalt Fiber Under Different Printing Paths</a></li>
     </ol>
 </div>
 

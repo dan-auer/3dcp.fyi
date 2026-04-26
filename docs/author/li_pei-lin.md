@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 33
+    : 43
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zeng_li_yan_zhou.2023.Bo3PHPwFGRUB/">Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending</a> (18)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zeng_li_yan_zhou.2023.Bo3PHPwFGRUB/">Behavior of 3D Printed HPC Plates with FRP-Grid-Reinforcement Under Bending</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (11)</li>
-        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (11)</li>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (10)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (14)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (13)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (12)</li>
         <li><a href="../../../author/liu_yue"><b>Liu</b> Yue</a> (5)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (4)</li>
     </ol>

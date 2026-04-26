@@ -19,17 +19,17 @@ search:
     : 2020-11-11
     
     Last Contribution
-    : 2025-06-24
+    : 2026-02-18
 
     Number Contributions
-    : 20
+    : 22
 
     Number Citations
-    : 252
+    : 280
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (20)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (22)</li>
         <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (7)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
         <li><a href="../../../author/niemeyer_alice"><b>Niemeyer</b> Alice</a> (3)</li>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a> (171)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../mech_busw_klof_bos.2021.IRiDFwC/">Integrating Reinforcement in Digital Fabrication with Concrete:<br/>A Review and Classification Framework</a> (184)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (100)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (101)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (62)</li>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (60)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (58)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (42)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (26)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (46)</li>
+        <li><a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (28)</li>
         <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (15)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (14)</li>
-        <li><a href="../../../author/gantner_stefan"><b>Gantner</b> Stefan</a> (13)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (13)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (13)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../neef_butl_mech.2026.MfIMICFaRiFF3CP/">Methodology for Integrating Mineral-Impregnated Carbon Fibers as Reinforcement in Fine Filament 3D Concrete Printing</a></li>
+  <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/wen_zheng_yue"><b>Wen</b> Yue</a>, <a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/cherif_chokri"><b>Cherif</b> Chokri</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../neef_wen_frie_cher.2026.DFMfCRSLCS/">Digital Fabrication Methods for Carbon Reinforced Shell-Like Concrete Structures</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../wolf_vers_sant_bhat.2025.FaTS/">Flexural and Tensile Strength:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/gortzen_tom"><b>Görtzen</b> Tom</a>, <a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/scheffler_philipp"><b>Scheffler</b> Philipp</a>, <a href="../../../author/macek_domen"><b>Macek</b> Domen</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../gort_neef_sche_mace.2025.3CPoTIB/">3D Concrete Printing of Topological Interlocking Blocks</a></li>

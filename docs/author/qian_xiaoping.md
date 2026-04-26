@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 13
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a> (5)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_qian.2024.DDROBAo3CPCW/">Data-Driven Reliability-Oriented Buildability-Analysis of 3D Concrete Printed Curved Wall</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (3)</li>
-        <li><a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> (3)</li>
-        <li><a href="../../../author/yang_lei"><b>Yang</b> Lei</a> (3)</li>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
-        <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (12)</li>
+        <li><a href="../../../author/yang_lei"><b>Yang</b> Lei</a> (6)</li>
+        <li><a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> (5)</li>
+        <li><a href="../../../author/bao_xiaohua"><b>Bao</b> Xiaohua</a> (3)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (3)</li>
     </ol>
 
 </div>

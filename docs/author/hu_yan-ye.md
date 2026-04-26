@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 20
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a> (20)</li>
+        <li><a href="../../../author/wang_yang"><b>Wang</b> Yang</a>, <a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a>, <a href="../../../author/hu_yan-ye"><b>Hu</b> Yan-Ye</a>, <a href="../../../author/cheng_song-gui"><b>Cheng</b> Song-Gui</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../wang_qiu_hu_chen.2023.IFoMPaMCoU3PC/">Influential Factors on Mechanical Properties and Microscopic Characteristics of Underwater 3D Printing Concrete</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
     <ol>
         <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> (3)</li>
         <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (3)</li>
-        <li><a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> (2)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
-        <li><a href="../../../author/yang_kun"><b>Yang</b> Kun</a> (1)</li>
+        <li><a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a> (2)</li>
+        <li><a href="../../../author/wu_gengchen"><b>Wu</b> Gengchen</a> (2)</li>
+        <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a> (2)</li>
     </ol>
 
 </div>

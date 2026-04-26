@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF/">Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers</a> (4)</li>
+        <li><a href="../../../author/zhao_yu"><b>Zhao</b> Yu</a>, <a href="../../../author/shen_guanghai"><b>Shen</b> Guanghai</a>, <a href="../../../author/zhu_lingli"><b>Zhu</b> Lingli</a>, <a href="../../../author/ding_yahong"><b>Ding</b> Yahong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zhao_shen_zhu_ding.2025.EIBaPSOi3PHSEwSPHF/">Enhancing Interfacial Bonding and Pore Structure Optimization in 3D-Printed High-Strength ECC with Steel-PE Hybrid Fibers</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

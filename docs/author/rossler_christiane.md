@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ji_yianliang"><b>Ji</b> Yianliang</a>, <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a>, <a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH/">Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration</a> (0)</li>
+        <li><a href="../../../author/ji_yianliang"><b>Ji</b> Yianliang</a>, <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a>, <a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH/">Modelling and Experimental Study on Static Yield-Stress-Evolution and Structural Build-Up of Cement-Paste in Early-Stage of Cement Hydration</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (1)</li>
+        <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> (1)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (1)</li>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 14
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a> (9)</li>
+        <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a>, <a href="../../../author/kleib_joelle"><b>Kleib</b> Joelle</a>, <a href="../../../author/benzerzour_mahfoud"><b>Benzerzour</b> Mahfoud</a>, <a href="../../../author/abriak_nor-edine"><b>Abriak</b> Nor-Edine</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../dahe_klei_benz_abri.2023.TDoSB3PM/">The Development of Soil-Based 3D Printable Mixtures:<br/>A Mix-Design Methodology and a Case Study</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> (1)</li>
-        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a> (1)</li>
+        <li><a href="../../../author/shojaeian_hamideh"><b>Shojaeian</b> Hamideh</a> (1)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
     </ol>
 

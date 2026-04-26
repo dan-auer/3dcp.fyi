@@ -19,18 +19,18 @@ search:
     : 2021-08-21
     
     Last Contribution
-    : 2025-11-09
+    : 2026-02-02
 
     Number Contributions
-    : 13
+    : 14
 
     Number Citations
-    : 211
+    : 235
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a> (7)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (6)</li>
+        <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a> (8)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (7)</li>
         <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> (5)</li>
         <li><a href="../../../author/li_wengui"><b>Li</b> Wengui</a> (3)</li>
         <li><a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> (3)</li>
@@ -38,24 +38,24 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a> (92)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../sing_liu_xiao_lyu.2022.MaMPo3PCDwSFuDLD/">Mechanical and Macrostructural Properties of 3D Printed Concrete Dosed with Steel-Fibers under Different Loading-Direction</a> (100)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (48)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (44)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (39)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (38)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (46)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (41)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (41)</li>
         <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (11)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (13)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (10)</li>
+        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (7)</li>
         <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (7)</li>
-        <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a> (6)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/chu_zhipeng"><b>Chu</b> Zhipeng</a>, <a href="../../../author/luo_yijing"><b>Luo</b> Yijing</a>, <a href="../../../author/li_long"><b>Li</b> Long</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sun_chu_luo_li.2026.SPoR3NSwDILD/">Shear Performance of Reinforced 3DPM-NM Specimens with Different Interface Locking Designs</a></li>
   <li><a href="../../../author/song_qiang"><b>Song</b> Qiang</a>, <a href="../../../author/zhou_guangyu"><b>Zhou</b> Guangyu</a>, <a href="../../../author/bao_hailing"><b>Bao</b> Hailing</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../song_zhou_bao_liu.2025.SotEoNPCMaVDotPaMPot3PCM/">Study on the Effects of Nozzle Proximal Carbonation Mixing and Vacuum Dewatering on the Printability and Mechanical Properties of the 3D Printed Construction Mortar</a></li>
   <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sing_anan_liu_tam.2025.EIBi3PCUBBB/">Enhancing Interlayer Bonding in 3D Printed Concrete Using Bacteria-Based Biomineralization</a></li>
   <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/qifeng_lyu"><b>Qifeng</b> Lyu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_sing_wang_qife.2025.3PAiC/">3D-Printed Application in Concretes</a></li>

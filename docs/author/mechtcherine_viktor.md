@@ -19,18 +19,18 @@ search:
     : 2013-12-25
     
     Last Contribution
-    : 2026-01-02
+    : 2026-04-07
 
     Number Contributions
-    : 149
+    : 154
 
     Number Citations
-    : 6905
+    : 7334
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (42)</li>
-        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (20)</li>
+        <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a> (22)</li>
         <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a> (17)</li>
         <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> (15)</li>
         <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (14)</li>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (710)</li>
+        <li><a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../schu_lesa_mech_nere.2018.Vo3PwC/">Vision of 3D Printing with Concrete:<br/>Technical, Economic and Environmental Potentials</a> (746)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (273)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (259)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (180)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (172)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (169)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (282)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (268)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (184)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (183)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (177)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (222)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (153)</li>
-        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (136)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (130)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (126)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (237)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (160)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (138)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (134)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (129)</li>
     </ol>
 
 </div>
@@ -64,6 +64,11 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS/">Enhancing the Printability and Sustainability of 3D Concrete Printing Using Recycled Waste Glass as a Cement Substitute</a></li>
+  <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../rei_mech.2026.AaMtBoCBMitCoDF/">Assessing and Modeling the Buildability of Cement-Based Materials in the Context of Digital Fabrication</a></li>
+  <li><a href="../../../author/liu_jiaxu"><b>Liu</b> Jiaxu</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_zhan_xie_sanj.2026.OaSDoPaFiCEPbEB3P/">Orientation and Spatial Distribution of Pores and Fibers in Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
+  <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../neef_butl_mech.2026.MfIMICFaRiFF3CP/">Methodology for Integrating Mineral-Impregnated Carbon Fibers as Reinforcement in Fine Filament 3D Concrete Printing</a></li>
+  <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/wen_zheng_yue"><b>Wen</b> Yue</a>, <a href="../../../author/friese_danny"><b>Friese</b> Danny</a>, <a href="../../../author/cherif_chokri"><b>Cherif</b> Chokri</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../neef_wen_frie_cher.2026.DFMfCRSLCS/">Digital Fabrication Methods for Carbon Reinforced Shell-Like Concrete Structures</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/gleiser_leonie"><b>Gleiser</b> Leonie</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mech_glei.2025.BtE/">Back to Earth:<br/>Building the Future with an Ancient Material</a></li>
   <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../teng_yang_yu_weng.2026.MM3CP/">Multi-Material 3D Concrete Printing:<br/>Automated Hybrid Reinforcements Using Textile and Strain-Hardening Cementitious Composites</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
@@ -91,7 +96,7 @@ search:
   <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/gomzyakov_albert"><b>Gomzyakov</b> Albert</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kond_gomz_lieb_mech.2024.3PbSAoGBB/">3D Printing by Selective Activation of Geopolymer-Based Binders</a></li>
   <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_mech.2024.MPSaCi3PCTSR/">Mitigating Plastic Shrinkage and Cracking in 3D Printed Concrete Through Surface Rewetting</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/taubert_markus"><b>Taubert</b> Markus</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a>, <a href="../../../author/butler_marko"><b>Butler</b> Marko</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mech_taub_mull_butl.2024.IoSRiEB3CPoMCE/">Integration of Steel Reinforcement into Extrusion-Based 3D Concrete Printing of Monolithic Concrete Elements</a></li>
-  <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_chrisitan"><b>Baumert</b> Chrisitan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
+  <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/feys_dimitri"><b>Feys</b> Dimitri</a>, <a href="../../../author/mikhalev_daniil"><b>Mikhalev</b> Daniil</a>, <a href="../../../author/baumert_christian"><b>Baumert</b> Christian</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../muth_feys_mikh_baum.2024.CoRRfRMC/">Comparison of Rotational Rheometers for Ready-Mix Concrete</a></li>
   <li><a href="../../../author/neef_tobias"><b>Neef</b> Tobias</a>, <a href="../../../author/gortzen_tom"><b>Görtzen</b> Tom</a>, <a href="../../../author/niemeyer_alice"><b>Niemeyer</b> Alice</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../neef_gort_niem_mech.2024.IoDPICBfaMSC/">Investigation of Digitally Produced, Interlocking Concrete Blocks for a Modular Slab Construction</a></li>
   <li><a href="../../../author/reissig_silvia"><b>Reißig</b> Silvia</a>, <a href="../../../author/herdan_annika"><b>Herdan</b> Annika</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rei_herd_mech.2024.CotRBoaRSSCitCo3P/">Characterisation of the Rheological Behavior of a Resource-Saving Sustainable Concrete in the Context of 3D Printing</a></li>
   <li><a href="../../../author/sokolov_dmitrii"><b>Sokolov</b> Dmitrii</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../soko_mech.2024.3Vi3CP/">3D Vision in 3D Concrete Printing</a></li>

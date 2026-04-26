@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 66
+    : 80
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a> (23)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../chen_xia_jia_gao.2024.EAo3PGtLSPSvCoSCaNS/">Extending Applicability of 3D Printable Geopolymer to Large-Scale Printing Scenario via Combination of Sodium Carbonate and Nano-Silica</a> (26)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (10)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (9)</li>
-        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (9)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (8)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (17)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (11)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (11)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (10)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (10)</li>
     </ol>
 
 </div>

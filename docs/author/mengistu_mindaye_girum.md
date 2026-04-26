@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mengistu_mindaye_girum"><b>Mengistu</b> Girum</a>, <a href="../../../author/nemes_rita"><b>Nemes</b> Rita</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../meng_neme.2024.R3PCWfNSCP/">Recycling 3D Printed Concrete Waste for Normal Strength Concrete Production</a> (4)</li>
+        <li><a href="../../../author/mengistu_mindaye_girum"><b>Mengistu</b> Girum</a>, <a href="../../../author/nemes_rita"><b>Nemes</b> Rita</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../meng_neme.2024.R3PCWfNSCP/">Recycling 3D Printed Concrete Waste for Normal Strength Concrete Production</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,11 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bilek_vlastimil"><b>Bilek</b> Vlastimil</a> (1)</li>
         <li><a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a> (1)</li>
-        <li><a href="../../../author/dahatonde_ulka"><b>Dahatonde</b> Ulka</a> (1)</li>
+        <li><a href="../../../author/guo_guanqin"><b>Guo</b> Guanqin</a> (1)</li>
         <li><a href="../../../author/khairnar_neha"><b>Khairnar</b> Neha</a> (1)</li>
         <li><a href="../../../author/sucharda_oldrich"><b>Sucharda</b> Oldřich</a> (1)</li>
+        <li><a href="../../../author/zheng_yuanxun"><b>Zheng</b> Yuanxun</a> (1)</li>
     </ol>
 
 </div>

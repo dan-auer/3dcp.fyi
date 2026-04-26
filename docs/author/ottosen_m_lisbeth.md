@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a> (7)</li>
+        <li><a href="../../../author/christ_julian"><b>Christ</b> Julian</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/ottosen_m_lisbeth"><b>Ottosen</b> Lisbeth</a>, <a href="../../../author/koss_holger"><b>Koss</b> Holger</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../chri_perr_otto_koss.2024.RCoTSBB3PC/">Rheological Characterization of Temperature-Sensitive Biopolymer-Bound 3D Printing Concrete</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

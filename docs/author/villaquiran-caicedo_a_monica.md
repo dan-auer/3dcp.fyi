@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 82
+    : 84
 
 !!! success "Top Co-Authors"
     <ol>
@@ -33,12 +33,12 @@ search:
         <li><a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> (1)</li>
         <li><a href="../../../author/fernandez-garcia_a_daniel"><b>Fernández-García</b> Daniel</a> (1)</li>
         <li><a href="../../../author/fernandez-gonzalez_alejandro"><b>Fernández-González</b> Alejandro</a> (1)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a> (81)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a> (83)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (3)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (3)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (3)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (3)</li>
         <li><a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> (3)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
     </ol>
@@ -65,5 +65,5 @@ search:
 
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/fernandez-gonzalez_alejandro"><b>Fernández-González</b> Alejandro</a>, <a href="../../../author/fernandez-garcia_a_daniel"><b>Fernández-García</b> Daniel</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../vill_fern_fern_guti.2023.VoaLQCAitPoAAIfAi3AM/">Valorization of a Low-Quality Coal-Ash, in the Preparation of Alkali-Activated Inks for Applications in 3D Additive Manufacturing</a></li>
-  <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
+  <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a>, <a href="../../../author/villaquiran-caicedo_a_monica"><b>Villaquirán-Caicedo</b> Mónica</a>, <a href="../../../author/delvasto-arjona_silvio"><b>Delvasto Arjona</b> Silvio</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../roba_guti_vill_delv.2023.3PwCM/">3D Printing with Cementitious Materials:<br/>Challenges and Opportunities for the Construction Sector</a></li>
 </ol>

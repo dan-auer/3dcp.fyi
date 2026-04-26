@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (2)</li>
         <li><a href="../../../author/beckmann_birgit"><b>Beckmann</b> Birgit</a> (1)</li>
+        <li><a href="../../../author/block_philippe"><b>Block</b> Philippe</a> (1)</li>
         <li><a href="../../../author/bosbach_sven"><b>Bosbach</b> Sven</a> (1)</li>
-        <li><a href="../../../author/cruz_morales_cynthia"><b>Cruz</b> Cynthia</a> (1)</li>
-        <li><a href="../../../author/kalthoff_matthias"><b>Kalthoff</b> Matthias</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
     </ol>
 
 </div>

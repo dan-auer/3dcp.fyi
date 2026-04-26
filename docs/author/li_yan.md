@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 20
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a> (20)</li>
+        <li><a href="../../../author/lu_yue"><b>Lu</b> Yue</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_yan"><b>Li</b> Yan</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../lu_xiao_li.2024.3PRCIPF/">3D Printing Recycled Concrete Incorporating Plant-Fibers:<br/>A Comprehensive Review</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
-        <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
-        <li><a href="../../../author/sheng_yanming"><b>Sheng</b> Yanming</a> (1)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
-        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (1)</li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (2)</li>
+        <li><a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> (2)</li>
+        <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a> (2)</li>
+        <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> (2)</li>
+        <li><a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/westhuizen_jean-pierre"><b>Westhuizen</b> Jean-Pierré</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../krug_west.2023.ItPRo3PC/">Investigating the Poisson Ratio of 3D Printed Concrete</a> (4)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/westhuizen_jean-pierre"><b>Westhuizen</b> Jean-Pierré</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../krug_west.2023.ItPRo3PC/">Investigating the Poisson Ratio of 3D Printed Concrete</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

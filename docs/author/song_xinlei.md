@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 6
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_shen_sun_song.2025.IoPSotPo3PCAC/">Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete:<br/>Experiment, Microstructure, and Mechanism Analysis</a> (5)</li>
+        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_wenbin"><b>Shen</b> Wenbin</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/song_xinlei"><b>Song</b> Xinlei</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../wang_shen_sun_song.2025.IoPSotPo3PCAC/">Influences of Particle-Size on the Performance of 3D Printed Coarse Aggregate Concrete:<br/>Experiment, Microstructure, and Mechanism Analysis</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/zhang_yukun"><b>Zhang</b> Yukun</a> (2)</li>
-        <li><a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> (2)</li>
-        <li><a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
+        <li><a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (2)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (2)</li>
     </ol>
 
 </div>

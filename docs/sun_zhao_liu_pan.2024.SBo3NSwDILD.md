@@ -64,8 +64,10 @@ Journal Article - Construction and Building Materials, Vol. 425, No. 136021
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/yang_yu"><b>Yang</b> Yu</a>, <a href="../../../author/li_yanfeng"><b>Li</b> Yanfeng</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../wang_liu_yang_li.2021.BPo3PCwSLIEtCSaCSS/">Bonding Performance of 3D Printing Concrete with Self-Locking Interfaces Exposed to Compression-Shear and Compression-Splitting Stresses</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_wang_ma.2026.ASST3PC/">Advancing Sustainable Structures Through 3D Printed Concrete:<br/>Reinforcement Methods and Structural Design Philosophy</a></li>
+      <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/chu_zhipeng"><b>Chu</b> Zhipeng</a>, <a href="../../../author/luo_yijing"><b>Luo</b> Yijing</a>, <a href="../../../author/li_long"><b>Li</b> Long</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sun_chu_luo_li.2026.SPoR3NSwDILD/">Shear Performance of Reinforced 3DPM-NM Specimens with Different Interface Locking Designs</a></li>
       <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
     </ol>
 </div>

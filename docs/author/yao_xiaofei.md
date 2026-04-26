@@ -13,27 +13,27 @@ search:
 <div class="grid cards" markdown>
 !!! question "Information"
     ORCID
-    : N/A
+    : <a href="https://orcid.org/0009-0006-8057-1162" target="_blank">0009-0006-8057-1162</a>
 
     First Contribution
     : 2022-03-17
     
     Last Contribution
-    : 2025-12-01
+    : 2026-03-18
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 93
+    : 102
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/yang_min"><b>Yang</b> Min</a> (7)</li>
+        <li><a href="../../../author/yang_min"><b>Yang</b> Min</a> (8)</li>
         <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (5)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (4)</li>
+        <li><a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a> (3)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (3)</li>
-        <li><a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -47,7 +47,7 @@ search:
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (18)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (18)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (16)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (12)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bai_songlin"><b>Bai</b> Songlin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../bai_yao_yang_liu.2026.DaCoSCSBoCAM/">Design and Construction of Spatial Curved Structures Based on Concrete Additive Manufacturing:<br/>A Case Study of an Irregular Gatehouse</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/zou_cunjun"><b>Zou</b> Cunjun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../luo_zhao_yao_zou.2025.3PCITBoPaCM/">3D Printing Concrete Interface Treatment Based on Physical and Chemical Methods:<br/>A Review</a></li>
   <li><a href="../../../author/jiang_youbau"><b>Jiang</b> Youbau</a>, <a href="../../../author/gao_pengxiang"><b>Gao</b> Pengxiang</a>, <a href="../../../author/adhikari_sondipon"><b>Adhikari</b> Sondipon</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN/">Studies on the Mechanical Properties of Inter-Layer Interlocking 3D Printed Concrete Based on a Novel Nozzle</a></li>

@@ -15,7 +15,7 @@ tags:
 <a href="None" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
  <a href="https://doi.org/10.2307/jj.11374766.26" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2307/jj.11374766.26" target="_blank">10.2307/jj.11374766.26</a>
 
-<a href="../../../author/lok_leslie"><b>Lok</b>&nbsp;Leslie</a></span>, <a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <a href="../../../author/zerbe_hikmat"><b>Zerbe</b>&nbsp;Hikmat</a></span><br>
+<a href="../../../author/lok_leslie"><b>Lok</b>&nbsp;Leslie</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3678-6554" title="ORCID: 0000-0003-3678-6554" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/zivkovic_sasa"><b>Zivkovic</b>&nbsp;Sasa</a></span>, <a href="../../../author/meyer-brotz_fabian"><b>Meyer-Brötz</b>&nbsp;Fabian</a></span>, <a href="../../../author/zerbe_hikmat"><b>Zerbe</b>&nbsp;Hikmat</a></span><br>
 Contribution - Fabricate 2024, pp. 172-179
 
 <a href="../../keyword/core"><button class="btn">#core</button></a> <a href="../../keyword/house"><button class="btn">#house</button></a> 

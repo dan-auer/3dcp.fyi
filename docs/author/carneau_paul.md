@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 297
+    : 310
 
 !!! success "Top Co-Authors"
     <ol>
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (29)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (24)</li>
         <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (21)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (19)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (21)</li>
     </ol>
 
 </div>

@@ -19,35 +19,35 @@ search:
     : 2020-05-27
     
     Last Contribution
-    : 2025-12-26
+    : 2026-04-03
 
     Number Contributions
-    : 13
+    : 18
 
     Number Citations
-    : 91
+    : 98
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (5)</li>
         <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> (4)</li>
-        <li><a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> (3)</li>
+        <li><a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a> (4)</li>
         <li><a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a> (3)</li>
-        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (3)</li>
         <li><a href="../../../author/sepulveda-morales_javier_luis"><b>Sepúlveda-Morales</b> Luis</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a> (29)</li>
+        <li><a href="../../../author/guaman-rivera_robert"><b>Guamán-Rivera</b> Robert</a>, <a href="../../../author/martinez-rocamora_alejandro"><b>Martínez-Rocamora</b> Alejandro</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../guam_mart_garc_muno.2022.RDaCo3PC/">Recent Developments and Challenges of 3D Printed Construction:<br/>A Review of Research Fronts</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (21)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (18)</li>
-        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (15)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (14)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (27)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (22)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (17)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,8 +64,13 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a>, <a href="../../../author/valenzuela-astudillo_eduardo"><b>Valenzuela-Astudillo</b> Eduardo</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../garc_soza_vale.2026.PFFf3PH/">Parametric Form-Finding for 3D-Printed Housing:<br/>A Computational Workflow from Generative Exploration to Architectural Development</a></li>
+  <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/ulloa-aguayo_paula"><b>Ulloa-Aguayo</b> Paula</a>, <a href="../../../author/rocha-rubilar_aracely"><b>Rocha-Rubilar</b> Aracely</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../garc_muno_ullo_roch.2026.DoaRPU3PE/">Development of a Residential Prototype Using 3D-Printed Elements</a></li>
   <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a></li>
-  <li><a href="../../../author/garces_gonzalo"><b>Garcés</b> Gonzalo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
+  <li><a href="../../../author/anastassiou_gaete-holmes_richard"><b>Anastassiou</b> Richard</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../anas_garc_wege.2025.TC/">Towards Climatomorphism:<br/>A Generative Optimization Framework for Climate-Adaptive 3D-Printed Free-Form Housing</a></li>
+  <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/moreno_naser_inna"><b>Moreno</b> Inna</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_more_garc.2025.OtTPo3PA/">On the Tectonic Properties of 3D Printed Architecture:<br/>On the Tectonic Properties of 3D Printed Architecture</a></li>
+  <li><a href="../../../author/ruiz_soza_pedro"><b>Ruiz</b> Pedro</a>, <a href="../../../author/perez_banda_pablo"><b>Perez</b> Pablo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/valenzuela_rozas_sebastian"><b>Valenzuela</b> Sebastián</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../ruiz_pere_garc_vale.2025.3PoSD/">3D Printing of Surrealist Dreams:<br/>Constraints, Failures, and Craftsmanship in 1:1 Digital Fabrication</a></li>
+  <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../garc_garc_buns_muno.2025.AC40/">Additive Construction 4.0:<br/>A Systematic Review of 3D Concrete Printing for Construction 4.0</a></li>
   <li><a href="../../../author/casanova_euro"><b>Casanova</b> Euro</a>, <a href="../../../author/hidalgo_nelson"><b>Hidalgo</b> Nelson</a>, <a href="../../../author/valdebenito_michael"><b>Valdebenito</b> Michael</a>, <a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../casa_hida_vald_forc.2025.ORoCCWMwAC/">Overturning Resistance of Concrete Curved Walls Manufactured with Additive Construction</a></li>
   <li><a href="../../../author/forcael_eric"><b>Forcael</b> Eric</a>, <a href="../../../author/alucema-contreras_alejandra_elena"><b>Alucema Contreras</b> Elena</a>, <a href="../../../author/burkart-medina_andres_adolfo"><b>Burkart Medina</b> Adolfo</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../forc_aluc_burk_garc.2024.CSoVPPf3CPoDGS/">Comparative Study of Visual Programming Procedures for 3D Concrete Printing of Different Geometric Shapes</a></li>
   <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/soza-ruiz_pedro"><b>Soza-Ruiz</b> Pedro</a>, <a href="../../../author/valenzuela-astudillo_eduardo"><b>Valenzuela-Astudillo</b> Eduardo</a>, <a href="../../../author/martuffi-lazo_daniela"><b>Martuffi-Lazo</b> Daniela</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../garc_soza_vale_mart.2024.DoaGDSf3PHiC/">Development of a Generative Design System for 3D Printed Houses in Chile</a></li>

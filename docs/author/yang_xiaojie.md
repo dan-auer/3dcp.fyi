@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (2)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (2)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
         <li><a href="../../../author/lin_guan"><b>Lin</b> Guan</a> (1)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
-        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (1)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (1)</li>
     </ol>
 
 </div>

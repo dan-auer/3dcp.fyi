@@ -19,18 +19,18 @@ search:
     : 2023-05-11
     
     Last Contribution
-    : 2025-07-05
+    : 2026-02-02
 
     Number Contributions
-    : 4
+    : 5
 
     Number Citations
-    : 59
+    : 63
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (4)</li>
-        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (3)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (5)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (4)</li>
         <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (2)</li>
         <li><a href="../../../author/abbaoui_khalid"><b>El Abbaoui</b> Khalid</a> (1)</li>
         <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a> (1)</li>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a> (23)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (22)</li>
-        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (21)</li>
-        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (20)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (24)</li>
+        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (23)</li>
+        <li><a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a> (22)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (20)</li>
-        <li><a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> (14)</li>
+        <li><a href="../../../author/andersen_juul_thomas"><b>Andersen</b> Thomas</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../moll_seta_span.2026.AV3PFfOEC/">A Virtual 3D Printing Framework for Off-Earth Construction</a></li>
   <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a>, <a href="../../../author/sanchez_salgado_p"><b>Sánchez</b> P.</a>, <a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/ezquerro_m_j"><b>Ezquerro</b> J.</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../kach_sanc_moll_ezqu.2025.NAoC3PLH/">Numerical Analysis of Coaxially 3D Printed Lunar Habitats:<br/>Integrating Regolith and PCM for Passive Temperature Control</a></li>
   <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a></li>
   <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a>, <a href="../../../author/comminal_raphael"><b>Comminal</b> Raphaël</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP/">Computational Fluid Dynamics Modelling and Experimental Analysis of Reinforcement-Bar-Integration in 3D Concrete Printing</a></li>

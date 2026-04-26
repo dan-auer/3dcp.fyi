@@ -19,18 +19,18 @@ search:
     : 2017-05-14
     
     Last Contribution
-    : 2025-12-21
+    : 2026-04-01
 
     Number Contributions
-    : 82
+    : 88
 
     Number Citations
-    : 5394
+    : 5650
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (26)</li>
-        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (15)</li>
+        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (16)</li>
         <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> (13)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (12)</li>
         <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (11)</li>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a> (484)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> <a href="../../../date/2017/07">(2017-07)</a><br><a href="../../../pand_paul_tan.2017.AMPo3PFRSCM/">Anisotropic Mechanical Performance of 3D Printed Fiber-Reinforced Sustainable Construction-Material</a> (499)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (135)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (123)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (121)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (109)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (88)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (141)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (126)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (125)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (115)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (96)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (133)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (139)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (123)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (123)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (120)</li>
-        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (119)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (117)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (111)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (112)</li>
     </ol>
 
 </div>
@@ -64,6 +64,12 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wars_pand_bisw.2026.3FEAotEoBECoCPo3PCW/">3D Finite Element Analysis on the Effects of Boundary Elements Confinement on Cyclic Performance of 3D Printed Concrete Wall</a></li>
+  <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maur_pand_dixi.2026.ESoVRaBBi3CPwaTIN/">Experimental Study on Void Reduction and Bonding Behavior in 3D Concrete Printing with a Trowel-Integrated Nozzle</a></li>
+  <li><a href="../../../author/kumar_sai_s"><b>Kumar</b> S.</a>, <a href="../../../author/kumar_l"><b>Kumar</b> L.</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../kuma_kuma_muth_pand.2026.TESoC3PCB/">Toward Efficient Simulation of Cracked 3D-Printed Concrete Beams:<br/>Analytical and Homogenized Finite Element Approach</a></li>
+  <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a>, <a href="../../../author/chandra-borsaikia_arun"><b>Chandra Borsaikia</b> Arun</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wars_pand_bisw_chan.2026.DoER3PCW/">Design of Earthquake-Resistant 3D Printed Concrete Walls:<br/>An Integrated Experimental-Numerical Framework for Predicting Cyclic Performance of Full-Scale Structural Building Based on Wall Testing</a></li>
+  <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/kole_jagabandhu"><b>Kole</b> Jagabandhu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../dey_pand_kole.2026.IitEoFRwPSCaSSSfDoS3PC/">Investigation into the Effect of Full Replacement with Portland Slag Cement and Screened Slag Sand for Development of Sustainable 3D Printed Concrete</a></li>
+  <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sahu_pand.2026.GCBCTDfItPoAMC/">Growth Curve-Based Continuous Toolpath Design for Improving the Performance of Additively Manufactured Concrete</a></li>
   <li><a href="../../../author/fatima_warsi"><b>Fatima</b> Warsi</a>, <a href="../../../author/syed_bustan"><b>Syed</b> Bustan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../fati_syed_pand_bisw.2025.NEotSPoSC3PCW/">Numerical Evaluation of the Seismic Performance of Self-Centering 3D Printed Concrete Wall</a></li>
   <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sahu_pand.2025.AAMODAfDC/">An Additive Manufacturing-Oriented Design Approach for Digital Construction</a></li>
   <li><a href="../../../author/gulia_preeti"><b>Gulia</b> Preeti</a>, <a href="../../../author/dogra_sourabh"><b>Dogra</b> Sourabh</a>, <a href="../../../author/gupta_arpan"><b>Gupta</b> Arpan</a>, <a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../guli_dogr_gupt_bodd.2025.BaMSwGC/">Building a Metamaterial Slab with Gosper Curve</a></li>

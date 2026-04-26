@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 32
+    : 33
 
 !!! success "Top Co-Authors"
     <ol>

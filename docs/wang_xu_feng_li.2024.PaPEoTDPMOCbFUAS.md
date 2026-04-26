@@ -59,8 +59,9 @@ Journal Article - Frontiers of Structural and Civil Engineering
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a>, <a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a>, <a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a>, <a href="../../../author/kumar_pradeep_r"><b>Kumar</b> R.</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../chou_pal_kapo_kuma.2026.IoMCotPaCSoBaTCCMoAIW/">Influence of Mix Constituents on the Printability and Compressive Strength of Binary and Ternary Cementitious Composite Made of Agro-Industrial Waste</a></li>
     </ol>
 </div>
 

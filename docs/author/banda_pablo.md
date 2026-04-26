@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 14
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
         <li><a href="../../../author/rojas_jorge"><b>Rojas</b> Jorge</a> (2)</li>
-        <li><a href="../../../author/liu_ke"><b>Liu</b> Ke</a> (1)</li>
         <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
         <li><a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> (1)</li>
         <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a> (1)</li>

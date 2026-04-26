@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_hongmei"><b>Zhang</b> Hongmei</a>, <a href="../../../author/hu_fan"><b>Hu</b> Fan</a>, <a href="../../../author/duan_yuanfeng"><b>Duan</b> Yuanfeng</a>, <a href="../../../author/liao_jian"><b>Liao</b> Jian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_hu_duan_liao.2024.MPaMSoHFGCwLCPAF/">Mechanical Properties and Micro-Structure of Highly Flowable Geopolymer Composites with Low-Content Polyvinyl-Alcohol-Fiber</a> (2)</li>
+        <li><a href="../../../author/zhang_hongmei"><b>Zhang</b> Hongmei</a>, <a href="../../../author/hu_fan"><b>Hu</b> Fan</a>, <a href="../../../author/duan_yuanfeng"><b>Duan</b> Yuanfeng</a>, <a href="../../../author/liao_jian"><b>Liao</b> Jian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhan_hu_duan_liao.2024.MPaMSoHFGCwLCPAF/">Mechanical Properties and Micro-Structure of Highly Flowable Geopolymer Composites with Low-Content Polyvinyl-Alcohol-Fiber</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> (1)</li>
-        <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a> (1)</li>
-        <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> (1)</li>
+        <li><a href="../../../author/lin_wei-ting"><b>Lin</b> Wei-Ting</a> (1)</li>
+        <li><a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> (1)</li>
         <li><a href="../../../author/xu_jie"><b>Xu</b> Jie</a> (1)</li>
         <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a> (1)</li>
     </ol>

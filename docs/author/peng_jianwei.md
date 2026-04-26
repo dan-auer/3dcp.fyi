@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 44
+    : 47
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a> (32)</li>
+        <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/peng_jianwei"><b>Peng</b> Jianwei</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_wang_yuan_peng.2023.EoCAoPaMPo3PC/">Effect of Coarse Aggregate on Printability and Mechanical Properties of 3D Printed Concrete</a> (35)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (5)</li>
         <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (4)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (3)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (3)</li>
     </ol>
 

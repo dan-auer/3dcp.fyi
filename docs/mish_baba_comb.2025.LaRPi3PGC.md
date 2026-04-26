@@ -99,8 +99,10 @@ Journal Article - Ceramics, Vol. 8, Iss. 2, No. 47
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
       <li><a href="../../../author/zhou_zhijie"><b>Zhou</b> Zhijie</a>, <a href="../../../author/geng_jian"><b>Geng</b> Jian</a>, <a href="../../../author/jin_chen"><b>Jin</b> Chen</a>, <a href="../../../author/liu_genjin"><b>Liu</b> Genjin</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhou_geng_jin_liu.2024.IoRSotPoFASBGMf3P/">Influence of Residue Soil on the Properties of Fly-Ash-Slag-Based Geopolymer Materials for 3D Printing</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/li_haiyan"><b>Li</b> Haiyan</a>, <a href="../../../author/luo_aizhong"><b>Luo</b> Aizhong</a>, <a href="../../../author/zhang_xiaozhong"><b>Zhang</b> Xiaozhong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../li_luo_zhan_ma.2026.OoOPAACfEB3PTIPE/">Optimization of One-Part Alkali-Activated Concrete for Extrusion-Based 3D Printing Through Integrated Performance Evaluation</a></li>
+      <li><a href="../../../author/cziraki_balint"><b>Cziráki</b> Bálint</a>, <a href="../../../author/kaman_andras"><b>Kámán</b> András</a>, <a href="../../../author/boros_adrienn"><b>Boros</b> Adrienn</a>, <a href="../../../author/korim_tamas"><b>Korim</b> Tamás</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../czir_kama_boro_kori.2026.DaIoaCPM/">Design and Implementation of a Composite Printing Machine</a></li>
       <li><a href="../../../author/hasan_mehedi_md"><b>Hasan</b> Md</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../hasa_xu_uddi.2026.ACRo3PFBGC/">A Critical Review of 3D Printed Fiber-Based Geopolymer Concrete:<br/>Fresh Properties, Mechanical Performance, and Current Limitations</a></li>
     </ol>
 </div>

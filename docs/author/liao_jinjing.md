@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 20
+    : 23
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a> (20)</li>
+        <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a>, <a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../yan_zeng_zhug_liao.2023.CBoFC3PUHPCC/">Compressive Behavior of FRP-Confined 3D Printed Ultra-High-Performance Concrete Cylinders</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (7)</li>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (6)</li>
-        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (6)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (8)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (8)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (8)</li>
         <li><a href="../../../author/liu_yue"><b>Liu</b> Yue</a> (3)</li>
         <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> (3)</li>
     </ol>

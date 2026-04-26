@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 57
+    : 64
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a> (26)</li>
+        <li><a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/guo_rongxin"><b>Guo</b> Rongxin</a>, <a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a>, <a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM/">How Do the Contact Surface Forces Affect the Inter-Layer Bond Strength of 3D Printed Mortar?</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/guan_dian"><b>Guan</b> Dian</a> (3)</li>
         <li><a href="../../../author/guoa_rongxin"><b>Guoa</b> Rongxin</a> (3)</li>
+        <li><a href="../../../author/han_song"><b>Han</b> Song</a> (3)</li>
         <li><a href="../../../author/lin_runsheng"><b>Lin</b> Runsheng</a> (3)</li>
-        <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> (3)</li>
         <li><a href="../../../author/zhang_ziqi"><b>Zhang</b> Ziqi</a> (3)</li>
     </ol>
 

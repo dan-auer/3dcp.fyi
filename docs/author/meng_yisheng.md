@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 37
+    : 43
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a> (26)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../wu_liu_bai_liu.2023.3PCwRS/">3D Printed Concrete with Recycled Sand:<br/>Pore-Structure and Triaxial Compression Properties</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (3)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
         <li><a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a> (2)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
     </ol>
 
 </div>

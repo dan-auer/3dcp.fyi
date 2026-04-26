@@ -70,8 +70,10 @@ Journal Article - Automation in Construction, Vol. 174, No. 106076
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../vant_ooms_cort.2021.V/">VoxelPrint:<br/>A Grasshopper Plug-In for Voxel-Based Numerical Simulation of Concrete Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../timm_vill_zijl.2026.3CPitWH/">3D Concrete Printing in the Waste Hierachy:<br/>Reduce, Reuse and Recycle</a></li>
+      <li><a href="../../../author/an_dong"><b>An</b> Dong</a>, <a href="../../../author/zhu_zhi"><b>Zhu</b> Zhi</a>, <a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../an_zhu_rahm_zhan.2026.PISPHFESFSo3CP/">Process-Informed Smooth Particle Hydrodynamics-Finite Element (SPH-FE) Simulation of 3D Concrete Printing:<br/>From Flow Behaviour to Structural Failure</a></li>
       <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a>, <a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../lope_carm.2025.ASRoRAMAiAEaC/">A Systematic Review of Robotic Additive Manufacturing Applications in Architecture, Engineering, and Construction</a></li>
     </ol>
 </div>

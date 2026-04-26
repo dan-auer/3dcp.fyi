@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 444
+    : 463
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (133)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/yang_lei"><b>Yang</b> Lei</a>, <a href="../../../author/zheng_yan"><b>Zheng</b> Yan</a>, <a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../chen_yang_zhen_huan.2020.YSaTCo3PCSCCwMRtSBU/">Yield-Stress and Thixotropy-Control of 3D Printed Calcium-Sulfoaluminate Cement Composites with Metakaolin Related to Structural Build-Up</a> (141)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (31)</li>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (30)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (33)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (32)</li>
         <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (20)</li>
-        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (14)</li>
+        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (16)</li>
         <li><a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a> (13)</li>
     </ol>
 

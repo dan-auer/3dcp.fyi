@@ -66,7 +66,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 24-33
       title             = "3D Printing with Wood Waste: Development of Reusable Printing Material Based on Waste Wood Particles and Its Digital Manufacturing Process for Wall Constructions in Architecture",
       year              = "2024",
       pages             = "24--33",
-      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2021",
+      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2024",
       editor            = "Nadja Gaudillière-Jami and Alexander Wolf",
     }
 
@@ -77,10 +77,10 @@ Contribution - Built Environment Additive Manufacturing, pp. 24-33
 
     === "IEEE"
 
-    <span id="iee">L. Heinze, A. Liebringshausen and P. Eversmann, “3D Printing with Wood Waste: Development of Reusable Printing Material Based on Waste Wood Particles and Its Digital Manufacturing Process for Wall Constructions in Architecture”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>,  2024, pp. 24–33.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">L. Heinze, A. Liebringshausen and P. Eversmann, “3D Printing with Wood Waste: Development of Reusable Printing Material Based on Waste Wood Particles and Its Digital Manufacturing Process for Wall Constructions in Architecture”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>,  2024, pp. 24–33.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Heinze, Lisa, Anne Liebringshausen, and Philipp Eversmann. “3D Printing with Wood Waste: Development of Reusable Printing Material Based on Waste Wood Particles and Its Digital Manufacturing Process for Wall Constructions in Architecture”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 24–33, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Heinze, Lisa, Anne Liebringshausen, and Philipp Eversmann. “3D Printing with Wood Waste: Development of Reusable Printing Material Based on Waste Wood Particles and Its Digital Manufacturing Process for Wall Constructions in Architecture”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 24–33, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

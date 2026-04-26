@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a> (6)</li>
+        <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a>, <a href="../../../author/leong_sing"><b>Leong</b> Sing</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../mura_leon.2024.WDC/">Waste-Driven Construction:<br/>A State of the Art Review on the Integration of Waste in 3D Printed Concrete in Recent Researches for Sustainable Development</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (1)</li>
-        <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (1)</li>
-        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (1)</li>
-        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
-        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
+        <li><a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a> (1)</li>
     </ol>
 
 </div>

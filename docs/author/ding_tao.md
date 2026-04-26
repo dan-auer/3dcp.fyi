@@ -25,7 +25,7 @@ search:
     : 38
 
     Number Citations
-    : 2159
+    : 2342
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (320)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (347)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (89)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (69)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (63)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (61)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (58)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (91)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (80)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (73)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (69)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (66)</li>
     </ol>
 
 </div>

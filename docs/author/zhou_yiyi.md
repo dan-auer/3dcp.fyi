@@ -19,13 +19,13 @@ search:
     : 2022-11-24
     
     Last Contribution
-    : 2024-12-19
+    : 2026-04-13
 
     Number Contributions
-    : 5
+    : 6
 
     Number Citations
-    : 97
+    : 111
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,23 +38,23 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a> (46)</li>
+        <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a> (52)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (23)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (22)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (18)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (15)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (14)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (23)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (19)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (14)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (13)</li>
         <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (12)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (11)</li>
         <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (10)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (8)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/guo_hongyuan"><b>Guo</b> Hongyuan</a>, <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/lyu_mengze"><b>Lyu</b> Mengze</a>, <a href="../../../author/bao_xiaohua"><b>Bao</b> Xiaohua</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../guo_chen_lyu_bao.2026.PaGSAf3CP/">Probabilistic and Global Sensitivity Analysis for 3D Concrete Printing:<br/>A Point-Evolution and Fréchet-Derivative Framework</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPTb/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing Technology:<br/>Corrigendum</a></li>
   <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../zhao_wang_liu_wang.2024.RoSWICMU3CPT/">Review on Solid Wastes Incorporated Cementitious Material Using 3D Concrete Printing-Technology</a></li>
   <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/luo_haoran"><b>Luo</b> Haoran</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_luo_anan_sing.2024.SUoURGiAMRPC/">Sustainable Use of Ultrafine Recycled Glass in Additive Manufactured Reactive-Powder Concrete</a></li>

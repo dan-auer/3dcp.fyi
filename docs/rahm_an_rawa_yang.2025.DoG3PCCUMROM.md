@@ -22,7 +22,7 @@ tags:
 <a title="Open Access - No Link Found">:aca-openaccess:{ .xgreen_wod .lg .middle}</a>
  <a href="https://doi.org/10.1016/j.cscm.2025.e05360" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.cscm.2025.e05360" target="_blank">10.1016/j.cscm.2025.e05360</a>
 
-<a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <a href="../../../author/yang_richard"><b>Yang</b>&nbsp;Richard</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
+<a href="../../../author/rahman_mahfuzur"><b>Rahman</b>&nbsp;Mahfuzur</a></span>, <span class="author"><a href="https://orcid.org/0009-0003-9939-8441" title="ORCID: 0009-0003-9939-8441" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/an_dong"><b>An</b>&nbsp;Dong</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-1985-7579" title="ORCID: 0000-0002-1985-7579" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rawat_sanket"><b>Rawat</b>&nbsp;Sanket</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-5598-958X" title="ORCID: 0000-0001-5598-958X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/yang_chunhui_richard"><b>Yang</b>&nbsp;Richard</a></span>, <a href="../../../author/zhang_x_y"><b>Zhang</b>&nbsp;Y.</a></span><br>
 Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
 
 <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/green"><button class="btn">#green</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/multi"><button class="btn">#multi</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/printability"><button class="btn">#printability</button></a> <a href="../../keyword/response"><button class="btn">#response</button></a> 
@@ -75,7 +75,7 @@ Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
 
     ```bibtex
     @article{rahm_an_rawa_yang.2025.DoG3PCCUMROM,
-      author            = "Mahfuzur Rahman and Dong An and Sanket Rawat and Richard Yang and Y. X. Zhang",
+      author            = "Mahfuzur Rahman and Dong An and Sanket Rawat and Richard Chunhui Yang and Y. X. Zhang",
       title             = "Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method",
       doi               = "10.1016/j.cscm.2025.e05360",
       year              = "2025",
@@ -91,10 +91,10 @@ Journal Article - Case Studies in Construction Materials, Vol. 23, No. e05360
 
     === "IEEE"
 
-    <span id="iee">M. Rahman, D. An, S. Rawat, R. Yang and Y. X. Zhang, “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”, <i>Case Studies in Construction Materials</i>, vol. 23, p. e05360, 2025, doi: 10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">M. Rahman, D. An, S. Rawat, R. C. Yang and Y. X. Zhang, “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”, <i>Case Studies in Construction Materials</i>, vol. 23, p. e05360, 2025, doi: 10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Rahman, Mahfuzur, Dong An, Sanket Rawat, Richard Yang, and Y. X. Zhang. “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”. <i>Case Studies in Construction Materials</i> 23 (2025): e05360. https://doi.org/10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Rahman, Mahfuzur, Dong An, Sanket Rawat, Richard Chunhui Yang, and Y. X. Zhang. “Development of Green 3D Printable Cementitious Composites Using Multi-Response Optimisation Method”. <i>Case Studies in Construction Materials</i> 23 (2025): e05360. https://doi.org/10.1016/j.cscm.2025.e05360.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

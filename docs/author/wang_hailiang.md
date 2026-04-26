@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 125
+    : 137
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a> (125)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/wang_hailiang"><b>Wang</b> Hailiang</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../yang_wu_liu_wang.2022.MAoUHPFRCf3P/">Mechanical Anisotropy of Ultra-High-Performance Fiber-Reinforced Concrete for 3D Printing</a> (137)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> (8)</li>
-        <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (8)</li>
-        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> (7)</li>
+        <li><a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> (9)</li>
+        <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (9)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a> (8)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
-        <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a> (5)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
     </ol>
 
 </div>

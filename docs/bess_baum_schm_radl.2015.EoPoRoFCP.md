@@ -44,8 +44,9 @@ Journal Article - Cement and Concrete Research, Vol. 76, pp. 98-106
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "17 Citations"
+???+ bug "18 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_jianfen"><b>Luo</b> Jianfen</a>, <a href="../../../author/wang_qidong"><b>Wang</b> Qidong</a>, <a href="../../../author/wang_lijia"><b>Wang</b> Lijia</a>, <a href="../../../author/fang_mingyue"><b>Fang</b> Mingyue</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_wang_wang_fang.2026.ARotRPo3PC/">A Review of the Rheological Properties of 3D-Printed Concrete:<br/>Raw Materials, Printing Parameters, and Evolution Mechanisms</a></li>
       <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
       <li><a href="../../../author/li_hualong"><b>Li</b> Hualong</a>, <a href="../../../author/shi_ye"><b>Shi</b> Ye</a>, <a href="../../../author/rong_hui"><b>Rong</b> Hui</a>, <a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../li_shi_rong_dai.2025.EoAotPo3PUHPC/">Effect of Additives on the Performance of 3D-Printing Ultra-High Performance Concrete</a></li>
       <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a></li>

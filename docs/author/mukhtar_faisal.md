@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/osta_omar_mohammad"><b>Osta</b> Mohammad</a>, <a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../osta_mukh.2024.BAo3CPUFEM/">Buildability-Analysis of 3D Concrete Printing Using Finite-Element-Method</a> (1)</li>
+        <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../mukh.2025.3PCF/">3D-Printed Concrete Fracture:<br/>Effects of Cohesive Laws, Mixes, and Print Parameters in 3D EXtended FEM</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
         <li><a href="../../../author/babenko_s_dimitry"><b>Babenko</b> Dimitry</a> (1)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
         <li><a href="../../../author/isa_nura_muhammed"><b>Isa</b> Muhammed</a> (1)</li>
-        <li><a href="../../../author/maddock_richard"><b>Maddock</b> Richard</a> (1)</li>
+        <li><a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> (1)</li>
     </ol>
 
 </div>

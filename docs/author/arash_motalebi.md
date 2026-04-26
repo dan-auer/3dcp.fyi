@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a> (1)</li>
+        <li><a href="../../../author/arash_motalebi"><b>Arash</b> Motalebi</a>, <a href="../../../author/mohammad_hasan-khondoker_aba"><b>Mohammad</b> Aba</a>, <a href="../../../author/golam_kabir"><b>Golam</b> Kabir</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../aras_moha_gola.2025.AtEIoBHiRA/">Assessing the Environmental Impact of Building Houses in Remote Areas:<br/>3D Printing vs. Traditional Construction Techniques</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
     <ol>
         <li><a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> (1)</li>
         <li><a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a> (1)</li>
-        <li><a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a> (1)</li>
-        <li><a href="../../../author/mahdy_deena"><b>El Mahdy</b> Deena</a> (1)</li>
+        <li><a href="../../../author/li_yufeng"><b>Li</b> Yufeng</a> (1)</li>
+        <li><a href="../../../author/liu_bei"><b>Liu</b> Bei</a> (1)</li>
         <li><a href="../../../author/marais_eugene"><b>Marais</b> Eugene</a> (1)</li>
     </ol>
 

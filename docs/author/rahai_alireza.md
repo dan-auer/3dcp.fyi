@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a> (0)</li>
+        <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a>, <a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a>, <a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC/">Multi-Criteria Optimization for Sustainable Concrete Mix Considering the Synergistic Effect of Recycled Steel Fiber and LC3 Concrete</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/hassan_hilal"><b>el Hassan</b> Hilal</a> (1)</li>
+        <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> (1)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>
+        <li><a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 91
+    : 94
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a> (56)</li>
+        <li><a href="../../../author/kontovourkis_odysseas"><b>Kontovourkis</b> Odysseas</a>, <a href="../../../author/tryfonos_george"><b>Tryfonos</b> George</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../kont_tryf.2020.R3CPoPNCWCBoaPID/">Robotic 3D Clay Printing of Prefabricated Non-Conventional Wall Components Based on a Parametric-Integrated Design</a> (59)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/haghighi_azadeh"><b>Haghighi</b> Azadeh</a> (5)</li>
+        <li><a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> (5)</li>
         <li><a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> (4)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
         <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (4)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
     </ol>
 
 </div>

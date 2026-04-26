@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 44
+    : 48
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a> (36)</li>
+        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a> (2)</li>
-        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (2)</li>
-        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (3)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (3)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (3)</li>
         <li><a href="../../../author/li_mo"><b>Li</b> Mo</a> (2)</li>
-        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
+        <li><a href="../../../author/ramaswamy_ananth"><b>Ramaswamy</b> Ananth</a> (2)</li>
     </ol>
 
 </div>

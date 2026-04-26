@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 63
+    : 64
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a> (63)</li>
+        <li><a href="../../../author/neudecker_stefan"><b>Neudecker</b> Stefan</a>, <a href="../../../author/bruns_christopher"><b>Bruns</b> Christopher</a>, <a href="../../../author/gerbers_roman"><b>Gerbers</b> Roman</a>, <a href="../../../author/heyn_jakob"><b>Heyn</b> Jakob</a> et al. <a href="../../../date/2016/05">(2016-05)</a><br><a href="../../../neud_brun_gerb_heyn.2016.ANRSTfGMoCCSwF/">A New Robotic Spray Technology for Generative Manufacturing of Complex Concrete-Structures without Formwork</a> (64)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (20)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (13)</li>
         <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (11)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (9)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
     </ol>
 
 </div>

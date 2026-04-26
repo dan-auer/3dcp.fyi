@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 316
+    : 346
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a> (183)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> <a href="../../../date/2020/11">(2020-11)</a><br><a href="../../../xiao_liu_ding.2021.FEAotABo3PCuCaF/">Finite-Element-Analysis on the Anisotropic Behavior of 3D Printed Concrete under Compression and Flexure</a> (192)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (22)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (23)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (15)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (11)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (12)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (11)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (11)</li>
     </ol>
 
 </div>

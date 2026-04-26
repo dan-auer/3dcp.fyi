@@ -72,8 +72,9 @@ Journal Article - Journal of Building Engineering, Vol. 117, No. 114923
       <li><a href="../../../author/zhang_hanghua"><b>Zhang</b> Hanghua</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../zhan_xiao.2021.PSaCo3PMwRS/">Plastic Shrinkage and Cracking of 3D Printed Mortar with Recycled Sand</a></li>
       <li><a href="../../../author/zhou_wen"><b>Zhou</b> Wen</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a>, <a href="../../../author/hu_wei-hsiu"><b>Hu</b> Wei-Hsiu</a>, <a href="../../../author/wollaston_ryan"><b>Wollaston</b> Ryan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_zhu_hu_woll.2024.LCEECCEItCo3P/">Low-Carbon, Expansive Engineered Cementitious Composites (ECC) In the Context of 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a>, <a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../katl_turk.2026.EHMLAfMPo3PSHCC3S/">Explainable Hybrid Machine Learning Approach for Mechanical Performance of 3D-Printed Strain-Hardening Cementitious Composites (3DP-SHCC)</a></li>
     </ol>
 </div>
 

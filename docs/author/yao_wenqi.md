@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/liu_hao"><b>Liu</b> Hao</a>, <a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../yang_li_liu_huo.2024.EtPfCCaRo3PCB/">Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges:<br/>Construction, Dismantlement, and Reconstruction of a Box Arch Bridge</a> (5)</li>
+        <li><a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/li_chao"><b>Li</b> Chao</a>, <a href="../../../author/liu_hao"><b>Liu</b> Hao</a>, <a href="../../../author/huo_longfei"><b>Huo</b> Longfei</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../yang_li_liu_huo.2024.EtPfCCaRo3PCB/">Exploring the Potential for Carrying Capacity and Reusability of 3D Printed Concrete Bridges:<br/>Construction, Dismantlement, and Reconstruction of a Box Arch Bridge</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (2)</li>
-        <li><a href="../../../author/cai_yili"><b>Cai</b> Yili</a> (1)</li>
-        <li><a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a> (1)</li>
-        <li><a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a> (1)</li>
-        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (1)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
+        <li><a href="../../../author/bai_songlin"><b>Bai</b> Songlin</a> (2)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (2)</li>
+        <li><a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a> (2)</li>
+        <li><a href="../../../author/yang_min"><b>Yang</b> Min</a> (2)</li>
     </ol>
 
 </div>

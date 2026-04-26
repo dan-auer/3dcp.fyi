@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahebi_soleyman"><b>Sahebi</b> Soleyman</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sahe_asla.2025.MSaHTo3PRCaET/">Mechanical Strength and Heat Tolerance of 3D Printed Rubberised Concrete at Elevated Temperatures</a> (0)</li>
+        <li><a href="../../../author/sahebi_soleyman"><b>Sahebi</b> Soleyman</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sahe_asla.2025.MSaHTo3PRCaET/">Mechanical Strength and Heat Tolerance of 3D Printed Rubberised Concrete at Elevated Temperatures</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (1)</li>
+        <li><a href="../../../author/lu_han"><b>Lu</b> Han</a> (1)</li>
+        <li><a href="../../../author/yosri_m_ahmed"><b>Yosri</b> Ahmed</a> (1)</li>
     </ol>
 
 </div>

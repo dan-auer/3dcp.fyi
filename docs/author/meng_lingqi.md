@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 62
+    : 70
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a> (37)</li>
+        <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/li_xuesen"><b>Li</b> Xuesen</a>, <a href="../../../author/meng_lingqi"><b>Meng</b> Lingqi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS/">Investigation of the Rheological and Mechanical Properties of 3D Printed Eco-Friendly Concrete with Steel-Slag</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> (5)</li>
-        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (5)</li>
-        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (5)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (5)</li>
+        <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> (7)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (7)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (6)</li>
     </ol>
 
 </div>

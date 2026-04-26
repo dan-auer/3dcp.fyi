@@ -17,7 +17,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-030-49916-7_77" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_77" target="_blank">10.1007/978-3-030-49916-7_77</a>
 
-<a href="../../../author/brun_francis"><b>Brun</b>&nbsp;Francis</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <a href="../../../author/vitorino_joao"><b>Vitorino</b>&nbsp;João</a></span>, <a href="../../../author/diz_francisco"><b>Diz</b>&nbsp;Francisco</a></span><br>
+<a href="../../../author/brun_francis"><b>Brun</b>&nbsp;Francis</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <a href="../../../author/mateus_artur"><b>Mateus</b>&nbsp;Artur</a></span>, <a href="../../../author/vitorino_joao"><b>Vitorino</b>&nbsp;João</a></span>, <a href="../../../author/diz_francisco"><b>Diz</b>&nbsp;Francisco</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 778-789
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/experiment"><button class="btn">#experiment</button></a> <a href="../../keyword/overhang"><button class="btn">#overhang</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -77,7 +77,7 @@ Contribution - Proceedings of the 2nd RILEM International Conference on Concrete
 
     ```bibtex
     @inproceedings{brun_gasp_mate_vito.2020.ESo3PoCwO,
-      author            = "Francis Brun and Florindo Gaspar and Artur Mateus and João Vitorino and Francisco Diz",
+      author            = "Francis Brun and Florindo José Mendes Gaspar and Artur Mateus and João Vitorino and Francisco Diz",
       title             = "Experimental Study on 3D Printing of Concrete with Overhangs",
       doi               = "10.1007/978-3-030-49916-7_77",
       year              = "2020",
@@ -94,10 +94,10 @@ Contribution - Proceedings of the 2nd RILEM International Conference on Concrete
 
     === "IEEE"
 
-    <span id="iee">F. Brun, F. Gaspar, A. Mateus, J. Vitorino and F. Diz, “Experimental Study on 3D Printing of Concrete with Overhangs”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 778–789. doi: 10.1007/978-3-030-49916-7_77.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">F. Brun, F. J. M. Gaspar, A. Mateus, J. Vitorino and F. Diz, “Experimental Study on 3D Printing of Concrete with Overhangs”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 778–789. doi: 10.1007/978-3-030-49916-7_77.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Brun, Francis, Florindo Gaspar, Artur Mateus, João Vitorino, and Francisco Diz. “Experimental Study on 3D Printing of Concrete with Overhangs”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:778–89, 2020. https://doi.org/10.1007/978-3-030-49916-7_77.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Brun, Francis, Florindo José Mendes Gaspar, Artur Mateus, João Vitorino, and Francisco Diz. “Experimental Study on 3D Printing of Concrete with Overhangs”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:778–89, 2020. https://doi.org/10.1007/978-3-030-49916-7_77.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

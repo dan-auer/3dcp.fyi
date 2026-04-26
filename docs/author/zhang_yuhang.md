@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a> (3)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/zhang_yuhang"><b>Zhang</b> Yuhang</a>, <a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../zhu_zhan_ye_wei.2025.LVIPoB3PECCB/">Low-Velocity Impact Performance of Biomimetic 3D Printed Engineered Cementitious Composites Beams</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (2)</li>
         <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> (2)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
         <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (2)</li>
-        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (2)</li>
-        <li><a href="../../../author/liang_long"><b>Liang</b> Long</a> (1)</li>
+        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (2)</li>
     </ol>
 
 </div>

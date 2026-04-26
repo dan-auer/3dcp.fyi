@@ -19,10 +19,10 @@ search:
     : 2024-09-13
     
     Last Contribution
-    : 2025-12-11
+    : 2026-02-03
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
     : 9
@@ -43,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (11)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (14)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (8)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (8)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (7)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_fang"><b>Liu</b> Fang</a>, <a href="../../../author/wang_haiwei"><b>Wang</b> Haiwei</a>, <a href="../../../author/zheng_xinchao"><b>Zheng</b> Xinchao</a>, <a href="../../../author/hu_xueting"><b>Hu</b> Xueting</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_wang_zhen_hu.2026.SotWaMIFo3PCGFABG/">Study on the Workability and Mechanical Influencing Factors of 3D-Printed Coal Gangue-Fly Ash-Based Geopolymers</a></li>
   <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P/">Numerical Analysis of Mechanical Properties of Steel Fiber Composite Cement Mortar Considering Non-Uniformity in 3D Printing.</a></li>
   <li><a href="../../../author/cao_jing"><b>Cao</b> Jing</a>, <a href="../../../author/shengzhao_e"><b>Shengzhao</b> E.</a>, <a href="../../../author/yang_yi"><b>Yang</b> Yi</a>, <a href="../../../author/shi_yaming"><b>Shi</b> Yaming</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../cao_shen_yang_shi.2024.ASftIotBPo3PCILI/">A Strategy for the Improvement of the Bonding Performance of 3D Printed Concrete Inter-Layer Interfaces</a></li>
 </ol>

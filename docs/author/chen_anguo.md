@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 27
+    : 36
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../lyu_dai_chen.2023.SSPCMbMEaAB3P/">Sandwich-Structured Porous Concrete Manufactured by Mortar-Extrusion and Aggregate-Bed 3D Printing</a> (14)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/chen_anguo"><b>Chen</b> Anguo</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../lyu_dai_chen.2024.MSaOPoTCMbME3PwPMF/">Mechanical Strengths and Optical Properties of Translucent Concrete Manufactured by Mortar-Extrusion 3D Printing with Polymethyl-Methacrylate Fibers</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (10)</li>
-        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (8)</li>
-        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> (7)</li>
-        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (7)</li>
-        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (5)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (14)</li>
+        <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> (9)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (9)</li>
+        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (9)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (7)</li>
     </ol>
 
 </div>

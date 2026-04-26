@@ -225,8 +225,10 @@ Journal Article - Construction and Building Materials, Vol. 508, No. 145140
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../reis_aros_camo_bran.2026.CaCAi3PCM/">Carbonation and Chloride Attack in 3D-Printed Cementitious Materials:<br/>A Systematic Durability Review</a></li>
+      <li><a href="../../../author/luo_jianfen"><b>Luo</b> Jianfen</a>, <a href="../../../author/wang_qidong"><b>Wang</b> Qidong</a>, <a href="../../../author/wang_lijia"><b>Wang</b> Lijia</a>, <a href="../../../author/fang_mingyue"><b>Fang</b> Mingyue</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_wang_wang_fang.2026.ARotRPo3PC/">A Review of the Rheological Properties of 3D-Printed Concrete:<br/>Raw Materials, Printing Parameters, and Evolution Mechanisms</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a> (0)</li>
+        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (1)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (1)</li>
+        <li><a href="../../../author/fang_mingyue"><b>Fang</b> Mingyue</a> (1)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (1)</li>
+        <li><a href="../../../author/wang_lijia"><b>Wang</b> Lijia</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/gruyaert_elke"><b>Gruyaert</b> Elke</a>, <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../vlie_blaa_gruy_cize.2025.ASaDYSo3PMwRS/">Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand:<br/>Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio</a> (1)</li>
+        <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/gruyaert_elke"><b>Gruyaert</b> Elke</a>, <a href="../../../author/cizer_ozlem"><b>Cizer</b> Özlem</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../vlie_blaa_gruy_cize.2025.ASaDYSo3PMwRS/">Assessing Static and Dynamic Yield-Stress of 3D Printing Mortar with Recycled Sand:<br/>Influence of Sand-Geometry, Fineness Modulus, and Water-to-Binder Ratio</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a> (1)</li>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (1)</li>
-        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
+        <li><a href="../../../author/yuan_pu"><b>Yuan</b> Pu</a> (1)</li>
     </ol>
 
 </div>

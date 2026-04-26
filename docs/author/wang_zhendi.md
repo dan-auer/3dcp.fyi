@@ -19,44 +19,44 @@ search:
     : 2022-01-12
     
     Last Contribution
-    : 2025-10-29
+    : 2026-03-31
 
     Number Contributions
-    : 10
+    : 11
 
     Number Citations
-    : 91
+    : 114
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (6)</li>
+        <li><a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> (6)</li>
         <li><a href="../../../author/peng_yu"><b>Peng</b> Yu</a> (5)</li>
-        <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a> (5)</li>
-        <li><a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> (5)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (4)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (30)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (43)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (42)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (30)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (29)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (28)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (46)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (45)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (33)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (31)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (7)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (7)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (7)</li>
         <li><a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a> (5)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhen_houru"><b>Zhen</b> Houru</a>, <a href="../../../author/wang_zhendi"><b>Wang</b> Zhendi</a>, <a href="../../../author/wang_ling"><b>Wang</b> Ling</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zhen_wang_wang_zeng.2026.IPaMIo3PCvMRV/">Interfacial Property and Microstructure Improvement of 3D Printed Concrete via Micro-Region Vibration</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/you_xiufei"><b>You</b> Xiufei</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_xu_you_li.2025.SSEITi3PC/">Saddle Stitching-Enabled Interfacial Toughening in 3D Printed Concrete</a></li>
   <li><a href="../../../author/yang_rijiao"><b>Yang</b> Rijiao</a>, <a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a>, <a href="../../../author/fang_sen"><b>Fang</b> Sen</a>, <a href="../../../author/li_xinze"><b>Li</b> Xinze</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../yang_xu_fang_li.2025.MIiMCCbSiEB3PC3/">Mechanistic Insights into Microstructural Changes Caused by Stapling in Extrusion-Based 3D Printed Concrete (3DPC)</a></li>

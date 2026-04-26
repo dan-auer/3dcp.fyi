@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b> Mustapha</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../aabb_mahd_ahac_mazi.2024.ASC/">Advancing Sustainable Construction:<br/>Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay</a> (2)</li>
+        <li><a href="../../../author/aabbas_mohamed"><b>Aabbas</b> Mohamed</a>, <a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b> Mustapha</a>, <a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a>, <a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../aabb_mahd_ahac_mazi.2024.ASC/">Advancing Sustainable Construction:<br/>Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/aabbas_mohamed"><b>el Aabbas</b> Mohamed</a> (1)</li>
-        <li><a href="../../../author/jin_chenxi"><b>Jin</b> Chenxi</a> (1)</li>
-        <li><a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> (1)</li>
-        <li><a href="../../../author/ouardouz_mustapha"><b>Ouardouz</b> Mustapha</a> (1)</li>
-        <li><a href="../../../author/xu_chenhan"><b>Xu</b> Chenhan</a> (1)</li>
+        <li><a href="../../../author/aabbas_mohamed"><b>el Aabbas</b> Mohamed</a> (2)</li>
+        <li><a href="../../../author/ahachad_mohammed"><b>Ahachad</b> Mohammed</a> (2)</li>
+        <li><a href="../../../author/mahdaoui_mustapha"><b>Mahdaoui</b> Mustapha</a> (2)</li>
+        <li><a href="../../../author/mazian_brahim"><b>Mazian</b> Brahim</a> (2)</li>
+        <li><a href="../../../author/ouardouz_mustapha"><b>Ouardouz</b> Mustapha</a> (2)</li>
     </ol>
 
 </div>

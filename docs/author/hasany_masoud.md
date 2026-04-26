@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 22
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a>, <a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rahe_hasa_mehr_almd.2023.PCMIi3PGC/">Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement:<br/>A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings</a> (15)</li>
+        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a>, <a href="../../../author/almdal_kristoffer"><b>Almdal</b> Kristoffer</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rahe_hasa_mehr_almd.2023.PCMIi3PGC/">Phase-Change-Materials Incorporation into 3D Printed Geopolymer Cement:<br/>A Sustainable Approach to Enhance the Comfort and Energy Efficiency of Buildings</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a> (2)</li>
-        <li><a href="../../../author/mishra_jyotirmoy"><b>Mishra</b> Jyotirmoy</a> (2)</li>
-        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (2)</li>
-        <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> (2)</li>
-        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (2)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (3)</li>
+        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (3)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (3)</li>
     </ol>
 
 </div>

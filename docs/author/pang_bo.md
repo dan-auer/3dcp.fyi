@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 490
+    : 520
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a> (306)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a> (315)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (18)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (13)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (20)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (14)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (14)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (13)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (13)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (12)</li>
     </ol>
 
 </div>

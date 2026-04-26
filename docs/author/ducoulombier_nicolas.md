@@ -19,44 +19,44 @@ search:
     : 2019-06-26
     
     Last Contribution
-    : 2025-05-14
+    : 2026-02-10
 
     Number Contributions
-    : 26
+    : 27
 
     Number Citations
-    : 378
+    : 420
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (20)</li>
-        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (19)</li>
-        <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a> (13)</li>
-        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (10)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (21)</li>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (20)</li>
+        <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a> (14)</li>
+        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (11)</li>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (7)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a> (62)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/ivanova_irina"><b>Ivanova</b> Irina</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rous_busw_duco_ivan.2022.AtFPoPCBM/">Assessing the Fresh Properties of Printable Cement-Based Materials:<br/>High-Potential Tests for Quality-Control</a> (70)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (71)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (70)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (73)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (71)</li>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (64)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (51)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (45)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (52)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (29)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (27)</li>
         <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (25)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (24)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
         <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (15)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../caro_duco_demo_bono.2026.U3PfaNCCaSD/">Using 3D Printing for a New Cementitious Composite and Structural Design</a></li>
   <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>
   <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>
   <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/kachkouch_zahraa_fatima"><b>Kachkouch</b> Fatima</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../duco_bono_kach_jacq.2025.FLtP/">From Laboratory to Practice</a></li>

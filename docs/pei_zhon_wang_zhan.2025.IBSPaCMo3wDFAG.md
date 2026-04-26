@@ -73,8 +73,9 @@ Journal Article - Construction and Building Materials, Vol. 486, No. 142024
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2018/01">(2018-01)</a><br><a href="../../../weng_li_tan_qian.2018.D3PCMvFTTaMPM/">Design 3D Printing Cementitious Materials via Fuller-Thompson-Theory and Marson-Percy-Model</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/lv_zhenyuan"><b>Lv</b> Zhenyuan</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/hou_shaodan"><b>Hou</b> Shaodan</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC/">Study on Preparation and Mechanical Properties of 3D Printed Concrete with Different Aggregate-Combinations</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a>, <a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a>, <a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a>, <a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_wang_li_yang.2026.RPaMftCoLEoEB3PC/">Recent Progress and Methodology for the Characterization of Layer-Effects of Extrusion-Based 3D-Printed Concrete</a></li>
     </ol>
 </div>
 

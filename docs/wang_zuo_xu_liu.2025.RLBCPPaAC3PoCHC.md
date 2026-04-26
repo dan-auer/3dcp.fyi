@@ -63,8 +63,9 @@ Journal Article - Automation in Construction, Vol. 177, No. 106290
       <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a>, <a href="../../../author/lee_jia-shen_brian"><b>Lee</b> Brian</a>, <a href="../../../author/gan_jia-hui_nicole"><b>Gan</b> Nicole</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS/">Extracting BIM Information for Lattice Tool-Path-Planning in Digital Concrete Printing with Developed Dynamo Script:<br/>A Case Study</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/lv_liping"><b>Lv</b> Liping</a>, <a href="../../../author/he_jing"><b>He</b> Jing</a>, <a href="../../../author/chen_jiazhe"><b>Chen</b> Jiazhe</a>, <a href="../../../author/xu_dan"><b>Xu</b> Dan</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../lv_he_chen_xu.2026.IMOOfMHC3CPvaTTEGA/">Integrated Multi-Objective Optimization for Multi-Head Collaborative 3D Concrete Printing via a Trinary-Tree Enhanced Genetic Algorithm</a></li>
     </ol>
 </div>
 

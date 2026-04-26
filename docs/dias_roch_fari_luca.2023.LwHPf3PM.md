@@ -75,7 +75,7 @@ Contribution - Sustainable and Digital Building, pp. 41-50
       year              = "2023",
       pages             = "41--50",
       booktitle         = "Sustainable and Digital Building",
-      editor            = "Florindo Gaspar and Artur Mateus",
+      editor            = "Florindo José Mendes Gaspar and Artur Mateus",
     }
 
 
@@ -89,6 +89,6 @@ Contribution - Sustainable and Digital Building, pp. 41-50
 
     === "CMOS"
 
-    <span id="cmos">Dias, Bruno Duarte, Douglas Rocha, Paulina Faria, Sandra Simaria de Oliveira Lucas, V. A. Silva, B. Lobo, and Alberto Reaes Pinto. “Limes with Hydraulic Properties for 3D Printing Mortars”. In <i>Sustainable and Digital Building</i>, edited by Florindo Gaspar and Artur Mateus, 41–50, 2023. https://doi.org/10.1007/978-3-031-25795-7_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Dias, Bruno Duarte, Douglas Rocha, Paulina Faria, Sandra Simaria de Oliveira Lucas, V. A. Silva, B. Lobo, and Alberto Reaes Pinto. “Limes with Hydraulic Properties for 3D Printing Mortars”. In <i>Sustainable and Digital Building</i>, edited by Florindo José Mendes Gaspar and Artur Mateus, 41–50, 2023. https://doi.org/10.1007/978-3-031-25795-7_3.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

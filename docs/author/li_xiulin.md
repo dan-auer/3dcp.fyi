@@ -19,40 +19,43 @@ search:
     : 2025-10-15
     
     Last Contribution
-    : 2025-12-18
+    : 2026-04-16
 
     Number Contributions
-    : 2
+    : 4
 
     Number Citations
-    : 0
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a> (2)</li>
-        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a> (2)</li>
-        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (2)</li>
-        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
-        <li><a href="../../../author/li_yang"><b>Li</b> Yang</a> (1)</li>
+        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a> (4)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (4)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (3)</li>
+        <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a> (3)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a> (0)</li>
+        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (5)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (4)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (16)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (15)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (14)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (10)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a> (1)</li>
+        <li><a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a> (1)</li>
+        <li><a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a> (1)</li>
+        <li><a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> (1)</li>
     </ol>
 
 </div>
@@ -60,6 +63,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_li_gong_wang.2026.TaMPo3PLHGMAC/">Thermal and Mechanical Properties of 3D Printed Lightweight Hollow Glass Microsphere Aggregate Concrete</a></li>
+  <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_xu_gong_wang.2026.BoHGMACCSCw3PPFUAL/">Behavior of Hollow Glass Microsphere Aggregate Concrete Composite Short Columns with 3D-Printed Permanent Formwork Under Axial Load</a></li>
   <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_yang"><b>Li</b> Yang</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../liu_wang_li_li.2026.PFMPo3PCUDCM/">Post-Fire Mechanical Properties of 3D Printed Concrete Under Different Cooling Methods</a></li>
   <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/xu_jingjie"><b>Xu</b> Jingjie</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wang_li_gong_xu.2025.TaMPo3PFRLCBoAEaHGM/">Thermal and Mechanical Properties of 3D-Printed Fiber-Reinforced Lightweight Concrete Based on Air Entrainment and Hollow Glass Microspheres</a></li>
 </ol>

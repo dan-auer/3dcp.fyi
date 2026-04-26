@@ -19,26 +19,26 @@ search:
     : 2022-09-09
     
     Last Contribution
-    : 2025-05-26
+    : 2026-04-07
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (2)</li>
-        <li><a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a> (1)</li>
-        <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a> (1)</li>
-        <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a> (1)</li>
-        <li><a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a> (1)</li>
+        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (3)</li>
+        <li><a href="../../../author/long_wujian"><b>Long</b> Wujian</a> (2)</li>
+        <li><a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> (2)</li>
+        <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a> (2)</li>
+        <li><a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a>, <a href="../../../author/pan_pan"><b>Pan</b> Pan</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_pan_li_dong.2022.FEPoViCMfHAT/">Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport</a> (0)</li>
+        <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a>, <a href="../../../author/pan_pan"><b>Pan</b> Pan</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_pan_li_dong.2022.FEPoViCMfHAT/">Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -60,6 +60,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_xianfeng"><b>Wang</b> Xianfeng</a>, <a href="../../../author/zheng_junhao"><b>Zheng</b> Junhao</a>, <a href="../../../author/zhang_xuanzhe"><b>Zhang</b> Xuanzhe</a>, <a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_zhen_zhan_zhu.2026.PEB3PfEVSHiCM/">Pickering Emulsion-Based 3D Printing for Efficient Vascular Self-Healing in Cementitious Materials.</a></li>
   <li><a href="../../../author/geng_songyuan"><b>Geng</b> Songyuan</a>, <a href="../../../author/cheng_boyuan"><b>Cheng</b> Boyuan</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../geng_chen_long_luo.2025.CDPaMLfICiHP3CP/">Co-Driven Physics and Machine Learning for Intelligent Control in High-Precision 3D Concrete Printing</a></li>
   <li><a href="../../../author/zhang_yuanyuan"><b>Zhang</b> Yuanyuan</a>, <a href="../../../author/pan_pan"><b>Pan</b> Pan</a>, <a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a>, <a href="../../../author/dong_biqin"><b>Dong</b> Biqin</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_pan_li_dong.2022.FEPoViCMfHAT/">Freeform Embedded Printing of Vasculature in Cementitious Materials for Healing-Agent Transport</a></li>
 </ol>

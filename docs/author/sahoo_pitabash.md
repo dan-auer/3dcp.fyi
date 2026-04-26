@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../saho_gupt.2023.3PEBAAM/">3D Printable Earth-Based Alkali-Activated Materials:<br/>Role of Mix-Design and Clay-Rich Soil</a> (4)</li>
+        <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../saho_gupt.2025.3PwGSEE/">3D Printing with Geopolymer-Stabilized Excavated Earth:<br/>Enhancement of Printability and Engineering-Performance Through Controlled Retardation</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (1)</li>
-        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (1)</li>
         <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
         <li><a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a> (1)</li>
-        <li><a href="../../../author/wang_jiakang"><b>Wang</b> Jiakang</a> (1)</li>
+        <li><a href="../../../author/ray_saswati"><b>Ray</b> Saswati</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 60
+    : 78
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a> (39)</li>
+        <li><a href="../../../author/hassan_habibelrahman"><b>Hassan</b> Habibelrahman</a>, <a href="../../../author/rodriguez-ubinas_edwin"><b>Rodriguez-Ubinas</b> Edwin</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../hass_rodr_tami_trep.2024.TIaSB/">Towards Innovative and Sustainable Buildings:<br/>A Comprehensive Review of 3D Printing in Construction</a> (55)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> (9)</li>
+        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> (10)</li>
         <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (5)</li>
         <li><a href="../../../author/chamatete_kunda"><b>Chamatete</b> Kunda</a> (4)</li>
         <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (4)</li>
-        <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> (4)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (4)</li>
     </ol>
 
 </div>

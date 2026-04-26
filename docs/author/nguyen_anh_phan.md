@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/nguyen_hoai-thu_thi"><b>Nguyen</b> Thi</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pham_trin_nguy_do.2023.SoFBoPCWBUPF/">Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers</a> (0)</li>
+        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/nguyen_hoai-thu_thi"><b>Nguyen</b> Thi</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pham_trin_nguy_do.2023.SoFBoPCWBUPF/">Study on Flexural Behavior of Printed Concrete Wide Beams Using Polypropylene-Fibers</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/aghajani-delavar_mohammad"><b>Aghajani Delavar</b> Mohammad</a> (1)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (1)</li>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (1)</li>
+        <li><a href="../../../author/sharma_s"><b>Sharma</b> S.</a> (1)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (1)</li>
     </ol>
 
 </div>

@@ -55,8 +55,9 @@ Journal Article - The International Journal of Advanced Manufacturing Technology
       <li><a href="../../../author/tho_phuoc_tuong"><b>Tho</b> Tuong</a>, <a href="../../../author/thinh_truong_nguyen"><b>Thinh</b> Nguyen</a> <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../tho_thin.2021.UaCDPRwAi3CP/">Using a Cable-Driven Parallel Robot with Applications in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chang_mengzhu"><b>Chang</b> Mengzhu</a>, <a href="../../../author/zeng_jun"><b>Zeng</b> Jun</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chan_zeng.2026.POAo3PAfSSH/">Performance-Oriented Assessment of 3D-Printed Architecture for Small-Scale Housing</a></li>
     </ol>
 </div>
 

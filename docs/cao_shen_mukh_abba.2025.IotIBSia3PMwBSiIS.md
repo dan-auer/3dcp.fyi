@@ -73,8 +73,12 @@ Journal Article - Virtual and Physical Prototyping, Vol. 20, Iss. 1
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../zuo_cort_huan_chen.2024.STLS3PWSC/">Strategies Towards Large-Scale 3D Printing Without Size-Constraints</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "4 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/modi_chaman"><b>Modi</b> Chaman</a>, <a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a>, <a href="../../../author/chopperla_siva-teja_krishna"><b>Chopperla</b> Krishna</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../modi_kuma_chop.2026.IPRMf3PCL/">In-Process Reinforcement Method for 3D-Printed Concrete Layers</a></li>
+      <li><a href="../../../author/omarov_bekarys"><b>Omarov</b> Bekarys</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a>, <a href="../../../author/memon_ali_shazim"><b>Memon</b> Shazim</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../omar_ali_memo.2026.ANMtEIBi3PCUDPAoSCM/">A Novel Method to Enhance Interlayer Bond in 3D-Printed Concrete Using Dry-Powder Application of Supplementary Cementitious Materials</a></li>
+      <li><a href="../../../author/wang_longsheng"><b>Wang</b> Longsheng</a>, <a href="../../../author/huang_zili"><b>Huang</b> Zili</a>, <a href="../../../author/nguyen_d_giang"><b>Nguyen</b> Giang</a>, <a href="../../../author/karakus_murat"><b>Karakus</b> Murat</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../wang_huan_nguy_kara.2026.IIAo3PCbFI/">Improving Interlayer Adhesion of 3D Printed Concrete by Filament Interlocking</a></li>
+      <li><a href="../../../author/moussa_oulad_nada"><b>Moussa</b> Nada</a>, <a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a>, <a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mous_haim_rida.2026.LCC/">Limestone–Calcined Clay:<br/>An Alternative Binder for 3D Concrete Printing</a></li>
     </ol>
 </div>
 

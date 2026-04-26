@@ -44,7 +44,7 @@ Contribution - Proceedings of the fib Symposium 2023, pp. 648-657
 <div class="grid cards" markdown>
 ???+ example "2 References"
     <ol class = "bordered-list">
-      <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
+      <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
       <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/cuevas-villalobos_francisca_karla"><b>Cuevas Villalobos</b> Karla</a>, <a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../siko_chou_cuev_lieb.2021.TEoNaMSAo3PCaAAC/">The Effects of Nano- and Micro-Sized Additives on 3D Printable Cementitious and Alkali-Activated Composites:<br/>A Review</a></li>
     </ol>
 ???+ bug "1 Citations"

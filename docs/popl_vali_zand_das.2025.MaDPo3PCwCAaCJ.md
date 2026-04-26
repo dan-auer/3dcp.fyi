@@ -74,8 +74,10 @@ Journal Article - Journal of Structural Design and Construction Practice, Vol. 3
       <li><a href="../../../author/yao_hao"><b>Yao</b> Hao</a>, <a href="../../../author/xie_zonglin"><b>Xie</b> Zonglin</a>, <a href="../../../author/li_zemin"><b>Li</b> Zemin</a>, <a href="../../../author/huang_chuhan"><b>Huang</b> Chuhan</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../yao_xie_li_huan.2022.TRBtRBaILBPo3PCMwtAoA/">The Relationship Between the Rheological Behavior and Inter-Layer Bonding Properties of 3D Printing Cementitious Materials with the Addition of Attapulgite</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/das_souvik"><b>Das</b> Souvik</a>, <a href="../../../author/lee_jonathan"><b>Lee</b> Jonathan</a>, <a href="../../../author/wei_jianqiang"><b>Wei</b> Jianqiang</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../das_lee_wei.2026.TUHPCfAM/">Tailoring Ultra-High Performance Concrete for Additive Manufacturing:<br/>Synergistic Roles of Superplasticizer and Viscosity-Modifying Admixture in Printability and Performance</a></li>
+      <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sant_raph_sant.2026.D/">DELRA:<br/>A Continuous Print Path Generation Algorithm for Concrete 3D Printing of Lattice Structures</a></li>
     </ol>
 </div>
 

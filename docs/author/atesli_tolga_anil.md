@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 42
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a> (42)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/atesli_tolga_anil"><b>Ateşli</b> Anıl</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../sahi_ilca_ates_kul.2021.CaDWBGSfUi3AM/">Construction and Demolition Waste-Based Geopolymers Suited for Use in 3D Additive Manufacturing</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (15)</li>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (13)</li>
-        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (10)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (17)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (15)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (12)</li>
         <li><a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> (6)</li>
         <li><a href="../../../author/kul_anil"><b>Kul</b> Anil</a> (5)</li>
     </ol>

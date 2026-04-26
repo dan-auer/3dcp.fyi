@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 2
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a> (2)</li>
+        <li><a href="../../../author/lin_wenyu"><b>Lin</b> Wenyu</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/bai_gang"><b>Bai</b> Gang</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../lin_wang_li_bai.2025.MSFaCi3PoSSCS/">Multi-Scale Fabrication and Challenges in 3D Printing of Special -Shaped Concrete Structures</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a> (1)</li>
-        <li><a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> (1)</li>
-        <li><a href="../../../author/lascano_diego"><b>Lascano</b> Diego</a> (1)</li>
-        <li><a href="../../../author/ramirez-rico_joaquin"><b>Ramírez-Rico</b> Joaquín</a> (1)</li>
-        <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a> (1)</li>
+        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>

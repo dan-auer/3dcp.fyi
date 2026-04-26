@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 15
+    : 18
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_zhan.2024.FoU3P/">Feasibility of Underwater 3D Printing:<br/>Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</a> (8)</li>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_zhan.2024.FoU3P/">Feasibility of Underwater 3D Printing:<br/>Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (4)</li>
         <li><a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a> (2)</li>
         <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a> (2)</li>
         <li><a href="../../../author/luo_tao"><b>Luo</b> Tao</a> (2)</li>
-        <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> (2)</li>
         <li><a href="../../../author/zheng_tongjing"><b>Zheng</b> Tongjing</a> (2)</li>
     </ol>
 

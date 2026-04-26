@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 247
+    : 259
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a> (201)</li>
+        <li><a href="../../../author/hager_izabela"><b>Hager</b> Izabela</a>, <a href="../../../author/golonka_anna"><b>Golonka</b> Anna</a>, <a href="../../../author/putanowicz_roman"><b>Putanowicz</b> Roman</a> <a href="../../../date/2016/08">(2016-08)</a><br><a href="../../../hage_golo_puta.2016.3PoBaBCatFoSC/">3D Printing of Buildings and Building Components as the Future of Sustainable Construction?</a> (206)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (10)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (10)</li>
         <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (10)</li>
-        <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> (7)</li>
-        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (7)</li>
+        <li><a href="../../../author/dvorkin_leonid"><b>Dvorkin</b> Leonid</a> (8)</li>
+        <li><a href="../../../author/marchuk_vitaliy"><b>Marchuk</b> Vitaliy</a> (8)</li>
     </ol>
 
 </div>

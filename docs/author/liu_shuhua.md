@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 166
+    : 174
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a> (96)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/zhang_zhenzi"><b>Zhang</b> Zhenzi</a> et al. <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../wu_liu_liu_zhan.2021.SotRaBo3PCwRCA/">Study on the Rheology and Buildability of 3D Printed Concrete with Recycled Coarse Aggregates</a> (100)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (10)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (10)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (12)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (12)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (9)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (6)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (6)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
     </ol>
 
 </div>

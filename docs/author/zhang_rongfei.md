@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 427
+    : 457
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a> (99)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../liu_liu_wu_bai.2022.HPo3PCwRCA/">Hardened Properties of 3D Printed Concrete with Recycled Coarse Aggregate</a> (109)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (37)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (34)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (43)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (40)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (26)</li>
-        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (18)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (16)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (22)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (17)</li>
     </ol>
 
 </div>

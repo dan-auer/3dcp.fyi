@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a> (2)</li>
+        <li><a href="../../../author/dobrzanski_james"><b>Dobrzanski</b> James</a>, <a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/bartek_rasti"><b>Bartek</b> Rasti</a>, <a href="../../../author/becker_daniel"><b>Becker</b> Daniel</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../dobr_xu_bart_beck.2025.FDCtDM/">From Digital Crafting to Digital Manufacturing:<br/>Automated Production Using Hybrid 3D Concrete Printing</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (1)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (1)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
         <li><a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> (1)</li>
-        <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a> (1)</li>
-        <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a> (1)</li>
-        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (1)</li>
+        <li><a href="../../../author/jamhiri_babak"><b>Jamhiri</b> Babak</a> (1)</li>
+        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
     </ol>
 
 </div>

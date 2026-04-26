@@ -54,8 +54,9 @@ Journal Article - Materials Letters, No. 138307
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../wang_jian_li_ma.2020.MBo3PLCSwHS/">Mechanical Behaviors of 3D Printed Lightweight Concrete Structure with Hollow Section</a></li>
       <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a>, <a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a>, <a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../west_varg_silf.2023.TtAoMi3CP/">Towards the Application of Mesostructures in 3D Concrete Printing:<br/>Evaluating Load-bearing Performance</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/liu_bei"><b>Liu</b> Bei</a>, <a href="../../../author/wang_hao"><b>Wang</b> Hao</a>, <a href="../../../author/yin_haibin"><b>Yin</b> Haibin</a>, <a href="../../../author/li_yufeng"><b>Li</b> Yufeng</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_wang_yin_li.2026.DMaMPoC3PISIbOP/">Design Method and Mechanical Properties of Construction 3D Printing Infill Structures Inspired by Origami Patterns</a></li>
       <li><a href="../../../author/tarhan_hakki_ismail"><b>Tarhan</b> İsmail</a>, <a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../tarh_tarh.2025.NIPRo3PCWwVIP/">Nonlinear In-Plane Response of 3D-Printed Concrete Walls with Varied Infill Patterns:<br/>Experimental Mix Design and Numerical Structural Assessment</a></li>
     </ol>
 </div>

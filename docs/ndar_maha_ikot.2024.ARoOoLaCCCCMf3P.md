@@ -64,8 +64,10 @@ Contribution - Proceedings of the 9th International Conference on Civil, Structu
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
       <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/zhang_yang"><b>Zhang</b> Yang</a> et al. <a href="../../../date/2021/04">(2021-04)</a><br><a href="../../../zhu_nema_pan_zhan.2021.3CPoPFfCCC/">3D Concrete Printing of Permanent Formwork for Concrete Column Construction</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mahmood_zubayer_mir"><b>Mahmood</b> Mir</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mahm_alia_hasa.2026.ABaTRoSCMf3CPRTCSCaFD/">A Bibliometric and Technical Review of Supplementary Cementitious Materials for 3D Concrete Printing: Research Trends, Current Status, Challenges, and Future Directions</a></li>
+      <li><a href="../../../author/moussa_oulad_nada"><b>Moussa</b> Nada</a>, <a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a>, <a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mous_haim_rida.2026.LCC/">Limestone–Calcined Clay:<br/>An Alternative Binder for 3D Concrete Printing</a></li>
     </ol>
 </div>
 

@@ -53,8 +53,9 @@ Journal Article - Beton- und Stahlbetonbau
       <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/shakour_emad"><b>Shakour</b> Emad</a>, <a href="../../../author/amir_oded"><b>Amir</b> Oded</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../vant_cort_shak_amir.2020.3PoaPTCGDbTO/">3D Printing of a Post-Tensioned Concrete Girder Designed by Topology-Optimization</a></li>
       <li><a href="../../../author/wang_yuxin"><b>Wang</b> Yuxin</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/dyskin_arcady"><b>Dyskin</b> Arcady</a>, <a href="../../../author/pasternak_elena"><b>Pasternak</b> Elena</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../wang_asla_dysk_past.2023.DTAi3CP/">Digital Twin Applications in 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/silvennoinen_heidi"><b>Silvennoinen</b> Heidi</a>, <a href="../../../author/honic_meliha"><b>Honic</b> Meliha</a>, <a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a>, <a href="../../../author/block_philippe"><b>Block</b> Philippe</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../silv_honi_slav_bloc.2026.AMfCC/">Additive Manufacturing for Circular Construction:<br/>A Review of Design Strategies and Their Assessment</a></li>
     </ol>
 </div>
 

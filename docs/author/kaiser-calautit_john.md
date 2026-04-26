@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a> (10)</li>
+        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../sove_kais.2024.TaEEi3PB/">Thermal and Energy Efficiency in 3D Printed Buildings:<br/>Review of Geometric Design, Materials and Printing Processes</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,8 +48,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/barrera_natalia"><b>Barrera</b> Natalia</a> (1)</li>
-        <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a> (1)</li>
+        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (2)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (2)</li>
         <li><a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> (1)</li>
         <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
         <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/foster_e-o_kyle"><b>Foster</b> Kyle</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/schmidt_roty"><b>Schmidt</b> Roty</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rodr_fost_fros_schm.2024.UoaLBAfTtRPoMf3P/">Use of a Lignin-Based Admixture for Tailoring the Rheological Properties of Mortars for 3D Printing</a> (0)</li>
+        <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/foster_e-o_kyle"><b>Foster</b> Kyle</a>, <a href="../../../author/fross_xavier"><b>Fross</b> Xavier</a>, <a href="../../../author/schmidt_roty"><b>Schmidt</b> Roty</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../rodr_fost_fros_schm.2024.UoaLBAfTtRPoMf3P/">Use of a Lignin-Based Admixture for Tailoring the Rheological Properties of Mortars for 3D Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/baccaro_arianna"><b>Baccaro</b> Arianna</a> (1)</li>
+        <li><a href="../../../author/cala_adriana"><b>Calà</b> Adriana</a> (1)</li>
+        <li><a href="../../../author/famoso_martina"><b>Famoso</b> Martina</a> (1)</li>
+        <li><a href="../../../author/santoro_enza"><b>Santoro</b> Enza</a> (1)</li>
     </ol>
 
 </div>

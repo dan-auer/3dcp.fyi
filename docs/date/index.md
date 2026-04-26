@@ -70,10 +70,10 @@ hide:
   <tbody>
     <tr>
       <td>2026</td>
-      <td><a href="../date/2026/01">68</a></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><a href="../date/2026/01">115</a></td>
+      <td><a href="../date/2026/02">88</a></td>
+      <td><a href="../date/2026/03">90</a></td>
+      <td><a href="../date/2026/04">59</a></td>
       <td></td>
       <td></td>
       <td></td>
@@ -87,16 +87,16 @@ hide:
       <td>2025</td>
       <td><a href="../date/2025/01">73</a></td>
       <td><a href="../date/2025/02">52</a></td>
-      <td><a href="../date/2025/03">69</a></td>
+      <td><a href="../date/2025/03">68</a></td>
       <td><a href="../date/2025/04">73</a></td>
       <td><a href="../date/2025/05">85</a></td>
-      <td><a href="../date/2025/06">115</a></td>
+      <td><a href="../date/2025/06">116</a></td>
       <td><a href="../date/2025/07">83</a></td>
       <td><a href="../date/2025/08">65</a></td>
-      <td><a href="../date/2025/09">99</a></td>
-      <td><a href="../date/2025/10">108</a></td>
-      <td><a href="../date/2025/11">93</a></td>
-      <td><a href="../date/2025/12">90</a></td>
+      <td><a href="../date/2025/09">101</a></td>
+      <td><a href="../date/2025/10">114</a></td>
+      <td><a href="../date/2025/11">95</a></td>
+      <td><a href="../date/2025/12">92</a></td>
     </tr>
     <tr>
       <td>2024</td>
@@ -110,13 +110,13 @@ hide:
       <td><a href="../date/2024/08">89</a></td>
       <td><a href="../date/2024/09">305</a></td>
       <td><a href="../date/2024/10">69</a></td>
-      <td><a href="../date/2024/11">116</a></td>
+      <td><a href="../date/2024/11">117</a></td>
       <td><a href="../date/2024/12">64</a></td>
     </tr>
     <tr>
       <td>2023</td>
       <td><a href="../date/2023/01">43</a></td>
-      <td><a href="../date/2023/02">40</a></td>
+      <td><a href="../date/2023/02">41</a></td>
       <td><a href="../date/2023/03">51</a></td>
       <td><a href="../date/2023/04">49</a></td>
       <td><a href="../date/2023/05">31</a></td>

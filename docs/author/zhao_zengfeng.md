@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 38
+    : 51
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a> (27)</li>
+        <li><a href="../../../author/zhao_zengfeng"><b>Zhao</b> Zengfeng</a>, <a href="../../../author/ji_chenyuan"><b>Ji</b> Chenyuan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/yao_lei"><b>Yao</b> Lei</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhao_ji_xiao_yao.2023.ACRoRtEIo3PC/">A Critical Review on Reducing the Environmental Impact of 3D Printing Concrete:<br/>Material-Preparation, Construction-Process and Structure-Level</a> (32)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a> (2)</li>
-        <li><a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (2)</li>
         <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (2)</li>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (2)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (2)</li>
         <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
     </ol>
 

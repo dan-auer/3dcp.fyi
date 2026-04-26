@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cao_chenyu"><b>Cao</b> Chenyu</a>, <a href="../../../author/sun_dongsheng"><b>Sun</b> Dongsheng</a>, <a href="../../../author/xian_zhijun"><b>Xian</b> Zhijun</a>, <a href="../../../author/zhang_hengyu"><b>Zhang</b> Hengyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../cao_sun_xian_zhan.2022.ABRo3PC/">A Brief Review of 3D Printed Concrete</a> (1)</li>
+        <li><a href="../../../author/cao_chenyu"><b>Cao</b> Chenyu</a>, <a href="../../../author/sun_dongsheng"><b>Sun</b> Dongsheng</a>, <a href="../../../author/xian_zhijun"><b>Xian</b> Zhijun</a>, <a href="../../../author/zhang_hengyu"><b>Zhang</b> Hengyu</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../cao_sun_xian_zhan.2022.ABRo3PC/">A Brief Review of 3D Printed Concrete</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,8 +50,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> (1)</li>
-        <li><a href="../../../author/bumanis_girts"><b>Bumanis</b> Girts</a> (1)</li>
         <li><a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a> (1)</li>
         <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> (1)</li>
         <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>

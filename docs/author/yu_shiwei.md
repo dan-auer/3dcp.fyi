@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 407
+    : 443
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (120)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (133)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (22)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (18)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (25)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (21)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (17)</li>
         <li><a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> (17)</li>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (16)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (16)</li>
     </ol>
 

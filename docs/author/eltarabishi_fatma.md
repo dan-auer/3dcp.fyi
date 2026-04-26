@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 19
+    : 23
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ibrahim_iman"><b>Ibrahim</b> Iman</a>, <a href="../../../author/eltarabishi_fatma"><b>Eltarabishi</b> Fatma</a>, <a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../ibra_elta_abda_abda.2022.3PiSB/">3D Printing in Sustainable Buildings:<br/>Systematic Review and Applications in the United Arab Emirates</a> (19)</li>
+        <li><a href="../../../author/ibrahim_iman"><b>Ibrahim</b> Iman</a>, <a href="../../../author/eltarabishi_fatma"><b>Eltarabishi</b> Fatma</a>, <a href="../../../author/abdalla_hadeer"><b>Abdalla</b> Hadeer</a>, <a href="../../../author/abdallah_mohamed"><b>Abdallah</b> Mohamed</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../ibra_elta_abda_abda.2022.3PiSB/">3D Printing in Sustainable Buildings:<br/>Systematic Review and Applications in the United Arab Emirates</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

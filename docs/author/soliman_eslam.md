@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/najvani_amin-dehghani_mohammad"><b>Najvani</b> Mohammad</a>, <a href="../../../author/murcia_heras_daniel"><b>Murcia</b> Daniel</a>, <a href="../../../author/soliman_eslam"><b>Soliman</b> Eslam</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../najv_murc_soli_taha.2023.EASaFCo3PPC/">Early-Age Strength and Failure Characteristics of 3D Printable Polymer Concrete</a> (9)</li>
+        <li><a href="../../../author/najvani_amin-dehghani_mohammad"><b>Najvani</b> Mohammad</a>, <a href="../../../author/murcia_heras_daniel"><b>Murcia</b> Daniel</a>, <a href="../../../author/soliman_eslam"><b>Soliman</b> Eslam</a>, <a href="../../../author/taha_m-reda_mahmoud"><b>Taha</b> Mahmoud</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../najv_murc_soli_taha.2023.EASaFCo3PPC/">Early-Age Strength and Failure Characteristics of 3D Printable Polymer Concrete</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

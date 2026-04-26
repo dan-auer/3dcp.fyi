@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 51
+    : 55
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ivan_eich_tosi_mull.2022.3PaAoFMUPSHCBC/">3D Printing and Assembling of Frame Modules Using Printable Strain-Hardening Cement-Based Composites</a> (17)</li>
+        <li><a href="../../../author/ivaniuk_egor"><b>Ivaniuk</b> Egor</a>, <a href="../../../author/eichenauer_friedrich_martin"><b>Eichenauer</b> Martin</a>, <a href="../../../author/tosic_zlata"><b>Tošić</b> Zlata</a>, <a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../ivan_eich_tosi_mull.2022.3PaAoFMUPSHCBC/">3D Printing and Assembling of Frame Modules Using Printable Strain-Hardening Cement-Based Composites</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

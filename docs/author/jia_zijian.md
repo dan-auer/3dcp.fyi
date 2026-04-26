@@ -19,44 +19,44 @@ search:
     : 2021-11-19
     
     Last Contribution
-    : 2025-08-13
+    : 2026-01-31
 
     Number Contributions
-    : 29
+    : 31
 
     Number Citations
-    : 455
+    : 539
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (29)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (18)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (13)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (31)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (19)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (14)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (10)</li>
         <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (9)</li>
-        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (9)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (78)</li>
+        <li><a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../wang_jia_jia_zhan.2022.Oo3PCwCAvPMDaPP/">Optimization of 3D Printing Concrete with Coarse Aggregate via Proper Mix-Design and Printing-Process</a> (85)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (110)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (104)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (55)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (54)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (54)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (115)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (112)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (62)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (59)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (57)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (25)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (30)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (17)</li>
         <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> (16)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (12)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (12)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (12)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (14)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (13)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/chen_xusheng"><b>Chen</b> Xusheng</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/bao_bingtong"><b>Bao</b> Bingtong</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chen_jia_bao_dong.2026.EoCAaSFIuEotPo3PSFRC/">Effect of Coarse Aggregate and Steel Fiber Interaction under Extrusion on the Performance of 3D-Printed Steel Fiber-Reinforced Concrete</a></li>
+  <li><a href="../../../author/kang_yuyang"><b>Kang</b> Yuyang</a>, <a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kang_yu_zhan_jia.2026.TCEoVMAaPPotAVSFo3PAEC/">The Coupling Effect of Viscosity Modifying Agents and Printing Process on the Air-Void Structure Formation of 3D Printed Air-Entrained Concrete</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT/">Fiber Alignment Mechanism in 3D-Printed Ultra-High Performance Concrete Based on Fluid Dynamics Theory</a></li>
   <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../bos_menn_robe_wolf.2025.AaMR/">Approach and Main Results:<br/>Mechanical Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../mech_muth_robe_wolf.2025.CSaMoE/">Compressive Strength and Modulus of Elasticity:<br/>Mechanical Properties of 3D Printed Concrete</a></li>

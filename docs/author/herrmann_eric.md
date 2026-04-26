@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 454
+    : 464
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a> (175)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/krauss_hans-werner"><b>Krauss</b> Hans-Werner</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../klof_krau_hack_herr.2020.IoPPotILBSoCEAMbS3P/">Influence of Process Parameters on the Inter-Layer Bond Strength of Concrete Elements Additive Manufactured by Shotcrete 3D Printing</a> (181)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (89)</li>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (71)</li>
-        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (61)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (90)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (72)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (62)</li>
         <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (38)</li>
         <li><a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a> (30)</li>
     </ol>

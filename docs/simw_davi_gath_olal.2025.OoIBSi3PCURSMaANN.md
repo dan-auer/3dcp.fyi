@@ -71,8 +71,9 @@ Journal Article - Buildings, Vol. 15, Iss. 20, No. 3794
       <li><a href="../../../author/wang_cheinfei"><b>Wang</b> Cheinfei</a>, <a href="../../../author/lian_junyin"><b>Lian</b> Junyin</a>, <a href="../../../author/fang_yunhui"><b>Fang</b> Yunhui</a>, <a href="../../../author/fan_guangming"><b>Fan</b> Guangming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../wang_lian_fang_fan.2025.ROo3PCMURSM/">Rheological Optimization of 3D-Printed Cementitious Materials Using Response Surface Methodology</a></li>
       <li><a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/gao_chao"><b>Gao</b> Chao</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/zuo_shenghao"><b>Zuo</b> Shenghao</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yuan_gao_huan_zuo.2022.FItPoEB3PAAFASM/">Factors Influencing the Properties of Extrusion-Based 3D Printed Alkali-Activated Fly-Ash-Slag Mortar</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a>, <a href="../../../author/zhao_wenhao"><b>Zhao</b> Wenhao</a>, <a href="../../../author/yang_bo"><b>Yang</b> Bo</a>, <a href="../../../author/wang_ziyuan"><b>Wang</b> Ziyuan</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../qi_zhao_yang_wang.2026.GRBOMftMPo3PBFC/">GRA-RSM Based Optimization Model for the Mechanical Performance of 3D Printed Basalt Fiber Concrete</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../cui_ji_shen_su.2025.ANNBMfA3PCPiRF/">A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication</a> (2)</li>
+        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/shen_liang"><b>Shen</b> Liang</a>, <a href="../../../author/su_shiyong"><b>Su</b> Shiyong</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../cui_ji_shen_su.2025.ANNBMfA3PCPiRF/">A Neural Network-Based Model for Assessing 3D Printable Concrete Performance in Robotic Fabrication</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a> (1)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
         <li><a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> (1)</li>
-        <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a> (1)</li>
+        <li><a href="../../../author/han_jinsheng"><b>Han</b> Jinsheng</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
         <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a> (1)</li>
-        <li><a href="../../../author/sykora_miroslav"><b>Sykora</b> Miroslav</a> (1)</li>
     </ol>
 
 </div>

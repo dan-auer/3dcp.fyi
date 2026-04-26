@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 39
+    : 42
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a> (23)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qin_fei"><b>Qin</b> Fei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../ding_qin_xiao_chen.2022.ESotBBBSBa3PC/">Experimental Study on the Bond Behavior Between Steel-Bars and 3D Printed Concrete</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (7)</li>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (7)</li>
-        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (6)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (8)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (8)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (7)</li>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (5)</li>
     </ol>

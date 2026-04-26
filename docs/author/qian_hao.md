@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 64
+    : 68
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>, <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a>, <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>, <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM/">Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials</a> (29)</li>
+        <li><a href="../../../author/dai_shuo"><b>Dai</b> Shuo</a>, <a href="../../../author/zhu_huajun"><b>Zhu</b> Huajun</a>, <a href="../../../author/zhai_munan"><b>Zhai</b> Munan</a>, <a href="../../../author/wu_qisheng"><b>Wu</b> Qisheng</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../dai_zhu_zhai_wu.2021.SoSSaFAaIAi3PM/">Stability of Steel-Slag as Fine Aggregate and Its Application in 3D Printing Materials</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> (8)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (6)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (6)</li>
+        <li><a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> (6)</li>
         <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (6)</li>
-        <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a> (5)</li>
-        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (5)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (5)</li>
     </ol>
 
 </div>

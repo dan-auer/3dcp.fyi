@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 171
+    : 193
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a> (80)</li>
+        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ghodke_balasaheb_swapnil"><b>Ghodke</b> Swapnil</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../kali_ambi_prem_ghod.2022.TMf3PC/">Test-Methods for 3D Printable Concrete</a> (89)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (16)</li>
         <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (9)</li>
         <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (9)</li>
+        <li><a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a> (4)</li>
         <li><a href="../../../author/chowdhury_roy_shubhankar"><b>Chowdhury</b> Shubhankar</a> (4)</li>
-        <li><a href="../../../author/ramamurthy_kumar_vignesh"><b>Ramamurthy</b> Vignesh</a> (4)</li>
     </ol>
 
 </div>

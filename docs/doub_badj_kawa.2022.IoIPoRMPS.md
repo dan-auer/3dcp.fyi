@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Douba AlaEddin, Badjatya Palash, Kawashima Shiho
+title: Douba Ala, Badjatya Palash, Kawashima Shiho
 description:
 tags:
  - infill
@@ -18,7 +18,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-031-06116-5_25" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-031-06116-5_25" target="_blank">10.1007/978-3-031-06116-5_25</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_alaeddin"><b>Douba</b>&nbsp;AlaEddin</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3505-7918" title="ORCID: 0000-0002-3505-7918" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/badjatya_palash"><b>Badjatya</b>&nbsp;Palash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_eddin_ala"><b>Douba</b>&nbsp;Ala</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3505-7918" title="ORCID: 0000-0002-3505-7918" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/badjatya_palash"><b>Badjatya</b>&nbsp;Palash</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
 Contribution - Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication, pp. 167-172
 
 <a href="../../keyword/infill"><button class="btn">#infill</button></a> <a href="../../keyword/influence"><button class="btn">#influence</button></a> <a href="../../keyword/pattern"><button class="btn">#pattern</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
@@ -43,7 +43,7 @@ Contribution - Proceedings of the 3rd RILEM International Conference on Concrete
 <div class="grid cards" markdown>
 ???+ example "2 References"
     <ol class = "bordered-list">
-      <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../doub_kawa.2021.UoNCaMtTRfTDCP/">Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing</a></li>
+      <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../doub_kawa.2021.UoNCaMtTRfTDCP/">Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing</a></li>
       <li><a href="../../../author/khalil_abdullah"><b>Khalil</b> Abdullah</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/celik_kemal"><b>Celik</b> Kemal</a> <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../khal_wang_celi.2020.3PMOC/">3D Printable Magnesium Oxide Concrete:<br/>Towards Sustainable Modern Architecture</a></li>
     </ol>
 ???+ bug "0 Citations"
@@ -57,7 +57,7 @@ Contribution - Proceedings of the 3rd RILEM International Conference on Concrete
 
     ```bibtex
     @inproceedings{doub_badj_kawa.2022.IoIPoRMPS,
-      author            = "AlaEddin Douba and Palash Badjatya and Shiho Kawashima",
+      author            = "Ala Eddin Douba and Palash Badjatya and Shiho Kawashima",
       title             = "Influence of Infill-Pattern on Reactive MgO Printed Structures",
       doi               = "10.1007/978-3-031-06116-5_25",
       year              = "2022",
@@ -74,10 +74,10 @@ Contribution - Proceedings of the 3rd RILEM International Conference on Concrete
 
     === "IEEE"
 
-    <span id="iee">A. Douba, P. Badjatya and S. Kawashima, “Influence of Infill-Pattern on Reactive MgO Printed Structures”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 167–172. doi: 10.1007/978-3-031-06116-5_25.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. E. Douba, P. Badjatya and S. Kawashima, “Influence of Infill-Pattern on Reactive MgO Printed Structures”, in <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>,  2022, vol. 37, pp. 167–172. doi: 10.1007/978-3-031-06116-5_25.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Douba, AlaEddin, Palash Badjatya, and Shiho Kawashima. “Influence of Infill-Pattern on Reactive MgO Printed Structures”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:167–72, 2022. https://doi.org/10.1007/978-3-031-06116-5_25.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Douba, Ala Eddin, Palash Badjatya, and Shiho Kawashima. “Influence of Infill-Pattern on Reactive MgO Printed Structures”. In <i>Proceedings of the 3rd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2022</i>, edited by Richard A. Buswell, Ana Blanco, Sergio Cavalaro, and Peter Kinnell, 37:167–72, 2022. https://doi.org/10.1007/978-3-031-06116-5_25.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

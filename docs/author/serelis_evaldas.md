@@ -19,35 +19,35 @@ search:
     : 2018-03-20
     
     Last Contribution
-    : 2025-01-13
+    : 2026-03-17
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
-    : 47
+    : 49
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> (1)</li>
+        <li><a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a> (2)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (2)</li>
+        <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a> (2)</li>
+        <li><a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> (1)</li>
         <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> (1)</li>
-        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>
-        <li><a href="../../../author/stefancic_mateja"><b>Štefančič</b> Mateja</a> (1)</li>
-        <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a> (47)</li>
+        <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a> (48)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (4)</li>
-        <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> (3)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (3)</li>
-        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (3)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (3)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (5)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (5)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (5)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (5)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/korat-bensa_lidija"><b>Korat Bensa</b> Lidija</a>, <a href="../../../author/serjun_zalar_vesna"><b>Serjun</b> Vesna</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB/">Effect of Chemical and Physico-Chemical Activation on the Properties of 3D Printed Concrete with a Low-Cement Multicomponent Binder</a></li>
   <li><a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a>, <a href="../../../author/stefancic_mateja"><b>Štefančič</b> Mateja</a>, <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a>, <a href="../../../author/zalar-serjun_vesna"><b>Zalar Serjun</b> Vesna</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hanz_stef_ster_zala.2025.CMoOSAaCPiC3P/">Collision Milling of Oil Shale Ash as Constituent Pretreatment in Concrete 3D Printing</a></li>
   <li><a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/serelis_evaldas"><b>Šerelis</b> Evaldas</a>, <a href="../../../author/kersevicius_vidas"><b>Kerševičius</b> Vidas</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../vait_sere_kers.2018.EoUSAoEHPi3CPT/">Effect of Ultra-Sonic Activation on Early Hydration Process in 3D Concrete Printing Technology</a></li>
 </ol>

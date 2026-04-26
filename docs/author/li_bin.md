@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_li_chen.2025.EPaMPo3PMPCTSFM/">Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>Rheological, Microstructural, and Numerical Insights</a> (2)</li>
+        <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a>, <a href="../../../author/li_bin"><b>Li</b> Bin</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../wang_li_chen.2025.EPaMPo3PMPCTSFM/">Enhancing Printability and Mechanical Performance of 3D Printed Magnesium Phosphate Cement Through Silica Fume Modification:<br/>Rheological, Microstructural, and Numerical Insights</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/cao_dongwei"><b>Cao</b> Dongwei</a> (1)</li>
         <li><a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a> (1)</li>
-        <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a> (1)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (1)</li>
-        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (1)</li>
+        <li><a href="../../../author/xia_yuhang"><b>Xia</b> Yuhang</a> (1)</li>
         <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (1)</li>
     </ol>
 

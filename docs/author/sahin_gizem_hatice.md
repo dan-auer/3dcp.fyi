@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 138
+    : 155
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a> (79)</li>
+        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sahi_mard.2022.AoMDPaSPo3PCM/">Assessment of Materials, Design Parameters and Some Properties of 3D Printing Concrete Mixtures:<br/>A State of the Art Review</a> (88)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (6)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (5)</li>
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (5)</li>
-        <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> (5)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (5)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 160
+    : 167
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a> (90)</li>
+        <li><a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/du_shupeng"><b>Du</b> Shupeng</a> et al. <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../ji_ding_xiao_du.2019.A3PRMCPDS/">A 3D Printed Ready-Mixed Concrete Power-Distribution Substation:<br/>Materials and Construction Technology</a> (96)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (16)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (10)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (8)</li>
         <li><a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> (8)</li>
         <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (8)</li>

@@ -19,43 +19,43 @@ search:
     : 2019-07-31
     
     Last Contribution
-    : 2026-01-05
+    : 2026-03-28
 
     Number Contributions
-    : 18
+    : 20
 
     Number Citations
-    : 531
+    : 574
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (16)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (18)</li>
         <li><a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> (8)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
-        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (4)</li>
-        <li><a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> (3)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (5)</li>
+        <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a> (212)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a> (217)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (52)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (46)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (46)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (73)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (56)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (50)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (48)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (28)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (24)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (21)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (20)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (20)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (20)</li>
     </ol>
 
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_pan_han_zhu.2026.EoNHotLDPaFPo3PC/">Effects of Nozzle Height on the Layer Deposition Process and Forming Performance of 3D Printing Concrete:<br/>Evidence from Experiments and CFD Simulations</a></li>
+  <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xun"><b>Liu</b> Xun</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yu_zhu_liu_chen.2026.PMaOIMOBo3PCF/">Pore Morphology and Orientation-Induced Mechanical Orthotropic Behavior of 3D-Printed Concrete Filament</a></li>
   <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/qi_miao"><b>Qi</b> Miao</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhu_qi_chen_pan.2026.AMPo3PLCCaCSfLSRFiDC/">Anisotropic Mechanical Properties of 3D Printed Low-Carbon Concrete and Connection Strategies for Large-Scale Reusable Formwork in Digital Construction</a></li>
   <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xuhua"><b>Liu</b> Xuhua</a>, <a href="../../../author/wei_yang"><b>Wei</b> Yang</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhu_liu_wei_pan.2025.PtTPo3PPFREBoMM/">Predicting the Tensile Performance of 3D-Printed PE Fiber-Reinforced ECC Based on Micromechanics Model</a></li>

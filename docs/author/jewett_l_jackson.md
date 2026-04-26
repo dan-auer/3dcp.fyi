@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jewett_l_jackson"><b>Jewett</b> Jackson</a>, <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jewe_cars.2023.TOfMEBAMPwWBB/">Topology-Optimization for Material-Extrusion-Based Additive Manufacturing-Processes with Weak Bead Bonding</a> (5)</li>
+        <li><a href="../../../author/jewett_l_jackson"><b>Jewett</b> Jackson</a>, <a href="../../../author/carstensen_v_josephine"><b>Carstensen</b> Josephine</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../jewe_cars.2023.TOfMEBAMPwWBB/">Topology-Optimization for Material-Extrusion-Based Additive Manufacturing-Processes with Weak Bead Bonding</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 24
+    : 32
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../liu_chen_sun_chen.2024.SCBiFMa3PBFB/">Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior</a> (17)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/cheng_shengbo"><b>Cheng</b> Shengbo</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../liu_chen_sun_chen.2024.SCBiFMa3PBFB/">Steel-Cable Bonding in Fresh Mortar and 3D Printed Beam Flexural Behavior</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ball_j_richard"><b>Ball</b> Richard</a> (2)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (2)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
-        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (2)</li>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (2)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (3)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (3)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (3)</li>
+        <li><a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> (2)</li>
     </ol>
 
 </div>

@@ -29,12 +29,12 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a> (0)</li>
+        <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,5 +56,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a></li>
+  <li><a href="../../../author/pedrosa_ana"><b>Pedrosa</b> Ana</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../pedr_gasp.2023.RAoMMfAM/">Rheology-Assessment of Mortar-Materials for Additive Manufacturing</a></li>
 </ol>

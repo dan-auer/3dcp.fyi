@@ -19,17 +19,17 @@ search:
     : 2018-04-09
     
     Last Contribution
-    : 2025-05-15
+    : 2026-02-23
 
     Number Contributions
-    : 21
+    : 22
 
     Number Citations
-    : 1187
+    : 1269
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (18)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> (19)</li>
         <li><a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> (12)</li>
         <li><a href="../../../author/chen_yidong"><b>Chen</b> Yidong</a> (10)</li>
         <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (9)</li>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (320)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a> (334)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (50)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (51)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (40)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (39)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (38)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (37)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (37)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (38)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (48)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (41)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (33)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (32)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (30)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (45)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (42)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (35)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (32)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhu_zhan_zhan_liu.2026.MIoMSCo3PCP/">Multiscale Investigation of Manufactured Sand Characteristics on 3D Printed Concrete Performance:<br/>Particle Morphology and Stone Powder Effects</a></li>
   <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P/">Rheological Performance Regulation and Material Optimization of Manufactured Sand Concrete in 3D Printing</a></li>
   <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yu_zhengxing"><b>Yu</b> Zhengxing</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/zhang_jiufu"><b>Zhang</b> Jiufu</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP/">Study on the Predictive Model for Continuous Build-Height of 3D Printed Concrete Based on Printability and Early Mechanical Properties</a></li>
   <li><a href="../../../author/wang_lingyu"><b>Wang</b> Lingyu</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/wang_zhiyong"><b>Wang</b> Zhiyong</a>, <a href="../../../author/chen_juan"><b>Chen</b> Juan</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_zhan_wang_chen.2024.AMiCUUAV/">Additive Manufacturing in Construction Using Unmanned Aerial Vehicle:<br/>Design, Implementation, and Material-Properties</a></li>

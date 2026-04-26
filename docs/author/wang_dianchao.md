@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 89
+    : 100
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a> (38)</li>
+        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

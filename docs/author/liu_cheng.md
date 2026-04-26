@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 95
+    : 116
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a> (36)</li>
+        <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
+        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (5)</li>
         <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (5)</li>
         <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (5)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (4)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (4)</li>
     </ol>
 

@@ -19,44 +19,44 @@ search:
     : 2017-02-20
     
     Last Contribution
-    : 2025-12-15
+    : 2026-04-25
 
     Number Contributions
-    : 110
+    : 115
 
     Number Citations
-    : 5870
+    : 6177
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (31)</li>
         <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (24)</li>
-        <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> (21)</li>
-        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> (21)</li>
+        <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> (23)</li>
+        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a> (22)</li>
         <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> (12)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (512)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/xia_ming"><b>Xia</b> Ming</a>, <a href="../../../author/marchment_taylor"><b>Marchment</b> Taylor</a> <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../sanj_nema_xia_marc.2018.EoSMoILSo3PC/">Effect of Surface Moisture on Inter-Layer Strength of 3D Printed Concrete</a> (535)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (182)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (178)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (168)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (149)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (149)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (192)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (189)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (177)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (155)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (154)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (166)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (165)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (160)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (144)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (135)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (172)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (166)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (166)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (152)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (139)</li>
     </ol>
 
 </div>
@@ -64,6 +64,11 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kiriparan_balrajh"><b>Kiriparan</b> Balrajh</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../kiri_sanj_raje.2026.ESf3CP/">Establishing Standards for 3D Concrete Printing:<br/>Current Insights and Future Research Needs</a></li>
+  <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS/">Enhancing the Printability and Sustainability of 3D Concrete Printing Using Recycled Waste Glass as a Cement Substitute</a></li>
+  <li><a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/zhong_zhen"><b>Zhong</b> Zhen</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wu_huan_zhon_sanj.2026.FMo3PUHPC/">Fracture Mechanisms of 3D-Printed Ultra-High-Performance Concrete:<br/>Pore-Fibre-Interface Synergy</a></li>
+  <li><a href="../../../author/liu_jiaxu"><b>Liu</b> Jiaxu</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_zhan_xie_sanj.2026.OaSDoPaFiCEPbEB3P/">Orientation and Spatial Distribution of Pores and Fibers in Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
+  <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../kopi_raje_sanj_elak.2026.BEo3PCUCWaPRoOwRM/">Buildability Enhancement of 3D Printed Concrete Using Carbonated Water and Partial Replacement of OPC with Reactive MgO</a></li>
   <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
   <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a>, <a href="../../../author/wu_jie"><b>Wu</b> Jie</a>, <a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a>, <a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_wu_huan_yu.2025.CSMoAi3PUHPC/">Cross-Scale Mechanisms of Anisotropy in 3D-Printed Ultra-High-Performance Concrete</a></li>
   <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a>, <a href="../../../author/wu_hao"><b>Wu</b> Hao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../wan_wang_huan_wu.2025.SOBoIAf3CP/">Shape Optimization Based on Isogeometric Analysis for 3D Concrete Printing:<br/>A Design Method for Printing-Friendly Structure</a></li>

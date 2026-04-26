@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/qamar_i_muath"><b>Qamar</b> Mu'ath</a>, <a href="../../../author/yaghmour_emad"><b>Yaghmour</b> Emad</a>, <a href="../../../author/wang_xingjian"><b>Wang</b> Xingjian</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qama_yagh_wang_nait.2024.Uo3PCCfTES/">Use of 3D Printed Concrete Components for Thermal Energy Storage</a> (3)</li>
+        <li><a href="../../../author/qamar_i_muath"><b>Qamar</b> Mu'ath</a>, <a href="../../../author/yaghmour_emad"><b>Yaghmour</b> Emad</a>, <a href="../../../author/wang_xingjian"><b>Wang</b> Xingjian</a>, <a href="../../../author/naito_j_clay"><b>Naito</b> Clay</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../qama_yagh_wang_nait.2024.Uo3PCCfTES/">Use of 3D Printed Concrete Components for Thermal Energy Storage</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (1)</li>
-        <li><a href="../../../author/gao_weijun"><b>Gao</b> Weijun</a> (1)</li>
-        <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a> (1)</li>
-        <li><a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a> (1)</li>
-        <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/ren_zhongyuan"><b>Ren</b> Zhongyuan</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
     </ol>
 
 </div>

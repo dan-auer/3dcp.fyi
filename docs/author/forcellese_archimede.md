@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 20
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a> (17)</li>
+        <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a>, <a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/fiorito_francesco"><b>Fiorito</b> Francesco</a>, <a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../bian_volp_fior_forc.2024.LCAoBEMTD3PT/">Life Cycle Assessment of Building Envelopes Manufactured Through Different 3D Printing Technologies</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/abdelrahim_marwa"><b>Abdelrahim</b> Marwa</a> (2)</li>
-        <li><a href="../../../author/cabay_edouard"><b>Cabay</b> Edouard</a> (2)</li>
-        <li><a href="../../../author/hoyos-montilla_a_ary"><b>Hoyos-Montilla</b> Ary</a> (2)</li>
-        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (2)</li>
+        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (4)</li>
+        <li><a href="../../../author/furtado_andre"><b>Furtado</b> André</a> (2)</li>
+        <li><a href="../../../author/gokce_tansu"><b>Gokce</b> Tansu</a> (2)</li>
+        <li><a href="../../../author/sextos_anastasios"><b>Sextos</b> Anastasios</a> (2)</li>
         <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a> (2)</li>
     </ol>
 

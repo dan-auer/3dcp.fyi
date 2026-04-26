@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 6
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a> (4)</li>
+        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/nguyen_thu"><b>Nguyen</b> Thu</a>, <a href="../../../author/trinh_thanh"><b>Trinh</b> Thanh</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../pham_nguy_trin_nguy.2022.Do3PfCS/">Development of 3D Printers for Concrete Structures:<br/>Mix Proportion Design Approach and Laboratory Testing</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a> (1)</li>
-        <li><a href="../../../author/limlunjakorn_torpong"><b>Limlunjakorn</b> Torpong</a> (1)</li>
-        <li><a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> (1)</li>
-        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (1)</li>
-        <li><a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a> (1)</li>
+        <li><a href="../../../author/albeitjali_naeem"><b>Albeitjali</b> Naeem</a> (2)</li>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (2)</li>
+        <li><a href="../../../author/chiramal_anglet"><b>Chiramal</b> Anglet</a> (2)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (2)</li>
+        <li><a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a> (2)</li>
     </ol>
 
 </div>

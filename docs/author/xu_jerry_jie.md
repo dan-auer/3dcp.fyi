@@ -25,7 +25,7 @@ search:
     : 18
 
     Number Citations
-    : 500
+    : 538
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a> (199)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/silva_ricardo-leal_wilson"><b>Silva</b> Wilson</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ma_busw_silv_wang.2022.TR/">Technology Readiness:<br/>A Global Snapshot of 3D Concrete Printing and the Frontiers for Development</a> (215)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (34)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (29)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (35)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (31)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (22)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (21)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (19)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (19)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (20)</li>
     </ol>
 
 </div>

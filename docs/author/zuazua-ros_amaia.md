@@ -51,7 +51,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a> (1)</li>
+        <li><a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b> Caleb</a> (1)</li>
         <li><a href="../../../author/mishra_anamika"><b>Mishra</b> Anamika</a> (1)</li>
         <li><a href="../../../author/mohamed_osama"><b>Mohamed</b> Osama</a> (1)</li>
         <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> (1)</li>

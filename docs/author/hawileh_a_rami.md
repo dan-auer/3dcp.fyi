@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../shen_sun_lu_zhan.2025.FaAMPoPFR3PCC/">Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites</a> (1)</li>
+        <li><a href="../../../author/shen_qiang"><b>Shen</b> Qiang</a>, <a href="../../../author/sun_dongpu"><b>Sun</b> Dongpu</a>, <a href="../../../author/lu_chenyu"><b>Lu</b> Chenyu</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../shen_sun_lu_zhan.2025.FaAMPoPFR3PCC/">Fresh and Anisotropic-Mechanical Properties of Polyoxymethylene Fibers Reinforced 3D Printable Cementitious Composites</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/huang_kuan-ling"><b>Huang</b> Kuan-Ling</a> (1)</li>
         <li><a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> (1)</li>
-        <li><a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> (1)</li>
+        <li><a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a> (1)</li>
+        <li><a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> (1)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
-        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (1)</li>
     </ol>
 
 </div>

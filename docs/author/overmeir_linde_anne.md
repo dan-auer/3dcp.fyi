@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 81
+    : 89
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a> (36)</li>
+        <li><a href="../../../author/overmeir_linde_anne"><b>Overmeir</b> Anne</a>, <a href="../../../author/figueiredo_chaves_stefan"><b>Figueiredo</b> Stefan</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../over_figu_savi_bos.2022.DaAoPSHCCwOPSD/">Design and Analyses of Printable Strain-Hardening Cementitious Composites with Optimized Particle-Size-Distribution</a> (39)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (14)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (14)</li>
         <li><a href="../../../author/nefs_karsten"><b>Nefs</b> Karsten</a> (9)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (8)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (7)</li>
-        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (7)</li>
     </ol>
 
 </div>

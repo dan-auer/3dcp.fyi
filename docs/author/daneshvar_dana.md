@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a> (2)</li>
+        <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> (1)</li>
-        <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a> (1)</li>
+        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
         <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (1)</li>
-        <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a> (1)</li>
+        <li><a href="../../../author/ouyang_jun"><b>Ouyang</b> Jun</a> (1)</li>
+        <li><a href="../../../author/xu_wenqiang"><b>Xu</b> Wenqiang</a> (1)</li>
+        <li><a href="../../../author/xu_zihao"><b>Xu</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

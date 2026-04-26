@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/gall_corentin"><b>Gall</b> Corentin</a>, <a href="../../../author/saade_myriam"><b>Saadé</b> Myriam</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../roux_arch_gall_saad.2024.TSM/">Towards Sustainable Material:<br/>Optimizing Geopolymer Mortar Formulations for 3D Printing</a> (6)</li>
+        <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/archez_julien"><b>Archez</b> Julien</a>, <a href="../../../author/gall_corentin"><b>Gall</b> Corentin</a>, <a href="../../../author/saade_myriam"><b>Saadé</b> Myriam</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../roux_arch_gall_saad.2024.TSM/">Towards Sustainable Material:<br/>Optimizing Geopolymer Mortar Formulations for 3D Printing</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 84
+    : 101
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (30)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/mohan_g_dhanesh"><b>Mohan</b> Dhanesh</a>, <a href="../../../author/savija_branko"><b>Šavija</b> Branko</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../titt_moha_savi_keit.2024.OtMaMSaDo3PCE/">On the Micro-and Meso-Structure and Durability of 3D Printed Concrete Elements</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (8)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (7)</li>
+        <li><a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> (6)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (6)</li>
-        <li><a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> (5)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (5)</li>
-        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (4)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
     </ol>
 
 </div>

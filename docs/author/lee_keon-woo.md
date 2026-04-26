@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 26
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a> (26)</li>
+        <li><a href="../../../author/lee_keon-woo"><b>Lee</b> Keon-Woo</a>, <a href="../../../author/lee_hojae"><b>Lee</b> Hojae</a>, <a href="../../../author/choi_myoungsung"><b>Choi</b> Myoungsung</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../lee_lee_choi.2022.CBTBaBf3CP/">Correlation Between Thixotropic Behavior and Buildability for 3D Concrete Printing</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,8 +49,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (4)</li>
         <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (3)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (3)</li>
         <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> (2)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
         <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>

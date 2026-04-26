@@ -19,18 +19,18 @@ search:
     : 2022-04-08
     
     Last Contribution
-    : 2025-12-15
+    : 2026-03-21
 
     Number Contributions
-    : 17
+    : 18
 
     Number Citations
-    : 125
+    : 139
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (6)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (7)</li>
         <li><a href="../../../author/li_qi"><b>Li</b> Qi</a> (4)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (4)</li>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a> (29)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (54)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (53)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (51)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (46)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (42)</li>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (39)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (49)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (47)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (43)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> (5)</li>
         <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a> (5)</li>
         <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a> (5)</li>
-        <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a> (4)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (4)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (4)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/zhang_yalei"><b>Zhang</b> Yalei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../sun_liu_zhan_ma.2026.SB3PTLC/">Spray-Based 3D Printed Tunnel Lining Concrete:<br/>Optimization of Full-Angle Printing Path</a></li>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../sun_yang_liu_ma.2026.CSB3PoRCS/">Coordinated Spray-Based 3D Printing of Reinforced Concrete Structure:<br/>A Multi-Angle Strategy for Blockage Mitigation</a></li>
   <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/li_chuang"><b>Li</b> Chuang</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO/">Enhancing Sulfate Resistance of Spray-Based 3D Printed Recycled Tunnel Slag Concrete Through Polypropylene Fiber Optimization</a></li>
   <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/chen_jinnan"><b>Chen</b> Jinnan</a>, <a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_wang_chen_sun.2025.FOCiSB3PSFRC/">Fiber Orientation Control in Spray-Based 3D Printed Steel Fiber Reinforced Concrete</a></li>

@@ -19,26 +19,26 @@ search:
     : 2018-08-29
     
     Last Contribution
-    : 2025-09-02
+    : 2026-03-21
 
     Number Contributions
-    : 17
+    : 18
 
     Number Citations
-    : 241
+    : 261
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (8)</li>
         <li><a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> (8)</li>
         <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (8)</li>
-        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (5)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (6)</li>
         <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (5)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a> (74)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a>, <a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a>, <a href="../../../author/magee_bryan"><b>Magee</b> Bryan</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../moin_olek_youn_mage.2018.AMaPoACBM/">Additive Manufacturing and Performance of Architectured Cement-Based Materials</a> (75)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (13)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (10)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (8)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (8)</li>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (7)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (10)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (8)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a>, <a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../gupt_ghan_weis_moin.2026.PCaAiAMCM/">Pore Connectivity and Arrangement in Additively Manufactured Cementitious Material</a></li>
   <li><a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../rabi_moin.2025.EUMUwPBCLFCiRCAM/">Extrusion Under Material Uncertainty with Pressure-Based Closed-Loop Feedback Control in Robotic Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a>, <a href="../../../author/agrawal_shubham"><b>Agrawal</b> Shubham</a>, <a href="../../../author/williams_s_christopher"><b>Williams</b> Christopher</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rodr_moin_agra_will.2024.MRoSS3PSMCB/">Mechanical Response of Small-Scale 3D Printed Steel-Mortar Composite Beams</a></li>
   <li><a href="../../../author/daneshvar_dana"><b>Daneshvar</b> Dana</a>, <a href="../../../author/rabiei_mahsa"><b>Rabiei</b> Mahsa</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../dane_rabi_gupt_najm.2024.GFoIBiTCRAM/">Geometric Fidelity of Interlocking Bodies in Two-Component Robotic Additive Manufacturing</a></li>

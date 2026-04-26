@@ -66,8 +66,9 @@ Journal Article - Case Studies in Construction Materials, No. e05682
       <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a>, <a href="../../../author/pereira_joao"><b>Pereira</b> João</a>, <a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a>, <a href="../../../author/pereira_n-b_eduardo"><b>Pereira</b> Eduardo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zaha_pere_gonc_pere.2021.IotPDaAotMPo3PC/">Influence of the Printing-Direction and Age on the Mechanical Properties of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/yang_xia"><b>Yang</b> Xia</a>, <a href="../../../author/wang_jiuyuan"><b>Wang</b> Jiuyuan</a>, <a href="../../../author/zhang_zhenming"><b>Zhang</b> Zhenming</a>, <a href="../../../author/tan_yushuang"><b>Tan</b> Yushuang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../yang_wang_zhan_tan.2026.ACAo3PCIFaFG/">A Comparative Analysis of 3D-Printed Concrete Incorporating Fibers and Fiber Grids:<br/>Mechanical Properties and Microstructure</a></li>
     </ol>
 </div>
 

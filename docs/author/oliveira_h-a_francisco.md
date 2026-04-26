@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/oliveira_h-a_francisco"><b>Oliveira</b> Francisco</a>, <a href="../../../author/picelli-sanches_renato"><b>Picelli Sanches</b> Renato</a>, <a href="../../../author/nelli-silva_carlos_emilio"><b>Nelli Silva</b> Emílio</a>, <a href="../../../author/barari_ahmad"><b>Barari</b> Ahmad</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../oliv_pice_nell_bara.2024.TOi3CPtRGGE/">Topology-Optimization in 3D Concrete Printing to Reduce Greenhouse Gas Emissions</a> (1)</li>
+        <li><a href="../../../author/oliveira_h-a_francisco"><b>Oliveira</b> Francisco</a>, <a href="../../../author/picelli-sanches_renato"><b>Picelli Sanches</b> Renato</a>, <a href="../../../author/nelli-silva_carlos_emilio"><b>Nelli Silva</b> Emílio</a>, <a href="../../../author/barari_ahmad"><b>Barari</b> Ahmad</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../oliv_pice_nell_bara.2024.TOi3CPtRGGE/">Topology-Optimization in 3D Concrete Printing to Reduce Greenhouse Gas Emissions</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,6 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a> (1)</li>
         <li><a href="../../../author/kowalik_piotr_michal"><b>Kowalik</b> Michał</a> (1)</li>
+        <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a> (1)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (1)</li>
     </ol>
 
 </div>

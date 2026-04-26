@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 17
+    : 21
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gao_jin_chen_chen.2024.RBo3PC/">Rheological Behavior of 3D Printed Concrete:<br/>Influential Factors and Printability Prediction Scheme</a> (17)</li>
+        <li><a href="../../../author/gao_huaxing"><b>Gao</b> Huaxing</a>, <a href="../../../author/jin_lang"><b>Jin</b> Lang</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/chen_qian"><b>Chen</b> Qian</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../gao_jin_chen_chen.2024.RBo3PC/">Rheological Behavior of 3D Printed Concrete:<br/>Influential Factors and Printability Prediction Scheme</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (2)</li>
         <li><a href="../../../author/gao_pan"><b>Gao</b> Pan</a> (1)</li>
-        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
         <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>
-        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
     </ol>
 
 </div>

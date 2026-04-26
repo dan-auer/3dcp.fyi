@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 168
+    : 189
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a> (84)</li>
+        <li><a href="../../../author/casagrande_lorenzo"><b>Casagrande</b> Lorenzo</a>, <a href="../../../author/esposito_laura"><b>Esposito</b> Laura</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/asprone_domenico"><b>Asprone</b> Domenico</a> et al. <a href="../../../date/2020/02">(2020-02)</a><br><a href="../../../casa_espo_menn_aspr.2020.EoTPoBPo3PC/">Effect of Testing Procedures on Buildability Properties of 3D Printable Concrete</a> (92)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (13)</li>
         <li><a href="../../../author/hoffmann_marcin"><b>Hoffmann</b> Marcin</a> (9)</li>
-        <li><a href="../../../author/kaufmann_walter"><b>Kaufmann</b> Walter</a> (7)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (7)</li>
+        <li><a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a> (7)</li>
         <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (7)</li>
-        <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (6)</li>
     </ol>
 
 </div>

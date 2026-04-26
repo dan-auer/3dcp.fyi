@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 22
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ingl_kali_ambi_shek.2023.3PCWCA/">3D Printable Concrete Without Chemical Admixtures:<br/>Fresh and Hardened Properties</a> (8)</li>
+        <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ingl_kali_ambi_shek.2023.3PCWCA/">3D Printable Concrete Without Chemical Admixtures:<br/>Fresh and Hardened Properties</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fang_q_z"><b>Fang</b> Z.</a> (2)</li>
-        <li><a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> (2)</li>
-        <li><a href="../../../author/li_g_l"><b>Li</b> L.</a> (2)</li>
+        <li><a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> (3)</li>
+        <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a> (3)</li>
+        <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> (3)</li>
+        <li><a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> (3)</li>
         <li><a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a> (2)</li>
-        <li><a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> (2)</li>
     </ol>
 
 </div>

@@ -29,14 +29,14 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
         <li><a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a> (1)</li>
         <li><a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/annappa_vani"><b>Annappa</b> Vani</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../anna_gasp_mate_vito.2021.3PfCUSS/">3D Printing for Construction Using Stone Sludge</a> (1)</li>
+        <li><a href="../../../author/annappa_vani"><b>Annappa</b> Vani</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../anna_gasp_mate_vito.2021.3PfCUSS/">3D Printing for Construction Using Stone Sludge</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -61,5 +61,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/annappa_vani"><b>Annappa</b> Vani</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../anna_gasp_mate_vito.2021.3PfCUSS/">3D Printing for Construction Using Stone Sludge</a></li>
+  <li><a href="../../../author/annappa_vani"><b>Annappa</b> Vani</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/mateus_artur"><b>Mateus</b> Artur</a>, <a href="../../../author/vitorino_joao"><b>Vitorino</b> João</a> <a href="../../../date/2019/11">(2019-11)</a><br><a href="../../../anna_gasp_mate_vito.2021.3PfCUSS/">3D Printing for Construction Using Stone Sludge</a></li>
 </ol>

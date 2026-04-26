@@ -19,35 +19,35 @@ search:
     : 2019-01-24
     
     Last Contribution
-    : 2025-12-15
+    : 2026-04-25
 
     Number Contributions
-    : 21
+    : 23
 
     Number Citations
-    : 575
+    : 608
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (23)</li>
         <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a> (8)</li>
         <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> (6)</li>
-        <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a> (2)</li>
-        <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a> (2)</li>
+        <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a> (3)</li>
+        <li><a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a> (197)</li>
+        <li><a href="../../../author/jayathilakage_i_roshan"><b>Jayathilakage</b> Roshan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../jaya_raje_sanj.2020.YSCtAtBo3CP/">Yield-Stress-Criteria to Assess the Buildability of 3D Concrete Printing</a> (208)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (68)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (42)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (34)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (31)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (30)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (74)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (48)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (41)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (37)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (35)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kiriparan_balrajh"><b>Kiriparan</b> Balrajh</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../kiri_sanj_raje.2026.ESf3CP/">Establishing Standards for 3D Concrete Printing:<br/>Current Insights and Future Research Needs</a></li>
+  <li><a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/elakneswaran_yogarajah"><b>Elakneswaran</b> Yogarajah</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../kopi_raje_sanj_elak.2026.BEo3PCUCWaPRoOwRM/">Buildability Enhancement of 3D Printed Concrete Using Carbonated Water and Partial Replacement of OPC with Reactive MgO</a></li>
   <li><a href="../../../author/koneswaran_bahirathan"><b>Koneswaran</b> Bahirathan</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../kone_raje_sanj.2025.3CPGfRUGPL/">3D Concrete-Printed Geocell for Reinforcing Unbound Granular Pavement Layers</a></li>
   <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/kopitha_kirushnapillai"><b>Kopitha</b> Kirushnapillai</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../raje_kopi_sanj.2025.CWaMfIPo3CP/">Carbonated Water and MgO for Improved Performance of 3D Concrete Printing.</a></li>
   <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a>, <a href="../../../author/nissanka_nilusha"><b>Nissanka</b> Nilusha</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../raje_niss_sanj.2025.ESoTDPBo3CP/">Experimental Study on Time-Dependent Pumping Behaviour of 3D Concrete Printing</a></li>

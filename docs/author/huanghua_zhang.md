@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 16
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lucen_hao"><b>Lucen</b> Hao</a>, <a href="../../../author/long_li"><b>Long</b> Li</a>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b> Zhang</a>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b> Zhang</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../luce_long_ship_huan.2023.TSEoGGCaSFotPo3PM/">The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar</a> (15)</li>
+        <li><a href="../../../author/lucen_hao"><b>Lucen</b> Hao</a>, <a href="../../../author/long_li"><b>Long</b> Li</a>, <a href="../../../author/shipeng_zhang"><b>Shipeng</b> Zhang</a>, <a href="../../../author/huanghua_zhang"><b>Huanghua</b> Zhang</a> et al. <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../luce_long_ship_huan.2023.TSEoGGCaSFotPo3PM/">The Synergistic Effect of Greenhouse Gas CO2 and Silica-Fume on the Properties of 3D Printed Mortar</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> (2)</li>
-        <li><a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> (2)</li>
         <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (2)</li>
+        <li><a href="../../../author/li_long"><b>Li</b> Long</a> (2)</li>
         <li><a href="../../../author/lim_gip_sean"><b>Lim</b> Sean</a> (2)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
     </ol>

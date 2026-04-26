@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Douba AlaEddin, Chan Clare, Berrios Stephanie, Kawashima Shiho
+title: Douba Ala, Chan Clare, Berrios Stephanie, Kawashima Shiho
 description:
 tags:
  - concrete
@@ -19,7 +19,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1007/978-3-030-49916-7_4" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1007/978-3-030-49916-7_4" target="_blank">10.1007/978-3-030-49916-7_4</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_alaeddin"><b>Douba</b>&nbsp;AlaEddin</a></span>, <a href="../../../author/chan_clare"><b>Chan</b>&nbsp;Clare</a></span>, <a href="../../../author/berrios_stephanie"><b>Berrios</b>&nbsp;Stephanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-3607-0970" title="ORCID: 0000-0002-3607-0970" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/douba_eddin_ala"><b>Douba</b>&nbsp;Ala</a></span>, <a href="../../../author/chan_clare"><b>Chan</b>&nbsp;Clare</a></span>, <a href="../../../author/berrios_stephanie"><b>Berrios</b>&nbsp;Stephanie</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3332-3936" title="ORCID: 0000-0002-3332-3936" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kawashima_shiho"><b>Kawashima</b>&nbsp;Shiho</a></span><br>
 Contribution - Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication, pp. 32-41
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/hybrid"><button class="btn">#hybrid</button></a> <a href="../../keyword/modification"><button class="btn">#modification</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> <a href="../../keyword/synthesis"><button class="btn">#synthesis</button></a> 
@@ -71,7 +71,7 @@ Contribution - Proceedings of the 2nd RILEM International Conference on Concrete
 
     ```bibtex
     @inproceedings{doub_chan_berr_kawa.2020.SoHRMf3CP,
-      author            = "AlaEddin Douba and Clare Chan and Stephanie Berrios and Shiho Kawashima",
+      author            = "Ala Eddin Douba and Clare Chan and Stephanie Berrios and Shiho Kawashima",
       title             = "Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing",
       doi               = "10.1007/978-3-030-49916-7_4",
       year              = "2020",
@@ -88,10 +88,10 @@ Contribution - Proceedings of the 2nd RILEM International Conference on Concrete
 
     === "IEEE"
 
-    <span id="iee">A. Douba, C. Chan, S. Berrios and S. Kawashima, “Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 32–41. doi: 10.1007/978-3-030-49916-7_4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. E. Douba, C. Chan, S. Berrios and S. Kawashima, “Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing”, in <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>,  2020, vol. 28, pp. 32–41. doi: 10.1007/978-3-030-49916-7_4.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Douba, AlaEddin, Clare Chan, Stephanie Berrios, and Shiho Kawashima. “Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:32–41, 2020. https://doi.org/10.1007/978-3-030-49916-7_4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Douba, Ala Eddin, Clare Chan, Stephanie Berrios, and Shiho Kawashima. “Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing”. In <i>Proceedings of the 2nd RILEM International Conference on Concrete and Digital Fabrication: Digital Concrete 2020</i>, edited by Freek Paul Bos, Sandra Simaria de Oliveira Lucas, Robert Johannes Maria Wolfs, and Theo A. M. Salet, 28:32–41, 2020. https://doi.org/10.1007/978-3-030-49916-7_4.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

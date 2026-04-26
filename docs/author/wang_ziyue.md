@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 22
+    : 29
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a> (12)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/wang_ziyue"><b>Wang</b> Ziyue</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../ding_wang_liu_xiao.2023.SoPOPoSBf3PC/">Simulation on Pull-Out Performance of Steel-Bar from 3D Printed Concrete</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (3)</li>
-        <li><a href="../../../author/shi_hao"><b>Shi</b> Hao</a> (2)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
         <li><a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> (2)</li>
     </ol>
 

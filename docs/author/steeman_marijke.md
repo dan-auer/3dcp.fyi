@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 40
+    : 43
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vant_boel_cort_stee.2019.CSBaMPTOf3PCS/">Compliance, Stress-Based and Multi-Physics Topology-Optimization for 3D Printed Concrete Structures</a> (19)</li>
+        <li><a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/boel_veerle"><b>Boel</b> Veerle</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/steeman_marijke"><b>Steeman</b> Marijke</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../vant_boel_cort_stee.2019.CSBaMPTOf3PCS/">Compliance, Stress-Based and Multi-Physics Topology-Optimization for 3D Printed Concrete Structures</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     <ol>
         <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (4)</li>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (4)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (4)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (3)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
     </ol>
 

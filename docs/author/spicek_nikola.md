@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 15
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/tan_qing_bing"><b>Tan</b> Bing</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/spicek_nikola"><b>Spicek</b> Nikola</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../besk_tan_zhon_spic.2023.LCAf3PCPUaMSNBA/">Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach</a> (15)</li>
+        <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/tan_qing_bing"><b>Tan</b> Bing</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/spicek_nikola"><b>Spicek</b> Nikola</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../besk_tan_zhon_spic.2023.LCAf3PCPUaMSNBA/">Logistic-Cost-Analysis for 3D Printing Construction Projects Using a Multi-Stage Network-Based Approach</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 35
+    : 38
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a> (24)</li>
+        <li><a href="../../../author/kaushik_sandipan"><b>Kaushik</b> Sandipan</a>, <a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a>, <a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../kaus_sone_amat_perr.2022.IoNCotFaRBo3PM/">Influence of Nano-Clay on the Fresh and Rheological Behavior of 3D Printing Mortar</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (4)</li>
-        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (4)</li>
+        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (5)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (5)</li>
         <li><a href="../../../author/sonebi_mohammed"><b>Sonebi</b> Mohammed</a> (3)</li>
         <li><a href="../../../author/bebek_ozkan"><b>Bebek</b> Özkan</a> (2)</li>
         <li><a href="../../../author/daher_jana"><b>Daher</b> Jana</a> (2)</li>

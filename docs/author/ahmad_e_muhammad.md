@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a> (2)</li>
+        <li><a href="../../../author/peralta-abadi_patricia"><b>Peralta Abadi</b> Patricia</a>, <a href="../../../author/ahmad_e_muhammad"><b>Ahmad</b> Muhammad</a>, <a href="../../../author/smarsly_kay"><b>Smarsly</b> Kay</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../pera_ahma_smar.2023.PIMfAMoCS/">Printing-Information-Modeling for Additive Manufacturing of Concrete Structures</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,7 @@ search:
     <ol>
         <li><a href="../../../author/cantor_daniel"><b>Cantor</b> Daniel</a> (1)</li>
         <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (1)</li>
-        <li><a href="../../../author/georgiou_ioulios"><b>Georgiou</b> Ioulios</a> (1)</li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
         <li><a href="../../../author/nguyen_nhung"><b>Nguyen</b> Nhung</a> (1)</li>
         <li><a href="../../../author/soria_romanella"><b>Soria</b> Romanella</a> (1)</li>
     </ol>

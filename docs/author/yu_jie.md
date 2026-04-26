@@ -25,7 +25,7 @@ search:
     : 13
 
     Number Citations
-    : 93
+    : 117
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a> (24)</li>
+        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/yu_jie"><b>Yu</b> Jie</a>, <a href="../../../author/li_heng"><b>Li</b> Heng</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../teng_ye_yu_li.2024.DoSHCCSABMtEILaFPo3PC/">Development of Strain-Hardening Cementitious Composites (SHCC) As Bonding Materials to Enhance Inter-Layer and Flexural Performance of 3D Printed Concrete</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (8)</li>
+        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (8)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (8)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (7)</li>
-        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (7)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (7)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (7)</li>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (6)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 67
+    : 75
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a> (67)</li>
+        <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a>, <a href="../../../author/askandar_habeeb_nasih"><b>Askandar</b> Nasih</a>, <a href="../../../author/jumaa_b_ghazi"><b>Jumaa</b> Ghazi</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../ahme_aska_juma.2022.ARoLS3/">A Review of Large-Scale 3DCP:<br/>Material-Characteristics, Mix-Design, Printing-Process, and Reinforcement-Strategies</a> (75)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
         <li><a href="../../../author/flor-juncal_luis"><b>de la Flor Juncal</b> Luis</a> (4)</li>
         <li><a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a> (4)</li>
         <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (4)</li>
-        <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a> (3)</li>
+        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (4)</li>
     </ol>
 
 </div>

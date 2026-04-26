@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/javed_ali"><b>Javed</b> Ali</a>, <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a>, <a href="../../../author/azizinamini_atorod"><b>Azizinamini</b> Atorod</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jave_mant_aziz.2021.3PoUHPCfRBC/">3D Printing of Ultra-High-Performance Concrete for Robotic Bridge Construction</a> (12)</li>
+        <li><a href="../../../author/javed_ali"><b>Javed</b> Ali</a>, <a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a>, <a href="../../../author/azizinamini_atorod"><b>Azizinamini</b> Atorod</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../jave_mant_aziz.2021.3PoUHPCfRBC/">3D Printing of Ultra-High-Performance Concrete for Robotic Bridge Construction</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/dai_kaichao"><b>Dai</b> Kaichao</a> (1)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
         <li><a href="../../../author/singh_narinder"><b>Singh</b> Narinder</a> (1)</li>

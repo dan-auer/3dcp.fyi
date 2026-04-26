@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
         <li><a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> (1)</li>
         <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (1)</li>
         <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> (1)</li>
-        <li><a href="../../../author/yang_qianli"><b>Yang</b> Qianli</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

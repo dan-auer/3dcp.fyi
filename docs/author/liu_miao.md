@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 108
+    : 113
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> et al. <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_sun_wang_asla.2018.EaMAPoCCf3PCWCS/">Electromagnetic and Microwave-Absorbing Properties of Cementitious Composite for 3D Printing Containing Waste Copper Solids</a> (39)</li>
+        <li><a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/zhang_qiyun"><b>Zhang</b> Qiyun</a>, <a href="../../../author/tan_zhendong"><b>Tan</b> Zhendong</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../liu_zhan_tan_wang.2021.IoSWMRMf3CP/">Investigation of Steel-Wire-Mesh-Reinforcement Method for 3D Concrete Printing</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (11)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (8)</li>
         <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (7)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (7)</li>

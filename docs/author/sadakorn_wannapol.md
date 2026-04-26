@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sada_pras_pras.2024.ItSEoTTDCPWbAD/">Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design</a> (7)</li>
+        <li><a href="../../../author/sadakorn_wannapol"><b>Sadakorn</b> Wannapol</a>, <a href="../../../author/prasertsuk_santirak"><b>Prasertsuk</b> Santirak</a>, <a href="../../../author/prasittisopin_lapyote"><b>Prasittisopin</b> Lapyote</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sada_pras_pras.2024.ItSEoTTDCPWbAD/">Improving the Structural Efficiency of Textured Three-Dimensional Concrete Printing Wall by Architectural Design</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

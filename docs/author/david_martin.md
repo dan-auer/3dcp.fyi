@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 61
+    : 65
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P/">The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing</a> (15)</li>
+        <li><a href="../../../author/david_martin"><b>David</b> Martin</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/droder_klaus"><b>Dröder</b> Klaus</a>, <a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../davi_freu_drod_lowk.2023.TEoNDaLotRSPfS3P/">The Effects of Nozzle-Diameter and Length on the Resulting Strand Properties for Shotcrete 3D Printing</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

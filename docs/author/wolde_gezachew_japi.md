@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/wolde_gezachew_japi"><b>Wolde</b> Japi</a>, <a href="../../../author/joda_akram"><b>Joda</b> Akram</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mans_wold_joda.2025.TPoSaaSIf3CPBW/">The Potential of Sand as a Sustainable Infill for 3D Concrete Printed Building Walls</a> (2)</li>
+        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a>, <a href="../../../author/wolde_gezachew_japi"><b>Wolde</b> Japi</a>, <a href="../../../author/joda_akram"><b>Joda</b> Akram</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mans_wold_joda.2025.TPoSaaSIf3CPBW/">The Potential of Sand as a Sustainable Infill for 3D Concrete Printed Building Walls</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> (2)</li>
-        <li><a href="../../../author/alhammadi_ahmed"><b>Alhammadi</b> Ahmed</a> (1)</li>
+        <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> (3)</li>
+        <li><a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a> (2)</li>
+        <li><a href="../../../author/abdullahi_ahmed"><b>Abdullahi</b> Ahmed</a> (1)</li>
         <li><a href="../../../author/jayan_bejay"><b>Jayan</b> Bejay</a> (1)</li>
-        <li><a href="../../../author/mourad_bahaa"><b>Mourad</b> Bahaa</a> (1)</li>
         <li><a href="../../../author/tesfaye_saron"><b>Tesfaye</b> Saron</a> (1)</li>
     </ol>
 

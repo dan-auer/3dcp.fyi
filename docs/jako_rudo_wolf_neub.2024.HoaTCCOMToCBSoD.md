@@ -61,8 +61,9 @@ Journal Article - Advances in Cement Research, pp. 1-25
       <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/schutter_geert"><b>Schutter</b> Geert</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../tao_moha_rahu_schu.2023.DoaCSPCBSfTP3CP/">Development of a Calcium Sulfoaluminate-Portland Cement Binary System for Twin-Pipe 3D Concrete Printing</a></li>
       <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wang_rous_bos_sale.2019.DC/">Digital Concrete:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wolf_cordula"><b>Wolf</b> Cordula</a>, <a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jansen_daniel"><b>Jansen</b> Daniel</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wolf_pott_jans_step.2026.TYSf3PULCC/">Tailored Yield Stress for 3D Printing Using Low-Clinker Cement</a></li>
     </ol>
 </div>
 

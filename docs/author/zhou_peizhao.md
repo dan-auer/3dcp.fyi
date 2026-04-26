@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 28
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a> (28)</li>
+        <li><a href="../../../author/zhang_daobo"><b>Zhang</b> Daobo</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a>, <a href="../../../author/zhou_peizhao"><b>Zhou</b> Peizhao</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_feng_zhou_xu.2023.3PCWRwFFT/">3D Printed Concrete Walls Reinforced with Flexible FRP Textile:<br/>Automatic Construction, Digital Rebuilding, and Seismic Performance</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (3)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
-        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (3)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (3)</li>
-        <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (3)</li>
+        <li><a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> (4)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (4)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (4)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (4)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (4)</li>
     </ol>
 
 </div>

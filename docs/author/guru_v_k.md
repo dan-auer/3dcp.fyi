@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 13
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a> (13)</li>
+        <li><a href="../../../author/krishnaraja_r_a"><b>Krishnaraja</b> A.</a>, <a href="../../../author/guru_v_k"><b>Guru</b> K.</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../kris_guru.2021.3PC/">3D Printing Concrete:<br/>A Review</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,9 +48,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ahmed_mohamed-aly_aly"><b>Ahmed</b> Aly</a> (1)</li>
         <li><a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> (1)</li>
-        <li><a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a> (1)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (1)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
         <li><a href="../../../author/tran_mien"><b>van Tran</b> Mien</a> (1)</li>
         <li><a href="../../../author/yao_lei"><b>Yao</b> Lei</a> (1)</li>
     </ol>

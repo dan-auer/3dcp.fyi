@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a> (9)</li>
+        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> (1)</li>
-        <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a> (1)</li>
-        <li><a href="../../../author/tian_yiming"><b>Tian</b> Yiming</a> (1)</li>
+        <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
         <li><a href="../../../author/wang_jinjin"><b>Wang</b> Jinjin</a> (1)</li>
-        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
     </ol>
 
 </div>

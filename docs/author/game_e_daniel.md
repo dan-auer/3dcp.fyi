@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 41
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (33)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (11)</li>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (6)</li>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (5)</li>
-        <li><a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> (3)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (13)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (7)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (7)</li>
+        <li><a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> (4)</li>
         <li><a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> (3)</li>
     </ol>
 

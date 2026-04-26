@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>, <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC/">Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete</a> (2)</li>
+        <li><a href="../../../author/wu_mushuang"><b>Wu</b> Mushuang</a>, <a href="../../../author/wang_zixiao"><b>Wang</b> Zixiao</a>, <a href="../../../author/chen_yuxuan"><b>Chen</b> Yuxuan</a>, <a href="../../../author/zhu_mengyu"><b>Zhu</b> Mengyu</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wu_wang_chen_zhu.2024.EoSSoRaMPoSCBS3PC/">Effect of Steel-Slag on Rheological and Mechanical Properties of Sulfoaluminate-Cement-Based Sustainable 3D Printing Concrete</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_shuisheng"><b>Chen</b> Shuisheng</a> (1)</li>
-        <li><a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a> (1)</li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
         <li><a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> (1)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>
         <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a> (1)</li>
         <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (1)</li>
     </ol>

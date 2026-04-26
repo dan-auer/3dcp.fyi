@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC/">Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites</a> (5)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../chen_chen_zhan_wang.2025.ECaCMotADCBo3PECC/">Experimental Characterization and Constitutive Modelling of the Anisotropic Dynamic Compressive Behavior of 3D Printed Engineered Cementitious Composites</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

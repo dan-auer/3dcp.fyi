@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 28
+    : 31
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (4)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
         <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (3)</li>
         <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (3)</li>
         <li><a href="../../../author/qiu_liu-chao"><b>Qiu</b> Liu-Chao</a> (3)</li>

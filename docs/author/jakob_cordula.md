@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 20
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM/">Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method</a> (11)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM/">Investigation of a Shotcrete-Accelerator for Targeted Control of Material-Properties for 3D Concrete Printing Injection-Method</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (7)</li>
-        <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a> (4)</li>
-        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (3)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (3)</li>
-        <li><a href="../../../author/rossler_christiane"><b>Rößler</b> Christiane</a> (2)</li>
+        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (11)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (7)</li>
+        <li><a href="../../../author/jansen_daniel"><b>Jansen</b> Daniel</a> (4)</li>
+        <li><a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> (4)</li>
+        <li><a href="../../../author/wolf_cordula"><b>Wolf</b> Cordula</a> (4)</li>
     </ol>
 
 </div>

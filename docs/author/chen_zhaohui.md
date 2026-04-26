@@ -25,7 +25,7 @@ search:
     : 14
 
     Number Citations
-    : 116
+    : 137
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a> (88)</li>
+        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a>, <a href="../../../author/zhang_zhigang"><b>Zhang</b> Zhigang</a>, <a href="../../../author/zhang_xiaoyue"><b>Zhang</b> Xiaoyue</a>, <a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../liu_zhan_zhan_chen.2023.3PCS/">3D Printing Concrete Structures:<br/>State of the Art, Challenges, and Opportunities</a> (105)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (6)</li>
         <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (5)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (3)</li>
-        <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (3)</li>
+        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> (4)</li>
+        <li><a href="../../../author/yang_bo"><b>Yang</b> Bo</a> (4)</li>
     </ol>
 
 </div>

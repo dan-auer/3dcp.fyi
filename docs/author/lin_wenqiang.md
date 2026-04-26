@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 24
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a> (24)</li>
+        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a>, <a href="../../../author/lin_wenqiang"><b>Lin</b> Wenqiang</a>, <a href="../../../author/zhang_qingtian"><b>Zhang</b> Qingtian</a>, <a href="../../../author/wang_dehui"><b>Wang</b> Dehui</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../zhan_lin_zhan_wang.2024.EoAaSPoCSf3PC/">Evaluation of Anisotropy and Statistical Parameters of Compressive Strength for 3D Printed Concrete</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a> (2)</li>
-        <li><a href="../../../author/li_jiren"><b>Li</b> Jiren</a> (2)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (2)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
     </ol>
 
 </div>

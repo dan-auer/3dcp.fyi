@@ -19,7 +19,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.2174/2666145417666230801093723" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.2174/2666145417666230801093723" target="_blank">10.2174/2666145417666230801093723</a>
 
-<span class="author"><a href="https://orcid.org/0000-0003-4442-8167" title="ORCID: 0000-0003-4442-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedrosa_ana"><b>Pedrosa</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0003-4442-8167" title="ORCID: 0000-0003-4442-8167" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/pedrosa_ana"><b>Pedrosa</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span><br>
 Journal Article - Current Materials Science, Vol. 17
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/assessment"><button class="btn">#assessment</button></a> <a href="../../keyword/manufacturing"><button class="btn">#manufacturing</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/rheology"><button class="btn">#rheology</button></a> 
@@ -84,7 +84,7 @@ Journal Article - Current Materials Science, Vol. 17
 
     ```bibtex
     @article{pedr_gasp.2023.RAoMMfAM,
-      author            = "Ana Pedrosa and Florindo Gaspar",
+      author            = "Ana Pedrosa and Florindo José Mendes Gaspar",
       title             = "Rheology-Assessment of Mortar-Materials for Additive Manufacturing",
       doi               = "10.2174/2666145417666230801093723",
       year              = "2023",
@@ -99,10 +99,10 @@ Journal Article - Current Materials Science, Vol. 17
 
     === "IEEE"
 
-    <span id="iee">A. Pedrosa  and F. Gaspar, “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”, <i>Current Materials Science</i>, vol. 17, 2023, doi: 10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. Pedrosa  and F. J. M. Gaspar, “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”, <i>Current Materials Science</i>, vol. 17, 2023, doi: 10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Pedrosa, Ana, and Florindo Gaspar. “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”. <i>Current Materials Science</i> 17 (2023). https://doi.org/10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Pedrosa, Ana, and Florindo José Mendes Gaspar. “Rheology-Assessment of Mortar-Materials for Additive Manufacturing”. <i>Current Materials Science</i> 17 (2023). https://doi.org/10.2174/2666145417666230801093723.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

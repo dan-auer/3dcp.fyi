@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/salleh_norhafizah"><b>Salleh</b> Norhafizah</a>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b> Nur</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b> Zalipah</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sall_jama_abdu_jame.2021.NTi3CPbUGGBFS/">New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag:<br/>A Review</a> (6)</li>
+        <li><a href="../../../author/salleh_norhafizah"><b>Salleh</b> Norhafizah</a>, <a href="../../../author/jamalulail_syahera_nur"><b>Jamalulail</b> Nur</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a>, <a href="../../../author/jamellodin_zalipah"><b>Jamellodin</b> Zalipah</a> et al. <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../sall_jama_abdu_jame.2021.NTi3CPbUGGBFS/">New Technology in 3D Concrete Printing by Using Ground-Granulated Blast-Furnace-Slag:<br/>A Review</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
-        <li><a href="../../../author/leong_sing"><b>Leong</b> Sing</a> (1)</li>
-        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (1)</li>
-        <li><a href="../../../author/uribe_e-b_braian"><b>Uribe</b> Braian</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
     </ol>
 
 </div>

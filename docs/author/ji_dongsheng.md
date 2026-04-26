@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,9 +53,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/david_b_abayomi"><b>David</b> Abayomi</a> (1)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
         <li><a href="../../../author/gatheeshgar_perampalam"><b>Gatheeshgar</b> Perampalam</a> (1)</li>
-        <li><a href="../../../author/janani_parthiban"><b>Janani</b> Parthiban</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
         <li><a href="../../../author/simwanda_lenganji"><b>Simwanda</b> Lenganji</a> (1)</li>
     </ol>
 

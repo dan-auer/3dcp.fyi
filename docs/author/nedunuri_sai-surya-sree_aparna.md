@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a>, <a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b> Aparna</a>, <a href="../../../author/tanwar_jayant"><b>Tanwar</b> Jayant</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA/">Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates</a> (1)</li>
+        <li><a href="../../../author/gurunandan_m"><b>Gurunandan</b> M.</a>, <a href="../../../author/nedunuri_sai-surya-sree_aparna"><b>Nedunuri</b> Aparna</a>, <a href="../../../author/tanwar_jayant"><b>Tanwar</b> Jayant</a>, <a href="../../../author/nanthagopalan_prakash"><b>Nanthagopalan</b> Prakash</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA/">Development of 3D-Printable Alkali-Activated GGBFS and Fly-Ash-Binder-Based Mortars with Concrete-Demolition-Waste as Aggregates</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/avudaiappan_siva"><b>Avudaiappan</b> Siva</a> (1)</li>
         <li><a href="../../../author/kravchenko_ekaterina"><b>Kravchenko</b> Ekaterina</a> (1)</li>
         <li><a href="../../../author/murali_gunasekaran"><b>Murali</b> Gunasekaran</a> (1)</li>
+        <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a> (1)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (1)</li>
         <li><a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a> (1)</li>
     </ol>
 

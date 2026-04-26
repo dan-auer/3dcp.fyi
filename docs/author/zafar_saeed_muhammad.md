@@ -25,7 +25,7 @@ search:
     : 7
 
     Number Citations
-    : 37
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sedg_zafa_hoja.2023.EFaHPoS3PLCM/">Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures</a> (11)</li>
+        <li><a href="../../../author/sedghi_reza"><b>Sedghi</b> Reza</a>, <a href="../../../author/zafar_saeed_muhammad"><b>Zafar</b> Muhammad</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sedg_zafa_hoja.2023.EFaHPoS3PLCM/">Exploring Fresh and Hardened Properties of Sustainable 3D Printed Lightweight Cementitious Mixtures</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (4)</li>
         <li><a href="../../../author/yu_jiangtao"><b>Yu</b> Jiangtao</a> (4)</li>
         <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a> (3)</li>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (3)</li>
         <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a> (3)</li>
-        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (3)</li>
     </ol>
 
 </div>

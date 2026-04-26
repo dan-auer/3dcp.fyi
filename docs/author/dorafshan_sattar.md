@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 23
+    : 26
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a> (22)</li>
+        <li><a href="../../../author/hasani_alireza"><b>Hasani</b> Alireza</a>, <a href="../../../author/dorafshan_sattar"><b>Dorafshan</b> Sattar</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../hasa_dora.2024.TC/">Transforming Construction?:<br/>Evaluation of the State of Structural 3D Concrete Printing in Research and Practice</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,9 @@ search:
     <ol>
         <li><a href="../../../author/cunha_augusto-de-jesus_jaime"><b>Cunha</b> Jaime</a> (2)</li>
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (2)</li>
+        <li><a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> (2)</li>
         <li><a href="../../../author/funke_henrik"><b>Funke</b> Henrik</a> (1)</li>
         <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
-        <li><a href="../../../author/ponce_mari_josef"><b>Ponce</b> Josef</a> (1)</li>
     </ol>
 
 </div>

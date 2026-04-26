@@ -44,9 +44,10 @@ Contribution - Construction, Energy, Environment and Sustainability, pp. 53-61
 
 ##### :aca-blank:{ .lg .middle } { data-search-exclude }
 <div class="grid cards" markdown>
-???+ example "2 References"
+???+ example "3 References"
     <ol class = "bordered-list">
       <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/castro-salazar_angelica"><b>Castro-Salazar</b> Angelica</a>, <a href="../../../author/mueller_t_caitlin"><b>Mueller</b> Caitlin</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../curt_pear_cast_muel.2024.3PE/">3D Printing Earth:<br/>Local, Circular Material Processing, Fabrication Methods, and Life Cycle Assessment</a></li>
+      <li><a href="../../../author/khan_dayyem_muhammad"><b>Khan</b> Muhammad</a>, <a href="../../../author/varadharajan_tharanesh"><b>Varadharajan</b> Tharanesh</a>, <a href="../../../author/keller_zachary"><b>Keller</b> Zachary</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../khan_vara_kell_meib.2024.B/">BioMatters:<br/>The Robotic 3D-Printed Biodegradable Wood-Based Formwork for Cast-in-Place Concrete Structures</a></li>
       <li><a href="../../../author/samrani_phebe"><b>Samrani</b> Phebe</a>, <a href="../../../author/cao_yifang"><b>Cao</b> Yifang</a>, <a href="../../../author/fimbres-weihs_gustavo"><b>Fimbres-Weihs</b> Gustavo</a>, <a href="../../../author/sanjaya_eric"><b>Sanjaya</b> Eric</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../samr_cao_fimb_sanj.2024.EoFAaGWGaCRiC3PfSC/">Effect of Fly-Ash and Ground Waste Glass as Cement Replacement in Concrete 3D Printing for Sustainable Construction</a></li>
     </ol>
 ???+ bug "0 Citations"

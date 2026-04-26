@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gulati_hemant"><b>Gulati</b> Hemant</a>, <a href="../../../author/lu_tianxing"><b>Lu</b> Tianxing</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gula_lu.2025.C3PC/">Customized 3D Printable Concrete:<br/>A Systematic Review of Challenges, Methodologies, and Adoption Strategies</a> (0)</li>
+        <li><a href="../../../author/gulati_hemant"><b>Gulati</b> Hemant</a>, <a href="../../../author/lu_tianxing"><b>Lu</b> Tianxing</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../gula_lu.2025.C3PC/">Customized 3D Printable Concrete:<br/>A Systematic Review of Challenges, Methodologies, and Adoption Strategies</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (1)</li>
+        <li><a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a> (1)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (1)</li>
     </ol>
 
 </div>

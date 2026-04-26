@@ -19,33 +19,33 @@ search:
     : 2020-06-30
     
     Last Contribution
-    : 2025-12-13
+    : 2026-03-25
 
     Number Contributions
-    : 29
+    : 30
 
     Number Citations
-    : 462
+    : 490
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (12)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (8)</li>
-        <li><a href="../../../author/dulaj_albanela"><b>Dulaj</b> Albanela</a> (4)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (9)</li>
+        <li><a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> (5)</li>
         <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a> (4)</li>
         <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a> (193)</li>
+        <li><a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../suik_wolf_luca_sale.2020.EBaPCD3CP/">Elastic Buckling and Plastic Collapse During 3D Concrete Printing</a> (203)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (61)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (55)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (54)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (63)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (56)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (56)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (48)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (45)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/pessoa_sofia"><b>Pessoa</b> Sofia</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../pess_luca_simo_guim.2026.DPia3PMWS/">Drying Process in a 3D-Printed Multilayer Wall System:<br/>An Experimental and Numerical Analysis</a></li>
   <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../rang_sale_luca.2025.ADMfSL3PCwS/">A Design Methodology for Sustainable Lightweight 3D-Printable Concrete with SCMs</a></li>
   <li><a href="../../../author/deetman_h_arjen"><b>Deetman</b> Arjen</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../deet_bos_luca_sale.2025.ADFf3CP/">A Database Framework for 3D Concrete Printing</a></li>
   <li><a href="../../../author/medeiros_karolline_fernanda"><b>Medeiros</b> Fernanda</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/dias_s_leonardo"><b>Dias</b> Leonardo</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../mede_anjo_maia_dias.2025.EoSFotBo3PCMEtHT/">Effect of Sisal Fibers on the Behavior of 3D-Printed Cementitious Mixtures Exposed to High Temperatures</a></li>

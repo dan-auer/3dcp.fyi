@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 55
+    : 59
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a> (36)</li>
+        <li><a href="../../../author/wu_yun-chen"><b>Wu</b> Yun-Chen</a>, <a href="../../../author/li_mo"><b>Li</b> Mo</a> <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../wu_li.2022.EoEARaPTIoLAFCo3PC/">Effects of Early-Age Rheology and Printing Time Interval on Late-Age Fracture Characteristics of 3D Printed Concrete</a> (38)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
-        <li><a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a> (2)</li>
-        <li><a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> (2)</li>
-        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
-        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a> (2)</li>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (3)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (3)</li>
+        <li><a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a> (3)</li>
+        <li><a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> (3)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (3)</li>
     </ol>
 
 </div>

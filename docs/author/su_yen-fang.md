@@ -19,10 +19,10 @@ search:
     : 2025-12-10
     
     Last Contribution
-    : 2025-12-10
+    : 2026-04-15
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
@@ -31,6 +31,8 @@ search:
     <ol>
         <li><a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> (1)</li>
         <li><a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a> (1)</li>
+        <li><a href="../../../author/reid_a_laraimie"><b>Reid</b> Laraimie</a> (1)</li>
+        <li><a href="../../../author/taj_khalilullah"><b>Taj</b> Khalilullah</a> (1)</li>
         <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a> (1)</li>
     </ol>
     
@@ -58,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/taj_khalilullah"><b>Taj</b> Khalilullah</a>, <a href="../../../author/reid_a_laraimie"><b>Reid</b> Laraimie</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../taj_reid_su.2026.EIotSSS3PCC/">Environmental Influence on the Smart Self-Sensing 3D-Printed Concrete Column</a></li>
   <li><a href="../../../author/wen_kuo-wei"><b>Wen</b> Kuo-Wei</a>, <a href="../../../author/su_yen-fang"><b>Su</b> Yen-Fang</a>, <a href="../../../author/mo_hung_kim"><b>Mo</b> Kim</a>, <a href="../../../author/hung_chung-chan"><b>Hung</b> Chung-Chan</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC/">Time-Dependent Rheology, Green Strength, and Buildability of 3D-Printed Ultra-High Performance Concrete Incorporating Various Fiber Types and Contents</a></li>
 </ol>

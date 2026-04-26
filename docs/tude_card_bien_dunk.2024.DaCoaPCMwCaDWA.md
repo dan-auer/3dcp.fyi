@@ -53,8 +53,9 @@ Contribution - Proceedings of the 4th RILEM International Conference on Concrete
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a></li>
       <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/llontop_camila"><b>Llontop</b> Camila</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../silv_tude_roja_llon.2026.PCwMSRA/">Printable Concrete with Multi-Source Recycled Aggregates:<br/>Particle Packing Design, Rheological Behavior, and 3D Printing Validation</a></li>
     </ol>
 </div>
 

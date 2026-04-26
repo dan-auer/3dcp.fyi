@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/yin_xuexiang"><b>Yin</b> Xuexiang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../du_zhou_lai_yin.2025.DDBaAMo3PRCStP/">Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration</a> (1)</li>
+        <li><a href="../../../author/du_longyu"><b>Du</b> Longyu</a>, <a href="../../../author/zhou_jiehang"><b>Zhou</b> Jiehang</a>, <a href="../../../author/lai_jianzhong"><b>Lai</b> Jianzhong</a>, <a href="../../../author/yin_xuexiang"><b>Yin</b> Xuexiang</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../du_zhou_lai_yin.2025.DDBaAMo3PRCStP/">Dynamic Damage Behavior and Anisotropic Mechanism of 3D Printed Reinforced Concrete Subjected to Penetration</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (1)</li>
-        <li><a href="../../../author/nermend_loran"><b>Nermend</b> Loran</a> (1)</li>
+        <li><a href="../../../author/fang_mingyue"><b>Fang</b> Mingyue</a> (1)</li>
         <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (1)</li>
         <li><a href="../../../author/skibicki_szymon"><b>Skibicki</b> Szymon</a> (1)</li>
         <li><a href="../../../author/techman_mateusz"><b>Techman</b> Mateusz</a> (1)</li>
+        <li><a href="../../../author/wang_lijia"><b>Wang</b> Lijia</a> (1)</li>
     </ol>
 
 </div>

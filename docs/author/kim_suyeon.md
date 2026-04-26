@@ -19,26 +19,26 @@ search:
     : 2019-11-01
     
     Last Contribution
-    : 2025-02-12
+    : 2026-03-30
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 37
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (9)</li>
-        <li><a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> (9)</li>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (9)</li>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (10)</li>
+        <li><a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a> (10)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (10)</li>
         <li><a href="../../../author/pando_a_miguel"><b>Pando</b> Miguel</a> (8)</li>
         <li><a href="../../../author/ruiz_gaby"><b>Ruiz</b> Gaby</a> (7)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a> (16)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (2)</li>
-        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (2)</li>
-        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (2)</li>
-        <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (2)</li>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (2)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (5)</li>
+        <li><a href="../../../author/llontop_camila"><b>Llontop</b> Camila</a> (3)</li>
+        <li><a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a> (3)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (3)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> (3)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/nakamatsu_javier"><b>Nakamatsu</b> Javier</a>, <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE/">Improved Resistance to Water Erosion and Self-Healing Capacity of Earthen-Based 3D Printed Elements Using Enzyme-Induced Carbonate Precipitation (EICP)</a></li>
   <li><a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a>, <a href="../../../author/silva_guido"><b>Silva</b> Guido</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF/">3D-Printing of a Basic Housing Unit Prototype Using Earthen-Based Matrices Stabilized with Rice Husk Fibers</a></li>
   <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a>, <a href="../../../author/cardenas-palomino_tatiana_kelssy"><b>Cardenas Palomino</b> Kelssy</a>, <a href="../../../author/bienvenu_sophie"><b>Bienvenu</b> Sophie</a>, <a href="../../../author/dunkelberg_federico"><b>Dunkelberg</b> Federico</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tude_card_bien_dunk.2024.DaCoaPCMwCaDWA/">Development and Characterization of a Printable Concrete Made with Construction and Demolition-Waste-Aggregates</a></li>
   <li><a href="../../../author/gonzales_betty"><b>Gonzales</b> Betty</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/bertolotti_bruno"><b>Bertolotti</b> Bruno</a>, <a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../gonz_zava_bert_agui.2024.CIitIoSCaWCoCDtDSi3PES/">Comprehensive Investigation into the Influence of Soil Composition and Water Content on Cracking Due to Drying Shrinkage in 3D Printed Earthen Structures</a></li>

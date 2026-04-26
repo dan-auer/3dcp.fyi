@@ -19,34 +19,34 @@ search:
     : 2020-07-08
     
     Last Contribution
-    : 2025-07-28
+    : 2026-04-07
 
     Number Contributions
-    : 21
+    : 22
 
     Number Citations
-    : 606
+    : 649
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
         <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a> (9)</li>
-        <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> (8)</li>
+        <li><a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> (9)</li>
         <li><a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a> (6)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (3)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a> (139)</li>
+        <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../muth_rama_sanj.2021.TfIBi3CP/">Technologies for Improving Buildability in 3D Concrete Printing</a> (145)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (41)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (40)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (37)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (34)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (42)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (41)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (41)</li>
+        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (35)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (31)</li>
     </ol>
     
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS/">Enhancing the Printability and Sustainability of 3D Concrete Printing Using Recycled Waste Glass as a Cement Substitute</a></li>
   <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a>, <a href="../../../author/manalo_c_allan"><b>Manalo</b> Allan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P/">Rheological, Mechanical and Fire Resistance Performance of Waste Glass Activated Geopolymers for Concrete 3D Printing</a></li>
   <li><a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kana_rama_sanj.2024.ARCoCUEAaRAfC3P/">Active Rheology-Control of Concrete Using Encapsulated Accelerator as Responsive Additives for Concrete 3D Printing</a></li>
   <li><a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../muth_rama_sanj.2024.SoDGfC3PUTA/">Set-on-Demand Geopolymer for Concrete 3D Printing Using Ternary Activator</a></li>

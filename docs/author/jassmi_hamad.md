@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 29
+    : 31
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (3)</li>
         <li><a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> (2)</li>
         <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (2)</li>
         <li><a href="../../../author/schuldt_j_steven"><b>Schuldt</b> Steven</a> (2)</li>

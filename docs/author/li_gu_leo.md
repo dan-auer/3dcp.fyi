@@ -22,32 +22,32 @@ search:
     : 2025-09-12
 
     Number Contributions
-    : 7
+    : 8
 
     Number Citations
-    : 167
+    : 178
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> (4)</li>
+        <li><a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a> (3)</li>
         <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a> (2)</li>
         <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a> (2)</li>
-        <li><a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a> (2)</li>
         <li><a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a> (76)</li>
+        <li><a href="../../../author/chu_h_shaohua"><b>Chu</b> Shaohua</a>, <a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../chu_li_kwan.2021.DoEHSFRCINCC/">Development of Extrudable High-Strength Fiber-Reinforced Concrete Incorporating Nano-Calcium-Carbonate</a> (77)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (28)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (20)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (17)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (16)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (16)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (23)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (20)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -65,6 +65,7 @@ search:
 
 <ol class = "bordered-list" reversed>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a>, <a href="../../../author/jiao_chujie"><b>Jiao</b> Chujie</a>, <a href="../../../author/luo_tao"><b>Luo</b> Tao</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_fei_jiao_luo.2025.BRB3PM/">Bauxite Residue-Based 3D Printing Mortar:<br/>Enhancing Performance and Sustainability Through the Paste Replacement Approach</a></li>
+  <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/kou_shi-cong"><b>Kou</b> Shi-cong</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../li_xiao_kou.2025.IoFLotPaSoGFR3PM/">Influences of Fiber Length on the Printability and Strength of Glass Fiber-Reinforced 3D-Printed Mortar</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../li_zhan_kwan.2025.ES3P/">Exploring Submarine 3D Printing:<br/>Enhancing Washout-Resistance and Strength of 3D Printable Mortar</a></li>
   <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/pan_jiahui"><b>Pan</b> Jiahui</a>, <a href="../../../author/hee_sheng_yu"><b>Hee</b> Yu</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP/">Development of Novel Concave and Convex Trowels for Higher Inter-Layer Strength of 3D Printed Cement-Paste</a></li>
   <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/zhang_guang-hu"><b>Zhang</b> Guang-Hu</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../li_zhan.2024.FoU3P/">Feasibility of Underwater 3D Printing:<br/>Effects of Anti-Washout-Admixtures on Printability and Strength of Mortar</a></li>

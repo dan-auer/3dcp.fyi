@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 35
+    : 40
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a> (17)</li>
+        <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/ji_jiankai"><b>Ji</b> Jiankai</a>, <a href="../../../author/hou_xinran"><b>Hou</b> Xinran</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhou_gou_ji_hou.2024.DaHPo3PCCBT/">Durability and Hardened Properties of 3D Printed Concrete Containing Bauxite-Tailings</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (4)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (4)</li>
-        <li><a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> (4)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (5)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (5)</li>
+        <li><a href="../../../author/shaikh_uddin-ahmed_faiz"><b>Shaikh</b> Faiz</a> (5)</li>
         <li><a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a> (3)</li>
         <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (3)</li>
     </ol>

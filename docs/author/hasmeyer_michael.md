@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a> (12)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a>, <a href="../../../author/lin_wei_che"><b>Lin</b> Che</a>, <a href="../../../author/skevaki_eleni"><b>Skevaki</b> Eleni</a>, <a href="../../../author/wang_mingyang"><b>Wang</b> Mingyang</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../anto_lin_skev_wang.2024.TA/">Tor Alva:<br/>A 3D Concrete Printed Tower</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (5)</li>
-        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (3)</li>
+        <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (6)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (4)</li>
         <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (3)</li>
         <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (2)</li>
         <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (2)</li>

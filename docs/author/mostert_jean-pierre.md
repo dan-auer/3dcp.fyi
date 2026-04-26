@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 27
+    : 39
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../most_krug.2022.I3PCFTSTMfITBS/">Interlocking 3D Printed Concrete Filaments Through Surface Topology Modifications for Improved Tensile Bond Strength</a> (8)</li>
+        <li><a href="../../../author/mostert_jean-pierre"><b>Mostert</b> Jean-Pierre</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../most_krug.2022.I3PCFTSTMfITBS/">Interlocking 3D Printed Concrete Filaments Through Surface Topology Modifications for Improved Tensile Bond Strength</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (3)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (3)</li>
-        <li><a href="../../../author/ghoshal_k_sib"><b>Ghoshal</b> Sib</a> (2)</li>
-        <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (2)</li>
-        <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
+        <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (2)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
     </ol>
 
 </div>

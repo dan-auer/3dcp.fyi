@@ -59,8 +59,9 @@ Journal Article - E3S Web of Conferences, Vol. 436, No. 08010
       <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a></li>
       <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a>, <a href="../../../author/obradovic_radojko"><b>Obradović</b> Radojko</a>, <a href="../../../author/rakonjac_ivana"><b>Rakonjac</b> Ivana</a>, <a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> <a href="../../../date/2022/08">(2022-08)</a><br><a href="../../../zujo_obra_rako_milo.2022.3PTiADaC/">3D Printing Technologies in Architectural Design and Construction:<br/>A Systematic Literature Review</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/marifah_lailatul_sofa"><b>Marifah</b> Sofa</a>, <a href="../../../author/saputri_sukmayu_utamy"><b>Saputri</b> Utamy</a>, <a href="../../../author/permadi_damas_dio"><b>Permadi</b> Dio</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mari_sapu_perm.2025.SLR/">Systematic Literature Review:<br/>3D Printing Technology for Sustainable Construction Innovation</a></li>
       <li><a href="../../../author/minde_pravin"><b>Minde</b> Pravin</a>, <a href="../../../author/patil_jagruti"><b>Patil</b> Jagruti</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mind_pati.2025.ACRoFA3PTAitICS/">A Comprehensive Review of Factors Affecting 3D Printing Technology Adaptation in the Indian Construction Sector</a></li>
     </ol>
 </div>

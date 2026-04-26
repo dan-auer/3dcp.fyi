@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 21
+    : 25
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../prem_ravi_kali_ambi.2022.CEoRMf3PC/">Comparative Evaluation of Rheological Models for 3D Printable Concrete</a> (10)</li>
+        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a>, <a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../prem_ravi_kali_ambi.2022.CEoRMf3PC/">Comparative Evaluation of Rheological Models for 3D Printable Concrete</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/giridhar_greeshma"><b>Giridhar</b> Greeshma</a> (4)</li>
         <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (3)</li>
         <li><a href="../../../author/kumar_shankar"><b>Kumar</b> Shankar</a> (3)</li>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
     </ol>
 
 </div>

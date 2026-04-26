@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a> (3)</li>
+        <li><a href="../../../author/graser_konrad"><b>Graser</b> Konrad</a>, <a href="../../../author/walzer_nikolas_alexander"><b>Walzer</b> Alexander</a>, <a href="../../../author/hunhevicz_juri_jens"><b>Hunhevicz</b> Jens</a>, <a href="../../../author/jahne_rene"><b>Jähne</b> René</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../gras_walz_hunh_jahn.2023.QTEoDFwC/">Qualitative Technology Evaluation of Digital Fabrication with Concrete:<br/>Conceptual Framework and Scoreboard</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/aigbavboa_ohis_clinton"><b>Aigbavboa</b> Clinton</a> (1)</li>
         <li><a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a> (1)</li>
-        <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> (1)</li>
-        <li><a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> (1)</li>
+        <li><a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a> (1)</li>
+        <li><a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
         <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 30
+    : 31
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a> (17)</li>
+        <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

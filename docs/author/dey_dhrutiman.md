@@ -19,17 +19,17 @@ search:
     : 2019-06-29
     
     Last Contribution
-    : 2025-03-16
+    : 2026-02-05
 
     Number Contributions
-    : 15
+    : 16
 
     Number Citations
-    : 264
+    : 291
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (15)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (16)</li>
         <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> (6)</li>
         <li><a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> (5)</li>
         <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a> (2)</li>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a> (127)</li>
+        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a> (137)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (62)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (58)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (63)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (59)</li>
         <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (27)</li>
-        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (26)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (25)</li>
+        <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (27)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (26)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (33)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (39)</li>
         <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> (10)</li>
         <li><a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> (10)</li>
         <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a> (9)</li>
-        <li><a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> (7)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (7)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/kole_jagabandhu"><b>Kole</b> Jagabandhu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../dey_pand_kole.2026.IitEoFRwPSCaSSSfDoS3PC/">Investigation into the Effect of Full Replacement with Portland Slag Cement and Screened Slag Sand for Development of Sustainable 3D Printed Concrete</a></li>
   <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/shukla_yash"><b>Shukla</b> Yash</a>, <a href="../../../author/rawal_rajan"><b>Rawal</b> Rajan</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../dey_pand_shuk_rawa.2025.ACAoTPo3PCLW/">A Comprehensive Assessment of Thermal Performance of 3D Printed Concrete Lattice Walls</a></li>
   <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/kumar_gaurav"><b>Kumar</b> Gaurav</a>, <a href="../../../author/prasad_durga_ventrapragada"><b>Prasad</b> Ventrapragada</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../dey_kuma_pras_pand.2025.EIoTPo3PSIwLCaI/">Experimental Investigation of Thermal Performance of 3D Printed Slab Infused with Lightweight Concrete as Insulation</a></li>
   <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../kuma_dey_pand_muth.2025.IotNGoMPo3PC/">Influence of the Nozzle Geometry on Mechanical Properties of 3D Printed Concrete:<br/>Experiment and Finite Element Study</a></li>

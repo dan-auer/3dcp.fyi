@@ -51,8 +51,9 @@ Journal Article - Journal of Physics: Conference Series, Vol. 1950, Iss. 1
       <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/mohamed_ahamed-noor_nisar"><b>Mohamed</b> Nisar</a> et al. <a href="../../../date/2017/05">(2017-05)</a><br><a href="../../../tay_pand_paul_moha.2017.3PTiBaCI/">3D Printing Trends in Building and Construction Industry:<br/>A Review</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/06">(2017-06)</a><br><a href="../../../zare_khos.2017.ILAaSoSiCC/">Inter-Layer Adhesion and Strength of Structures in Contour Crafting:<br/>Effects of Aggregate-Size, Extrusion-Rate, and Layer-Thickness</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/marifah_lailatul_sofa"><b>Marifah</b> Sofa</a>, <a href="../../../author/saputri_sukmayu_utamy"><b>Saputri</b> Utamy</a>, <a href="../../../author/permadi_damas_dio"><b>Permadi</b> Dio</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mari_sapu_perm.2025.SLR/">Systematic Literature Review:<br/>3D Printing Technology for Sustainable Construction Innovation</a></li>
     </ol>
 </div>
 

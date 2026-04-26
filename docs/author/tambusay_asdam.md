@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 17
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a>, <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>, <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sury_higg_aitk_tamb.2023.DiPCGBf3PA/">Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>Material-Calibration and Structural Testing</a> (17)</li>
+        <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a>, <a href="../../../author/higgins_j"><b>Higgins</b> J.</a>, <a href="../../../author/aitken_w_m"><b>Aitken</b> M.</a>, <a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../sury_higg_aitk_tamb.2023.DiPCGBf3PA/">Developments in Portland Cement/GGBS Binders for 3D Printing Applications:<br/>Material-Calibration and Structural Testing</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (4)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (4)</li>
+        <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> (2)</li>
+        <li><a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> (2)</li>
         <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
-        <li><a href="../../../author/amato_giuseppina"><b>Amato</b> Giuseppina</a> (1)</li>
-        <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
     </ol>
 
 </div>

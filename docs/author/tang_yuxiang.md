@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 26
+    : 31
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB/">Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending</a> (18)</li>
+        <li><a href="../../../author/tang_yuxiang"><b>Tang</b> Yuxiang</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/liu_haoran"><b>Liu</b> Haoran</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB/">Trans-Layer and Inter-Layer Fracture Behavior of Extrusion-Based 3D Printed Concrete Under Three-Point Bending</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (3)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (3)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (3)</li>
         <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (2)</li>
-        <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a> (2)</li>
-        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
         <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (2)</li>
-        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
     </ol>
 
 </div>

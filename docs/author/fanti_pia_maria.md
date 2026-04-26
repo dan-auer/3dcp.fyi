@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a>, <a href="../../../author/mangini_m_agostino"><b>Mangini</b> Agostino</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pari_sang_pari_mang.2023.ANCfLAMiC/">A New Concept for Large Additive Manufacturing in Construction:<br/>Tower-Crane-Based 3D Printing Controlled by Deep-Reinforcement-Learning</a> (6)</li>
+        <li><a href="../../../author/parisi_fabio"><b>Parisi</b> Fabio</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/parisi_nicola"><b>Parisi</b> Nicola</a>, <a href="../../../author/mangini_m_agostino"><b>Mangini</b> Agostino</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../pari_sang_pari_mang.2023.ANCfLAMiC/">A New Concept for Large Additive Manufacturing in Construction:<br/>Tower-Crane-Based 3D Printing Controlled by Deep-Reinforcement-Learning</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (3)</li>
         <li><a href="../../../author/bianchi_iacopo"><b>Bianchi</b> Iacopo</a> (2)</li>
         <li><a href="../../../author/forcellese_archimede"><b>Forcellese</b> Archimede</a> (2)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
         <li><a href="../../../author/milosevic_jelena"><b>Milošević</b> Jelena</a> (1)</li>
-        <li><a href="../../../author/zujovic_masa"><b>Žujović</b> Maša</a> (1)</li>
     </ol>
 
 </div>

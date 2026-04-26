@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a> (1)</li>
+        <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/cheng_chi-tsun"><b>Cheng</b> Chi-Tsun</a>, <a href="../../../author/xuan_nguyen_hung"><b>Xuan</b> Hung</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../li_liu_chen_xuan.2025.DaPo3PBSFRCCCB/">Design and Performance of 3D Printed Bouligand Steel Fiber-Reinforced Cementitious Composite Curved Beams</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/deng_xiaowei"><b>Deng</b> Xiaowei</a> (1)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (1)</li>
         <li><a href="../../../author/huynh_tien"><b>Huynh</b> Tien</a> (1)</li>
-        <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a> (1)</li>
-        <li><a href="../../../author/ngo_ha_than"><b>Ngo</b> Than</a> (1)</li>
-        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (1)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (1)</li>
         <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
     </ol>
 

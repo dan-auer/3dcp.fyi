@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 14
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../koch_kama_subr.2021.ISEPSfM3CP/">In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing:<br/>Application in Alkali-Activated Fly-Ash-Slag Geopolymers</a> (5)</li>
+        <li><a href="../../../author/kocherla_amarteja"><b>Kocherla</b> Amarteja</a>, <a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../koch_kama_subr.2021.ISEPSfM3CP/">In-Situ Embedded PZT Sensor for Monitoring 3D Concrete Printing:<br/>Application in Alkali-Activated Fly-Ash-Slag Geopolymers</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

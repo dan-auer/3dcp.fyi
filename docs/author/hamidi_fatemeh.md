@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 131
+    : 135
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a> (92)</li>
+        <li><a href="../../../author/hamidi_fatemeh"><b>Hamidi</b> Fatemeh</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> <a href="../../../date/2019/05">(2019-05)</a><br><a href="../../../hami_asla.2019.AMoCC/">Additive Manufacturing of Cementitious Composites:<br/>Materials, Methods, Potentials, and Challenge</a> (93)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
         <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> (16)</li>
         <li><a href="../../../author/zhang_yifan"><b>Zhang</b> Yifan</a> (5)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
-        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a> (3)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (3)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (3)</li>
     </ol>
 

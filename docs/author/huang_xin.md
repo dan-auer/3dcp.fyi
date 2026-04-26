@@ -13,32 +13,32 @@ search:
 <div class="grid cards" markdown>
 !!! question "Information"
     ORCID
-    : N/A
+    : <a href="https://orcid.org/0000-0003-2198-7652" target="_blank">0000-0003-2198-7652</a>
 
     First Contribution
     : 2022-04-18
     
     Last Contribution
-    : 2025-08-14
+    : 2026-03-08
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
-    : 66
+    : 79
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (1)</li>
-        <li><a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a> (1)</li>
+        <li><a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a> (2)</li>
+        <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a> (2)</li>
+        <li><a href="../../../author/jia_ru"><b>Jia</b> Ru</a> (1)</li>
         <li><a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a> (1)</li>
-        <li><a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a> (1)</li>
-        <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a> (1)</li>
+        <li><a href="../../../author/yang_haoran"><b>Yang</b> Haoran</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a> (65)</li>
+        <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a> (72)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -46,16 +46,16 @@ search:
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (11)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (7)</li>
         <li><a href="../../../author/tay_wei-daniel_yi"><b>Tay</b> Yi</a> (7)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (6)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (6)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (3)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
-        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> (2)</li>
-        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (2)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (3)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (3)</li>
         <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (2)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jia_ru"><b>Jia</b> Ru</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_haoran"><b>Yang</b> Haoran</a>, <a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../jia_huan_yang_yao.2026.BoXCaDS/">Based on X-CT and DEM Simulation:<br/>A Study on Performance Anisotropy and Mechanisms of 3D Printed Concrete</a></li>
   <li><a href="../../../author/yao_weijing"><b>Yao</b> Weijing</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yao_gao_huan_du.2025.IoPSaESotPaPSo3PM/">Influence of Printing Speed and Extrusion Speed on the Performance and Pore Structures of 3D Printed Mortar</a></li>
   <li><a href="../../../author/huang_xin"><b>Huang</b> Xin</a>, <a href="../../../author/yang_weihao"><b>Yang</b> Weihao</a>, <a href="../../../author/song_fangnian"><b>Song</b> Fangnian</a>, <a href="../../../author/zou_jiuqun"><b>Zou</b> Jiuqun</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../huan_yang_song_zou.2022.SotMPo3PCLatMoIoPP/">Study on the Mechanical Properties of 3D Printing Concrete Layers and the Mechanism of Influence of Printing Parameters</a></li>
 </ol>

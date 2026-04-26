@@ -19,35 +19,35 @@ search:
     : 2022-09-07
     
     Last Contribution
-    : 2025-12-19
+    : 2026-04-10
 
     Number Contributions
-    : 9
+    : 12
 
     Number Citations
-    : 38
+    : 60
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (9)</li>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (8)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (12)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (11)</li>
+        <li><a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a> (2)</li>
         <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a> (1)</li>
-        <li><a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> (1)</li>
-        <li><a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a> (1)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rizz_ferr_crem.2023.NSotEaLDPi3CPwtPFEM/">Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method</a> (23)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../rizz_ferr_crem.2023.NSotEaLDPi3CPwtPFEM/">Numerical Simulation of the Extrusion and Layer-Deposition-Processes in 3D Concrete Printing with the Particle-Finite-Element-Method</a> (30)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (20)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (19)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (16)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (11)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (35)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (34)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (31)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (22)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,9 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/bos_h_derk"><b>Bos</b> Derk</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rizz_bos_wolf_ferr.2026.AUFSEVFEMftSo3CPAPS/">A Unified Fluid-Solid Elasto-Viscoplastic Finite Element Model for the Simulation of 3D Concrete Printing Across Process Scales</a></li>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../rizz_ferr_crem.2026.HFFEMoML3PwCT/">High-Fidelity Finite Element Modelling of Multi-Layer 3D Printing with Complex Toolpaths</a></li>
+  <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../rizz_lant_ferr_crem.2026.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>
   <li><a href="../../../author/ferrari_lucia"><b>Ferrari</b> Lucia</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/franzoni_elisa"><b>Franzoni</b> Elisa</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_ferr_fran.2026.RCoCCICWf3PA/">Rheological Control of Cementitious Composites Incorporating Ceramic Wastes for 3D Printing Applications</a></li>
   <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../ferr_rizz_crem.2025.APFDMAtD3CPMaP/">A Particle Fluid Dynamics Modelling Approach to Design 3D Concrete Printing Materials and Processes</a></li>
   <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a>, <a href="../../../author/lanteri_federico"><b>Lanteri</b> Federico</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../rizz_lant_ferr_crem.2025.S/">ShapeGen3DCP:<br/>A Deep Learning Framework for Layer Shape Prediction in 3D Concrete Printing</a></li>

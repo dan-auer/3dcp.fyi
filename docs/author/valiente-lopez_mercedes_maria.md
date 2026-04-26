@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../ahad_vali.2022.UoNSMAitRo3CPI/">Use of Nitinol-Shape Memory Alloy in the Reinforcement of 3D Concrete Printing Industry</a> (1)</li>
+        <li><a href="../../../author/ahadi_bahram"><b>Ahadi</b> Bahram</a>, <a href="../../../author/valiente-lopez_mercedes_maria"><b>Valiente López</b> María</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ahad_vali.2025.ZRMf3CP/">Zigzag Reinforcement Method for 3D Concrete Printing</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (1)</li>
+        <li><a href="../../../author/lv_liping"><b>Lv</b> Liping</a> (1)</li>
+        <li><a href="../../../author/ma_zongfang"><b>Ma</b> Zongfang</a> (1)</li>
+        <li><a href="../../../author/maurya_shubham"><b>Maurya</b> Shubham</a> (1)</li>
     </ol>
 
 </div>

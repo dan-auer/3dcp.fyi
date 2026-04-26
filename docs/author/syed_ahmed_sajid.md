@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abid_syed_khan.2025.EMLBMfPIBSi3PC/">Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete</a> (1)</li>
+        <li><a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a>, <a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a>, <a href="../../../author/khan_majid"><b>Khan</b> Majid</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../abid_syed_khan.2025.EMLBMfPIBSi3PC/">Explainable Machine Learning-Based Model for Predicting Interlayer Bond Strength in 3D Printed Concrete</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
+        <li><a href="../../../author/ouyang_jun"><b>Ouyang</b> Jun</a> (1)</li>
+        <li><a href="../../../author/xu_wenbin"><b>Xu</b> Wenbin</a> (1)</li>
+        <li><a href="../../../author/xu_wenqiang"><b>Xu</b> Wenqiang</a> (1)</li>
+        <li><a href="../../../author/xu_zihao"><b>Xu</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

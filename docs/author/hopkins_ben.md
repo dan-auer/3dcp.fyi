@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a> (8)</li>
+        <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a>, <a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../hopk_si_khan_mcna.2025.RAiPFR3PC/">Recent Advancements in Polypropylene Fiber-Reinforced 3D-Printed Concrete:<br/>Insights into Mix Ratios, Testing Procedures, and Material Behaviour</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (5)</li>
-        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (5)</li>
-        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (5)</li>
+        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (7)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (7)</li>
+        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (7)</li>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (2)</li>
         <li><a href="../../../author/maglad_m_ahmed"><b>Maglad</b> Ahmed</a> (2)</li>
     </ol>

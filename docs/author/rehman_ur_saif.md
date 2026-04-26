@@ -19,13 +19,13 @@ search:
     : 2024-07-11
     
     Last Contribution
-    : 2026-01-13
+    : 2026-03-09
 
     Number Contributions
-    : 4
+    : 5
 
     Number Citations
-    : 16
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../rehm_robe_unge_wolf.2026.ASFiEB3CPUaPMwNLH/">Assessing Structural Failure in Extrusion-Based 3D Concrete Printing Using a Plasticity Model with Non-Linear Hardening</a></li>
   <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kiya_kama_huss_emaa.2026.ANAIf3CPB/">A Novel Arch Infill for 3D Concrete Printed Beams:<br/>A Comparative Study of Flexural Performance Against Truss and Solid Designs</a></li>
   <li><a href="../../../author/kiyani_mughees-raza_muhammad"><b>Kiyani</b> Muhammad</a>, <a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a>, <a href="../../../author/emaan_rajja"><b>Emaan</b> Rajja</a>, <a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../kiya_huss_emaa_kama.2025.IoPPo3CP/">Influence of Process Parameters on 3D Concrete Printing:<br/>A Step Towards Standardized Approaches</a></li>
   <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a>, <a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/kim_in-ho"><b>Kim</b> In-Ho</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../rehm_riaz_usma_kim.2024.ADDAT3PCMP/">Augmented Data-Driven Approach Towards 3D Printed Concrete Mix Prediction</a></li>

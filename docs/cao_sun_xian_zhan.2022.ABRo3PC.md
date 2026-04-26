@@ -51,8 +51,9 @@ Journal Article - Highlights in Science, Engineering and Technology, Vol. 28, pp
       <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/mahmood_zubayer_mir"><b>Mahmood</b> Mir</a>, <a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../mahm_alia_hasa.2026.ABaTRoSCMf3CPRTCSCaFD/">A Bibliometric and Technical Review of Supplementary Cementitious Materials for 3D Concrete Printing: Research Trends, Current Status, Challenges, and Future Directions</a></li>
       <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/puzule_liga"><b>Puzule</b> Līga</a>, <a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../sahm_puzu_sapa_slos.2024.GCPCf3P/">Gypsum-Cement-Pozzolan Composites for 3D Printing:<br/>Properties and Life Cycle Assessment</a></li>
     </ol>
 </div>

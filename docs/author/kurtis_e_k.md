@@ -29,13 +29,13 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/rider_bo"><b>Rider</b> Bo</a> (1)</li>
+        <li><a href="../../../author/rider_owen_benjamin"><b>Rider</b> Benjamin</a> (1)</li>
         <li><a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rider_bo"><b>Rider</b> Bo</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a> (0)</li>
+        <li><a href="../../../author/rider_owen_benjamin"><b>Rider</b> Benjamin</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -57,5 +57,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/rider_bo"><b>Rider</b> Bo</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a></li>
+  <li><a href="../../../author/rider_owen_benjamin"><b>Rider</b> Benjamin</a>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b> K.</a>, <a href="../../../author/stewart_k_l"><b>Stewart</b> L.</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ride_kurt_stew.2024.QoPaSiFR3PM/">Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar:<br/>Connecting Material-Composition and Structural Performance</a></li>
 </ol>

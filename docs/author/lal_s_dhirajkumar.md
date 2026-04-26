@@ -19,25 +19,26 @@ search:
     : 2025-07-10
     
     Last Contribution
-    : 2025-07-10
+    : 2026-03-25
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a> (2)</li>
         <li><a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a> (1)</li>
-        <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a> (1)</li>
         <li><a href="../../../author/pingale_d_ajay"><b>Pingale</b> Ajay</a> (1)</li>
+        <li><a href="../../../author/rangari_ashok_vinay"><b>Rangari</b> Vinay</a> (1)</li>
         <li><a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a>, <a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../khar_khan_lal_sona.2025.DaDoaNAf3CPA/">Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications</a> (0)</li>
+        <li><a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/rangari_ashok_vinay"><b>Rangari</b> Vinay</a>, <a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../lal_rang_khar.2026.SOaCEDoaIGT3CPSfSCA/">Structural Optimization and Cost-Efficient Development of an Indigenous Gantry-Type 3D Concrete Printing System for Scalable Construction Applications</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -59,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/rangari_ashok_vinay"><b>Rangari</b> Vinay</a>, <a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../lal_rang_khar.2026.SOaCEDoaIGT3CPSfSCA/">Structural Optimization and Cost-Efficient Development of an Indigenous Gantry-Type 3D Concrete Printing System for Scalable Construction Applications</a></li>
   <li><a href="../../../author/khare_bhaskar_karan"><b>Khare</b> Karan</a>, <a href="../../../author/khan_n_subim"><b>Khan</b> Subim</a>, <a href="../../../author/lal_s_dhirajkumar"><b>Lal</b> Dhirajkumar</a>, <a href="../../../author/sonawane_r_pavankumar"><b>Sonawane</b> Pavankumar</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../khar_khan_lal_sona.2025.DaDoaNAf3CPA/">Design and Development of a Nozzle Assembly for 3D Concrete Printing Applications</a></li>
 </ol>

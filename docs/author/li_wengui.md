@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 67
+    : 80
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a> (25)</li>
+        <li><a href="../../../author/chen_kailun"><b>Chen</b> Kailun</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/chen_bing"><b>Chen</b> Bing</a>, <a href="../../../author/zhang_shishun"><b>Zhang</b> Shishun</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../chen_liu_chen_zhan.2024.ARoEoRMotPo3PGSfC/">A Review on Effect of Raw Materials on the Performance of 3D Printed Geopolymer System for Construction</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (6)</li>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
         <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (5)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (4)</li>
-        <li><a href="../../../author/cao_ruilin"><b>Cao</b> Ruilin</a> (3)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (3)</li>
     </ol>
 

@@ -84,8 +84,9 @@ Contribution - Proceedings of the 40th International Symposium on Automation and
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a></li>
       <li><a href="../../../author/xu_jerry_jie"><b>Xu</b> Jie</a>, <a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a>, <a href="../../../author/kinnell_peter"><b>Kinnell</b> Peter</a>, <a href="../../../author/biro_istvan"><b>Biro</b> Istvan</a> et al. <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../xu_busw_kinn_biro.2020.IMPo3PCPBoGDaT/">Inspecting Manufacturing Precision of 3D Printed Concrete Parts Based on Geometric Dimensioning and Tolerancing</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/marifah_lailatul_sofa"><b>Marifah</b> Sofa</a>, <a href="../../../author/saputri_sukmayu_utamy"><b>Saputri</b> Utamy</a>, <a href="../../../author/permadi_damas_dio"><b>Permadi</b> Dio</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../mari_sapu_perm.2025.SLR/">Systematic Literature Review:<br/>3D Printing Technology for Sustainable Construction Innovation</a></li>
       <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a>, <a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a>, <a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a>, <a href="../../../author/skibniewski_j_miroslaw"><b>Skibniewski</b> Mirosław</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../besk_raza_zhon_skib.2024.3PvTC/">3D Printing vs. Traditional Construction:<br/>Cost Comparisons from Design to Waste Disposal Stages</a></li>
     </ol>
 </div>

@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 15
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> (3)</li>
         <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> (2)</li>
         <li><a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> (2)</li>
-        <li><a href="../../../author/kosson_michael"><b>Kosson</b> Michael</a> (1)</li>
         <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
     </ol>
 
 </div>

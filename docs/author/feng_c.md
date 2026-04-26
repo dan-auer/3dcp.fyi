@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yue_g_j"><b>Yue</b> J.</a>, <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b> Dimitrios</a>, <a href="../../../author/feng_c"><b>Feng</b> C.</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yue_besk_feng_wu.2022.HFCoPCUAEMT/">Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique</a> (12)</li>
+        <li><a href="../../../author/yue_g_j"><b>Yue</b> J.</a>, <a href="../../../author/beskos_e_dimitrios"><b>Beskos</b> Dimitrios</a>, <a href="../../../author/feng_c"><b>Feng</b> C.</a>, <a href="../../../author/wu_kai"><b>Wu</b> Kai</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../yue_besk_feng_wu.2022.HFCoPCUAEMT/">Hardened Fracture Characteristics of Printed Concrete Using Acoustic Emission Monitoring Technique</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a> (2)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (2)</li>
+        <li><a href="../../../author/pazdera_lubos"><b>Pazdera</b> Luboš</a> (2)</li>
         <li><a href="../../../author/sun_chang"><b>Sun</b> Chang</a> (2)</li>
-        <li><a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> (1)</li>
-        <li><a href="../../../author/kono_katsuya"><b>Kono</b> Katsuya</a> (1)</li>
+        <li><a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 19
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b> Emircan</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ilca_sahi_kul_ozce.2023.RPaEPAoCaDWBGMwVTP/">Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols</a> (19)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/ozcelikci_emircan"><b>Ozcelikci</b> Emircan</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ilca_sahi_kul_ozce.2023.RPaEPAoCaDWBGMwVTP/">Rheological Property and Extrudability Performance-Assessment of Construction and Demolition Waste-Based Geopolymer Mortars with Varied Testing Protocols</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (4)</li>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (3)</li>
-        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (2)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (5)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (4)</li>
         <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (2)</li>
         <li><a href="../../../author/jai_mostapha"><b>El Jai</b> Mostapha</a> (2)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (2)</li>
     </ol>
 
 </div>

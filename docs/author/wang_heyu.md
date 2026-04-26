@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../li_xing_sun_feng.2024.TNMfAHTi3PCGS/">Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures</a> (8)</li>
+        <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../li_xing_sun_feng.2024.TNMfAHTi3PCGS/">Thermal Network Model for Anisotropic Heat Transfer in 3D Printed Complex Geometry Structures</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (3)</li>
         <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (2)</li>
         <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (2)</li>
-        <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (1)</li>
-        <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
-        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>
     </ol>
 
 </div>

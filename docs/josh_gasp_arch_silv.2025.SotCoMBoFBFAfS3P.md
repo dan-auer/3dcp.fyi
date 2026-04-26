@@ -20,7 +20,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1061/jaeied.aeeng-1974" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jaeied.aeeng-1974" target="_blank">10.1061/jaeied.aeeng-1974</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2464-7258" title="ORCID: 0000-0003-2464-7258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/archbold_paul"><b>Archbold</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3330-2000" title="ORCID: 0000-0002-3330-2000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b>&nbsp;José</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-0846-231X" title="ORCID: 0000-0002-0846-231X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/joshi_arpan"><b>Joshi</b>&nbsp;Arpan</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2464-7258" title="ORCID: 0000-0003-2464-7258" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/archbold_paul"><b>Archbold</b>&nbsp;Paul</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3330-2000" title="ORCID: 0000-0002-3330-2000" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b>&nbsp;José</a></span><br>
 Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4
 
 <a href="../../keyword/ash"><button class="btn">#ash</button></a> <a href="../../keyword/base"><button class="btn">#base</button></a> <a href="../../keyword/biomass"><button class="btn">#biomass</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/sustainability"><button class="btn">#sustainability</button></a> 
@@ -66,7 +66,7 @@ Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4
 
     ```bibtex
     @article{josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P,
-      author            = "Arpan Joshi and Florindo Gaspar and Paul Archbold and José Dinis Silvestre",
+      author            = "Arpan Joshi and Florindo José Mendes Gaspar and Paul Archbold and José Dinis Silvestre",
       title             = "Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing",
       doi               = "10.1061/jaeied.aeeng-1974",
       year              = "2025",
@@ -82,10 +82,10 @@ Journal Article - Journal of Architectural Engineering, Vol. 31, Iss. 4
 
     === "IEEE"
 
-    <span id="iee">A. Joshi, F. Gaspar, P. Archbold and J. D. Silvestre, “Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 4, 2025, doi: 10.1061/jaeied.aeeng-1974.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. Joshi, F. J. M. Gaspar, P. Archbold and J. D. Silvestre, “Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing”, <i>Journal of Architectural Engineering</i>, vol. 31, no. 4, 2025, doi: 10.1061/jaeied.aeeng-1974.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Joshi, Arpan, Florindo Gaspar, Paul Archbold, and José Dinis Silvestre. “Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing”. <i>Journal of Architectural Engineering</i> 31, no. 4 (2025). https://doi.org/10.1061/jaeied.aeeng-1974.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Joshi, Arpan, Florindo José Mendes Gaspar, Paul Archbold, and José Dinis Silvestre. “Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing”. <i>Journal of Architectural Engineering</i> 31, no. 4 (2025). https://doi.org/10.1061/jaeied.aeeng-1974.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a>, <a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_kalu_enge_hegg.2023.DoaI3PPfRC/">Development of an Innovative 3D Printing Process for Reinforced Concrete:<br/>AMoRC Method</a> (6)</li>
+        <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/kalus_matthias"><b>Kalus</b> Matthias</a>, <a href="../../../author/engel_sven"><b>Engel</b> Sven</a>, <a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../zhan_kalu_enge_hegg.2023.DoaI3PPfRC/">Development of an Innovative 3D Printing Process for Reinforced Concrete:<br/>AMoRC Method</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (2)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (4)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (3)</li>
+        <li><a href="../../../author/bielak_jan"><b>Bielak</b> Jan</a> (2)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (2)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (1)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (1)</li>
     </ol>
 
 </div>

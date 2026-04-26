@@ -25,7 +25,7 @@ search:
     : 32
 
     Number Citations
-    : 2773
+    : 2823
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a> (642)</li>
+        <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2003/11">(2003-11)</a><br><a href="../../../khos.2004.ACbCC/">Automated Construction by Contour Crafting:<br/>Related Robotics and Information Technologies</a> (651)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (90)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (83)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (79)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (80)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (68)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (58)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (59)</li>
     </ol>
 
 </div>

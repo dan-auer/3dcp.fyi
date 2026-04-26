@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>, <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mort_moha_mans_gras.2022.DoTMtEtPoCMfAM/">Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing</a> (10)</li>
+        <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/mohammad_malek"><b>Mohammad</b> Malek</a>, <a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a>, <a href="../../../author/grasley_zachary"><b>Grasley</b> Zachary</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../mort_moha_mans_gras.2022.DoTMtEtPoCMfAM/">Development of Test-Methods to Evaluate the Printability of Concrete Materials for Additive Manufacturing</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
         <li><a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a> (4)</li>
         <li><a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> (4)</li>
         <li><a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a> (3)</li>
-        <li><a href="../../../author/mansoor_bilal"><b>Mansoor</b> Bilal</a> (2)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
         <li><a href="../../../author/masoud_laith"><b>Masoud</b> Laith</a> (2)</li>
     </ol>
 

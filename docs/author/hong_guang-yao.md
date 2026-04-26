@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 17
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hong_guang-yao"><b>Hong</b> Guang-Yao</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_zeng_hong_zhug.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Behavior</a> (17)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/hong_guang-yao"><b>Hong</b> Guang-Yao</a>, <a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../sun_zeng_hong_zhug.2025.3PFGCP/">3D Printed Functionally Graded Concrete Plates:<br/>Concept and Bending Behavior</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (3)</li>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (3)</li>
-        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (3)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (4)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (4)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (4)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
     </ol>

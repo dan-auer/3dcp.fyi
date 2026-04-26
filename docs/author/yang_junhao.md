@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a>, <a href="../../../author/li_ziang"><b>Li</b> Ziang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_han_yang_li.2025.OPaRPf3PwCM/">Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials</a> (0)</li>
+        <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/yang_junhao"><b>Yang</b> Junhao</a>, <a href="../../../author/li_ziang"><b>Li</b> Ziang</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../wang_han_yang_li.2025.OPaRPf3PwCM/">Optimizing Printing and Rheological Parameters for 3D Printing with Cementitious Materials</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/han_song"><b>Han</b> Song</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
+        <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a> (1)</li>
+        <li><a href="../../../author/ye_huzi"><b>Ye</b> Huzi</a> (1)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> (1)</li>
     </ol>
 
 </div>

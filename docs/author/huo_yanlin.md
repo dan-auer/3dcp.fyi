@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/huo_yanlin"><b>Huo</b> Yanlin</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../han_yan_huo_chen.2024.EoCCRo3PC/">Effect of Carbonation-Curing-Regime on 3D Printed Concrete:<br/>Compressive Strength, CO2 Uptake, and Characterization</a> (1)</li>
+        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/huo_yanlin"><b>Huo</b> Yanlin</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../han_yan_huo_chen.2024.EoCCRo3PC/">Effect of Carbonation-Curing-Regime on 3D Printed Concrete:<br/>Compressive Strength, CO2 Uptake, and Characterization</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/amr_t_issam"><b>Amr</b> Issam</a> (1)</li>
-        <li><a href="../../../author/fadhel_a_bandar"><b>Fadhel</b> Bandar</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (1)</li>
-        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (1)</li>
     </ol>
 

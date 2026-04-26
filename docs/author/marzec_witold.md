@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/lach_michal"><b>Łach</b> Michał</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../marc_ziej_korn_ach.2022.Po3PCGHRwAR/">Properties of 3D Printed Concrete-Geopolymer Hybrids Reinforced with Aramid Roving</a> (9)</li>
+        <li><a href="../../../author/marczyk_joanna"><b>Marczyk</b> Joanna</a>, <a href="../../../author/ziejewska_celina"><b>Ziejewska</b> Celina</a>, <a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a>, <a href="../../../author/lach_michal"><b>Łach</b> Michał</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../marc_ziej_korn_ach.2022.Po3PCGHRwAR/">Properties of 3D Printed Concrete-Geopolymer Hybrids Reinforced with Aramid Roving</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (2)</li>
+        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (3)</li>
+        <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (3)</li>
+        <li><a href="../../../author/baalal_eddine_salah"><b>Baalal</b> Salah</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/jai_mostapha"><b>El Jai</b> Mostapha</a> (2)</li>
-        <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (2)</li>
-        <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
     </ol>
 
 </div>

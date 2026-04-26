@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/temel_muge"><b>Temel</b> Müge</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sahi_teme_mard.2023.DoOVUDiCS/">Determination of Optimum VMA Utilization Dosage in Cementitious Systems:<br/>In Terms of Rheological and Flowability Properties</a> (3)</li>
+        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a>, <a href="../../../author/temel_muge"><b>Temel</b> Müge</a>, <a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../sahi_teme_mard.2023.DoOVUDiCS/">Determination of Optimum VMA Utilization Dosage in Cementitious Systems:<br/>In Terms of Rheological and Flowability Properties</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a> (1)</li>
-        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (1)</li>
+        <li><a href="../../../author/collery_david"><b>Collery</b> David</a> (1)</li>
         <li><a href="../../../author/rasel_islam_risul"><b>Rasel</b> Risul</a> (1)</li>
-        <li><a href="../../../author/saka-dinc_zaide"><b>Saka Dinç</b> Zaide</a> (1)</li>
+        <li><a href="../../../author/saeedi_t_ahmed"><b>Saeedi</b> Ahmed</a> (1)</li>
         <li><a href="../../../author/zubayer_hasib_md"><b>Zubayer</b> Md</a> (1)</li>
     </ol>
 

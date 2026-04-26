@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b> Anthony</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pere_krei_stid_styn.2023.FEMoRACCS/">Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures</a> (4)</li>
+        <li><a href="../../../author/perez-rivera_anthony"><b>Perez-Rivera</b> Anthony</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/stidwell_samuel"><b>Stidwell</b> Samuel</a>, <a href="../../../author/stynoski_b_peter"><b>Stynoski</b> Peter</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../pere_krei_stid_styn.2023.FEMoRACCS/">Finite-Element Modeling of Reinforced Additively Constructed Concrete Structures</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (2)</li>
-        <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (1)</li>
-        <li><a href="../../../author/mukhtar_faisal"><b>Mukhtar</b> Faisal</a> (1)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (4)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (2)</li>
+        <li><a href="../../../author/delavar_aghajani_mohammad"><b>Delavar</b> Mohammad</a> (2)</li>
+        <li><a href="../../../author/sharma_s"><b>Sharma</b> S.</a> (2)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
-        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (1)</li>
     </ol>
 
 </div>

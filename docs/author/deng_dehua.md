@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a> (11)</li>
+        <li><a href="../../../author/huang_hai"><b>Huang</b> Hai</a>, <a href="../../../author/huang_tingjie"><b>Huang</b> Tingjie</a>, <a href="../../../author/yuan_qiang"><b>Yuan</b> Qiang</a>, <a href="../../../author/zhou_dajun"><b>Zhou</b> Dajun</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../huan_huan_yuan_zhou.2019.TDoSBUaIRwHKoCP/">Temperature-Dependence of Structural Build-Up and Its Relation with Hydration Kinetics of Cement-Paste</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (2)</li>
-        <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> (2)</li>
-        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (2)</li>
-        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (2)</li>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (3)</li>
+        <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> (3)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (3)</li>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (3)</li>
         <li><a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 65
+    : 76
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a> (65)</li>
+        <li><a href="../../../author/lyu_fuyan"><b>Lyu</b> Fuyan</a>, <a href="../../../author/zhao_dongliang"><b>Zhao</b> Dongliang</a>, <a href="../../../author/hou_xiaohui"><b>Hou</b> Xiaohui</a>, <a href="../../../author/sun_li"><b>Sun</b> Li</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../lyu_zhao_hou_sun.2021.OotDo3PC/">Overview of the Development of 3D Printing Concrete:<br/>A Review</a> (76)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/cisowski_adam"><b>Cisowski</b> Adam</a> (2)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (2)</li>
+        <li><a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> (2)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (2)</li>
         <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (2)</li>
-        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (2)</li>
-        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> (2)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a> (1)</li>
+        <li><a href="../../../author/zhong_kuangnan"><b>Zhong</b> Kuangnan</a>, <a href="../../../author/huang_shuai"><b>Huang</b> Shuai</a>, <a href="../../../author/liu_zhichao"><b>Liu</b> Zhichao</a>, <a href="../../../author/wang_fazhou"><b>Wang</b> Fazhou</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhon_huan_liu_wang.2024.CA3PMfMSV/">CO2-Absorbing 3D Printable Mixtures for Magnesium-Slag Valorization</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a> (1)</li>
-        <li><a href="../../../author/fahim_abdullah"><b>Al Fahim</b> Abdullah</a> (1)</li>
-        <li><a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> (1)</li>
+        <li><a href="../../../author/luo_jintao"><b>Luo</b> Jintao</a> (1)</li>
+        <li><a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
+        <li><a href="../../../author/zhang_shuting"><b>Zhang</b> Shuting</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 95
+    : 102
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a> (39)</li>
+        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/jiang_zhengwu"><b>Jiang</b> Zhengwu</a>, <a href="../../../author/zhu_yanmei"><b>Zhu</b> Yanmei</a>, <a href="../../../author/zhang_jie"><b>Zhang</b> Jie</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../zhan_jian_zhu_zhan.2021.EoRPPotSBUo3PCPwawHM/">Effects of Redispersible Polymer-Powders on the Structural Build-Up of 3D Printing Cement Paste with and without Hydroxypropyl-Methylcellulose</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (8)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (8)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (8)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (7)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (7)</li>
-        <li><a href="../../../author/ren_qiang"><b>Ren</b> Qiang</a> (6)</li>
     </ol>
 
 </div>

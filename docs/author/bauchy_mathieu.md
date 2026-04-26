@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,8 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> (1)</li>
-        <li><a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a> (1)</li>
-        <li><a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> (1)</li>
+        <li><a href="../../../author/runge_troy"><b>Runge</b> Troy</a> (1)</li>
+        <li><a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> (1)</li>
+        <li><a href="../../../author/zhang_li"><b>Zhang</b> Li</a> (1)</li>
+        <li><a href="../../../author/zhang_shuting"><b>Zhang</b> Shuting</a> (1)</li>
     </ol>
 
 </div>

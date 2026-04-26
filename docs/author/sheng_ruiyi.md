@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a> (1)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/sheng_ruiyi"><b>Sheng</b> Ruiyi</a>, <a href="../../../author/wang_qiling"><b>Wang</b> Qiling</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC/">Advancing the Applicability of Recycled Municipal Solid Waste Incineration Bottom Ash as a Cement Substitute in Printable Concrete:<br/>Emphasis on Rheological and Microstructural Properties</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a> (1)</li>
-        <li><a href="../../../author/liu_qing"><b>Liu</b> Qing</a> (1)</li>
-        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> (1)</li>
-        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (1)</li>
-        <li><a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> (1)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> (3)</li>
+        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (3)</li>
+        <li><a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a> (2)</li>
+        <li><a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a> (2)</li>
+        <li><a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a> (2)</li>
     </ol>
 
 </div>

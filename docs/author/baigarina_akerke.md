@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 12
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a> (12)</li>
+        <li><a href="../../../author/baigarina_akerke"><b>Baigarina</b> Akerke</a>, <a href="../../../author/shehab_essam"><b>Shehab</b> Essam</a>, <a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../baig_sheh_ali.2023.C3P/">Construction 3D Printing:<br/>A Critical Review and Future Research-Directions</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,8 +51,8 @@ search:
     <ol>
         <li><a href="../../../author/placzek_gerrit"><b>Placzek</b> Gerrit</a> (2)</li>
         <li><a href="../../../author/schwerdtner_patrick"><b>Schwerdtner</b> Patrick</a> (2)</li>
-        <li><a href="../../../author/mutevelli-ozkan_gamze_iffet"><b>Mütevelli Özkan</b> İffet</a> (1)</li>
         <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (1)</li>
+        <li><a href="../../../author/singh_k_s"><b>Singh</b> S.</a> (1)</li>
         <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> (1)</li>
     </ol>
 

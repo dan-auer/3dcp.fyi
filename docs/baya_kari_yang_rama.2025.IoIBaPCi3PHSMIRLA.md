@@ -74,8 +74,11 @@ Journal Article - Journal of Building Engineering, No. 112183
       <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/mcgee_wesley"><b>McGee</b> Wesley</a>, <a href="../../../author/ng_yan_tsz"><b>Ng</b> Tsz</a>, <a href="../../../author/zhu_he"><b>Zhu</b> He</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../yu_mcge_ng_zhu.2021.3PECC/">3D Printable Engineered Cementitious Composites:<br/>Fresh and Hardened Properties</a></li>
       <li><a href="../../../author/zareiyan_babak"><b>Zareiyan</b> Babak</a>, <a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> <a href="../../../date/2017/08">(2017-08)</a><br><a href="../../../zare_khos.2017.EoIoILAaSoSi3PoC/">Effects of Interlocking on Inter-Layer Adhesion and Strength of Structures in 3D Printing of Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_li_gong_wang.2026.TaMPo3PLHGMAC/">Thermal and Mechanical Properties of 3D Printed Lightweight Hollow Glass Microsphere Aggregate Concrete</a></li>
+      <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a>, <a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a>, <a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a>, <a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_wang_li_yang.2026.RPaMftCoLEoEB3PC/">Recent Progress and Methodology for the Characterization of Layer-Effects of Extrusion-Based 3D-Printed Concrete</a></li>
+      <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a>, <a href="../../../author/sheikh_mazhar_taimur"><b>Sheikh</b> Taimur</a>, <a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yuan_zia_shei_irfa.2026.EIBSo3PCTMDbMoISBA/">Enhancing Interlayer Bond Strength of 3D-Printed Concrete Through Microstructural Densification by Means of Incorporating Sugarcane Bagasse Ash</a></li>
     </ol>
 </div>
 

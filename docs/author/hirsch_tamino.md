@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 29
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorn_hirs_step.2019.SotIoAotHoPCaTAi3P/">Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing</a> (17)</li>
+        <li><a href="../../../author/dorn_tobias"><b>Dorn</b> Tobias</a>, <a href="../../../author/hirsch_tamino"><b>Hirsch</b> Tamino</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../dorn_hirs_step.2019.SotIoAotHoPCaTAi3P/">Study on the Influence of Accelerators on the Hydration of Portland Cement and Their Applicability in 3D Printing</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

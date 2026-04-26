@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../mark_cord_mech.2023.EoCPi3PCE/">Evolution of Capillary Pressure in 3D Printed Concrete Elements:<br/>Numerical Modelling and Experimental Validation</a> (5)</li>
+        <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a>, <a href="../../../author/cordova_a-l_julian"><b>Cordova</b> Julian</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mark_cord_comb_mech.2024.DBo3PCEIbPS/">Deformation Behavior of 3D Printed Concrete Elements Induced by Plastic Shrinkage</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/markin_viacheslav_slava"><b>Markin</b> Slava</a> (2)</li>
-        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (2)</li>
-        <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a> (2)</li>
-        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (2)</li>
-        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
+        <li><a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> (2)</li>
+        <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a> (2)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (2)</li>
     </ol>
 
 </div>

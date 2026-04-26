@@ -25,7 +25,7 @@ search:
     : 13
 
     Number Citations
-    : 147
+    : 158
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (13)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (13)</li>
+        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (12)</li>
         <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (11)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (11)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
-        <li><a href="../../../author/versteege_jelle"><b>Versteege</b> Jelle</a> (10)</li>
     </ol>
 
 </div>

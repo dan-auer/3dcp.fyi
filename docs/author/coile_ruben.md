@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 82
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a> (82)</li>
+        <li><a href="../../../author/ooms_ticho"><b>Ooms</b> Ticho</a>, <a href="../../../author/vantyghem_gieljan"><b>Vantyghem</b> Gieljan</a>, <a href="../../../author/coile_ruben"><b>Coile</b> Ruben</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../ooms_vant_coil_cort.2021.APMSftNSo3CPwCG/">A Parametric Modelling-Strategy for the Numerical Simulation of 3D Concrete Printing with Complex Geometries</a> (88)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,8 +50,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (5)</li>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (5)</li>
-        <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (4)</li>
         <li><a href="../../../author/chang_ze"><b>Chang</b> Ze</a> (4)</li>
         <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (4)</li>
         <li><a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a> (4)</li>

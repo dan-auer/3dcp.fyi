@@ -25,7 +25,7 @@ search:
     : 14
 
     Number Citations
-    : 190
+    : 198
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a> (57)</li>
+        <li><a href="../../../author/breseghello_luca"><b>Breseghello</b> Luca</a>, <a href="../../../author/naboni_roberto"><b>Naboni</b> Roberto</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../bres_nabo.2022.TPBDf3CPoCEAS/">Tool-Path -Based Design for 3D Concrete Printing of Carbon-Efficient Architectural Structures</a> (60)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (11)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (10)</li>
         <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (9)</li>
-        <li><a href="../../../author/silfwerbrand_johan"><b>Silfwerbrand</b> Johan</a> (9)</li>
-        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (9)</li>
+        <li><a href="../../../author/vargas_hernandez_jose"><b>Vargas</b> José</a> (9)</li>
+        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (7)</li>
+        <li><a href="../../../author/westerlind_helena"><b>Westerlind</b> Helena</a> (7)</li>
     </ol>
 
 </div>

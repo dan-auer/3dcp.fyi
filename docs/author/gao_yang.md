@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_gao_chen_jiao.2024.3PCTfaRP/">3D Printing Concrete Technology from a Rheology Perspective:<br/>A Review</a> (7)</li>
+        <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a>, <a href="../../../author/gao_yang"><b>Gao</b> Yang</a>, <a href="../../../author/chen_hui"><b>Chen</b> Hui</a>, <a href="../../../author/jiao_huazhe"><b>Jiao</b> Huazhe</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../yang_gao_chen_jiao.2024.3PCTfaRP/">3D Printing Concrete Technology from a Rheology Perspective:<br/>A Review</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
         <li><a href="../../../author/hebda_marek"><b>Hebda</b> Marek</a> (2)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
         <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (2)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/suphunsaeng_kantawich"><b>Suphunsaeng</b> Kantawich</a> (1)</li>
     </ol>
 
 </div>

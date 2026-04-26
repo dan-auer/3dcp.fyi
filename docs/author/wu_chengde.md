@@ -19,10 +19,10 @@ search:
     : 2024-05-23
     
     Last Contribution
-    : 2024-05-23
+    : 2026-03-20
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
     : 0
@@ -33,6 +33,7 @@ search:
         <li><a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a> (1)</li>
         <li><a href="../../../author/ghaderi_ehsan"><b>Ghaderi</b> Ehsan</a> (1)</li>
         <li><a href="../../../author/senske_nick"><b>Senske</b> Nick</a> (1)</li>
+        <li><a href="../../../author/sitong_wang"><b>Sitong</b> Wang</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -59,6 +60,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sitong_wang"><b>Sitong</b> Wang</a>, <a href="../../../author/wu_chengde"><b>Wu</b> Chengde</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../sito_wu.2026.BI3CPfCS/">Biochar-Infused 3D Concrete Printing for Carbon Sequestration</a></li>
   <li><a href="../../../author/ghaderi_ehsan"><b>Ghaderi</b> Ehsan</a>, <a href="../../../author/evans_pete"><b>Evans</b> Pete</a>, <a href="../../../author/doyle_elizabeth_shelby"><b>Doyle</b> Shelby</a>, <a href="../../../author/senske_nick"><b>Senske</b> Nick</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../ghad_evan_doyl_sens.2024.HBo3CPWA/">Hygrothermal Behavior of 3D Concrete Printed Wall Assemblies</a></li>
   <li><a href="../../../author/wu_chengde"><b>Wu</b> Chengde</a>, <a href="../../../author/evans_pete"><b>Evans</b> Pete</a> <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../wu_evan.2024.AISfI3CPP/">An Integrated System for Improving 3D Concrete Printing Process</a></li>
 </ol>

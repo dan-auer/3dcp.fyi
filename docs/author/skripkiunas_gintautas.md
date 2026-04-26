@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/pietras_daniel"><b>Pietras</b> Daniel</a> (2)</li>
         <li><a href="../../../author/sadowski_tomasz"><b>Sadowski</b> Tomasz</a> (2)</li>
         <li><a href="../../../author/zbyszynski_wojciech"><b>Zbyszyński</b> Wojciech</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/hurtig_karel"><b>Hurtig</b> Karel</a> (1)</li>
-        <li><a href="../../../author/poologanathan_keerthan"><b>Poologanathan</b> Keerthan</a> (1)</li>
     </ol>
 
 </div>

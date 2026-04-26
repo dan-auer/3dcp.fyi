@@ -78,8 +78,9 @@ Journal Article - Materials, Vol. 17, Iss. 22
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/she_wei"><b>She</b> Wei</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2019/01">(2019-01)</a><br><a href="../../../zhan_zhan_she_yang.2019.RaHPotHT3PC/">Rheological and Hardened Properties of the High-Thixotropy 3D Printing Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cziraki_balint"><b>Cziráki</b> Bálint</a>, <a href="../../../author/kaman_andras"><b>Kámán</b> András</a>, <a href="../../../author/boros_adrienn"><b>Boros</b> Adrienn</a>, <a href="../../../author/korim_tamas"><b>Korim</b> Tamás</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../czir_kama_boro_kori.2026.DaIoaCPM/">Design and Implementation of a Composite Printing Machine</a></li>
       <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a>, <a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a>, <a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a>, <a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../tush_hasa_hasa_mawa.2026.FAFaRBo3PC/">Factors Affecting Flowability and Rheological Behavior of 3D Printed Concrete:<br/>A Comprehensive Review</a></li>
     </ol>
 </div>

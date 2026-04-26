@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 390
+    : 409
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a> (212)</li>
+        <li><a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/zhou_zhenxin"><b>Zhou</b> Zhenxin</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhu_pan_nema_zhou.2019.Do3PECCwUHTDfDC/">Development of 3D Printable Engineered Cementitious Composites with Ultra-High Tensile Ductility for Digital Construction</a> (217)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (22)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (20)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (19)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (19)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (19)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (16)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (17)</li>
     </ol>
 
 </div>

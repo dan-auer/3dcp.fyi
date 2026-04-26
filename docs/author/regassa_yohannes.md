@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a> (0)</li>
+        <li><a href="../../../author/agegn_ajahunegn_adamu"><b>Agegn</b> Adamu</a>, <a href="../../../author/regassa_yohannes"><b>Regassa</b> Yohannes</a>, <a href="../../../author/angassa_kenatu"><b>Angassa</b> Kenatu</a>, <a href="../../../author/mekonnen_nigussie_kebede"><b>Mekonnen</b> Kebede</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../ageg_rega_anga_meko.2026.SRo3CPT/">Systematic Review on 3D Concrete Printing Technology:<br/>Breakthroughs and Challenges</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/guo_zhenbang"><b>Guo</b> Zhenbang</a> (1)</li>
+        <li><a href="../../../author/jiao_dengwu"><b>Jiao</b> Dengwu</a> (1)</li>
+        <li><a href="../../../author/kiriparan_balrajh"><b>Kiriparan</b> Balrajh</a> (1)</li>
+        <li><a href="../../../author/liu_xin"><b>Liu</b> Xin</a> (1)</li>
+        <li><a href="../../../author/xiong_rui"><b>Xiong</b> Rui</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_dinglue"><b>Wu</b> Dinglue</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zhang_shunxian"><b>Zhang</b> Shunxian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wu_luo_long_zhan.2024.AC3PwPILBS/">Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength:<br/>A Stacking Model Paradigm</a> (5)</li>
+        <li><a href="../../../author/wu_dinglue"><b>Wu</b> Dinglue</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a>, <a href="../../../author/zhang_shunxian"><b>Zhang</b> Shunxian</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../wu_luo_long_zhan.2024.AC3PwPILBS/">Advancing Construction 3D Printing with Predictive Inter-Layer Bonding Strength:<br/>A Stacking Model Paradigm</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,8 +53,8 @@ search:
     <ol>
         <li><a href="../../../author/abid_ali_khasim"><b>Abid</b> Khasim</a> (2)</li>
         <li><a href="../../../author/khan_majid"><b>Khan</b> Majid</a> (2)</li>
+        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (2)</li>
         <li><a href="../../../author/syed_ahmed_sajid"><b>Syed</b> Sajid</a> (2)</li>
-        <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
         <li><a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/licen_jurij"><b>Licen</b> Jurij</a>, <a href="../../../author/chen_taole"><b>Chen</b> Taole</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lice_chen.2024.UoGOAitDo3CPSS/">Use of Genetic Optimization-Algorithms in the Design of 3D Concrete Printed Shell-Structures</a> (1)</li>
+        <li><a href="../../../author/licen_jurij"><b>Licen</b> Jurij</a>, <a href="../../../author/chen_taole"><b>Chen</b> Taole</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../lice_chen.2024.UoGOAitDo3CPSS/">Use of Genetic Optimization-Algorithms in the Design of 3D Concrete Printed Shell-Structures</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,6 +50,9 @@ search:
     <ol>
         <li><a href="../../../author/carmo_martinez-andressa_pena"><b>Carmo</b> Pena</a> (1)</li>
         <li><a href="../../../author/lopes-de-aquino-brasil_alexander"><b>Lopes de Aquino Brasil</b> Alexander</a> (1)</li>
+        <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a> (1)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (1)</li>
     </ol>
 
 </div>

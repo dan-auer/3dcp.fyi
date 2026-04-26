@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>, <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_bish_sing_pani.2024.DAaDoaGRfML3CPwSaEV/">Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation</a> (3)</li>
+        <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a>, <a href="../../../author/bisht_singh_ravindra"><b>Bisht</b> Ravindra</a>, <a href="../../../author/singh_siddharth"><b>Singh</b> Siddharth</a>, <a href="../../../author/panigrahi_kumar_soraj"><b>Panigrahi</b> Soraj</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_bish_sing_pani.2024.DAaDoaGRfML3CPwSaEV/">Design-Analysis and Development of a Gantry Robot for Multi-Layer 3D Concrete Printing with Simulation and Experimental Validation</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
         <li><a href="../../../author/sahai_rajan"><b>Sahai</b> Rajan</a> (1)</li>
         <li><a href="../../../author/tyliszczak_bozena"><b>Tyliszczak</b> Bożena</a> (1)</li>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (1)</li>
     </ol>
 
 </div>

@@ -24,7 +24,7 @@ tags:
 <a href="https://doi.org/10.3390/buildings15010055" title="Open Access - Click to Download" target="_blank">:aca-openaccess:{ .xgreen .lg .middle}</a>
  <a href="https://doi.org/10.3390/buildings15010055" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.3390/buildings15010055" target="_blank">10.3390/buildings15010055</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-7719-1867" title="ORCID: 0000-0002-7719-1867" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/vargas_armando"><b>Vargas</b>&nbsp;Armando</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1687-2885" title="ORCID: 0000-0003-1687-2885" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b>&nbsp;Rafael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-5404-2738" title="ORCID: 0000-0002-5404-2738" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gutierrez_mejia_ruby"><b>de&nbsp;Gutiérrez</b>&nbsp;Ruby</a></span><br>
 Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
 
 <a href="../../keyword/aggregate"><button class="btn">#aggregate</button></a> <a href="../../keyword/cement"><button class="btn">#cement</button></a> <a href="../../keyword/control"><button class="btn">#control</button></a> <a href="../../keyword/crack"><button class="btn">#crack</button></a> <a href="../../keyword/effect"><button class="btn">#effect</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/fine"><button class="btn">#fine</button></a> <a href="../../keyword/incorporation"><button class="btn">#incorporation</button></a> <a href="../../keyword/micro"><button class="btn">#micro</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -69,8 +69,9 @@ Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
       <li><a href="../../../author/vlieger_jentel"><b>Vlieger</b> Jentel</a>, <a href="../../../author/boehme_luc"><b>Boehme</b> Luc</a>, <a href="../../../author/blaakmeer_jan"><b>Blaakmeer</b> Jan</a>, <a href="../../../author/li_jiabin"><b>Li</b> Jiabin</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../vlie_boeh_blaa_li.2023.BAoMwFRAf3P/">Buildability-Assessment of Mortar with Fine Recycled Aggregates for 3D Printing</a></li>
       <li><a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a> et al. <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../zou_xiao_duan_ding.2021.ORoMwRFAf3P/">On Rheology of Mortar with Recycled Fine Aggregate for 3D Printing</a></li>
     </ol>
-???+ bug "3 Citations"
+???+ bug "4 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhou_wenjuan"><b>Zhou</b> Wenjuan</a>, <a href="../../../author/yang_can"><b>Yang</b> Can</a>, <a href="../../../author/he_xiao"><b>He</b> Xiao</a>, <a href="../../../author/zhou_mingli"><b>Zhou</b> Mingli</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhou_yang_he_zhou.2026.S3PMwCRS/">Sustainably 3D-Printing Mortar with Construction Residue Sand:<br/>Printability, Mechanical Properties, and Microstructural Mechanisms</a></li>
       <li><a href="../../../author/abbas_m_yassir"><b>Abbas</b> Yassir</a>, <a href="../../../author/alsaif_abdulaziz"><b>Alsaif</b> Abdulaziz</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../abba_alsa.2025.EDDMfOMDo3PC/">Explainable Data-Driven Modeling for Optimized Mix Design of 3D-Printed Concrete:<br/>Interpreting Nonlinear Synergies Among Binder Components and Proportions</a></li>
       <li><a href="../../../author/delavar_reza_mohammad"><b>Delavar</b> Mohammad</a>, <a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a>, <a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../dela_asla_serc.2025.CBi3CPFRCC/">Cracking Behaviour in 3D Concrete Printed Fiber-Reinforced Cementitious Composites:<br/>A Review</a></li>
       <li><a href="../../../author/gerges_isabelle"><b>Gerges</b> Isabelle</a>, <a href="../../../author/farraj_abi_faten"><b>Farraj</b> Faten</a>, <a href="../../../author/youssef_nicolas"><b>Youssef</b> Nicolas</a>, <a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../gerg_farr_yous_antc.2025.MtDO3PMM/">Methodologies to Design Optimum 3D Printable Mortar Mix:<br/>A Review</a></li>
@@ -83,7 +84,7 @@ Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
 
     ```bibtex
     @article{varg_roba_guti.2025.EoIFAaPMFotCCo3PCM,
-      author            = "Armando Vargas and Rafael Robayo-Salazar and Ruby Mejía de Gutiérrez",
+      author            = "Armando Vargas and Rafael Andres Robayo-Salazar and Ruby Mejía de Gutiérrez",
       title             = "Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures",
       doi               = "10.3390/buildings15010055",
       year              = "2025",
@@ -100,10 +101,10 @@ Journal Article - Buildings, Vol. 15, Iss. 1, No. 55
 
     === "IEEE"
 
-    <span id="iee">A. Vargas, R. Robayo-Salazar and R. M. de Gutiérrez, “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”, <i>Buildings</i>, vol. 15, no. 1, p. 55, 2025, doi: 10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. Vargas, R. A. Robayo-Salazar and R. M. de Gutiérrez, “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”, <i>Buildings</i>, vol. 15, no. 1, p. 55, 2025, doi: 10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Vargas, Armando, Rafael Robayo-Salazar, and Ruby Mejía de Gutiérrez. “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”. <i>Buildings</i> 15, no. 1 (2025): 55. https://doi.org/10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Vargas, Armando, Rafael Andres Robayo-Salazar, and Ruby Mejía de Gutiérrez. “Effects of Incorporating Fine Aggregates and Polypropylene-Micro-Fibers on the Cracking-Control of 3D Printed Cementitious Mixtures”. <i>Buildings</i> 15, no. 1 (2025): 55. https://doi.org/10.3390/buildings15010055.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

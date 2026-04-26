@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,7 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (1)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (1)</li>
+        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> (1)</li>
     </ol>
 
 </div>

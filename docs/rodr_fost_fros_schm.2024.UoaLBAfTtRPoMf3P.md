@@ -48,8 +48,9 @@ Contribution - Proceedings of the 4th RILEM International Conference on Concrete
     <ol class = "bordered-list">
       <li><a href="../../../author/roux_charlotte"><b>Roux</b> Charlotte</a>, <a href="../../../author/kuzmenko_kateryna"><b>Kuzmenko</b> Kateryna</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../roux_kuzm_rous_mesn.2022.LCAoaC3PP/">Life Cycle Assessment of a Concrete 3D Printing Process</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/baccaro_arianna"><b>Baccaro</b> Arianna</a>, <a href="../../../author/cala_adriana"><b>Calà</b> Adriana</a>, <a href="../../../author/famoso_martina"><b>Famoso</b> Martina</a>, <a href="../../../author/santoro_enza"><b>Santoro</b> Enza</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../bacc_cala_famo_sant.2026.3PwRM/">3D Printing with Recycled Materials:<br/>A Review on the Viability of Bio-Waste and Stone Waste in Construction Applications</a></li>
     </ol>
 </div>
 

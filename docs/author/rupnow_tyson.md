@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a> (2)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
-        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (1)</li>
-        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
         <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (1)</li>
     </ol>

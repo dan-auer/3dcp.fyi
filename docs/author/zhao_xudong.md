@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 17
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../dong_jia_jia_rao.2024.MFAi3PUHPCBoST/">Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory</a> (13)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/rao_suduan"><b>Rao</b> Suduan</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../dong_jia_jia_rao.2024.MFAi3PUHPCBoST/">Modeling Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete Based on Stereology-Theory</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (4)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (4)</li>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (3)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (3)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (7)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (6)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (5)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (4)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (4)</li>
     </ol>
 
 </div>

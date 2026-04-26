@@ -19,13 +19,13 @@ search:
     : 2022-02-17
     
     Last Contribution
-    : 2025-04-21
+    : 2026-04-13
 
     Number Contributions
-    : 10
+    : 11
 
     Number Citations
-    : 138
+    : 152
 
 !!! success "Top Co-Authors"
     <ol>
@@ -33,21 +33,21 @@ search:
         <li><a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a> (7)</li>
         <li><a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> (3)</li>
         <li><a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a> (2)</li>
-        <li><a href="../../../author/huang_mingyang"><b>Huang</b> Mingyang</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a> (41)</li>
+        <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../cao_yu_cui_li.2022.3PDaRTfECBM/">3D Printing Devices and Reinforcing Techniques for Extruded Cement-Based Materials:<br/>A Review</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (50)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (35)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (34)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (31)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (30)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (38)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (36)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (32)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/guo_hongyuan"><b>Guo</b> Hongyuan</a>, <a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/lyu_mengze"><b>Lyu</b> Mengze</a>, <a href="../../../author/bao_xiaohua"><b>Bao</b> Xiaohua</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../guo_chen_lyu_bao.2026.PaGSAf3CP/">Probabilistic and Global Sensitivity Analysis for 3D Concrete Printing:<br/>A Point-Evolution and Fréchet-Derivative Framework</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../cao_cui.2025.SFNPTtR3PC/">Simple Floor Nail Placement Technique to Reinforce 3D-Printed Concrete:<br/>An Experimental Investigation</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/wu_shuoli"><b>Wu</b> Shuoli</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../cao_wu_cui.2025.ESoISMFfR3PC/">Experimental Study on In-Situ Mesh Fabrication for Reinforcing 3D Printed Concrete</a></li>
   <li><a href="../../../author/cao_xiangpeng"><b>Cao</b> Xiangpeng</a>, <a href="../../../author/yu_shiheng"><b>Yu</b> Shiheng</a>, <a href="../../../author/cui_hongzhi"><b>Cui</b> Hongzhi</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../cao_yu_cui.2023.ESotISRSTtR3PCiVD/">Experimental Study of the In-Situ Rebar-Splicing-Technique to Reinforce 3D Printed Concrete in Vertical Directions</a></li>

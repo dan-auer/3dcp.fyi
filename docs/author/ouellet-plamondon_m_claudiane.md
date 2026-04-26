@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 53
+    : 58
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../serg_ouel.2022.DODoEAt3HPCPMD/">D-Optimal Design of Experiments Applied to 3D High-Performance Concrete Printing Mix-Design</a> (18)</li>
+        <li><a href="../../../author/sergis_vasileios"><b>Sergis</b> Vasileios</a>, <a href="../../../author/ouellet-plamondon_m_claudiane"><b>Ouellet-Plamondon</b> Claudiane</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../serg_ouel.2022.DODoEAt3HPCPMD/">D-Optimal Design of Experiments Applied to 3D High-Performance Concrete Printing Mix-Design</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

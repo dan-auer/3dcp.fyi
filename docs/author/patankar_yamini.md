@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/patankar_yamini"><b>Patankar</b> Yamini</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_pata_flat.2024.SDC/">Sustainable Digital Concrete:<br/>Myth, Reality or Emerging Opportunity?</a> (2)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/patankar_yamini"><b>Patankar</b> Yamini</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../wang_pata_flat.2024.SDC/">Sustainable Digital Concrete:<br/>Myth, Reality or Emerging Opportunity?</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
         <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (2)</li>
         <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (2)</li>
         <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (2)</li>
-        <li><a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a> (1)</li>
-        <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a> (1)</li>
+        <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a> (1)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
     </ol>
 
 </div>

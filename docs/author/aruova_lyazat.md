@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a> (1)</li>
+        <li><a href="../../../author/aldabergenova_gaziza"><b>Aldabergenova</b> Gaziza</a>, <a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a>, <a href="../../../author/konkanov_marat"><b>Konkanov</b> Marat</a>, <a href="../../../author/kirgizbayev_akpan"><b>Kirgizbayev</b> Akpan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../alda_jexe_konk_kirg.2024.TEWBFGFCf3P/">The Efficient Waste-Based Fine-Grained Fiber Concretes for 3D Printing</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> (1)</li>
         <li><a href="../../../author/alawi_khamis_mubarak"><b>Al Alawi</b> Mubarak</a> (1)</li>
-        <li><a href="../../../author/jabri_saif_khalifa"><b>Al Jabri</b> Khalifa</a> (1)</li>
-        <li><a href="../../../author/saidy_hilal_abdullah"><b>Al Saidy</b> Abdullah</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (1)</li>
         <li><a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> (1)</li>
     </ol>
 

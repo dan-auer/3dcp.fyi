@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a> (4)</li>
+        <li><a href="../../../author/barve_prasad"><b>Barve</b> Prasad</a>, <a href="../../../author/bahrami_alireza"><b>Bahrami</b> Alireza</a>, <a href="../../../author/shah_santosh"><b>Shah</b> Santosh</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC/">A Comprehensive Review on Effects of Material-Composition, Mix-Design, and Mixing-Regimes on Rheology of 3D Printed Geopolymer Concrete</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cha_soowon"><b>Cha</b> Soowon</a> (1)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
         <li><a href="../../../author/cho_eunsan"><b>Cho</b> Eunsan</a> (1)</li>
-        <li><a href="../../../author/gadek_szymon"><b>Gądek</b> Szymon</a> (1)</li>
-        <li><a href="../../../author/kim_mo_seung"><b>Kim</b> Seung</a> (1)</li>
-        <li><a href="../../../author/kumar_kishor"><b>Kumar</b> Kishor</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
+        <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a> (1)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
     </ol>
 
 </div>

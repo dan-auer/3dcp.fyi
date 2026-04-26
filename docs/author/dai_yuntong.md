@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 7
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wang_guosheng"><b>Wang</b> Guosheng</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a>, <a href="../../../author/xu_qinghu"><b>Xu</b> Qinghu</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_wang_zhou_xu.2024.PFR3PC/">Polyacrylonitrile-Fiber-Reinforced 3D Printed Concrete:<br/>Effects of Fiber Length and Content</a> (7)</li>
+        <li><a href="../../../author/ma_wei"><b>Ma</b> Wei</a>, <a href="../../../author/wang_guosheng"><b>Wang</b> Guosheng</a>, <a href="../../../author/zhou_yaya"><b>Zhou</b> Yaya</a>, <a href="../../../author/xu_qinghu"><b>Xu</b> Qinghu</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_wang_zhou_xu.2024.PFR3PC/">Polyacrylonitrile-Fiber-Reinforced 3D Printed Concrete:<br/>Effects of Fiber Length and Content</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/aboelhassan_gamal_mohamed"><b>Aboelhassan</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a> (1)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (1)</li>
         <li><a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a> (1)</li>
+        <li><a href="../../../author/zhang_ziyi"><b>Zhang</b> Ziyi</a> (1)</li>
         <li><a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a> (1)</li>
     </ol>
 

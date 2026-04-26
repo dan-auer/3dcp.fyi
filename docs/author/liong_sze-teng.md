@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_shih-yuan"><b>Wang</b> Shih-Yuan</a>, <a href="../../../author/liong_sze-teng"><b>Liong</b> Sze-Teng</a>, <a href="../../../author/gan_s_y"><b>Gan</b> Y.</a>, <a href="../../../author/sheng_yu-ting"><b>Sheng</b> Yu-Ting</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../wang_lion_gan_shen.2023.CECFfLISAS/">Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures</a> (4)</li>
+        <li><a href="../../../author/wang_shih-yuan"><b>Wang</b> Shih-Yuan</a>, <a href="../../../author/liong_sze-teng"><b>Liong</b> Sze-Teng</a>, <a href="../../../author/gan_s_y"><b>Gan</b> Y.</a>, <a href="../../../author/sheng_yu-ting"><b>Sheng</b> Yu-Ting</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../wang_lion_gan_shen.2023.CECFfLISAS/">Cost-Effective Concrete Fabrication for Large Irregularly Shaped Architectural Structures</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a> (1)</li>
         <li><a href="../../../author/li_muduo"><b>Li</b> Muduo</a> (1)</li>
         <li><a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> (1)</li>
         <li><a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
         <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>
     </ol>
 

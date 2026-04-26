@@ -45,8 +45,10 @@ Journal Article - Construction and Building Materials, Vol. 53, pp. 312-323
 ???+ example "0 References"
     <ol class = "bordered-list">
     </ol>
-???+ bug "72 Citations"
+???+ bug "74 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/saeedi_t_ahmed"><b>Saeedi</b> Ahmed</a>, <a href="../../../author/collery_david"><b>Collery</b> David</a>, <a href="../../../author/oflaherty_tomas"><b>O'Flaherty</b> Tomas</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../saee_coll_ofl.2026.TIoCAotPo3PC/">The Impact of Coarse Aggregates on the Performance of 3D-Printed Concrete:<br/>A Comprehensive Review</a></li>
+      <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a>, <a href="../../../author/ren_zhongyuan"><b>Ren</b> Zhongyuan</a>, <a href="../../../author/liu_jiarui"><b>Liu</b> Jiarui</a>, <a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sun_ren_liu_ong.2026.RPaFTo3PC/">Rheology Properties and Future Trend of 3D Printing Concrete:<br/>State of the Art Review</a></li>
       <li><a href="../../../author/dubey_kumar_pratik"><b>Dubey</b> Pratik</a>, <a href="../../../author/maurya_chandra_madan"><b>Maurya</b> Madan</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dube_maur.2026.ACRo3PiC/">A Comprehensive Review of 3D Printing in Construction:<br/>Technology, Materials, and Digital Workflow</a></li>
       <li><a href="../../../author/si_wen"><b>Si</b> Wen</a>, <a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a>, <a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../si_khan_mcna.2025.ROaMPAoHVGSFMf3P/">Rheological Optimization and Mechanical Performance Assessment of High-Volume GGBS-Silica Fume Mortars for 3D Printing</a></li>
       <li><a href="../../../author/tang_jiyu"><b>Tang</b> Jiyu</a>, <a href="../../../author/wang_zhihang"><b>Wang</b> Zhihang</a>, <a href="../../../author/gao_danying"><b>Gao</b> Danying</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_wang_gao_yang.2025.RPo3PGC/">Research Progress on 3D Printed Geopolymer Concrete</a></li>

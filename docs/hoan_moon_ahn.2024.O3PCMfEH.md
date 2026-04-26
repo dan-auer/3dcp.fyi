@@ -22,7 +22,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1061/9780784485736.002" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/9780784485736.002" target="_blank">10.1061/9780784485736.002</a>
 
-<a href="../../../author/hoang_duy_pham"><b>Hoang</b>&nbsp;Pham</a></span>, <a href="../../../author/moon_hyosoo"><b>Moon</b>&nbsp;Hyosoo</a></span>, <a href="../../../author/ahn_yonghan"><b>Ahn</b>&nbsp;Yonghan</a></span><br>
+<a href="../../../author/hoang_duy_pham"><b>Hoang</b>&nbsp;Pham</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-6555-3181" title="ORCID: 0000-0001-6555-3181" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/moon_hyosoo"><b>Moon</b>&nbsp;Hyosoo</a></span>, <a href="../../../author/ahn_yonghan"><b>Ahn</b>&nbsp;Yonghan</a></span><br>
 Contribution - Earth and Space 2024
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/framework"><button class="btn">#framework</button></a> <a href="../../keyword/habitat"><button class="btn">#habitat</button></a> <a href="../../keyword/learn"><button class="btn">#learn</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/mixture"><button class="btn">#mixture</button></a> <a href="../../keyword/optimization"><button class="btn">#optimization</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -54,7 +54,7 @@ Contribution - Earth and Space 2024
     </ol>
 ???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
-      <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
+      <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
     </ol>
 </div>
 

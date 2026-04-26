@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
         <li><a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a> (1)</li>
         <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (1)</li>
-        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (1)</li>
         <li><a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a> (1)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (1)</li>
     </ol>

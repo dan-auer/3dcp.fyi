@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a> (4)</li>
+        <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a>, <a href="../../../author/junjie_zhang"><b>Junjie</b> Zhang</a>, <a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a>, <a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI/">Comprehensive Study on the Microstructural and Mechanical Performance of 3D-Printed Engineered Cementitious Composites with Yellow River Sand Integration</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ali_basit_syed"><b>Ali</b> Syed</a> (1)</li>
-        <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> (1)</li>
+        <li><a href="../../../author/ali_basit_syed"><b>Ali</b> Syed</a> (2)</li>
+        <li><a href="../../../author/ali_faizan_muhammad"><b>Ali</b> Muhammad</a> (2)</li>
+        <li><a href="../../../author/qian_hui"><b>Qian</b> Hui</a> (2)</li>
+        <li><a href="../../../author/umar_muhammad"><b>Umar</b> Muhammad</a> (2)</li>
         <li><a href="../../../author/chenglong_yang"><b>Chenglong</b> Yang</a> (1)</li>
-        <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a> (1)</li>
-        <li><a href="../../../author/sercombe_tim"><b>Sercombe</b> Tim</a> (1)</li>
     </ol>
 
 </div>

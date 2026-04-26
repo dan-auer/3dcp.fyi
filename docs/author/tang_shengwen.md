@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../che_tang_yang_li.2021.IoAVotPo3PCM/">Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials</a> (6)</li>
+        <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a>, <a href="../../../author/tang_shengwen"><b>Tang</b> Shengwen</a>, <a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../che_tang_yang_li.2021.IoAVotPo3PCM/">Influences of Air-Voids on the Performance of 3D Printing Cementitious Materials</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
         <li><a href="../../../author/che_yujun"><b>Che</b> Yujun</a> (2)</li>
         <li><a href="../../../author/makul_natt"><b>Makul</b> Natt</a> (2)</li>
         <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a> (2)</li>
-        <li><a href="../../../author/ameri_riyadh"><b>al Ameri</b> Riyadh</a> (1)</li>
-        <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> (1)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
+        <li><a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a> (1)</li>
     </ol>
 
 </div>

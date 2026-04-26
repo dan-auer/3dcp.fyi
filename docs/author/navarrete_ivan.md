@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 20
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kamakshi_a_tippabhotla"><b>Kamakshi</b> Tippabhotla</a> (2)</li>
-        <li><a href="../../../author/kulkarni_omkar"><b>Kulkarni</b> Omkar</a> (2)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (3)</li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (2)</li>
+        <li><a href="../../../author/jamhiri_babak"><b>Jamhiri</b> Babak</a> (2)</li>
         <li><a href="../../../author/teng_fei"><b>Teng</b> Fei</a> (2)</li>
-        <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (2)</li>
         <li><a href="../../../author/yang_minxin"><b>Yang</b> Minxin</a> (2)</li>
     </ol>
 

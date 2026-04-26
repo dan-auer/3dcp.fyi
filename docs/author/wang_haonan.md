@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/guo_pei"><b>Guo</b> Pei</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../liu_guo_wang_zhan.2025.SB3PCEWAM/">Spray-Based 3D Printed Cementitious Electromagnetic Wave Absorption Materials:<br/>Optimization with Structures Design</a> (3)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a>, <a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sun_wang_zhan_liu.2025.SB3PFC/">Spray-Based 3D Printed Foam Concrete:<br/>Stress Concentration Relieve Utilization</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (5)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (5)</li>
         <li><a href="../../../author/feng_tianwei"><b>Feng</b> Tianwei</a> (4)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (4)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (4)</li>
         <li><a href="../../../author/yang_xiaojie"><b>Yang</b> Xiaojie</a> (2)</li>
     </ol>
 

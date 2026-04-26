@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>, <a href="../../../author/li_fei"><b>Li</b> Fei</a>, <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>, <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_li_lu_xu.2025.SotPCoa3PSftPoPO/">Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization</a> (1)</li>
+        <li><a href="../../../author/yang_shuai"><b>Yang</b> Shuai</a>, <a href="../../../author/li_fei"><b>Li</b> Fei</a>, <a href="../../../author/lu_ya"><b>Lu</b> Ya</a>, <a href="../../../author/xu_xiaoming"><b>Xu</b> Xiaoming</a> et al. <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yang_li_lu_xu.2025.SotPCoa3PSftPoPO/">Study of the Printing Characteristics of a 3D Printing Solution for the Purpose of Process Optimization</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
-        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (1)</li>
-        <li><a href="../../../author/hasan_mehedi"><b>Hasan</b> Mehedi</a> (1)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
-        <li><a href="../../../author/tushar_hoque_fazlul"><b>Tushar</b> Fazlul</a> (1)</li>
+        <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> (1)</li>
+        <li><a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> (1)</li>
     </ol>
 
 </div>

@@ -19,40 +19,44 @@ search:
     : 2025-06-09
     
     Last Contribution
-    : 2025-06-09
+    : 2026-04-08
 
     Number Contributions
-    : 1
+    : 4
 
     Number Citations
-    : 0
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (1)</li>
-        <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (1)</li>
-        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (1)</li>
-        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (1)</li>
-        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (1)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (4)</li>
+        <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> (4)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (3)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (2)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a> (0)</li>
+        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (7)</li>
-        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> (5)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (5)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (4)</li>
-        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (3)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (21)</li>
+        <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a> (15)</li>
+        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (9)</li>
+        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (8)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/arya_sampurna"><b>Arya</b> Sampurna</a> (1)</li>
+        <li><a href="../../../author/hu_kui"><b>Hu</b> Kui</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
+        <li><a href="../../../author/wang_jun"><b>Wang</b> Jun</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>
@@ -60,5 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/sun_yuting"><b>Sun</b> Yuting</a>, <a href="../../../author/du_qianyi"><b>Du</b> Qianyi</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../lyu_luo_sun_du.2026.IESoDCCCSSFvME3P/">Improved Energy Storage of Dual-Concrete Composite Cavity-Structure Supercapacitor Fabricated via Mortar-Extrusion 3D Printing</a></li>
+  <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/gao_lanqi"><b>Gao</b> Lanqi</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO/">Structural and Functional Performance of 3D-Printed Light-Transmitting Foamed Concrete with Different Cavity Geometries and Fiber Orientations</a></li>
+  <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/sun_yuting"><b>Sun</b> Yuting</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a>, <a href="../../../author/du_qianyu"><b>Du</b> Qianyu</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../luo_sun_mbab_du.2026.3PCSSwPKEPME/">3D-Printed Concrete Structural Supercapacitor with PVA-KOH Enhanced Polymer Mortar Electrolyte</a></li>
   <li><a href="../../../author/dai_pengfei"><b>Dai</b> Pengfei</a>, <a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a>, <a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a>, <a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../dai_luo_wang_mbab.2025.WPFRCCSMbME3P/">Waste Plastic Fiber Reinforced Cementitious Cavity Structures Manufactured by Mortar Extrusion 3D Printing</a></li>
 </ol>

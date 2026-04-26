@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 124
+    : 137
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a> (53)</li>
+        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a>, <a href="../../../author/feng_xiwen"><b>Feng</b> Xiwen</a> <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../sun_xiao_li_feng.2021.ESotTPoa3PCPB/">Experimental Study on the Thermal Performance of a 3D Printed Concrete Prototype Building</a> (55)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> (10)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (8)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (8)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (8)</li>
         <li><a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> (6)</li>
-        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (4)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (4)</li>
-        <li><a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> (4)</li>
     </ol>
 
 </div>

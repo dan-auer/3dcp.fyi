@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b> Cong-Mi</a>, <a href="../../../author/xie_hui-zhu"><b>Xie</b> Hui-Zhu</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_xiao_chen_xie.2023.AGFt3PM/">Adding Glass-Fibers to 3D Printable Mortar:<br/>Effects on Printability and Material-Anisotropy</a> (7)</li>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a>, <a href="../../../author/xiao_bofeng"><b>Xiao</b> Bofeng</a>, <a href="../../../author/cheng_cong-mi"><b>Cheng</b> Cong-Mi</a>, <a href="../../../author/xie_hui-zhu"><b>Xie</b> Hui-Zhu</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../li_xiao_chen_xie.2023.AGFt3PM/">Adding Glass-Fibers to 3D Printable Mortar:<br/>Effects on Printability and Material-Anisotropy</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (2)</li>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (3)</li>
         <li><a href="../../../author/luo_surong"><b>Luo</b> Surong</a> (2)</li>
         <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (2)</li>
         <li><a href="../../../author/luo_tao"><b>Luo</b> Tao</a> (1)</li>

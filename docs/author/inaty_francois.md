@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a> (10)</li>
+        <li><a href="../../../author/inaty_francois"><b>Inaty</b> Francois</a>, <a href="../../../author/baz_bilal"><b>Baz</b> Bilal</a>, <a href="../../../author/aouad_georges"><b>Aouad</b> Georges</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../inat_baz_aoua.2022.LTDAo3PC/">Long-Term Durability-Assessment of 3D Printed Concrete</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> (2)</li>
-        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (1)</li>
-        <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (1)</li>
-        <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a> (2)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (2)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (2)</li>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (2)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (2)</li>
     </ol>
 
 </div>

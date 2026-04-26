@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 44
+    : 50
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../saru_kesk_fele.2022.ACRoFSRPoEMDf3PA/">A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications</a> (39)</li>
+        <li><a href="../../../author/saruhan_vedat"><b>Saruhan</b> Vedat</a>, <a href="../../../author/keskinates_muhammer"><b>Keskinateş</b> Muhammer</a>, <a href="../../../author/felekoglu_burak"><b>Felekoğlu</b> Burak</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../saru_kesk_fele.2022.ACRoFSRPoEMDf3PA/">A Comprehensive Review on Fresh State Rheological Properties of Extrusion-Mortars Designed for 3D Printing Applications</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (3)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (3)</li>
         <li><a href="../../../author/gu_yucun"><b>Gu</b> Yucun</a> (2)</li>
-        <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (2)</li>
         <li><a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> (2)</li>
         <li><a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a> (2)</li>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (2)</li>
     </ol>
 
 </div>

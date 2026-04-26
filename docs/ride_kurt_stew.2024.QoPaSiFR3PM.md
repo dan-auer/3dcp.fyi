@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Rider Bo, Kurtis K., Stewart L.
+title: Rider Benjamin, Kurtis K., Stewart L.
 description:
 tags:
  - adsorption
@@ -25,7 +25,7 @@ tags:
 <div class="h1-like">Connecting Material-Composition and Structural Performance</div>
  <a href="https://doi.org/10.24355/dbbs.084-202408191006-0" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.24355/dbbs.084-202408191006-0" target="_blank">10.24355/dbbs.084-202408191006-0</a>
 
-<a href="../../../author/rider_bo"><b>Rider</b>&nbsp;Bo</a></span>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b>&nbsp;K.</a></span>, <a href="../../../author/stewart_k_l"><b>Stewart</b>&nbsp;L.</a></span><br>
+<a href="../../../author/rider_owen_benjamin"><b>Rider</b>&nbsp;Benjamin</a></span>, <a href="../../../author/kurtis_e_k"><b>Kurtis</b>&nbsp;K.</a></span>, <a href="../../../author/stewart_k_l"><b>Stewart</b>&nbsp;L.</a></span><br>
 Contribution - Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication
 
 <a href="../../keyword/adsorption"><button class="btn">#adsorption</button></a> <a href="../../keyword/composite"><button class="btn">#composite</button></a> <a href="../../keyword/connection"><button class="btn">#connection</button></a> <a href="../../keyword/fiber"><button class="btn">#fiber</button></a> <a href="../../keyword/material"><button class="btn">#material</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/performance"><button class="btn">#performance</button></a> <a href="../../keyword/porosity"><button class="btn">#porosity</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/quantification"><button class="btn">#quantification</button></a> <a href="../../keyword/reinforcement"><button class="btn">#reinforcement</button></a> <a href="../../keyword/structure"><button class="btn">#structure</button></a> 
@@ -72,7 +72,7 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
     ```bibtex
     @inproceedings{ride_kurt_stew.2024.QoPaSiFR3PM,
-      author            = "Bo Rider and K. E. Kurtis and L. K. Stewart",
+      author            = "Benjamin Owen Rider and K. E. Kurtis and L. K. Stewart",
       title             = "Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar: Connecting Material-Composition and Structural Performance",
       doi               = "10.24355/dbbs.084-202408191006-0",
       year              = "2024",
@@ -87,10 +87,10 @@ Contribution - Supplementary Proceedings of the 4th RILEM International Conferen
 
     === "IEEE"
 
-    <span id="iee">B. Rider, K. E. Kurtis and L. K. Stewart, “Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar: Connecting Material-Composition and Structural Performance”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408191006-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">B. O. Rider, K. E. Kurtis and L. K. Stewart, “Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar: Connecting Material-Composition and Structural Performance”, in <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>,  2024. doi: 10.24355/dbbs.084-202408191006-0.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Rider, Bo, K. E. Kurtis, and L. K. Stewart. “Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar: Connecting Material-Composition and Structural Performance”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408191006-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Rider, Benjamin Owen, K. E. Kurtis, and L. K. Stewart. “Quantification of Porosity and Sorptivity in Fiber-Reinforced 3D Printed Mortar: Connecting Material-Composition and Structural Performance”. In <i>Supplementary Proceedings of the 4th RILEM International Conference on Concrete and Digital Fabrication</i>, edited by Dirk Lowke, Niklas Freund, David Böhler, and Friedrich Herding, 2024. https://doi.org/10.24355/dbbs.084-202408191006-0.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

@@ -72,7 +72,7 @@ Contribution - Sustainable and Digital Building, pp. 103-113
       year              = "2023",
       pages             = "103--113",
       booktitle         = "Sustainable and Digital Building",
-      editor            = "Florindo Gaspar and Artur Mateus",
+      editor            = "Florindo José Mendes Gaspar and Artur Mateus",
     }
 
 
@@ -86,6 +86,6 @@ Contribution - Sustainable and Digital Building, pp. 103-113
 
     === "CMOS"
 
-    <span id="cmos">Simioni, Fernanda Cavatti, Bárbara Rangel, Nadine Lessa Figueredo Campos, and João Teixeira. “3D Printing for Construction: A Systematic Review of Its Sustainability”. In <i>Sustainable and Digital Building</i>, edited by Florindo Gaspar and Artur Mateus, 103–13, 2023. https://doi.org/10.1007/978-3-031-25795-7_8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Simioni, Fernanda Cavatti, Bárbara Rangel, Nadine Lessa Figueredo Campos, and João Teixeira. “3D Printing for Construction: A Systematic Review of Its Sustainability”. In <i>Sustainable and Digital Building</i>, edited by Florindo José Mendes Gaspar and Artur Mateus, 103–13, 2023. https://doi.org/10.1007/978-3-031-25795-7_8.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

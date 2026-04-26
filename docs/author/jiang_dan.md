@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 46
+    : 52
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a> (46)</li>
+        <li><a href="../../../author/zhou_yiyi"><b>Zhou</b> Yiyi</a>, <a href="../../../author/jiang_dan"><b>Jiang</b> Dan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../zhou_jian_shar_xie.2022.Eo3PCCbSF/">Enhancement of 3D Printed Cementitious Composite by Short Fibers:<br/>A Review</a> (52)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (6)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (7)</li>
+        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (3)</li>
+        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a> (3)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (3)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (3)</li>
-        <li><a href="../../../author/xu_chengji"><b>Xu</b> Chengji</a> (2)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
     </ol>
 
 </div>

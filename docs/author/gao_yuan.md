@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 73
+    : 77
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,7 +53,7 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (3)</li>
-        <li><a href="../../../author/block_philippe"><b>Block</b> Philippe</a> (3)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (3)</li>
         <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> (3)</li>
         <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a> (3)</li>
         <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (3)</li>

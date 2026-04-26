@@ -19,44 +19,44 @@ search:
     : 2021-10-06
     
     Last Contribution
-    : 2025-09-25
+    : 2026-02-26
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 145
+    : 175
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (9)</li>
-        <li><a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> (1)</li>
-        <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (1)</li>
-        <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a> (1)</li>
-        <li><a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> (1)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (10)</li>
+        <li><a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a> (2)</li>
+        <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a> (2)</li>
+        <li><a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> (2)</li>
+        <li><a href="../../../author/chen_jinbo"><b>Chen</b> Jinbo</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a> (73)</li>
+        <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a> (85)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (36)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (42)</li>
         <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (32)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (27)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (23)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (26)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (7)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (4)</li>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (4)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (4)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (6)</li>
+        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (5)</li>
+        <li><a href="../../../author/chandrasekaran_rajasekaran"><b>Chandrasekaran</b> Rajasekaran</a> (5)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (5)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/liu_jiaxu"><b>Liu</b> Jiaxu</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_zhan_xie_sanj.2026.OaSDoPaFiCEPbEB3P/">Orientation and Spatial Distribution of Pores and Fibers in Concrete Elements Produced by Extrusion-Based 3D Printing</a></li>
   <li><a href="../../../author/xie_xiangyu"><b>Xie</b> Xiangyu</a>, <a href="../../../author/liu_xuemei"><b>Liu</b> Xuemei</a>, <a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../xie_liu_zhan_zhan.2026.CERfCWSBi3PC/">Capillary Extrusion Rheometry for Characterising Wall Slip Behaviour in 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../zhan_sanj.2025.C3PaDFTfBC/">Concrete 3D Printing and Digital Fabrication Technologies for Bridge Construction</a></li>
   <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_sanj.2024.RMiOQNMTf3CP/">Rheological Modifiers in Optimizing Quick Nozzle Mixing Technology for 3D Concrete Printing</a></li>

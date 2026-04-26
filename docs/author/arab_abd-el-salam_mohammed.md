@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 11
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a> (9)</li>
+        <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (2)</li>
+        <li><a href="../../../author/luo_zhenhua"><b>Luo</b> Zhenhua</a> (3)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (3)</li>
+        <li><a href="../../../author/mbabazi_justin"><b>Mbabazi</b> Justin</a> (3)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (3)</li>
         <li><a href="../../../author/ren_hao"><b>Ren</b> Hao</a> (2)</li>
-        <li><a href="../../../author/wang_yalun"><b>Wang</b> Yalun</a> (2)</li>
-        <li><a href="../../../author/zhu_pinghua"><b>Zhu</b> Pinghua</a> (2)</li>
-        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/wang_xiaoyun"><b>Wang</b> Xiaoyun</a>, <a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yuan_wang_zhan_tao.2024.TSSotIBARaPCaSEA/">The Shear Strength of the Interface Between Artificial Rock and Printed Concrete at Super Early-Ages</a> (2)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/wang_xiaoyun"><b>Wang</b> Xiaoyun</a>, <a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../yuan_wang_zhan_tao.2024.TSSotIBARaPCaSEA/">The Shear Strength of the Interface Between Artificial Rock and Printed Concrete at Super Early-Ages</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/alacam_sema"><b>Alaçam</b> Sema</a> (1)</li>
-        <li><a href="../../../author/chen_xiangsheng"><b>Chen</b> Xiangsheng</a> (1)</li>
-        <li><a href="../../../author/lin_xing-tao"><b>Lin</b> Xing-Tao</a> (1)</li>
-        <li><a href="../../../author/ozdemir_salih"><b>Özdemir</b> Salih</a> (1)</li>
-        <li><a href="../../../author/xu_shuhao"><b>Xu</b> Shuhao</a> (1)</li>
+        <li><a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a> (2)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> (2)</li>
+        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (2)</li>
+        <li><a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a> (2)</li>
+        <li><a href="../../../author/sheikh_mazhar_taimur"><b>Sheikh</b> Taimur</a> (1)</li>
     </ol>
 
 </div>

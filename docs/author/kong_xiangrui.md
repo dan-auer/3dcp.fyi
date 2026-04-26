@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 39
+    : 41
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a> (28)</li>
+        <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/yang_qianfan"><b>Yang</b> Qianfan</a>, <a href="../../../author/kong_xiangrui"><b>Kong</b> Xiangrui</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../zhi_wu_yang_kong.2022.EoSBGo3PCRPaEUDEM/">Effect of Spiral Blade Geometry on 3D Printed Concrete Rheological Properties and Extrudability Using Discrete Event Modeling</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/an_mingzhe"><b>An</b> Mingzhe</a> (3)</li>
         <li><a href="../../../author/han_song"><b>Han</b> Song</a> (3)</li>
         <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (3)</li>
-        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (3)</li>
-        <li><a href="../../../author/liu_dawei"><b>Liu</b> Dawei</a> (2)</li>
+        <li><a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a> (3)</li>
+        <li><a href="../../../author/zhi_peng"><b>Zhi</b> Peng</a> (3)</li>
     </ol>
 
 </div>

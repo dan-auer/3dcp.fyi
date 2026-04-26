@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a> (2)</li>
+        <li><a href="../../../author/fahim_abdullah"><b>Fahim</b> Abdullah</a>, <a href="../../../author/bukhari_jafar-shah_syed"><b>Bukhari</b> Syed</a>, <a href="../../../author/khanzadeh-moradllo_mehdi"><b>Khanzadeh Moradllo</b> Mehdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../fahi_bukh_khan.2025.AMoCTCSwCN/">Additive Manufacturing of Carbonatable Ternary Cementitious Systems with Cellulose Nanocrystals</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/alharthai_mohammad"><b>Alharthai</b> Mohammad</a> (1)</li>
+        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (2)</li>
+        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
+        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/guan_qingtao"><b>Guan</b> Qingtao</a> (1)</li>
         <li><a href="../../../author/maglad_m_ahmed"><b>Maglad</b> Ahmed</a> (1)</li>
-        <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a> (1)</li>
     </ol>
 
 </div>

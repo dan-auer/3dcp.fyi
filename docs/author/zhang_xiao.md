@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 43
+    : 44
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/zhang_xiao"><b>Zhang</b> Xiao</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mani_wi_zhan_wang.2020.CCMfC3P/">Characterizing Cement Mixtures for Concrete 3D Printing</a> (43)</li>
+        <li><a href="../../../author/manikandan_karthick"><b>Manikandan</b> Karthick</a>, <a href="../../../author/wi_kwangwoo"><b>Wi</b> Kwangwoo</a>, <a href="../../../author/zhang_xiao"><b>Zhang</b> Xiao</a>, <a href="../../../author/wang_kejin"><b>Wang</b> Kejin</a> et al. <a href="../../../date/2020/03">(2020-03)</a><br><a href="../../../mani_wi_zhan_wang.2020.CCMfC3P/">Characterizing Cement Mixtures for Concrete 3D Printing</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
     <ol>
         <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a> (3)</li>
         <li><a href="../../../author/do_quang_trong"><b>Do</b> Trong</a> (2)</li>
-        <li><a href="../../../author/jai_mostapha"><b>El Jai</b> Mostapha</a> (2)</li>
         <li><a href="../../../author/jiang_yaqing"><b>Jiang</b> Yaqing</a> (2)</li>
         <li><a href="../../../author/ozbakkaloglu_togay"><b>Ozbakkaloglu</b> Togay</a> (2)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (2)</li>
     </ol>
 
 </div>

@@ -19,17 +19,17 @@ search:
     : 2022-09-02
     
     Last Contribution
-    : 2025-10-08
+    : 2026-01-28
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 69
+    : 77
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (9)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (10)</li>
         <li><a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a> (4)</li>
         <li><a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a> (4)</li>
         <li><a href="../../../author/hassan_m_marwa"><b>Hassan</b> Marwa</a> (4)</li>
@@ -38,24 +38,24 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (33)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/game_e_daniel"><b>Game</b> Daniel</a>, <a href="../../../author/ahmed_hassan"><b>Ahmed</b> Hassan</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../giwa_game_ahme_noor.2023.PaMCo3PSFRCM/">Performance and Macrostructural Characterization of 3D Printed Steel-Fiber-Reinforced Cementitious Materials</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (23)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (21)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
         <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (18)</li>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (17)</li>
         <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (17)</li>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (17)</li>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (8)</li>
-        <li><a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> (8)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (19)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (19)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (10)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (10)</li>
         <li><a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a> (5)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bani_giwa_fisk_kaze.2026.PRCotMaMUWSRPM/">Planetary Robotic Construction on the Moon and Mars Using Waterless Sulfur–Regolith Printing Materials</a></li>
   <li><a href="../../../author/boldini_alain"><b>Boldini</b> Alain</a>, <a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kamel_ehsan"><b>Kamel</b> Ehsan</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../bold_giwa_kame_kaze.2025.STPi3PSCfACoEaB/">Spatiotemporal Temperature Prediction in 3D-Printed Sulfur Concrete for Automated Construction on Earth and Beyond</a></li>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/gopu_vijaya"><b>Gopu</b> Vijaya</a>, <a href="../../../author/rupnow_tyson"><b>Rupnow</b> Tyson</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../giwa_kaze_gopu_rupn.2024.ACLBAo3PCE/">A Compressive Load-Bearing-Analysis of 3D Printed Circular Elements</a></li>
   <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a></li>

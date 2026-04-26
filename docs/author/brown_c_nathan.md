@@ -19,26 +19,26 @@ search:
     : 2021-07-24
     
     Last Contribution
-    : 2025-01-22
+    : 2025-10-31
 
     Number Contributions
-    : 7
+    : 8
 
     Number Citations
-    : 49
+    : 51
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (7)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (8)</li>
         <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a> (5)</li>
         <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (4)</li>
+        <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a> (2)</li>
         <li><a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> (2)</li>
-        <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a> (30)</li>
+        <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2021/07">(2021-07)</a><br><a href="../../../duar_brow_mema_duar.2021.LfHSuCfC3PC/">Learning from Historical Structures under Compression for Concrete 3D Printing Construction</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alhu_duar_brow.2025.SGCGf3CPE/">Stress-Guided Corrugated Geometry for 3D Concrete PrintedBuilding Envelopes</a></li>
   <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
   <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../duar_brow_duar.2024.WfGSaOFaTPi3CPoV/">Workflow for Generating, Simulating, and Optimizing Form and Tool-Path in 3D Concrete Printing of Vaults</a></li>
   <li><a href="../../../author/duarte_goncalo"><b>Duarte</b> Gonçalo</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../duar_duar_brow_mema.2024.DfEASPo3PCS/">Design for Early-Age Structural Performance of 3D Printed Concrete Structures:<br/>A Parametric Numerical Modeling Approach</a></li>

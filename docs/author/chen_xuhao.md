@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a> (4)</li>
+        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

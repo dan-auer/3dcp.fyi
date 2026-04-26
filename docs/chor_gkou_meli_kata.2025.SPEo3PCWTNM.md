@@ -57,8 +57,10 @@ Journal Article - Buildings, Vol. 15, Iss. 17, No. 3205
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../wolf_bos_sale.2019.HPo3PC/">Hardened Properties of 3D Printed Concrete:<br/>The Influence of Process Parameters on Inter-Layer Adhesion</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wu_liu_liu_pan.2026.MMIitDEoIRotSBo3PCCW/">Multiscale Mechanistic Insights into the Dual Effect of Interlayer Reinforcement on the Shear Behavior of 3D-Printed Concrete Composite Walls</a></li>
+      <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a>, <a href="../../../author/akkaya_tuna_sercan"><b>Akkaya</b> Sercan</a>, <a href="../../../author/bicakcioglu_kaan"><b>Bıçakçıoğlu</b> Kaan</a>, <a href="../../../author/celik_alper"><b>Çelik</b> Alper</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../merc_akka_bca_celi.2026.DTTo3PCW/">Diagonal Tension Testing of 3D Printed Concrete Walls:<br/>Benchmarking Against Conventional Masonry</a></li>
     </ol>
 </div>
 

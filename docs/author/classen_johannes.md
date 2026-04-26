@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a> (10)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/classen_johannes"><b>Claßen</b> Johannes</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../cla_cla_shar.2020.CoaRW3PMfRCA/">Conception of a Real World 3D Printing Method for Reinforced Concrete (AMoRC)</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,9 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (4)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (5)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (3)</li>
         <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (2)</li>
-        <li><a href="../../../author/plaschnick_paul"><b>Plaschnick</b> Paul</a> (2)</li>
         <li><a href="../../../author/will_frank"><b>Will</b> Frank</a> (2)</li>
         <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a> (2)</li>
     </ol>

@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 33
+    : 36
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (7)</li>
+        <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a> (3)</li>
         <li><a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a> (2)</li>
         <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (2)</li>
-        <li><a href="../../../author/xu_qinghu"><b>Xu</b> Qinghu</a> (2)</li>
     </ol>
 
 </div>

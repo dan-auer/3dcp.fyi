@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a>, <a href="../../../author/xing_jianchun"><b>Xing</b> Jianchun</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT/">Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing</a> (10)</li>
+        <li><a href="../../../author/mo_yixin"><b>Mo</b> Yixin</a>, <a href="../../../author/xing_jianchun"><b>Xing</b> Jianchun</a>, <a href="../../../author/yue_songlin"><b>Yue</b> Songlin</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT/">Dynamic Properties of 3D Printed Cement Mortar Based on Split Hopkinson Pressure Bar Testing</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (2)</li>
         <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (2)</li>
         <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> (2)</li>
         <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (2)</li>
-        <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
         <li><a href="../../../author/liao_jinjing"><b>Liao</b> Jinjing</a> (1)</li>
     </ol>
 

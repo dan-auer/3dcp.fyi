@@ -69,8 +69,9 @@ Journal Article - Cement and Concrete Composites, Vol. 157, No. 105905
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> <a href="../../../date/2018/02">(2018-02)</a><br><a href="../../../wolf_bos_sale.2018.EAMBo3PC/">Early-Age Mechanical Behaviour of 3D Printed Concrete:<br/>Numerical Modelling and Experimental Testing</a></li>
       <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/suiker_s-j_akke"><b>Suiker</b> Akke</a> <a href="../../../date/2019/06">(2019-06)</a><br><a href="../../../wolf_suik.2019.SFDEB3PP/">Structural Failure During Extrusion-Based 3D Printing Processes</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/rajendran_naveenkumar"><b>Rajendran</b> Naveenkumar</a>, <a href="../../../author/cubillos-gamez_l_david"><b>Cubillos-Gamez</b> David</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC/">Cellulose Nanofibers and Limestone Filler Enable High-Performance, Sustainable, and Cost-Efficient Printable Concrete</a></li>
     </ol>
 </div>
 

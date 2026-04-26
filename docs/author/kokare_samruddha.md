@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kokare_samruddha"><b>Kokare</b> Samruddha</a>, <a href="../../../author/oliveira_pedro_joao"><b>Oliveira</b> João</a>, <a href="../../../author/godina_radu"><b>Godina</b> Radu</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../koka_oliv_godi.2023.LCAoAMP/">Life Cycle Assessment of Additive Manufacturing Processes:<br/>A Review</a> (2)</li>
+        <li><a href="../../../author/kokare_samruddha"><b>Kokare</b> Samruddha</a>, <a href="../../../author/oliveira_pedro_joao"><b>Oliveira</b> João</a>, <a href="../../../author/godina_radu"><b>Godina</b> Radu</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../koka_oliv_godi.2023.LCAoAMP/">Life Cycle Assessment of Additive Manufacturing Processes:<br/>A Review</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> (1)</li>
+        <li><a href="../../../author/ferrero_sergio"><b>Ferrero</b> Sergio</a> (1)</li>
         <li><a href="../../../author/flor-unda_cristobal_omar"><b>Flor-Unda</b> Omar</a> (1)</li>
-        <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a> (1)</li>
-        <li><a href="../../../author/rivera_mario"><b>Rivera</b> Mario</a> (1)</li>
+        <li><a href="../../../author/schwarzer-fischer_eric"><b>Schwarzer-Fischer</b> Eric</a> (1)</li>
         <li><a href="../../../author/toapanta_carlos"><b>Toapanta</b> Carlos</a> (1)</li>
     </ol>
 

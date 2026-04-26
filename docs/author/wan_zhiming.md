@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a> (5)</li>
+        <li><a href="../../../author/zhang_ying"><b>Zhang</b> Ying</a>, <a href="../../../author/wan_zhiming"><b>Wan</b> Zhiming</a>, <a href="../../../author/wu_lei"><b>Wu</b> Lei</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../zhan_wan_wu.2021.SoMPoISPRCWwCC/">Study on Mechanical Properties of In-Situ Printed Reinforced Concrete Wall with Core Column</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> (2)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (2)</li>
-        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (2)</li>
-        <li><a href="../../../author/ulugol_huseyin"><b>Ulugöl</b> Hüseyin</a> (1)</li>
-        <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (1)</li>
+        <li><a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> (3)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (3)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (3)</li>
+        <li><a href="../../../author/anil_ozgur"><b>Anıl</b> Özgür</a> (2)</li>
+        <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a> (2)</li>
     </ol>
 
 </div>

@@ -82,8 +82,9 @@ Journal Article - Cement and Concrete Composites, No. 106383
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/ahmed_nishad"><b>Ahmed</b> Nishad</a>, <a href="../../../author/sarkar_sudipto"><b>Sarkar</b> Sudipto</a>, <a href="../../../author/ashraf_warda"><b>Ashraf</b> Warda</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../ahme_sark_ashr.2026.RaMPoCN3PMUFB/">Rheological and Mechanical Properties of Carbon-Negative 3D Printed Mortar Using Functionalized Biochar</a></li>
     </ol>
 </div>
 

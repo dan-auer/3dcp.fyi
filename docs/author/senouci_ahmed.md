@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 18
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/taqa_abu_ala"><b>Taqa</b> Ala</a>, <a href="../../../author/mohsen_o_mohamed"><b>Mohsen</b> Mohamed</a>, <a href="../../../author/aburumman_o_mervat"><b>Aburumman</b> Mervat</a>, <a href="../../../author/naji_khalid"><b>Naji</b> Khalid</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../taqa_mohs_abur_naji.2024.NFAaCf3PCB/">Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings:<br/>A Fundamental Study of Rheological, Mechanical and Microstructural Properties</a> (12)</li>
+        <li><a href="../../../author/taqa_abu_ala"><b>Taqa</b> Ala</a>, <a href="../../../author/mohsen_o_mohamed"><b>Mohsen</b> Mohamed</a>, <a href="../../../author/aburumman_o_mervat"><b>Aburumman</b> Mervat</a>, <a href="../../../author/naji_khalid"><b>Naji</b> Khalid</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../taqa_mohs_abur_naji.2024.NFAaCf3PCB/">Nano-Fly-Ash and Clay for 3D Printing Concrete Buildings:<br/>A Fundamental Study of Rheological, Mechanical and Microstructural Properties</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

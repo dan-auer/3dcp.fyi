@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/liu_xingyao"><b>Liu</b> Xingyao</a>, <a href="../../../author/zhao_wenhao"><b>Zhao</b> Wenhao</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_pan_liu_zhao.2023.CoTPoFCBM/">Characterization of Thixotropic Properties of Fresh Cement‐Based Materials</a> (1)</li>
+        <li><a href="../../../author/ji_xuping"><b>Ji</b> Xuping</a>, <a href="../../../author/pan_tinghong"><b>Pan</b> Tinghong</a>, <a href="../../../author/liu_xingyao"><b>Liu</b> Xingyao</a>, <a href="../../../author/zhao_wenhao"><b>Zhao</b> Wenhao</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ji_pan_liu_zhao.2023.CoTPoFCBM/">Characterization of Thixotropic Properties of Fresh Cement‐Based Materials</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/benjamin_babitha"><b>Benjamin</b> Babitha</a> (1)</li>
-        <li><a href="../../../author/bhaskara_s-vijaya_gollapalli"><b>Bhaskara</b> Gollapalli</a> (1)</li>
-        <li><a href="../../../author/maheswaran_srinivasan"><b>Maheswaran</b> Srinivasan</a> (1)</li>
-        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (1)</li>
+        <li><a href="../../../author/gordillo-suarez_marisol"><b>Gordillo-Suárez</b> Marisol</a> (1)</li>
+        <li><a href="../../../author/mejia-de-gutierrez_ruby"><b>Mejía de Gutiérrez</b> Ruby</a> (1)</li>
         <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (1)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bouarroudj_elkarim_mohamed"><b>Bouarroudj</b> Mohamed</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../thib_bela_boua_bult.2023.AMfD3PMBoRS/">A Methodology for Designing 3D Printable Mortar Based on Recycled Sand</a> (4)</li>
+        <li><a href="../../../author/thib_raghed"><b>Thib</b> Raghed</a>, <a href="../../../author/belayachi_naima"><b>Belayachi</b> Naima</a>, <a href="../../../author/bouarroudj_elkarim_mohamed"><b>Bouarroudj</b> Mohamed</a>, <a href="../../../author/bulteel_david"><b>Bulteel</b> David</a> et al. <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../thib_bela_boua_bult.2023.AMfD3PMBoRS/">A Methodology for Designing 3D Printable Mortar Based on Recycled Sand</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a> (1)</li>
-        <li><a href="../../../author/cazacliu_bogdan"><b>Cazacliu</b> Bogdan</a> (1)</li>
-        <li><a href="../../../author/khoury_eliane"><b>Khoury</b> Eliane</a> (1)</li>
-        <li><a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a> (1)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (1)</li>
+        <li><a href="../../../author/hua_minqi"><b>Hua</b> Minqi</a> (2)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (2)</li>
+        <li><a href="../../../author/shi_quanbin"><b>Shi</b> Quanbin</a> (2)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (2)</li>
+        <li><a href="../../../author/yuan_pu"><b>Yuan</b> Pu</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 33
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gene_kuma_dubo_soll.2020.SRoCW3P/">Simultaneous Reinforcement of Concrete While 3D Printing</a> (33)</li>
+        <li><a href="../../../author/geneidy_omar"><b>Geneidy</b> Omar</a>, <a href="../../../author/kumarji_sujay"><b>Kumarji</b> Sujay</a>, <a href="../../../author/dubor_alexandre"><b>Dubor</b> Alexandre</a>, <a href="../../../author/sollazzo_aldo"><b>Sollazzo</b> Aldo</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../gene_kuma_dubo_soll.2020.SRoCW3P/">Simultaneous Reinforcement of Concrete While 3D Printing</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (4)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (5)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (4)</li>
         <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (3)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (3)</li>
         <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (3)</li>
         <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a> (3)</li>
     </ol>

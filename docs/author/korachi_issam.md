@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 21
+    : 23
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a> (17)</li>
+        <li><a href="../../../author/abbaoui_khalid"><b>Abbaoui</b> Khalid</a>, <a href="../../../author/korachi_issam"><b>Korachi</b> Issam</a>, <a href="../../../author/jai_mostapha"><b>Jai</b> Mostapha</a>, <a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../abba_kora_jai_seta.2024.3CPUCFD/">3D Concrete Printing Using Computational Fluid Dynamics:<br/>Modeling of Material-Extrusion with Slip-Boundaries</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/jai_mostapha"><b>El Jai</b> Mostapha</a> (3)</li>
         <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (3)</li>
         <li><a href="../../../author/rihani_nadir"><b>Rihani</b> Nadir</a> (3)</li>
-        <li><a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a> (2)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
     </ol>
 
 </div>

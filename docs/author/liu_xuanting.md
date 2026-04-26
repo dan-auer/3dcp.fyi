@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 24
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_xuanting"><b>Liu</b> Xuanting</a>, <a href="../../../author/sun_bohua"><b>Sun</b> Bohua</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_sun.2021.TIoIotSSi3CPP/">The Influence of Interface on the Structural Stability in 3D Concrete Printing Processes</a> (24)</li>
+        <li><a href="../../../author/liu_xuanting"><b>Liu</b> Xuanting</a>, <a href="../../../author/sun_bohua"><b>Sun</b> Bohua</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../liu_sun.2021.TIoIotSSi3CPP/">The Influence of Interface on the Structural Stability in 3D Concrete Printing Processes</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (3)</li>
-        <li><a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> (2)</li>
-        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a> (2)</li>
-        <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
-        <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (1)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (2)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (2)</li>
     </ol>
 
 </div>

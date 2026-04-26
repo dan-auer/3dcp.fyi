@@ -43,7 +43,8 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/hu_chong"><b>Hu</b> Chong</a> (1)</li>
+        <li><a href="../../../author/larrard_francois"><b>de Larrard</b> François</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"

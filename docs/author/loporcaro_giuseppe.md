@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_lopo_scot_cluc.2024.IoPPotDo3PLCCCM/">Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar:<br/>Overlap Between Filaments and Nozzle-Offset</a> (5)</li>
+        <li><a href="../../../author/flor-juncal_luis"><b>Flor Juncal</b> Luis</a>, <a href="../../../author/loporcaro_giuseppe"><b>Loporcaro</b> Giuseppe</a>, <a href="../../../author/scott_allan"><b>Scott</b> Allan</a>, <a href="../../../author/clucas_don"><b>Clucas</b> Don</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../flor_lopo_scot_cluc.2024.IoPPotDo3PLCCCM/">Influence of Printing-Parameters on the Durability of 3D Printed Limestone-Calcined-Clay-Cement Mortar:<br/>Overlap Between Filaments and Nozzle-Offset</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a> (1)</li>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (1)</li>
-        <li><a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> (1)</li>
-        <li><a href="../../../author/tian_ziyang"><b>Tian</b> Ziyang</a> (1)</li>
+        <li><a href="../../../author/chen_wei"><b>Chen</b> Wei</a> (1)</li>
+        <li><a href="../../../author/liu_xun"><b>Liu</b> Xun</a> (1)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
+        <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 62
+    : 66
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a> (62)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a> (66)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (10)</li>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (7)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (7)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (18)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (11)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (8)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (7)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (7)</li>
     </ol>
 
 </div>

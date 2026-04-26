@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/peng_zechen"><b>Peng</b> Zechen</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ding_peng_dong.2025.MPoCGR3PCAS/">Mechanical Properties of CFRP Grid Reinforced 3D Printed Concrete Arch Structures</a> (7)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/peng_zechen"><b>Peng</b> Zechen</a>, <a href="../../../author/dong_haining"><b>Dong</b> Haining</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../ding_peng_dong.2025.MPoCGR3PCAS/">Mechanical Properties of CFRP Grid Reinforced 3D Printed Concrete Arch Structures</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (3)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (3)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
-        <li><a href="../../../author/feng_kaikai"><b>Feng</b> Kaikai</a> (2)</li>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (2)</li>
-        <li><a href="../../../author/wei_jun"><b>Wei</b> Jun</a> (2)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (2)</li>
+        <li><a href="../../../author/lu_han"><b>Lu</b> Han</a> (2)</li>
     </ol>
 
 </div>

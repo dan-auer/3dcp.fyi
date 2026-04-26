@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a> (1)</li>
+        <li><a href="../../../author/noaimat_afet-adnan_yazeed"><b>Noaimat</b> Yazeed</a>, <a href="../../../author/chougan_mehdi"><b>Chougan</b> Mehdi</a>, <a href="../../../author/sambucci_matteo"><b>Sambucci</b> Matteo</a>, <a href="../../../author/valente_marco"><b>Valente</b> Marco</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../noai_chou_samb_vale.2025.OLCCCCELGWCf3PA/">Optimising Limestone Calcined Clay Cement Containing Excavated Low-Grade Waste Clay for 3D Printing Applications</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/moodi_faramarz"><b>Moodi</b> Faramarz</a> (1)</li>
+        <li><a href="../../../author/haim_el_mohamed"><b>Haim</b> Mohamed</a> (1)</li>
+        <li><a href="../../../author/lemougna_ninla_patrick"><b>Lemougna</b> Patrick</a> (1)</li>
         <li><a href="../../../author/rahai_alireza"><b>Rahai</b> Alireza</a> (1)</li>
-        <li><a href="../../../author/sedighi_saeed"><b>Sedighi</b> Saeed</a> (1)</li>
+        <li><a href="../../../author/rida_loubaba"><b>Rida</b> Loubaba</a> (1)</li>
+        <li><a href="../../../author/yliniemi_juho"><b>Yliniemi</b> Juho</a> (1)</li>
     </ol>
 
 </div>

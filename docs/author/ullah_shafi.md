@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b> Rodrigo</a>, <a href="../../../author/ullah_shafi"><b>Ullah</b> Shafi</a>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b> Zaid</a>, <a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../scho_ulla_alaj_yu.2025.DDAi3CP/">Data-Driven Analysis in 3D Concrete Printing:<br/>Predicting and Optimizing Construction Mixtures</a> (3)</li>
+        <li><a href="../../../author/schossler_teixeira_rodrigo"><b>Schossler</b> Rodrigo</a>, <a href="../../../author/ullah_shafi"><b>Ullah</b> Shafi</a>, <a href="../../../author/alajlan_zaid"><b>Alajlan</b> Zaid</a>, <a href="../../../author/yu_xiong"><b>Yu</b> Xiong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../scho_ulla_alaj_yu.2025.DDAi3CP/">Data-Driven Analysis in 3D Concrete Printing:<br/>Predicting and Optimizing Construction Mixtures</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     <ol>
         <li><a href="../../../author/kishor_kaiyum_saad"><b>Kishor</b> Saad</a> (1)</li>
         <li><a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> (1)</li>
-        <li><a href="../../../author/ratul_jobayer-parvez_md"><b>Ratul</b> Md.</a> (1)</li>
         <li><a href="../../../author/rezvi_effti_syed"><b>Rezvi</b> Syed</a> (1)</li>
         <li><a href="../../../author/shomar_hasan"><b>Shomar</b> Hasan</a> (1)</li>
+        <li><a href="../../../author/singh_k_s"><b>Singh</b> S.</a> (1)</li>
     </ol>
 
 </div>

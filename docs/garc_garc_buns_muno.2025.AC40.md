@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Garcés Gonzalo, García-Alvarado Rodrigo, Bunster Victor, Muñoz-Sanguinetti Claudia
+title: García-Alvarado Rodrigo, García-Alvarado Rodrigo, Bunster Victor, Muñoz-Sanguinetti Claudia
 description:
 tags:
  - additive
@@ -20,12 +20,12 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1108/ecam-07-2024-0875" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1108/ecam-07-2024-0875" target="_blank">10.1108/ecam-07-2024-0875</a>
 
-<a href="../../../author/garces_gonzalo"><b>Garcés</b>&nbsp;Gonzalo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-4567" title="ORCID: 0000-0002-7665-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bunster_victor"><b>Bunster</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4859-478X" title="ORCID: 0000-0002-4859-478X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b>&nbsp;Claudia</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-2216-2388" title="ORCID: 0000-0003-2216-2388" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b>&nbsp;Rodrigo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7665-4567" title="ORCID: 0000-0002-7665-4567" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/bunster_victor"><b>Bunster</b>&nbsp;Victor</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-4859-478X" title="ORCID: 0000-0002-4859-478X" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b>&nbsp;Claudia</a></span><br>
 Journal Article - Engineering, Construction and Architectural Management
 
 <a href="../../keyword/additive"><button class="btn">#additive</button></a> <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/construction"><button class="btn">#construction</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/review"><button class="btn">#review</button></a> <a href="../../keyword/system"><button class="btn">#system</button></a> 
 
-<a href="https://scholar.google.com/scholar?as_q=additive+construction+4.0&as_occt=title&as_sauthors=garc%C3%A9s&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
+<a href="https://scholar.google.com/scholar?as_q=additive+construction+4.0&as_occt=title&as_sauthors=garc%C3%ADa-alvarado&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
 <a href="https://www.scopus.com/record/display.url?eid=2-s2.0-105008216370&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
 <a href="https://www.webofscience.com/wos/woscc/full-record/WOS:001507981900001" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
 <a href="https://plu.mx/plum/a/?doi=10.1108/ecam-07-2024-0875" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
@@ -54,7 +54,7 @@ Journal Article - Engineering, Construction and Architectural Management
       <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a></li>
       <li><a href="../../../author/christen_heidi"><b>Christen</b> Heidi</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../chri_zijl_vill.2022.TIoRBAi3PC/">The Incorporation of Recycled Brick-Aggregate in 3D Printed Concrete</a></li>
       <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a></li>
-      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
+      <li><a href="../../../author/du_song"><b>Du</b> Song</a>, <a href="../../../author/teng_fei"><b>Teng</b> Fei</a>, <a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/zhang_dong"><b>Zhang</b> Dong</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb/">A BIM-Enabled Robot-Control System for Automated Integration Between Rebar-Reinforcement and 3D Concrete Printing</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda-perez_salvador_pablo"><b>Banda-Pérez</b> Pablo</a> <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../garc_moro_band.2021.AEo3PB/">Architectural Evaluation of 3D Printed Buildings</a></li>
       <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/moroni-orellana_ginnia"><b>Moroni-Orellana</b> Ginnia</a>, <a href="../../../author/banda_pablo"><b>Banda</b> Pablo</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../garc_moro_band.2022.DoVRBw3PW/">Development of Variable Residential Buildings with 3D Printed Walls</a></li>
       <li><a href="../../../author/ghaffar_hamidreza_seyed"><b>Ghaffar</b> Seyed</a>, <a href="../../../author/corker_jorge"><b>Corker</b> Jorge</a>, <a href="../../../author/fan_mizi"><b>Fan</b> Mizi</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../ghaf_cork_fan.2018.AMTaIIiCaaEIS/">Additive Manufacturing Technology and Its Implementation in Construction as an Eco-Innovative Solution</a></li>
@@ -108,8 +108,9 @@ Journal Article - Engineering, Construction and Architectural Management
       <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a>, <a href="../../../author/jassmi_hamad"><b>Jassmi</b> Hamad</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../zhao_jass_liu_wang.2024.AIBMRi3PC/">Artificial Intelligence-Based Microcracks Research in 3D Printing Concrete</a></li>
       <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a>, <a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b> Daiva</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../klig_girs_balt.2026.IotAoMAotRPatCFo3PCM/">Influence of the Amount of Mineral Additive on the Rheological Properties and the Carbon Footprint of 3D-Printed Concrete Mixtures</a></li>
       <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a>, <a href="../../../author/li_jiren"><b>Li</b> Jiren</a>, <a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../ding_li_wang.2025.SoMPoCBF3PCBo3MS/">Study on Mechanical Properties of Composite Basalt Fiber 3D-Printed Concrete Based on 3D Meso-Structure</a></li>
     </ol>
 </div>
@@ -120,7 +121,7 @@ Journal Article - Engineering, Construction and Architectural Management
 
     ```bibtex
     @article{garc_garc_buns_muno.2025.AC40,
-      author            = "Gonzalo Garcés and Rodrigo García-Alvarado and Victor Bunster and Claudia Muñoz-Sanguinetti",
+      author            = "Rodrigo García-Alvarado and Rodrigo García-Alvarado and Victor Bunster and Claudia Muñoz-Sanguinetti",
       title             = "Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0",
       doi               = "10.1108/ecam-07-2024-0875",
       year              = "2025",
@@ -134,10 +135,10 @@ Journal Article - Engineering, Construction and Architectural Management
 
     === "IEEE"
 
-    <span id="iee">G. Garcés, R. García-Alvarado, V. Bunster and C. Muñoz-Sanguinetti, “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”, <i>Engineering, Construction and Architectural Management</i>, 2025, doi: 10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">R. García-Alvarado, R. García-Alvarado, V. Bunster and C. Muñoz-Sanguinetti, “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”, <i>Engineering, Construction and Architectural Management</i>, 2025, doi: 10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Garcés, Gonzalo, Rodrigo García-Alvarado, Victor Bunster, and Claudia Muñoz-Sanguinetti. “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”. <i>Engineering, Construction and Architectural Management</i>, 2025. https://doi.org/10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">García-Alvarado, Rodrigo, Rodrigo García-Alvarado, Victor Bunster, and Claudia Muñoz-Sanguinetti. “Additive Construction 4.0: A Systematic Review of 3D Concrete Printing for Construction 4.0”. <i>Engineering, Construction and Architectural Management</i>, 2025. https://doi.org/10.1108/ecam-07-2024-0875.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/geffrault_anatole"><b>Geffrault</b> Anatole</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/coussot_philippe"><b>Coussot</b> Philippe</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../geff_bess_rous_cous.2023.PbYSFS/">Printing by Yield-Stress Fluid-Shaping</a> (5)</li>
+        <li><a href="../../../author/geffrault_anatole"><b>Geffrault</b> Anatole</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/coussot_philippe"><b>Coussot</b> Philippe</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../geff_bess_rous_cous.2023.PbYSFS/">Printing by Yield-Stress Fluid-Shaping</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (2)</li>
         <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (1)</li>
-        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (1)</li>
-        <li><a href="../../../author/lori_rezaei_ali"><b>Lori</b> Ali</a> (1)</li>
-        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (1)</li>
     </ol>
 
 </div>

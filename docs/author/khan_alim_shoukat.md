@@ -25,7 +25,7 @@ search:
     : 10
 
     Number Citations
-    : 205
+    : 219
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a> (60)</li>
+        <li><a href="../../../author/rashid_ans"><b>Rashid</b> Ans</a>, <a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a>, <a href="../../../author/ghamdi_g_sami"><b>Ghamdi</b> Sami</a>, <a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> <a href="../../../date/2020/06">(2020-06)</a><br><a href="../../../rash_khan_gham_koc.2020.AM/">Additive Manufacturing:<br/>Technology, Applications, Markets, and Opportunities for the Built Environment</a> (62)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (26)</li>
         <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (21)</li>
+        <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (10)</li>
         <li><a href="../../../author/lachemi_mohamed"><b>Lachemi</b> Mohamed</a> (10)</li>
-        <li><a href="../../../author/aldemir_alper"><b>Aldemir</b> Alper</a> (9)</li>
         <li><a href="../../../author/takva_cagatay"><b>Takva</b> Çağatay</a> (9)</li>
     </ol>
 

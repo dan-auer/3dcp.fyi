@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/olesch_mirco"><b>Olesch</b> Mirco</a>, <a href="../../../author/made_konrad"><b>Mäde</b> Konrad</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_cla_oles_made.2024.PRoFA3PoRCUAM/">Prototypical Realization of Fully Automated 3D Printing of Reinforced Concrete Using AMoRC Method</a> (0)</li>
+        <li><a href="../../../author/zhang_sisi"><b>Zhang</b> Sisi</a>, <a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/olesch_mirco"><b>Olesch</b> Mirco</a>, <a href="../../../author/made_konrad"><b>Mäde</b> Konrad</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../zhan_cla_oles_made.2024.PRoFA3PoRCUAM/">Prototypical Realization of Fully Automated 3D Printing of Reinforced Concrete Using AMoRC Method</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/bielak_jan"><b>Bielak</b> Jan</a> (1)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (1)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (1)</li>
     </ol>
 
 </div>

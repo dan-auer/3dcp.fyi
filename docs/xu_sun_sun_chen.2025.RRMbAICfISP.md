@@ -68,8 +68,10 @@ Journal Article - Construction and Building Materials, Vol. 495, No. 143631
       <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/zhao_yuyang"><b>Zhao</b> Yuyang</a>, <a href="../../../author/hou_dongshuai"><b>Hou</b> Dongshuai</a>, <a href="../../../author/li_zongjin"><b>Li</b> Zongjin</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../sun_zhao_hou_li.2025.RCoCPbISPf3PA/">Rheology-Control of Cement-Paste by In-Situ Polymerization for 3D Printing Applications</a></li>
       <li><a href="../../../author/zou_mengtong"><b>Zou</b> Mengtong</a>, <a href="../../../author/liu_chuanbei"><b>Liu</b> Chuanbei</a>, <a href="../../../author/zhang_keying"><b>Zhang</b> Keying</a>, <a href="../../../author/li_wuqian"><b>Li</b> Wuqian</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zou_liu_zhan_li.2023.EaCoPaRPo3PRC/">Evaluation and Control of Printability and Rheological Properties of 3D Printed Rubberized Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_qingwei"><b>Wang</b> Qingwei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a>, <a href="../../../author/han_song"><b>Han</b> Song</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wang_pan_han_zhu.2026.EoNHotLDPaFPo3PC/">Effects of Nozzle Height on the Layer Deposition Process and Forming Performance of 3D Printing Concrete:<br/>Evidence from Experiments and CFD Simulations</a></li>
+      <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../jin_sun_chen_zhou.2026.PtPoCCi3P/">Predicting the Printability of Cementitious Composites in 3D Printing:<br/>Relevance Between Rheological Protocols and Structural Deformation</a></li>
     </ol>
 </div>
 

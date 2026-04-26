@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 25
+    : 28
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a> (25)</li>
+        <li><a href="../../../author/tobi_l-mohd_a"><b>Tobi</b> A.</a>, <a href="../../../author/omar_a_s"><b>Omar</b> S.</a>, <a href="../../../author/yehia_z"><b>Yehia</b> Z.</a>, <a href="../../../author/al-ojaili_s"><b>Al-Ojaili</b> S.</a> et al. <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../tobi_omar_yehi_alo.2018.CVo3PHiU/">Cost Viability of 3D Printed House in UK</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
         <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> (4)</li>
         <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (3)</li>
         <li><a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> (3)</li>
-        <li><a href="../../../author/ahmed_h_ghafur"><b>Ahmed</b> Ghafur</a> (2)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (2)</li>
         <li><a href="../../../author/tamimi_k_adil"><b>Al Tamimi</b> Adil</a> (2)</li>
     </ol>
 

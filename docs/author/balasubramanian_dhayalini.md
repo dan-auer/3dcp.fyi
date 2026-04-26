@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 23
+    : 26
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b> M.</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sasi_bala_sent_govi.2023.EoCACotRaBPo3PC/">Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete</a> (20)</li>
+        <li><a href="../../../author/sasikumar_athira"><b>Sasikumar</b> Athira</a>, <a href="../../../author/balasubramanian_dhayalini"><b>Balasubramanian</b> Dhayalini</a>, <a href="../../../author/senthil-kumaran_s_m"><b>Senthil Kumaran</b> M.</a>, <a href="../../../author/govindaraj_vishnuvarthanan"><b>Govindaraj</b> Vishnuvarthanan</a> <a href="../../../date/2023/05">(2023-05)</a><br><a href="../../../sasi_bala_sent_govi.2023.EoCACotRaBPo3PC/">Effect of Coarse Aggregate Content on the Rheological and Buildability Properties of 3D Printable Concrete</a> (22)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
         <li><a href="../../../author/lee_ming-gin"><b>Lee</b> Ming-Gin</a> (3)</li>
         <li><a href="../../../author/wang_wei-chien"><b>Wang</b> Wei-Chien</a> (3)</li>
         <li><a href="../../../author/xue_jia-chen"><b>Xue</b> Jia-Chen</a> (3)</li>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (1)</li>
+        <li><a href="../../../author/collery_david"><b>Collery</b> David</a> (2)</li>
     </ol>
 
 </div>

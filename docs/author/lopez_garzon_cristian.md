@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a> (10)</li>
+        <li><a href="../../../author/rodriguez_b_fabian"><b>Rodriguez</b> Fabian</a>, <a href="../../../author/lopez_garzon_cristian"><b>Lopez</b> Cristian</a>, <a href="../../../author/wang_yu"><b>Wang</b> Yu</a>, <a href="../../../author/olek_jan"><b>Olek</b> Jan</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME/">Evaluation of Durability of 3D Printed Cementitious Materials for Potential Applications in Structures Exposed to Marine Environments</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> (2)</li>
         <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (2)</li>
         <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (2)</li>
-        <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (2)</li>
         <li><a href="../../../author/weiss_jason_william"><b>Weiss</b> William</a> (2)</li>
+        <li><a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> (2)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (2)</li>
     </ol>
 
 </div>

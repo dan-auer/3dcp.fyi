@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 6
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lin_yan_sun_han.2024.ILCi3PC/">Inter-Layer Cohesion in 3D Printed Concrete:<br/>The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure</a> (6)</li>
+        <li><a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/sun_ming"><b>Sun</b> Ming</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../lin_yan_sun_han.2024.ILCi3PC/">Inter-Layer Cohesion in 3D Printed Concrete:<br/>The Role of Width-to-Height-Ratio in Modulating Transport Properties and Pore-Structure</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/alawi_khamis_mubarak"><b>Al Alawi</b> Mubarak</a> (2)</li>
         <li><a href="../../../author/jabri_saif_khalifa"><b>Al Jabri</b> Khalifa</a> (2)</li>
         <li><a href="../../../author/waris_bilal_muhammad"><b>Waris</b> Muhammad</a> (2)</li>
-        <li><a href="../../../author/liu_gengyuan"><b>Liu</b> Gengyuan</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
     </ol>
 
 </div>

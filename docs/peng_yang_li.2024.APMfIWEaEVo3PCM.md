@@ -75,8 +75,9 @@ Journal Article - Construction and Building Materials, Vol. 451, No. 138712
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/qiao_hongxia"><b>Qiao</b> Hongxia</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/xue_cuizhen"><b>Xue</b> Cuizhen</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhan_qiao_qian_xue.2022.RBWTBaILVo3PC/">Relationship Between Water-Transport Behavior and Inter-Layer Voids of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhan_sanj.2023.ENDaPPSf3CP/">Extrusion Nozzle Design and Print Parameter Selections for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a>, <a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a>, <a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a>, <a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_wang_li_yang.2026.RPaMftCoLEoEB3PC/">Recent Progress and Methodology for the Characterization of Layer-Effects of Extrusion-Based 3D-Printed Concrete</a></li>
     </ol>
 </div>
 

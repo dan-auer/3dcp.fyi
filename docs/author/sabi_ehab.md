@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a> (10)</li>
+        <li><a href="../../../author/shahzad_qamar"><b>Shahzad</b> Qamar</a>, <a href="../../../author/abbas_nadeem"><b>Abbas</b> Nadeem</a>, <a href="../../../author/akbar_muhammad"><b>Akbar</b> Muhammad</a>, <a href="../../../author/sabi_ehab"><b>Sabi</b> Ehab</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC/">Influence of Print-Speed and Nozzle-Diameter on the Fiber-Alignment in 3D Printed Ultra-High-Performance Concrete</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (2)</li>
+        <li><a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a> (2)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (2)</li>
         <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (2)</li>
-        <li><a href="../../../author/hopkins_ben"><b>Hopkins</b> Ben</a> (1)</li>
-        <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (2)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/adomaityte_fausta"><b>Adomaitytė</b> Fausta</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../butk_vait_adom.2024.EF3PCMwWaOAA/">Eco-Friendly 3D Printed Concrete Made with Waste and Organic Artificial Aggregates</a> (4)</li>
+        <li><a href="../../../author/butkute_karolina"><b>Butkutė</b> Karolina</a>, <a href="../../../author/vaitkevicius_vitoldas"><b>Vaitkevičius</b> Vitoldas</a>, <a href="../../../author/adomaityte_fausta"><b>Adomaitytė</b> Fausta</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../butk_vait_adom.2024.EF3PCMwWaOAA/">Eco-Friendly 3D Printed Concrete Made with Waste and Organic Artificial Aggregates</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
         <li><a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> (1)</li>
         <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
         <li><a href="../../../author/leng_junjie"><b>Leng</b> Junjie</a> (1)</li>
+        <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> (1)</li>
         <li><a href="../../../author/nan_bo"><b>Nan</b> Bo</a> (1)</li>
-        <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (1)</li>
     </ol>
 
 </div>

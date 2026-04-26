@@ -18,24 +18,27 @@ tags:
 ---
 
 #Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls ([2025-11](date/2025/11))
+<a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
+ <a href="https://doi.org/10.52842/conf.sigradi.2025.1.953" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.52842/conf.sigradi.2025.1.953" target="_blank">10.52842/conf.sigradi.2025.1.953</a>
+
 <a href="../../../author/alvarez_maria_luisa"><b>Álvarez</b>&nbsp;Luisa</a></span>, <a href="../../../author/fernandez_brian"><b>Fernandez</b>&nbsp;Brian</a></span>, <a href="../../../author/saldarriaga_federico"><b>Saldarriaga</b>&nbsp;Federico</a></span>, <a href="../../../author/romero_hector"><b>Romero</b>&nbsp;Héctor</a></span>, <a href="../../../author/posada_fernando_juan"><b>Posada</b>&nbsp;Juan</a></span>, <a href="../../../author/garcia_ader"><b>Garcia</b>&nbsp;Ader</a></span>, <a href="../../../author/garcia_claudia"><b>Garcia</b>&nbsp;Claudia</a></span><br>
 Contribution - Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics, pp. 953-964
 
 <a href="../../keyword/concrete"><button class="btn">#concrete</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/development"><button class="btn">#development</button></a> <a href="../../keyword/evaluation"><button class="btn">#evaluation</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/parameter"><button class="btn">#parameter</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/wall"><button class="btn">#wall</button></a> 
 
 <a href="https://scholar.google.com/scholar?as_q=development+and+bioclimatic+evaluation+of+parametrically+designed+geometries+for+3d-printed+concrete+walls&as_occt=title&as_sauthors=%C3%A1lvarez&as_ylo=2023&as_yhi=2027&hl=en" title="Search on Google Scholar" target="_blank">:aca-googlescholar:{ .lg .middle }</a>
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
-:aca-blank:{ .lg .middle}
+<a href="https://www.scopus.com/record/display.url?eid=None&origin=resultslist" title="Search on Scopus" target="_blank">:aca-scopus:{ .lg .middle }</a>
+<a href="https://www.webofscience.com/wos/woscc/full-record/WOS:None" title="Search on Web of Science" target="_blank">:aca-wos:{ .lg .middle }</a>
+<a href="https://plu.mx/plum/a/?doi=10.52842/conf.sigradi.2025.1.953" title="Search on plu.mx" target="_blank">:aca-plumx:{ .lg .middle }</a>
+<a href="https://api.crossref.org/works/10.52842/conf.sigradi.2025.1.953" title="Search on CrossRef" target="_blank">:aca-crossref:{ .lg .middle }</a>
+<a href="https://api.openalex.org/works/doi:10.52842/conf.sigradi.2025.1.953" title="Search on OpenAlex" target="_blank">:aca-openalex:{ .lg .middle }</a>
+<a href="https://api.semanticscholar.org/graph/v1/paper/10.52842/conf.sigradi.2025.1.953" title="Search on Semantic Scholar" target="_blank">:aca-semanticscholar:{ .lg .middle }</a>
+<a href="https://crossmark.crossref.org/dialog/?doi=10.52842/conf.sigradi.2025.1.953&domain=pdf" title="Search on Crossmark" target="_blank">:aca-crossmark:{ .lg .middle }</a>
+<a href="https://opencitations.net/meta/api/v1/metadata/doi:10.52842/conf.sigradi.2025.1.953" title="Search on OpenCitations" target="_blank">:aca-opencitations:{ .lg .middle }</a>
+<a href="https://www.researchgate.net/search.Search.html?query=10.52842/conf.sigradi.2025.1.953&type=publication&type=publication" title="Search on Reserachgate (Login Required)" target="_blank">:aca-researchgate:{ .lg .middle }</a>
+<a href="https://inciteful.xyz/p/W7133120903" title="Search on Inciteful" target="_blank">:aca-connectedpapers:{ .lg .middle }</a>
+<a href="https://www.altmetric.com/details/doi/10.52842/conf.sigradi.2025.1.953" title="Search on Altmetric" target="_blank">:aca-altmetric:{ .lg .middle }</a>
+<a href="https://api.unpaywall.org/v2/10.52842/conf.sigradi.2025.1.953?email=peter@enis.de" title="Search on Unpaywall" target="_blank">:aca-unpaywall:{ .lg .middle }</a>
 ???+ quote "Abstract" 
     This study investigates the acoustic and thermal performance of 3D-printed walls using geometries based on triply periodic minimal surfaces (TPMS), specifically Gyroid and Primitive. Fabricated through additive manufacturing and evaluated in a tropical climate context, these innovative wall systems demonstrated superior bioclimatic behavior compared to conventional flat walls. Acoustic testing revealed significant enhancements in sound absorption, with improvements of 83% and 58%, respectively. In terms of thermal performance, double-cavity configurations reduced surface temperatures by up to 6 °C, while single-cavity walls exhibited faster responsiveness to external temperature fluctuations. These performance differences are attributed to variations in geometry, material mass, and thermal inertia. The results highlight the potential of 3D-printed TPMS-based walls as sustainable, climate- responsive envelope solutions for urban and tropical environments.
 
@@ -65,6 +68,7 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
     @inproceedings{alva_fern_sald_rome.2025.DaBEoPDGf3PCW,
       author            = "Luisa María Álvarez and Brian Fernandez and Federico Saldarriaga and Héctor Romero and Juan Fernando Posada and Ader Garcia and Claudia Garcia",
       title             = "Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls",
+      doi               = "10.52842/conf.sigradi.2025.1.953",
       year              = "2025",
       pages             = "953--964",
       booktitle         = "Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches",
@@ -77,10 +81,10 @@ Contribution - Proceedings of the XXIX International Conference of the Ibero-Ame
 
     === "IEEE"
 
-    <span id="iee">L. M. Álvarez, “Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls”, in <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>,  2025, pp. 953–964.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">L. M. Álvarez, “Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls”, in <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>,  2025, pp. 953–964. doi: 10.52842/conf.sigradi.2025.1.953.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Álvarez, Luisa María, Brian Fernandez, Federico Saldarriaga, Héctor Romero, Juan Fernando Posada, Ader Garcia, and Claudia Garcia. “Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls”. In <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>, 953–64, 2025.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Álvarez, Luisa María, Brian Fernandez, Federico Saldarriaga, Héctor Romero, Juan Fernando Posada, Ader Garcia, and Claudia Garcia. “Development and Bioclimatic Evaluation of Parametrically Designed Geometries for 3D-Printed Concrete Walls”. In <i>Proceedings of the XXIX International Conference of the Ibero-American Society of Digital Graphics: Meta-Responsive Approaches</i>, 953–64, 2025. https://doi.org/10.52842/conf.sigradi.2025.1.953.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

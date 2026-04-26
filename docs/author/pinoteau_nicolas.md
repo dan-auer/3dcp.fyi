@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hondt_melody"><b>Hondt</b> Mélody</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/iea_bunthan"><b>Iea</b> Bunthan</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hond_remo_lebl_iea.2020.FBoaPSfB/">Fire Behavior of a Printed Sample for Building</a> (6)</li>
+        <li><a href="../../../author/hondt_melody"><b>Hondt</b> Mélody</a>, <a href="../../../author/remond_sebastien"><b>Rémond</b> Sébastien</a>, <a href="../../../author/leblond_philippe"><b>Leblond</b> Philippe</a>, <a href="../../../author/iea_bunthan"><b>Iea</b> Bunthan</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../hond_remo_lebl_iea.2020.FBoaPSfB/">Fire Behavior of a Printed Sample for Building</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

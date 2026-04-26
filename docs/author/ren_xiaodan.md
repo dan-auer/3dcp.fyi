@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 49
+    : 59
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhu_ren_cerv.2023.PBAo3PCIDPFaC/">Peridynamic Buildability-Analysis of 3D Printed Concrete Including Damage, Plastic Flow and Collapse</a> (16)</li>
+        <li><a href="../../../author/zhu_jinggao"><b>Zhu</b> Jinggao</a>, <a href="../../../author/ren_xiaodan"><b>Ren</b> Xiaodan</a>, <a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../zhu_ren_cerv.2023.BMo3PCIPD/">Buildability Modeling of 3D Printed Concrete Including Printing-Deviation:<br/>A Stochastic Analysis</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (9)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (11)</li>
         <li><a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> (6)</li>
         <li><a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> (4)</li>
         <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (4)</li>

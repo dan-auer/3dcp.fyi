@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zaki_magdy-ahmed_ahmed"><b>Zaki</b> Ahmed</a>, <a href="../../../author/carnevale_marco"><b>Carnevale</b> Marco</a>, <a href="../../../author/giberti_hermes"><b>Giberti</b> Hermes</a>, <a href="../../../author/schlette_christian"><b>Schlette</b> Christian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zaki_carn_gibe_schl.2024.Mo3CPQTMVRDI/">Monitoring of 3D Concrete Printing Quality Through Multi-View RGB-D Images</a> (3)</li>
+        <li><a href="../../../author/zaki_magdy-ahmed_ahmed"><b>Zaki</b> Ahmed</a>, <a href="../../../author/carnevale_marco"><b>Carnevale</b> Marco</a>, <a href="../../../author/giberti_hermes"><b>Giberti</b> Hermes</a>, <a href="../../../author/schlette_christian"><b>Schlette</b> Christian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zaki_carn_gibe_schl.2024.Mo3CPQTMVRDI/">Monitoring of 3D Concrete Printing Quality Through Multi-View RGB-D Images</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (1)</li>
-        <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a> (1)</li>
-        <li><a href="../../../author/han_tong-seok"><b>Han</b> Tong-Seok</a> (1)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (2)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (2)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (2)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (2)</li>
         <li><a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> (1)</li>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (1)</li>
     </ol>
 
 </div>

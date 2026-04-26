@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_qinghua"><b>Wang</b> Qinghua</a>, <a href="../../../author/xu_jinggang"><b>Xu</b> Jinggang</a>, <a href="../../../author/feng_duo"><b>Feng</b> Duo</a>, <a href="../../../author/li_wei"><b>Li</b> Wei</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../wang_xu_feng_li.2024.PaPEoTDPMOCbFUAS/">Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand</a> (0)</li>
+        <li><a href="../../../author/wang_qinghua"><b>Wang</b> Qinghua</a>, <a href="../../../author/xu_jinggang"><b>Xu</b> Jinggang</a>, <a href="../../../author/feng_duo"><b>Feng</b> Duo</a>, <a href="../../../author/li_wei"><b>Li</b> Wei</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../wang_xu_feng_li.2024.PaPEoTDPMOCbFUAS/">Properties and Printability Evaluation of Three-Dimensional Printing Magnesium-Oxychloride Cement by Fully Utilizing Aeolian-Sand</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chourasia_ajay"><b>Chourasia</b> Ajay</a> (1)</li>
+        <li><a href="../../../author/kapoor_ashish"><b>Kapoor</b> Ashish</a> (1)</li>
+        <li><a href="../../../author/kumar_pradeep_r"><b>Kumar</b> R.</a> (1)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (1)</li>
     </ol>
 
 </div>

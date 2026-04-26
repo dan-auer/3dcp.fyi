@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a>, <a href="../../../author/yao_xupeng"><b>Yao</b> Xupeng</a>, <a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b> Bernhard</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_shen_yao_pich.2025.ATSDSf3PCCCA/">A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates</a> (3)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a>, <a href="../../../author/yao_xupeng"><b>Yao</b> Xupeng</a>, <a href="../../../author/pichler_l-a_bernhard"><b>Pichler</b> Bernhard</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../yuan_shen_yao_pich.2025.ATSDSf3PCCCA/">A Three-Step Development Strategy for 3D Printable Concrete Containing Coarse Aggregates</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akgumus_eren_fatih"><b>Akgümüş</b> Fatih</a> (1)</li>
+        <li><a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a> (2)</li>
+        <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> (2)</li>
+        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (2)</li>
+        <li><a href="../../../author/collery_david"><b>Collery</b> David</a> (1)</li>
         <li><a href="../../../author/liu_qing"><b>Liu</b> Qing</a> (1)</li>
-        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (1)</li>
-        <li><a href="../../../author/sahin_gizem_hatice"><b>Şahin</b> Hatice</a> (1)</li>
-        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (1)</li>
     </ol>
 
 </div>

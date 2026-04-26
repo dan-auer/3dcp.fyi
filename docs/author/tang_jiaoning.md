@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chen_bingzhi"><b>Chen</b> Bingzhi</a>, <a href="../../../author/liu_qimin"><b>Liu</b> Qimin</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../he_chen_liu_chen.2024.AQEDoIVaIEotILSo3PC/">A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete</a> (8)</li>
+        <li><a href="../../../author/he_lewei"><b>He</b> Lewei</a>, <a href="../../../author/chen_bingzhi"><b>Chen</b> Bingzhi</a>, <a href="../../../author/liu_qimin"><b>Liu</b> Qimin</a>, <a href="../../../author/chen_hao"><b>Chen</b> Hao</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../he_chen_liu_chen.2024.AQEDoIVaIEotILSo3PC/">A Quasi-Exponential Distribution of Interfacial Voids and Its Effect on the Inter-Layer Strength of 3D Printed Concrete</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/asif_usama"><b>Asif</b> Usama</a> (1)</li>
         <li><a href="../../../author/cendrowski_krzysztof"><b>Cendrowski</b> Krzysztof</a> (1)</li>
         <li><a href="../../../author/liu_tao"><b>Liu</b> Tao</a> (1)</li>
-        <li><a href="../../../author/yang_bohao"><b>Yang</b> Bohao</a> (1)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
+        <li><a href="../../../author/xing_feng"><b>Xing</b> Feng</a> (1)</li>
+        <li><a href="../../../author/zhu_ming_guang"><b>Zhu</b> Guang</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a> (0)</li>
+        <li><a href="../../../author/zhou_juanlan"><b>Zhou</b> Juanlan</a>, <a href="../../../author/shi_xiangwen"><b>Shi</b> Xiangwen</a>, <a href="../../../author/zheng_hongrun"><b>Zheng</b> Hongrun</a>, <a href="../../../author/jin_ruoyu"><b>Jin</b> Ruoyu</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA/">Investigating the Effects of Hybrid PVA/BF Fibers in Low-Carbon 3D Printed Concrete with Recycled Aggregates:<br/>Rheology, Strength, and Anisotropy</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>

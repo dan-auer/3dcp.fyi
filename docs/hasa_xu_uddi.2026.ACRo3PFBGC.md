@@ -125,8 +125,9 @@ Journal Article - Journal of Building Pathology and Rehabilitation, Vol. 11, Iss
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/li_haiyan"><b>Li</b> Haiyan</a>, <a href="../../../author/luo_aizhong"><b>Luo</b> Aizhong</a>, <a href="../../../author/zhang_xiaozhong"><b>Zhang</b> Xiaozhong</a>, <a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../li_luo_zhan_ma.2026.OoOPAACfEB3PTIPE/">Optimization of One-Part Alkali-Activated Concrete for Extrusion-Based 3D Printing Through Integrated Performance Evaluation</a></li>
     </ol>
 </div>
 

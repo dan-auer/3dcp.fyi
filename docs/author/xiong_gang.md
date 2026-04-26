@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 17
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a> (10)</li>
+        <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a>, <a href="../../../author/ou_xingjian"><b>Ou</b> Xingjian</a>, <a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a>, <a href="../../../author/xiong_gang"><b>Xiong</b> Gang</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../ding_ou_qi_xion.2024.ILBPo3PECC/">Inter-Layer Bonding Performance of 3D Printed Engineered Cementitious Composites:<br/>Rheological Regulation and Fiber Hybridization</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (4)</li>
         <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a> (2)</li>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (2)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
         <li><a href="../../../author/yu_fan"><b>Yu</b> Fan</a> (2)</li>
+        <li><a href="../../../author/yu_kanghao"><b>Yu</b> Kanghao</a> (2)</li>
     </ol>
 
 </div>

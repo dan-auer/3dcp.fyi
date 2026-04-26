@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 143
+    : 146
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a> (110)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a>, <a href="../../../author/empelmann_martin"><b>Empelmann</b> Martin</a>, <a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a>, <a href="../../../author/herrmann_eric"><b>Herrmann</b> Eric</a> et al. <a href="../../../date/2020/09">(2020-09)</a><br><a href="../../../klof_empe_hack_herr.2020.RSf3CP/">Reinforcement-Strategies for 3D Concrete Printing</a> (111)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (29)</li>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (21)</li>
-        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (18)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (30)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (22)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (19)</li>
         <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (13)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (12)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (13)</li>
     </ol>
 
 </div>

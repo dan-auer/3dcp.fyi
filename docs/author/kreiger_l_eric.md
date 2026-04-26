@@ -19,13 +19,13 @@ search:
     : 2019-04-06
     
     Last Contribution
-    : 2024-11-20
+    : 2026-01-29
 
     Number Contributions
-    : 20
+    : 21
 
     Number Citations
-    : 588
+    : 630
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a> (194)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/pradena_mauricio"><b>Pradena</b> Mauricio</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../bos_menn_prad_krei.2022.TRoAMCSiP/">The Realities of Additively Manufactured Concrete Structures in Practice</a> (209)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -46,17 +46,17 @@ search:
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (45)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (39)</li>
         <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (39)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (36)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (28)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (37)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (40)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (31)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (25)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (26)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (22)</li>
         <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (19)</li>
-        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (18)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/aghajani-delavar_mohammad"><b>Aghajani Delavar</b> Mohammad</a>, <a href="../../../author/sharma_s"><b>Sharma</b> S.</a>, <a href="../../../author/chen_h"><b>Chen</b> H.</a>, <a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../agha_shar_chen_side.2026.EIoFSSC3PCWStIPCL/">Experimental Investigation on Full-Scale Shear-Critical 3D Printed Concrete Walls Subjected to In-Plane Cyclic Loading</a></li>
   <li><a href="../../../author/gomaa_shady"><b>Gomaa</b> Shady</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/rosa_marrero_raul"><b>Rosa</b> Raul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../goma_iriz_ahme_rosa.2024.3PoUHPC/">3D Printing of Ultra-High-Performance Concrete:<br/>Shape Stability for Various Printing Systems</a></li>
   <li><a href="../../../author/diggs-mcgee_n_brandy"><b>Diggs-McGee</b> Brandy</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../digg_krei_krei_negr.2024.CSotUoTAtEaACB/">Case Study on the Use of Thermographic Analysis to Evaluate an Additively Constructed Building</a></li>
   <li><a href="../../../author/foiles_dreycen"><b>Foiles</b> Dreycen</a>, <a href="../../../author/negron-mcfarlane_christian"><b>Negron-McFarlane</b> Christian</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/kreiger_a_megan"><b>Kreiger</b> Megan</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../foil_negr_krei_krei.2024.TEoCFARotPoACC/">The Effect of Coarse/Fine Aggregate Ratios on the Properties of Additively Constructed Concrete</a></li>

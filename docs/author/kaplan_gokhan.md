@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a> (8)</li>
+        <li><a href="../../../author/bodur_burak"><b>Bodur</b> Burak</a>, <a href="../../../author/mecit-isik_ahmet_muhammet"><b>Mecit Işık</b> Muhammet</a>, <a href="../../../author/benli_ahmet"><b>Benli</b> Ahmet</a>, <a href="../../../author/bayrak_baris"><b>Bayrak</b> Barış</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../bodu_meci_benl_bayr.2024.DoGR3PLCCRwMAaMSF/">Durability of Green Rubberized 3D Printed Lightweight Cement Composites Reinforced with Micro-Attapulgite and Micro-Steel-Fibers:<br/>Printability and Environmental Perspective</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fan_jiahui"><b>Fan</b> Jiahui</a> (1)</li>
-        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (1)</li>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (1)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (3)</li>
+        <li><a href="../../../author/ur-rehman-bajwa_asad"><b>Ur Rehman Bajwa</b> Asad</a> (2)</li>
         <li><a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a> (1)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_soda_dwiv_kuma.2024.3PwSE/">3D Printing with Stabilized Earth:<br/>Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</a> (3)</li>
+        <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../saha_soda_dwiv_kuma.2024.3PwSE/">3D Printing with Stabilized Earth:<br/>Material-Development and Effect of Carbon-Sequestration on Engineering-Performance</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/dixit_anjaneya"><b>Dixit</b> Anjaneya</a> (2)</li>
+        <li><a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> (2)</li>
         <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (1)</li>
-        <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (1)</li>
-        <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a> (1)</li>
-        <li><a href="../../../author/si_wen"><b>Si</b> Wen</a> (1)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (1)</li>
+        <li><a href="../../../author/ray_saswati"><b>Ray</b> Saswati</a> (1)</li>
     </ol>
 
 </div>

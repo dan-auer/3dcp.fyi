@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b> Jennifer</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD/">Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand</a> (0)</li>
+        <li><a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/rudolph_viola_jennifer"><b>Rudolph</b> Jennifer</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD/">Hydration of a Two-Component CSA-OPC-Mix-Timing of Component Blending & Setting-on-Demand</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/jansen_daniel"><b>Jansen</b> Daniel</a> (1)</li>
+        <li><a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> (1)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (1)</li>
+        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (1)</li>
+        <li><a href="../../../author/wolf_cordula"><b>Wolf</b> Cordula</a> (1)</li>
     </ol>
 
 </div>

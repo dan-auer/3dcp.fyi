@@ -19,26 +19,26 @@ search:
     : 2021-10-06
     
     Last Contribution
-    : 2026-01-03
+    : 2026-02-05
 
     Number Contributions
-    : 9
+    : 10
 
     Number Citations
-    : 127
+    : 143
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (4)</li>
+        <li><a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> (3)</li>
+        <li><a href="../../../author/dang_thuy-hang_thi"><b>Dang</b> Thi</a> (2)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (2)</li>
-        <li><a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> (2)</li>
-        <li><a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a> (1)</li>
         <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>, <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../tran_cu_le.2021.RaSoCUPFf3CP/">Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing</a> (86)</li>
+        <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/cu_th_yen"><b>Cu</b> Yen</a>, <a href="../../../author/le_vh_chau"><b>Le</b> Chau</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../tran_cu_le.2021.RaSoCUPFf3CP/">Rheology and Shrinkage of Concrete Using Polypropylene-Fiber for 3D Concrete Printing</a> (91)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (9)</li>
         <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (7)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (5)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (6)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (5)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (5)</li>
-        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (4)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/dang_thuy-hang_thi"><b>Dang</b> Thi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a>, <a href="../../../author/nguyen_phuc_hoang"><b>Nguyen</b> Hoang</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../dang_tran_nguy_nguy.2026.LS3PCW/">Large Scale 3D Printed Concrete Wall:<br/>Interlayer Bonding and Shrinkage</a></li>
   <li><a href="../../../author/dao_trang"><b>Dao</b> Trang</a>, <a href="../../../author/chau_ngoc_vinh"><b>Chau</b> Vinh</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../dao_chau_tran_tran.2026.BWBaCSi3PCvDCM/">Balancing Workability, Buildability, and Carbon Sequestration in 3D Printed Concrete via Direct CO2 Mineralization</a></li>
   <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/hai_hoang"><b>Hai</b> Hoang</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../liu_hai_tran_tran.2025.AMIi3PCMvXRMCT/">Advancing Microstructural Insights in 3D-Printed Cementitious Materials via X-Ray Micro-Computed Tomography</a></li>
   <li><a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/le_t_thanh"><b>Le</b> Thanh</a>, <a href="../../../author/cao_thi_nguyen"><b>Cao</b> Nguyen</a>, <a href="../../../author/nguyen_hai-yen_thi"><b>Nguyen</b> Thi</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../tran_le_cao_nguy.2025.SPfERoRSwRGAi3PC/">Sustainable Prospect for Entire Replacement of River Sand with Recycled Glass Aggregate in 3D Printing Concrete:<br/>Rheological Properties, Printability, and Alkali-Silica Reaction</a></li>

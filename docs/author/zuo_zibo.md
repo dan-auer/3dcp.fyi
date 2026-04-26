@@ -19,43 +19,43 @@ search:
     : 2017-07-23
     
     Last Contribution
-    : 2025-06-27
+    : 2026-03-17
 
     Number Contributions
-    : 11
+    : 12
 
     Number Citations
-    : 79
+    : 92
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (8)</li>
-        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (8)</li>
-        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (4)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (9)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (9)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (5)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (4)</li>
         <li><a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a> (25)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (27)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (23)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (21)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (18)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (32)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (28)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (24)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (22)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (4)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (4)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (4)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/li_jin"><b>Li</b> Jin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zuo_huan_li_cort.2026.MPfOS3CPBotAHP/">Monitoring Prioritization for On-Site 3D Concrete Printing Based on the Analytic Hierarchy Process</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_cort.2025.RTMoPCWD3CPtIAPS/">Real-Time Monitoring of Printed Concrete Weight During 3D Concrete Printing to Inversely Assess Process Stability:<br/>Indicators and Experiments</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yong_yuan"><b>Yong</b> Yuan</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../zuo_huan_tao_yong.2025.AoFItMCPHo3PC/">Analysis of Factors Influencing the Maximum Continuous Printing Height of 3D Printed Concrete</a></li>
   <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhang_longlong"><b>Zhang</b> Longlong</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zuo_tao_huan_zhan.2025.RTTMtEtSEo3PC/">Real-Time Temperature Monitoring to Evaluate the Strength Evolution of 3D Printed Concrete:<br/>From Lab to In-Situ Printing</a></li>

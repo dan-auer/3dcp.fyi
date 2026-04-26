@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (3)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (2)</li>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (2)</li>
         <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (2)</li>
         <li><a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a> (2)</li>
-        <li><a href="../../../author/taborda-llano_isabella"><b>Taborda-Llano</b> Isabella</a> (1)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../nguy_tran_san_xie.2024.BRo3PBCPRwSF/">Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>Numerical Investigations</a> (2)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../nguy_tran_san_xie.2024.BRo3PBCPRwSF/">Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>Numerical Investigations</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (2)</li>
-        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (2)</li>
-        <li><a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> (1)</li>
-        <li><a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> (1)</li>
-        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (1)</li>
+        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (3)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (3)</li>
+        <li><a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> (2)</li>
+        <li><a href="../../../author/lao_junying"><b>Lao</b> Junying</a> (2)</li>
+        <li><a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> (2)</li>
     </ol>
 
 </div>

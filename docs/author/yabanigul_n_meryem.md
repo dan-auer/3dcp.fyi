@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a> (3)</li>
+        <li><a href="../../../author/yabanigul_n_meryem"><b>Yabanigül</b> Meryem</a>, <a href="../../../author/ozer_gulec_derya"><b>Özer</b> Derya</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../yaba_ozer.2025.EAUTR3CPoSFG/">Exploring Architectural Units Through Robotic 3D Concrete Printing of Space-Filling Geometries</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,11 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/catenacci_j_matthew"><b>Catenacci</b> Matthew</a> (1)</li>
         <li><a href="../../../author/foroughi-dehnavi_ashkan"><b>Foroughi Dehnavi</b> Ashkan</a> (1)</li>
-        <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a> (1)</li>
-        <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> (1)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (1)</li>
+        <li><a href="../../../author/nikon_charles"><b>Nikon</b> Charles</a> (1)</li>
         <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a> (1)</li>
+        <li><a href="../../../author/zhu_yanfei"><b>Zhu</b> Yanfei</a> (1)</li>
     </ol>
 
 </div>

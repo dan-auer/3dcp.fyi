@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/le_liu"><b>Le</b> Liu</a>, <a href="../../../author/li_shuo"><b>Li</b> Shuo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../an_wang_le_li.2024.RTMoEaBi3CPBoTDM/">Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method</a> (3)</li>
+        <li><a href="../../../author/an_ning"><b>An</b> Ning</a>, <a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/le_liu"><b>Le</b> Liu</a>, <a href="../../../author/li_shuo"><b>Li</b> Shuo</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../an_wang_le_li.2024.RTMoEaBi3CPBoTDM/">Real-Time Monitoring of Extrudability and Buildability in 3D Concrete Printing Based on Target Detection Method</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ding_yao"><b>Ding</b> Yao</a> (1)</li>
+        <li><a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a> (1)</li>
         <li><a href="../../../author/gao_pan"><b>Gao</b> Pan</a> (1)</li>
-        <li><a href="../../../author/liu_jiepeng"><b>Liu</b> Jiepeng</a> (1)</li>
+        <li><a href="../../../author/jia_ru"><b>Jia</b> Ru</a> (1)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (1)</li>
         <li><a href="../../../author/qi_hongtuo"><b>Qi</b> Hongtuo</a> (1)</li>
-        <li><a href="../../../author/tomoya_nishiwaki"><b>Tomoya</b> Nishiwaki</a> (1)</li>
     </ol>
 
 </div>

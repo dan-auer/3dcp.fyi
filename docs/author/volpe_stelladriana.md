@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 57
+    : 66
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a> (23)</li>
+        <li><a href="../../../author/volpe_stelladriana"><b>Volpe</b> Stelladriana</a>, <a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a>, <a href="../../../author/petrella_andrea"><b>Petrella</b> Andrea</a>, <a href="../../../author/coppola_armando"><b>Coppola</b> Armando</a> et al. <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../volp_sang_petr_copp.2021.BEPw3PT/">Building Envelope Prefabricated with 3D Printing Technology</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (9)</li>
-        <li><a href="../../../author/rossi_emilio"><b>Rossi</b> Emilio</a> (2)</li>
-        <li><a href="../../../author/scott_allan"><b>Scott</b> Allan</a> (2)</li>
+        <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (12)</li>
+        <li><a href="../../../author/cantagallo_christina"><b>Cantagallo</b> Christina</a> (3)</li>
+        <li><a href="../../../author/valeri_manuela"><b>Valeri</b> Manuela</a> (3)</li>
+        <li><a href="../../../author/gokce_tansu"><b>Gokce</b> Tansu</a> (2)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (2)</li>
-        <li><a href="../../../author/trepci_esra"><b>Trepci</b> Esra</a> (2)</li>
     </ol>
 
 </div>

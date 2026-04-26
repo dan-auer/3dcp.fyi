@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 83
+    : 89
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a>, <a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../xu_qian_yu_leun.2022.TPo3PSHCCCMPNSaPP/">Tensile Performance of 3D Printed Strain-Hardening Cementitious Composites Considering Material-Parameters, Nozzle-Size and Printing-Pattern</a> (42)</li>
+        <li><a href="../../../author/xu_nuoyan"><b>Xu</b> Nuoyan</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../xu_qian.2023.EoFVFFLWBRaNCAot3PoSHCC/">Effects of Fiber-Volume Fraction, Fiber Length, Water-Binder Ratio, and Nano-Clay Addition on the 3D Printability of Strain-Hardening Cementitious Composites</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,9 +50,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (27)</li>
-        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (21)</li>
-        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (19)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (29)</li>
+        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (23)</li>
+        <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (20)</li>
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (9)</li>
         <li><a href="../../../author/yu_jie"><b>Yu</b> Jie</a> (9)</li>
     </ol>

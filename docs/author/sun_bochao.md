@@ -19,18 +19,18 @@ search:
     : 2022-10-06
     
     Last Contribution
-    : 2025-04-17
+    : 2026-03-16
 
     Number Contributions
-    : 5
+    : 6
 
     Number Citations
-    : 97
+    : 111
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a> (4)</li>
-        <li><a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> (3)</li>
+        <li><a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> (4)</li>
         <li><a href="../../../author/li_peichen"><b>Li</b> Peichen</a> (2)</li>
         <li><a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> (1)</li>
         <li><a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a> (1)</li>
@@ -38,16 +38,16 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a> (38)</li>
+        <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/zeng_qiang"><b>Zeng</b> Qiang</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/zhao_weijian"><b>Zhao</b> Weijian</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sun_zeng_wang_zhao.2022.S3PMwCPRFA/">Sustainable 3D Printed Mortar with CO2 Pretreated Recycled Fine Aggregates</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (15)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (15)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (12)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (11)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zhao_qiliang"><b>Zhao</b> Qiliang</a>, <a href="../../../author/huang_yuxiang"><b>Huang</b> Yuxiang</a>, <a href="../../../author/wang_bowen"><b>Wang</b> Bowen</a>, <a href="../../../author/zhang_qiuchi"><b>Zhang</b> Qiuchi</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zhao_huan_wang_zhan.2026.AIDLFfCBMSaQAo3PC/">An Integrated Deep Learning Framework for CT-Based Mesoscopic Segmentation and Quantitative Analysis of 3D-Printed Concrete</a></li>
   <li><a href="../../../author/zhou_biao"><b>Zhou</b> Biao</a>, <a href="../../../author/zhou_hongru"><b>Zhou</b> Hongru</a>, <a href="../../../author/yoshioka_hideki"><b>Yoshioka</b> Hideki</a>, <a href="../../../author/noguchi_takafumi"><b>Noguchi</b> Takafumi</a> et al. <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET/">Mechanical and Microstructure Evolution of 3D Printed Concrete Interlayer at Elevated Temperatures</a></li>
   <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/dominicus_randy"><b>Dominicus</b> Randy</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../sun_domi_dong_li.2024.PtSDo3PCCtSEoCTaH/">Predicting the Strength Development of 3D Printed Concrete Considering the Synergistic Effect of Curing-Temperature and Humidity:<br/>From Perspective of Modified Maturity-Model</a></li>
   <li><a href="../../../author/sun_bochao"><b>Sun</b> Bochao</a>, <a href="../../../author/li_peichen"><b>Li</b> Peichen</a>, <a href="../../../author/wang_dianchao"><b>Wang</b> Dianchao</a>, <a href="../../../author/ye_jun"><b>Ye</b> Jun</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../sun_li_wang_ye.2023.EoMPaAo3PCaDT/">Evaluation of Mechanical Properties and Anisotropy of 3D Printed Concrete at Different Temperatures</a></li>

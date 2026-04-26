@@ -62,8 +62,9 @@ Journal Article - Cement and Concrete Research, Vol. 187, No. 107710
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a>, <a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a>, <a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a>, <a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../robe_schm_unge_mezh.2026.CoTIotSBUo3PC/">Characterization of Temperature Influence on the Structural Build-Up of 3D Printed Concrete</a></li>
     </ol>
 </div>
 

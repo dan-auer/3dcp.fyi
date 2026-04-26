@@ -25,7 +25,7 @@ search:
     : 15
 
     Number Citations
-    : 847
+    : 895
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a> (238)</li>
+        <li><a href="../../../author/soltan_g_daniel"><b>Soltan</b> Daniel</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> <a href="../../../date/2018/03">(2018-03)</a><br><a href="../../../solt_li.2018.ASRCCfBS3P/">A Self-Reinforced Cementitious Composite for Building-Scale 3D Printing</a> (241)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (48)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (41)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (38)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (37)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (34)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (35)</li>
     </ol>
 
 </div>

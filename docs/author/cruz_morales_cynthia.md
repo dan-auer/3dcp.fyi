@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 7
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (2)</li>
         <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (2)</li>
         <li><a href="../../../author/hegger_josef"><b>Hegger</b> Josef</a> (2)</li>
-        <li><a href="../../../author/aydogan_gurabi_olcay"><b>Aydoğan</b> Olcay</a> (1)</li>
-        <li><a href="../../../author/kelek_enes_bedirhan"><b>Kelek</b> Bedirhan</a> (1)</li>
+        <li><a href="../../../author/butler_marko"><b>Butler</b> Marko</a> (1)</li>
+        <li><a href="../../../author/kumar_manish"><b>Kumar</b> Manish</a> (1)</li>
     </ol>
 
 </div>

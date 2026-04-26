@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 32
+    : 37
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG/">Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>Effect of Operational- and Material-Oriented Parameters</a> (18)</li>
+        <li><a href="../../../author/ozkilic_hamza"><b>Özkılıç</b> Hamza</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/aminipour_ehsan"><b>Aminipour</b> Ehsan</a>, <a href="../../../author/tugluca_sonmez_merve"><b>Tuğluca</b> Merve</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../ozk_ilca_amin_tugl.2023.BPaAPo3PCaDWBG/">Bond Properties and Anisotropy Performance of 3D Printed Construction and Demolition Waste-Based Geopolymers:<br/>Effect of Operational- and Material-Oriented Parameters</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

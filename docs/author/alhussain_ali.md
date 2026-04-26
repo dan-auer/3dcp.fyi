@@ -19,23 +19,23 @@ search:
     : 2024-02-29
     
     Last Contribution
-    : 2024-02-29
+    : 2025-10-31
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> (1)</li>
-        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (1)</li>
+        <li><a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> (2)</li>
+        <li><a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a> (4)</li>
+        <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -61,5 +61,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alhu_duar_brow.2025.SGCGf3CPE/">Stress-Guided Corrugated Geometry for 3D Concrete PrintedBuilding Envelopes</a></li>
   <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../alhu_duar_brow.2024.DaDDFSPMf3CP/">Developing a Data-Driven Filament-Shape-Prediction-Model for 3D Concrete Printing</a></li>
 </ol>

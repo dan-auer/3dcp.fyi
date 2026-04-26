@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 67
+    : 83
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (11)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (11)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (11)</li>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (9)</li>
-        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (9)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (15)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (14)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (12)</li>
+        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (11)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (10)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>, <a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/ma_haiyan"><b>Ma</b> Haiyan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhon_lyu_deng_ma.2025.AEMftPoMPCCfIMSER3P/">An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing</a> (1)</li>
+        <li><a href="../../../author/zhong_jianjun"><b>Zhong</b> Jianjun</a>, <a href="../../../author/lyu_libo"><b>Lyu</b> Libo</a>, <a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a>, <a href="../../../author/ma_haiyan"><b>Ma</b> Haiyan</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zhon_lyu_deng_ma.2025.AEMftPoMPCCfIMSER3P/">An Evaluation-Method for the Printability of Magnesium-Phosphate-Cement Concrete for Integrated Mixing-Stirring-Extrusion Rapid 3D Printing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/deng_yongjie"><b>Deng</b> Yongjie</a> (1)</li>
+        <li><a href="../../../author/li_wei"><b>Li</b> Wei</a> (1)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (1)</li>
+        <li><a href="../../../author/yin_fengxiang"><b>Yin</b> Fengxiang</a> (1)</li>
+        <li><a href="../../../author/zong_meirong"><b>Zong</b> Meirong</a> (1)</li>
     </ol>
 
 </div>

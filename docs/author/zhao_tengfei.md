@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/yu_yang"><b>Yu</b> Yang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_jian_zhao_yu.2025.PDPLaLCC3P/">Porous Diatomite Promotes Lightweight and Low-Carbon Concrete 3D Printing:<br/>An Exploratory Study</a> (2)</li>
+        <li><a href="../../../author/liu_qiang"><b>Liu</b> Qiang</a>, <a href="../../../author/jiang_quan"><b>Jiang</b> Quan</a>, <a href="../../../author/zhao_herui"><b>Zhao</b> Herui</a>, <a href="../../../author/yu_yang"><b>Yu</b> Yang</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../liu_jian_zhao_yu.2025.PDPLaLCC3P/">Porous Diatomite Promotes Lightweight and Low-Carbon Concrete 3D Printing:<br/>An Exploratory Study</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (1)</li>
-        <li><a href="../../../author/liu_mei"><b>Liu</b> Mei</a> (1)</li>
-        <li><a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a> (1)</li>
-        <li><a href="../../../author/medeiros_karolline_fernanda"><b>de Medeiros</b> Fernanda</a> (1)</li>
-        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (1)</li>
+        <li><a href="../../../author/gong_hao"><b>Gong</b> Hao</a> (2)</li>
+        <li><a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a> (2)</li>
+        <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a> (2)</li>
+        <li><a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> (2)</li>
+        <li><a href="../../../author/zhang_lei"><b>Zhang</b> Lei</a> (1)</li>
     </ol>
 
 </div>

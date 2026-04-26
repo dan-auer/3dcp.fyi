@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/bernal_a_susan"><b>Bernal</b> Susan</a>, <a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/kammer_s_david"><b>Kammer</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../hass_bern_raza_kamm.2024.FAo3PoPCSSBM/">Feasibility-Assessment of 3D Printability of Portland-Cement-Steel-Slag Blended Mortar</a> (2)</li>
+        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS/">Flexural Behavior of Stay-in-Place Load-Bearing 3D-Printed Concrete Formwork for Ribbed Slabs</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (2)</li>
         <li><a href="../../../author/ler_kee-hong"><b>Ler</b> Kee-Hong</a> (1)</li>
-        <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (1)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
         <li><a href="../../../author/pichler_nils"><b>Pichler</b> Nils</a> (1)</li>
         <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (1)</li>
     </ol>

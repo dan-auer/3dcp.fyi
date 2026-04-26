@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 16
+    : 18
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/masoud_laith"><b>Masoud</b> Laith</a>, <a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../maso_hamm_mort_masa.2024.RMaMPoPFRGCfAM/">Rheological, Mechanical, and Microscopic Properties of Polypropylene-Fiber-Reinforced Geopolymer Concrete for Additive Manufacturing</a> (9)</li>
+        <li><a href="../../../author/masoud_laith"><b>Masoud</b> Laith</a>, <a href="../../../author/hammoud_ahmad"><b>Hammoud</b> Ahmad</a>, <a href="../../../author/mortada_youssef"><b>Mortada</b> Youssef</a>, <a href="../../../author/masad_eyad"><b>Masad</b> Eyad</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../maso_hamm_mort_masa.2024.RMaMPoPFRGCfAM/">Rheological, Mechanical, and Microscopic Properties of Polypropylene-Fiber-Reinforced Geopolymer Concrete for Additive Manufacturing</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

@@ -19,31 +19,31 @@ search:
     : 2016-09-28
     
     Last Contribution
-    : 2025-10-14
+    : 2026-03-16
 
     Number Contributions
-    : 18
+    : 19
 
     Number Citations
-    : 535
+    : 569
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (8)</li>
+        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (9)</li>
         <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (6)</li>
         <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (5)</li>
-        <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a> (4)</li>
+        <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a> (4)</li>
         <li><a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a> (300)</li>
+        <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a> (304)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (20)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (21)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (16)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (12)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (11)</li>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (29)</li>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (23)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (22)</li>
-        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (20)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (19)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (21)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (20)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/araujo_fazio_sabrina"><b>Araujo</b> Sabrina</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../maie_sesh_jacq_arau.2026.PEMSRwSBf3P/">Programming Earthen Materials’ Shape Retention with Synergistic Biopolymers for 3D Printing</a></li>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/seshadri_n_akul"><b>Seshadri</b> Akul</a>, <a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../maie_armi_sesh_carc.2025.LBGSKREC/">Locust Bean Gum–Stabilized Kaolin-Rich Earthen Composites:<br/>From On-Land to Underwater 3D Printing</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../jacq_kawa_span.2025.UtSBu3PCBM/">Unveiling the Structural Build-up 3D Printable Cement-Based Materials:<br/>From Small Amplitude Oscillatory Shear (SAOS) To Extensional (SAOE) Rheological Workflows</a></li>
   <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jacq_maie_kawa_perr.2024.SPo3PFCMbATCPUEDMA/">Stability-Prediction of 3D Printable Fresh Construction Materials by Analyzing Thixotropic Compressive Properties Using Extensional Dynamic Mechanical Analysis</a></li>
@@ -74,10 +75,10 @@ search:
   <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a></li>
   <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/armistead_j_samuel"><b>Armistead</b> Samuel</a>, <a href="../../../author/mikofsky_a_rebecca"><b>Mikofsky</b> Rebecca</a>, <a href="../../../author/huang_qiqi"><b>Huang</b> Qiqi</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../maie_armi_miko_huan.2024.Ra3PoABSEC/">Rheology and 3D Printing of Alginate Bio-Stabilized Earth Concrete</a></li>
   <li><a href="../../../author/henschen_d_jacob"><b>Henschen</b> Jacob</a>, <a href="../../../author/blood_daniel"><b>Blood</b> Daniel</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/kirkvold_a_heather"><b>Kirkvold</b> Heather</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../hens_bloo_kawa_kirk.2023.TAMwCfCM/">Teaching Additive Manufacturing with Consideration for Cementitious Materials</a></li>
-  <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../doub_badj_kawa.2022.IoIPoRMPS/">Influence of Infill-Pattern on Reactive MgO Printed Structures</a></li>
-  <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
-  <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../doub_kawa.2021.UoNCaMtTRfTDCP/">Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing</a></li>
-  <li><a href="../../../author/douba_alaeddin"><b>Douba</b> AlaEddin</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
+  <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../doub_badj_kawa.2022.IoIPoRMPS/">Influence of Infill-Pattern on Reactive MgO Printed Structures</a></li>
+  <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/badjatya_palash"><b>Badjatya</b> Palash</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../doub_badj_kawa.2022.ECaSoMCT3P/">Enhancing Carbonation and Strength of MgO Cement Through 3D Printing</a></li>
+  <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../doub_kawa.2021.UoNCaMtTRfTDCP/">Use of Nano-Clays and Methylcellulose to Tailor Rheology for Three-Dimensional Concrete Printing</a></li>
+  <li><a href="../../../author/douba_eddin_ala"><b>Douba</b> Ala</a>, <a href="../../../author/chan_clare"><b>Chan</b> Clare</a>, <a href="../../../author/berrios_stephanie"><b>Berrios</b> Stephanie</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../doub_chan_berr_kawa.2020.SoHRMf3CP/">Synthesis of Hybridized Rheological Modifiers for 3D Concrete Printing</a></li>
   <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a> et al. <a href="../../../date/2019/08">(2019-08)</a><br><a href="../../../rous_bess_kawa_marc.2019.RAoYSaEoFCBM/">Recent Advances on Yield-Stress and Elasticity of Fresh Cement-Based Materials</a></li>
   <li><a href="../../../author/ma_siwei"><b>Ma</b> Siwei</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../ma_kawa.2019.RaWTPoCPMwDGaAPNCf3CP/">Rheological and Water Transport Properties of Cement-Pastes Modified with Diutan Gum and Attapulgite-Palygorskite-Nano-Clay for 3D Concrete Printing</a></li>
   <li><a href="../../../author/marchon_delphine"><b>Marchon</b> Delphine</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a>, <a href="../../../author/bessaies-bey_hela"><b>Bessaies-Bey</b> Hela</a>, <a href="../../../author/mantellato_sara"><b>Mantellato</b> Sara</a> et al. <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../marc_kawa_bess_mant.2018.HaRCoCfDF/">Hydration- and Rheology-Control of Concrete for Digital Fabrication:<br/>Potential Admixtures and Cement-Chemistry</a></li>

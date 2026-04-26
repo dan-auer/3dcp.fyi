@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 20
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a> (17)</li>
+        <li><a href="../../../author/kamhawi_abdallah"><b>Kamhawi</b> Abdallah</a>, <a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../kamh_meib.2024.TaSiEB3CPoCCtPPF/">Techniques and Strategies in Extrusion-Based 3D Concrete Printing of Complex Components to Prevent Premature Failure</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lin_yuxin"><b>Lin</b> Yuxin</a> (2)</li>
+        <li><a href="../../../author/chen_zhengren"><b>Chen</b> Zhengren</a> (2)</li>
+        <li><a href="../../../author/li_zheng"><b>Li</b> Zheng</a> (2)</li>
         <li><a href="../../../author/meibodi_aghaei_mania"><b>Meibodi</b> Mania</a> (2)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (2)</li>
-        <li><a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a> (1)</li>
-        <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (1)</li>
+        <li><a href="../../../author/zhou_xinting"><b>Zhou</b> Xinting</a> (2)</li>
     </ol>
 
 </div>

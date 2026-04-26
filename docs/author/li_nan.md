@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a> (4)</li>
+        <li><a href="../../../author/li_weihong"><b>Li</b> Weihong</a>, <a href="../../../author/chen_xuhao"><b>Chen</b> Xuhao</a>, <a href="../../../author/li_nan"><b>Li</b> Nan</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../li_chen_li.2023.3PoFSBFRCBM/">3D Printing of Fast Setting Basalt Fiber-Reinforced Cement-Based Materials</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
         <li><a href="../../../author/chen_bing"><b>Chen</b> Bing</a> (1)</li>
-        <li><a href="../../../author/he_fuqiang"><b>He</b> Fuqiang</a> (1)</li>
-        <li><a href="../../../author/rezania_mohammad"><b>Rezania</b> Mohammad</a> (1)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (1)</li>
+        <li><a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a> (1)</li>
         <li><a href="../../../author/wang_chaofan"><b>Wang</b> Chaofan</a> (1)</li>
-        <li><a href="../../../author/wang_yong"><b>Wang</b> Yong</a> (1)</li>
     </ol>
 
 </div>

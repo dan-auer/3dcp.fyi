@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 17
+    : 19
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a>, <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mend_kell.2023.AoODPbEoCMU3S/">Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning</a> (11)</li>
+        <li><a href="../../../author/mendricky_radomir"><b>Mendřický</b> Radomír</a>, <a href="../../../author/keller_petr"><b>Keller</b> Petr</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../mend_kell.2023.AoODPbEoCMU3S/">Analysis of Object-Deformations Printed by Extrusion of Concrete-Mixtures Using 3D-Scanning</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

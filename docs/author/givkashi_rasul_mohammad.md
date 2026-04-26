@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 38
+    : 47
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ramezani_amir"><b>Ramezani</b> Amir</a>, <a href="../../../author/modaresi_shahriar"><b>Modaresi</b> Shahriar</a>, <a href="../../../author/dashti_pooria"><b>Dashti</b> Pooria</a>, <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../rame_moda_dash_givk.2023.EoDToFoFaHPoCaGB3PM/">Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures:<br/>A Review</a> (21)</li>
+        <li><a href="../../../author/ramezani_amir"><b>Ramezani</b> Amir</a>, <a href="../../../author/modaresi_shahriar"><b>Modaresi</b> Shahriar</a>, <a href="../../../author/dashti_pooria"><b>Dashti</b> Pooria</a>, <a href="../../../author/givkashi_rasul_mohammad"><b>Givkashi</b> Mohammad</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../rame_moda_dash_givk.2023.EoDToFoFaHPoCaGB3PM/">Effects of Different Types of Fibers on Fresh and Hardened Properties of Cement and Geopolymer-Based 3D Printed Mixtures:<br/>A Review</a> (23)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/korniejenko_kinga"><b>Korniejenko</b> Kinga</a> (2)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
-        <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
-        <li><a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (6)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (6)</li>
+        <li><a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> (4)</li>
+        <li><a href="../../../author/li_hairuo"><b>Li</b> Hairuo</a> (3)</li>
+        <li><a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> (3)</li>
     </ol>
 
 </div>

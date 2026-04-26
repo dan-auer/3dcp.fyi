@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 9
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a> (8)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/quispe_axcel"><b>Quispe</b> Axcel</a>, <a href="../../../author/baldoceda_jordan"><b>Baldoceda</b> Jordan</a>, <a href="../../../author/kim_suyeon"><b>Kim</b> Suyeon</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../silv_quis_bald_kim.2024.ACoCDBULCCMaFBTO/">Additive Construction of Concrete Deep Beams Using Low-Cost Characterization Methods and FEM-Based Topological Optimization</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (2)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (2)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> (2)</li>
         <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> (2)</li>
-        <li><a href="../../../author/huang_xiaodong"><b>Huang</b> Xiaodong</a> (1)</li>
-        <li><a href="../../../author/najm-eddine_asmae"><b>Najm-Eddine</b> Asmae</a> (1)</li>
-        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (1)</li>
         <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (1)</li>
     </ol>
 

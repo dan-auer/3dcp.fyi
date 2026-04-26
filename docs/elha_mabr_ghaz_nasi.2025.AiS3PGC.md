@@ -115,8 +115,9 @@ Journal Article - Journal of The Minerals, Metals & Materials
       <li><a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/chen_gaofeng"><b>Chen</b> Gaofeng</a>, <a href="../../../author/li_shujun"><b>Li</b> Shujun</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP/">Development of Low-Carbon Materials from GGBS and Clay-Brick-Powder for 3D Concrete Printing</a></li>
       <li><a href="../../../author/zhou_longfei"><b>Zhou</b> Longfei</a>, <a href="../../../author/gou_mifeng"><b>Gou</b> Mifeng</a>, <a href="../../../author/zhang_haibo"><b>Zhang</b> Haibo</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhou_gou_zhan.2023.IotAoBTaFAtP3PM/">Investigation on the Applicability of Bauxite-Tailings as Fine Aggregate to Prepare 3D Printing Mortar</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/cziraki_balint"><b>Cziráki</b> Bálint</a>, <a href="../../../author/kaman_andras"><b>Kámán</b> András</a>, <a href="../../../author/boros_adrienn"><b>Boros</b> Adrienn</a>, <a href="../../../author/korim_tamas"><b>Korim</b> Tamás</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../czir_kama_boro_kori.2026.DaIoaCPM/">Design and Implementation of a Composite Printing Machine</a></li>
     </ol>
 </div>
 

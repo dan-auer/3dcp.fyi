@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mohammed_a_arafat"><b>Mohammed</b> Arafat</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/abdwais_h_ahmed"><b>Abdwais</b> Ahmed</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../moha_tami_abdw.2024.SPo3CPLBW/">Structural Performance of 3D Concrete Printed Load-Bearing Walls</a> (2)</li>
+        <li><a href="../../../author/mohammed_a_arafat"><b>Mohammed</b> Arafat</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a>, <a href="../../../author/abdwais_h_ahmed"><b>Abdwais</b> Ahmed</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../moha_tami_abdw.2024.SPo3CPLBW/">Structural Performance of 3D Concrete Printed Load-Bearing Walls</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> (1)</li>
-        <li><a href="../../../author/dehn_frank"><b>Dehn</b> Frank</a> (1)</li>
-        <li><a href="../../../author/ince_ceren"><b>Ince</b> Ceren</a> (1)</li>
-        <li><a href="../../../author/manny_agemar"><b>Manny</b> Agemar</a> (1)</li>
-        <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a> (1)</li>
+        <li><a href="../../../author/anil_ozgur"><b>Anıl</b> Özgür</a> (1)</li>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (1)</li>
+        <li><a href="../../../author/mercimek_omer"><b>Mercimek</b> Ömer</a> (1)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
+        <li><a href="../../../author/spencer_lee_lawson"><b>Spencer</b> Lawson</a> (1)</li>
     </ol>
 
 </div>

@@ -62,8 +62,9 @@ Journal Article - Structures, Vol. 84, No. 110946
       <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a>, <a href="../../../author/zhai_mingang"><b>Zhai</b> Mingang</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/wu_qing"><b>Wu</b> Qing</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../wang_zhai_yao_wu.2022.PaMPo3PCEMIW/">Printable and Mechanical Performance of 3D Printed Concrete Employing Multiple Industrial Wastes</a></li>
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/han_nv"><b>Han</b> Nv</a>, <a href="../../../author/zhang_lihai"><b>Zhang</b> Lihai</a>, <a href="../../../author/zou_shuai"><b>Zou</b> Shuai</a> <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET/">Mechanical and Microstructural Evolution of 3D Printed Concrete with Polyethylene-Fiber and Recycled Sand at Elevated Temperatures</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/wang_huai"><b>Wang</b> Huai</a>, <a href="../../../author/li_xiulin"><b>Li</b> Xiulin</a>, <a href="../../../author/gong_hao"><b>Gong</b> Hao</a>, <a href="../../../author/wang_peijun"><b>Wang</b> Peijun</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../wang_li_gong_wang.2026.TaMPo3PLHGMAC/">Thermal and Mechanical Properties of 3D Printed Lightweight Hollow Glass Microsphere Aggregate Concrete</a></li>
     </ol>
 </div>
 

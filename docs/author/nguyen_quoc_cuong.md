@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 9
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tran_nhi"><b>Tran</b> Nhi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tran_tran_tran_nguy.2024.EF3PCUSSA/">Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate:<br/>Buildability, Printability and Mechanical Properties</a> (5)</li>
+        <li><a href="../../../author/tran_nhi"><b>Tran</b> Nhi</a>, <a href="../../../author/tran_mien"><b>Tran</b> Mien</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/nguyen_anh"><b>Nguyen</b> Anh</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../tran_tran_tran_nguy.2024.EF3PCUSSA/">Eco-Friendly 3D Printed Concrete Using Steel-Slag-Aggregate:<br/>Buildability, Printability and Mechanical Properties</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
-        <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>
         <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (1)</li>
+        <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> (1)</li>
     </ol>
 
 </div>

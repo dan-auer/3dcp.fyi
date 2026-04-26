@@ -19,21 +19,21 @@ search:
     : 2022-03-17
     
     Last Contribution
-    : 2025-12-01
+    : 2026-03-18
 
     Number Contributions
-    : 9
+    : 11
 
     Number Citations
-    : 95
+    : 105
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> (7)</li>
+        <li><a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> (8)</li>
         <li><a href="../../../author/wang_bolin"><b>Wang</b> Bolin</a> (5)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (4)</li>
+        <li><a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a> (3)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (3)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -47,7 +47,7 @@ search:
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (17)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (15)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (15)</li>
-        <li><a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> (11)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bai_songlin"><b>Bai</b> Songlin</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/liu_shilong"><b>Liu</b> Shilong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../bai_yao_yang_liu.2026.DaCoSCSBoCAM/">Design and Construction of Spatial Curved Structures Based on Concrete Additive Manufacturing:<br/>A Case Study of an Irregular Gatehouse</a></li>
+  <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/shi_hao"><b>Shi</b> Hao</a>, <a href="../../../author/wu_ye"><b>Wu</b> Ye</a>, <a href="../../../author/chen_jiacheng"><b>Chen</b> Jiacheng</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../luo_shi_wu_chen.2026.IFPFaTPo3PCwDO/">Inter-Filaments Pore Features and Tensile Properties of 3D Printed Concrete with Different Overlap</a></li>
   <li><a href="../../../author/luo_xiaoyu"><b>Luo</b> Xiaoyu</a>, <a href="../../../author/zhao_yuqi"><b>Zhao</b> Yuqi</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a>, <a href="../../../author/yao_xiaofei"><b>Yao</b> Xiaofei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF/">Introducing Cement Composite Agents During Printing Process to Enhance the 3D-Printed Concrete Interfaces Between Layers and Filaments</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/deng_qi"><b>Deng</b> Qi</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF/">Fresh Properties and Rheological Behavior of 3D-Printed Cementitious Composites Incorporating Recycled PVC and Nylon Fibers:<br/>An Experimental Approach</a></li>
   <li><a href="../../../author/nasr_ahmed"><b>Nasr</b> Ahmed</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/yang_min"><b>Yang</b> Min</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF/">Enhancing Mechanical Properties of 3D Printed Cementitious Composites Utilizing Hybrid Recycled PP and PET-Fibers</a></li>

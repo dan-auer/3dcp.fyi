@@ -77,8 +77,9 @@ Journal Article - Journal of Building Engineering, Vol. 97, No. 110707
       <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a></li>
       <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/zhu_shidong"><b>Zhu</b> Shidong</a>, <a href="../../../author/li_wangxin"><b>Li</b> Wangxin</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zhu_zhu_li_zhan.2023.ASotPoMSC/">A Study on the Printability of Manufactured Sand Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/baccaro_arianna"><b>Baccaro</b> Arianna</a>, <a href="../../../author/cala_adriana"><b>Calà</b> Adriana</a>, <a href="../../../author/famoso_martina"><b>Famoso</b> Martina</a>, <a href="../../../author/santoro_enza"><b>Santoro</b> Enza</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../bacc_cala_famo_sant.2026.3PwRM/">3D Printing with Recycled Materials:<br/>A Review on the Viability of Bio-Waste and Stone Waste in Construction Applications</a></li>
       <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sand_step.2025.OMf3PG/">Online Monitoring for 3D Printable Geopolymers:<br/>Automated Slug Test Analysis with Image Analysis Revealing Mixing Sequence Effects</a></li>
     </ol>
 </div>

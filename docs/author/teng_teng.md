@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 15
+    : 21
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (8)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (6)</li>
-        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (5)</li>
-        <li><a href="../../../author/bernard_mylene"><b>Bernard</b> Mylène</a> (2)</li>
-        <li><a href="../../../author/trousset_leon"><b>Trousset</b> Leon</a> (2)</li>
-        <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (2)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (10)</li>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (9)</li>
+        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (6)</li>
+        <li><a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> (6)</li>
+        <li><a href="../../../author/machado-romero_andrea"><b>Machado Romero</b> Andrea</a> (4)</li>
     </ol>
 
 </div>

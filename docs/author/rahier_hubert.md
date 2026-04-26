@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 7
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a> (7)</li>
+        <li><a href="../../../author/chen_yanjuan"><b>Chen</b> Yanjuan</a>, <a href="../../../author/kuva_jukka"><b>Kuva</b> Jukka</a>, <a href="../../../author/mohite_ashish"><b>Mohite</b> Ashish</a>, <a href="../../../author/li_zhongsen"><b>Li</b> Zhongsen</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP/">Investigation of the Internal Structure of Hardened 3D Printed Concrete by X-CT Scanning and Its Influence on the Mechanical Performance</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a> (3)</li>
+        <li><a href="../../../author/li_jiren"><b>Li</b> Jiren</a> (3)</li>
         <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a> (2)</li>
-        <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a> (2)</li>
         <li><a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> (2)</li>
-        <li><a href="../../../author/li_jiren"><b>Li</b> Jiren</a> (2)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (2)</li>
+        <li><a href="../../../author/wang_mingqiang"><b>Wang</b> Mingqiang</a> (2)</li>
     </ol>
 
 </div>

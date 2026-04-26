@@ -25,18 +25,18 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/gutierrez_mejia_ruby"><b>de Gutiérrez</b> Ruby</a> (1)</li>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a> (1)</li>
         <li><a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a> (5)</li>
+        <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -62,5 +62,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/robayo-salazar_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a></li>
+  <li><a href="../../../author/robayo-salazar_andres_rafael"><b>Robayo-Salazar</b> Rafael</a>, <a href="../../../author/munoz_a_miguel"><b>Muñoz</b> Miguel</a>, <a href="../../../author/vargas_armando"><b>Vargas</b> Armando</a>, <a href="../../../author/gutierrez_mejia_ruby"><b>Gutiérrez</b> Ruby</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI/">Effects of Incorporating Bentonite, Metakaolin, Microsilica, and Calcium-Carbonate on the Rheological Properties of Portland-Cement-Based 3D Printing Inks</a></li>
 </ol>

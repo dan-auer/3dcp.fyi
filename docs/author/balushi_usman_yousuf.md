@@ -19,34 +19,35 @@ search:
     : 2023-03-20
     
     Last Contribution
-    : 2023-03-20
+    : 2026-01-27
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/kindi_ghassan"><b>Al Kindi</b> Ghassan</a> (1)</li>
-        <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a> (1)</li>
-        <li><a href="../../../author/sawafi_bushra"><b>Al Sawafi</b> Bushra</a> (1)</li>
+        <li><a href="../../../author/kindi_ghassan"><b>Al Kindi</b> Ghassan</a> (2)</li>
+        <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a> (2)</li>
+        <li><a href="../../../author/sawafi_bushra"><b>Al Sawafi</b> Bushra</a> (2)</li>
         <li><a href="../../../author/shiwazi_amira"><b>Al Shiwazi</b> Amira</a> (1)</li>
+        <li><a href="../../../author/shizawi_amira"><b>Al Shizawi</b> Amira</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shiwazi_amira"><b>Shiwazi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../qure_shiw_kind_sawa.2024.DoAfC3PbULM/">Development of Additive for Concrete 3D Printer by Using Local Materials</a> (0)</li>
+        <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shiwazi_amira"><b>Shiwazi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../qure_shiw_kind_sawa.2024.DoAfC3PbULM/">Development of Additive for Concrete 3D Printer by Using Local Materials</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (5)</li>
-        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (5)</li>
-        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (5)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (3)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
+        <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (10)</li>
+        <li><a href="../../../author/copuroglu_oguzhan"><b>Çopuroğlu</b> Oğuzhan</a> (10)</li>
+        <li><a href="../../../author/schlangen_erik"><b>Schlangen</b> Erik</a> (10)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (7)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -59,5 +60,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shizawi_amira"><b>Shizawi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P/">Development of Cementitious Material by Incorporating Fine Waste Materials for Testing in Newly Developed Portable Concrete 3D Printer</a></li>
   <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shiwazi_amira"><b>Shiwazi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../qure_shiw_kind_sawa.2024.DoAfC3PbULM/">Development of Additive for Concrete 3D Printer by Using Local Materials</a></li>
 </ol>

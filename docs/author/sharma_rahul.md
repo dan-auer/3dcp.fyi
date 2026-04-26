@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 139
+    : 149
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a> (83)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a>, <a href="../../../author/ungermann_jan"><b>Ungermann</b> Jan</a>, <a href="../../../author/sharma_rahul"><b>Sharma</b> Rahul</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../cla_unge_shar.2020.AMoRC/">Additive Manufacturing of Reinforced Concrete:<br/>Development of a 3D Printing Technology for Cementitious Composites with Metallic Reinforcement</a> (85)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (11)</li>
+        <li><a href="../../../author/classen_martin"><b>Claßen</b> Martin</a> (13)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (10)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/engel_sven"><b>Engel</b> Sven</a> (8)</li>
         <li><a href="../../../author/muller_steffen"><b>Müller</b> Steffen</a> (7)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (6)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (7)</li>
     </ol>
 
 </div>

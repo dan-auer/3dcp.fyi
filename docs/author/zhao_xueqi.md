@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a> (5)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a>, <a href="../../../author/zhao_xueqi"><b>Zhao</b> Xueqi</a>, <a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../chen_zhao_qian.2024.VBPD3CPPSFEILB/">Voxel-Based Path-Driven 3D Concrete Printing Process Simulation Framework Embedding Inter-Layer Behavior</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (2)</li>
-        <li><a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> (1)</li>
-        <li><a href="../../../author/bunster_victor"><b>Bunster</b> Victor</a> (1)</li>
-        <li><a href="../../../author/reznik_petro"><b>Reznik</b> Petro</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (4)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (2)</li>
+        <li><a href="../../../author/jiang_sheng"><b>Jiang</b> Sheng</a> (2)</li>
+        <li><a href="../../../author/yang_lei"><b>Yang</b> Lei</a> (2)</li>
         <li><a href="../../../author/tenesesku_vladyslav"><b>Tenesesku</b> Vladyslav</a> (1)</li>
     </ol>
 

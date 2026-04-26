@@ -25,7 +25,7 @@ search:
     : 12
 
     Number Citations
-    : 410
+    : 450
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a> (168)</li>
+        <li><a href="../../../author/moelich_marius_gerrit"><b>Moelich</b> Gerrit</a>, <a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/combrinck_riaan"><b>Combrinck</b> Riaan</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../moel_krug_comb.2020.PSCi3PC/">Plastic Shrinkage Cracking in 3D Printed Concrete</a> (176)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (33)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (36)</li>
         <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (24)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (21)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (20)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (18)</li>
-        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a> (18)</li>
     </ol>
 
 </div>

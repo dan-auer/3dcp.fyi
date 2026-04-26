@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/nguyen_chong_duy"><b>Nguyen</b> Duy</a>, <a href="../../../author/shim_su_chang"><b>Shim</b> Chang</a> <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../kim_nguy_shim.2023.DFfDoaPBP/">Digital Fabrication for DfMA of a Prefabricated Bridge Pier</a> (2)</li>
+        <li><a href="../../../author/kim_kyung_tae"><b>Kim</b> Tae</a>, <a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/dong_won-jun"><b>Dong</b> Won-Jun</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../kim_oh_lee_dong.2025.Eo3PCPFotFBoRCB/">Effects of 3D-Printed Concrete Permanent Formwork on the Flexural Behavior of Reinforced Concrete Beams:<br/>Experimental and Analytical Investigations</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/akbarnezhad_ali"><b>Akbarnezhad</b> Ali</a> (1)</li>
         <li><a href="../../../author/banihashemi_saeed"><b>Banihashemi</b> Saeed</a> (1)</li>
-        <li><a href="../../../author/haouzi_bril-el_hind"><b>Haouzi</b> Hind</a> (1)</li>
-        <li><a href="../../../author/rolfe_bernard"><b>Rolfe</b> Bernard</a> (1)</li>
+        <li><a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> (1)</li>
+        <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a> (1)</li>
         <li><a href="../../../author/sheikhkhoshkar_moslem"><b>Sheikhkhoshkar</b> Moslem</a> (1)</li>
     </ol>
 

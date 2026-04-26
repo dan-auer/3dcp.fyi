@@ -18,7 +18,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1016/j.conbuildmat.2023.132804" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2023.132804" target="_blank">10.1016/j.conbuildmat.2023.132804</a>
 
-<span class="author"><a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b>&nbsp;Augusto</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_hugo"><b>Costa</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carmo_ricardo"><b>do&nbsp;Carmo</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodrigues_ana"><b>Rodrigues</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/julio_eduardo"><b>Júlio</b>&nbsp;Eduardo</a></span><br>
+<span class="author"><a href="https://orcid.org/0000-0002-5772-3600" title="ORCID: 0000-0002-5772-3600" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/soares_cezar-maciel_augusto"><b>Soares</b>&nbsp;Augusto</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-3445-0694" title="ORCID: 0000-0003-3445-0694" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/costa_hugo"><b>Costa</b>&nbsp;Hugo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-3254-2221" title="ORCID: 0000-0002-3254-2221" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/carmo_ricardo"><b>do&nbsp;Carmo</b>&nbsp;Ricardo</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-7133-7159" title="ORCID: 0000-0002-7133-7159" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/rodrigues_ana"><b>Rodrigues</b>&nbsp;Ana</a></span>, <span class="author"><a href="https://orcid.org/0000-0001-7031-6260" title="ORCID: 0000-0001-7031-6260" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b>&nbsp;Florindo</a></span>, <span class="author"><a href="https://orcid.org/0000-0003-1690-9887" title="ORCID: 0000-0003-1690-9887" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/julio_eduardo"><b>Júlio</b>&nbsp;Eduardo</a></span><br>
 Journal Article - Construction and Building Materials, Vol. 401, No. 132804
 
 <a href="../../keyword/comprehension"><button class="btn">#comprehension</button></a> <a href="../../keyword/design"><button class="btn">#design</button></a> <a href="../../keyword/method"><button class="btn">#method</button></a> <a href="../../keyword/mortar"><button class="btn">#mortar</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> 
@@ -88,7 +88,7 @@ Journal Article - Construction and Building Materials, Vol. 401, No. 132804
 
     ```bibtex
     @article{soar_cost_carm_rodr.2023.CDMf3PM,
-      author            = "Augusto Cezar Maciel Soares and Hugo Costa and Ricardo do Carmo and Ana Rodrigues and Florindo Gaspar and Eduardo Júlio",
+      author            = "Augusto Cezar Maciel Soares and Hugo Costa and Ricardo do Carmo and Ana Rodrigues and Florindo José Mendes Gaspar and Eduardo Júlio",
       title             = "Comprehensive Design Methodology for 3D Printing Mortars",
       doi               = "10.1016/j.conbuildmat.2023.132804",
       year              = "2023",
@@ -104,10 +104,10 @@ Journal Article - Construction and Building Materials, Vol. 401, No. 132804
 
     === "IEEE"
 
-    <span id="iee">A. C. M. Soares, H. Costa, R. do Carmo, A. Rodrigues, F. Gaspar and E. Júlio, “Comprehensive Design Methodology for 3D Printing Mortars”, <i>Construction and Building Materials</i>, vol. 401, p. 132804, 2023, doi: 10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">A. C. M. Soares, H. Costa, R. do Carmo, A. Rodrigues, F. J. M. Gaspar and E. Júlio, “Comprehensive Design Methodology for 3D Printing Mortars”, <i>Construction and Building Materials</i>, vol. 401, p. 132804, 2023, doi: 10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Soares, Augusto Cezar Maciel, Hugo Costa, Ricardo do Carmo, Ana Rodrigues, Florindo Gaspar, and Eduardo Júlio. “Comprehensive Design Methodology for 3D Printing Mortars”. <i>Construction and Building Materials</i> 401 (2023): 132804. https://doi.org/10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Soares, Augusto Cezar Maciel, Hugo Costa, Ricardo do Carmo, Ana Rodrigues, Florindo José Mendes Gaspar, and Eduardo Júlio. “Comprehensive Design Methodology for 3D Printing Mortars”. <i>Construction and Building Materials</i> 401 (2023): 132804. https://doi.org/10.1016/j.conbuildmat.2023.132804.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

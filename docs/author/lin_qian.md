@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 30
+    : 33
 
 !!! success "Top Co-Authors"
     <ol>
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> (3)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (3)</li>
         <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (3)</li>
-        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (2)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
     </ol>
 
 </div>

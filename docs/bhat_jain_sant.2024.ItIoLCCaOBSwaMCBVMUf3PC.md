@@ -68,8 +68,9 @@ Journal Article - Journal of Materials in Civil Engineering, Vol. 36, Iss. 10
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/meena_hitesh"><b>Meena</b> Hitesh</a>, <a href="../../../author/ghani_zimam"><b>Ghani</b> Zimam</a> <a href="../../../date/2018/12">(2018-12)</a><br><a href="../../../rahu_sant_meen_ghan.2019.3PC/">3D Printable Concrete:<br/>Mixture-Design and Test-Methods</a></li>
       <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/sharma_abhishek"><b>Sharma</b> Abhishek</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../rahu_shar_sant.2020.ADBAftAoPSDEoCM/">A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/oh_sangwoo"><b>Oh</b> Sangwoo</a>, <a href="../../../author/lee_jinsuk"><b>Lee</b> Jinsuk</a>, <a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../oh_lee_choi.2026.EtBoCCOBMi3P/">Enhancing the Buildability of CSA Cement/OPC-Blended Mortar in 3D Printing:<br/>Optimizing CSA Cement and Water Contents Using a Statistical Approach</a></li>
       <li><a href="../../../author/kurniati_oktavia_eka"><b>Kurniati</b> Eka</a>, <a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> <a href="../../../date/2025/04">(2025-04)</a><br><a href="../../../kurn_kim.2025.EtPo3PLCCCUHCAaSF/">Enhancing the Printability of 3D Printing Limestone Calcined Clay Cement Using Hydroxyethyl Cellulose Admixture and Silica Fume</a></li>
     </ol>
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 89
+    : 92
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a> (47)</li>
+        <li><a href="../../../author/yu_jing"><b>Yu</b> Jing</a>, <a href="../../../author/leung_kin-ying_christopher"><b>Leung</b> Christopher</a> <a href="../../../date/2018/09">(2018-09)</a><br><a href="../../../yu_leun.2019.Io3PDoMPoSHCCS/">Impact of 3D Printing-Direction on Mechanical Performance of Strain-Hardening Cementitious Composite (SHCC)</a> (48)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,8 +50,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (15)</li>
-        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (11)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (16)</li>
+        <li><a href="../../../author/sun_yan"><b>Sun</b> Yan</a> (12)</li>
         <li><a href="../../../author/du_guoqiang"><b>Du</b> Guoqiang</a> (9)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (8)</li>
         <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (7)</li>

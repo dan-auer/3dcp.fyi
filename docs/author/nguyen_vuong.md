@@ -19,44 +19,44 @@ search:
     : 2021-01-07
     
     Last Contribution
-    : 2026-01-17
+    : 2026-02-26
 
     Number Contributions
-    : 12
+    : 14
 
     Number Citations
-    : 343
+    : 381
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (10)</li>
+        <li><a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> (6)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (5)</li>
-        <li><a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> (5)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
-        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (2)</li>
+        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a> (89)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/nguyen_kien"><b>Nguyen</b> Kien</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../nguy_li_liu_nguy.2022.Mo3CPP/">Modelling of 3D Concrete Printing Process:<br/>A Perspective on Material and Structural Simulations</a> (92)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (56)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (57)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (46)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (45)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (43)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (38)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (34)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (35)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (25)</li>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (24)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (22)</li>
         <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a> (14)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (12)</li>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (11)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (13)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (12)</li>
     </ol>
 
 </div>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/lao_junying"><b>Lao</b> Junying</a>, <a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../nguy_jie_lao_huan.2026.EaMSMIoPLCECCwDPFC/">Experimental and Multi-Scale Modelling Investigation of Printable, Low-Cement Engineered Cementitious Composites with Different Polyethene Fiber Contents</a></li>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../nguy_du.2026.U3CP/">Underwater 3D Concrete Printing:<br/>Automation Challenges, Process-Material Coupling, and Future Construction Pathways</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/lao_junying"><b>Lao</b> Junying</a>, <a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../nguy_jie_lao_huan.2026.PoLRaA3PCCwLCECC/">Performance of Lightweight, Reinforced, and Assemblable 3D-Printed Concrete Columns with Low-Carbon Engineered Cementitious Composites</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a>, <a href="../../../author/wong_s_hong"><b>Wong</b> Hong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC/">Effect of Infill Architecture on Structural Performance and Sustainability of 3D-Printed Reinforced Concrete Columns</a></li>
   <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a>, <a href="../../../author/san-ha_ngoc"><b>San Ha</b> Ngoc</a>, <a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../nguy_tran_san_xie.2024.BRo3PBCPRwSF/">Blast-Resistance of 3D Printed Bouligand Concrete Panels Reinforced with Steel-Fibers:<br/>Numerical Investigations</a></li>

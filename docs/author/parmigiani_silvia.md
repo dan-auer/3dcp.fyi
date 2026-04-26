@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/zhang_bo"><b>Zhang</b> Bo</a> (3)</li>
         <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (2)</li>
-        <li><a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> (2)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (2)</li>
     </ol>
 

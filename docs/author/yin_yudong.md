@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/yin_yudong"><b>Yin</b> Yudong</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../huan_xu_yin.2023.ItOo3PCSbWS/">Improving the Overhang of 3D Printed Concrete Shells by Wrinkle Structures</a> (6)</li>
+        <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a>, <a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a>, <a href="../../../author/yin_yudong"><b>Yin</b> Yudong</a> <a href="../../../date/2023/03">(2023-03)</a><br><a href="../../../huan_xu_yin.2023.ItOo3PCSbWS/">Improving the Overhang of 3D Printed Concrete Shells by Wrinkle Structures</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
         <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (2)</li>
         <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (2)</li>
         <li><a href="../../../author/huang_shuyi"><b>Huang</b> Shuyi</a> (2)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (2)</li>
         <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (2)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (1)</li>
     </ol>
 
 </div>

@@ -71,8 +71,9 @@ Journal Article - Engineering Structures, Vol. 345, No. 121501
       <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wan_wang_ma.2022.CaAPPBoTMf3CP/">Continuous and Adaptable Printing Path Based on Transfinite Mapping for 3D Concrete Printing</a></li>
       <li><a href="../../../author/yang_wenwei"><b>Yang</b> Wenwei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/feng_peng"><b>Feng</b> Peng</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../yang_wang_ma_feng.2023.AIMoTOaPDf3CP/">An Integrated Method of Topological-Optimization and Path-Design for 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/lv_liping"><b>Lv</b> Liping</a>, <a href="../../../author/he_jing"><b>He</b> Jing</a>, <a href="../../../author/chen_jiazhe"><b>Chen</b> Jiazhe</a>, <a href="../../../author/xu_dan"><b>Xu</b> Dan</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../lv_he_chen_xu.2026.IMOOfMHC3CPvaTTEGA/">Integrated Multi-Objective Optimization for Multi-Head Collaborative 3D Concrete Printing via a Trinary-Tree Enhanced Genetic Algorithm</a></li>
     </ol>
 </div>
 

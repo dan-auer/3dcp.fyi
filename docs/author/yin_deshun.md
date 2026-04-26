@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a> (2)</li>
+        <li><a href="../../../author/ma_liangzhu"><b>Ma</b> Liangzhu</a>, <a href="../../../author/yin_deshun"><b>Yin</b> Deshun</a>, <a href="../../../author/ren_jiangtao"><b>Ren</b> Jiangtao</a>, <a href="../../../author/tian_mingyuan"><b>Tian</b> Mingyuan</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../ma_yin_ren_tian.2024.AETSDRMf3PCMitFS/">An Effective Thixotropic Structural-Dynamics Rheological-Model for 3D Printed Concrete Materials in the Flow-State</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> (1)</li>
-        <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (1)</li>
-        <li><a href="../../../author/huang_zhenhua"><b>Huang</b> Zhenhua</a> (1)</li>
-        <li><a href="../../../author/li_tianyu"><b>Li</b> Tianyu</a> (1)</li>
-        <li><a href="../../../author/nishiwaki_tomoya"><b>Nishiwaki</b> Tomoya</a> (1)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
+        <li><a href="../../../author/ong_e-l_dominic"><b>Ong</b> Dominic</a> (1)</li>
+        <li><a href="../../../author/qi_pengfei"><b>Qi</b> Pengfei</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
     </ol>
 
 </div>

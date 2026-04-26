@@ -19,13 +19,13 @@ search:
     : 2018-03-01
     
     Last Contribution
-    : 2025-11-14
+    : 2026-03-19
 
     Number Contributions
-    : 21
+    : 23
 
     Number Citations
-    : 335
+    : 367
 
 !!! success "Top Co-Authors"
     <ol>
@@ -33,28 +33,28 @@ search:
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (13)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (13)</li>
         <li><a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> (10)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (4)</li>
+        <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a> (6)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a> (77)</li>
+        <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../tao_rahu_lesa_yuan.2021.SCoCBMUAiILMP/">Stiffening Control of Cement-Based Materials Using Accelerators in In-Line Mixing Processes:<br/>Possibilities and Challenges</a> (81)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (61)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (41)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (39)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (36)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (29)</li>
+        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (63)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (43)</li>
+        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (41)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (81)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (65)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (64)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (61)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (30)</li>
         <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (27)</li>
     </ol>
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a>, <a href="../../../author/sheng_ruyi"><b>Sheng</b> Ruyi</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zia_yuan_irfa_shen.2026.IoSBAotWaMBo3PM/">Influence of Sugarcane Bagasse Ash on the Workability and Mechanical Behaviour of 3D-Printed Mortar</a></li>
+  <li><a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zia_muhammad-mudassir_syed"><b>Zia</b> Syed</a>, <a href="../../../author/sheikh_mazhar_taimur"><b>Sheikh</b> Taimur</a>, <a href="../../../author/irfan-ul-hassan_muhammad"><b>Irfan ul Hassan</b> Muhammad</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yuan_zia_shei_irfa.2026.EIBSo3PCTMDbMoISBA/">Enhancing Interlayer Bond Strength of 3D-Printed Concrete Through Microstructural Densification by Means of Incorporating Sugarcane Bagasse Ash</a></li>
   <li><a href="../../../author/zhang_jiao-long"><b>Zhang</b> Jiao-Long</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/fatoyinbo_oluwatoyin_imoleayo"><b>Fatoyinbo</b> Imoleayo</a>, <a href="../../../author/zhou_lujie"><b>Zhou</b> Lujie</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../zhan_yuan_fato_zhou.2025.3PMIMSWIBA/">3D-Printable Mortars Incorporating Municipal Solid Waste Incineration Bottom Ash:<br/>Linking Hydration to Extrudability and Mechanical Performance</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/yuan_yong"><b>Yuan</b> Yong</a>, <a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../tao_yuan_zhan_wang.2025.PSAoPUVT/">Pore Structure Analysis of Printcrete Under Varying Temperature</a></li>
   <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a>, <a href="../../../author/lesage_karel"><b>Lesage</b> Karel</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../tao_wang_wang_lesa.2025.APR/">A (P)Review:<br/>Adhesion of Printcrete for Tunnel Structures</a></li>

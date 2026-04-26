@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/madurwar_v_kamlesh"><b>Madurwar</b> Kamlesh</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bhag_pand_madu_raut.2025.LCAo3PBMTSDOaEIAUCIT/">Life Cycle Assessment of 3D-Printed Building Materials Towards Sustainability-Driven Optimization and Environmental Impact Analysis Using Computational Intelligence Techniques</a> (0)</li>
+        <li><a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/madurwar_v_kamlesh"><b>Madurwar</b> Kamlesh</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../bhag_pand_madu_raut.2025.LCAo3PBMTSDOaEIAUCIT/">Life Cycle Assessment of 3D-Printed Building Materials Towards Sustainability-Driven Optimization and Environmental Impact Analysis Using Computational Intelligence Techniques</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chang_mengzhu"><b>Chang</b> Mengzhu</a> (1)</li>
+        <li><a href="../../../author/zeng_jun"><b>Zeng</b> Jun</a> (1)</li>
     </ol>
 
 </div>

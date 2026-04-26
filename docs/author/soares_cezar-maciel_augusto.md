@@ -31,7 +31,7 @@ search:
     <ol>
         <li><a href="../../../author/carmo_ricardo"><b>do Carmo</b> Ricardo</a> (2)</li>
         <li><a href="../../../author/costa_hugo"><b>Costa</b> Hugo</a> (2)</li>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (2)</li>
         <li><a href="../../../author/julio_eduardo"><b>Júlio</b> Eduardo</a> (2)</li>
         <li><a href="../../../author/rodrigues_ana"><b>Rodrigues</b> Ana</a> (2)</li>
     </ol>

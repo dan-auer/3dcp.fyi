@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 19
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../han_yan_chen_tang.2023.PSo3PCUDSWoUL/">Plastic Shrinkage of 3D Printed Concrete Under Different Self-Weight of Upper Layers</a> (18)</li>
+        <li><a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/chen_tiefeng"><b>Chen</b> Tiefeng</a>, <a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../han_yan_chen_tang.2023.PSo3PCUDSWoUL/">Plastic Shrinkage of 3D Printed Concrete Under Different Self-Weight of Upper Layers</a> (21)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (3)</li>
         <li><a href="../../../author/guo_xiaolu"><b>Guo</b> Xiaolu</a> (2)</li>
         <li><a href="../../../author/hu_jiajun"><b>Hu</b> Jiajun</a> (2)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (2)</li>
-        <li><a href="../../../author/liu_xinhao"><b>Liu</b> Xinhao</a> (2)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (2)</li>
+        <li><a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a> (2)</li>
+        <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (2)</li>
     </ol>
 
 </div>

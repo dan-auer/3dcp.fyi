@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 11
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a> (10)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a>, <a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a>, <a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../giwa_demp_fisk_kaze.2024.3PSRCPEfWERC/">3D Printed Sulfur-Regolith Concrete Performance Evaluation for Waterless Extraterrestrial Robotic Construction</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (6)</li>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (4)</li>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (3)</li>
-        <li><a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> (3)</li>
-        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (2)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (10)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (8)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (5)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (5)</li>
+        <li><a href="../../../author/giwa_ilerioluwa"><b>Giwa</b> Ilerioluwa</a> (4)</li>
     </ol>
 
 </div>

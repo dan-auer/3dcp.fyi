@@ -69,8 +69,9 @@ Journal Article - Applied Thermal Engineering, No. 128567
       <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nimbalkar_samir_atharwa"><b>Nimbalkar</b> Atharwa</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../sure_trip_nimb_neit.2023.ACTi3PCaIDoLHaIT/">Anisotropic Chloride Transport in 3D Printed Concrete and Its Dependence on Layer-Height and Interface-Types</a></li>
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/chen_chi"><b>Chen</b> Chi</a>, <a href="../../../author/wang_shenglin"><b>Wang</b> Shenglin</a>, <a href="../../../author/li_xiaoyuan"><b>Li</b> Xiaoyuan</a>, <a href="../../../author/yang_dengwei"><b>Yang</b> Dengwei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chen_wang_li_yang.2026.RPaMftCoLEoEB3PC/">Recent Progress and Methodology for the Characterization of Layer-Effects of Extrusion-Based 3D-Printed Concrete</a></li>
     </ol>
 </div>
 

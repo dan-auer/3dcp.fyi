@@ -19,13 +19,13 @@ search:
     : 2019-05-10
     
     Last Contribution
-    : 2025-11-19
+    : 2026-01-30
 
     Number Contributions
-    : 69
+    : 70
 
     Number Citations
-    : 3490
+    : 3764
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,12 +38,12 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (320)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (347)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (173)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (174)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (167)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (150)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (136)</li>
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (97)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (96)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (88)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (83)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (82)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (112)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (102)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (97)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (94)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (88)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/shen_jianyu"><b>Shen</b> Jianyu</a>, <a href="../../../author/cheng_yaofei"><b>Cheng</b> Yaofei</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/wang_bo"><b>Wang</b> Bo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_chen_xiao_wang.2026.TaMPo3PESWSbAAS/">Thermal and Mechanical Performance of 3D-Printed Excavated Soil Wall Solidified by Alkali-Activated Slag</a></li>
   <li><a href="../../../author/li_jiannan"><b>Li</b> Jiannan</a>, <a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../li_sing_zhao_sun.2025.ETMaMPo3PCTRUFWGP/">Enhancing Thermo-Mechanical and Moisture Properties of 3D-Printed Concrete Through Recycled Ultra-Fine Waste Glass Powder:<br/>Corrigendum</a></li>
   <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/zhu_ruitao"><b>Zhu</b> Ruitao</a>, <a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC/">Direct Tensile Behavior of Three-Dimensional-Printable Steel Fiber-Reinforced Ultrahigh Performance Concrete</a></li>
   <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/he_yao"><b>He</b> Yao</a>, <a href="../../../author/yu_miao"><b>Yu</b> Miao</a>, <a href="../../../author/wang_changhao"><b>Wang</b> Changhao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xiao_he_yu_wang.2025.EoPCMotPoM/">Effects of Pressurized CO2 Mixing on the Properties of Mortar</a></li>

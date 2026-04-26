@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 28
+    : 40
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a> (20)</li>
+        <li><a href="../../../author/chen_wenguang"><b>Chen</b> Wenguang</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/fediuk_roman"><b>Fediuk</b> Roman</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../chen_ye_jian_fedi.2024.PRf3PECC/">Printability Region for 3D Printable Engineered Cementitious Composites</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (5)</li>
-        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (5)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (6)</li>
+        <li><a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a> (6)</li>
         <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (3)</li>
-        <li><a href="../../../author/raza_ali"><b>Raza</b> Ali</a> (3)</li>
-        <li><a href="../../../author/wang_yuting"><b>Wang</b> Yuting</a> (3)</li>
+        <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a> (3)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (3)</li>
     </ol>
 
 </div>

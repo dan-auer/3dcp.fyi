@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 230
+    : 237
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a> (230)</li>
+        <li><a href="../../../author/pegna_joseph"><b>Pegna</b> Joseph</a> <a href="../../../date/1997/02">(1997-02)</a><br><a href="../../../pegn.1997.EIoSFC/">Exploratory Investigation of Solid Freeform Construction</a> (237)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,7 @@ search:
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (7)</li>
         <li><a href="../../../author/duballet_romain"><b>Duballet</b> Romain</a> (7)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
-        <li><a href="../../../author/baverel_olivier"><b>Baverel</b> Olivier</a> (6)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahmat_f_n"><b>Rahmat</b> N.</a>, <a href="../../../author/ali_noorwirdawati"><b>Ali</b> Noorwirdawati</a>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../rahm_ali_abdu_abdu.2023.FPaFSo3PSCCGaPCR/">Fresh Properties and Flexural Strength of 3D Printing Sustainable Concrete Containing GGBS as Partial Cement Replacement</a> (4)</li>
+        <li><a href="../../../author/rahmat_f_n"><b>Rahmat</b> N.</a>, <a href="../../../author/ali_noorwirdawati"><b>Ali</b> Noorwirdawati</a>, <a href="../../../author/abdullah_radziah_siti"><b>Abdullah</b> Siti</a>, <a href="../../../author/abdul-hamid_azlina_noor"><b>Abdul Hamid</b> Noor</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../rahm_ali_abdu_abdu.2023.FPaFSo3PSCCGaPCR/">Fresh Properties and Flexural Strength of 3D Printing Sustainable Concrete Containing GGBS as Partial Cement Replacement</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/goel_devansh"><b>Goel</b> Devansh</a> (2)</li>
+        <li><a href="../../../author/kore_dattatraya_sudarshan"><b>Kore</b> Sudarshan</a> (2)</li>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
-        <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> (1)</li>
         <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (1)</li>
     </ol>
 
 </div>

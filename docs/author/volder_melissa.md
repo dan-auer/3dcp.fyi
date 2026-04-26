@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 75
+    : 81
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGBSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers</a> (41)</li>
+        <li><a href="../../../author/putten_jolien"><b>Putten</b> Jolien</a>, <a href="../../../author/volder_melissa"><b>Volder</b> Melissa</a>, <a href="../../../author/heede_philip"><b>Heede</b> Philip</a>, <a href="../../../author/deprez_maxim"><b>Deprez</b> Maxim</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../putt_vold_heed_depr.2022.TPo3PCMwPTGBSL/">Transport Properties of 3D Printed Cementitious Materials with Prolonged Time-Gap Between Successive Layers</a> (46)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
     <ol>
         <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (8)</li>
         <li><a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> (7)</li>
-        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (6)</li>
+        <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (7)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (6)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (5)</li>
     </ol>

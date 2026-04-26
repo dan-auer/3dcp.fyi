@@ -56,8 +56,9 @@ Journal Article - Cement and Concrete Composites, No. 105870
       <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a>, <a href="../../../author/krishna_anurag"><b>Krishna</b> Anurag</a>, <a href="../../../author/wang_shen"><b>Wang</b> Shen</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../zhan_nere_kris_wang.2021.MDCf3PC/">Mix-Design Concepts for 3D Printable Concrete:<br/>A Review</a></li>
       <li><a href="../../../author/zhong_hui"><b>Zhong</b> Hui</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../zhon_zhan.2022.3PG/">3D Printing Geopolymers:<br/>A Review</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_jintao"><b>Luo</b> Jintao</a>, <a href="../../../author/zhang_li"><b>Zhang</b> Li</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a>, <a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../luo_zhan_guan_yao.2026.RMTtPEF3PC/">Recycling Molybdenum Tailings to Produce Eco-Friendly 3D-Printed Concrete:<br/>Rheological Properties, Mechanical Evolution and Internal Curing Mechanism</a></li>
     </ol>
 </div>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 143
+    : 144
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a> (143)</li>
+        <li><a href="../../../author/zhang_xu"><b>Zhang</b> Xu</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/lim_hui_jian"><b>Lim</b> Jian</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> et al. <a href="../../../date/2018/08">(2018-08)</a><br><a href="../../../zhan_li_lim_weng.2018.LS3PbaToMR/">Large-Scale 3D Printing by a Team of Mobile Robots</a> (144)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (7)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (7)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (6)</li>
         <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (6)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 7
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a> (7)</li>
+        <li><a href="../../../author/moraes_julia-bassan_maria"><b>Moraes</b> Maria</a>, <a href="../../../author/nagata_yukimi_ester"><b>Nagata</b> Ester</a>, <a href="../../../author/duran_jose-felicio-peres_afonso"><b>Duran</b> Afonso</a>, <a href="../../../author/rossignolo_adriano_joao"><b>Rossignolo</b> João</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../mora_naga_dura_ross.2024.AAMAi3PC/">Alkali-Activated Materials Applied in 3D Printing Construction:<br/>A Review</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,7 +53,7 @@ search:
         <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> (1)</li>
         <li><a href="../../../author/gomzyakov_albert"><b>Gomzyakov</b> Albert</a> (1)</li>
         <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (1)</li>
-        <li><a href="../../../author/liebscher_marco"><b>Liebscher</b> Marco</a> (1)</li>
+        <li><a href="../../../author/ma_xiaomeng"><b>Ma</b> XiaoMeng</a> (1)</li>
         <li><a href="../../../author/yuvaraj_divya"><b>Yuvaraj</b> Divya</a> (1)</li>
     </ol>
 

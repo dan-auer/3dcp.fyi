@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/vishruthi_m"><b>Vishruthi</b> M.</a>, <a href="../../../author/raghavendra_s"><b>Raghavendra</b> S.</a>, <a href="../../../author/ravi-teja_y"><b>Ravi Teja</b> Y.</a>, <a href="../../../author/anand_b_k"><b>Anand</b> K.</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../vish_ragh_ravi_anan.2021.EoCMfP/">Evaluation of Cementitious Mixes for Printing</a> (2)</li>
+        <li><a href="../../../author/vishruthi_m"><b>Vishruthi</b> M.</a>, <a href="../../../author/raghavendra_s"><b>Raghavendra</b> S.</a>, <a href="../../../author/ravi-teja_y"><b>Ravi Teja</b> Y.</a>, <a href="../../../author/anand_b_k"><b>Anand</b> K.</a> <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../vish_ragh_ravi_anan.2021.EoCMfP/">Evaluation of Cementitious Mixes for Printing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a> (1)</li>
+        <li><a href="../../../author/borgianni_yuri"><b>Borgianni</b> Yuri</a> (1)</li>
         <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> (1)</li>
-        <li><a href="../../../author/khan_mehran"><b>Khan</b> Mehran</a> (1)</li>
         <li><a href="../../../author/mcnally_ciaran"><b>McNally</b> Ciaran</a> (1)</li>
+        <li><a href="../../../author/ozturk_ece"><b>Öztürk</b> Ece</a> (1)</li>
     </ol>
 
 </div>

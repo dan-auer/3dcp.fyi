@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 33
+    : 38
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a> (24)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/sun_zhongke"><b>Sun</b> Zhongke</a>, <a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yang_lan_sun_xu.2022.APMtDTSaFTo3PFRCLiDD/">A Predictive Model to Determine Tensile Strength and Fracture-Toughness of 3D Printed Fiber-Reinforced Concrete Loaded in Different Directions</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (3)</li>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (3)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (3)</li>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (3)</li>
-        <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> (2)</li>
-        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
-        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (3)</li>
+        <li><a href="../../../author/yang_tiange"><b>Yang</b> Tiange</a> (3)</li>
     </ol>
 
 </div>

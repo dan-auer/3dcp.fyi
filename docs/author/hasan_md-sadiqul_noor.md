@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 11
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/basit_abdul_md"><b>Basit</b> Md</a>, <a href="../../../author/hasan_md-sadiqul_noor"><b>Hasan</b> Noor</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../paul_basi_hasa_dey.2023.3PoGM/">3D Printing of Geopolymer Mortar:<br/>Overview of the Effect of Mix-Design and Printing Parameters on the Strength</a> (11)</li>
+        <li><a href="../../../author/paul_chandra_suvash"><b>Paul</b> Suvash</a>, <a href="../../../author/basit_abdul_md"><b>Basit</b> Md</a>, <a href="../../../author/hasan_md-sadiqul_noor"><b>Hasan</b> Noor</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../paul_basi_hasa_dey.2023.3PoGM/">3D Printing of Geopolymer Mortar:<br/>Overview of the Effect of Mix-Design and Printing Parameters on the Strength</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/akhrif_iatimad"><b>Akhrif</b> Iatimad</a> (2)</li>
         <li><a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a> (2)</li>
         <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (2)</li>
+        <li><a href="../../../author/oulkhir_zahra_fatima"><b>Oulkhir</b> Fatima</a> (2)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (2)</li>
-        <li><a href="../../../author/antczak_emmanuel"><b>Antczak</b> Emmanuel</a> (1)</li>
-        <li><a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> (1)</li>
     </ol>
 
 </div>

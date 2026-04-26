@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 65
+    : 76
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_yu"><b>Chen</b> Yu</a> (5)</li>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (5)</li>
+        <li><a href="../../../author/chen_zhengyuan"><b>Chen</b> Zhengyuan</a> (5)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (5)</li>
-        <li><a href="../../../author/yu_kequan"><b>Yu</b> Kequan</a> (5)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (5)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (5)</li>
     </ol>
 
 </div>

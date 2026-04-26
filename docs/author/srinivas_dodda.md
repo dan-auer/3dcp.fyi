@@ -25,7 +25,7 @@ search:
     : 13
 
     Number Citations
-    : 235
+    : 256
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a> (127)</li>
+        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/suraneni_prannoy"><b>Suraneni</b> Prannoy</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../dey_srin_pand_sura.2022.UoIWMf3PoSC/">Use of Industrial Waste-Materials for 3D Printing of Sustainable Concrete:<br/>A Review</a> (137)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (39)</li>
-        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (15)</li>
-        <li><a href="../../../author/boddepalli_uday"><b>Boddepalli</b> Uday</a> (9)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (43)</li>
+        <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a> (16)</li>
+        <li><a href="../../../author/biswas_pankaj"><b>Biswas</b> Pankaj</a> (10)</li>
+        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (10)</li>
         <li><a href="../../../author/gandhi_siva-ranjani_indu"><b>Gandhi</b> Indu</a> (9)</li>
-        <li><a href="../../../author/warsi_bustan-fatima_syed"><b>Warsi</b> Syed</a> (8)</li>
     </ol>
 
 </div>

@@ -19,44 +19,44 @@ search:
     : 2019-09-01
     
     Last Contribution
-    : 2025-10-27
+    : 2026-03-26
 
     Number Contributions
-    : 67
+    : 71
 
     Number Citations
-    : 2373
+    : 2650
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (29)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (23)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (18)</li>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (18)</li>
-        <li><a href="../../../author/ma_lei"><b>Ma</b> Lei</a> (15)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (31)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (24)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (19)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (19)</li>
+        <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (16)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (320)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (347)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (185)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (152)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (145)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (126)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (125)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (195)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (161)</li>
+        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (152)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (130)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (130)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (80)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (72)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (42)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (42)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (41)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (86)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (78)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (58)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (56)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (51)</li>
     </ol>
 
 </div>
@@ -64,6 +64,10 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../xia_chen_yu_zhan.2026.PDINUGDoMaRPW3PC/">Plastic Deformation Induced Non-Uniform Global Distribution of Microstructure and Related Performances Within 3D Printed Concrete</a></li>
+  <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/liu_xun"><b>Liu</b> Xun</a>, <a href="../../../author/chen_wei"><b>Chen</b> Wei</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../yu_zhu_liu_chen.2026.PMaOIMOBo3PCF/">Pore Morphology and Orientation-Induced Mechanical Orthotropic Behavior of 3D-Printed Concrete Filament</a></li>
+  <li><a href="../../../author/chen_xusheng"><b>Chen</b> Xusheng</a>, <a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a>, <a href="../../../author/bao_bingtong"><b>Bao</b> Bingtong</a>, <a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../chen_jia_bao_dong.2026.EoCAaSFIuEotPo3PSFRC/">Effect of Coarse Aggregate and Steel Fiber Interaction under Extrusion on the Performance of 3D-Printed Steel Fiber-Reinforced Concrete</a></li>
+  <li><a href="../../../author/kang_yuyang"><b>Kang</b> Yuyang</a>, <a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kang_yu_zhan_jia.2026.TCEoVMAaPPotAVSFo3PAEC/">The Coupling Effect of Viscosity Modifying Agents and Printing Process on the Air-Void Structure Formation of 3D Printed Air-Entrained Concrete</a></li>
   <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/zhu_xiaohong"><b>Zhu</b> Xiaohong</a>, <a href="../../../author/li_muduo"><b>Li</b> Muduo</a>, <a href="../../../author/zhang_yuying"><b>Zhang</b> Yuying</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_zhu_li_zhan.2025.EIAo3PCbBI/">Enhancing Interface Adhesion of 3D Printable Concrete by Biochar Integration</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/yu_qian"><b>Yu</b> Qian</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../yu_zhan_pan.2025.MSODCMf3PCIbPS/">Multi-Scale Orthotropic Damage Constitutive Model for 3D Printed Concrete Informed by Pore Structure</a></li>

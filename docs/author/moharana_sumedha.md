@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/parida_lukesh"><b>Parida</b> Lukesh</a>, <a href="../../../author/moharana_sumedha"><b>Moharana</b> Sumedha</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../pari_moha.2024.SHMf3PCI/">Structural Health Monitoring for 3D Printed Civil Infrastructures:<br/>A Review of Challenges, Applications and Future Directions</a> (1)</li>
+        <li><a href="../../../author/parida_lukesh"><b>Parida</b> Lukesh</a>, <a href="../../../author/moharana_sumedha"><b>Moharana</b> Sumedha</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../pari_moha.2024.SHMf3PCI/">Structural Health Monitoring for 3D Printed Civil Infrastructures:<br/>A Review of Challenges, Applications and Future Directions</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,8 +48,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (1)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (1)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (1)</li>
         <li><a href="../../../author/minde_pravin"><b>Minde</b> Pravin</a> (1)</li>
-        <li><a href="../../../author/patil_jagruti"><b>Patil</b> Jagruti</a> (1)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (1)</li>
     </ol>
 
 </div>

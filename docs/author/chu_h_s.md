@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 9
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a> (6)</li>
+        <li><a href="../../../author/li_g_l"><b>Li</b> L.</a>, <a href="../../../author/fang_q_z"><b>Fang</b> Z.</a>, <a href="../../../author/chu_h_s"><b>Chu</b> S.</a>, <a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS/">Improving Mechanical Properties of 3D Printed Mortar by Exploiting Synergistic Effects of Fly-Ash-Microsphere and Nano-Silica</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (2)</li>
         <li><a href="../../../author/fei_zuojie"><b>Fei</b> Zuojie</a> (1)</li>
         <li><a href="../../../author/luo_tao"><b>Luo</b> Tao</a> (1)</li>
         <li><a href="../../../author/niu_yujun"><b>Niu</b> Yujun</a> (1)</li>
-        <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (1)</li>
         <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a> (1)</li>
     </ol>
 

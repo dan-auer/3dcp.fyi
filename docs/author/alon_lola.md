@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 48
+    : 59
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a> (23)</li>
+        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a>, <a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a>, <a href="../../../author/akemah_tashania"><b>Akemah</b> Tashania</a>, <a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../carc_maie_akem_kawa.2024.MFCi3PEM/">Maximizing Fiber-Content in 3D Printed Earth Materials:<br/>Printability, Mechanical, Thermal and Environmental Assessments</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> (3)</li>
-        <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (2)</li>
-        <li><a href="../../../author/pundir_aakanksha"><b>Pundir</b> Aakanksha</a> (2)</li>
-        <li><a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a> (2)</li>
-        <li><a href="../../../author/sterman_yoav"><b>Sterman</b> Yoav</a> (2)</li>
+        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (5)</li>
+        <li><a href="../../../author/kawashima_shiho"><b>Kawashima</b> Shiho</a> (5)</li>
+        <li><a href="../../../author/maierdan_yierfan"><b>Maierdan</b> Yierfan</a> (5)</li>
+        <li><a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a> (3)</li>
+        <li><a href="../../../author/araujo_fazio_sabrina"><b>de Araujo</b> Sabrina</a> (3)</li>
     </ol>
 
 </div>

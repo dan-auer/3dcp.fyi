@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a> (2)</li>
+        <li><a href="../../../author/mitrovic_z_stefan"><b>Mitrović</b> Stefan</a>, <a href="../../../author/vidovic_milica"><b>Vidović</b> Milica</a>, <a href="../../../author/ignjatovic_ivan"><b>Ignjatović</b> Ivan</a>, <a href="../../../author/dragas_jelena"><b>Dragaš</b> Jelena</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../mitr_vido_ignj_drag.2024.ETo3PCTG/">Experimental Testing of 3D Printed Concrete Truss-Girder</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/huang_zili"><b>Huang</b> Zili</a> (1)</li>
+        <li><a href="../../../author/karakus_murat"><b>Karakus</b> Murat</a> (1)</li>
         <li><a href="../../../author/litos_jiri"><b>Litoš</b> Jiří</a> (1)</li>
+        <li><a href="../../../author/nguyen_d_giang"><b>Nguyen</b> Giang</a> (1)</li>
         <li><a href="../../../author/sana_vladimir"><b>Šána</b> Vladimír</a> (1)</li>
     </ol>
 

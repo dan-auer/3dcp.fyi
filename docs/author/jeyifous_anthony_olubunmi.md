@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jeyi_scho_stra_husk.2024.CoCMILPPaEGi3CPE/">Correlation of Continuously Measured In-Line Process Parameters and Extruded Geometry in 3D Concrete Printing Experiments</a> (2)</li>
+        <li><a href="../../../author/jeyifous_anthony_olubunmi"><b>Jeyifous</b> Olubunmi</a>, <a href="../../../author/schonsee_eric"><b>Schönsee</b> Eric</a>, <a href="../../../author/strangfeld_christoph"><b>Strangfeld</b> Christoph</a>, <a href="../../../author/husken_gotz"><b>Hüsken</b> Götz</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../jeyi_scho_stra_husk.2024.CoCMILPPaEGi3CPE/">Correlation of Continuously Measured In-Line Process Parameters and Extruded Geometry in 3D Concrete Printing Experiments</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,9 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/benz_hendrik"><b>Benz</b> Hendrik</a> (1)</li>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (2)</li>
+        <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> (2)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (2)</li>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (2)</li>
         <li><a href="../../../author/klemt-albert_katharina"><b>Klemt-Albert</b> Katharina</a> (1)</li>
-        <li><a href="../../../author/nguyen-trong_vinh_the"><b>Nguyen Trong</b> The</a> (1)</li>
     </ol>
 
 </div>

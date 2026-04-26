@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 483
+    : 522
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (320)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/ji_guangchao"><b>Ji</b> Guangchao</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../xiao_ji_zhan_ma.2021.LS3PCT/">Large-Scale 3D Printing Concrete Technology:<br/>Current Status and Future Opportunities</a> (347)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (31)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (33)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (23)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (23)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (23)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (22)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (21)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (19)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (22)</li>
     </ol>
 
 </div>

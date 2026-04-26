@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/sglavo_m_vincenzo"><b>Sglavo</b> Vincenzo</a> (2)</li>
         <li><a href="../../../author/ali_hazrat_md"><b>Ali</b> Md.</a> (1)</li>
         <li><a href="../../../author/issayev_gani"><b>Issayev</b> Gani</a> (1)</li>
-        <li><a href="../../../author/mantawy_m_islam"><b>Mantawy</b> Islam</a> (1)</li>
+        <li><a href="../../../author/katare_vasudha"><b>Katare</b> Vasudha</a> (1)</li>
         <li><a href="../../../author/oumam_mina"><b>Oumam</b> Mina</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 57
+    : 59
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a> (57)</li>
+        <li><a href="../../../author/heidarnezhad_fatemeh"><b>Heidarnezhad</b> Fatemeh</a>, <a href="../../../author/zhang_qian"><b>Zhang</b> Qian</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../heid_zhan.2022.SB3CP/">Shotcrete-Based 3D Concrete Printing:<br/>State of Art, Challenges, and Opportunities</a> (59)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,9 +48,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (8)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (5)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (9)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (6)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (4)</li>
         <li><a href="../../../author/zhang_nan"><b>Zhang</b> Nan</a> (3)</li>
     </ol>

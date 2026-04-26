@@ -19,17 +19,17 @@ search:
     : 2018-06-12
     
     Last Contribution
-    : 2026-01-11
+    : 2026-01-20
 
     Number Contributions
-    : 29
+    : 30
 
     Number Citations
-    : 338
+    : 362
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (20)</li>
+        <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (21)</li>
         <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (19)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (10)</li>
         <li><a href="../../../author/chen_zhaohui"><b>Chen</b> Zhaohui</a> (7)</li>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a> (73)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a>, <a href="../../../author/zhang_junfei"><b>Zhang</b> Junfei</a>, <a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> et al. <a href="../../../date/2018/06">(2018-06)</a><br><a href="../../../ma_zhan_wang_li.2018.MCo3PACMbtET/">Mechanical Characterization of 3D Printed Anisotropic Cementitious Material by the Electromechanical Transducer</a> (77)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (18)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (18)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (16)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (17)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (16)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (15)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (14)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (15)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_haihong"><b>Wang</b> Haihong</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_wang_zhan_liu.2024.SUoWit3PC/">Sustainable Utilization of Waste in the 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhang_xin"><b>Zhang</b> Xin</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_xu_liu_sun.2026.EEWAi3PCwSPfHP/">Enhancing Electromagnetic Wave Absorption in 3D-Printed Concrete with Superabsorbent Polymers for High Performance</a></li>
   <li><a href="../../../author/huang_bo"><b>Huang</b> Bo</a>, <a href="../../../author/liu_chang"><b>Liu</b> Chang</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../huan_liu_sun_wang.2026.OSoFMaPFMSAfEMaMPi3PC/">Optimized Synergy of Fiberglass Mesh and PP Fibers-Modified Structural Adhesive for Enhanced Mechanical and Microstructural Performance in 3D Printing Concrete</a></li>
   <li><a href="../../../author/zhang_genbao"><b>Zhang</b> Genbao</a>, <a href="../../../author/chen_lingke"><b>Chen</b> Lingke</a>, <a href="../../../author/liu_miao"><b>Liu</b> Miao</a>, <a href="../../../author/morsy_m_amr"><b>Morsy</b> Amr</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC/">Enhancing the Shear Properties of U-Shaped Steel Wire Mesh Reinforced 3D Printed Composites</a></li>

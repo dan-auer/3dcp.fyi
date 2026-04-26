@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yuan_shuaihua"><b>Yuan</b> Shuaihua</a>, <a href="../../../author/duan_dengke"><b>Duan</b> Dengke</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/yu_yi"><b>Yu</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yuan_duan_sun_yu.2024.MAEHEo3PCIwAT/">Mechanical, Alkali Excitation, Hydrothermal Enhancement of 3D Printed Concrete Incorporated with Antimony-Tailings</a> (2)</li>
+        <li><a href="../../../author/yuan_shuaihua"><b>Yuan</b> Shuaihua</a>, <a href="../../../author/duan_dengke"><b>Duan</b> Dengke</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/yu_yi"><b>Yu</b> Yi</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yuan_duan_sun_yu.2024.MAEHEo3PCIwAT/">Mechanical, Alkali Excitation, Hydrothermal Enhancement of 3D Printed Concrete Incorporated with Antimony-Tailings</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (2)</li>
         <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (2)</li>
-        <li><a href="../../../author/chen_xuan"><b>Chen</b> Xuan</a> (1)</li>
-        <li><a href="../../../author/liu_ruiying"><b>Liu</b> Ruiying</a> (1)</li>
-        <li><a href="../../../author/yu_shiwei"><b>Yu</b> Shiwei</a> (1)</li>
+        <li><a href="../../../author/hosan_anwar"><b>Hosan</b> Anwar</a> (1)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (1)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
     </ol>
 
 </div>

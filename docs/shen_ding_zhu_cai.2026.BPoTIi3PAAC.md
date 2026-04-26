@@ -64,8 +64,9 @@ Journal Article - Journal of Building Engineering, No. 115210
       <li><a href="../../../author/yalcinkaya_caglar"><b>Yalçınkaya</b> Çağlar</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../yalc.2022.IoHMDotMPo3PMwawFR/">Influence of Hydroxypropyl Methylcellulose Dosage on the Mechanical Properties of 3D Printable Mortars with and without Fiber-Reinforcement</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../zhan_zhan_yang_liu.2023.IotPFotWUi3PC/">Influence of the Pore Feature on the Water-Uptake in 3D Printed Concrete</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a>, <a href="../../../author/valek_josef"><b>Válek</b> Josef</a>, <a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a>, <a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zizk_vale_vesp_meli.2026.LBSi3PC/">Layer Bond Strength in 3D-Printed Concrete:<br/>The Role of Interlayer Surface Area and Printing Delay Time</a></li>
     </ol>
 </div>
 

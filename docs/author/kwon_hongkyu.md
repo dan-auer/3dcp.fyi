@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 97
+    : 104
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (8)</li>
         <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (6)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (6)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (6)</li>
         <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (5)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (5)</li>
     </ol>
 
 </div>

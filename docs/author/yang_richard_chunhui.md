@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 62
+    : 85
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a> (28)</li>
+        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a>, <a href="../../../author/rawat_sanket"><b>Rawat</b> Sanket</a>, <a href="../../../author/yang_richard_chunhui"><b>Yang</b> Chunhui</a>, <a href="../../../author/mahil_ahmed"><b>Mahil</b> Ahmed</a> et al. <a href="../../../date/2024/05">(2024-05)</a><br><a href="../../../rahm_rawa_yang_mahi.2024.ACRoFaRPo3PCC/">A Comprehensive Review on Fresh and Rheological Properties of 3D Printable Cementitious Composites</a> (37)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (6)</li>
+        <li><a href="../../../author/an_dong"><b>An</b> Dong</a> (4)</li>
         <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (4)</li>
-        <li><a href="../../../author/qian_xiaoping"><b>Qian</b> Xiaoping</a> (3)</li>
-        <li><a href="../../../author/maroszek_marcin"><b>Maroszek</b> Marcin</a> (2)</li>
-        <li><a href="../../../author/rudziewicz_magdalena"><b>Rudziewicz</b> Magdalena</a> (2)</li>
-        <li><a href="../../../author/zhang_x_y"><b>Zhang</b> Y.</a> (2)</li>
+        <li><a href="../../../author/rahman_mahfuzur"><b>Rahman</b> Mahfuzur</a> (4)</li>
+        <li><a href="../../../author/yang_chunhui_richard"><b>Yang</b> Richard</a> (4)</li>
     </ol>
 
 </div>

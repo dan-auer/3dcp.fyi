@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../li_wei_khay.2024.3PoFRCCLBCM/">3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials:<br/>From Mixture Design to Printability Evaluation</a> (8)</li>
+        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/wei_jingjie"><b>Wei</b> Jingjie</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../li_wei_khay.2024.3PoFRCCLBCM/">3D Printing of Fiber-Reinforced Calcined Clay-Limestone-Based Cementitious Materials:<br/>From Mixture Design to Printability Evaluation</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,8 +49,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/abou-zeid_mohamed"><b>Abou Zeid</b> Mohamed</a> (1)</li>
-        <li><a href="../../../author/habib_mostaq"><b>Habib</b> Mostaq</a> (1)</li>
+        <li><a href="../../../author/hasan_kamrul"><b>Hasan</b> Kamrul</a> (2)</li>
+        <li><a href="../../../author/alias_aizat"><b>Alias</b> Aizat</a> (1)</li>
         <li><a href="../../../author/jexembayeva_assel"><b>Jexembayeva</b> Assel</a> (1)</li>
         <li><a href="../../../author/maglad_m_ahmed"><b>Maglad</b> Ahmed</a> (1)</li>
         <li><a href="../../../author/mawa_jannatul"><b>Mawa</b> Jannatul</a> (1)</li>

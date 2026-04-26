@@ -19,44 +19,44 @@ search:
     : 2021-06-30
     
     Last Contribution
-    : 2026-01-12
+    : 2026-04-22
 
     Number Contributions
-    : 33
+    : 41
 
     Number Citations
-    : 1038
+    : 1152
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (19)</li>
-        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (16)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (25)</li>
+        <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (17)</li>
+        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (13)</li>
         <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (13)</li>
-        <li><a href="../../../author/bai_guoliang"><b>Bai</b> Guoliang</a> (11)</li>
         <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (9)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (151)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_xianggang"><b>Wang</b> Xianggang</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> et al. <a href="../../../date/2021/06">(2021-06)</a><br><a href="../../../liu_wang_chen_zhan.2021.IoHMaSFoSRPaPo3PFC/">Influence of Hydroxypropyl-Methylcellulose and Silica-Fume on Stability, Rheological Properties, and Printability of 3D Printing Foam-Concrete</a> (162)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (113)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (101)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (71)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (67)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (67)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (140)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (116)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (85)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (84)</li>
+        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (82)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (63)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (32)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (30)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (30)</li>
-        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (28)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (70)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (36)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (34)</li>
+        <li><a href="../../../author/lyu_qifeng"><b>Lyu</b> Qifeng</a> (31)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (31)</li>
     </ol>
 
 </div>
@@ -64,6 +64,14 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/lv_liping"><b>Lv</b> Liping</a>, <a href="../../../author/he_jing"><b>He</b> Jing</a>, <a href="../../../author/chen_jiazhe"><b>Chen</b> Jiazhe</a>, <a href="../../../author/xu_dan"><b>Xu</b> Dan</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../lv_he_chen_xu.2026.IMOOfMHC3CPvaTTEGA/">Integrated Multi-Objective Optimization for Multi-Head Collaborative 3D Concrete Printing via a Trinary-Tree Enhanced Genetic Algorithm</a></li>
+  <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/pan_zhihong"><b>Pan</b> Zhihong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../wu_liu_liu_pan.2026.MMIitDEoIRotSBo3PCCW/">Multiscale Mechanistic Insights into the Dual Effect of Interlayer Reinforcement on the Shear Behavior of 3D-Printed Concrete Composite Walls</a></li>
+  <li><a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/li_hairuo"><b>Li</b> Hairuo</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhao_nan"><b>Zhao</b> Nan</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../zhu_li_liu_zhao.2026.FTRo3PC/">Freeze-Thaw Resistance of 3D Printed Concrete:<br/>Comprehensive Evaluation of Material Properties and Printing Parameters</a></li>
+  <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhu_zhan_zhan_liu.2026.MIoMSCo3PCP/">Multiscale Investigation of Manufactured Sand Characteristics on 3D Printed Concrete Performance:<br/>Particle Morphology and Stone Powder Effects</a></li>
+  <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_dai_liu_du.2026.TESftRIBi3PCACPEaMI/">Targeted Enhancement Strategy for the Rebar Interface Bond in 3D Printed Coarse Aggregate Concrete: Performance Evaluation and Mechanistic Insights</a></li>
+  <li><a href="../../../author/zhu_wenxuan"><b>Zhu</b> Wenxuan</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhu_liu_zhan_zhu.2024.RRaSBuo3PMSCvSMP/">Rheological Rejuvenation and Structural Build-up of 3D Printed Manufactured Sand Concrete via Secondary Mixing Protocol</a></li>
+  <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/ma_ruiyang"><b>Ma</b> Ruiyang</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_ma_liu_dai.2026.SiCAM/">Shrinkage in Concrete Additive Manufacturing:<br/>A Critical Review of Mechanisms, Characterization, and Control Strategies</a></li>
+  <li><a href="../../../author/liu_liangchao"><b>Liu</b> Liangchao</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/ma_ruiyang"><b>Ma</b> Ruiyang</a>, <a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_liu_ma_wang.2026.ARoCCUaSTiCAM/">A Review of Carbon Capture, Utilization and Storage Technologies in Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a>, <a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC/">Effects of Pore Defects on Interfacial Bonding Between Rebar and 3D Printed Coarse Aggregate Concrete Under Multiple Loading Conditions</a></li>
   <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a>, <a href="../../../author/zhu_chao"><b>Zhu</b> Chao</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../liu_tao_zhu_liu.2026.3PCwRCA/">3D Printed Concrete with Recycled Coarse Aggregate:<br/>Freeze-Thaw Resistance Assessment and Damage Mechanisms</a></li>
   <li><a href="../../../author/liu_wenliang"><b>Liu</b> Wenliang</a>, <a href="../../../author/ji_dongsheng"><b>Ji</b> Dongsheng</a>, <a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a>, <a href="../../../author/shi_xinyu"><b>Shi</b> Xinyu</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../liu_ji_cui_shi.2025.RPoQCMoC3PBoCV/">Research Progress on Quality Control Method of Concrete 3D Printing Based on Computer Vision</a></li>

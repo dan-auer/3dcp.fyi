@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 48
+    : 54
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/sharma_abhishek"><b>Sharma</b> Abhishek</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../rahu_shar_sant.2020.ADBAftAoPSDEoCM/">A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials</a> (48)</li>
+        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a>, <a href="../../../author/sharma_abhishek"><b>Sharma</b> Abhishek</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../rahu_shar_sant.2020.ADBAftAoPSDEoCM/">A Desorptivity-Based Approach for the Assessment of Phase Separation During Extrusion of Cementitious Materials</a> (54)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,7 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (7)</li>
-        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (6)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (7)</li>
         <li><a href="../../../author/mohan_k_manu"><b>Mohan</b> Manu</a> (5)</li>
         <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (5)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (5)</li>

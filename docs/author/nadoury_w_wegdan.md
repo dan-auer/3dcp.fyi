@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nadoury_w_wegdan"><b>Nadoury</b> Wegdan</a>, <a href="../../../author/mohamed_r_ashraf"><b>Mohamed</b> Ashraf</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../nado_moha.2023.MtTGi3CP/">Modelling the Temperature Gradient in 3D Concrete Printing</a> (0)</li>
+        <li><a href="../../../author/nadoury_w_wegdan"><b>Nadoury</b> Wegdan</a>, <a href="../../../author/mohamed_r_ashraf"><b>Mohamed</b> Ashraf</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../nado_moha.2023.MtTGi3CP/">Modelling the Temperature Gradient in 3D Concrete Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -48,7 +48,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (1)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (1)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (1)</li>
+        <li><a href="../../../author/ur-rehman-bajwa_asad"><b>Ur Rehman Bajwa</b> Asad</a> (1)</li>
     </ol>
 
 </div>

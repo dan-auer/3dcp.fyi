@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 27
+    : 35
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a> (16)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a>, <a href="../../../author/nanez_robert"><b>Ñañez</b> Robert</a>, <a href="../../../author/zavaleta_diana"><b>Zavaleta</b> Diana</a>, <a href="../../../author/burgos_valeria"><b>Burgos</b> Valeria</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../silv_nane_zava_burg.2022.EFAC/">Eco-Friendly Additive Construction:<br/>Analysis of the Printability of Earthen-Based Matrices Stabilized with Potato-Starch-Gel and Sisal-Fibers</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (2)</li>
-        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (2)</li>
-        <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (2)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (2)</li>
-        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (2)</li>
+        <li><a href="../../../author/aguilar_rafael"><b>Aguilar</b> Rafael</a> (5)</li>
+        <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (5)</li>
+        <li><a href="../../../author/rojas_omar"><b>Rojas</b> Omar</a> (5)</li>
+        <li><a href="../../../author/silva_guido"><b>Silva</b> Guido</a> (5)</li>
+        <li><a href="../../../author/tudela_marcell"><b>Tudela</b> Marcell</a> (3)</li>
     </ol>
 
 </div>

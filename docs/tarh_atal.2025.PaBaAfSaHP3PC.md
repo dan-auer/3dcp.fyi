@@ -70,8 +70,10 @@ Journal Article - Polymers, Vol. 17, Iss. 18, No. 2530
       <li><a href="../../../author/teixeira_joao"><b>Teixeira</b> João</a>, <a href="../../../author/schaefer_ogliari_cecilia"><b>Schaefer</b> Cecília</a>, <a href="../../../author/maia_lino"><b>Maia</b> Lino</a>, <a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../teix_scha_maia_rang.2022.IoSCMoFPo3PM/">Influence of Supplementary Cementitious Materials on Fresh Properties of 3D Printable Materials</a></li>
       <li><a href="../../../author/wang_li"><b>Wang</b> Li</a>, <a href="../../../author/xiao_wei"><b>Xiao</b> Wei</a>, <a href="../../../author/wang_qiao"><b>Wang</b> Qiao</a>, <a href="../../../author/jiang_hailong"><b>Jiang</b> Hailong</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../wang_xiao_wang_jian.2022.FTRo3PCwDS/">Freeze-Thaw-Resistance of 3D Printed Composites with Desert Sand</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhu_pengjia"><b>Zhu</b> Pengjia</a>, <a href="../../../author/tan_hailong"><b>Tan</b> Hailong</a>, <a href="../../../author/ma_juntao"><b>Ma</b> Juntao</a>, <a href="../../../author/yin_jianguang"><b>Yin</b> Jianguang</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../zhu_tan_ma_yin.2026.MPDaPRo3PPBGP/">Mix Proportion Design and Performance Regulation of 3D-Printing Phosphogypsum-Based Geopolymer Paste</a></li>
+      <li><a href="../../../author/li_junjie"><b>Li</b> Junjie</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a>, <a href="../../../author/ge_xianqiang"><b>Ge</b> Xianqiang</a>, <a href="../../../author/li_ke"><b>Li</b> Ke</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../li_li_ge_li.2026.SEo3PPCBoSAoMSW/">Strength Enhancement of 3D-Printed Phosphogypsum Concrete Based on Synergistic Activation of Multi-Solid Wastes</a></li>
       <li><a href="../../../author/basith-mydeen-pitchai_mohamed-abdul"><b>Basith Mydeen Pitchai</b> Mohamed Abdul</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../basi.2025.PECf3CP/">Polymer-Enhanced Composites for 3D Concrete Printing:<br/>A Review of Materials, Processes, and Performance</a></li>
     </ol>
 </div>

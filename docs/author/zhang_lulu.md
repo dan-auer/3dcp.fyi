@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 41
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a> (25)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/gong_jian"><b>Gong</b> Jian</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/zhan_yijian"><b>Zhan</b> Yijian</a> et al. <a href="../../../date/2019/03">(2019-03)</a><br><a href="../../../zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC/">Experimental Research on Transition from Scale 3D Printing to Full-Size Printing in Construction</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (10)</li>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (10)</li>
-        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (8)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (11)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (11)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (9)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (6)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
+        <li><a href="../../../author/li_jin"><b>Li</b> Jin</a> (5)</li>
     </ol>
 
 </div>

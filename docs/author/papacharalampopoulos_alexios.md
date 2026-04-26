@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 70
+    : 75
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a> (42)</li>
+        <li><a href="../../../author/munoz_ivan"><b>Muñoz</b> Ivan</a>, <a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a>, <a href="../../../author/muniz_menendez_manuel"><b>Muñiz</b> Manuel</a>, <a href="../../../author/uhart_maylis"><b>Uhart</b> Maylis</a> et al. <a href="../../../date/2021/01">(2021-01)</a><br><a href="../../../muno_madr_muni_uhar.2021.LCAoIASC3P/">Life Cycle Assessment of Integrated Additive-Subtractive Concrete 3D Printing</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (7)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
         <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (5)</li>
         <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> (4)</li>
     </ol>

@@ -19,43 +19,43 @@ search:
     : 2017-07-17
     
     Last Contribution
-    : 2025-01-22
+    : 2026-02-27
 
     Number Contributions
-    : 36
+    : 38
 
     Number Citations
-    : 581
+    : 607
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/nazarian_shadi"><b>Nazarian</b> Shadi</a> (26)</li>
-        <li><a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> (14)</li>
-        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (14)</li>
+        <li><a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> (15)</li>
+        <li><a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> (15)</li>
         <li><a href="../../../author/meisel_a_nicholas"><b>Meisel</b> Nicholas</a> (10)</li>
-        <li><a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> (9)</li>
+        <li><a href="../../../author/radlinska_aleksandra"><b>Radlińska</b> Aleksandra</a> (10)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/craveiro_flavio"><b>Craveiro</b> Flávio</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/bartolo_galha_helena"><b>Bártolo</b> Helena</a>, <a href="../../../author/bartolo_jorge_paulo"><b>Bartolo</b> Paulo</a> <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../crav_duar_bart_bart.2019.AMaaETfDC/">Additive Manufacturing as an Enabling Technology for Digital Construction:<br/>A Perspective on Construction 4.0</a> (98)</li>
+        <li><a href="../../../author/li_zhanzhao"><b>Li</b> Zhanzhao</a>, <a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a>, <a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/piasente_jonathon"><b>Piasente</b> Jonathon</a> et al. <a href="../../../date/2020/07">(2020-07)</a><br><a href="../../../li_hoja_wu_pias.2020.FaHPoEB3PCM/">Fresh and Hardened Properties of Extrusion-Based 3D Printed Cementitious Materials:<br/>A Review</a> (103)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (56)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (57)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (54)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (50)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (49)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (49)</li>
         <li><a href="../../../author/khoshnevis_behrokh"><b>Khoshnevis</b> Behrokh</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (14)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (16)</li>
+        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (14)</li>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (13)</li>
-        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (13)</li>
-        <li><a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
         <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (10)</li>
     </ol>
 
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/cheng_hanbin"><b>Cheng</b> Hanbin</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../chen_duar_mema_bile.2026.RCAf3CP/">Recycled Cork Aggregate for 3D Concrete Printing:<br/>Rheology, Pore-Driven Anisotropy Mitigation, and Low-Carbon Thermal Buffering</a></li>
+  <li><a href="../../../author/alhussain_ali"><b>Alhussain</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a>, <a href="../../../author/brown_c_nathan"><b>Brown</b> Nathan</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../alhu_duar_brow.2025.SGCGf3CPE/">Stress-Guided Corrugated Geometry for 3D Concrete PrintedBuilding Envelopes</a></li>
   <li><a href="../../../author/zargar_hossein_seyed"><b>Zargar</b> Seyed</a>, <a href="../../../author/leicht_m_robert"><b>Leicht</b> Robert</a>, <a href="../../../author/wagner_r_alan"><b>Wagner</b> Alan</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../zarg_leic_wagn_duar.2025.BTaE/">Beyond Trial and Error:<br/>Toward Construction-Aware Early Design-Optimization Considering Robotic Capabilities</a></li>
   <li><a href="../../../author/capunaman_bertug_ozguc"><b>Çapunaman</b> Özgüç</a>, <a href="../../../author/farrokhsiar_paniz"><b>Farrokhsiar</b> Paniz</a>, <a href="../../../author/bilen_g_sven"><b>Bilén</b> Sven</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../capu_farr_bile_duar.2025.VBSaDTTiC3CP/">Vision-Based Sensing and Digital Twin-Technologies in Conformal 3D Concrete Printing:<br/>Exploring Operational Accuracy, Adaptability, and Scalability, and Investigating Monitoring-Capabilities in Large-Scale Applications</a></li>
   <li><a href="../../../author/tabassum_nusrat"><b>Tabassum</b> Nusrat</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../taba_duar.2024.EMD3PfEoEaB/">Exploring Multi-Directional 3D Printing for Enclosures on Earth and Beyond:<br/>Sensitivity-Analysis of Buildability</a></li>

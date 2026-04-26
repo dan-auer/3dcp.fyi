@@ -54,8 +54,9 @@ Contribution - Proceedings of the 3rd RILEM International Conference on Concrete
       <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/chateau_camille"><b>Chateau</b> Camille</a>, <a href="../../../author/bornert_michel"><b>Bornert</b> Michel</a> et al. <a href="../../../date/2020/04">(2020-04)</a><br><a href="../../../duco_demo_chat_born.2020.AMoAC/">Additive Manufacturing of Anisotropic Concrete:<br/>A Flow-Based Pultrusion of Continuous Fibers in a Cementitious Matrix</a></li>
       <li><a href="../../../author/wu_zhengyu"><b>Wu</b> Zhengyu</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a>, <a href="../../../author/duarte_pinto_jose"><b>Duarte</b> José</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../wu_mema_duar.2022.SotARoRSaTf3PoC/">State of the Art Review of Reinforcement-Strategies and Technologies for 3D Printing of Concrete</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../caro_duco_demo_bono.2026.U3PfaNCCaSD/">Using 3D Printing for a New Cementitious Composite and Structural Design</a></li>
       <li><a href="../../../author/bono_victor"><b>Bono</b> Victor</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../bono_demo_duco_mesn.2024.LS3PoaSSRbtFBPP/">Large-Scale 3D Printing of a Shell Structure Reinforced by the Flow-Based Pultrusion Process</a></li>
     </ol>
 </div>

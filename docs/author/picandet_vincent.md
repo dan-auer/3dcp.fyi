@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 163
+    : 168
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../mazh_perr_pica_rang.2019.U3PoCBM/">Underwater 3D Printing of Cement-Based Mortar</a> (88)</li>
+        <li><a href="../../../author/mazhoud_brahim"><b>Mazhoud</b> Brahim</a>, <a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a>, <a href="../../../author/picandet_vincent"><b>Picandet</b> Vincent</a>, <a href="../../../author/rangeard_damien"><b>Rangeard</b> Damien</a> et al. <a href="../../../date/2019/04">(2019-04)</a><br><a href="../../../mazh_perr_pica_rang.2019.U3PoCBM/">Underwater 3D Printing of Cement-Based Mortar</a> (91)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (31)</li>
         <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (17)</li>
-        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (11)</li>
-        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (10)</li>
-        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (10)</li>
+        <li><a href="../../../author/barluenga_gonzalo"><b>Barluenga</b> Gonzalo</a> (12)</li>
+        <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (11)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (10)</li>
     </ol>
 
 </div>

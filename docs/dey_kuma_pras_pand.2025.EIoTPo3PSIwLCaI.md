@@ -57,8 +57,9 @@ Contribution - Recent Advances in Additive Manufacturing, pp. 111-121
       <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/muthukrishnan_shravan"><b>Muthukrishnan</b> Shravan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/pasupathy_kirubajiny"><b>Pasupathy</b> Kirubajiny</a> <a href="../../../date/2021/08">(2021-08)</a><br><a href="../../../rama_muth_sanj_pasu.2021.C3PoLEUHCEoF/">Concrete 3D Printing of Lightweight Elements Using Hollow-Core Extrusion of Filaments</a></li>
       <li><a href="../../../author/srinivas_dodda"><b>Srinivas</b> Dodda</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/sitharam_g_thallak"><b>Sitharam</b> Thallak</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../srin_dey_pand_sith.2022.PTaCSPoCM/">Printability, Thermal and Compressive Strength Properties of Cementitious Materials:<br/>A Comparative Study with Silica-Fume and Limestone</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/kole_jagabandhu"><b>Kole</b> Jagabandhu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../dey_pand_kole.2026.IitEoFRwPSCaSSSfDoS3PC/">Investigation into the Effect of Full Replacement with Portland Slag Cement and Screened Slag Sand for Development of Sustainable 3D Printed Concrete</a></li>
     </ol>
 </div>
 

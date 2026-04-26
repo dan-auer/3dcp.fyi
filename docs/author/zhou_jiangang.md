@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 8
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/barbat_b_gabriel"><b>Barbat</b> Gabriel</a> (2)</li>
         <li><a href="../../../author/cervera_miguel"><b>Cervera</b> Miguel</a> (2)</li>
         <li><a href="../../../author/chen_qinbin"><b>Chen</b> Qinbin</a> (2)</li>
-        <li><a href="../../../author/choi_seongcheol"><b>Choi</b> Seongcheol</a> (1)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
+        <li><a href="../../../author/dixit_shanker_uday"><b>Dixit</b> Uday</a> (1)</li>
+        <li><a href="../../../author/zhao_jidong"><b>Zhao</b> Jidong</a> (1)</li>
     </ol>
 
 </div>

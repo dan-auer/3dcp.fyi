@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 126
+    : 129
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/anton_ana-maria"><b>Anton</b> Ana-Maria</a> (10)</li>
         <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (9)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
         <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (8)</li>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (8)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (8)</li>
     </ol>
 
 </div>

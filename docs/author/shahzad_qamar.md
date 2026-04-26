@@ -25,7 +25,7 @@ search:
     : 11
 
     Number Citations
-    : 84
+    : 92
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (4)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (6)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (5)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (5)</li>
         <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (3)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (3)</li>
     </ol>

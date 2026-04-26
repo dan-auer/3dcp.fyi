@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 11
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../kuma_dey_pand_muth.2024.EaNEoMDCaFBoTDPC/">Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete</a> (11)</li>
+        <li><a href="../../../author/kumar_lalit"><b>Kumar</b> Lalit</a>, <a href="../../../author/dey_dhrutiman"><b>Dey</b> Dhrutiman</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/muthu_nelson"><b>Muthu</b> Nelson</a> <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../kuma_dey_pand_muth.2024.EaNEoMDCaFBoTDPC/">Experimental and Numerical Evaluation of Multi-Directional Compressive and Flexure Behavior of Three-Dimensional Printed Concrete</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
         <li><a href="../../../author/glotz_theresa"><b>Glotz</b> Theresa</a> (2)</li>
         <li><a href="../../../author/petryna_yuri"><b>Petryna</b> Yuri</a> (2)</li>
         <li><a href="../../../author/sahu_akshay"><b>Sahu</b> Akshay</a> (2)</li>
-        <li><a href="../../../author/nakkeeran_g"><b>Nakkeeran</b> G.</a> (1)</li>
+        <li><a href="../../../author/maurya_ashutosh"><b>Maurya</b> Ashutosh</a> (1)</li>
     </ol>
 
 </div>

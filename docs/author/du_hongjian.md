@@ -19,13 +19,13 @@ search:
     : 2020-07-08
     
     Last Contribution
-    : 2025-10-29
+    : 2026-04-05
 
     Number Contributions
-    : 22
+    : 28
 
     Number Citations
-    : 551
+    : 617
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,25 +38,25 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (120)</li>
+        <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../zhan_zhan_yang_liu.2021.HPaDoLS3PCBM/">Hardened Properties and Durability of Large-Scale 3D Printed Cement-Based Materials</a> (133)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (51)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (50)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (40)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (37)</li>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (34)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (61)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (60)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (59)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (50)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (44)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (26)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (22)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (18)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (31)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (27)</li>
+        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (27)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (21)</li>
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (18)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (17)</li>
     </ol>
 
 </div>
@@ -64,6 +64,12 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a>, <a href="../../../author/lin_yini"><b>Lin</b> Yini</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../tang_yan_han_lin.2026.FMo3PFATCRoIBaMP/">Failure Mechanisms of 3D Printed Formwork Arches: The Critical Role of Interfacial Bond and Manufacturing Parameters</a></li>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a>, <a href="../../../author/lao_junying"><b>Lao</b> Junying</a>, <a href="../../../author/huanyu_zhao"><b>Huanyu</b> Zhao</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../nguy_jie_lao_huan.2026.EaMSMIoPLCECCwDPFC/">Experimental and Multi-Scale Modelling Investigation of Printable, Low-Cement Engineered Cementitious Composites with Different Polyethene Fiber Contents</a></li>
+  <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a>, <a href="../../../author/dai_meiling"><b>Dai</b> Meiling</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../liu_dai_liu_du.2026.TESftRIBi3PCACPEaMI/">Targeted Enhancement Strategy for the Rebar Interface Bond in 3D Printed Coarse Aggregate Concrete: Performance Evaluation and Mechanistic Insights</a></li>
+  <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../nguy_du.2026.U3CP/">Underwater 3D Concrete Printing:<br/>Automation Challenges, Process-Material Coupling, and Future Construction Pathways</a></li>
+  <li><a href="../../../author/tang_boyang"><b>Tang</b> Boyang</a>, <a href="../../../author/yan_jiachuan"><b>Yan</b> Jiachuan</a>, <a href="../../../author/lin_yini"><b>Lin</b> Yini</a>, <a href="../../../author/han_xiaoyu"><b>Han</b> Xiaoyu</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../tang_yan_lin_han.2026.FMoR3PCA/">Failure Mechanism of Reinforced 3D Printed Concrete Arches:<br/>Transition from Brittle Fracture to Interface Bond-Slip</a></li>
+  <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bong_zhao_gao_du.2026.HVGPCMfLCCAM/">High-Volume Glass Powder Cementitious Material for Low-Carbon Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a>, <a href="../../../author/lima_nascimento_lucas"><b>Lima</b> Lucas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../zhan_lima_bohl_arun.2025.DAo3PCBM/">Durability Assessment of 3D Printed Cement-Based Materials:<br/>A RILEM TC 304-ADC Interlaboratory Study</a></li>
   <li><a href="../../../author/luo_rui"><b>Luo</b> Rui</a>, <a href="../../../author/sun_bin"><b>Sun</b> Bin</a>, <a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../luo_sun_fei_du.2025.ISLi3PCDtTGIM/">Interlayer Strength Loss in 3D Printed Concrete Due to Time-Gap-Induced Macroporosity</a></li>
   <li><a href="../../../author/liu_ruiqing"><b>Liu</b> Ruiqing</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../liu_du.2025.OTITGD/">Optimizing Thermal Insulation Through Geometric Design:<br/>Comparative Analysis of Normal and Lightweight 3D Printed Concrete Wall Patterns</a></li>

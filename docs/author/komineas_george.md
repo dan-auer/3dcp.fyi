@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/komineas_george"><b>Komineas</b> George</a>, <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../fote_esna_komi_papa.2020.CBAM/">Cement-Based Additive Manufacturing:<br/>Experimental Investigation of Process Quality</a> (4)</li>
+        <li><a href="../../../author/foteinopoulos_panagis"><b>Foteinopoulos</b> Panagis</a>, <a href="../../../author/esnault_vivien"><b>Esnault</b> Vivien</a>, <a href="../../../author/komineas_george"><b>Komineas</b> George</a>, <a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> et al. <a href="../../../date/2020/01">(2020-01)</a><br><a href="../../../fote_esna_komi_papa.2020.CBAM/">Cement-Based Additive Manufacturing:<br/>Experimental Investigation of Process Quality</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
     <ol>
         <li><a href="../../../author/papacharalampopoulos_alexios"><b>Papacharalampopoulos</b> Alexios</a> (2)</li>
         <li><a href="../../../author/biernacki_j_joseph"><b>Biernacki</b> Joseph</a> (1)</li>
-        <li><a href="../../../author/madrid_alonso_javier"><b>Madrid</b> Javier</a> (1)</li>
         <li><a href="../../../author/moser_h_newell"><b>Moser</b> Newell</a> (1)</li>
         <li><a href="../../../author/wan_qian"><b>Wan</b> Qian</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a>, <a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a>, <a href="../../../author/sahmenko_genadijs"><b>Šahmenko</b> Genādijs</a>, <a href="../../../author/bajare_diana"><b>Bajāre</b> Diāna</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../sapa_sink_sahm_baja.2024.Do3PCBCCOSA/">Development of 3D Printable Cement-Based Composite Containing Oil Shale Ash</a> (0)</li>
+        <li><a href="../../../author/hanzic_lucija"><b>Hanžič</b> Lucija</a>, <a href="../../../author/stefancic_mateja"><b>Štefančič</b> Mateja</a>, <a href="../../../author/ster_katarina"><b>Šter</b> Katarina</a>, <a href="../../../author/zalar-serjun_vesna"><b>Zalar Serjun</b> Vesna</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../hanz_stef_ster_zala.2025.CMoOSAaCPiC3P/">Collision Milling of Oil Shale Ash as Constituent Pretreatment in Concrete 3D Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/alzard_h_mohammed"><b>Alzard</b> Mohammed</a> (1)</li>
+        <li><a href="../../../author/hassan_hilal"><b>el Hassan</b> Hilal</a> (1)</li>
+        <li><a href="../../../author/sapata_alise"><b>Sapata</b> Alise</a> (1)</li>
+        <li><a href="../../../author/sinka_maris"><b>Šinka</b> Māris</a> (1)</li>
+        <li><a href="../../../author/slosbergs_peteris"><b>Šlosbergs</b> Pēteris</a> (1)</li>
     </ol>
 
 </div>

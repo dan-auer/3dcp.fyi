@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a> (0)</li>
+        <li><a href="../../../author/popli_siddharth"><b>Popli</b> Siddharth</a>, <a href="../../../author/valikhah_fatemeh"><b>Valikhah</b> Fatemeh</a>, <a href="../../../author/zandi-lak_erfan"><b>Zandi Lak</b> Erfan</a>, <a href="../../../author/das_sreekanta"><b>Das</b> Sreekanta</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../popl_vali_zand_das.2025.MaDPo3PCwCAaCJ/">Mechanical and Durability Performance of 3D-Printed Concrete with Coarse Aggregates and Cold Joints</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/das_souvik"><b>Das</b> Souvik</a> (1)</li>
+        <li><a href="../../../author/lee_jonathan"><b>Lee</b> Jonathan</a> (1)</li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (1)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (1)</li>
+        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> (1)</li>
     </ol>
 
 </div>

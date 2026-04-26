@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 67
+    : 76
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../shah_ghol_kash_ngo.2021.SBoC3PM/">Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>Effect of Temperature and Relative Humidity</a> (55)</li>
+        <li><a href="../../../author/shahmirzadi_rezaei_mohsen"><b>Shahmirzadi</b> Mohsen</a>, <a href="../../../author/gholampour_aliakbar"><b>Gholampour</b> Aliakbar</a>, <a href="../../../author/kashani_alireza"><b>Kashani</b> Alireza</a>, <a href="../../../author/ngo_d_tuan"><b>Ngo</b> Tuan</a> <a href="../../../date/2021/09">(2021-09)</a><br><a href="../../../shah_ghol_kash_ngo.2021.SBoC3PM/">Shrinkage Behavior of Cementitious 3D Printing Materials:<br/>Effect of Temperature and Relative Humidity</a> (63)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
         <li><a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> (4)</li>
-        <li><a href="../../../author/barbhuiya_salim"><b>Barbhuiya</b> Salim</a> (3)</li>
         <li><a href="../../../author/bayat_hamid"><b>Bayat</b> Hamid</a> (3)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (3)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (3)</li>
     </ol>
 
 </div>

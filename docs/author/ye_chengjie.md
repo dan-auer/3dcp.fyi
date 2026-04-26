@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a> (3)</li>
+        <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a>, <a href="../../../author/xu_jie"><b>Xu</b> Jie</a>, <a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../ye_xu_laci.2025.FBo3PGCCWC/">Fracture Behavior of 3D Printed Geopolymer Concrete Containing Waste Ceramic</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a> (1)</li>
-        <li><a href="../../../author/cheng_jianhua"><b>Cheng</b> Jianhua</a> (1)</li>
-        <li><a href="../../../author/shilar_a_fatheali"><b>Shilar</b> Fatheali</a> (1)</li>
-        <li><a href="../../../author/shilar_mubarakali"><b>Shilar</b> Mubarakali</a> (1)</li>
+        <li><a href="../../../author/cerny_felix"><b>Černý</b> Felix</a> (1)</li>
+        <li><a href="../../../author/lai_mianheng"><b>Lai</b> Mianheng</a> (1)</li>
+        <li><a href="../../../author/lu_han"><b>Lu</b> Han</a> (1)</li>
+        <li><a href="../../../author/topolar_libor"><b>Topolář</b> Libor</a> (1)</li>
         <li><a href="../../../author/xu_jie"><b>Xu</b> Jie</a> (1)</li>
     </ol>
 

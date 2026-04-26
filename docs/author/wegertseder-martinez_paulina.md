@@ -19,26 +19,26 @@ search:
     : 2025-11-25
     
     Last Contribution
-    : 2025-12-26
+    : 2026-02-10
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a> (1)</li>
-        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (1)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a> (3)</li>
+        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (2)</li>
         <li><a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> (1)</li>
-        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a> (1)</li>
-        <li><a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a> (1)</li>
+        <li><a href="../../../author/opazo-vega_alexander"><b>Opazo-Vega</b> Alexander</a> (1)</li>
+        <li><a href="../../../author/rocha-rubilar_aracely"><b>Rocha-Rubilar</b> Aracely</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a> (0)</li>
+        <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/ulloa-aguayo_paula"><b>Ulloa-Aguayo</b> Paula</a>, <a href="../../../author/rocha-rubilar_aracely"><b>Rocha-Rubilar</b> Aracely</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../garc_muno_ullo_roch.2026.DoaRPU3PE/">Development of a Residential Prototype Using 3D-Printed Elements</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -60,6 +60,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/ulloa-aguayo_paula"><b>Ulloa-Aguayo</b> Paula</a>, <a href="../../../author/rocha-rubilar_aracely"><b>Rocha-Rubilar</b> Aracely</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../garc_muno_ullo_roch.2026.DoaRPU3PE/">Development of a Residential Prototype Using 3D-Printed Elements</a></li>
   <li><a href="../../../author/munoz-sanguinetti_claudia"><b>Muñoz-Sanguinetti</b> Claudia</a>, <a href="../../../author/vega-coloma_mabel"><b>Vega-Coloma</b> Mabel</a>, <a href="../../../author/letelier_viviana"><b>Letelier</b> Viviana</a>, <a href="../../../author/marrero_madelyn"><b>Marrero</b> Madelyn</a> et al. <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../muno_vega_lete_marr.2026.EFo3PCURM/">Environmental Footprint of 3D-Printed Concrete Using Recycled Materials</a></li>
-  <li><a href="../../../author/anastassiou_gaete-holmes_richard"><b>Anastassiou</b> Richard</a>, <a href="../../../author/alvarado_garcia_rodrigo"><b>Alvarado</b> Rodrigo</a>, <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../anas_alva_wege.2025.TC/">Towards Climatomorphism:<br/>A Generative Optimization Framework for Climate-Adaptive 3D-Printed Free-Form Housing</a></li>
+  <li><a href="../../../author/anastassiou_gaete-holmes_richard"><b>Anastassiou</b> Richard</a>, <a href="../../../author/garcia-alvarado_rodrigo"><b>García-Alvarado</b> Rodrigo</a>, <a href="../../../author/wegertseder-martinez_paulina"><b>Wegertseder Martínez</b> Paulina</a> <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../anas_garc_wege.2025.TC/">Towards Climatomorphism:<br/>A Generative Optimization Framework for Climate-Adaptive 3D-Printed Free-Form Housing</a></li>
 </ol>

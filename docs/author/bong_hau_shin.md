@@ -19,13 +19,13 @@ search:
     : 2018-09-12
     
     Last Contribution
-    : 2024-06-21
+    : 2026-01-30
 
     Number Contributions
-    : 18
+    : 19
 
     Number Citations
-    : 859
+    : 900
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,23 +38,23 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a> (216)</li>
+        <li><a href="../../../author/arunothayan_ravendran_arun"><b>Arunothayan</b> Arun</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/ranade_ravi"><b>Ranade</b> Ravi</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../arun_nema_rana_bong.2020.Do3PUHPFRCfDC/">Development of 3D Printable Ultra-High-Performance Fiber-Reinforced Concrete for Digital Construction</a> (229)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (64)</li>
-        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (58)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (66)</li>
+        <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (60)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (49)</li>
         <li><a href="../../../author/xia_ming"><b>Xia</b> Ming</a> (45)</li>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (43)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (37)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (40)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (64)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (24)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (21)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (68)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (27)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (22)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (21)</li>
         <li><a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a> (20)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/zhao_yasong"><b>Zhao</b> Yasong</a>, <a href="../../../author/gao_yangyunzhi"><b>Gao</b> Yangyunzhi</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bong_zhao_gao_du.2026.HVGPCMfLCCAM/">High-Volume Glass Powder Cementitious Material for Low-Carbon Concrete Additive Manufacturing</a></li>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/du_hongjian"><b>Du</b> Hongjian</a> <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../bong_du.2024.SAMoCwLCM/">Sustainable Additive Manufacturing of Concrete with Low-Carbon Materials</a></li>
   <li><a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/li_c_victor"><b>Li</b> Victor</a> et al. <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../bong_nema_mech_li.2023.3PESHGCaPFfCoRCB/">3D Printed Engineered, Strain-Hardening Geopolymer Composite as Permanent Formwork for Construction of Reinforced Concrete Beam</a></li>
   <li><a href="../../../author/kondepudi_kala"><b>Kondepudi</b> Kala</a>, <a href="../../../author/subramaniam_v-l_kolluru"><b>Subramaniam</b> Kolluru</a>, <a href="../../../author/nematollahi_behzad"><b>Nematollahi</b> Behzad</a>, <a href="../../../author/bong_hau_shin"><b>Bong</b> Shin</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../kond_subr_nema_bong.2023.SoPPaPRiAAMtMtRDo3CP/">Study of Particle-Packing and Paste-Rheology in Alkali-Activated Mixtures to Meet the Rheology Demands of 3D Concrete Printing:<br/>Correction</a></li>

@@ -25,20 +25,20 @@ search:
     : 2
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
         <li><a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> (2)</li>
         <li><a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a> (1)</li>
         <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a> (1)</li>
-        <li><a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a> (1)</li>
+        <li><a href="../../../author/spencer_lee_lawson"><b>Spencer</b> Lawson</a> (1)</li>
         <li><a href="../../../author/zivkovic_sasa"><b>Zivkovic</b> Sasa</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a> (3)</li>
+        <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -64,6 +64,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
-  <li><a href="../../../author/spencer_lawson"><b>Spencer</b> Lawson</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../spen_gene_stra_nair.2024.CG/">Concrete Gyroid:<br/>An Additive Manufacturing (AM) Method to 3D Print Gyroid Geometries with a Cementitious Material</a></li>
+  <li><a href="../../../author/ozturk_onur"><b>Ozturk</b> Onur</a>, <a href="../../../author/lunsford_vincent_caleb"><b>Lunsford</b> Caleb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> <a href="../../../date/2025/08">(2025-08)</a><br><a href="../../../oztu_luns_stra_nair.2025.BBiUC/">Breaking Barriers in Underwater Construction:<br/>A Two-Stage 3D Printing System with On-Demand Material Adaptation</a></li>
+  <li><a href="../../../author/spencer_lee_lawson"><b>Spencer</b> Lawson</a>, <a href="../../../author/genedy_moneeb"><b>Genedy</b> Moneeb</a>, <a href="../../../author/strait_james"><b>Strait</b> James</a>, <a href="../../../author/nair_duddukuri_sriramya"><b>Nair</b> Sriramya</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../spen_gene_stra_nair.2024.CG/">Concrete Gyroid:<br/>An Additive Manufacturing (AM) Method to 3D Print Gyroid Geometries with a Cementitious Material</a></li>
 </ol>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT/">Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test</a> (3)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a>, <a href="../../../author/jakob_cordula"><b>Jakob</b> Cordula</a>, <a href="../../../author/wolf_julian"><b>Wolf</b> Julian</a>, <a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT/">Comparison of Physical and Physico-Chemical Methods for 3D Printing Application with the Focus on the Unconfined Uniaxial Compression-Test</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sando_mona"><b>Sando</b> Mona</a> (2)</li>
-        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (2)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (1)</li>
-        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (1)</li>
-        <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (1)</li>
+        <li><a href="../../../author/stephan_dietmar"><b>Stephan</b> Dietmar</a> (4)</li>
+        <li><a href="../../../author/jansen_daniel"><b>Jansen</b> Daniel</a> (2)</li>
+        <li><a href="../../../author/neubauer_jurgen"><b>Neubauer</b> Jürgen</a> (2)</li>
+        <li><a href="../../../author/pott_ursula"><b>Pott</b> Ursula</a> (2)</li>
+        <li><a href="../../../author/wolf_cordula"><b>Wolf</b> Cordula</a> (2)</li>
     </ol>
 
 </div>

@@ -10,8 +10,9 @@ search:
 
 ### Keywords by Co - Occurrence
 
-<a href="../../keyword/adaption"><button class="btn">#adaption (1)</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation (1)</button></a> <a href="../../keyword/print"><button class="btn">#print (1)</button></a> <a href="../../keyword/quality"><button class="btn">#quality (1)</button></a> <a href="../../keyword/robot"><button class="btn">#robot (1)</button></a> 
+<a href="../../keyword/print"><button class="btn">#print (2)</button></a> <a href="../../keyword/adaption"><button class="btn">#adaption (1)</button></a> <a href="../../keyword/cement"><button class="btn">#cement (1)</button></a> <a href="../../keyword/compensation"><button class="btn">#compensation (1)</button></a> <a href="../../keyword/quality"><button class="btn">#quality (1)</button></a> 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/cassese_paolino"><b>Cassese</b> Paolino</a>, <a href="../../../author/menna_costantino"><b>Menna</b> Costantino</a>, <a href="../../../author/prota_a"><b>Prota</b> A.</a>, <a href="../../../author/occhiuzzi_antonio"><b>Occhiuzzi</b> Antonio</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../cass_menn_prot_occh.2026.EIotACBo3PCPwPII/">Experimental Investigation on the Axial Compressive Behavior of 3D-Printed Cementitious Panels with Process-Induced Imperfections</a></li>
   <li><a href="../../../author/yang_xinrui"><b>Yang</b> Xinrui</a>, <a href="../../../author/lakhal_othman"><b>Lakhal</b> Othman</a>, <a href="../../../author/belarouci_abdelkader"><b>Belarouci</b> Abdelkader</a>, <a href="../../../author/merzouki_rochdi"><b>Merzouki</b> Rochdi</a> <a href="../../../date/2025/09">(2025-09)</a><br><a href="../../../yang_lakh_bela_merz.2025.FQDtACfFIDOSR3P/">From Qualitative Diagnosis to Adaptive Compensation for Filament Imperfections During On-Site Robotic 3D Printing</a></li>
 </ol>

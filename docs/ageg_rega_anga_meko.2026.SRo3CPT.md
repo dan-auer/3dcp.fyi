@@ -93,8 +93,11 @@ Journal Article - Discover Civil Engineering, Vol. 3, Iss. 1
       <li><a href="../../../author/zhang_ketao"><b>Zhang</b> Ketao</a>, <a href="../../../author/chermprayong_pisak"><b>Chermprayong</b> Pisak</a>, <a href="../../../author/xiao_feng"><b>Xiao</b> Feng</a>, <a href="../../../author/tzoumanikas_dimos"><b>Tzoumanikas</b> Dimos</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../zhan_cher_xiao_tzou.2022.AAMwMAR/">Aerial Additive Manufacturing with Multiple Autonomous Robots</a></li>
       <li><a href="../../../author/zhuang_zicheng"><b>Zhuang</b> Zicheng</a>, <a href="../../../author/xu_fengming"><b>Xu</b> Fengming</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/hu_nan"><b>Hu</b> Nan</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP/">A Comprehensive Review of Sustainable Materials and Tool-Path-Optimization in 3D Concrete Printing</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "3 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/kiriparan_balrajh"><b>Kiriparan</b> Balrajh</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a>, <a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../kiri_sanj_raje.2026.ESf3CP/">Establishing Standards for 3D Concrete Printing:<br/>Current Insights and Future Research Needs</a></li>
+      <li><a href="../../../author/mao_yong"><b>Mao</b> Yong</a>, <a href="../../../author/cheng_jinyi"><b>Cheng</b> Jinyi</a>, <a href="../../../author/guo_zhenbang"><b>Guo</b> Zhenbang</a>, <a href="../../../author/chi_baihong"><b>Chi</b> Baihong</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../mao_chen_guo_chi.2026.FSMo3PCP/">Fumed Silica Modulation of 3D-Printed Cement Paste::<br/>Rheology, Microstructure, and Printability</a></li>
+      <li><a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a>, <a href="../../../author/girskas_giedrius"><b>Girskas</b> Giedrius</a>, <a href="../../../author/baltuskiene_daiva"><b>Baltuškiene</b> Daiva</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../klig_girs_balt.2026.IotAoMAotRPatCFo3PCM/">Influence of the Amount of Mineral Additive on the Rheological Properties and the Carbon Footprint of 3D-Printed Concrete Mixtures</a></li>
     </ol>
 </div>
 

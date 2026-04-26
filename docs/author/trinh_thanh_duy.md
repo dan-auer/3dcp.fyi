@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 0
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pham_trin_do_huan.2023.FBoPCWBwDFR/">Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced</a> (0)</li>
+        <li><a href="../../../author/pham_loan_thi"><b>Pham</b> Thi</a>, <a href="../../../author/trinh_thanh_duy"><b>Trinh</b> Duy</a>, <a href="../../../author/do_quang_trong"><b>Do</b> Trong</a>, <a href="../../../author/huang_yi_jie"><b>Huang</b> Jie</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../pham_trin_do_huan.2023.FBoPCWBwDFR/">Flexural Behavior of Printed Concrete Wide Beams with Dispersed Fibers-Reinforced</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
+        <li><a href="../../../author/chen_h"><b>Chen</b> H.</a> (1)</li>
+        <li><a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> (1)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (1)</li>
+        <li><a href="../../../author/sideris_petros"><b>Sideris</b> Petros</a> (1)</li>
     </ol>
 
 </div>

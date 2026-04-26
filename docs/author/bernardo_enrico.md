@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lamnini_soukaina"><b>Lamnini</b> Soukaina</a>, <a href="../../../author/elsayed_hamada"><b>Elsayed</b> Hamada</a>, <a href="../../../author/lakhdar_yazid"><b>Lakhdar</b> Yazid</a>, <a href="../../../author/baino_francesco"><b>Baino</b> Francesco</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../lamn_elsa_lakh_bain.2022.RoAC/">Robocasting of Advanced Ceramics:<br/>Ink-Optimization and Protocol to Predict the Printing Parameters</a> (4)</li>
+        <li><a href="../../../author/lamnini_soukaina"><b>Lamnini</b> Soukaina</a>, <a href="../../../author/elsayed_hamada"><b>Elsayed</b> Hamada</a>, <a href="../../../author/lakhdar_yazid"><b>Lakhdar</b> Yazid</a>, <a href="../../../author/baino_francesco"><b>Baino</b> Francesco</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../lamn_elsa_lakh_bain.2022.RoAC/">Robocasting of Advanced Ceramics:<br/>Ink-Optimization and Protocol to Predict the Printing Parameters</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (1)</li>
-        <li><a href="../../../author/altiparmak_cem_sadettin"><b>Altıparmak</b> Sadettin</a> (1)</li>
         <li><a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> (1)</li>
-        <li><a href="../../../author/castro-chincho_ana"><b>Castro-Chincho</b> Ana</a> (1)</li>
         <li><a href="../../../author/daminabo_idawarifa-clinton_samuel"><b>Daminabo</b> Samuel</a> (1)</li>
+        <li><a href="../../../author/ferrero_sergio"><b>Ferrero</b> Sergio</a> (1)</li>
+        <li><a href="../../../author/schwarzer-fischer_eric"><b>Schwarzer-Fischer</b> Eric</a> (1)</li>
     </ol>
 
 </div>

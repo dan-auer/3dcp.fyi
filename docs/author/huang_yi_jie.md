@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -51,10 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/boilla_kumar-reddy_charan"><b>Boilla</b> Charan</a> (1)</li>
+        <li><a href="../../../author/alnuaimi_n_hamad"><b>Alnuaimi</b> Hamad</a> (1)</li>
+        <li><a href="../../../author/chiramal_anglet"><b>Chiramal</b> Anglet</a> (1)</li>
         <li><a href="../../../author/limlunjakorn_torpong"><b>Limlunjakorn</b> Torpong</a> (1)</li>
-        <li><a href="../../../author/perumalla_mallikarjun"><b>Perumalla</b> Mallikarjun</a> (1)</li>
-        <li><a href="../../../author/shaik_sameer_khaja"><b>Shaik</b> Khaja</a> (1)</li>
+        <li><a href="../../../author/maurya_raj_muni"><b>Maurya</b> Muni</a> (1)</li>
+        <li><a href="../../../author/rizmin_khadeejath"><b>Rizmin</b> Khadeejath</a> (1)</li>
     </ol>
 
 </div>

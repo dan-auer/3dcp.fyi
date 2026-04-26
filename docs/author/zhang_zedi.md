@@ -19,44 +19,44 @@ search:
     : 2022-01-29
     
     Last Contribution
-    : 2025-10-13
+    : 2026-01-23
 
     Number Contributions
-    : 15
+    : 16
 
     Number Citations
-    : 274
+    : 314
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (15)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (10)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (9)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (6)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (16)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (11)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (10)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (7)</li>
         <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (6)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a> (62)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a>, <a href="../../../author/xie_yudong"><b>Xie</b> Yudong</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../chen_zhan_xie_zhan.2022.UPSAi3PGCaCIoMP/">Unraveling Pore-Structure Alternations in 3D Printed Geopolymer Concrete and Corresponding Impacts on Macro-Properties</a> (66)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (69)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (73)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (68)</li>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (33)</li>
-        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (29)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (29)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (31)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (41)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (26)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (47)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (28)</li>
+        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (18)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (18)</li>
-        <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (15)</li>
-        <li><a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a> (14)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (18)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/kang_yuyang"><b>Kang</b> Yuyang</a>, <a href="../../../author/yu_cheng"><b>Yu</b> Cheng</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../kang_yu_zhan_jia.2026.TCEoVMAaPPotAVSFo3PAEC/">The Coupling Effect of Viscosity Modifying Agents and Printing Process on the Air-Void Structure Formation of 3D Printed Air-Entrained Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/quan_shitao"><b>Quan</b> Shitao</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC/">The Impact of Internal Stress Generated During the Printing Process on the Early-Age Properties of 3D Printed Concrete</a></li>
   <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a>, <a href="../../../author/chen_yuning"><b>Chen</b> Yuning</a>, <a href="../../../author/zhang_zedi"><b>Zhang</b> Zedi</a>, <a href="../../../author/wang_wei"><b>Wang</b> Wei</a> et al. <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC/">In-Situ Crosslinked Nano-SiO2 Reinforced Alginate Bio-Textile for Mitigating Plastic Shrinkage in 3D Printed Concrete</a></li>
   <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a>, <a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a>, <a href="../../../author/chen_yu"><b>Chen</b> Yu</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../dong_yuan_chen_jia.2025.PLSESEwUHPC/">Printing Large-Size Eggshell-Shaped Elements with Ultra-High-Performance Concrete:<br/>From Material-Design to Structural Bearing-Capacity-Assessment</a></li>

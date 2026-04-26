@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 17
+    : 18
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/choudhry_kumar_niranjan"><b>Choudhry</b> Niranjan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../nguy_chou_pand_nguy.2022.PoCBRw3PBIPSStTPB/">Performance of Concrete Beam Reinforced with 3D Printed Bio-Inspired Primitive Scaffold Subjected to Three-Point Bending</a> (17)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>Nguyen</b> Vuong</a>, <a href="../../../author/choudhry_kumar_niranjan"><b>Choudhry</b> Niranjan</a>, <a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a>, <a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> et al. <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../nguy_chou_pand_nguy.2022.PoCBRw3PBIPSStTPB/">Performance of Concrete Beam Reinforced with 3D Printed Bio-Inspired Primitive Scaffold Subjected to Three-Point Bending</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (6)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (7)</li>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (5)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (3)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (2)</li>
-        <li><a href="../../../author/xie_min_yi"><b>Xie</b> Yi</a> (2)</li>
+        <li><a href="../../../author/nguyen-xuan_hung"><b>Nguyen-Xuan</b> Hung</a> (3)</li>
+        <li><a href="../../../author/jie_chun_cheah"><b>Jie</b> Cheah</a> (2)</li>
     </ol>
 
 </div>

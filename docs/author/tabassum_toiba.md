@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 23
+    : 27
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a> (23)</li>
+        <li><a href="../../../author/tabassum_toiba"><b>Tabassum</b> Toiba</a>, <a href="../../../author/ahmad-mir_ajaz"><b>Ahmad Mir</b> Ajaz</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../taba_ahma.2023.ARo3PT/">A Review of 3D Printing Technology:<br/>The Future of Sustainable Construction</a> (27)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,7 +50,7 @@ search:
     <ol>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (2)</li>
         <li><a href="../../../author/iqbal_imtiaz"><b>Iqbal</b> Imtiaz</a> (2)</li>
-        <li><a href="../../../author/kasim_tala"><b>Kasim</b> Tala</a> (2)</li>
+        <li><a href="../../../author/kligys_modestas"><b>Kligys</b> Modestas</a> (2)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (2)</li>
         <li><a href="../../../author/yousaf_arslan"><b>Yousaf</b> Arslan</a> (2)</li>
     </ol>

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 10
+    : 13
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/agranati_galit"><b>Agranati</b> Galit</a>, <a href="../../../author/grobman_jacob_yasha"><b>Grobman</b> Yasha</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ruck_agra_grob.2022.EBAM/">Earth-Based Additive Manufacturing:<br/>A Field-Oriented Methodology for Evaluating Material-Printability</a> (9)</li>
+        <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a>, <a href="../../../author/agranati_galit"><b>Agranati</b> Galit</a>, <a href="../../../author/grobman_jacob_yasha"><b>Grobman</b> Yasha</a> <a href="../../../date/2022/12">(2022-12)</a><br><a href="../../../ruck_agra_grob.2022.EBAM/">Earth-Based Additive Manufacturing:<br/>A Field-Oriented Methodology for Evaluating Material-Printability</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/denay_ofer"><b>Denay</b> Ofer</a> (2)</li>
-        <li><a href="../../../author/ruckrich_stefanie"><b>Rückrich</b> Stefanie</a> (2)</li>
-        <li><a href="../../../author/seiwert_paul"><b>Seiwert</b> Paul</a> (2)</li>
+        <li><a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a> (3)</li>
+        <li><a href="../../../author/che_erzhou"><b>Che</b> Erzhou</a> (2)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (2)</li>
+        <li><a href="../../../author/ray_saswati"><b>Ray</b> Saswati</a> (2)</li>
         <li><a href="../../../author/sterman_yoav"><b>Sterman</b> Yoav</a> (2)</li>
-        <li><a href="../../../author/tarazi_ezri"><b>Tarazi</b> Ezri</a> (2)</li>
     </ol>
 
 </div>

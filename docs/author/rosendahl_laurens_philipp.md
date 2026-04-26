@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 29
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a> (27)</li>
+        <li><a href="../../../author/wolf_alexander"><b>Wolf</b> Alexander</a>, <a href="../../../author/rosendahl_laurens_philipp"><b>Rosendahl</b> Philipp</a>, <a href="../../../author/knaack_ulrich"><b>Knaack</b> Ulrich</a> <a href="../../../date/2021/10">(2021-10)</a><br><a href="../../../wolf_rose_knaa.2022.AMoCaCBC/">Additive Manufacturing of Clay and Ceramic Building Components</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a> (3)</li>
         <li><a href="../../../author/sangiorgio_valentino"><b>Sangiorgio</b> Valentino</a> (3)</li>
+        <li><a href="../../../author/stavric_milena"><b>Stavric</b> Milena</a> (3)</li>
         <li><a href="../../../author/bauer_simon"><b>Bauer</b> Simon</a> (2)</li>
         <li><a href="../../../author/cheibas_ina"><b>Cheibas</b> Ina</a> (2)</li>
-        <li><a href="../../../author/gramazio_fabio"><b>Gramazio</b> Fabio</a> (2)</li>
-        <li><a href="../../../author/jauk_julian"><b>Jauk</b> Julian</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 36
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sala_jaya.2023.EoPPoIFVBaGDiC3PS/">Effect of Printing Parameters on Inter-Filament Voids, Bonding, and Geometrical Deviation in Concrete 3D Printed Structures</a> (12)</li>
+        <li><a href="../../../author/salaimanimagudam_p_m"><b>Salaimanimagudam</b> M.</a>, <a href="../../../author/jayaprakash_jaganathan"><b>Jayaprakash</b> Jaganathan</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../sala_jaya.2023.EoPPoIFVBaGDiC3PS/">Effect of Printing Parameters on Inter-Filament Voids, Bonding, and Geometrical Deviation in Concrete 3D Printed Structures</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,9 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (3)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (3)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (3)</li>
-        <li><a href="../../../author/teoh_koon_bak"><b>Teoh</b> Bak</a> (3)</li>
-        <li><a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a> (3)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (3)</li>
         <li><a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> (3)</li>
     </ol>

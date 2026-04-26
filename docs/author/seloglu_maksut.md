@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 15
+    : 16
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../tany_selo_cosk.2024.TEoNZOoFTRo3PGM/">The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars</a> (7)</li>
+        <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a>, <a href="../../../author/seloglu_maksut"><b>Seloglu</b> Maksut</a>, <a href="../../../author/coskun_ahmet"><b>Coskun</b> Ahmet</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../tany_selo_cosk.2024.TEoNZOoFTRo3PGM/">The Effect of Nano-Zinc-Oxide on Freeze-Thaw-Resistance of 3D Printed Geopolymer Mortars</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

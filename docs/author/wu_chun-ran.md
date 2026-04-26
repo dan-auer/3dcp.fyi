@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a> (4)</li>
+        <li><a href="../../../author/cui_peng"><b>Cui</b> Peng</a>, <a href="../../../author/wu_chun-ran"><b>Wu</b> Chun-ran</a>, <a href="../../../author/chen_jie"><b>Chen</b> Jie</a>, <a href="../../../author/luo_fuming"><b>Luo</b> Fuming</a> et al. <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../cui_wu_chen_luo.2021.PoMOCaa3PM/">Preparation of Magnesium-Oxysulfate Cement as a 3D Printing Material</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> (3)</li>
         <li><a href="../../../author/li_qiyan"><b>Li</b> Qiyan</a> (3)</li>
+        <li><a href="../../../author/kou_shi-cong"><b>Kou</b> Shi-cong</a> (2)</li>
+        <li><a href="../../../author/li_gu_leo"><b>Li</b> Leo</a> (2)</li>
         <li><a href="../../../author/wen_xiaodong"><b>Wen</b> Xiaodong</a> (2)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
-        <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
     </ol>
 
 </div>

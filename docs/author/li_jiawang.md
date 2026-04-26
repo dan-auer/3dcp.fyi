@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_wang_sun_li.2025.ILSSaBSoS3PM/">Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar</a> (1)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/wang_qiming"><b>Wang</b> Qiming</a>, <a href="../../../author/sun_chang"><b>Sun</b> Chang</a>, <a href="../../../author/li_jiawang"><b>Li</b> Jiawang</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../liu_wang_sun_li.2025.ILSSaBSoS3PM/">Inter-Layer Shear Strength and Bonding Strength of Sinuous 3D Printed Mortar</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (1)</li>
-        <li><a href="../../../author/campos_tatiana"><b>Campos</b> Tatiana</a> (1)</li>
         <li><a href="../../../author/ding_shengxuan"><b>Ding</b> Shengxuan</a> (1)</li>
-        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (1)</li>
         <li><a href="../../../author/liu_yiming"><b>Liu</b> Yiming</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (1)</li>
     </ol>
 
 </div>

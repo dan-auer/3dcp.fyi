@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 23
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a> (11)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a>, <a href="../../../author/corte_wouter"><b>Corte</b> Wouter</a>, <a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a>, <a href="../../../author/chen_xiaoming"><b>Chen</b> Xiaoming</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../zuo_cort_huan_chen.2023.PtWAoLS3P/">Propelling the Widespread Adoption of Large-Scale 3D Printing</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (5)</li>
-        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (5)</li>
-        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (4)</li>
+        <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (7)</li>
+        <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (7)</li>
+        <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (6)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (3)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (3)</li>
-        <li><a href="../../../author/tsang_c-w_daniel"><b>Tsang</b> Daniel</a> (2)</li>
     </ol>
 
 </div>

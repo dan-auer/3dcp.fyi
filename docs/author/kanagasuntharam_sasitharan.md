@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 60
+    : 65
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rama_kana_sanj.2022.ILAoCMf3CP/">In-Line Activation of Cementitious Materials for 3D Concrete Printing</a> (37)</li>
+        <li><a href="../../../author/ramakrishnan_sayanthan"><b>Ramakrishnan</b> Sayanthan</a>, <a href="../../../author/kanagasuntharam_sasitharan"><b>Kanagasuntharam</b> Sasitharan</a>, <a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../rama_kana_sanj.2022.ILAoCMf3CP/">In-Line Activation of Cementitious Materials for 3D Concrete Printing</a> (41)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (9)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (10)</li>
         <li><a href="../../../author/fasihi_ali"><b>Fasihi</b> Ali</a> (4)</li>
         <li><a href="../../../author/kim_jung-hoon"><b>Kim</b> Jung-Hoon</a> (4)</li>
-        <li><a href="../../../author/rajeev_pathmanathan"><b>Rajeev</b> Pathmanathan</a> (4)</li>
+        <li><a href="../../../author/ramesh_akilesh"><b>Ramesh</b> Akilesh</a> (4)</li>
         <li><a href="../../../author/rehman_ur_atta"><b>Rehman</b> Atta</a> (4)</li>
     </ol>
 

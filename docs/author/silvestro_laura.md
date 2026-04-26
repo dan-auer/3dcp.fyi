@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a> (0)</li>
+        <li><a href="../../../author/silvestro_laura"><b>Silvestro</b> Laura</a>, <a href="../../../author/ribeiro_scoczynski_rodrigo"><b>Ribeiro</b> Rodrigo</a>, <a href="../../../author/navarrete_ivan"><b>Navarrete</b> Iván</a> <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../silv_ribe_nava.2024.AiLCECf3P/">Advancements in Low Carbon-Emission Cements for 3D Printing:<br/>A State-of-the-Art Review</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,7 +49,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/timm_anne_kim"><b>Timm</b> Kim</a> (1)</li>
+        <li><a href="../../../author/villiers_wibke"><b>de Villiers</b> Wibke</a> (1)</li>
+        <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (1)</li>
     </ol>
 
 </div>

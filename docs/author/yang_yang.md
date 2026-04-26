@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/yang_yang"><b>Yang</b> Yang</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../kili_yang_ma_ozbu.2021.RaTCo3PLCCwFAC/">Rheological and Thermal Characterization of 3D Printable Lightweight Cementitious Composites with Fly-Ash-Cenospheres</a> (1)</li>
+        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a>, <a href="../../../author/yang_yang"><b>Yang</b> Yang</a>, <a href="../../../author/ma_ji"><b>Ma</b> Ji</a>, <a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../kili_yang_ma_ozbu.2021.RaTCo3PLCCwFAC/">Rheological and Thermal Characterization of 3D Printable Lightweight Cementitious Composites with Fly-Ash-Cenospheres</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kilic_ugur"><b>Kilic</b> Ugur</a> (1)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (1)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (1)</li>
         <li><a href="../../../author/omran_ahmed"><b>Omran</b> Ahmed</a> (1)</li>
         <li><a href="../../../author/ozbulut_e_osman"><b>Ozbulut</b> Osman</a> (1)</li>
         <li><a href="../../../author/soliman_a_nancy"><b>Soliman</b> Nancy</a> (1)</li>

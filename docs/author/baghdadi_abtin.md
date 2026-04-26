@@ -19,17 +19,17 @@ search:
     : 2021-08-27
     
     Last Contribution
-    : 2025-12-14
+    : 2026-04-02
 
     Number Contributions
-    : 13
+    : 14
 
     Number Citations
-    : 40
+    : 45
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (12)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (13)</li>
         <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a> (5)</li>
         <li><a href="../../../author/ledderose_lukas"><b>Ledderose</b> Lukas</a> (3)</li>
         <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (2)</li>
@@ -43,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (35)</li>
-        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (30)</li>
-        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (29)</li>
+        <li><a href="../../../author/lowke_dirk"><b>Lowke</b> Dirk</a> (37)</li>
+        <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (31)</li>
+        <li><a href="../../../author/hack_peter_norman"><b>Hack</b> Norman</a> (30)</li>
         <li><a href="../../../author/mata-falcon_jaime"><b>Mata-Falcón</b> Jaime</a> (23)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (18)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../bagh_klof.2026.IoCPTaGoSCCoDCJ/">Influence of Concrete Printing Techniques and Geometry on Shear-Compressive Capacity of Dry Concrete Joints</a></li>
   <li><a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/khanipour-raad_kian"><b>Khanipour Raad</b> Kian</a>, <a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../bagh_khan_dorr_klof.2025.FoDCTSaMoGSC/">Fabrication of Dry Connection Through Stamping and Milling of Green-State Concrete</a></li>
   <li><a href="../../../author/dorrie_robin"><b>Dörrie</b> Robin</a>, <a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/david_martin"><b>David</b> Martin</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../dorr_lach_bagh_davi.2025.IoPGaGCfRS3P/">Investigation on Process Guidelines and Geometric Capabilities for Robust Shotcrete 3D Printing</a></li>
   <li><a href="../../../author/amiri_salehi_fatemeh"><b>Amiri</b> Fatemeh</a>, <a href="../../../author/baghdadi_abtin"><b>Baghdadi</b> Abtin</a>, <a href="../../../author/kwon_hyunchul"><b>Kwon</b> Hyunchul</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../amir_bagh_kwon.2024.NRAfFCCTCF3P/">New Reinforcement Approach for Freeform Concrete Components Through Carbon Fiber 3D Printing</a></li>

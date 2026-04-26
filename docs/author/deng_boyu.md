@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 52
+    : 56
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../uddi_ye_deng_li.2023.IMLfPtSo3PFRC/">Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete</a> (24)</li>
+        <li><a href="../../../author/uddin_nasir_md"><b>Uddin</b> Md</a>, <a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a>, <a href="../../../author/deng_boyu"><b>Deng</b> Boyu</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../uddi_ye_deng_li.2023.IMLfPtSo3PFRC/">Interpretable Machine Learning for Predicting the Strength of 3D Printed Fiber-Reinforced Concrete</a> (26)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

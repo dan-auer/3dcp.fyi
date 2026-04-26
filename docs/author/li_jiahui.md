@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/li_jiahui"><b>Li</b> Jiahui</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_li_zhan_zhan.2025.3PoRSFRUHPC/">3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete</a> (5)</li>
+        <li><a href="../../../author/chen_meng"><b>Chen</b> Meng</a>, <a href="../../../author/li_jiahui"><b>Li</b> Jiahui</a>, <a href="../../../author/zhang_tong"><b>Zhang</b> Tong</a>, <a href="../../../author/zhang_mingzhong"><b>Zhang</b> Mingzhong</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../chen_li_zhan_zhan.2025.3PoRSFRUHPC/">3D Printability of Recycled Steel-Fiber-Reinforced Ultra-High-Performance Concrete</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/maglad_m_ahmed"><b>Maglad</b> Ahmed</a> (1)</li>
-        <li><a href="../../../author/tong_zhongling"><b>Tong</b> Zhongling</a> (1)</li>
-        <li><a href="../../../author/will_frank"><b>Will</b> Frank</a> (1)</li>
-        <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (1)</li>
-        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (1)</li>
+        <li><a href="../../../author/huang_bo-tao"><b>Huang</b> Bo-Tao</a> (2)</li>
+        <li><a href="../../../author/huang_yujie"><b>Huang</b> Yujie</a> (2)</li>
+        <li><a href="../../../author/wu_jie"><b>Wu</b> Jie</a> (2)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (2)</li>
+        <li><a href="../../../author/zhang_hui"><b>Zhang</b> Hui</a> (2)</li>
     </ol>
 
 </div>

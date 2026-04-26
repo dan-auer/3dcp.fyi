@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 142
+    : 154
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (8)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (9)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (7)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (7)</li>
         <li><a href="../../../author/bai_gang"><b>Bai</b> Gang</a> (6)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (6)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (6)</li>
         <li><a href="../../../author/li_zhijian"><b>Li</b> Zhijian</a> (5)</li>
     </ol>
 

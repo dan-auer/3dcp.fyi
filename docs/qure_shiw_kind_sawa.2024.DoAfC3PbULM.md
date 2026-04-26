@@ -62,8 +62,9 @@ Contribution - Proceedings of the 3rd International Civil Engineering and Archit
       <li><a href="../../../author/yang_huashan"><b>Yang</b> Huashan</a>, <a href="../../../author/li_weiwei"><b>Li</b> Weiwei</a>, <a href="../../../author/che_yujun"><b>Che</b> Yujun</a> <a href="../../../date/2020/08">(2020-08)</a><br><a href="../../../yang_li_che.2020.3PCMCNC/">3D Printing Cementitious Materials Containing Nano-CaCO3:<br/>Workability, Strength, and Microstructure</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/zhang_yunsheng"><b>Zhang</b> Yunsheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a>, <a href="../../../author/yang_yonggan"><b>Yang</b> Yonggan</a> et al. <a href="../../../date/2018/04">(2018-04)</a><br><a href="../../../zhan_zhan_liu_yang.2018.FPoaN3PCI/">Fresh Properties of a Novel 3D Printing Concrete Ink</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/qureshi_usman_mohsin"><b>Qureshi</b> Mohsin</a>, <a href="../../../author/shizawi_amira"><b>Shizawi</b> Amira</a>, <a href="../../../author/kindi_ghassan"><b>Kindi</b> Ghassan</a>, <a href="../../../author/sawafi_bushra"><b>Sawafi</b> Bushra</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P/">Development of Cementitious Material by Incorporating Fine Waste Materials for Testing in Newly Developed Portable Concrete 3D Printer</a></li>
     </ol>
 </div>
 

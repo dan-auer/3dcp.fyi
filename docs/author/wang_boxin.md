@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_kang"><b>Zhao</b> Kang</a>, <a href="../../../author/hu_zhongjun"><b>Hu</b> Zhongjun</a>, <a href="../../../author/wang_boxin"><b>Wang</b> Boxin</a>, <a href="../../../author/li_quanheng"><b>Li</b> Quanheng</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF/">Effect of Roughness and Adhesive on the Strength of Concrete-to-Concrete Interfaces Cast from 3D Printed Prefabricated Plastic Formworks</a> (4)</li>
+        <li><a href="../../../author/zhao_kang"><b>Zhao</b> Kang</a>, <a href="../../../author/hu_zhongjun"><b>Hu</b> Zhongjun</a>, <a href="../../../author/wang_boxin"><b>Wang</b> Boxin</a>, <a href="../../../author/li_quanheng"><b>Li</b> Quanheng</a> et al. <a href="../../../date/2023/01">(2023-01)</a><br><a href="../../../zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF/">Effect of Roughness and Adhesive on the Strength of Concrete-to-Concrete Interfaces Cast from 3D Printed Prefabricated Plastic Formworks</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ibrahim_ademola_kamoru"><b>Ibrahim</b> Kamoru</a> (1)</li>
         <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (1)</li>
         <li><a href="../../../author/liu_yi"><b>Liu</b> Yi</a> (1)</li>
-        <li><a href="../../../author/pang_bo"><b>Pang</b> Bo</a> (1)</li>
-        <li><a href="../../../author/xu_mingqi"><b>Xu</b> Mingqi</a> (1)</li>
+        <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a> (1)</li>
+        <li><a href="../../../author/valek_josef"><b>Válek</b> Josef</a> (1)</li>
+        <li><a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a> (1)</li>
     </ol>
 
 </div>

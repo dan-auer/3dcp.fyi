@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 10
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a> (10)</li>
+        <li><a href="../../../author/salandin_andrea"><b>Salandin</b> Andrea</a>, <a href="../../../author/quintana-gallardo_alberto"><b>Quintana-Gallardo</b> Alberto</a>, <a href="../../../author/gomez-lozano_vicente"><b>Gómez-Lozano</b> Vicente</a>, <a href="../../../author/guillen-guillamon_ignacio"><b>Guillén-Guillamón</b> Ignacio</a> <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../sala_quin_gome_guil.2022.TF3PBiS/">The First 3D Printed Building in Spain:<br/>A Study on Its Acoustic, Thermal and Environmental Performance</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,10 +50,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (3)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (4)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
         <li><a href="../../../author/bajwa_ur-rehman_asad"><b>Bajwa</b> Asad</a> (2)</li>
-        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (2)</li>
-        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/cmiel_petr"><b>Cmiel</b> Petr</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 14
+    : 15
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_lan_nguy_tran.2024.FiC3P/">Frontiers in Construction 3D Printing:<br/>Self-Monitoring, Multi-Robot, Drone-Assisted Processes</a> (8)</li>
+        <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a>, <a href="../../../author/lan_tian"><b>Lan</b> Tian</a>, <a href="../../../author/nguyen_hung-xuan"><b>Nguyen</b> Hung-Xuan</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../li_lan_nguy_tran.2024.FiC3P/">Frontiers in Construction 3D Printing:<br/>Self-Monitoring, Multi-Robot, Drone-Assisted Processes</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

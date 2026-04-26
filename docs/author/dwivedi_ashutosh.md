@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 15
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../soda_dwiv_saha_gupt.2024.Do3PSEBCMUES/">Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil:<br/>Evaluation of Fresh and Hardened Properties</a> (10)</li>
+        <li><a href="../../../author/soda_ranjan-kumar_prabhath"><b>Soda</b> Prabhath</a>, <a href="../../../author/dwivedi_ashutosh"><b>Dwivedi</b> Ashutosh</a>, <a href="../../../author/sahana_m_c"><b>Sahana</b> C.</a>, <a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../soda_dwiv_saha_gupt.2024.Do3PSEBCMUES/">Development of 3D Printable Stabilized Earth-Based Construction Materials Using Excavated Soil:<br/>Evaluation of Fresh and Hardened Properties</a> (15)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gupta_souradeep"><b>Gupta</b> Souradeep</a> (2)</li>
-        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (2)</li>
-        <li><a href="../../../author/sahoo_pitabash"><b>Sahoo</b> Pitabash</a> (2)</li>
-        <li><a href="../../../author/upadhyay_bikash"><b>Upadhyay</b> Bikash</a> (2)</li>
-        <li><a href="../../../author/rao_r_roshan"><b>Rao</b> Roshan</a> (1)</li>
+        <li><a href="../../../author/akula_pavan"><b>Akula</b> Pavan</a> (3)</li>
+        <li><a href="../../../author/dixit_anjaneya"><b>Dixit</b> Anjaneya</a> (3)</li>
+        <li><a href="../../../author/kumar_sandeep"><b>Kumar</b> Sandeep</a> (3)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (3)</li>
+        <li><a href="../../../author/masoomi_maryam"><b>Masoomi</b> Maryam</a> (2)</li>
     </ol>
 
 </div>

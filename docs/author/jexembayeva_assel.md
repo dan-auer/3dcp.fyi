@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -53,8 +53,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> (1)</li>
-        <li><a href="../../../author/alawi_khamis_mubarak"><b>Al Alawi</b> Mubarak</a> (1)</li>
         <li><a href="../../../author/guo_chuan"><b>Guo</b> Chuan</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (1)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (1)</li>
         <li><a href="../../../author/yang_liuhua"><b>Yang</b> Liuhua</a> (1)</li>
     </ol>

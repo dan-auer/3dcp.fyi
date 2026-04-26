@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 15
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/niu_geng"><b>Niu</b> Geng</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../niu_liu_jia_ma.2024.PaPAo3PLEC/">Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete:<br/>Insights from the Excess-Paste-Theory</a> (9)</li>
+        <li><a href="../../../author/niu_geng"><b>Niu</b> Geng</a>, <a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a>, <a href="../../../author/ma_lei"><b>Ma</b> Lei</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../niu_liu_jia_ma.2024.PaPAo3PLEC/">Preparation and Performance-Analysis of 3D Printed Lightweight EPS-Concrete:<br/>Insights from the Excess-Paste-Theory</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (4)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
+        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (4)</li>
         <li><a href="../../../author/gao_yueyi"><b>Gao</b> Yueyi</a> (3)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (3)</li>
-        <li><a href="../../../author/xia_kailun"><b>Xia</b> Kailun</a> (3)</li>
         <li><a href="../../../author/yuan_hanquan"><b>Yuan</b> Hanquan</a> (3)</li>
     </ol>
 

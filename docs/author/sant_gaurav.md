@@ -19,42 +19,42 @@ search:
     : 2017-04-26
     
     Last Contribution
-    : 2025-11-20
+    : 2026-04-25
 
     Number Contributions
-    : 11
+    : 12
 
     Number Citations
-    : 234
+    : 245
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (7)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (8)</li>
         <li><a href="../../../author/gadt_torben"><b>Gädt</b> Torben</a> (5)</li>
         <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a> (4)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (4)</li>
         <li><a href="../../../author/garboczi_j_edward"><b>Garboczi</b> Edward</a> (3)</li>
-        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../nair_pand_sant_sant.2020.ACEotIoMCaEGo3PoCB/">A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders</a> (73)</li>
+        <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2020/05">(2020-05)</a><br><a href="../../../nair_pand_sant_sant.2020.ACEotIoMCaEGo3PoCB/">A Critical Examination of the Influence of Material-Characteristics and Extruder-Geometry on 3D Printing of Cementitious Binders</a> (74)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (23)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (25)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (21)</li>
         <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (19)</li>
-        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (19)</li>
-        <li><a href="../../../author/schutter_geert"><b>de Schutter</b> Geert</a> (15)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (14)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (16)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (20)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (21)</li>
         <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a> (13)</li>
-        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (11)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (12)</li>
         <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (10)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../trip_nair_raja_sant.2026.DBBAo3PCaINS/">Deformation-Based Buildability Assessment of 3D Printed Concrete and Its Numerical Simulation</a></li>
   <li><a href="../../../author/patel_kumar_aniket"><b>Patel</b> Aniket</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/kiran_ravi"><b>Kiran</b> Ravi</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../pate_trip_kira_sant.2025.DEAFSaREi3PCUDIC/">Decoupling Early-Age Free Shrinkage and Restraint Effects in 3D Printed Concrete Using Digital Image Correlation</a></li>
   <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kand_remk_rang_wani.2025.DaFoTUSSFf3P/">Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing</a></li>
   <li><a href="../../../author/dai_xiaodi"><b>Dai</b> Xiaodi</a>, <a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a>, <a href="../../../author/kumar_aditya"><b>Kumar</b> Aditya</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../dai_kand_neit_kuma.2024.TSSaFAsAAbCO2AF3P/">Thermally Stimulated Stiffening and Fly-Ash’s Alkaline-Activation by Ca(OH)2 Addition Facilitates 3D Printing</a></li>

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_bingying"><b>Li</b> Bingying</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qu_changwei"><b>Qu</b> Changwei</a>, <a href="../../../author/liu_wei"><b>Liu</b> Wei</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../li_ding_qu_liu.2024.MoFaHPo3PRMbSP/">Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers</a> (3)</li>
+        <li><a href="../../../author/li_bingying"><b>Li</b> Bingying</a>, <a href="../../../author/ding_tao"><b>Ding</b> Tao</a>, <a href="../../../author/qu_changwei"><b>Qu</b> Changwei</a>, <a href="../../../author/liu_wei"><b>Liu</b> Wei</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../li_ding_qu_liu.2024.MoFaHPo3PRMbSP/">Modification of Fresh and Hardened Properties of 3D Printed Recycled Mortar by Superabsorbent Polymers</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (1)</li>
-        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (1)</li>
-        <li><a href="../../../author/martins-toralles_berenice"><b>Martins Toralles</b> Berenice</a> (1)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
         <li><a href="../../../author/pereira-dos-santos_samuel"><b>Pereira dos Santos</b> Samuel</a> (1)</li>
-        <li><a href="../../../author/wang_jie"><b>Wang</b> Jie</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

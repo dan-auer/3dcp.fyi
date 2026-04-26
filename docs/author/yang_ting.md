@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 51
+    : 61
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a> (35)</li>
+        <li><a href="../../../author/yang_yekai"><b>Yang</b> Yekai</a>, <a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a>, <a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a>, <a href="../../../author/li_jun"><b>Li</b> Jun</a> et al. <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../yang_wu_liu_li.2022.Co3PUHPFRCUIL/">Characteristics of 3D Printing Ultra-High-Performance Fiber-Reinforced Concrete Under Impact Loading</a> (36)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> (5)</li>
-        <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (5)</li>
+        <li><a href="../../../author/liu_zhongxian"><b>Liu</b> Zhongxian</a> (6)</li>
+        <li><a href="../../../author/wu_chengqing"><b>Wu</b> Chengqing</a> (6)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (5)</li>
         <li><a href="../../../author/dong_enlai"><b>Dong</b> Enlai</a> (4)</li>
-        <li><a href="../../../author/dong_liang"><b>Dong</b> Liang</a> (4)</li>
         <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (4)</li>
     </ol>
 

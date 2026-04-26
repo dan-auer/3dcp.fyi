@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/hamad_bilal"><b>Hamad</b> Bilal</a> (1)</li>
         <li><a href="../../../author/jin_wenhao"><b>Jin</b> Wenhao</a> (1)</li>
-        <li><a href="../../../author/tanyildizi_harun"><b>Tanyildizi</b> Harun</a> (1)</li>
         <li><a href="../../../author/varela_hugo"><b>Varela</b> Hugo</a> (1)</li>
+        <li><a href="../../../author/wongwian_laksameekarn"><b>Wongwian</b> Laksameekarn</a> (1)</li>
         <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (1)</li>
     </ol>
 

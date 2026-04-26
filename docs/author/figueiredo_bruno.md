@@ -19,34 +19,34 @@ search:
     : 2022-07-08
     
     Last Contribution
-    : 2026-01-02
+    : 2026-04-20
 
     Number Contributions
-    : 18
+    : 19
 
     Number Citations
-    : 19
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (13)</li>
-        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (8)</li>
+        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (14)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (9)</li>
         <li><a href="../../../author/ribeiro_joao"><b>Ribeiro</b> João</a> (6)</li>
-        <li><a href="../../../author/hanifa_fouad_mohamad"><b>Hanifa</b> Mohamad</a> (4)</li>
-        <li><a href="../../../author/mendonca_paulo"><b>Mendonça</b> Paulo</a> (4)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (4)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (4)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_rafael"><b>Silva</b> Rafael</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../silv_wagn_silv_mora.2024.RTPi3CP/">Real-Time Precision in 3D Concrete Printing:<br/>Controlling Layer Morphology via Machine Vision and Learning Algorithms</a> (9)</li>
+        <li><a href="../../../author/silva_miguel_joao"><b>Silva</b> João</a>, <a href="../../../author/wagner_gabriel"><b>Wagner</b> Gabriel</a>, <a href="../../../author/silva_rafael"><b>Silva</b> Rafael</a>, <a href="../../../author/morais_antonio"><b>Morais</b> António</a> et al. <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../silv_wagn_silv_mora.2024.RTPi3CP/">Real-Time Precision in 3D Concrete Printing:<br/>Controlling Layer Morphology via Machine Vision and Learning Algorithms</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (12)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (11)</li>
-        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (9)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (9)</li>
+        <li><a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> (13)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (13)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (10)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (10)</li>
         <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (9)</li>
     </ol>
     
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../reis_aros_camo_bran.2026.CaCAi3PCM/">Carbonation and Chloride Attack in 3D-Printed Cementitious Materials:<br/>A Systematic Durability Review</a></li>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/dias_pedro_jose"><b>Dias</b> José</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../bran_dias_aros_reis.2026.UoWF/">Upcycling of Waste Fibers:<br/>Enhancing Structural Integrity in 3DCP Through Fiber Reinforcement</a></li>
   <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>

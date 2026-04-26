@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 19
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a> (14)</li>
+        <li><a href="../../../author/yao_yiming"><b>Yao</b> Yiming</a>, <a href="../../../author/zhang_jiawei"><b>Zhang</b> Jiawei</a>, <a href="../../../author/sun_yuanfeng"><b>Sun</b> Yuanfeng</a>, <a href="../../../author/pi_yilin"><b>Pi</b> Yilin</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../yao_zhan_sun_pi.2024.MPaFMo3PUHPC/">Mechanical Properties and Failure Mechanism of 3D Printing Ultra-High-Performance Concrete</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/lacidogna_giuseppe"><b>Lacidogna</b> Giuseppe</a> (2)</li>
-        <li><a href="../../../author/prem_ranjan_prabhat"><b>Prem</b> Prabhat</a> (2)</li>
-        <li><a href="../../../author/ravichandran_darssni"><b>Ravichandran</b> Darssni</a> (2)</li>
+        <li><a href="../../../author/lan_tian"><b>Lan</b> Tian</a> (2)</li>
         <li><a href="../../../author/xu_jie"><b>Xu</b> Jie</a> (2)</li>
-        <li><a href="../../../author/ye_chengjie"><b>Ye</b> Chengjie</a> (2)</li>
+        <li><a href="../../../author/yang_shutong"><b>Yang</b> Shutong</a> (2)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (2)</li>
     </ol>
 
 </div>

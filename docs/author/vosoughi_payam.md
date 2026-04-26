@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 13
+    : 19
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a> (7)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/vosoughi_payam"><b>Vosoughi</b> Payam</a>, <a href="../../../author/arce_amador_gabriel"><b>Arce</b> Gabriel</a>, <a href="../../../author/noorvand_hassan"><b>Noorvand</b> Hassan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bani_voso_arce_noor.2024.ASMo3PSvES/">Automated Strength Monitoring of 3D Printed Structures via Embedded Sensors</a> (11)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (7)</li>
-        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (6)</li>
-        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (4)</li>
-        <li><a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> (4)</li>
-        <li><a href="../../../author/dempsey_mary"><b>Dempsey</b> Mary</a> (3)</li>
+        <li><a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> (11)</li>
+        <li><a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a> (10)</li>
+        <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a> (6)</li>
+        <li><a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> (6)</li>
+        <li><a href="../../../author/fiske_r_michael"><b>Fiske</b> Michael</a> (3)</li>
     </ol>
 
 </div>

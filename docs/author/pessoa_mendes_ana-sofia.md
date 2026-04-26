@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 115
+    : 125
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a> (93)</li>
+        <li><a href="../../../author/pessoa_mendes_ana-sofia"><b>Pessoa</b> Ana Sofia</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a>, <a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../pess_guim_luca_simo.2021.3PitCI/">3D Printing in the Construction Industry:<br/>A Systematic Review of the Thermal Performance in Buildings</a> (99)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,7 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (9)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (12)</li>
         <li><a href="../../../author/rangel_barbara"><b>Rangel</b> Bárbara</a> (9)</li>
         <li><a href="../../../author/alves_lino_jorge"><b>Alves</b> Jorge</a> (7)</li>
         <li><a href="../../../author/jesus_manuel"><b>Jesus</b> Manuel</a> (7)</li>

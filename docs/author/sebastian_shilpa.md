@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 14
+    : 18
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../kali_ambi_shek_seba.2024.EoSGotFPo3PC/">Effect of Sand-Gradations on the Fresh Properties of 3D Printable Concrete</a> (7)</li>
+        <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a>, <a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../kali_ambi_shek_seba.2024.EoSGotFPo3PC/">Effect of Sand-Gradations on the Fresh Properties of 3D Printable Concrete</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/fang_q_z"><b>Fang</b> Z.</a> (2)</li>
-        <li><a href="../../../author/kwan_kwok-hung_albert"><b>Kwan</b> Albert</a> (2)</li>
-        <li><a href="../../../author/li_g_l"><b>Li</b> L.</a> (2)</li>
+        <li><a href="../../../author/dehestani_mehdi"><b>Dehestani</b> Mehdi</a> (3)</li>
+        <li><a href="../../../author/garshasbi_sajad"><b>Garshasbi</b> Sajad</a> (3)</li>
+        <li><a href="../../../author/mousavi_sina_seyed"><b>Mousavi</b> Seyed</a> (3)</li>
+        <li><a href="../../../author/nazarpour_hadi"><b>Nazarpour</b> Hadi</a> (3)</li>
         <li><a href="../../../author/mathew_mariam_ashitta"><b>Mathew</b> Ashitta</a> (2)</li>
-        <li><a href="../../../author/uthuppan_k_susan"><b>Uthuppan</b> Susan</a> (2)</li>
     </ol>
 
 </div>

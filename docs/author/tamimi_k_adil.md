@@ -25,7 +25,7 @@ search:
     : 6
 
     Number Citations
-    : 228
+    : 260
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a> (77)</li>
+        <li><a href="../../../author/alchaar_s_aktham"><b>Alchaar</b> Aktham</a>, <a href="../../../author/tamimi_k_adil"><b>Tamimi</b> Adil</a> <a href="../../../date/2020/10">(2020-10)</a><br><a href="../../../alch_tami.2021.MPo3PCiHT/">Mechanical Properties of 3D Printed Concrete in Hot Temperatures</a> (81)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/besklubova_svetlana"><b>Besklubova</b> Svetlana</a> (7)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (7)</li>
         <li><a href="../../../author/mansouri_abraham"><b>Mansouri</b> Abraham</a> (6)</li>
-        <li><a href="../../../author/raza_huzaifa_muhammad"><b>Raza</b> Muhammad</a> (5)</li>
-        <li><a href="../../../author/zhong_y_ray"><b>Zhong</b> Ray</a> (5)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (6)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (6)</li>
     </ol>
 
 </div>

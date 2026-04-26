@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/cheng_xiao-ming"><b>Cheng</b> Xiao-Ming</a>, <a href="../../../author/wang_lian-gang"><b>Wang</b> Lian-Gang</a>, <a href="../../../author/qian_kai"><b>Qian</b> Kai</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_chen_wang_qian.2024.CPoPFR3CPPFCCRwBB/">Compressive Performance of PVA Fiber-Reinforced 3D Concrete Printing Permanent Formwork Composite Columns Reinforced with BFRP-Bars</a> (1)</li>
+        <li><a href="../../../author/liu_bing"><b>Liu</b> Bing</a>, <a href="../../../author/cheng_xiao-ming"><b>Cheng</b> Xiao-Ming</a>, <a href="../../../author/wang_lian-gang"><b>Wang</b> Lian-Gang</a>, <a href="../../../author/qian_kai"><b>Qian</b> Kai</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../liu_chen_wang_qian.2024.CPoPFR3CPPFCCRwBB/">Compressive Performance of PVA Fiber-Reinforced 3D Concrete Printing Permanent Formwork Composite Columns Reinforced with BFRP-Bars</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -50,11 +50,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lin_xiqiang"><b>Lin</b> Xiqiang</a> (1)</li>
+        <li><a href="../../../author/chen_baixi"><b>Chen</b> Baixi</a> (1)</li>
+        <li><a href="../../../author/ohshiro_yusei"><b>Ohshiro</b> Yusei</a> (1)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
-        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a> (1)</li>
-        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> (1)</li>
-        <li><a href="../../../author/ye_yinlin"><b>Ye</b> Yinlin</a> (1)</li>
+        <li><a href="../../../author/shima_kanako"><b>Shima</b> Kanako</a> (1)</li>
+        <li><a href="../../../author/wang_zihao"><b>Wang</b> Zihao</a> (1)</li>
     </ol>
 
 </div>

@@ -29,14 +29,14 @@ search:
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
+        <li><a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a> (1)</li>
         <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a> (1)</li>
         <li><a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a> (0)</li>
+        <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a> (0)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -58,5 +58,5 @@ search:
 
 
 <ol class = "bordered-list" reversed>
-  <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
+  <li><a href="../../../author/joshi_arpan"><b>Joshi</b> Arpan</a>, <a href="../../../author/gaspar_jose-mendes_florindo"><b>Gaspar</b> Florindo</a>, <a href="../../../author/archbold_paul"><b>Archbold</b> Paul</a>, <a href="../../../author/silvestre_dinis_jose"><b>Silvestre</b> José</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../josh_gasp_arch_silv.2025.SotCoMBoFBFAfS3P/">Study on the Composition of Mortars Based on Forest Biomass Fly Ash for Sustainable 3D Printing</a></li>
 </ol>

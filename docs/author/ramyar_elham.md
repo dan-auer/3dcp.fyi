@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 17
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ramy_cusa.2022.DFCMfSoOSCaPCF/">Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow</a> (11)</li>
+        <li><a href="../../../author/ramyar_elham"><b>Ramyar</b> Elham</a>, <a href="../../../author/cusatis_gianluca"><b>Cusatis</b> Gianluca</a> <a href="../../../date/2021/11">(2021-11)</a><br><a href="../../../ramy_cusa.2022.DFCMfSoOSCaPCF/">Discrete Fresh Concrete-Model for Simulation of Ordinary, Self-Consolidating, and Printable Concrete-Flow</a> (13)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (3)</li>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (5)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (5)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (5)</li>
         <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (3)</li>
-        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (3)</li>
-        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (3)</li>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (3)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 19
+    : 20
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>, <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST/">Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test</a> (19)</li>
+        <li><a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/ye_boxing"><b>Ye</b> Boxing</a>, <a href="../../../author/lin_kangjian"><b>Lin</b> Kangjian</a>, <a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../sun_ye_lin_wang.2022.SPo3PCRwFoRMBoDST/">Shear-Performance of 3D Printed Concrete Reinforced with Flexible or Rigid Materials Based on Direct-Shear-Test</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,10 +51,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> (2)</li>
+        <li><a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a> (2)</li>
         <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
-        <li><a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> (2)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (2)</li>
         <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (2)</li>
-        <li><a href="../../../author/vanderlei_d_romel"><b>Vanderlei</b> Romel</a> (1)</li>
     </ol>
 
 </div>

@@ -52,8 +52,9 @@ Journal Article - Construction and Building Materials, Vol. 502, No. 144415
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a></li>
       <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a>, <a href="../../../author/jiang_yuan_yuan"><b>Jiang</b> Yuan</a>, <a href="../../../author/li_pei-lin"><b>Li</b> Pei-Lin</a> <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zeng_yan_jian_li.2024.3PoFGaBRfRCP/">3D Printing of FRP Grid and Bar Reinforcement for Reinforced Concrete Plates:<br/>Development and Effectiveness</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/luo_jintao"><b>Luo</b> Jintao</a>, <a href="../../../author/zhang_li"><b>Zhang</b> Li</a>, <a href="../../../author/guan_xuemao"><b>Guan</b> Xuemao</a>, <a href="../../../author/yao_tianshuai"><b>Yao</b> Tianshuai</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../luo_zhan_guan_yao.2026.RMTtPEF3PC/">Recycling Molybdenum Tailings to Produce Eco-Friendly 3D-Printed Concrete:<br/>Rheological Properties, Mechanical Evolution and Internal Curing Mechanism</a></li>
     </ol>
 </div>
 

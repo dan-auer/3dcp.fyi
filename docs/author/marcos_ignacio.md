@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/marcos_ignacio"><b>Marcos</b> Ignacio</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cast_cald_marc.2021.AoEMftSDo3PTCDH/">Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening</a> (1)</li>
+        <li><a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a>, <a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a>, <a href="../../../author/marcos_ignacio"><b>Marcos</b> Ignacio</a> <a href="../../../date/2021/12">(2021-12)</a><br><a href="../../../cast_cald_marc.2021.AoEMftSDo3PTCDH/">Applicability of Existing Models for the Strength Development of 3D Printed Thixotropic Concretes During Hardening</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,9 +49,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/aramburu_amaia"><b>Aramburu</b> Amaia</a> (1)</li>
         <li><a href="../../../author/calderon-uriszar-aldaca_inigo"><b>Calderon-Uriszar-Aldaca</b> Iñigo</a> (1)</li>
         <li><a href="../../../author/castano-alvarez_ruben"><b>Castano-Alvarez</b> Ruben</a> (1)</li>
+        <li><a href="../../../author/janicke_ralf"><b>Jänicke</b> Ralf</a> (1)</li>
+        <li><a href="../../../author/la_tuan_quoc"><b>La</b> Quoc</a> (1)</li>
         <li><a href="../../../author/puente_inigo"><b>Puente</b> Iñigo</a> (1)</li>
     </ol>
 

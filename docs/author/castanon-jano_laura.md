@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 22
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a> (16)</li>
+        <li><a href="../../../author/alonso-canon_sara"><b>Alonso-Cañon</b> Sara</a>, <a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a>, <a href="../../../author/castro-fresno_daniel"><b>Castro-Fresno</b> Daniel</a>, <a href="../../../author/yoris-nobile_isidro_adrian"><b>Yoris-Nobile</b> Adrian</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../alon_blan_cast_yori.2023.Ri3PCS/">Reinforcements in 3D Printing Concrete Structures</a> (18)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/blanco-fernandez_elena"><b>Blanco-Fernandez</b> Elena</a> (3)</li>
         <li><a href="../../../author/indacoechea-vega_irune"><b>Indacoechea-Vega</b> Irune</a> (3)</li>
         <li><a href="../../../author/artamonova_vladimirovna_olga"><b>Artamonova</b> Olga</a> (2)</li>
-        <li><a href="../../../author/mardani_ali"><b>Mardani</b> Ali</a> (2)</li>
+        <li><a href="../../../author/pal_biswajit"><b>Pal</b> Biswajit</a> (2)</li>
     </ol>
 
 </div>

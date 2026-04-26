@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a> (6)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a>, <a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a>, <a href="../../../author/ahmed_yunus_zeeshan"><b>Ahmed</b> Zeeshan</a>, <a href="../../../author/hermens_j_lex"><b>Hermens</b> Lex</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../bos_wolf_ahme_herm.2019.TIoMTotIPSaSoa3PM/">The Influence of Material Temperature on the In-Print Strength and Stability of a 3D Print Mortar</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (3)</li>
+        <li><a href="../../../author/robens-radermacher_annika"><b>Robens-Radermacher</b> Annika</a> (3)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (3)</li>
+        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (3)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (2)</li>
-        <li><a href="../../../author/mezhov_alexander"><b>Mezhov</b> Alexander</a> (2)</li>
-        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (2)</li>
-        <li><a href="../../../author/unger_f_jorg"><b>Unger</b> Jörg</a> (2)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (2)</li>
     </ol>
 
 </div>

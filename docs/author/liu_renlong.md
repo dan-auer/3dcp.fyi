@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/zhou_lu"><b>Zhou</b> Lu</a>, <a href="../../../author/jia_xiangxi"><b>Jia</b> Xiangxi</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../chen_zhou_jia_liu.2025.ESoCDaFPo3PGECC/">Experimental Study on Crack Development and Fracture Performance of 3D Printed Green Engineered Cementitious Composites</a> (1)</li>
+        <li><a href="../../../author/cheng_zhangqi"><b>Cheng</b> Zhangqi</a>, <a href="../../../author/li_keyan"><b>Li</b> Keyan</a>, <a href="../../../author/liu_renlong"><b>Liu</b> Renlong</a> <a href="../../../date/2025/12">(2025-12)</a><br><a href="../../../chen_li_liu.2025.S3PECCIRCM/">Sustainable 3D Printed Engineered Cementitious Composites Incorporating Recycled Ceramic Materials:<br/>Rheology and Mechanical Behavior</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/das_souvik"><b>Das</b> Souvik</a> (1)</li>
+        <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a> (1)</li>
+        <li><a href="../../../author/lee_jonathan"><b>Lee</b> Jonathan</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
+        <li><a href="../../../author/wei_jianqiang"><b>Wei</b> Jianqiang</a> (1)</li>
     </ol>
 
 </div>

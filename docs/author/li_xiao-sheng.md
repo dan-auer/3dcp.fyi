@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 21
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_hao_li_xiao.2023.DoCI3PC/">Development of CO2-Integrated 3D Printing Concrete</a> (18)</li>
+        <li><a href="../../../author/li_long"><b>Li</b> Long</a>, <a href="../../../author/hao_lucen"><b>Hao</b> Lucen</a>, <a href="../../../author/li_xiao-sheng"><b>Li</b> Xiao-Sheng</a>, <a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> et al. <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../li_hao_li_xiao.2023.DoCI3PC/">Development of CO2-Integrated 3D Printing Concrete</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/gao_xiaojian"><b>Gao</b> Xiaojian</a> (2)</li>
+        <li><a href="../../../author/li_long"><b>Li</b> Long</a> (3)</li>
+        <li><a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a> (3)</li>
+        <li><a href="../../../author/zhang_shipeng"><b>Zhang</b> Shipeng</a> (3)</li>
         <li><a href="../../../author/lee_junghyun"><b>Lee</b> Junghyun</a> (2)</li>
-        <li><a href="../../../author/leong_sing"><b>Leong</b> Sing</a> (2)</li>
-        <li><a href="../../../author/poon_sun_chi"><b>Poon</b> Chi</a> (2)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (2)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 11
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.IoPPotTPo3PCS/">Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures</a> (10)</li>
+        <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a>, <a href="../../../author/calautit_kaiser_john"><b>Calautit</b> John</a> <a href="../../../date/2024/07">(2024-07)</a><br><a href="../../../sove_cala.2024.IoPPotTPo3PCS/">Influence of Printing Parameters on the Thermal Properties of 3D Printed Construction Structures</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,9 +49,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (2)</li>
         <li><a href="../../../author/kaiser-calautit_john"><b>Kaiser Calautit</b> John</a> (2)</li>
         <li><a href="../../../author/li_zhengrong"><b>Li</b> Zhengrong</a> (2)</li>
-        <li><a href="../../../author/sun_jingting"><b>Sun</b> Jingting</a> (2)</li>
         <li><a href="../../../author/xing_wenjing"><b>Xing</b> Wenjing</a> (2)</li>
     </ol>
 

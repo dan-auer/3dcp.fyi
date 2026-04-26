@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/hlobil_michal"><b>Hlobil</b> Michal</a>, <a href="../../../author/michel_luca"><b>Michel</b> Luca</a>, <a href="../../../author/pundir_mohit"><b>Pundir</b> Mohit</a>, <a href="../../../author/kammer_s_david"><b>Kammer</b> David</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../hlob_mich_pund_kamm.2025.ATHMtDtFDCJFi3PC/">A Thermo-Hygro Model to Determine the Factors Dictating Cold Joint Formation in 3D Printed Concrete</a> (3)</li>
+        <li><a href="../../../author/hlobil_michal"><b>Hlobil</b> Michal</a>, <a href="../../../author/michel_luca"><b>Michel</b> Luca</a>, <a href="../../../author/pundir_mohit"><b>Pundir</b> Mohit</a>, <a href="../../../author/kammer_s_david"><b>Kammer</b> David</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../hlob_mich_pund_kamm.2025.ATHMtDtFDCJFi3PC/">A Thermo-Hygro Model to Determine the Factors Dictating Cold Joint Formation in 3D Printed Concrete</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/hassan_zohaib"><b>Hassan</b> Zohaib</a> (2)</li>
         <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a> (2)</li>
         <li><a href="../../../author/shahverdi_moslem"><b>Shahverdi</b> Moslem</a> (2)</li>
-        <li><a href="../../../author/li_wengui"><b>Li</b> Wengui</a> (1)</li>
+        <li><a href="../../../author/schmidt_wolfram"><b>Schmidt</b> Wolfram</a> (1)</li>
         <li><a href="../../../author/zhang_shihao"><b>Zhang</b> Shihao</a> (1)</li>
     </ol>
 

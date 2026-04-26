@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tang_can"><b>Tang</b> Can</a>, <a href="../../../author/zhou_yujie"><b>Zhou</b> Yujie</a>, <a href="../../../author/mehmood_awais"><b>Mehmood</b> Awais</a>, <a href="../../../author/rania_chlihi"><b>Rania</b> Chlihi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_zhou_mehm_rani.2025.AN3PNPsRGRCBCWS/">A Novel 3D-Printed Negative Poisson's Ratio Grid-Reinforced Cement-Based Composite Wall Structure:<br/>Design, Fabrication, and Compressive Properties</a> (0)</li>
+        <li><a href="../../../author/tang_can"><b>Tang</b> Can</a>, <a href="../../../author/zhou_yujie"><b>Zhou</b> Yujie</a>, <a href="../../../author/mehmood_awais"><b>Mehmood</b> Awais</a>, <a href="../../../author/rania_chlihi"><b>Rania</b> Chlihi</a> et al. <a href="../../../date/2025/11">(2025-11)</a><br><a href="../../../tang_zhou_mehm_rani.2025.AN3PNPsRGRCBCWS/">A Novel 3D-Printed Negative Poisson's Ratio Grid-Reinforced Cement-Based Composite Wall Structure:<br/>Design, Fabrication, and Compressive Properties</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (1)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (1)</li>
+        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a> (1)</li>
     </ol>
 
 </div>

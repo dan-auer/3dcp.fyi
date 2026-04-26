@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 9
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ingl_kali_ambi_shek.2023.3PCWCA/">3D Printable Concrete Without Chemical Admixtures:<br/>Fresh and Hardened Properties</a> (8)</li>
+        <li><a href="../../../author/ingle_vinod_vaibhav"><b>Ingle</b> Vaibhav</a>, <a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a>, <a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a>, <a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ingl_kali_ambi_shek.2023.3PCWCA/">3D Printable Concrete Without Chemical Admixtures:<br/>Fresh and Hardened Properties</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/ambily_s_parukutty"><b>Ambily</b> Parukutty</a> (3)</li>
         <li><a href="../../../author/kaliyavaradhan_kumar_senthil"><b>Kaliyavaradhan</b> Senthil</a> (3)</li>
+        <li><a href="../../../author/alomayri_thamer"><b>Alomayri</b> Thamer</a> (2)</li>
         <li><a href="../../../author/sebastian_shilpa"><b>Sebastian</b> Shilpa</a> (2)</li>
-        <li><a href="../../../author/shekar_deepadharshan"><b>Shekar</b> Deepadharshan</a> (2)</li>
-        <li><a href="../../../author/vora_jay"><b>Vora</b> Jay</a> (1)</li>
+        <li><a href="../../../author/zhang_chunwei"><b>Zhang</b> Chunwei</a> (2)</li>
     </ol>
 
 </div>

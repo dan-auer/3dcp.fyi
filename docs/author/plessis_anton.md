@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 528
+    : 550
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a> (219)</li>
+        <li><a href="../../../author/kruger_pienaar_jacques"><b>Kruger</b> Jacques</a>, <a href="../../../author/plessis_anton"><b>Plessis</b> Anton</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a> <a href="../../../date/2020/12">(2020-12)</a><br><a href="../../../krug_ples_zijl.2021.AIitPoEB3PC/">An Investigation into the Porosity of Extrusion-Based 3D Printed Concrete</a> (225)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (35)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (25)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (25)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (23)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (21)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (21)</li>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (20)</li>
     </ol>
 
 </div>

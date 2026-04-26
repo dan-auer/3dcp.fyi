@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 57
+    : 63
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a> (26)</li>
+        <li><a href="../../../author/bhattacherjee_shantanu"><b>Bhattacherjee</b> Shantanu</a>, <a href="../../../author/jain_smrati"><b>Jain</b> Smrati</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../bhat_jain_sant.2022.CoBAIfBo3PCCLCC/">Criticality of Binder-Aggregate Interaction for Buildability of 3D Printed Concrete Containing Limestone-Calcined-Clay</a> (30)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (5)</li>
         <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (4)</li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (4)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (4)</li>
         <li><a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>van Zijl</b> Gideon</a> (4)</li>
-        <li><a href="../../../author/cui_weijiu"><b>Cui</b> Weijiu</a> (3)</li>
-        <li><a href="../../../author/kim_heejeong"><b>Kim</b> Heejeong</a> (3)</li>
     </ol>
 
 </div>

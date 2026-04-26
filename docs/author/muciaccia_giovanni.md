@@ -19,18 +19,21 @@ search:
     : 2024-09-06
     
     Last Contribution
-    : 2024-11-06
+    : 2026-03-09
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (2)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (3)</li>
         <li><a href="../../../author/soave_francesco"><b>Soave</b> Francesco</a> (2)</li>
+        <li><a href="../../../author/alzoubi_y"><b>Alzoubi</b> Y.</a> (1)</li>
+        <li><a href="../../../author/cibelli_antonio"><b>Cibelli</b> Antonio</a> (1)</li>
+        <li><a href="../../../author/wan-wendner_roman"><b>Wan-Wendner</b> Roman</a> (1)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -57,6 +60,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/alzoubi_y"><b>Alzoubi</b> Y.</a>, <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a>, <a href="../../../author/cibelli_antonio"><b>Cibelli</b> Antonio</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../alzo_muci_ferr_cibe.2026.NMoIAi3PCwL/">Numerical Modelling of Interlayer Adhesion in 3D-Printed Concrete with LDPM</a></li>
   <li><a href="../../../author/soave_francesco"><b>Soave</b> Francesco</a>, <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../soav_muci_ferr.2025.AIMtEtRPoaDFCICI/">An Indirect Methodology to Evaluate the Rheological Properties of a Digitally Fabricated Concrete Incorporating Corrosion Inhibitors</a></li>
   <li><a href="../../../author/soave_francesco"><b>Soave</b> Francesco</a>, <a href="../../../author/muciaccia_giovanni"><b>Muciaccia</b> Giovanni</a>, <a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../soav_muci_ferr.2024.ESfSaILBia3PCF/">Experimental Setup for Shear and Inter-Layer Bonding in a 3D Printed Concrete Framework</a></li>
 </ol>

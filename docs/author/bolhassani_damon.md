@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (8)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (4)</li>
-        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (3)</li>
-        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (2)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (5)</li>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (4)</li>
+        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (3)</li>
         <li><a href="../../../author/teng_teng"><b>Teng</b> Teng</a> (2)</li>
         <li><a href="../../../author/xu_weiguo"><b>Xu</b> Weiguo</a> (1)</li>
     </ol>

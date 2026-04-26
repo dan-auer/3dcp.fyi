@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 14
+    : 17
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/oosthuizen_daniel_jandre"><b>Oosthuizen</b> Jandré</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../oost_baba_wall.2023.3PRPEARC/">3D Printed Recycled Plastic Eco-Aggregate (Resin8) Concrete</a> (14)</li>
+        <li><a href="../../../author/oosthuizen_daniel_jandre"><b>Oosthuizen</b> Jandré</a>, <a href="../../../author/babafemi_john_adewumi"><b>Babafemi</b> Adewumi</a>, <a href="../../../author/walls_shaun_richard"><b>Walls</b> Richard</a> <a href="../../../date/2023/10">(2023-10)</a><br><a href="../../../oost_baba_wall.2023.3PRPEARC/">3D Printed Recycled Plastic Eco-Aggregate (Resin8) Concrete</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

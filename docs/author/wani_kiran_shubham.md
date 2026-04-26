@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kand_remk_rang_wani.2025.DaFoTUSSFf3P/">Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing</a> (0)</li>
+        <li><a href="../../../author/kandy_bhagavathi_sharu"><b>Kandy</b> Sharu</a>, <a href="../../../author/remke_sebastian"><b>Remke</b> Sebastian</a>, <a href="../../../author/ranganathan_thiyagarajan"><b>Ranganathan</b> Thiyagarajan</a>, <a href="../../../author/wani_kiran_shubham"><b>Wani</b> Shubham</a> et al. <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../kand_remk_rang_wani.2025.DaFoTUSSFf3P/">Design and Function of Thermoresponsive-Ultrafast Stiffening Suspension Formulations for 3D Printing</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,7 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/olek_jan"><b>Olek</b> Jan</a> (1)</li>
+        <li><a href="../../../author/runge_troy"><b>Runge</b> Troy</a> (1)</li>
+        <li><a href="../../../author/verma_akshat"><b>Verma</b> Akshat</a> (1)</li>
+        <li><a href="../../../author/youngblood_p_jeffrey"><b>Youngblood</b> Jeffrey</a> (1)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (1)</li>
     </ol>
 
 </div>

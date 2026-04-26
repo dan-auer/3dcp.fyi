@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/dong_weiwei"><b>Dong</b> Weiwei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_shen_sun_dong.2024.NIoSBoRCBw3PCPF/">Numerical Investigation on Shear Behavior of Reinforced Concrete Beam with 3D Printed Concrete Permanent Formwork</a> (3)</li>
+        <li><a href="../../../author/wang_hailong"><b>Wang</b> Hailong</a>, <a href="../../../author/shen_junyi"><b>Shen</b> Junyi</a>, <a href="../../../author/sun_xiaoyan"><b>Sun</b> Xiaoyan</a>, <a href="../../../author/dong_weiwei"><b>Dong</b> Weiwei</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../wang_shen_sun_dong.2024.NIoSBoRCBw3PCPF/">Numerical Investigation on Shear Behavior of Reinforced Concrete Beam with 3D Printed Concrete Permanent Formwork</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/abdelmongy_mohamed"><b>Abdelmongy</b> Mohamed</a> (1)</li>
         <li><a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a> (1)</li>
-        <li><a href="../../../author/li_shiping"><b>Li</b> Shiping</a> (1)</li>
+        <li><a href="../../../author/katlav_metin"><b>Katlav</b> Metin</a> (1)</li>
         <li><a href="../../../author/shi_yiqing"><b>Shi</b> Yiqing</a> (1)</li>
-        <li><a href="../../../author/yu_xiaoniu"><b>Yu</b> Xiaoniu</a> (1)</li>
-        <li><a href="../../../author/zhang_daxu"><b>Zhang</b> Daxu</a> (1)</li>
+        <li><a href="../../../author/turk_kazim"><b>Turk</b> Kazim</a> (1)</li>
     </ol>
 
 </div>

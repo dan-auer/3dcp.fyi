@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 42
+    : 48
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a> (42)</li>
+        <li><a href="../../../author/demiral_cagatay_nazim"><b>Demiral</b> Nazim</a>, <a href="../../../author/ozkan-ekinci_mehmet"><b>Ozkan Ekinci</b> Mehmet</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> et al. <a href="../../../date/2022/10">(2022-10)</a><br><a href="../../../demi_ozka_sahi_ilca.2022.MAEaBPo3PCaDWBGM/">Mechanical Anisotropy Evaluation and Bonding Properties of 3D Printable Construction and Demolition Waste-Based Geopolymer Mortars</a> (45)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (8)</li>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (7)</li>
-        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (4)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (10)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (9)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (6)</li>
         <li><a href="../../../author/jaji_bamidele_mustapha"><b>Jaji</b> Mustapha</a> (3)</li>
         <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> (3)</li>
     </ol>

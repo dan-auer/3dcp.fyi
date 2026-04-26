@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 7
+    : 11
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_li_jian_ding.2024.ARo3PECCB/">Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams</a> (6)</li>
+        <li><a href="../../../author/lin_manfang"><b>Lin</b> Manfang</a>, <a href="../../../author/li_lingzhi"><b>Li</b> Lingzhi</a>, <a href="../../../author/jiang_fangming"><b>Jiang</b> Fangming</a>, <a href="../../../author/ding_yao"><b>Ding</b> Yao</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../lin_li_jian_ding.2024.ARo3PECCB/">Automated Reinforcement of 3D Printed Engineered Cementitious Composite Beams</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

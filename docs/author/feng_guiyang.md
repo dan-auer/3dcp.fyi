@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 20
+    : 22
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../qian_hua_yue_feng.2022.UoRCPi3CPMtPPO/">Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization</a> (18)</li>
+        <li><a href="../../../author/qian_hao"><b>Qian</b> Hao</a>, <a href="../../../author/hua_sudong"><b>Hua</b> Sudong</a>, <a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a>, <a href="../../../author/feng_guiyang"><b>Feng</b> Guiyang</a> et al. <a href="../../../date/2022/09">(2022-09)</a><br><a href="../../../qian_hua_yue_feng.2022.UoRCPi3CPMtPPO/">Utilization of Recycled Construction-Powder in 3D Concrete Printable Materials through Particle-Packing-Optimization</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/mendoza-reales_aurelio_oscar"><b>Mendoza Reales</b> Oscar</a> (3)</li>
         <li><a href="../../../author/toledo-filho_dias_romildo"><b>Toledo Filho</b> Romildo</a> (3)</li>
-        <li><a href="../../../author/cavalcante_canavarro_tiago"><b>Cavalcante</b> Tiago</a> (2)</li>
         <li><a href="../../../author/gao_yanan"><b>Gao</b> Yanan</a> (2)</li>
-        <li><a href="../../../author/yue_hongfei"><b>Yue</b> Hongfei</a> (2)</li>
+        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (2)</li>
+        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (2)</li>
     </ol>
 
 </div>

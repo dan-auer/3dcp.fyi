@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 29
+    : 34
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_zhihui"><b>Wang</b> Zhihui</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_wang_wu_liu.2023.3PCwRS/">3D Printing Concrete with Recycled Sand:<br/>The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship</a> (29)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a>, <a href="../../../author/wang_zhihui"><b>Wang</b> Zhihui</a>, <a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a>, <a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../liu_wang_wu_liu.2023.3PCwRS/">3D Printing Concrete with Recycled Sand:<br/>The Influence Mechanism of Extruded Pore-Defects on Constitutive Relationship</a> (34)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -56,7 +56,7 @@ search:
         <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (4)</li>
         <li><a href="../../../author/wu_yiwen"><b>Wu</b> Yiwen</a> (4)</li>
         <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (3)</li>
-        <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (2)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (2)</li>
     </ol>
 
 </div>

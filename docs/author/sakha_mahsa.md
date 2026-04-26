@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 11
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL/">Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads</a> (5)</li>
+        <li><a href="../../../author/raza_saim"><b>Raza</b> Saim</a>, <a href="../../../author/manshadi_behzad"><b>Manshadi</b> Behzad</a>, <a href="../../../author/sakha_mahsa"><b>Sakha</b> Mahsa</a>, <a href="../../../author/widmann_robert"><b>Widmann</b> Robert</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../raza_mans_sakh_widm.2025.LTBo3PCFfRSUEAL/">Load Transfer Behavior of 3D Printed Concrete Formwork for Ribbed Slabs Under Eccentric Axial Loads</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_junjie"><b>Chen</b> Junjie</a> (1)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (4)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (4)</li>
+        <li><a href="../../../author/wang_qian"><b>Wang</b> Qian</a> (3)</li>
         <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
-        <li><a href="../../../author/qu_yao"><b>Qu</b> Yao</a> (1)</li>
-        <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (1)</li>
         <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (1)</li>
     </ol>
 

@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 6
+    : 7
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/xu_ping"><b>Xu</b> Ping</a>, <a href="../../../author/chen_tianyu"><b>Chen</b> Tianyu</a>, <a href="../../../author/fan_kaijun"><b>Fan</b> Kaijun</a>, <a href="../../../author/zhang_minxia"><b>Zhang</b> Minxia</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../xu_chen_fan_zhan.2023.EoNSSDotPo3PC/">Effect of Nano-Silica-Sol Dosage on the Properties of 3D Printed Concrete</a> (6)</li>
+        <li><a href="../../../author/xu_ping"><b>Xu</b> Ping</a>, <a href="../../../author/chen_tianyu"><b>Chen</b> Tianyu</a>, <a href="../../../author/fan_kaijun"><b>Fan</b> Kaijun</a>, <a href="../../../author/zhang_minxia"><b>Zhang</b> Minxia</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../xu_chen_fan_zhan.2023.EoNSSDotPo3PC/">Effect of Nano-Silica-Sol Dosage on the Properties of 3D Printed Concrete</a> (7)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,7 +54,7 @@ search:
         <li><a href="../../../author/abedi_mohammadmadhi"><b>Abedi</b> Mohammadmadhi</a> (1)</li>
         <li><a href="../../../author/althoey_fadi"><b>Althoey</b> Fadi</a> (1)</li>
         <li><a href="../../../author/korayem_habibnejad_asghar"><b>Korayem</b> Asghar</a> (1)</li>
-        <li><a href="../../../author/leong_sing"><b>Leong</b> Sing</a> (1)</li>
+        <li><a href="../../../author/mishra_kumar_sanjeet"><b>Mishra</b> Sanjeet</a> (1)</li>
     </ol>
 
 </div>

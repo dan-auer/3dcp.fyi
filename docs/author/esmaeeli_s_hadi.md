@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 26
+    : 32
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/ghantous_maria_rita"><b>Ghantous</b> Rita</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../gupt_esma_prih_ghan.2023.FaTAoH3PLCM/">Fracture- and Transport-Analysis of Heterogeneous 3D Printed Lamellar Cementitious Materials</a> (11)</li>
+        <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a>, <a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a>, <a href="../../../author/esmaeeli_s_hadi"><b>Esmaeeli</b> Hadi</a>, <a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../prih_gupt_esma_moin.2024.TDBACEbRAM/">Tough Double-Bouligand Architected Concrete Enabled by Robotic Additive Manufacturing</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (10)</li>
-        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (3)</li>
+        <li><a href="../../../author/moini_mohamadreza"><b>Moini</b> Mohamadreza</a> (12)</li>
+        <li><a href="../../../author/gupta_shashank"><b>Gupta</b> Shashank</a> (5)</li>
+        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (5)</li>
         <li><a href="../../../author/najmeddine_aimane"><b>Najmeddine</b> Aimane</a> (3)</li>
-        <li><a href="../../../author/prihar_arjun"><b>Prihar</b> Arjun</a> (3)</li>
-        <li><a href="../../../author/qian_ye"><b>Qian</b> Ye</a> (3)</li>
+        <li><a href="../../../author/zavattieri_d_pablo"><b>Zavattieri</b> Pablo</a> (3)</li>
     </ol>
 
 </div>

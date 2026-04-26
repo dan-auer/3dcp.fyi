@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 150
+    : 159
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a> (64)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a>, <a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a>, <a href="../../../author/kul_anil"><b>Kul</b> Anil</a>, <a href="../../../author/yildirim_gurkan"><b>Yıldırım</b> Gürkan</a> et al. <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../ilca_sahi_kul_yld.2022.RPaCSoCaDWBGMf3P/">Rheological Properties and Compressive Strength of Construction and Demolition Waste-Based Geopolymer Mortars for 3D Printing</a> (67)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (35)</li>
-        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (31)</li>
-        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (20)</li>
+        <li><a href="../../../author/sahmaran_mustafa"><b>Şahmaran</b> Mustafa</a> (40)</li>
+        <li><a href="../../../author/ilcan_huseyin"><b>İlcan</b> Hüseyin</a> (36)</li>
+        <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (25)</li>
         <li><a href="../../../author/koc_muammer"><b>Koç</b> Muammer</a> (12)</li>
         <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> (11)</li>
     </ol>

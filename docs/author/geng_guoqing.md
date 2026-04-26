@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 5
+    : 8
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/qu_zhengyao"><b>Qu</b> Zhengyao</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a>, <a href="../../../author/ong_ping_ghim"><b>Ong</b> Ghim</a>, <a href="../../../author/cardinaels_ruth"><b>Cardinaels</b> Ruth</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../qu_yu_ong_card.2023.3PCCTRG/">3D Printing Concrete Containing Thermal Responsive Gelatin:<br/>Towards Cold Environment Applications</a> (5)</li>
+        <li><a href="../../../author/qu_zhengyao"><b>Qu</b> Zhengyao</a>, <a href="../../../author/yu_qingliang"><b>Yu</b> Qingliang</a>, <a href="../../../author/ong_ping_ghim"><b>Ong</b> Ghim</a>, <a href="../../../author/cardinaels_ruth"><b>Cardinaels</b> Ruth</a> et al. <a href="../../../date/2023/04">(2023-04)</a><br><a href="../../../qu_yu_ong_card.2023.3PCCTRG/">3D Printing Concrete Containing Thermal Responsive Gelatin:<br/>Towards Cold Environment Applications</a> (8)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,10 +53,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (2)</li>
+        <li><a href="../../../author/doh_jeung-hwan"><b>Doh</b> Jeung-Hwan</a> (1)</li>
         <li><a href="../../../author/shivendra_thammannagowda_bandoorvaragerahalli"><b>Shivendra</b> Bandoorvaragerahalli</a> (1)</li>
-        <li><a href="../../../author/tantri_adithya"><b>Tantri</b> Adithya</a> (1)</li>
-        <li><a href="../../../author/yang_lin"><b>Yang</b> Lin</a> (1)</li>
-        <li><a href="../../../author/zhang_hao"><b>Zhang</b> Hao</a> (1)</li>
+        <li><a href="../../../author/sun_tianyu"><b>Sun</b> Tianyu</a> (1)</li>
+        <li><a href="../../../author/xiong_rui"><b>Xiong</b> Rui</a> (1)</li>
     </ol>
 
 </div>

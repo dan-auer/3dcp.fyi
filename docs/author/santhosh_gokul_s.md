@@ -19,32 +19,32 @@ search:
     : 2025-05-16
     
     Last Contribution
-    : 2025-07-30
+    : 2026-02-04
 
     Number Contributions
-    : 2
+    : 3
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (2)</li>
-        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (2)</li>
+        <li><a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> (3)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sant_raph_sant.2025.EoSBDUVPiC3P/">Exploration of Sustainable Beam Design Using Voronoi Patterns in Concrete 3D Printing</a> (0)</li>
+        <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sant_raph_sant.2025.C3PoSOLBINIP/">Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (6)</li>
-        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (4)</li>
-        <li><a href="../../../author/rahul_vijayan_attupurathu"><b>Rahul</b> Attupurathu</a> (3)</li>
-        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (3)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (3)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (8)</li>
+        <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (6)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (5)</li>
+        <li><a href="../../../author/wang_li"><b>Wang</b> Li</a> (5)</li>
+        <li><a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -57,6 +57,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sant_raph_sant.2026.D/">DELRA:<br/>A Continuous Print Path Generation Algorithm for Concrete 3D Printing of Lattice Structures</a></li>
   <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sant_raph_sant.2025.EoSBDUVPiC3P/">Exploration of Sustainable Beam Design Using Voronoi Patterns in Concrete 3D Printing</a></li>
   <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../sant_raph_sant.2025.C3PoSOLBINIP/">Concrete 3D Printing of Shape-Optimized Lattice Beams Incorporating Nature-Inspired Patterns</a></li>
 </ol>

@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 87
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (16)</li>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (15)</li>
-        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (7)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (17)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (16)</li>
+        <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a> (8)</li>
         <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (7)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (7)</li>
     </ol>

@@ -90,8 +90,9 @@ Journal Article - Construction and Building Materials, Vol. 500, No. 144228
       <li><a href="../../../author/zhang_jingchuan"><b>Zhang</b> Jingchuan</a>, <a href="../../../author/wang_jialiang"><b>Wang</b> Jialiang</a>, <a href="../../../author/dong_sufen"><b>Dong</b> Sufen</a>, <a href="../../../author/yu_xun"><b>Yu</b> Xun</a> et al. <a href="../../../date/2019/07">(2019-07)</a><br><a href="../../../zhan_wang_dong_yu.2019.ARotCPaAo3PC/">A Review of the Current Progress and Application of 3D Printed Concrete</a></li>
       <li><a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/yang_lin"><b>Yang</b> Lin</a>, <a href="../../../author/qian_rusheng"><b>Qian</b> Rusheng</a>, <a href="../../../author/liu_guojian"><b>Liu</b> Guojian</a> et al. <a href="../../../date/2023/07">(2023-07)</a><br><a href="../../../zhan_yang_qian_liu.2023.ILAo3PC/">Inter-Layer Adhesion of 3D Printed Concrete:<br/>Influence of Layer Stacked Vertically</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/das_souvik"><b>Das</b> Souvik</a>, <a href="../../../author/lee_jonathan"><b>Lee</b> Jonathan</a>, <a href="../../../author/wei_jianqiang"><b>Wei</b> Jianqiang</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../das_lee_wei.2026.TUHPCfAM/">Tailoring Ultra-High Performance Concrete for Additive Manufacturing:<br/>Synergistic Roles of Superplasticizer and Viscosity-Modifying Admixture in Printability and Performance</a></li>
     </ol>
 </div>
 

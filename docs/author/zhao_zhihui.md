@@ -25,7 +25,7 @@ search:
     : 9
 
     Number Citations
-    : 130
+    : 138
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_laibo"><b>Li</b> Laibo</a> et al. <a href="../../../date/2021/03">(2021-03)</a><br><a href="../../../zhao_chen_xu_li.2021.MDaRPoMPPCCBot3PES/">Mix-Design and Rheological Properties of Magnesium-Potassium-Phosphate Cement Composites Based on the 3D Printing-Extrusion-System</a> (28)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (16)</li>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (16)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (18)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (18)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (13)</li>
         <li><a href="../../../author/li_qiuyi"><b>Li</b> Qiuyi</a> (11)</li>
         <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (8)</li>

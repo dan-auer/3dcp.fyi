@@ -63,8 +63,9 @@ Journal Article - Thin-Walled Structures, No. 114268
       <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a>, <a href="../../../author/bai_meiyan"><b>Bai</b> Meiyan</a>, <a href="../../../author/wu_yuching"><b>Wu</b> Yuching</a>, <a href="../../../author/duan_zhenhua"><b>Duan</b> Zhenhua</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../xiao_bai_wu_duan.2024.ILBSaPCo3PECC/">Inter-Layer Bonding Strength and Pore Characteristics of 3D Printed Engineered Cementitious Composites</a></li>
       <li><a href="../../../author/zhao_guoqi"><b>Zhao</b> Guoqi</a>, <a href="../../../author/fan_yichang"><b>Fan</b> Yichang</a>, <a href="../../../author/tang_can"><b>Tang</b> Can</a>, <a href="../../../author/wei_yuanyuan"><b>Wei</b> Yuanyuan</a> et al. <a href="../../../date/2024/02">(2024-02)</a><br><a href="../../../zhao_fan_tang_wei.2024.PaCPoCCRb3PCSwaNPsR/">Preparation and Compressive Properties of Cementitious Composites Reinforced by 3D Printed Cellular Structures with a Negative Poisson's Ratio</a></li>
     </ol>
-???+ bug "0 Citations"
+???+ bug "1 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/santhosh_gokul_s"><b>Santhosh</b> S.</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a>, <a href="../../../author/santhanam_manu"><b>Santhanam</b> Manu</a> <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../sant_raph_sant.2026.D/">DELRA:<br/>A Continuous Print Path Generation Algorithm for Concrete 3D Printing of Lattice Structures</a></li>
     </ol>
 </div>
 

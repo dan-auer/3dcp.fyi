@@ -44,6 +44,7 @@ search:
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/hashida_toshiyuki"><b>Hashida</b> Toshiyuki</a> (1)</li>
+        <li><a href="../../../author/larrard_francois"><b>de Larrard</b> François</a> (1)</li>
         <li><a href="../../../author/li_c_victor"><b>Li</b> Victor</a> (1)</li>
         <li><a href="../../../author/miyagai_kiyotaka"><b>Miyagai</b> Kiyotaka</a> (1)</li>
         <li><a href="../../../author/takashima_hiroyuki"><b>Takashima</b> Hiroyuki</a> (1)</li>

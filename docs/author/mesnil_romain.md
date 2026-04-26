@@ -19,21 +19,21 @@ search:
     : 2019-10-10
     
     Last Contribution
-    : 2026-01-15
+    : 2026-02-10
 
     Number Contributions
-    : 39
+    : 40
 
     Number Citations
-    : 611
+    : 666
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (29)</li>
-        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (20)</li>
-        <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a> (15)</li>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (30)</li>
+        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (21)</li>
+        <li><a href="../../../author/demont_leo"><b>Demont</b> Léo</a> (16)</li>
+        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (11)</li>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (11)</li>
-        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (10)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -43,20 +43,20 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (83)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (85)</li>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (71)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (69)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (67)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (64)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (70)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (68)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (65)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (35)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (33)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (28)</li>
         <li><a href="../../../author/jacquet_yohan"><b>Jacquet</b> Yohan</a> (21)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (17)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (21)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (19)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../caro_duco_demo_bono.2026.U3PfaNCCaSD/">Using 3D Printing for a New Cementitious Composite and Structural Design</a></li>
   <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/hassan_m"><b>Hassan</b> M.</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cane_hass_demo_keit.2026.FPToPCwaPD/">Fast Penetration Testing of Printable Concretes with a Portable Device:<br/>Robustness and Calibration</a></li>
   <li><a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ghabezloo_siavash"><b>Ghabezloo</b> Siavash</a>, <a href="../../../author/dangla_patrick"><b>Dangla</b> Patrick</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> et al. <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../pier_ghab_dang_mesn.2025.MMo3CP/">Multiphysics Modelling of 3D Concrete Printing:<br/>From Material Model to Process Simulation and Optimisation</a></li>
   <li><a href="../../../author/gribonval_alice"><b>Gribonval</b> Alice</a>, <a href="../../../author/pierre_maxime"><b>Pierre</b> Maxime</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/sab_karam"><b>Sab</b> Karam</a> et al. <a href="../../../date/2025/05">(2025-05)</a><br><a href="../../../grib_pier_duco_sab.2025.MPMo3PCEiEC/">Multi-Physics Modelling of 3D-Printed Concrete Evolution in Environmental Conditions</a></li>

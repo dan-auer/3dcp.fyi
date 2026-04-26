@@ -19,35 +19,35 @@ search:
     : 2021-11-29
     
     Last Contribution
-    : 2025-07-17
+    : 2026-03-19
 
     Number Contributions
-    : 5
+    : 6
 
     Number Citations
-    : 63
+    : 71
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (5)</li>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (5)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (6)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (6)</li>
         <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (3)</li>
-        <li><a href="../../../author/li_laibo"><b>Li</b> Laibo</a> (2)</li>
+        <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> (2)</li>
         <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a> (25)</li>
+        <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> et al. <a href="../../../date/2022/05">(2022-05)</a><br><a href="../../../zhao_chen_jin_lu.2022.RCT3PMPPCC/">Rheology-Control Towards 3D Printed Magnesium-Potassium-Phosphate-Cement Composites</a> (28)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (23)</li>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (23)</li>
-        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (23)</li>
-        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (20)</li>
-        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (18)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (28)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (27)</li>
+        <li><a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> (27)</li>
+        <li><a href="../../../author/huang_yongbo"><b>Huang</b> Yongbo</a> (22)</li>
+        <li><a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> (20)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a>, <a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/zhou_xiangming"><b>Zhou</b> Xiangming</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../jin_sun_chen_zhou.2026.PtPoCCi3P/">Predicting the Printability of Cementitious Composites in 3D Printing:<br/>Relevance Between Rheological Protocols and Structural Deformation</a></li>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/jiang_chengzhi"><b>Jiang</b> Chengzhi</a>, <a href="../../../author/gan_xingyu"><b>Gan</b> Xingyu</a>, <a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../jin_jian_gan_sun.2025.EtPo3PWCMwA/">Enhancing the Printability of 3D Printed White Cementitious Materials with Accelerators:<br/>Evolution of Early-Age Hydration and Rheology</a></li>
   <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/sun_keke"><b>Sun</b> Keke</a>, <a href="../../../author/wang_shoude"><b>Wang</b> Shoude</a> et al. <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC/">Study on the Durability of 3D Printed Calcium-Sulphoaluminate Cement-Based Materials Related to Rheology-Control</a></li>
   <li><a href="../../../author/jin_yuan"><b>Jin</b> Yuan</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/li_yali"><b>Li</b> Yali</a>, <a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> et al. <a href="../../../date/2022/06">(2022-06)</a><br><a href="../../../jin_xu_li_zhao.2022.RPSSaCSo3PCCCMbNLP/">Rheological Properties, Shape Stability and Compressive Strength of 3D Printed Colored Cement Composites Modified by Needle-Like Pigment</a></li>

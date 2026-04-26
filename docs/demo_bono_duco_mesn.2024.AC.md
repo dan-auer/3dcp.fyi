@@ -62,7 +62,7 @@ Contribution - Built Environment Additive Manufacturing, pp. 94-103
       title             = "Anisotropic Concrete: A Composite Look on the Engineering and Architecture of Concrete Construction",
       year              = "2024",
       pages             = "94--103",
-      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2021",
+      booktitle         = "Built Environment Additive Manufacturing: BE-AM | Symposium 2024",
       editor            = "Nadja Gaudillière-Jami and Alexander Wolf",
     }
 
@@ -73,10 +73,10 @@ Contribution - Built Environment Additive Manufacturing, pp. 94-103
 
     === "IEEE"
 
-    <span id="iee">L. Demont, V. de Bono, N. Ducoulombier, R. Mesnil and J.-F. Caron, “Anisotropic Concrete: A Composite Look on the Engineering and Architecture of Concrete Construction”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>,  2024, pp. 94–103.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">L. Demont, V. de Bono, N. Ducoulombier, R. Mesnil and J.-F. Caron, “Anisotropic Concrete: A Composite Look on the Engineering and Architecture of Concrete Construction”, in <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>,  2024, pp. 94–103.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Demont, Léo, Victor de Bono, Nicolas Ducoulombier, Romain Mesnil, and Jean-François Caron. “Anisotropic Concrete: A Composite Look on the Engineering and Architecture of Concrete Construction”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2021</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 94–103, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Demont, Léo, Victor de Bono, Nicolas Ducoulombier, Romain Mesnil, and Jean-François Caron. “Anisotropic Concrete: A Composite Look on the Engineering and Architecture of Concrete Construction”. In <i>Built Environment Additive Manufacturing: BE-AM | Symposium 2024</i>, edited by Nadja Gaudillière-Jami and Alexander Wolf, 94–103, 2024.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

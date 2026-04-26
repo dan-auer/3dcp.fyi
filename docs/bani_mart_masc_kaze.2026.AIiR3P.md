@@ -3,7 +3,7 @@ hide:
     - navigation
     - tags
     - footer
-title: Banijamali Kasra, Martin Michael, Mascarenas David, Kazemian Ali
+title: Banijamali Kasra, Martin Michael, Mascareñas David, Kazemian Ali
 description:
 tags:
  - automation
@@ -25,7 +25,7 @@ tags:
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1061/jccee5.cpeng-7059" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1061/jccee5.cpeng-7059" target="_blank">10.1061/jccee5.cpeng-7059</a>
 
-<a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/martin_michael"><b>Martin</b>&nbsp;Michael</a></span>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
+<span class="author"><a href="https://orcid.org/0009-0002-5337-0243" title="ORCID: 0009-0002-5337-0243" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/banijamali_kasra"><b>Banijamali</b>&nbsp;Kasra</a></span>, <a href="../../../author/martin_michael"><b>Martin</b>&nbsp;Michael</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-8548-9401" title="ORCID: 0000-0002-8548-9401" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/mascarenas_david"><b>Mascareñas</b>&nbsp;David</a></span>, <span class="author"><a href="https://orcid.org/0000-0002-9525-6759" title="ORCID: 0000-0002-9525-6759" target="_blank">:aca-orcid:{ .lg .middle }</a>&nbsp;<a href="../../../author/kazemian_ali"><b>Kazemian</b>&nbsp;Ali</a></span><br>
 Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
 
 <a href="../../keyword/automation"><button class="btn">#automation</button></a> <a href="../../keyword/geometry"><button class="btn">#geometry</button></a> <a href="../../keyword/inspection"><button class="btn">#inspection</button></a> <a href="../../keyword/light"><button class="btn">#light</button></a> <a href="../../keyword/machine"><button class="btn">#machine</button></a> <a href="../../keyword/measurement"><button class="btn">#measurement</button></a> <a href="../../keyword/print"><button class="btn">#print</button></a> <a href="../../keyword/process"><button class="btn">#process</button></a> <a href="../../keyword/robot"><button class="btn">#robot</button></a> <a href="../../keyword/structuration"><button class="btn">#structuration</button></a> <a href="../../keyword/vision"><button class="btn">#vision</button></a> 
@@ -64,7 +64,7 @@ Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/bohler_david"><b>Böhler</b> David</a>, <a href="../../../author/freund_niklas"><b>Freund</b> Niklas</a>, <a href="../../../author/mai-nee-dressler_inka"><b>Mai (née Dressler)</b> Inka</a> et al. <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../lach_bohl_freu_mai.2023.MtIoMaPPoS3PS/">Modelling the Influence of Material and Process Parameters on Shotcrete 3D Printed Strands:<br/>Cross-Section Adjustment for Automatic Robotic Manufacturing</a></li>
       <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a>, <a href="../../../author/recker_tobias"><b>Recker</b> Tobias</a>, <a href="../../../author/raatz_annika"><b>Raatz</b> Annika</a> <a href="../../../date/2022/03">(2022-03)</a><br><a href="../../../lach_reck_raat.2022.CTCfMRAtLSAaAMiC/">Contour-Tracking-Control for Mobile Robots Applicable to Large-Scale Assembly and Additive Manufacturing in Construction</a></li>
       <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a>, <a href="../../../author/qian_shunzhi"><b>Qian</b> Shunzhi</a> <a href="../../../date/2021/02">(2021-02)</a><br><a href="../../../lu_li_wong_qian.2021.EoPPoMDiSB3CPS3/">Effect of Printing Parameters on Material-Distribution in Spray-Based 3D Concrete Printing (S-3DCP)</a></li>
-      <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascarenas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
+      <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/gilbert_hunter"><b>Gilbert</b> Hunter</a>, <a href="../../../author/mascarenas_david"><b>Mascareñas</b> David</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../mart_bani_gilb_masc.2024.LBRTGIfLSAM/">LiDAR-Based Real-Time Geometrical Inspection for Large-Scale Additive Manufacturing</a></li>
       <li><a href="../../../author/martin_michael"><b>Martin</b> Michael</a>, <a href="../../../author/banijamali_kasra"><b>Banijamali</b> Kasra</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a> <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../mart_bani_kaze.2023.RCTfAQCDC3P/">Reality-Capture Technologies for Automated Quality-Control During Construction 3D Printing</a></li>
       <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a>, <a href="../../../author/tittelboom_kim"><b>Tittelboom</b> Kim</a>, <a href="../../../author/kazemian_ali"><b>Kazemian</b> Ali</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a> et al. <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../mech_titt_kaze_krei.2022.ARfQCoHaHPC/">A Roadmap for Quality-Control of Hardening and Hardened Printed Concrete</a></li>
       <li><a href="../../../author/senthilnathan_shanmugaraj"><b>Senthilnathan</b> Shanmugaraj</a>, <a href="../../../author/raphael_benny"><b>Raphael</b> Benny</a> <a href="../../../date/2022/11">(2022-11)</a><br><a href="../../../sent_raph.2022.UCVfMtQo3PCS/">Using Computer-Vision for Monitoring the Quality of 3D Printed Concrete Structures</a></li>
@@ -85,7 +85,7 @@ Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
 
     ```bibtex
     @article{bani_mart_masc_kaze.2026.AIiR3P,
-      author            = "Kasra Banijamali and Michael Martin and David Mascarenas and Ali Kazemian",
+      author            = "Kasra Banijamali and Michael Martin and David Mascareñas and Ali Kazemian",
       title             = "Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision",
       doi               = "10.1061/jccee5.cpeng-7059",
       year              = "2026",
@@ -101,10 +101,10 @@ Journal Article - Journal of Computing in Civil Engineering, Vol. 40, Iss. 2
 
     === "IEEE"
 
-    <span id="iee">K. Banijamali, M. Martin, D. Mascarenas and A. Kazemian, “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”, <i>Journal of Computing in Civil Engineering</i>, vol. 40, no. 2, 2026, doi: 10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
+    <span id="iee">K. Banijamali, M. Martin, D. Mascareñas and A. Kazemian, “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”, <i>Journal of Computing in Civil Engineering</i>, vol. 40, no. 2, 2026, doi: 10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#ieee" data-md-type="copy" title="Copy IEEE Citation to Clipboard"></button>
 
     === "CMOS"
 
-    <span id="cmos">Banijamali, Kasra, Michael Martin, David Mascarenas, and Ali Kazemian. “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”. <i>Journal of Computing in Civil Engineering</i> 40, no. 2 (2026). https://doi.org/10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
+    <span id="cmos">Banijamali, Kasra, Michael Martin, David Mascareñas, and Ali Kazemian. “Automated Inspection in Robotic 3D Printing: In-Process Geometrical Measurements Using Structured Light Machine Vision”. <i>Journal of Computing in Civil Engineering</i> 40, no. 2 (2026). https://doi.org/10.1061/jccee5.cpeng-7059.</span><button class="md-code__button" data-clipboard-target="#cmos" data-md-type="copy" title="Copy CMOS Citation to Clipboard"></button>
 
 </div>

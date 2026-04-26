@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/shen_jing"><b>Shen</b> Jing</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shen_li_zhan_li.2024.TDPCbaUTNaFSE/">Three-Dimensional Printable Concrete by an Ultra-Thin Nozzle and Fully-Sealed Extrusion</a> (2)</li>
+        <li><a href="../../../author/shen_jing"><b>Shen</b> Jing</a>, <a href="../../../author/li_yujia"><b>Li</b> Yujia</a>, <a href="../../../author/zhang_xiaoman"><b>Zhang</b> Xiaoman</a>, <a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> et al. <a href="../../../date/2024/06">(2024-06)</a><br><a href="../../../shen_li_zhan_li.2024.TDPCbaUTNaFSE/">Three-Dimensional Printable Concrete by an Ultra-Thin Nozzle and Fully-Sealed Extrusion</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,9 +54,9 @@ search:
     <ol>
         <li><a href="../../../author/aman_mohammed_abdulkerim"><b>Aman</b> Abdulkerim</a> (1)</li>
         <li><a href="../../../author/inqiad_bin_waleed"><b>Inqiad</b> Waleed</a> (1)</li>
-        <li><a href="../../../author/li_yangbo"><b>Li</b> Yangbo</a> (1)</li>
+        <li><a href="../../../author/ohshiro_yusei"><b>Ohshiro</b> Yusei</a> (1)</li>
         <li><a href="../../../author/rahman_mujib"><b>Rahman</b> Mujib</a> (1)</li>
-        <li><a href="../../../author/shen_jing"><b>Shen</b> Jing</a> (1)</li>
+        <li><a href="../../../author/shima_kanako"><b>Shima</b> Kanako</a> (1)</li>
     </ol>
 
 </div>

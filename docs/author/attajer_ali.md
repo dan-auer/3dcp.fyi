@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 4
+    : 5
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>, <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../gard_hedj_atta.2025.AMiC/">Additive Manufacturing in Construction:<br/>State of the Art and Emerging Trends in Civil Engineering</a> (4)</li>
+        <li><a href="../../../author/gardan_julien"><b>Gardan</b> Julien</a>, <a href="../../../author/hedjazi_lofti"><b>Hedjazi</b> Lofti</a>, <a href="../../../author/attajer_ali"><b>Attajer</b> Ali</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../gard_hedj_atta.2025.AMiC/">Additive Manufacturing in Construction:<br/>State of the Art and Emerging Trends in Civil Engineering</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,8 +52,8 @@ search:
         <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (1)</li>
         <li><a href="../../../author/ismail_o_sikiru"><b>Ismail</b> Sikiru</a> (1)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
+        <li><a href="../../../author/kozlova_mariia"><b>Kozlova</b> Mariia</a> (1)</li>
         <li><a href="../../../author/miraj_perdana"><b>Miraj</b> Perdana</a> (1)</li>
-        <li><a href="../../../author/saroji_gunawan"><b>Saroji</b> Gunawan</a> (1)</li>
     </ol>
 
 </div>

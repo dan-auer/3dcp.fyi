@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a> (9)</li>
+        <li><a href="../../../author/asensio_javier"><b>Asensio</b> Javier</a>, <a href="../../../author/josa_irene"><b>Josa</b> Irene</a>, <a href="../../../author/monserrat_andrea"><b>Monserrat</b> Andrea</a>, <a href="../../../author/fuente_albert"><b>Fuente</b> Albert</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../asen_josa_mons_fuen.2023.3PCF/">3D‐Printed Concrete Footbridges:<br/>An Approach to Assess the Sustainability Performance</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

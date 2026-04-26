@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 9
+    : 14
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a> (9)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a>, <a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a>, <a href="../../../author/deng_run-bin"><b>Deng</b> Run-Bin</a>, <a href="../../../author/yan_zitong"><b>Yan</b> Zitong</a> et al. <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../zeng_sun_deng_yan.2025.BPBFBa3PHPC/">Bond Performance Between FRP-Bars and 3D-Printed High-Performance Concrete</a> (14)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (2)</li>
-        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (2)</li>
-        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (2)</li>
-        <li><a href="../../../author/chen_xianqin"><b>Chen</b> Xianqin</a> (1)</li>
-        <li><a href="../../../author/luo_zhiyu"><b>Luo</b> Zhiyu</a> (1)</li>
+        <li><a href="../../../author/sun_hou-qi"><b>Sun</b> Hou-Qi</a> (4)</li>
+        <li><a href="../../../author/zhuge_yan"><b>Zhuge</b> Yan</a> (4)</li>
+        <li><a href="../../../author/zeng_jun-jie"><b>Zeng</b> Jun-Jie</a> (3)</li>
+        <li><a href="../../../author/xia_jun-run"><b>Xia</b> Jun-Run</a> (2)</li>
+        <li><a href="../../../author/zhou_jie-kai"><b>Zhou</b> Jie-Kai</a> (2)</li>
     </ol>
 
 </div>

@@ -13,41 +13,41 @@ search:
 <div class="grid cards" markdown>
 !!! question "Information"
     ORCID
-    : N/A
+    : <a href="https://orcid.org/0009-0008-5262-3978" target="_blank">0009-0008-5262-3978</a>
 
     First Contribution
     : 2024-04-04
     
     Last Contribution
-    : 2025-10-31
+    : 2026-03-12
 
     Number Contributions
-    : 5
+    : 7
 
     Number Citations
-    : 8
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (5)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (7)</li>
+        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (7)</li>
+        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (7)</li>
         <li><a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a> (5)</li>
-        <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a> (5)</li>
         <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a> (5)</li>
-        <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a> (5)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (8)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../akba_chai_zhi_oror.2024.D/">Diamanti:<br/>3D Printed, Post-Tensioned Concrete Canopy</a> (10)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (3)</li>
-        <li><a href="../../../author/khan_alim_shoukat"><b>Khan</b> Shoukat</a> (2)</li>
-        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (2)</li>
-        <li><a href="../../../author/lloret-fritschi_ena"><b>Lloret-Fritschi</b> Ena</a> (2)</li>
-        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (2)</li>
+        <li><a href="../../../author/dillenburger_benjamin"><b>Dillenburger</b> Benjamin</a> (6)</li>
+        <li><a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> (3)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (3)</li>
+        <li><a href="../../../author/kohler_daniel_matthias"><b>Kohler</b> Matthias</a> (3)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,8 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/bernhard_mathias"><b>Bernhard</b> Mathias</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2026/03">(2026-03)</a><br><a href="../../../chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS/">Design-to-Fabrication Workflow for 3D Concrete Printed Structures with Embedded Periodic Anticlastic Surfaces</a></li>
+  <li><a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/motavaselian_amir"><b>Motavaselian</b> Amir</a>, <a href="../../../author/chai_hua"><b>Chai</b> Hua</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../zhi_oror_mota_chai.2025.TOfaPTC3PFS/">Toolpath Optimization for a Post-Tensioned Concrete 3D-Printed Floor Structure</a></li>
   <li><a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a> et al. <a href="../../../date/2025/10">(2025-10)</a><br><a href="../../../yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV/">Advanced Finite Element Modeling of 3D-Printed Post-Tensioned Concrete Beams with Experimental Validation</a></li>
   <li><a href="../../../author/bolhassani_damon"><b>Bolhassani</b> Damon</a>, <a href="../../../author/yavartanoo_fahimeh"><b>Yavartanoo</b> Fahimeh</a>, <a href="../../../author/tapia_javier"><b>Tapia</b> Javier</a>, <a href="../../../author/akbarzadeh_masoud"><b>Akbarzadeh</b> Masoud</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../bolh_yava_tapi_akba.2024.TEoPTotBoSS3PCB/">The Effect of Post-Tensioning on the Behavior of Small-Scale 3D Printed Concrete Beams</a></li>
   <li><a href="../../../author/chai_hua"><b>Chai</b> Hua</a>, <a href="../../../author/ororbia_e_maximilian"><b>Ororbia</b> Maximilian</a>, <a href="../../../author/zhi_yefan"><b>Zhi</b> Yefan</a>, <a href="../../../author/welch_ryan"><b>Welch</b> Ryan</a> et al. <a href="../../../date/2024/08">(2024-08)</a><br><a href="../../../chai_oror_zhi_welc.2024.DAfaPTFCB/">Design Approach for a Post-Tensioned Funicular Concrete Beam</a></li>

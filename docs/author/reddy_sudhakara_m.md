@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sing_anan_liu_tam.2025.EIBi3PCUBBB/">Enhancing Interlayer Bonding in 3D Printed Concrete Using Bacteria-Based Biomineralization</a> (3)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a>, <a href="../../../author/anand_kamal"><b>Anand</b> Kamal</a>, <a href="../../../author/liu_qiong"><b>Liu</b> Qiong</a>, <a href="../../../author/tam_w-y_vivian"><b>Tam</b> Vivian</a> et al. <a href="../../../date/2025/07">(2025-07)</a><br><a href="../../../sing_anan_liu_tam.2025.EIBi3PCUBBB/">Enhancing Interlayer Bonding in 3D Printed Concrete Using Bacteria-Based Biomineralization</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/bradshaw_james"><b>Bradshaw</b> James</a> (1)</li>
+        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (2)</li>
         <li><a href="../../../author/fei_xiangpeng"><b>Fei</b> Xiangpeng</a> (1)</li>
+        <li><a href="../../../author/lu_shuaijie"><b>Lu</b> Shuaijie</a> (1)</li>
         <li><a href="../../../author/sheng_yanming"><b>Sheng</b> Yanming</a> (1)</li>
-        <li><a href="../../../author/singh_amardeep"><b>Singh</b> Amardeep</a> (1)</li>
         <li><a href="../../../author/sun_bin"><b>Sun</b> Bin</a> (1)</li>
     </ol>
 

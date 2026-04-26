@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 23
+    : 26
 
 !!! success "Top Co-Authors"
     <ol>
@@ -51,11 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (4)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (4)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (4)</li>
         <li><a href="../../../author/sovetova_meruyert"><b>Sovetova</b> Meruyert</a> (3)</li>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (2)</li>
         <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (2)</li>
-        <li><a href="../../../author/geng_renyu"><b>Geng</b> Renyu</a> (2)</li>
-        <li><a href="../../../author/jiang_jinming"><b>Jiang</b> Jinming</a> (2)</li>
     </ol>
 
 </div>

@@ -25,7 +25,7 @@ search:
     : 8
 
     Number Citations
-    : 44
+    : 53
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a> (24)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a>, <a href="../../../author/xu_jiabin"><b>Xu</b> Jiabin</a>, <a href="../../../author/yuan_lianwang"><b>Yuan</b> Lianwang</a>, <a href="../../../author/zhao_piqi"><b>Zhao</b> Piqi</a> et al. <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC/">Use of Creep and Recovery-Protocol to Assess the Printability of Fiber-Reinforced 3D Printed White-Portland-Cement Composites</a> (25)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (6)</li>
+        <li><a href="../../../author/lu_lingchao"><b>Lu</b> Lingchao</a> (7)</li>
         <li><a href="../../../author/cai_xianhuan"><b>Cai</b> Xianhuan</a> (4)</li>
+        <li><a href="../../../author/chen_mingxu"><b>Chen</b> Mingxu</a> (4)</li>
         <li><a href="../../../author/zhao_zhihui"><b>Zhao</b> Zhihui</a> (4)</li>
         <li><a href="../../../author/chen_fan"><b>Chen</b> Fan</a> (3)</li>
-        <li><a href="../../../author/xiao_peng"><b>Xiao</b> Peng</a> (3)</li>
     </ol>
 
 </div>

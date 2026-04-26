@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 196
+    : 211
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a> (147)</li>
+        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a>, <a href="../../../author/hou_zeyu"><b>Hou</b> Zeyu</a>, <a href="../../../author/chen_chun"><b>Chen</b> Chun</a>, <a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> et al. <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../zhan_hou_chen_zhan.2019.Do3PCBotRBFoCPaOAC/">Design of 3D Printable Concrete Based on the Relationship Between Flowability of Cement-Paste and Optimum Aggregate-Content</a> (157)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (26)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (27)</li>
         <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (19)</li>
-        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (14)</li>
-        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (14)</li>
-        <li><a href="../../../author/zhang_chao"><b>Zhang</b> Chao</a> (12)</li>
+        <li><a href="../../../author/jia_lutao"><b>Jia</b> Lutao</a> (15)</li>
+        <li><a href="../../../author/jia_zijian"><b>Jia</b> Zijian</a> (15)</li>
+        <li><a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> (12)</li>
     </ol>
 
 </div>

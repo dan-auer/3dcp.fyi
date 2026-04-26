@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 16
+    : 19
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/gomaa_shady"><b>Gomaa</b> Shady</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/rosa_marrero_raul"><b>Rosa</b> Raul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../goma_iriz_ahme_rosa.2024.3PoUHPC/">3D Printing of Ultra-High-Performance Concrete:<br/>Shape Stability for Various Printing Systems</a> (10)</li>
+        <li><a href="../../../author/gomaa_shady"><b>Gomaa</b> Shady</a>, <a href="../../../author/irizarry_m_elmer"><b>Irizarry</b> Elmer</a>, <a href="../../../author/ahmed_ayesha"><b>Ahmed</b> Ayesha</a>, <a href="../../../author/rosa_marrero_raul"><b>Rosa</b> Raul</a> et al. <a href="../../../date/2024/11">(2024-11)</a><br><a href="../../../goma_iriz_ahme_rosa.2024.3PoUHPC/">3D Printing of Ultra-High-Performance Concrete:<br/>Shape Stability for Various Printing Systems</a> (12)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/corte_wouter"><b>de Corte</b> Wouter</a> (2)</li>
         <li><a href="../../../author/huang_yulin"><b>Huang</b> Yulin</a> (2)</li>
         <li><a href="../../../author/zuo_zibo"><b>Zuo</b> Zibo</a> (2)</li>
-        <li><a href="../../../author/li_ziang"><b>Li</b> Ziang</a> (1)</li>
-        <li><a href="../../../author/ulubeyli_serdar"><b>Ulubeyli</b> Serdar</a> (1)</li>
+        <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (1)</li>
+        <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (1)</li>
     </ol>
 
 </div>

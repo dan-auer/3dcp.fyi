@@ -25,7 +25,7 @@ search:
     : 5
 
     Number Citations
-    : 9
+    : 12
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/vaitova_michaela"><b>Vaitová</b> Michaela</a> <a href="../../../date/2019/09">(2019-09)</a><br><a href="../../../jend_cerv_vait.2019.FMoDPCSU3E/">FEM Modelling of Digitally Printed Concrete Structures Using 3D-Extrusion</a> (4)</li>
+        <li><a href="../../../author/rymes_jiri"><b>Rymeš</b> Jiří</a>, <a href="../../../author/cervenka_jan"><b>Červenka</b> Jan</a>, <a href="../../../author/jendele_libor"><b>Jendele</b> Libor</a> <a href="../../../date/2023/09">(2023-09)</a><br><a href="../../../ryme_cerv_jend.2023.MMaSo3CPP/">Material-Modelling and Simulation of 3D Concrete Printing Process</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (4)</li>
+        <li><a href="../../../author/ferrara_liberato"><b>Ferrara</b> Liberato</a> (4)</li>
+        <li><a href="../../../author/rizzieri_giacomo"><b>Rizzieri</b> Giacomo</a> (4)</li>
         <li><a href="../../../author/apsari_auliagitta"><b>Apsari</b> Auliagitta</a> (2)</li>
-        <li><a href="../../../author/suprobo_priyo"><b>Suprobo</b> Priyo</a> (2)</li>
-        <li><a href="../../../author/suryanto_benny"><b>Suryanto</b> Benny</a> (2)</li>
         <li><a href="../../../author/tambusay_asdam"><b>Tambusay</b> Asdam</a> (2)</li>
-        <li><a href="../../../author/cremonesi_massimiliano"><b>Cremonesi</b> Massimiliano</a> (1)</li>
     </ol>
 
 </div>

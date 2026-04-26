@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 33
+    : 40
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_lin_luo_long.2022.LICEoFACfAASi3P/">Leveraging Internal Curing Effect of Fly-Ash-Cenosphere for Alleviating Autogenous Shrinkage in 3D Printing</a> (16)</li>
+        <li><a href="../../../author/tao_jie-lin"><b>Tao</b> Jie-Lin</a>, <a href="../../../author/lin_can"><b>Lin</b> Can</a>, <a href="../../../author/luo_qiling"><b>Luo</b> Qiling</a>, <a href="../../../author/long_wujian"><b>Long</b> Wujian</a> et al. <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../tao_lin_luo_long.2022.LICEoFACfAASi3P/">Leveraging Internal Curing Effect of Fly-Ash-Cenosphere for Alleviating Autogenous Shrinkage in 3D Printing</a> (19)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/tao_yaxin"><b>Tao</b> Yaxin</a> (3)</li>
         <li><a href="../../../author/tittelboom_kim"><b>van Tittelboom</b> Kim</a> (3)</li>
-        <li><a href="../../../author/li_wengui"><b>Li</b> Wengui</a> (2)</li>
-        <li><a href="../../../author/savija_branko"><b>Šavija</b> Branko</a> (2)</li>
+        <li><a href="../../../author/liu_chao"><b>Liu</b> Chao</a> (2)</li>
+        <li><a href="../../../author/liu_huawei"><b>Liu</b> Huawei</a> (2)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (2)</li>
     </ol>
 

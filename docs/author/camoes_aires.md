@@ -19,21 +19,21 @@ search:
     : 2021-08-27
     
     Last Contribution
-    : 2026-01-02
+    : 2026-04-20
 
     Number Contributions
-    : 6
+    : 7
 
     Number Citations
     : 6
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (4)</li>
-        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (3)</li>
-        <li><a href="../../../author/costa_filipe-pereira-da-cunha_manuel"><b>Costa</b> Manuel</a> (2)</li>
-        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (2)</li>
-        <li><a href="../../../author/teixeira_vasco"><b>Teixeira</b> Vasco</a> (2)</li>
+        <li><a href="../../../author/cruz_jorge-sousa_paulo"><b>Cruz</b> Paulo</a> (5)</li>
+        <li><a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> (4)</li>
+        <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a> (3)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (3)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
@@ -43,11 +43,11 @@ search:
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (6)</li>
+        <li><a href="../../../author/buswell_a_richard"><b>Buswell</b> Richard</a> (8)</li>
+        <li><a href="../../../author/wangler_paul_timothy"><b>Wangler</b> Timothy</a> (6)</li>
         <li><a href="../../../author/cunha_m-c-f_vitor"><b>Cunha</b> Vítor</a> (5)</li>
-        <li><a href="../../../author/goncalves_claudia"><b>Gonçalves</b> Claúdia</a> (5)</li>
-        <li><a href="../../../author/pereira_joao"><b>Pereira</b> João</a> (5)</li>
-        <li><a href="../../../author/zahabizadeh_behzad"><b>Zahabizadeh</b> Behzad</a> (5)</li>
+        <li><a href="../../../author/jones_z_scott"><b>Jones</b> Scott</a> (5)</li>
+        <li><a href="../../../author/silva_ricardo-leal_wilson"><b>da Silva</b> Wilson</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../reis_aros_camo_bran.2026.CaCAi3PCM/">Carbonation and Chloride Attack in 3D-Printed Cementitious Materials:<br/>A Systematic Durability Review</a></li>
   <li><a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/figueiredo_bruno"><b>Figueiredo</b> Bruno</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR/">Assessing Orthotropic Mechanical Performance and Digital Twin of Robotic 3D Printed Cementitious Mortars with Fibers and Metal Reinforcements</a></li>
   <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a>, <a href="../../../author/aroso_francisca"><b>Aroso</b> Francisca</a>, <a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../reis_aros_bran_camo.2026.ASRotDo3PCM/">A Systematic Review on the Durability of 3D-Printed Cementitious Materials:<br/>Insights and Research Challenges</a></li>
   <li><a href="../../../author/barbosa_sena_marcella"><b>Barbosa</b> Marcella</a>, <a href="../../../author/anjos_alyssandro-soares_marcos"><b>Anjos</b> Marcos</a>, <a href="../../../author/maia_vinicius-rodrigues_jose"><b>Maia</b> José</a>, <a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../barb_anjo_maia_camo.2024.EoEPotPo3M/">Effect of Expanded Perlite on the Properties of 3DCP Mixtures</a></li>

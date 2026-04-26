@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 63
+    : 69
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a> (40)</li>
+        <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a>, <a href="../../../author/setunge_sujeeva"><b>Setunge</b> Sujeeva</a>, <a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> <a href="../../../date/2022/07">(2022-07)</a><br><a href="../../../liu_setu_tran.2022.3CPwCCRCR/">3D Concrete Printing with Cement-Coated Recycled Crumb Rubber:<br/>Compressive and Microstructural Properties</a> (43)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
         <li><a href="../../../author/tran_phuong_jonathan"><b>Tran</b> Jonathan</a> (12)</li>
         <li><a href="../../../author/liu_junli"><b>Liu</b> Junli</a> (8)</li>
         <li><a href="../../../author/li_shuai"><b>Li</b> Shuai</a> (5)</li>
+        <li><a href="../../../author/nguyen_vuong"><b>van Nguyen</b> Vuong</a> (5)</li>
         <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> (5)</li>
-        <li><a href="../../../author/aslani_farhad"><b>Aslani</b> Farhad</a> (4)</li>
     </ol>
 
 </div>

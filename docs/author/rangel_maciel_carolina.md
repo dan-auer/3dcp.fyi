@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 14
+    : 21
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../rang_guim_sale_luca.2024.3PLMwCtITEiB/">3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings</a> (12)</li>
+        <li><a href="../../../author/rangel_maciel_carolina"><b>Rangel</b> Carolina</a>, <a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a>, <a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a>, <a href="../../../author/lucas_simaria-de-oliveira_sandra"><b>Lucas</b> Sandra</a> <a href="../../../date/2024/03">(2024-03)</a><br><a href="../../../rang_guim_sale_luca.2024.3PLMwCtITEiB/">3D Printing Lightweight Mortars with Cork to Improve Thermal Efficiency in Buildings</a> (17)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/du_pengcong"><b>Du</b> Pengcong</a> (1)</li>
-        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (1)</li>
-        <li><a href="../../../author/mim_jahan_nusrat"><b>Mim</b> Nusrat</a> (1)</li>
-        <li><a href="../../../author/nunes_s_ueslei"><b>Nunes</b> Ueslei</a> (1)</li>
-        <li><a href="../../../author/sarker_kumar_prabir"><b>Sarker</b> Prabir</a> (1)</li>
+        <li><a href="../../../author/bao_wen_ding"><b>Bao</b> Ding</a> (3)</li>
+        <li><a href="../../../author/flemmer_l_claire"><b>Flemmer</b> Claire</a> (3)</li>
+        <li><a href="../../../author/guimaraes_sofia_ana"><b>Guimarães</b> Ana</a> (3)</li>
+        <li><a href="../../../author/samarasinghe_amila-sajeevan_don"><b>Samarasinghe</b> Don</a> (3)</li>
+        <li><a href="../../../author/simoes_nuno"><b>Simões</b> Nuno</a> (3)</li>
     </ol>
 
 </div>

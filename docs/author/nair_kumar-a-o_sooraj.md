@@ -19,44 +19,44 @@ search:
     : 2018-09-12
     
     Last Contribution
-    : 2024-04-01
+    : 2026-04-25
 
     Number Contributions
-    : 13
+    : 14
 
     Number Citations
-    : 531
+    : 568
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (13)</li>
-        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (5)</li>
-        <li><a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> (3)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (14)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (6)</li>
+        <li><a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> (4)</li>
         <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a> (2)</li>
         <li><a href="../../../author/panda_subhashree"><b>Panda</b> Subhashree</a> (2)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a> (146)</li>
+        <li><a href="../../../author/alghamdi_hussam"><b>Alghamdi</b> Hussam</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../algh_nair_neit.2019.IiMDERaPo3PAAFABB/">Insights into Material-Design, Extrusion Rheology, and Properties of 3D Printable Alkali-Activated Fly-Ash-Based Binders</a> (152)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
-        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (36)</li>
-        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (28)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (27)</li>
-        <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (27)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (27)</li>
+        <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (39)</li>
+        <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (31)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (30)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (29)</li>
+        <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (29)</li>
     </ol>
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (19)</li>
-        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (17)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (14)</li>
+        <li><a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> (25)</li>
+        <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a> (19)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (18)</li>
+        <li><a href="../../../author/pan_jinlong"><b>Pan</b> Jinlong</a> (14)</li>
         <li><a href="../../../author/surehali_sahil"><b>Surehali</b> Sahil</a> (14)</li>
-        <li><a href="../../../author/xiao_jianzhuang"><b>Xiao</b> Jianzhuang</a> (14)</li>
     </ol>
 
 </div>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/rajan_d_subramaniam"><b>Rajan</b> Subramaniam</a>, <a href="../../../author/sant_gaurav"><b>Sant</b> Gaurav</a> et al. <a href="../../../date/2026/04">(2026-04)</a><br><a href="../../../trip_nair_raja_sant.2026.DBBAo3PCaINS/">Deformation-Based Buildability Assessment of 3D Printed Concrete and Its Numerical Simulation</a></li>
   <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/chauhan_harshitsinh"><b>Chauhan</b> Harshitsinh</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2024/04">(2024-04)</a><br><a href="../../../trip_nair_chau_neit.2024.PGAaLStEMPoPaFRTDPC/">Print Geometry Alterations and Layer-Staggering to Enhance Mechanical Properties of Plain and Fiber-Reinforced Three-Dimensional-Printed Concrete</a></li>
   <li><a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2023/11">(2023-11)</a><br><a href="../../../nair_trip_neit.2024.CRaFPiDF3PCUCaTDoPLH/">Constitutive Response and Failure Progression in Digitally Fabricated 3D Printed Concrete Under Compression and Their Dependence on Print Layer-Height</a></li>
   <li><a href="../../../author/tripathi_avinaya"><b>Tripathi</b> Avinaya</a>, <a href="../../../author/nair_kumar-a-o_sooraj"><b>Nair</b> Sooraj</a>, <a href="../../../author/neithalath_narayanan"><b>Neithalath</b> Narayanan</a> <a href="../../../date/2022/01">(2022-01)</a><br><a href="../../../trip_nair_neit.2022.ACAoBo3PCatUoBLSSCBFCTTP/">A Comprehensive Analysis of Buildability of 3D Printed Concrete and the Use of Bi-Linear Stress-Strain Criterion-Based Failure Curves Towards Their Prediction</a></li>

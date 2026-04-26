@@ -19,34 +19,34 @@ search:
     : 2020-04-26
     
     Last Contribution
-    : 2026-01-15
+    : 2026-02-10
 
     Number Contributions
-    : 17
+    : 18
 
     Number Citations
-    : 213
+    : 232
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (16)</li>
-        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (15)</li>
-        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (13)</li>
-        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (5)</li>
+        <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (17)</li>
+        <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (16)</li>
+        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (14)</li>
+        <li><a href="../../../author/bono_victor"><b>de Bono</b> Victor</a> (6)</li>
         <li><a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a> (3)</li>
     </ol>
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a> (62)</li>
+        <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/carneau_paul"><b>Carneau</b> Paul</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> et al. <a href="../../../date/2021/05">(2021-05)</a><br><a href="../../../duco_mesn_carn_demo.2021.TSTfEBAM/">The “Slugs-Test” for Extrusion-Based Additive Manufacturing:<br/>Protocol, Analysis and Practical Limits</a> (68)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
     <ol>
         <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> (39)</li>
-        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (35)</li>
-        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (30)</li>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (28)</li>
+        <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (37)</li>
+        <li><a href="../../../author/salet_a-m_theo"><b>Salet</b> Theo</a> (31)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (29)</li>
         <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (21)</li>
     </ol>
     
@@ -55,7 +55,7 @@ search:
         <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a> (25)</li>
         <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a> (17)</li>
         <li><a href="../../../author/perrot_arnaud"><b>Perrot</b> Arnaud</a> (17)</li>
-        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (16)</li>
+        <li><a href="../../../author/wolfs_johannes-maria_robert"><b>Wolfs</b> Robert</a> (17)</li>
         <li><a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a> (13)</li>
     </ol>
 
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/bono_victor"><b>Bono</b> Victor</a> et al. <a href="../../../date/2026/02">(2026-02)</a><br><a href="../../../caro_duco_demo_bono.2026.U3PfaNCCaSD/">Using 3D Printing for a New Cementitious Composite and Structural Design</a></li>
   <li><a href="../../../author/caneda-martinez_laura"><b>Caneda-Martínez</b> Laura</a>, <a href="../../../author/hassan_m"><b>Hassan</b> M.</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a>, <a href="../../../author/keita_emmanuel"><b>Keita</b> Emmanuel</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../cane_hass_demo_keit.2026.FPToPCwaPD/">Fast Penetration Testing of Printable Concretes with a Portable Device:<br/>Robustness and Calibration</a></li>
   <li><a href="../../../author/mesnil_romain"><b>Mesnil</b> Romain</a>, <a href="../../../author/rosa_sarkis_pedro"><b>Rosa</b> Pedro</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/03">(2025-03)</a><br><a href="../../../mesn_rosa_demo.2025.TOi3PCS/">Thickness Optimisation in 3D Printed Concrete Structures</a></li>
   <li><a href="../../../author/caron_jean-francois"><b>Caron</b> Jean-François</a>, <a href="../../../author/ducoulombier_nicolas"><b>Ducoulombier</b> Nicolas</a>, <a href="../../../author/demont_leo"><b>Demont</b> Léo</a> <a href="../../../date/2025/01">(2025-01)</a><br><a href="../../../caro_duco_demo.2025.RoPS/">Reinforcement of Printed Structures</a></li>

@@ -59,8 +59,9 @@ Journal Article - Computer Methods in Applied Mechanics and Engineering, Vol. 44
       <li><a href="../../../author/roussel_nicolas"><b>Roussel</b> Nicolas</a> <a href="../../../date/2018/05">(2018-05)</a><br><a href="../../../rous.2018.RRfPC/">Rheological Requirements for Printable Concretes</a></li>
       <li><a href="../../../author/yu_hao"><b>Yu</b> Hao</a>, <a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/sun_weikang"><b>Sun</b> Weikang</a> et al. <a href="../../../date/2024/01">(2024-01)</a><br><a href="../../../yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH/">Modeling Extrusion-Process and Layer-Deformation in 3D Concrete Printing via Smoothed Particle-Hydrodynamics</a></li>
     </ol>
-???+ bug "1 Citations"
+???+ bug "2 Citations"
     <ol  class = "bordered-list" reversed>
+      <li><a href="../../../author/zhang_weiwei"><b>Zhang</b> Weiwei</a>, <a href="../../../author/qiu_ming"><b>Qiu</b> Ming</a>, <a href="../../../author/yin_binbin"><b>Yin</b> Binbin</a>, <a href="../../../author/banthia_nemkumar"><b>Banthia</b> Nemkumar</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_qiu_yin_bant.2026.TRRKaPEoOPAAMf3P/">Time-Resolved Reaction Kinetics and Printability Evolution of One-Part Alkali-Activated Materials for 3D Printing</a></li>
       <li><a href="../../../author/mu_xiaoshao"><b>Mu</b> Xiaoshao</a>, <a href="../../../author/zhang_xiaoling"><b>Zhang</b> Xiaoling</a>, <a href="../../../author/he_gang"><b>He</b> Gang</a>, <a href="../../../author/liew_meow_kim"><b>Liew</b> Kim</a> <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../mu_zhan_he_liew.2026.TLC3CPTCCaWV/">Toward Low-Carbon 3D Concrete Printing Through Circular Construction and Waste Valorization</a></li>
     </ol>
 </div>

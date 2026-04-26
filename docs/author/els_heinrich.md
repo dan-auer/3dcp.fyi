@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 3
 
 !!! success "Top Co-Authors"
     <ol>
@@ -35,7 +35,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a> (1)</li>
+        <li><a href="../../../author/els_heinrich"><b>Els</b> Heinrich</a>, <a href="../../../author/zijl_pieter-adriaan-greeff_gideon"><b>Zijl</b> Gideon</a>, <a href="../../../author/villiers_wibke"><b>Villiers</b> Wibke</a> <a href="../../../date/2025/06">(2025-06)</a><br><a href="../../../els_zijl_vill.2025.ARoSaRSCi3CP/">A Review of Shrinkage and Restrained Shrinkage Cracking in 3D Concrete Printing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,11 +49,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/federowicz_karol"><b>Federowicz</b> Karol</a> (1)</li>
+        <li><a href="../../../author/brandao_jorge-da-silva_filipe"><b>Brandão</b> Filipe</a> (1)</li>
+        <li><a href="../../../author/camoes_aires"><b>Camões</b> Aires</a> (1)</li>
+        <li><a href="../../../author/reis_rui"><b>Reis</b> Rui</a> (1)</li>
         <li><a href="../../../author/sibera_daniel"><b>Sibera</b> Daniel</a> (1)</li>
-        <li><a href="../../../author/sikora_pawel"><b>Sikora</b> Paweł</a> (1)</li>
         <li><a href="../../../author/tosic_nikola"><b>Tošić</b> Nikola</a> (1)</li>
-        <li><a href="../../../author/zielinski_adam"><b>Zieliński</b> Adam</a> (1)</li>
     </ol>
 
 </div>

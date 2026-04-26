@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/wissemann_emily"><b>Wissemann</b> Emily</a>, <a href="../../../author/cousin_tim"><b>Cousin</b> Tim</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../curt_pear_wiss_cous.2024.E/">EarthWorks:<br/>Zero-Waste 3D Printed Earthen Formwork for Shape-Optimized, Reinforced Concrete Construction</a> (3)</li>
+        <li><a href="../../../author/curth_sandy_alexander"><b>Curth</b> Alexander</a>, <a href="../../../author/pearl_natalie"><b>Pearl</b> Natalie</a>, <a href="../../../author/wissemann_emily"><b>Wissemann</b> Emily</a>, <a href="../../../author/cousin_tim"><b>Cousin</b> Tim</a> et al. <a href="../../../date/2024/09">(2024-09)</a><br><a href="../../../curt_pear_wiss_cous.2024.E/">EarthWorks:<br/>Zero-Waste 3D Printed Earthen Formwork for Shape-Optimized, Reinforced Concrete Construction</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -53,9 +53,9 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/cai_yili"><b>Cai</b> Yili</a> (1)</li>
-        <li><a href="../../../author/li_wenqiang"><b>Li</b> Wenqiang</a> (1)</li>
         <li><a href="../../../author/magdassi_shlomo"><b>Magdassi</b> Shlomo</a> (1)</li>
         <li><a href="../../../author/meyuhas_yaacov_ohad"><b>Meyuhas</b> Ohad</a> (1)</li>
+        <li><a href="../../../author/slavkovic_katarina"><b>Slavkovic</b> Katarina</a> (1)</li>
         <li><a href="../../../author/zhang_kaijian"><b>Zhang</b> Kaijian</a> (1)</li>
     </ol>
 

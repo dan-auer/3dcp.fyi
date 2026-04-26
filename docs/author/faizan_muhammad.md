@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 82
+    : 88
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a> (57)</li>
+        <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a>, <a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a>, <a href="../../../author/ali_ammar"><b>Ali</b> Ammar</a>, <a href="../../../author/majid_usama"><b>Majid</b> Usama</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../riaz_usma_ali_maji.2023.ICo3PCiAM/">Inclusive Characterization of 3D Printed Concrete in Additive Manufacturing:<br/>A Detailed Review</a> (63)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -55,8 +55,8 @@ search:
         <li><a href="../../../author/rehman_ur_saif"><b>Rehman</b> Saif</a> (8)</li>
         <li><a href="../../../author/riaz_dilawar_raja"><b>Riaz</b> Raja</a> (8)</li>
         <li><a href="../../../author/usman_muhammad"><b>Usman</b> Muhammad</a> (8)</li>
+        <li><a href="../../../author/zhang_yamei"><b>Zhang</b> Yamei</a> (5)</li>
         <li><a href="../../../author/hussain_muhammad_syed"><b>Hussain</b> Syed</a> (4)</li>
-        <li><a href="../../../author/kamal_babar_muhammad"><b>Kamal</b> Muhammad</a> (4)</li>
     </ol>
 
 </div>

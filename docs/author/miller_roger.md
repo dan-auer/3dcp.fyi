@@ -19,18 +19,18 @@ search:
     : 2023-02-11
     
     Last Contribution
-    : 2023-02-11
+    : 2023-02-23
 
     Number Contributions
-    : 1
+    : 2
 
     Number Citations
     : 0
 
 !!! success "Top Co-Authors"
     <ol>
+        <li><a href="../../../author/allameh_m_seyed"><b>Allameh</b> Seyed</a> (2)</li>
         <li><a href="../../../author/allameh_hadi"><b>Allameh</b> Hadi</a> (1)</li>
-        <li><a href="../../../author/allameh_m_seyed"><b>Allameh</b> Seyed</a> (1)</li>
         <li><a href="../../../author/kota_dhruv"><b>Kota</b> Dhruv</a> (1)</li>
         <li><a href="../../../author/lenihan_avery"><b>Lenihan</b> Avery</a> (1)</li>
     </ol>
@@ -59,5 +59,6 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/allameh_m_seyed"><b>Allameh</b> Seyed</a>, <a href="../../../author/miller_roger"><b>Miller</b> Roger</a> <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../alla_mill.2025.EtSSoLCRw3WR/">Evaluating the Structural Strength of Layered Concrete Reinforced with 3D-Welded Rebar</a></li>
   <li><a href="../../../author/allameh_m_seyed"><b>Allameh</b> Seyed</a>, <a href="../../../author/allameh_hadi"><b>Allameh</b> Hadi</a>, <a href="../../../author/miller_roger"><b>Miller</b> Roger</a>, <a href="../../../author/lenihan_avery"><b>Lenihan</b> Avery</a> et al. <a href="../../../date/2023/02">(2023-02)</a><br><a href="../../../alla_alla_mill_leni.2023.Ot3PoRC/">On the 3D Printing of Reinforced Concrete</a></li>
 </ol>

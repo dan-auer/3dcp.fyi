@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bahoria_v_boskey"><b>Bahoria</b> Boskey</a>, <a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../baho_bhag_pand_raut.2024.DOo3PCECLCAaLCC/">Design-Optimization of 3D Printed Concrete Elements Considering Life Cycle Assessment and Life Cycle Costing</a> (2)</li>
+        <li><a href="../../../author/bahoria_v_boskey"><b>Bahoria</b> Boskey</a>, <a href="../../../author/bhagat_m_rajesh"><b>Bhagat</b> Rajesh</a>, <a href="../../../author/pande_b_prashant"><b>Pande</b> Prashant</a>, <a href="../../../author/raut_m_jayant"><b>Raut</b> Jayant</a> et al. <a href="../../../date/2024/12">(2024-12)</a><br><a href="../../../baho_bhag_pand_raut.2024.DOo3PCECLCAaLCC/">Design-Optimization of 3D Printed Concrete Elements Considering Life Cycle Assessment and Life Cycle Costing</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

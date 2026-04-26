@@ -25,7 +25,7 @@ search:
     : 19
 
     Number Citations
-    : 657
+    : 677
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a> (193)</li>
+        <li><a href="../../../author/lu_bing"><b>Lu</b> Bing</a>, <a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/qian_ye"><b>Qian</b> Ye</a> et al. <a href="../../../date/2019/02">(2019-02)</a><br><a href="../../../lu_weng_li_qian.2019.ASRo3PCM/">A Systematical Review of 3D Printable Cementitious Materials</a> (199)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,10 +52,10 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (35)</li>
         <li><a href="../../../author/weng_yiwei"><b>Weng</b> Yiwei</a> (34)</li>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (33)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (32)</li>
         <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a> (31)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (30)</li>
         <li><a href="../../../author/tan_jen_ming"><b>Tan</b> Ming</a> (29)</li>
     </ol>
 

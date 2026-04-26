@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 2
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a>, <a href="../../../author/bayat_mohammad"><b>Bayat</b> Mohammad</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rahe_baya_hasa_mehr.2024.MEPCMi3PM/">Micro-Encapsulated Phase-Change-Material in 3D Printable Mortars</a> (2)</li>
+        <li><a href="../../../author/rahemipoor_sahand"><b>Rahemipoor</b> Sahand</a>, <a href="../../../author/bayat_mohammad"><b>Bayat</b> Mohammad</a>, <a href="../../../author/hasany_masoud"><b>Hasany</b> Masoud</a>, <a href="../../../author/mehrali_mohammad"><b>Mehrali</b> Mohammad</a> et al. <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../rahe_baya_hasa_mehr.2024.MEPCMi3PM/">Micro-Encapsulated Phase-Change-Material in 3D Printable Mortars</a> (4)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/ding_tao"><b>Ding</b> Tao</a> (1)</li>
+        <li><a href="../../../author/huang_jie"><b>Huang</b> Jie</a> (1)</li>
         <li><a href="../../../author/kachalov_borshchak_a"><b>Kachalov</b> A.</a> (1)</li>
         <li><a href="../../../author/mollah_tusher_md"><b>Mollah</b> Md.</a> (1)</li>
-        <li><a href="../../../author/seta_berin"><b>Šeta</b> Berin</a> (1)</li>
         <li><a href="../../../author/spangenberg_jon"><b>Spangenberg</b> Jon</a> (1)</li>
+        <li><a href="../../../author/wang_xinjie"><b>Wang</b> Xinjie</a> (1)</li>
     </ol>
 
 </div>

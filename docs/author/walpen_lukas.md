@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 1
+    : 2
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>, <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../das_weng_walp_flat.2025.EAHoALCCfDF/">Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication</a> (1)</li>
+        <li><a href="../../../author/das_arnesh"><b>Das</b> Arnesh</a>, <a href="../../../author/wenger_cedric"><b>Wenger</b> Cedric</a>, <a href="../../../author/walpen_lukas"><b>Walpen</b> Lukas</a>, <a href="../../../author/flatt_johann_robert"><b>Flatt</b> Robert</a> <a href="../../../date/2025/02">(2025-02)</a><br><a href="../../../das_weng_walp_flat.2025.EAHoALCCfDF/">Early-Age Hydration of Accelerated Low-Carbon Cements for Digital Fabrication</a> (2)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,8 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/chen_binmeng"><b>Chen</b> Binmeng</a> (1)</li>
-        <li><a href="../../../author/sun_ming"><b>Sun</b> Ming</a> (1)</li>
+        <li><a href="../../../author/lima-andrade_everton"><b>de Lima Andrade</b> Everton</a> (1)</li>
+        <li><a href="../../../author/silva-nunes_ueslei"><b>Silva Nunes</b> Ueslei</a> (1)</li>
         <li><a href="../../../author/sun_zhaoyang"><b>Sun</b> Zhaoyang</a> (1)</li>
         <li><a href="../../../author/xu_bin"><b>Xu</b> Bin</a> (1)</li>
     </ol>

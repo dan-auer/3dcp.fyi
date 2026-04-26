@@ -25,7 +25,7 @@ search:
     : 3
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a> (4)</li>
+        <li><a href="../../../author/bao_minh-phuong_ta"><b>Bao</b> Ta</a>, <a href="../../../author/yeakleang_muy"><b>Yeakleang</b> Muy</a>, <a href="../../../author/abdelouhab_sandra"><b>Abdelouhab</b> Sandra</a>, <a href="../../../author/courard_luc"><b>Courard</b> Luc</a> <a href="../../../date/2024/10">(2024-10)</a><br><a href="../../../bao_yeak_abde_cour.2024.TMf3P/">Testing Mortars for 3D Printing:<br/>Correlation with Rheological Behavior</a> (5)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

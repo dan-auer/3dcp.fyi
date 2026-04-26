@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 60
+    : 64
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a> (29)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a>, <a href="../../../author/li_qi"><b>Li</b> Qi</a>, <a href="../../../author/li_jixiang"><b>Li</b> Jixiang</a> <a href="../../../date/2022/04">(2022-04)</a><br><a href="../../../liu_li_li.2022.SaMPOoSB3PCbPF/">Shrinkage and Mechanical Properties Optimization of Spray-Based 3D Printed Concrete by PVA-Fiber</a> (31)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (18)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (11)</li>
-        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (10)</li>
+        <li><a href="../../../author/liu_xiongfei"><b>Liu</b> Xiongfei</a> (19)</li>
+        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (12)</li>
+        <li><a href="../../../author/sun_yuhang"><b>Sun</b> Yuhang</a> (11)</li>
         <li><a href="../../../author/wang_haonan"><b>Wang</b> Haonan</a> (7)</li>
         <li><a href="../../../author/zhang_yi"><b>Zhang</b> Yi</a> (6)</li>
     </ol>

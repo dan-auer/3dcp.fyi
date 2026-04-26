@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 26
+    : 30
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a> (26)</li>
+        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a>, <a href="../../../author/addai-nimoh_alfred"><b>Addai-NImoh</b> Alfred</a>, <a href="../../../author/kreiger_l_eric"><b>Kreiger</b> Eric</a>, <a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> <a href="../../../date/2023/12">(2023-12)</a><br><a href="../../../li_adda_krei_khay.2024.MtDEFFRCf3P/">Methodology to Design Eco-Friendly Fiber-Reinforced Concrete for 3D Printing</a> (30)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,11 +52,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (5)</li>
-        <li><a href="../../../author/ahn_eunjong"><b>Ahn</b> Eunjong</a> (2)</li>
-        <li><a href="../../../author/ma_guowei"><b>Ma</b> Guowei</a> (2)</li>
-        <li><a href="../../../author/popovics_s_john"><b>Popovics</b> John</a> (2)</li>
+        <li><a href="../../../author/khayat_h_kamal"><b>Khayat</b> Kamal</a> (6)</li>
+        <li><a href="../../../author/li_haodao"><b>Li</b> Haodao</a> (3)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (3)</li>
         <li><a href="../../../author/ye_junhong"><b>Ye</b> Junhong</a> (2)</li>
+        <li><a href="../../../author/yu_c_rena"><b>Yu</b> Rena</a> (2)</li>
     </ol>
 
 </div>

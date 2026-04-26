@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 5
+    : 6
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/gaballa_aya"><b>Gaballa</b> Aya</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../cabi_gaba_fadl_irsh.2023.AGAfUCR3PftAEaCI/">A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry</a> (5)</li>
+        <li><a href="../../../author/cabibihan_john-john"><b>Cabibihan</b> John-John</a>, <a href="../../../author/gaballa_aya"><b>Gaballa</b> Aya</a>, <a href="../../../author/fadli_fodil"><b>Fadli</b> Fodil</a>, <a href="../../../author/irshidat_r_mohammad"><b>Irshidat</b> Mohammad</a> et al. <a href="../../../date/2023/06">(2023-06)</a><br><a href="../../../cabi_gaba_fadl_irsh.2023.AGAfUCR3PftAEaCI/">A Guided Approach for Utilizing Concrete Robotic 3D Printing for the Architecture, Engineering, and Construction Industry</a> (6)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -54,8 +54,8 @@ search:
     <ol>
         <li><a href="../../../author/dabous_saleh"><b>Abu Dabous</b> Saleh</a> (1)</li>
         <li><a href="../../../author/david_martin"><b>David</b> Martin</a> (1)</li>
+        <li><a href="../../../author/khaled_nassar"><b>Khaled</b> Nassar</a> (1)</li>
         <li><a href="../../../author/kloft_harald"><b>Kloft</b> Harald</a> (1)</li>
-        <li><a href="../../../author/lachmayer_lukas"><b>Lachmayer</b> Lukas</a> (1)</li>
         <li><a href="../../../author/sahin_oguzhan"><b>Şahin</b> Oğuzhan</a> (1)</li>
     </ol>
 

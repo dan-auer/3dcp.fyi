@@ -25,7 +25,7 @@ search:
     : 2
 
     Number Citations
-    : 3
+    : 4
 
 !!! success "Top Co-Authors"
     <ol>
@@ -36,7 +36,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/ho_yao_jin"><b>Ho</b> Jin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../li_liu_ho_wong.2023.EIoFaTDRPo3PCM/">Experimental Investigation of Fresh and Time-Dependent Rheological Properties of 3D Printed Cementitious Material</a> (2)</li>
+        <li><a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/liu_zhixin"><b>Liu</b> Zhixin</a>, <a href="../../../author/ho_yao_jin"><b>Ho</b> Jin</a>, <a href="../../../author/wong_neng_teck"><b>Wong</b> Teck</a> <a href="../../../date/2023/08">(2023-08)</a><br><a href="../../../li_liu_ho_wong.2023.EIoFaTDRPo3PCM/">Experimental Investigation of Fresh and Time-Dependent Rheological Properties of 3D Printed Cementitious Material</a> (3)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

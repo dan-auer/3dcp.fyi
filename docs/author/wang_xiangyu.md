@@ -19,17 +19,17 @@ search:
     : 2016-04-27
     
     Last Contribution
-    : 2026-01-11
+    : 2026-01-20
 
     Number Contributions
-    : 38
+    : 39
 
     Number Citations
-    : 645
+    : 687
 
 !!! success "Top Co-Authors"
     <ol>
-        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (20)</li>
+        <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> (21)</li>
         <li><a href="../../../author/wang_yufei"><b>Wang</b> Yufei</a> (19)</li>
         <li><a href="../../../author/zhao_hongyu"><b>Zhao</b> Hongyu</a> (15)</li>
         <li><a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a> (8)</li>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a> (369)</li>
+        <li><a href="../../../author/wu_peng"><b>Wu</b> Peng</a>, <a href="../../../author/wang_jun"><b>Wang</b> Jun</a>, <a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a> <a href="../../../date/2016/04">(2016-04)</a><br><a href="../../../wu_wang_wang.2016.ACRotUo3PitCI/">A Critical Review of the Use of 3D Printing in the Construction Industry</a> (387)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -52,9 +52,9 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (15)</li>
+        <li><a href="../../../author/mechtcherine_viktor"><b>Mechtcherine</b> Viktor</a> (18)</li>
+        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (15)</li>
         <li><a href="../../../author/panda_narayan_biranchi"><b>Panda</b> Biranchi</a> (13)</li>
-        <li><a href="../../../author/sanjayan_gnananandan_jay"><b>Sanjayan</b> Jay</a> (13)</li>
         <li><a href="../../../author/nerella_naidu_venkatesh"><b>Nerella</b> Venkatesh</a> (12)</li>
         <li><a href="../../../author/bos_paul_freek"><b>Bos</b> Freek</a> (9)</li>
     </ol>
@@ -64,6 +64,7 @@ search:
 
 
 <ol class = "bordered-list" reversed>
+  <li><a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a>, <a href="../../../author/wang_haihong"><b>Wang</b> Haihong</a>, <a href="../../../author/zhang_yu"><b>Zhang</b> Yu</a>, <a href="../../../author/liu_han"><b>Liu</b> Han</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../sun_wang_zhan_liu.2024.SUoWit3PC/">Sustainable Utilization of Waste in the 3D Printed Concrete</a></li>
   <li><a href="../../../author/zhang_xin"><b>Zhang</b> Xin</a>, <a href="../../../author/xu_xinglong"><b>Xu</b> Xinglong</a>, <a href="../../../author/liu_xianda"><b>Liu</b> Xianda</a>, <a href="../../../author/sun_junbo"><b>Sun</b> Junbo</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../zhan_xu_liu_sun.2026.EEWAi3PCwSPfHP/">Enhancing Electromagnetic Wave Absorption in 3D-Printed Concrete with Superabsorbent Polymers for High Performance</a></li>
   <li><a href="../../../author/wang_xiangyu"><b>Wang</b> Xiangyu</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a>, <a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../wang_wang_deng_liu.2026.RRIaGfRo3PC/">Robotic Rebar Insertion and Grouting for Reinforcement of 3D Printed Concrete:<br/>Technique Development and Bond Behavior Characterization</a></li>
   <li><a href="../../../author/liu_zhenbang"><b>Liu</b> Zhenbang</a>, <a href="../../../author/li_mingyang"><b>Li</b> Mingyang</a>, <a href="../../../author/wang_sizhe"><b>Wang</b> Sizhe</a>, <a href="../../../author/deng_beifang_north"><b>Deng</b> North</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../liu_li_wang_deng.2026.IoBSPoSREiCCb3CPF/">Investigation on Bond-Slip Performance of Steel Rebar Embedded in Concrete Confined by 3D Concrete Printing Formwork</a></li>

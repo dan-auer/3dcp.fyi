@@ -25,7 +25,7 @@ search:
     : 4
 
     Number Citations
-    : 9
+    : 10
 
 !!! success "Top Co-Authors"
     <ol>
@@ -38,7 +38,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>, <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../nish_ohno_ishi.2019.QEoBi3CPBoSVT/">Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test</a> (8)</li>
+        <li><a href="../../../author/nishijo_keisuke"><b>Nishijo</b> Keisuke</a>, <a href="../../../author/ohno_motohiro"><b>Ohno</b> Motohiro</a>, <a href="../../../author/ishida_tetsuya"><b>Ishida</b> Tetsuya</a> <a href="../../../date/2019/12">(2019-12)</a><br><a href="../../../nish_ohno_ishi.2019.QEoBi3CPBoSVT/">Quantitative Evaluation of Buildability in 3D Concrete Printing Based on Shear-Vane-Test</a> (9)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"

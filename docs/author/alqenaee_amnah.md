@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 23
+    : 24
 
 !!! success "Top Co-Authors"
     <ol>
@@ -34,7 +34,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a> (23)</li>
+        <li><a href="../../../author/alqenaee_amnah"><b>Alqenaee</b> Amnah</a>, <a href="../../../author/memari_m_ali"><b>Memari</b> Ali</a> <a href="../../../date/2022/02">(2022-02)</a><br><a href="../../../alqe_mema.2022.ESo3PCM/">Experimental Study of 3D Printable Cob Mixtures</a> (24)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -49,10 +49,10 @@ search:
 !!! success "Persons This Author Is Cited Most By"
     <ol>
         <li><a href="../../../author/alon_lola"><b>ben Alon</b> Lola</a> (3)</li>
-        <li><a href="../../../author/carcassi_beatrice_olga"><b>Carcassi</b> Olga</a> (2)</li>
-        <li><a href="../../../author/hojati_maryam"><b>Hojati</b> Maryam</a> (2)</li>
+        <li><a href="../../../author/faleschini_flora"><b>Faleschini</b> Flora</a> (2)</li>
         <li><a href="../../../author/matos_mafalda_ana"><b>Matos</b> Ana</a> (2)</li>
         <li><a href="../../../author/tarhan_yesim"><b>Tarhan</b> Yeşim</a> (2)</li>
+        <li><a href="../../../author/trento_daniel"><b>Trento</b> Daniel</a> (2)</li>
     </ol>
 
 </div>

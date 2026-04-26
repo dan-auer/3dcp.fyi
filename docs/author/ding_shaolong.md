@@ -25,7 +25,7 @@ search:
     : 1
 
     Number Citations
-    : 0
+    : 1
 
 !!! success "Top Co-Authors"
     <ol>
@@ -37,7 +37,7 @@ search:
     
 !!! tip "Top Cited Articles"
     <ol>
-        <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a> (0)</li>
+        <li><a href="../../../author/sheng_zhaoliang"><b>Sheng</b> Zhaoliang</a>, <a href="../../../author/ding_shaolong"><b>Ding</b> Shaolong</a>, <a href="../../../author/zhu_binrong"><b>Zhu</b> Binrong</a>, <a href="../../../author/cai_jingming"><b>Cai</b> Jingming</a> et al. <a href="../../../date/2026/01">(2026-01)</a><br><a href="../../../shen_ding_zhu_cai.2026.BPoTIi3PAAC/">Bonding Performance of Toothed Interfaces in 3D Printed Alkali-Activated Concrete</a> (1)</li>
     </ol>
     
 !!! success "Persons This Author Cites the Most"
@@ -51,7 +51,11 @@ search:
     
 !!! success "Persons This Author Is Cited Most By"
     <ol>
-        <li><i>N/A</i></li>
+        <li><a href="../../../author/chajec_adrian"><b>Chajec</b> Adrian</a> (1)</li>
+        <li><a href="../../../author/melichar_jindrich"><b>Melichar</b> Jindřich</a> (1)</li>
+        <li><a href="../../../author/valek_josef"><b>Válek</b> Josef</a> (1)</li>
+        <li><a href="../../../author/vespalec_arnost"><b>Vespalec</b> Arnošt</a> (1)</li>
+        <li><a href="../../../author/zizkova_nikol"><b>Žižková</b> Nikol</a> (1)</li>
     </ol>
 
 </div>
