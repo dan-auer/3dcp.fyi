@@ -20,7 +20,7 @@ tags:
 ---
 
 #Advancing Sustainable Construction&nbsp;([2024-07](date/2024/07))
-<div class="h1-like">Terracotta Component Development Through Extrusion-Based 3D Printing with Local Clay</div>
+<div class="h1-like">Terracotta Component Development Through  Extrusion-Based 3D Printing with Local Clay</div>
 <a title="Closed Access">:aca-closedaccess:{ .xred .lg .middle}</a>
  <a href="https://doi.org/10.1016/j.conbuildmat.2024.137549" title="DOI" target="_blank">:aca-doi:{ .lg .middle }</a> <a href="https://doi.org/10.1016/j.conbuildmat.2024.137549" target="_blank">10.1016/j.conbuildmat.2024.137549</a>
 
