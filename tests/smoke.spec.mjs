@@ -69,6 +69,30 @@ test("the entry screen shows once, then the table opens directly", async ({ page
   await expect(page.locator(ROW).first()).toBeVisible();
 });
 
+test("while the first table downloads, a bar in it counts the percent, then says it builds the table, and leaves with the rows", async ({ page, context }) => {
+  // Every line the bar shows, recorded in the page: the build blocks the page,
+  // so polling from here could miss its short "Building the table…".
+  await page.addInitScript(() => {
+    window.loadLines = [];
+    new MutationObserver(() => {
+      const t = document.querySelector(".load-state-text");
+      if (t && window.loadLines[window.loadLines.length - 1] !== t.textContent) window.loadLines.push(t.textContent);
+    }).observe(document, { subtree: true, childList: true, characterData: true });
+  });
+  const cdp = await context.newCDPSession(page);   // a slow line: the download takes seconds
+  await cdp.send("Network.enable");
+  await cdp.send("Network.emulateNetworkConditions", { offline: false, latency: 20, downloadThroughput: 4 * 1024 * 1024, uploadThroughput: 1024 * 1024 });
+  await page.goto("/");
+  await page.getByRole("button", { name: /Browse Articles|Loading articles/ }).click();
+  const bar = page.getByRole("progressbar", { name: "Loading the articles" });
+  await expect(bar).toBeVisible();
+  await expect(page.locator(ROW).first()).toBeVisible();
+  await expect(bar).toHaveCount(0);
+  const lines = await page.evaluate(() => window.loadLines);
+  expect(lines.some((l) => /^Downloading the articles · [1-9]\d?%$/.test(l))).toBe(true);
+  expect(lines[lines.length - 1]).toBe("Building the table…");
+});
+
 test("the tour runs on the first entry only, offers two tours, steps with the keyboard, and replays from Settings", async ({ page }) => {
   await page.goto("/");
   await page.getByRole("button", { name: /Browse Articles|Loading articles/ }).click();

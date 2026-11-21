@@ -19,3 +19,22 @@ test("parses the literal, reports a missing assignment and a failed fetch", asyn
   assert.match(posted[1].error, /no window\.X assignment/);
   assert.match(posted[2].error, /HTTP 404/);
 });
+
+test("reports the bytes as they arrive; the size only for a file sent uncompressed", async () => {
+  const body = "window.Y = [" + "1,".repeat(40000) + "1];";
+  const size = body.length, cut = 70000;
+  const stream = () => new ReadableStream({ start(c) {
+    c.enqueue(new TextEncoder().encode(body.slice(0, cut)));
+    c.enqueue(new TextEncoder().encode(body.slice(cut)));
+    c.close();
+  } });
+  globalThis.fetch = async (url) => new Response(stream(),
+    { headers: url === "gz.js" ? { "Content-Encoding": "gzip" } : { "Content-Length": String(size) } });
+  for (const [reqId, url, total] of [[4, "plain.js", size], [5, "gz.js", 0]]) {
+    posted.length = 0;
+    await self.onmessage({ data: { reqId, url, global: "Y" } });
+    // When the headers are in, after 64 KB, and at the end; then the value.
+    assert.deepEqual(posted.slice(0, -1), [0, cut, size].map((loaded) => ({ reqId, loaded, total })));
+    assert.equal(posted[posted.length - 1].value.length, 40001);
+  }
+});

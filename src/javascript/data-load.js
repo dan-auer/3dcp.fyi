@@ -22,6 +22,10 @@
    sign of "Browse" (pointer over it, focus, touch) or once the page has loaded
    and gone idle, whichever comes first; OADataLoadStart() starts it early.
 
+   window.OADataProgress() - the dataset's download so far, for the table's
+   loading bar (articles-grid.js): { loaded, total } in bytes, total null while
+   a file's size is unknown. "oa-data-progress" on window says it moved.
+
    window.OATocLoad - the section titles (data/toc_data.js -> TOC_DATA), an
    optional resource requested after the dataset so they never compete with
    the first table. Fires "oa-toc-ready" on window when they land. */
@@ -44,6 +48,14 @@
     return JSON.parse(text.slice(start, text.lastIndexOf(open === "{" ? "}" : "]") + 1));
   }
 
+  // Bytes received per path, as the worker reports them: { loaded, total },
+  // total 0 while the response does not say (it came compressed).
+  var progress = new Map();
+  function report(path, loaded, total) {
+    progress.set(path, { loaded: loaded, total: total });
+    window.dispatchEvent(new CustomEvent("oa-data-progress"));
+  }
+
   // One worker while requests are pending; it is let go when the last settles.
   var worker = null, pending = new Map(), seq = 0;
   function viaWorker(path, global) {
@@ -56,6 +68,7 @@
       w.onmessage = function (ev) {
         var m = ev.data, p = pending.get(m.reqId);
         if (!p) return;
+        if ("loaded" in m) { report(p.path, m.loaded, m.total); return; }
         pending.delete(m.reqId);
         if (m.error) p.reject(new Error(m.error)); else p.resolve(m.value);
         if (!pending.size && worker === w) { worker = null; w.terminate(); }
@@ -71,7 +84,7 @@
     var target = worker;
     return new Promise(function (resolve, reject) {
       var id = ++seq;
-      pending.set(id, { resolve: resolve, reject: reject });
+      pending.set(id, { resolve: resolve, reject: reject, path: path });
       target.postMessage({ reqId: id, url: url(path), global: global });
     });
   }
@@ -109,7 +122,7 @@
     if (!requests.has(path)) {
       var p = fetchValue(path, global);
       requests.set(path, p);
-      p.catch(function () { if (requests.get(path) === p) requests.delete(path); });
+      p.catch(function () { if (requests.get(path) === p) { requests.delete(path); progress.delete(path); } });
     }
     return requests.get(path);
   }
@@ -127,6 +140,22 @@
   var FILES = spec
     ? spec.split(",").map(function (s) { var i = s.indexOf(":"); return [s.slice(0, i).trim(), s.slice(i + 1).trim()]; })
     : [["ARTICLES_DATA", "data/tabular_data.js"], ["AUTHORS_DATA", "data/author_data.js"]];
+
+  // A file's size is its Content-Length when it came uncompressed (serve.py),
+  // else what the deploy wrote into data/summary.json (build_summary.mjs:
+  // GitHub Pages compresses the files, which hides their real size). A file not
+  // being fetched here (not started yet, or failed and retried another way)
+  // has no size: the bar then moves without a percent.
+  window.OADataProgress = function () {
+    var sizes = (window.OA_SUMMARY && window.OA_SUMMARY.bytes) || {};
+    var loaded = 0, total = 0;
+    FILES.forEach(function (f) {
+      var p = progress.get(f[1]) || { loaded: 0, total: 0 }, size = p.total || sizes[f[1]];
+      loaded += p.loaded;
+      total = total !== null && requests.has(f[1]) && size ? total + size : null;
+    });
+    return { loaded: loaded, total: total };
+  };
 
   var release, started = false;
   var gate = new Promise(function (resolve) { release = resolve; });

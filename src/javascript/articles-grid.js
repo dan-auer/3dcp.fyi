@@ -4829,6 +4829,46 @@
   /* Page entry point                                                   */
   /* ------------------------------------------------------------------ */
 
+  // While the table waits for its data: a bar centred where the rows will be,
+  // with the download in percent (data-load.js OADataProgress; the bar slides
+  // without a percent while the size is unknown), then full, "Building the
+  // table…" (parsing included), until the rows appear. building() says the
+  // data is in where no byte count did; remove() ends it.
+  function showLoadState(host) {
+    var wrap = host.querySelector(".grid-wrap");
+    var el = document.createElement("div");
+    el.className = "load-state";
+    el.setAttribute("role", "progressbar");
+    el.setAttribute("aria-label", "Loading the articles");
+    el.setAttribute("aria-valuemin", "0");
+    el.setAttribute("aria-valuemax", "100");
+    el.innerHTML = '<div class="load-state-inner"><span class="load-state-bar"><span class="load-state-fill"></span></span>' +
+      '<p class="load-state-text"></p></div>';
+    var fill = el.querySelector(".load-state-fill"), text = el.querySelector(".load-state-text");
+    function show(pct, line) {
+      el.classList.toggle("is-indeterminate", pct === null);
+      if (pct === null) el.removeAttribute("aria-valuenow"); else el.setAttribute("aria-valuenow", String(pct));
+      fill.style.width = pct === null ? "" : pct + "%";
+      el.setAttribute("aria-valuetext", line);
+      text.textContent = line;
+    }
+    function update() {
+      var p = window.OADataProgress ? window.OADataProgress() : { loaded: 0, total: null };
+      if (!p.total) return show(null, "Downloading the articles…");
+      if (p.loaded >= p.total) return show(100, "Building the table…");
+      var pct = Math.floor(p.loaded / p.total * 100);
+      show(pct, "Downloading the articles · " + pct + "%");
+    }
+    function stop() { window.removeEventListener("oa-data-progress", update); }
+    update();
+    if (wrap) wrap.appendChild(el);
+    window.addEventListener("oa-data-progress", update);
+    return {
+      building: function () { stop(); show(100, "Building the table…"); },
+      remove: function () { stop(); el.remove(); }
+    };
+  }
+
     /* The component shell lives in grid-shell.js (window.OAGridShell): toolbar,
        settings panel, grid container, datalists. Keep the element ids there in
        sync with what this script wires up. */
@@ -4845,6 +4885,7 @@
     document.body.style.overflowY = "hidden";
     host.classList.add("articles-app");
     host.innerHTML = window.OAGridShell.html();
+    var loadState = showLoadState(host);
 
     // The store builds in bounded slices while SlickGrid's scripts load, so the
     // first table needs no single long main-thread block (a synchronous
@@ -4861,7 +4902,9 @@
       throw new Error("the article data (data/tabular_data.js) could not be downloaded" +
         (error && error.message ? " - " + error.message : ""));
     });
+    dataReady.then(loadState.building, function () {});
     return Promise.all([ensureDependencies(), storeReady, dataReady]).then(function () {
+      loadState.remove();
       if (generation !== mountGeneration || host !== activeHost) return;
       if (!host.isConnected) { destroyArticlesGrid(); return; }
       const store = window.OAArticleStore.get();
@@ -4872,6 +4915,7 @@
       buildGrid();
       host.dataset.gridReady = "1";
     }).catch(function (error) {
+      loadState.remove();
       if (generation !== mountGeneration || host !== activeHost) return;
       destroyArticlesGrid();
       console.error("[articles-grid]", error);

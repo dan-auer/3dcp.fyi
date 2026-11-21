@@ -17,10 +17,7 @@
  * Articles are sorted by publication date, then key. Undated articles come last.
  * orcid comes from Person.Suffix and is an empty string when unknown.
  * TODO: Populate affiliation and ROR in Person.Notes, define the notes format,
- * and implement extraction. Until then both fields are empty strings, except
- * 15 prominent authors filled by hand (2026-10): affiliation is the ROR display
- * name, ror the bare ROR ID - both as in data/affiliation_data.js. A re-export
- * overwrites them; carry them into Person.Notes first.
+ * and implement extraction. Both fields are empty strings until then.
  * Keywords, categories, contribution dates, coauthors, citation relationships,
  * and monthly metrics are derived by the consumer from the article rows.
  */
@@ -48,15 +45,17 @@ window.AUTHORS_DATA = {
     "ror": ""
   },
   "ab_ghafar_mohd": {
-    "prefix": "Ab",
+    "prefix": "ab",
     "lastName": "Ghafar",
     "firstName": "Mohd",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
-    "orcid": "",
+    "orcid": "0009-0007-9906-4926",
     "affiliation": "",
     "ror": ""
   },
@@ -222,7 +221,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "abda_fatt_abda_tami.2021.EFaEoaFS3PH",
       "ibra_elta_abda_abda.2022.3PiSB",
-      "mant_sati_hosn_abda.2024.AG3PLCALFfAA"
+      "mant_sati_hosn_abda.2024.AG3PLCALFfAA",
+      "sati_hosn_abda_mant.2026.CEEAoD3CPM"
     ],
     "orcid": "0000-0002-4304-7234",
     "affiliation": "",
@@ -314,7 +314,7 @@ window.AUTHORS_DATA = {
     "lastName": "Abdelmongy",
     "firstName": "Mohamed",
     "articles": [
-      "shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
+      "shah_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -442,7 +442,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "ogur_yama_abe.2023.MPoFRCCMU3PT",
       "ogur_hara_yama_abe.2024.FPoFR3PCBwAR",
-      "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM"
+      "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM",
+      "yama_ogur_abe_kiku.2026.OSPoRCMUMJ3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -459,7 +460,8 @@ window.AUTHORS_DATA = {
       "abed_wari_alaw_jabr.2025.DDDoSLf3PwOC",
       "abed_wari_alaw_jabr.2026.LSMLBCf3PC",
       "abed_wari_alaw_jabr.2026.AMDMLFfOLB3PCCwaIEtEPBDT",
-      "abed_wari_alaw_jabr.2026.HLaPSCBfS3PC"
+      "abed_wari_alaw_jabr.2026.HLaPSCBfS3PC",
+      "abed.2026.ALCWVECCfDPSaMf3PC"
     ],
     "orcid": "0000-0002-2920-9284",
     "affiliation": "",
@@ -615,7 +617,8 @@ window.AUTHORS_DATA = {
     "lastName": "Abousnina",
     "firstName": "Rajab",
     "articles": [
-      "pokh_abou_mim_ahme.2026.UoOCSi3PC"
+      "pokh_abou_mim_ahme.2026.UoOCSi3PC",
+      "west_abou_mim_ahme.2026.BRDaaSSCMf3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -687,7 +690,9 @@ window.AUTHORS_DATA = {
       "abst_funk_gelb.2024.PoHPFEUPPCEaM",
       "abst_funk_gelb.2025.SPoCPCEWDDUCEaP",
       "abst_senf_glin_funk.2026.SPCCUHAM",
-      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB"
+      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB",
+      "abst_funk_senf_gelb.2027.HAMfSSMH",
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
     ],
     "orcid": "0009-0004-2121-8727",
     "affiliation": "",
@@ -704,13 +709,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "abu-al-rub_rashid": {
+    "prefix": "",
+    "lastName": "Abu Al-Rub",
+    "firstName": "Rashid",
+    "articles": [
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "abu_dabous_saleh": {
     "prefix": "Abu",
     "lastName": "Dabous",
     "firstName": "Saleh",
     "articles": [
       "mant_sati_hosn_abda.2024.AG3PLCALFfAA",
-      "gace_dabo.2026.IMBTFfC3PC"
+      "gace_dabo.2026.IMBTFfC3PC",
+      "sati_hosn_abda_mant.2026.CEEAoD3CPM",
+      "sati_hosn_mant_dabo.2027.TDCPitCI"
     ],
     "orcid": "0000-0002-8777-2331",
     "affiliation": "",
@@ -849,17 +867,6 @@ window.AUTHORS_DATA = {
     "firstName": "Chris",
     "articles": [
       "esan_kupo_acke.2026.AiAMfAA"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "acuna_tomas": {
-    "prefix": "",
-    "lastName": "Acuña",
-    "firstName": "Tomás",
-    "articles": [
-      "acun_aven_garc_band.2023.PDoM3PWBoRMsD"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1118,17 +1125,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "adiseshu_s": {
-    "prefix": "",
-    "lastName": "Adiseshu",
-    "firstName": "S.",
-    "articles": [
-      "mali_adis.2023.IoUMMoMaMCoCCSaFA"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "aditya_s": {
     "prefix": "",
     "lastName": "Aditya",
@@ -1157,17 +1153,6 @@ window.AUTHORS_DATA = {
     "firstName": "Fausta",
     "articles": [
       "butk_vait_adom.2024.EF3PCMwWaOAA"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "adriano_jimenez-guerrero": {
-    "prefix": "",
-    "lastName": "Adriano",
-    "firstName": "Jiménez-Guerrero",
-    "articles": [
-      "adri_edua_jose_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1211,6 +1196,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "aelterman_jan": {
+    "prefix": "",
+    "lastName": "Aelterman",
+    "firstName": "Jan",
+    "articles": [
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM"
+    ],
+    "orcid": "0000-0002-5543-2631",
+    "affiliation": "",
+    "ror": ""
+  },
   "aerts_marijke": {
     "prefix": "",
     "lastName": "Aerts",
@@ -1229,6 +1225,18 @@ window.AUTHORS_DATA = {
     "articles": [
       "afar_carr_garb_bier.2021.D3PCMwGFP",
       "afar_mose_garb_esfa.2022.PFMfAMoCBM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "afinanto_muhammad": {
+    "prefix": "",
+    "lastName": "Afinanto",
+    "firstName": "Muhammad",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW",
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1273,7 +1281,8 @@ window.AUTHORS_DATA = {
     "lastName": "Agee",
     "firstName": "Philip",
     "articles": [
-      "mcco_viei_oliv_yana.2023.3CP"
+      "mcco_viei_oliv_yana.2023.3CP",
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
     ],
     "orcid": "0000-0001-6299-3042",
     "affiliation": "",
@@ -1331,6 +1340,17 @@ window.AUTHORS_DATA = {
       "agha_li_rosh_nama.2024.AMEiC"
     ],
     "orcid": "0000-0001-6715-7246",
+    "affiliation": "",
+    "ror": ""
+  },
+  "aghaei-meibodi_mania": {
+    "prefix": "",
+    "lastName": "Aghaei Meibodi",
+    "firstName": "Mania",
+    "articles": [
+      "lin_agha_bart.2026.TARMPfNP3CP"
+    ],
+    "orcid": "0000-0003-2867-6814",
     "affiliation": "",
     "ror": ""
   },
@@ -1414,6 +1434,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "agrawal_sohit": {
+    "prefix": "",
+    "lastName": "Agrawal",
+    "firstName": "Sohit",
+    "articles": [
+      "agra_lew_wen_hung.2026.Do3PFCCwPF"
+    ],
+    "orcid": "0000-0003-3407-1125",
+    "affiliation": "",
+    "ror": ""
+  },
   "aguayo_federico": {
     "prefix": "",
     "lastName": "Aguayo",
@@ -1443,7 +1474,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "agui_wang_stef_angs.2022.MEoC3PC",
       "das_agui_wang_flat.2022.FTPo3PC",
-      "wang_agui_anto_dill.2022.TYEo3PCCiaHAE"
+      "wang_agui_anto_dill.2022.TYEo3PCCiaHAE",
+      "nasc_wang_agui_anto.2024.Do3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1475,20 +1507,10 @@ window.AUTHORS_DATA = {
       "tude_card_bien_dunk.2024.DaCoaPCMwCaDWA",
       "zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF",
       "silv_tude_roja_llon.2026.PCwMSRA",
-      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE"
+      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE",
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
     ],
     "orcid": "0000-0002-8175-8950",
-    "affiliation": "",
-    "ror": ""
-  },
-  "agusril_syamsir": {
-    "prefix": "",
-    "lastName": "Agusril",
-    "firstName": "Syamsir",
-    "articles": [
-      "liu_agus_woen_khai.2026.ASfCaMPo3PCWS"
-    ],
-    "orcid": "0000-0002-5919-0588",
     "affiliation": "",
     "ror": ""
   },
@@ -1629,7 +1651,8 @@ window.AUTHORS_DATA = {
     "firstName": "Lina",
     "articles": [
       "ahma_jabi_sosa.2024.NPRPoEBM",
-      "moha_ahma_carb.2025.3PAitGHM"
+      "moha_ahma_carb.2025.3PAitGHM",
+      "moha_ahma_carb.2026.AMitGHS"
     ],
     "orcid": "0000-0001-8236-6978",
     "affiliation": "",
@@ -1651,6 +1674,7 @@ window.AUTHORS_DATA = {
     "lastName": "Ahmad",
     "firstName": "Rafiq",
     "articles": [
+      "rami_panc_sanc_poud.2025.DaDoaLRCfC3P",
       "rami_ahma.2025.STAfAC",
       "hami_ahma.2026.ACfaSLP"
     ],
@@ -1681,12 +1705,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "ahman_rafiq": {
+  "ahmed_a": {
     "prefix": "",
-    "lastName": "Ahman",
-    "firstName": "Rafiq",
+    "lastName": "Ahmed",
+    "firstName": "A.",
     "articles": [
-      "rami_panc_sanc_poud.2025.DaDoaLRCfC3P"
+      "pagl_mack_ahme_migl.2026.DICiRT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1719,7 +1743,7 @@ window.AUTHORS_DATA = {
     "lastName": "Ahmed",
     "firstName": "Ahmed",
     "articles": [
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P"
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1732,9 +1756,11 @@ window.AUTHORS_DATA = {
     "articles": [
       "migl_ahme_mack_hano.2024.TOBACfS",
       "mack_hano_migl_ahme.2024.MFACHWfHaS",
+      "ahme_mant.2025.ACoLECC",
       "ahme_mack_migl_mant.2026.APCfAC",
       "ahme_mant.2026.3PoGCiIAaUE",
-      "ahme_mack_mant.2026.U3PoOC1CC"
+      "ahme_mack_mant.2026.U3PoOC1CC",
+      "mack_ahme_pagl_kooh.2026.NHMoACCSPCC"
     ],
     "orcid": "0000-0001-6226-7040",
     "affiliation": "",
@@ -1745,11 +1771,11 @@ window.AUTHORS_DATA = {
     "lastName": "Ahmed",
     "firstName": "Ayesha",
     "articles": [
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
       "marr_goma_iriz_ahme.2025.AMoUHPC",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -1787,7 +1813,7 @@ window.AUTHORS_DATA = {
       "game_giwa_ahme_noor.2022.DoUHPECCf3PA",
       "giwa_game_ahme_noor.2023.PaMCo3PSFRCM",
       "ahme_giwa_game_arce.2024.ARDLSAM",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "marr_goma_iriz_ahme.2025.AMoUHPC"
     ],
     "orcid": "",
@@ -1844,7 +1870,8 @@ window.AUTHORS_DATA = {
     "lastName": "Ahmed",
     "firstName": "Mizan",
     "articles": [
-      "pokh_abou_mim_ahme.2026.UoOCSi3PC"
+      "pokh_abou_mim_ahme.2026.UoOCSi3PC",
+      "west_abou_mim_ahme.2026.BRDaaSSCMf3PC"
     ],
     "orcid": "0000-0001-5499-3181",
     "affiliation": "",
@@ -1880,6 +1907,17 @@ window.AUTHORS_DATA = {
       "ahme_yehi.2022.EoWaSRoLD3PCUCM"
     ],
     "orcid": "0000-0001-8260-5334",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ahmed_shakil": {
+    "prefix": "",
+    "lastName": "Ahmed",
+    "firstName": "Shakil",
+    "articles": [
+      "quna_ahme.2026.QSFLaDTCfR3CP"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -1952,8 +1990,8 @@ window.AUTHORS_DATA = {
     "lastName": "Ahn",
     "firstName": "Yonghan",
     "articles": [
-      "pham_moon_ahn.2024.O3PCMfEH",
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
+      "nguy_thac_le_ahn.2024.ARoCPaAoMLo3PC",
+      "pham_moon_ahn.2024.O3PCMfEH"
     ],
     "orcid": "0000-0002-5542-7314",
     "affiliation": "",
@@ -2002,6 +2040,17 @@ window.AUTHORS_DATA = {
     "firstName": "M.",
     "articles": [
       "sury_higg_aitk_tamb.2023.DiPCGBf3PA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ajahunegn_adamu": {
+    "prefix": "",
+    "lastName": "Ajahunegn",
+    "firstName": "Adamu",
+    "articles": [
+      "ajah_anga_tess_rega.2026.USEFCaaCRaRMi3PMCCHaPLA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -2093,7 +2142,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "shah_abba_akba_sabi.2024.IoPSaNDotFAi3PUHPC",
       "shah_akba_alza_yosr.2024.TDBEo3PC",
-      "shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
+      "shah_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -2108,6 +2157,18 @@ window.AUTHORS_DATA = {
       "nguy_java_jord_akba.2026.TEAo3PMH"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "akbarov_dilshod": {
+    "prefix": "",
+    "lastName": "Akbarov",
+    "firstName": "Dilshod",
+    "articles": [
+      "akba_akra.2026.CTaDQCfALRBwAPCFA3PW",
+      "akba_akra.2026.STAISPoaTL3PWwEPCI"
+    ],
+    "orcid": "0009-0009-8910-4642",
     "affiliation": "",
     "ror": ""
   },
@@ -2128,7 +2189,8 @@ window.AUTHORS_DATA = {
       "zhi_akba.2025.STToSCi3CPfOBaSQ",
       "wang_teit_akba_aviv.2025.EAoTMPoSO3PCFEfCER",
       "zhi_oror_mota_chai.2025.TOfaPTC3PFS",
-      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS"
+      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0000-0002-6402-615X",
     "affiliation": "",
@@ -2283,7 +2345,8 @@ window.AUTHORS_DATA = {
     "lastName": "Akmalaiuly",
     "firstName": "Kenzhebek",
     "articles": [
-      "skri_tole_rish_akma.2025.DaCDi3PC"
+      "skri_tole_rish_akma.2025.DaCDi3PC",
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -2308,6 +2371,18 @@ window.AUTHORS_DATA = {
       "omur_akpu_bing_okta.2025.TIoPCMFTDPAAotPoBFSBAAC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "akramov_khusnitdin": {
+    "prefix": "",
+    "lastName": "Akramov",
+    "firstName": "Khusnitdin",
+    "articles": [
+      "akba_akra.2026.CTaDQCfALRBwAPCFA3PW",
+      "akba_akra.2026.STAISPoaTL3PWwEPCI"
+    ],
+    "orcid": "0009-0002-4850-565X",
     "affiliation": "",
     "ror": ""
   },
@@ -2343,7 +2418,8 @@ window.AUTHORS_DATA = {
       "gyaw_hagh_akul_alba.2024.ARo3PwCaSNF",
       "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
       "ray_mont_akul_rush.2026.EoPaFPo3PEM",
-      "akul_ray_bast_maso.2026.SBFo3PEM"
+      "akul_ray_bast_maso.2026.SBFo3PEM",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
     "orcid": "0000-0002-4816-9943",
     "affiliation": "",
@@ -2583,7 +2659,7 @@ window.AUTHORS_DATA = {
     "lastName": "Balushi",
     "firstName": "Yousuf",
     "articles": [
-      "qure_shiw_kind_sawa.2024.DoAfC3PbULM",
+      "qure_shiz_kind_sawa.2024.DoAfC3PbULM",
       "qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P"
     ],
     "orcid": "",
@@ -2727,17 +2803,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "al_khaswaneh_bashar": {
-    "prefix": "Al",
-    "lastName": "Khaswaneh",
-    "firstName": "Bashar",
-    "articles": [
-      "ali_nass_rub_khas.2024.IoCNToPQaMPo3PCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "al_kheetan_mazen": {
     "prefix": "al",
     "lastName": "Kheetan",
@@ -2771,7 +2836,7 @@ window.AUTHORS_DATA = {
     "lastName": "Kindi",
     "firstName": "Ghassan",
     "articles": [
-      "qure_shiw_kind_sawa.2024.DoAfC3PbULM",
+      "qure_shiz_kind_sawa.2024.DoAfC3PbULM",
       "qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P"
     ],
     "orcid": "",
@@ -2881,8 +2946,7 @@ window.AUTHORS_DATA = {
     "lastName": "Osta",
     "firstName": "Mohammed",
     "articles": [
-      "mani_huri_khar_hosa.2025.S3PC",
-      "khal_faki_yase_osta.2026.IoCCaMRoSDoOPAAM"
+      "mani_huri_khar_hosa.2025.S3PC"
     ],
     "orcid": "0000-0002-3678-2695",
     "affiliation": "",
@@ -2894,6 +2958,17 @@ window.AUTHORS_DATA = {
     "firstName": "Sulaiman",
     "articles": [
       "im_othm_cast.2018.RSP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "al_rabady_rama": {
+    "prefix": "Al",
+    "lastName": "Rabady",
+    "firstName": "Rama",
+    "articles": [
+      "alqa_raba.2026.PFo3CPfHiSADE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -2975,6 +3050,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "al_ruzouq_rami": {
+    "prefix": "al",
+    "lastName": "Ruzouq",
+    "firstName": "Rami",
+    "articles": [
+      "sati_hosn_mant_dabo.2027.TDCPitCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "al_saadi_nihad": {
     "prefix": "Al",
     "lastName": "Saadi",
@@ -3002,7 +3088,7 @@ window.AUTHORS_DATA = {
     "lastName": "Sawafi",
     "firstName": "Bushra",
     "articles": [
-      "qure_shiw_kind_sawa.2024.DoAfC3PbULM",
+      "qure_shiz_kind_sawa.2024.DoAfC3PbULM",
       "qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P"
     ],
     "orcid": "",
@@ -3031,22 +3117,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "al_shiwazi_amira": {
-    "prefix": "Al",
-    "lastName": "Shiwazi",
-    "firstName": "Amira",
-    "articles": [
-      "qure_shiw_kind_sawa.2024.DoAfC3PbULM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "al_shizawi_amira": {
     "prefix": "Al",
     "lastName": "Shizawi",
     "firstName": "Amira",
     "articles": [
+      "qure_shiz_kind_sawa.2024.DoAfC3PbULM",
       "qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P"
     ],
     "orcid": "",
@@ -3188,6 +3264,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "alam_mohammad-reza": {
+    "prefix": "",
+    "lastName": "Alam",
+    "firstName": "Mohammad-Reza",
+    "articles": [
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "alam_shaurav": {
     "prefix": "",
     "lastName": "Alam",
@@ -3252,7 +3339,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "toub_alar_habi_habi.2026.ACGFfIPQAf3CP"
     ],
-    "orcid": "",
+    "orcid": "0009-0005-0907-5249",
     "affiliation": "",
     "ror": ""
   },
@@ -3331,7 +3418,8 @@ window.AUTHORS_DATA = {
     "lastName": "Alawadi",
     "firstName": "Khaled",
     "articles": [
-      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN"
+      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN",
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -3421,7 +3509,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "wang_lv_shen_albi.2026.IoCASaMotWaMBo3PC",
       "garc_bone_sosa_sega.2026.ESoRCBw3PSF",
-      "muno_lete_albi_bust.2026.MEaEAPoRHBPCMf3CP"
+      "muno_lete_albi_bust.2026.MEaEAPoRHBPCMf3CP",
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
     ],
     "orcid": "0000-0003-3049-9693",
     "affiliation": "",
@@ -3494,7 +3583,8 @@ window.AUTHORS_DATA = {
       "kul_koca_alde_yld.2024.3POPAAMDfBMW",
       "ozal_alde.2025.AIBDCPTfTDPCW",
       "ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW",
-      "mute_alde.2026.ESaEIo3PCBwVCSG"
+      "mute_alde.2026.ESaEIo3PCBwVCSG",
+      "ozal_alde.2026.EtF"
     ],
     "orcid": "0000-0003-2425-9685",
     "affiliation": "",
@@ -3695,6 +3785,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "alhawiti_ali": {
+    "prefix": "",
+    "lastName": "Alhawiti",
+    "firstName": "Ali",
+    "articles": [
+      "wani_alha_pang.2026.EAIfEEDoTDPFRCTILCA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "alhoubi_yazan": {
     "prefix": "",
     "lastName": "Alhoubi",
@@ -3723,7 +3824,8 @@ window.AUTHORS_DATA = {
     "firstName": "Ali",
     "articles": [
       "alhu_duar_brow.2024.DaDDFSPMf3CP",
-      "alhu_duar_brow.2025.SGCGf3CPBE"
+      "alhu_duar_brow.2025.SGCGf3CPBE",
+      "alhu_fakh_duar_brow.2026.T"
     ],
     "orcid": "",
     "affiliation": "",
@@ -3802,7 +3904,8 @@ window.AUTHORS_DATA = {
       "ali_nass_rub_khas.2024.IoCNToPQaMPo3PCM",
       "ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH",
       "nass_ali_rub_cho.2025.OCBMFf3P",
-      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN"
+      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN",
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
     ],
     "orcid": "0009-0001-0465-404X",
     "affiliation": "",
@@ -3873,7 +3976,7 @@ window.AUTHORS_DATA = {
     "firstName": "Syed",
     "articles": [
       "ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF",
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
       "ali_qian_umar_wang.2026.FPoETPRwSMAFFbEB3P"
     ],
     "orcid": "",
@@ -3983,17 +4086,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "alizadeh_roozbeh": {
-    "prefix": "",
-    "lastName": "Alizadeh",
-    "firstName": "Roozbeh",
-    "articles": [
-      "eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "alizamir_meysam": {
     "prefix": "",
     "lastName": "Alizamir",
@@ -4002,6 +4094,17 @@ window.AUTHORS_DATA = {
       "aliz_kim_ikra_ahme.2025.ARHELMMFfESPo3PFRC"
     ],
     "orcid": "0000-0003-1047-1917",
+    "affiliation": "",
+    "ror": ""
+  },
+  "aljammaz_mohammed": {
+    "prefix": "",
+    "lastName": "Aljammaz",
+    "firstName": "Mohammed",
+    "articles": [
+      "alla_alja.2026.TDCPitBE"
+    ],
+    "orcid": "0000-0003-2454-1808",
     "affiliation": "",
     "ror": ""
   },
@@ -4091,6 +4194,17 @@ window.AUTHORS_DATA = {
       "bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "allahaim_fahad": {
+    "prefix": "",
+    "lastName": "Allahaim",
+    "firstName": "Fahad",
+    "articles": [
+      "alla_alja.2026.TDCPitBE"
+    ],
+    "orcid": "0000-0001-7040-7496",
     "affiliation": "",
     "ror": ""
   },
@@ -4218,6 +4332,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "almazmumi_salah": {
+    "prefix": "",
+    "lastName": "Almazmumi",
+    "firstName": "Salah",
+    "articles": [
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
+    ],
+    "orcid": "0009-0003-5597-6932",
+    "affiliation": "",
+    "ror": ""
+  },
   "almdal_kristoffer": {
     "prefix": "",
     "lastName": "Almdal",
@@ -4249,17 +4374,6 @@ window.AUTHORS_DATA = {
       "fahf_varu_alme_crav.2025.RAsSFT3P"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "almerbati_nehal": {
-    "prefix": "",
-    "lastName": "Almerbati",
-    "firstName": "Nehal",
-    "articles": [
-      "eid_alme.2025.MtAtEIo3PBUCW"
-    ],
-    "orcid": "0000-0003-2855-3865",
     "affiliation": "",
     "ror": ""
   },
@@ -4301,9 +4415,10 @@ window.AUTHORS_DATA = {
     "lastName": "Almurbati",
     "firstName": "Nehal",
     "articles": [
+      "eid_almu.2025.MtAtEIo3PBUCW",
       "eid_almu.2025.Ao3PBUCaDW"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-2855-3865",
     "affiliation": "",
     "ror": ""
   },
@@ -4313,7 +4428,7 @@ window.AUTHORS_DATA = {
     "firstName": "Mohammed",
     "articles": [
       "alna.2026.LFAMwCaGM",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF",
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF",
       "alna_bhad.2026.Do3PC"
     ],
     "orcid": "",
@@ -4447,6 +4562,17 @@ window.AUTHORS_DATA = {
     "firstName": "Vasilis",
     "articles": [
       "bode_dell_alou_burg.2024.P3CPB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "alqaisi_mahmoud": {
+    "prefix": "",
+    "lastName": "Alqaisi",
+    "firstName": "Mahmoud",
+    "articles": [
+      "alqa_raba.2026.PFo3CPfHiSADE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -4716,7 +4842,6 @@ window.AUTHORS_DATA = {
     "lastName": "Álvarez",
     "firstName": "Luisa",
     "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW",
       "alva_fern_garc_garc.2026.CDIfAaTPi3PTE"
     ],
     "orcid": "",
@@ -4784,23 +4909,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "aly-ahmed_aly": {
-    "prefix": "",
-    "lastName": "Aly Ahmed",
-    "firstName": "Aly",
-    "articles": [
-      "aly_mant.2025.ACoLECC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "alyamani_abdulrahman": {
     "prefix": "",
     "lastName": "Alyamani",
     "firstName": "Abdulrahman",
     "articles": [
-      "turk_ekin_kant_ekin.2026.FSCoGMf3P"
+      "turk_ekin_kant_ekin.2026.FSCoGMf3P",
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "0009-0009-8259-4968",
     "affiliation": "",
@@ -4837,17 +4952,6 @@ window.AUTHORS_DATA = {
       "mans_alsu_bina_bins.2025.CHTaUVAo3CPEwVTACiHAC"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "alymani_abdulrahman": {
-    "prefix": "",
-    "lastName": "Alymani",
-    "firstName": "Abdulrahman",
-    "articles": [
-      "turk_kant_ekin_alym.2026.HPo3PGM"
-    ],
-    "orcid": "0009-0009-8259-4968",
     "affiliation": "",
     "ror": ""
   },
@@ -5026,7 +5130,9 @@ window.AUTHORS_DATA = {
       "prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC",
       "kali_ambi_shek_seba.2024.EoSGotFPo3PC",
       "prem_ambi_kuma_giri.2024.SBUMfTDCPBoKT",
-      "ambi_kali_seba_shek.2025.S3PCMUCS"
+      "ambi_kali_seba_shek.2025.S3PCMUCS",
+      "gaya_kali_ambi_sent.2026.Oo3CPPURSMR",
+      "sowm_ambi_kali_ayya.2026.EoCSaFAotFPo3PC"
     ],
     "orcid": "0000-0003-2709-605X",
     "affiliation": "",
@@ -5170,7 +5276,8 @@ window.AUTHORS_DATA = {
       "mogr_asaf_spre_amir.2023.DOo3PCECB",
       "asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB",
       "shak_shak_amir.2024.TaSOo3PSCS",
-      "tang_shak_amir_sack.2026.ACPfDaFoBSUw3PaRPC"
+      "tang_shak_amir_sack.2026.ACPfDaFoBSUw3PaRPC",
+      "shak_amir.2026.AICFfSOoPCSw3PF"
     ],
     "orcid": "0000-0002-2871-3286",
     "affiliation": "",
@@ -5254,6 +5361,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ammar_ashtarout": {
+    "prefix": "",
+    "lastName": "Ammar",
+    "firstName": "Ashtarout",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0000-0002-9656-4761",
+    "affiliation": "",
+    "ror": ""
+  },
   "ammons_jake": {
     "prefix": "",
     "lastName": "Ammons",
@@ -5293,6 +5411,17 @@ window.AUTHORS_DATA = {
       "leso_tols_fedi_amra.2022.ItPoaMf3PbMM"
     ],
     "orcid": "0000-0002-4434-6295",
+    "affiliation": "",
+    "ror": ""
+  },
+  "amrioui_juba": {
+    "prefix": "",
+    "lastName": "Amrioui",
+    "firstName": "Juba",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
+    ],
+    "orcid": "0000-0002-2764-5066",
     "affiliation": "",
     "ror": ""
   },
@@ -5635,6 +5764,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "andric_davor": {
+    "prefix": "",
+    "lastName": "Andrić",
+    "firstName": "Davor",
+    "articles": [
+      "vare_gali_step_andr.2026.TORAFfS3PCC"
+    ],
+    "orcid": "0000-0002-6337-4777",
+    "affiliation": "",
+    "ror": ""
+  },
   "aneziris_christos": {
     "prefix": "",
     "lastName": "Aneziris",
@@ -5651,7 +5791,8 @@ window.AUTHORS_DATA = {
     "lastName": "Angassa",
     "firstName": "Kenatu",
     "articles": [
-      "ageg_rega_anga_meko.2026.SRo3CPT"
+      "ageg_rega_anga_meko.2026.SRo3CPT",
+      "ajah_anga_tess_rega.2026.USEFCaaCRaRMi3PMCCHaPLA"
     ],
     "orcid": "0000-0002-1449-2451",
     "affiliation": "",
@@ -5667,17 +5808,6 @@ window.AUTHORS_DATA = {
       "ding_kind_cen_chen.2025.VoDWaBBiSBMvCMa3P"
     ],
     "orcid": "0000-0002-2603-4757",
-    "affiliation": "",
-    "ror": ""
-  },
-  "anh_yonghan": {
-    "prefix": "",
-    "lastName": "Anh",
-    "firstName": "Yonghan",
-    "articles": [
-      "nguy_thac_le_anh.2024.ARoCPaAoMLo3PC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -5802,11 +5932,12 @@ window.AUTHORS_DATA = {
       "anto_dill.2024.TaS3CPA",
       "gira_gebh_anto_dill.2024.STCfa3mT3PCT",
       "jipa_anto_gebh_dill.2024.TNS",
-      "lima_wang_sanc_anto.2024.Do3PC",
+      "nasc_wang_agui_anto.2024.Do3PC",
       "anto_skev_bisc_reit.2024.CSIf3CP",
       "huan_anto_dill_xu.2025.LI3CPCSS",
       "anto_lin_dill.2025.RCf3CPaMCiTA",
-      "su_lee_anto_jipa.2026.NVS"
+      "su_lee_anto_jipa.2026.NVS",
+      "nasc_zahn_beli_su.2026.RC"
     ],
     "orcid": "0000-0002-3034-8978",
     "affiliation": "",
@@ -5901,7 +6032,8 @@ window.AUTHORS_DATA = {
       "baz_aoua_klei_bult.2021.DAaMSAo3PCEtSAE",
       "inat_baz_aoua.2022.LTDAo3PC",
       "dahe_klei_benz_abri.2022.RoFCDSfC3P",
-      "dahe_klei_benz_abri.2023.TDoSB3PM"
+      "dahe_klei_benz_abri.2023.TDoSB3PM",
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
     ],
     "orcid": "0000-0003-4088-7788",
     "affiliation": "",
@@ -5948,6 +6080,17 @@ window.AUTHORS_DATA = {
       "gras_baur_apol_dorf.2020.DH"
     ],
     "orcid": "0000-0002-0821-4981",
+    "affiliation": "",
+    "ror": ""
+  },
+  "appel_andreas": {
+    "prefix": "",
+    "lastName": "Appel",
+    "firstName": "Andreas",
+    "articles": [
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
+    ],
+    "orcid": "0009-0004-5017-7290",
     "affiliation": "",
     "ror": ""
   },
@@ -6040,7 +6183,7 @@ window.AUTHORS_DATA = {
     "firstName": "Rísia",
     "articles": [
       "arau_mart_cabr_dant.2022.TPoCLCf3P",
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P"
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P"
     ],
     "orcid": "0000-0001-9265-9459",
     "affiliation": "",
@@ -6282,7 +6425,8 @@ window.AUTHORS_DATA = {
       "reis_aros_camo_bran.2026.CaCAi3PCM",
       "aros_reis_ribe_bran.2026.FAR3CPoTBT",
       "aros_reis_puga_bran.2026.HAS3CPvUREfICF",
-      "bran_ribe_aros_figu.2026.GRFfERRaP"
+      "bran_ribe_aros_figu.2026.GRFfERRaP",
+      "aros_reis_ribe_bran.2026.HRFoCM"
     ],
     "orcid": "0009-0005-9992-9307",
     "affiliation": "",
@@ -6343,14 +6487,15 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "arruda_m": {
+  "arruda_mario": {
     "prefix": "",
     "lastName": "Arruda",
-    "firstName": "M.",
+    "firstName": "Mário",
     "articles": [
-      "sera_nune_arru_pinh.2026.RSCC"
+      "sera_nune_arru_pinh.2026.RSCC",
+      "sera_arru_pinh.2026.CtPoSCC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4140-2204",
     "affiliation": "",
     "ror": ""
   },
@@ -6448,7 +6593,7 @@ window.AUTHORS_DATA = {
       "arun_sanj.2023.ETEo3PUHPC",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-5827-1917",
     "affiliation": "",
@@ -6572,6 +6717,17 @@ window.AUTHORS_DATA = {
     "firstName": "Emiel",
     "articles": [
       "putt_olme_aert_asci.2020.3CPOS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "asenath-smith_emily": {
+    "prefix": "",
+    "lastName": "Asenath-Smith",
+    "firstName": "Emily",
+    "articles": [
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -6931,6 +7087,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "asvanyi_nikolett": {
+    "prefix": "",
+    "lastName": "Ásványi",
+    "firstName": "Nikolett",
+    "articles": [
+      "nan_asva_habr.2026.D3PCC"
+    ],
+    "orcid": "0009-0002-0702-0728",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ataei_hossein": {
+    "prefix": "",
+    "lastName": "Ataei",
+    "firstName": "Hossein",
+    "articles": [
+      "hima_tang_atae_snee.2027.M3CPaHFASS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ataei_sarah": {
     "prefix": "",
     "lastName": "Ataei",
@@ -6986,6 +7164,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "atanes-sanchez_evangelina": {
+    "prefix": "",
+    "lastName": "Atanes-Sánchez",
+    "firstName": "Evangelina",
+    "articles": [
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "atapattu_chinthaka": {
     "prefix": "",
     "lastName": "Atapattu",
@@ -7014,6 +7203,17 @@ window.AUTHORS_DATA = {
     "firstName": "R.",
     "articles": [
       "athi_sath.2026.Ro3PAiGC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "atis_cengiz": {
+    "prefix": "",
+    "lastName": "Atiş",
+    "firstName": "Cengiz",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -7289,7 +7489,6 @@ window.AUTHORS_DATA = {
     "lastName": "Avendaño",
     "firstName": "Martín",
     "articles": [
-      "acun_aven_garc_band.2023.PDoM3PWBoRMsD",
       "garc_soza_moro_pedr.2024.FBMt3CP",
       "garc_aven_ullo_wege.2026.DTfESDoHwAC"
     ],
@@ -7314,6 +7513,17 @@ window.AUTHORS_DATA = {
     "firstName": "Carlos",
     "articles": [
       "aziz_rame_lazo_avil.2026.DaOoUMfAM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "avinash_h": {
+    "prefix": "",
+    "lastName": "Avinash",
+    "firstName": "H.",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -7448,7 +7658,7 @@ window.AUTHORS_DATA = {
     "firstName": "Yaşar",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "0000-0002-1089-0700",
     "affiliation": "",
@@ -7579,6 +7789,17 @@ window.AUTHORS_DATA = {
       "ayre_silv_nich_ande.2019.S"
     ],
     "orcid": "0000-0002-9266-065X",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ayyanarsamy_vinothkumar": {
+    "prefix": "",
+    "lastName": "Ayyanarsamy",
+    "firstName": "Vinothkumar",
+    "articles": [
+      "sowm_ambi_kali_ayya.2026.EoCSaFAotFPo3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -7729,7 +7950,8 @@ window.AUTHORS_DATA = {
       "miri_baaj_pola.2025.3PCB",
       "miri_auri_pola_baaj.2025.IBi3PC",
       "miri_baaj_pola.2025.EIi3PCTCZM",
-      "miri_pola_baaj.2026.IoIOotFBo3PCB"
+      "miri_pola_baaj.2026.IoIOotFBo3PCB",
+      "wang_tava_baaj_pola.2026.ATDATWAo3PCaIMDOwSCM"
     ],
     "orcid": "0000-0003-0033-0803",
     "affiliation": "",
@@ -7820,7 +8042,7 @@ window.AUTHORS_DATA = {
       "mish_baba_comb.2025.LaRPi3PGC",
       "jaji_baba_zijl.2025.MPoEBTP3PGC",
       "mara_baba_aigb.2025.TUtPo3CPiK",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "ajay_zijl_baba.2026.MSB3POPGCwCCRPEA",
       "baba_ibra.2026.STCRaASo3PCiC",
       "ajay_zijl_baba.2026.HSLPVTB3POPGC",
@@ -7828,7 +8050,8 @@ window.AUTHORS_DATA = {
       "mara_baba.2026.3CPiA",
       "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
       "ades_sond_fata_baba.2026.DoaSSMLCCLBOP3PGC",
-      "baba_mish.2026.3PLCCBCM"
+      "baba_mish.2026.3PLCCBCM",
+      "ditl_baba_zijl.2026.MaDPo3wVCR"
     ],
     "orcid": "0000-0002-6232-6642",
     "affiliation": "",
@@ -7974,25 +8197,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "badura_kamil": {
+    "prefix": "",
+    "lastName": "Badura",
+    "firstName": "Kamil",
+    "articles": [
+      "howi_badu_sien_bedn.2026.BaCoDiRPa3PCR"
+    ],
+    "orcid": "0000-0002-6862-5272",
+    "affiliation": "",
+    "ror": ""
+  },
   "bae_sungchul": {
     "prefix": "",
     "lastName": "Bae",
     "firstName": "Sungchul",
     "articles": [
-      "liu_li_piao_im.2025.HACMfBJ3P"
+      "liu_li_piao_im.2025.HACMfBJ3P",
+      "kim_han_bae_suh.2026.IBQPAoCM"
     ],
     "orcid": "0000-0002-8511-6939",
-    "affiliation": "",
-    "ror": ""
-  },
-  "baek_seoung-ho": {
-    "prefix": "",
-    "lastName": "Baek",
-    "firstName": "Seoung-Ho",
-    "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -8028,7 +8252,8 @@ window.AUTHORS_DATA = {
       "bagh_klof.2026.IoCPTaGoSCCoDCJ",
       "bagh_oett.2026.CiAMCEaTIotCS",
       "bagh_dorr_klof.2026.CCoCDJASEaPBAMwRSF",
-      "bagh_seed_klof.2026.FAoaCBASPWfSPCBC"
+      "bagh_seed_klof.2026.FAoaCBASPWfSPCBC",
+      "muhl_bagh_oett_klof.2026.MCU3PCEaSMDJ"
     ],
     "orcid": "0000-0003-1259-6174",
     "affiliation": "",
@@ -8061,8 +8286,7 @@ window.AUTHORS_DATA = {
     "lastName": "Bagheri",
     "firstName": "Bahar",
     "articles": [
-      "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP"
+      "most_mote_bagh_etem.2024.RC3PCTP"
     ],
     "orcid": "0009-0005-4400-418X",
     "affiliation": "",
@@ -8189,7 +8413,8 @@ window.AUTHORS_DATA = {
       "bai_wang_li_qu.2025.IPi3PUHPCCBfSFP",
       "wang_fan_wang_bai.2025.DMaFTMo3PCTBRw3CR",
       "bai_wang_kang_li.2026.FPoRCFCSw3PUHPCaPF",
-      "lin_xu_zhan_bai.2026.ISTPCSfVC3P"
+      "lin_xu_zhan_bai.2026.ISTPCSfVC3P",
+      "wan_xu_zhan_bai.2026.FStS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -8213,7 +8438,8 @@ window.AUTHORS_DATA = {
       "liu_chen_luo_liu.2026.EoPDoIBBRa3PCACUMLC",
       "liu_ma_liu_dai.2026.SiCAM",
       "wu_liu_liu_pan.2026.MMIitDEoIRotSBo3PCCW",
-      "liu_wang_liu_zhou.2026.ARoSAMoC"
+      "liu_wang_liu_zhou.2026.ARoSAMoC",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL"
     ],
     "orcid": "",
     "affiliation": "",
@@ -8253,7 +8479,8 @@ window.AUTHORS_DATA = {
       "bai_xiao_shen_ding.2024.PaMAo3PCwMSDfB",
       "bai_xiao_ding_yu.2024.IBPB3PECCaPCC",
       "bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW",
-      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB"
+      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB",
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR"
     ],
     "orcid": "0000-0003-1419-9463",
     "affiliation": "",
@@ -8288,7 +8515,8 @@ window.AUTHORS_DATA = {
     "firstName": "Songlin",
     "articles": [
       "yang_yao_zhao_zhan.2024.BAAaME",
-      "bai_yao_yang_liu.2026.DaCoSCSBoCAM"
+      "bai_yao_yang_liu.2026.DaCoSCSBoCAM",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "0009-0006-5591-4362",
     "affiliation": "",
@@ -8366,7 +8594,7 @@ window.AUTHORS_DATA = {
     "firstName": "Zhumadil",
     "articles": [
       "must_stor_rust_plas.2024.CMfC3PBotC",
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -8686,6 +8914,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "baltov_milen": {
+    "prefix": "",
+    "lastName": "Baltov",
+    "firstName": "Milen",
+    "articles": [
+      "korn_furt_balt.2026.QHAtCE"
+    ],
+    "orcid": "0000-0002-1195-7479",
+    "affiliation": "",
+    "ror": ""
+  },
   "baltuskiene_daiva": {
     "prefix": "",
     "lastName": "Baltuškiene",
@@ -8715,7 +8954,8 @@ window.AUTHORS_DATA = {
     "firstName": "Fawzi",
     "articles": [
       "ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH",
-      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN"
+      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN",
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
     ],
     "orcid": "0000-0002-7646-5918",
     "affiliation": "",
@@ -8739,7 +8979,6 @@ window.AUTHORS_DATA = {
     "firstName": "Pablo",
     "articles": [
       "garc_moro_band.2022.DoVRBw3PW",
-      "acun_aven_garc_band.2023.PDoM3PWBoRMsD",
       "garc_soza_moro_pedr.2024.FBMt3CP"
     ],
     "orcid": "0000-0002-8716-6868",
@@ -8797,6 +9036,7 @@ window.AUTHORS_DATA = {
       "bani_mart_masc_kaze.2026.AIiR3P",
       "bani_giwa_fisk_kaze.2026.PRCotMaMUWSRPM",
       "bani_mart_masc_kaze.2025.3GMo3PCvSLMV",
+      "bani_kaze.2026.CA",
       "kaze_bani_li_duar.2026.AIaMLi3PoC"
     ],
     "orcid": "0009-0002-5337-0243",
@@ -8837,6 +9077,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "banoth_anjani": {
+    "prefix": "",
+    "lastName": "Banoth",
+    "firstName": "Anjani",
+    "articles": [
+      "pari_sing_bano_subr.2027.IfFaCSTiFRD3PA"
+    ],
+    "orcid": "0009-0008-6142-7119",
+    "affiliation": "",
+    "ror": ""
+  },
   "banthia_nemkumar": {
     "prefix": "",
     "lastName": "Banthia",
@@ -8869,7 +9120,8 @@ window.AUTHORS_DATA = {
       "wang_obin_bant_zhan.2026.UFEoLPtCRi3PC",
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA",
       "liu_obin_zhan_zhan.2026.SOoBaMi3PFCEbSPaSF",
-      "wang_obin_bant_zhan.2026.IRiIBi3PC3TILM"
+      "wang_obin_bant_zhan.2026.IRiIBi3PC3TILM",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC"
     ],
     "orcid": "0000-0002-5392-7972",
     "affiliation": "",
@@ -8907,7 +9159,8 @@ window.AUTHORS_DATA = {
       "ma_goma_bao_java.2022.PN",
       "urr_sama_flem_bao.2026.SLRotEotTCo3CPBE",
       "urr_sama_flem_bao.2025.ASLRotTBoBECT3CP3",
-      "urr_flem_sama_bao.2025.So3PT"
+      "urr_flem_sama_bao.2025.So3PT",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "0000-0003-1395-8747",
     "affiliation": "",
@@ -8984,8 +9237,8 @@ window.AUTHORS_DATA = {
     "lastName": "Baral",
     "firstName": "Sushmita",
     "articles": [
-      "bara_land_vyso.2026.OaCRt3PC",
       "bara_land_vyso.2026.OaCRt3PCb",
+      "bara_land_vyso.2026.OaCRt3PC",
       "bara_mads_land_vyso.2026.DAo3PCUFaT"
     ],
     "orcid": "0000-0001-5478-9615",
@@ -9093,6 +9346,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "bardon_cossima": {
+    "prefix": "",
+    "lastName": "Bardon",
+    "firstName": "Còssima",
+    "articles": [
+      "chao_feng_han_wang.2026.STHHRo3PERM"
+    ],
+    "orcid": "0000-0003-0553-7176",
+    "affiliation": "",
+    "ror": ""
+  },
+  "barentin_cristian": {
+    "prefix": "",
+    "lastName": "Barentin",
+    "firstName": "Cristián",
+    "articles": [
+      "ross_bare_bour.2027.RfOSC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "baritakis_mario": {
     "prefix": "",
     "lastName": "Baritakis",
@@ -9126,7 +9401,7 @@ window.AUTHORS_DATA = {
       "vare_barl_sone.2023.RCo3PMwNCaBF",
       "vare_barl_perr.2023.NMMfNCT",
       "marq_rama_vare_barl.2024.3PAAoCLMwMPCM",
-      "vale_tino_mend_tole.2024.Ra3PAoSFMfAA",
+      "vare_tino_mend_tole.2024.Ra3PAoSFMfAA",
       "vare_barl_sone.2024.EoBFaNCtEEaBo3PM",
       "vare_tino_mend_tole.2024.3PCBCRwSF",
       "marq_vare_barl.2024.RaEAEo3PCLFPwNCaM",
@@ -9138,7 +9413,7 @@ window.AUTHORS_DATA = {
       "marq_mori_koen_barl.2026.HTPLMwBBPf3PAA",
       "marq_rama_lope_puen.2026.3PoASHLCM",
       "rama_cagg_pera_palo.2026.EaNTAo3PCLMfMAE",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM",
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM",
       "palo_puen_rios_jati.2026.EoBMaNFo3PCPFaSBU"
     ],
     "orcid": "0000-0002-2996-3412",
@@ -9177,6 +9452,17 @@ window.AUTHORS_DATA = {
       "deni_omik_kara_barn.2024.IoVEADoPCM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "barnes-davin_laury": {
+    "prefix": "",
+    "lastName": "Barnes‑Davin",
+    "firstName": "Laury",
+    "articles": [
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
+    ],
+    "orcid": "0009-0001-6129-9187",
     "affiliation": "",
     "ror": ""
   },
@@ -9246,6 +9532,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "barrowclough_oliver": {
+    "prefix": "",
+    "lastName": "Barrowclough",
+    "firstName": "Oliver",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "barry_mamadou": {
     "prefix": "",
     "lastName": "Barry",
@@ -9274,7 +9571,8 @@ window.AUTHORS_DATA = {
     "lastName": "Bartek",
     "firstName": "Rasti",
     "articles": [
-      "dobr_xu_bart_beck.2025.FDCtDM"
+      "dobr_xu_bart_beck.2025.FDCtDM",
+      "sada_busw_cava_bart.2026.NIoAiHP3PCUC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -9306,7 +9604,8 @@ window.AUTHORS_DATA = {
       "fahf_leal_ferr_cobo.2026.FREB3P",
       "fahf_pire_varu_crav.2026.HSoEBFf3P",
       "tarh_tarh_crav_bart.2026.ARoRTaMAfCMi3PA",
-      "fahf_pess_buso_bart.2027.FRECfSAMiC"
+      "fahf_pess_buso_bart.2027.FRECfSAMiC",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0002-0261-9259",
     "affiliation": "",
@@ -9332,7 +9631,8 @@ window.AUTHORS_DATA = {
     "lastName": "Barton",
     "firstName": "Kira",
     "articles": [
-      "kamh_lin_wats_bart.2025.AFfPADi3CP"
+      "kamh_lin_wats_bart.2025.AFfPADi3CP",
+      "lin_agha_bart.2026.TARMPfNP3CP"
     ],
     "orcid": "0000-0003-1047-8078",
     "affiliation": "",
@@ -9354,9 +9654,10 @@ window.AUTHORS_DATA = {
     "lastName": "Barve",
     "firstName": "Prasad",
     "articles": [
-      "barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC"
+      "barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC",
+      "barv_upad_shah_ghaf.2026.EOpGf3PUDPRPMaS"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-0894-6859",
     "affiliation": "",
     "ror": ""
   },
@@ -9437,6 +9738,17 @@ window.AUTHORS_DATA = {
       "bash_wu_xie_hu.2026.FLPf3PFRCCB"
     ],
     "orcid": "0000-0003-4574-4583",
+    "affiliation": "",
+    "ror": ""
+  },
+  "bashir_abba": {
+    "prefix": "",
+    "lastName": "Bashir",
+    "firstName": "Abba",
+    "articles": [
+      "haru_ibra_bash.2026.HFMaRTMfCSPo3PCCDA"
+    ],
+    "orcid": "0000-0002-5928-4410",
     "affiliation": "",
     "ror": ""
   },
@@ -9712,6 +10024,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "bausch_gerold": {
+    "prefix": "",
+    "lastName": "Bausch",
+    "firstName": "Gerold",
+    "articles": [
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
+    ],
+    "orcid": "0009-0009-3803-4031",
+    "affiliation": "",
+    "ror": ""
+  },
   "baverel_olivier": {
     "prefix": "",
     "lastName": "Baverel",
@@ -9877,7 +10200,7 @@ window.AUTHORS_DATA = {
       "bos_menn_robe_wolf.2025.AaMR",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-2519-1224",
     "affiliation": "",
@@ -10013,6 +10336,17 @@ window.AUTHORS_DATA = {
       "beda_szab_zani_dill.2023.R3PoGFfLaIBE"
     ],
     "orcid": "0000-0003-2893-6743",
+    "affiliation": "",
+    "ror": ""
+  },
+  "bednarski_lukasz": {
+    "prefix": "",
+    "lastName": "Bednarski",
+    "firstName": "Łukasz",
+    "articles": [
+      "howi_badu_sien_bedn.2026.BaCoDiRPa3PCR"
+    ],
+    "orcid": "0000-0002-5404-9921",
     "affiliation": "",
     "ror": ""
   },
@@ -10269,6 +10603,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "belizario-silva_fernanda": {
+    "prefix": "",
+    "lastName": "Belizario-Silva",
+    "firstName": "Fernanda",
+    "articles": [
+      "nasc_zahn_beli_su.2026.RC"
+    ],
+    "orcid": "0000-0002-6866-6445",
+    "affiliation": "",
+    "ror": ""
+  },
   "bellmann_claudia": {
     "prefix": "",
     "lastName": "Bellmann",
@@ -10467,18 +10812,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "benros_deborah": {
-    "prefix": "",
-    "lastName": "Benros",
-    "firstName": "Deborah",
-    "articles": [
-      "benr_hash_yung_dung.2024.MHURM",
-      "benr_hash_yuns_call.2025.RMH"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "bentivegna_anthony": {
     "prefix": "",
     "lastName": "Bentivegna",
@@ -10487,6 +10820,17 @@ window.AUTHORS_DATA = {
       "heif_shri_bakh_aran.2021.Qo3PMwECM"
     ],
     "orcid": "0000-0001-7816-8901",
+    "affiliation": "",
+    "ror": ""
+  },
+  "bento_antonio": {
+    "prefix": "",
+    "lastName": "Bento",
+    "firstName": "Antonio",
+    "articles": [
+      "bent_del_saya_rami.2026.IIaAfSMaCi3CP"
+    ],
+    "orcid": "0000-0001-8264-4771",
     "affiliation": "",
     "ror": ""
   },
@@ -10501,7 +10845,7 @@ window.AUTHORS_DATA = {
       "asaf_bent_amir_lari.2024.A3PPfDaMoMFCCCaIVfaPTB",
       "meyu_lari_bent_magd.2025.MfEBFiMMAMaaAS"
     ],
-    "orcid": "0000-0001-0991-5471",
+    "orcid": "0000-0001-9091-5471",
     "affiliation": "",
     "ror": ""
   },
@@ -10560,9 +10904,10 @@ window.AUTHORS_DATA = {
     "firstName": "Tarun",
     "articles": [
       "khan_bhat_dogr_shar.2021.3PRfCC",
-      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB"
+      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB",
+      "kaur_goya_kwat_bera.2026.PoS3PBMStCICE"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-2201-3609",
     "affiliation": "",
     "ror": ""
   },
@@ -10571,7 +10916,6 @@ window.AUTHORS_DATA = {
     "lastName": "Beran",
     "firstName": "Leoš",
     "articles": [
-      "kajz_bera_zada.2017.DoaRASfDoACM",
       "voji_mysl_petr_brou.2021.ANWtDSfIA",
       "kajz_brou_petr_bera.2021.NDoPBRCSfCPiBC",
       "brou_petr_bera_mysl.2022.RADDaCfPCM"
@@ -10591,6 +10935,17 @@ window.AUTHORS_DATA = {
       "sari_bera_tasw_saro.2025.WBSaCPFfaH3PMB"
     ],
     "orcid": "0000-0002-4781-7494",
+    "affiliation": "",
+    "ror": ""
+  },
+  "berdikul_nazerke": {
+    "prefix": "",
+    "lastName": "Berdikul",
+    "firstName": "Nazerke",
+    "articles": [
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
+    ],
+    "orcid": "0000-0001-6233-109X",
     "affiliation": "",
     "ror": ""
   },
@@ -10658,7 +11013,8 @@ window.AUTHORS_DATA = {
     "firstName": "Susan",
     "articles": [
       "rusi_sata_mars_cava.2022.AEAPoULCCfEB3P",
-      "hass_bern_raza_kamm.2024.FAo3PoPCSSBM"
+      "hass_bern_raza_kamm.2024.FAo3PoPCSSBM",
+      "nasc_zahn_beli_su.2026.RC"
     ],
     "orcid": "0000-0002-9647-3106",
     "affiliation": "",
@@ -10834,7 +11190,8 @@ window.AUTHORS_DATA = {
       "iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP",
       "iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML",
       "iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX",
-      "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC"
+      "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC",
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
     ],
     "orcid": "0000-0001-7192-0953",
     "affiliation": "",
@@ -10862,7 +11219,8 @@ window.AUTHORS_DATA = {
       "keit_bess_zuo_beli.2019.WBSBSLiEBAM",
       "rous_bess_kawa_marc.2019.RAoYSaEoFCBM",
       "duco_mesn_carn_demo.2021.TSTfEBAM",
-      "geff_bess_rous_cous.2023.PbYSFS"
+      "geff_bess_rous_cous.2023.PbYSFS",
+      "mahm_bess_wang_khay.2026.V"
     ],
     "orcid": "0000-0002-1783-5448",
     "affiliation": "",
@@ -11027,17 +11385,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "bhandari_sunil": {
-    "prefix": "",
-    "lastName": "Bhandari",
-    "firstName": "Sunil",
-    "articles": [
-      "schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC"
-    ],
-    "orcid": "0000-0002-2748-3095",
-    "affiliation": "",
-    "ror": ""
-  },
   "bhardwaj_abhinav": {
     "prefix": "",
     "lastName": "Bhardwaj",
@@ -11148,9 +11495,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "bhat_sahu.2025.RIaIo3PitBaCS",
       "bhow_bhat_sahu.2025.ACAoMPaSAi3CP",
-      "bhow_bhat_sahu.2026.3CP"
+      "bhow_bhat_sahu.2026.3CP",
+      "bhat_sahu.2026.RDi3PfSC"
     ],
-    "orcid": "",
+    "orcid": "0009-0006-6123-729X",
     "affiliation": "",
     "ror": ""
   },
@@ -11205,13 +11553,14 @@ window.AUTHORS_DATA = {
     "firstName": "Shajay",
     "articles": [
       "bhoo_mele_bloc.2018.EASDfCP",
-      "bhoo_ladi_mele_bloc.2019.FRfR3PC",
+      "bhoo_mege_mele_bloc.2019.FRfR3PC",
       "bhoo_mele_bloc.2020.MS",
       "bhoo_bhoo_dell_chu.2022.TSB",
       "bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC",
       "bhoo_dell_rana_mele.2024.UCMfCC",
       "dell_bode_mele_bloc.2024.S20P",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -11225,7 +11574,8 @@ window.AUTHORS_DATA = {
       "bhoo_bhoo_dell_chu.2022.TSB",
       "bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC",
       "dell_bode_mele_bloc.2024.S20P",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "0000-0003-4160-3898",
     "affiliation": "",
@@ -11413,6 +11763,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "bickel_bernd": {
+    "prefix": "",
+    "lastName": "Bickel",
+    "firstName": "Bernd",
+    "articles": [
+      "mahm_bisc_wang_bick.2026.ADTDfCPEDaT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "bidoia_joao": {
     "prefix": "",
     "lastName": "Bidoia",
@@ -11443,7 +11804,8 @@ window.AUTHORS_DATA = {
       "curb_hegg_biel_schm.2023.NPoCRCS",
       "enge_biel_cla.2026.MECRCFS",
       "zhan_oles_made_shar.2026.IASWaSSRi3CPfRFoRCS",
-      "mech_muth_ivan_weng.2026.CPwTR"
+      "mech_muth_ivan_weng.2026.CPwTR",
+      "mull_biel_cla.2026.RFMfOLSwFCVF"
     ],
     "orcid": "0000-0002-3219-655X",
     "affiliation": "",
@@ -11494,7 +11856,7 @@ window.AUTHORS_DATA = {
       "afar_mose_garb_esfa.2022.PFMfAMoCBM",
       "moha_bier.2022.2SCPoCBP",
       "onan_bier.2023.AtRoCHBBa3PM",
-      "sala_bier.2023.2SCPoCBPwTDR",
+      "moha_bier.2023.2SCPoCBPwTDR",
       "bier.2025.SoAMCBH"
     ],
     "orcid": "0000-0002-9360-8431",
@@ -11694,6 +12056,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "biradar_sangmesh": {
+    "prefix": "",
+    "lastName": "Biradar",
+    "firstName": "Sangmesh",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "birdal_furkan": {
+    "prefix": "",
+    "lastName": "Birdal",
+    "firstName": "Furkan",
+    "articles": [
+      "bird_dilb.2026.DoSTIaLBMaMIWEv3PF"
+    ],
+    "orcid": "0000-0002-2243-418X",
+    "affiliation": "",
+    "ror": ""
+  },
   "birgisson_bjorn": {
     "prefix": "",
     "lastName": "Birgisson",
@@ -11792,14 +12176,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "bischof_rafael": {
+    "prefix": "",
+    "lastName": "Bischof",
+    "firstName": "Rafael",
+    "articles": [
+      "mahm_bisc_wang_bick.2026.ADTDfCPEDaT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "bischoff_adam": {
     "prefix": "",
     "lastName": "Bischoff",
     "firstName": "Adam",
     "articles": [
-      "gons_morg_thie_olar.2025.3PoSIURSCCwBA"
+      "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
-    "orcid": "",
+    "orcid": "0009-0001-8155-6574",
     "affiliation": "",
     "ror": ""
   },
@@ -11835,6 +12231,17 @@ window.AUTHORS_DATA = {
     "firstName": "Dawe",
     "articles": [
       "biss_perr_guih_paqu.2027.TPMoMPi3PEM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "biswal_uma": {
+    "prefix": "",
+    "lastName": "Biswal",
+    "firstName": "Uma",
+    "articles": [
+      "mand_hari_bisw_pand.2026.TS3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -11973,7 +12380,8 @@ window.AUTHORS_DATA = {
       "hauf_cast_stra_nigl.2024.ADDPfBoVFfAiFGC",
       "kova_hauf_mill_geri.2025.LaSCwC",
       "kova_nist_verl_blan.2026.3PRSF",
-      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC"
+      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC",
+      "blan_kova_neth_shah.2026.SMS"
     ],
     "orcid": "0000-0002-4592-6347",
     "affiliation": "",
@@ -12058,7 +12466,7 @@ window.AUTHORS_DATA = {
       "liew_lope_mele_bloc.2017.DFaToaPTVUCF",
       "bhoo_mele_bloc.2018.EASDfCP",
       "ripp_liew_mele_bloc.2018.DFaToD3SPFP",
-      "bhoo_ladi_mele_bloc.2019.FRfR3PC",
+      "bhoo_mege_mele_bloc.2019.FRfR3PC",
       "jipa_calv_lydo_ripp.2019.3PFfIFCS",
       "lee_mata_pope_bloc.2020.PAfRCCSwIFF",
       "bhoo_mele_bloc.2020.MS",
@@ -12072,7 +12480,8 @@ window.AUTHORS_DATA = {
       "dell_bode_mele_bloc.2024.S20P",
       "bode_dell_alou_burg.2024.P3CPB",
       "nana_dell_bhoo_zhou.2024.DCC",
-      "silv_honi_slav_bloc.2026.AMfCC"
+      "silv_honi_slav_bloc.2026.AMfCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "0000-0003-2355-0614",
     "affiliation": "",
@@ -12283,7 +12692,9 @@ window.AUTHORS_DATA = {
       "vasi_uday_bohl_mai.2024.ANMfSPB3P",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "bohl_freu_lowk.2026.EoMaPPoCBoS3PE"
     ],
     "orcid": "0000-0003-4621-0612",
     "affiliation": "",
@@ -12454,6 +12865,28 @@ window.AUTHORS_DATA = {
       "borg_cand.2026.FFLtFL"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "borges_paulo_h-r": {
+    "prefix": "",
+    "lastName": "Borges",
+    "firstName": "Paulo",
+    "articles": [
+      "borg_silv_lemo.2026.LC3BoAAMaGMW"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "borges_paulo_henrique-ribeiro": {
+    "prefix": "",
+    "lastName": "Borges",
+    "firstName": "Paulo",
+    "articles": [
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
+    ],
+    "orcid": "0000-0002-4072-6557",
     "affiliation": "",
     "ror": ""
   },
@@ -12650,11 +13083,16 @@ window.AUTHORS_DATA = {
       "auer_hard_bos_esse.2026.DoaCDPCfaAMBDtIAMUCPS",
       "jamh_busw_blan_robe.2026.APGNNMtEACSo3PC",
       "olab_fisc_bos.2026.IABPaCC",
-      "monk_busw_bos.2026.TPtLC3PC"
+      "monk_busw_bos.2026.TPtLC3PC",
+      "bos_chen_grim_unte.2026.FGTNNBAMT",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "grim_unte_chen_bos.2026.TS3CP",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P"
     ],
     "orcid": "0000-0002-6666-2395",
-    "affiliation": "Technical University of Munich",
-    "ror": "02kkvpp62"
+    "affiliation": "",
+    "ror": ""
   },
   "bosbach_sven": {
     "prefix": "",
@@ -12794,6 +13232,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "bournas_dionysios": {
+    "prefix": "",
+    "lastName": "Bournas",
+    "firstName": "Dionysios",
+    "articles": [
+      "ross_bare_bour.2027.RfOSC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "bourquin_vincent": {
     "prefix": "",
     "lastName": "Bourquin",
@@ -12922,6 +13371,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "brad_stelian": {
+    "prefix": "",
+    "lastName": "Brad",
+    "firstName": "Stelian",
+    "articles": [
+      "brad_deeb.2026.SBEoLRfCSR3PiCA"
+    ],
+    "orcid": "0000-0003-1129-3358",
+    "affiliation": "",
+    "ror": ""
+  },
   "bradford_katy": {
     "prefix": "",
     "lastName": "Bradford",
@@ -13004,7 +13464,9 @@ window.AUTHORS_DATA = {
       "chie_bran_figu_cruz.2026.MPw3CP",
       "gonz_chie_bran_cruz.2026.3iOSC",
       "aros_reis_puga_bran.2026.HAS3CPvUREfICF",
-      "bran_ribe_aros_figu.2026.GRFfERRaP"
+      "bran_ribe_aros_figu.2026.GRFfERRaP",
+      "aros_reis_ribe_bran.2026.HRFoCM",
+      "cruz_figu_bran.2026.DfAM"
     ],
     "orcid": "0000-0002-3378-0176",
     "affiliation": "",
@@ -13086,7 +13548,8 @@ window.AUTHORS_DATA = {
       "bres_haji_nabo.2024.3",
       "varg_west_bres_silf.2025.DoPSi3CPUPPP",
       "varg_bres_silf.2025.CHF",
-      "bres.2026.3CPitGS"
+      "bres.2026.3CPitGS",
+      "varg_bres.2026.FG3PCF"
     ],
     "orcid": "0000-0001-5063-4595",
     "affiliation": "",
@@ -13108,9 +13571,10 @@ window.AUTHORS_DATA = {
     "lastName": "Brevis",
     "firstName": "Wernher",
     "articles": [
-      "euge_nava_brev_lope.2022.ABaaAfPC"
+      "euge_nava_brev_lope.2022.ABaaAfPC",
+      "euge_ishi_brev_nava.2026.PSDaEPoMTBMf3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-8161-4677",
     "affiliation": "",
     "ror": ""
   },
@@ -13123,7 +13587,8 @@ window.AUTHORS_DATA = {
       "brie_koll_leit_matt.2022.TOoAMLCWEwICSTSaM",
       "brie_renz_noum_stra.2023.MAF",
       "flec_knyc_brie_bagh.2024.BA",
-      "krak_brie_stra_kran.2024.FHLCC"
+      "krak_brie_stra_kran.2024.FHLCC",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0003-2537-9267",
     "affiliation": "",
@@ -13265,7 +13730,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "broo_zhou.2021.D3PLFCC",
       "broo_he_farz_seyf.2022.IPETESi3PCC",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -13344,7 +13809,8 @@ window.AUTHORS_DATA = {
       "duar_duar_brow_mema.2024.DfEASPo3PCS",
       "duar_brow_duar.2024.WfGSaOFaTPi3CPoV",
       "zarg_leic_wagn_duar.2025.BTaE",
-      "alhu_duar_brow.2025.SGCGf3CPBE"
+      "alhu_duar_brow.2025.SGCGf3CPBE",
+      "alhu_fakh_duar_brow.2026.T"
     ],
     "orcid": "0000-0002-7585-652X",
     "affiliation": "",
@@ -13537,7 +14003,8 @@ window.AUTHORS_DATA = {
       "zhan_sun_bu_lu.2025.RT3U",
       "bu_zhan_wu_xia.2025.IPo3PEIbBBS",
       "xia_bu_zhan_xie.2026.CPMi3PEwaBBS",
-      "bu_xia_zhan_pi.2026.PAPM3PU"
+      "bu_xia_zhan_pi.2026.PAPM3PU",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "0009-0001-0686-1616",
     "affiliation": "",
@@ -13619,7 +14086,7 @@ window.AUTHORS_DATA = {
     "lastName": "Bui",
     "firstName": "Bien",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS"
+      "loan_nguy_trin_nguy.2022.Do3PfCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -13665,7 +14132,7 @@ window.AUTHORS_DATA = {
     "lastName": "Bui",
     "firstName": "Van-Bien",
     "articles": [
-      "bui_pham_pham_do.2023.AEoSaSFTf3CPwtKv"
+      "bui_loan_pham_do.2023.AEoSaSFTf3CPwtKv"
     ],
     "orcid": "",
     "affiliation": "",
@@ -13679,6 +14146,17 @@ window.AUTHORS_DATA = {
       "fahi_bukh_mora.2025.AMoCTCSwCN"
     ],
     "orcid": "0000-0002-8318-8146",
+    "affiliation": "",
+    "ror": ""
+  },
+  "bukit_minsyahril": {
+    "prefix": "",
+    "lastName": "Bukit",
+    "firstName": "Minsyahril",
+    "articles": [
+      "buki_pamu.2026.CAoHBPSoPDi3CPNUO"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -13742,7 +14220,8 @@ window.AUTHORS_DATA = {
       "yeak_cour_garn_bult.2024.MPaFaTBo3PCCRFAfCaDW",
       "yeak_cour_bult_remo.2024.IoNDotAoCS",
       "tale_bult_mont_roud.2024.IoTHCotIBi3PC",
-      "thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS"
+      "thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS",
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
     ],
     "orcid": "0000-0002-3758-7285",
     "affiliation": "",
@@ -13759,7 +14238,7 @@ window.AUTHORS_DATA = {
       "sahm_buma_sink_slos.2026.TGCPCf3P",
       "sapa_lesc_alza_vaid.2026.EoCFaCRCAoCPa3P"
     ],
-    "orcid": "Būmanis, Ģirts",
+    "orcid": "0000-0002-6617-0120",
     "affiliation": "",
     "ror": ""
   },
@@ -13787,7 +14266,7 @@ window.AUTHORS_DATA = {
     "lastName": "Bunster",
     "firstName": "Victor",
     "articles": [
-      "garc_garc_buns_muno.2025.AC40"
+      "garc_buns_muno.2025.AC40"
     ],
     "orcid": "0000-0002-7665-4567",
     "affiliation": "",
@@ -13810,7 +14289,8 @@ window.AUTHORS_DATA = {
     "firstName": "Vladislav",
     "articles": [
       "cite_hurt_bure_kote.2024.CMDfAF",
-      "ryme_cerv_jend_bure.2024.I3MaNLNSiCAM"
+      "ryme_cerv_jend_bure.2024.I3MaNLNSiCAM",
+      "stok_bure_melt_cite.2026.3PGCTB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -13825,7 +14305,6 @@ window.AUTHORS_DATA = {
       "llor_wang_gebh_mata.2020.FSDCtaGFoDCS",
       "burg_llor_taha_scot.2020.DaFoaNSSCCUE",
       "gebh_mata_anto_burg.2020.AILFRaPTaaRSfDF",
-      "burg_wang_chiu_tech.2021.MIFG",
       "gebh_burg_mata_llor.2022.TECSwUT3PF",
       "llor_quad_scot_fuhr.2022.ADC",
       "bisc_mata_burg_kauf.2022.DFKCC",
@@ -13928,7 +14407,7 @@ window.AUTHORS_DATA = {
       "rush_chaa_eick_burr.2017.IoCMfAC",
       "burr_john_chaa_bank.2018.ACwC",
       "rush_styn_barn_chaa.2019.IoCMfAC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC"
+      "goma_iriz_ahme_marr.2024.3PoUHPC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -14068,11 +14547,13 @@ window.AUTHORS_DATA = {
       "hamz_busw_mojt_whyt.2026.IoFPaMCoSRaSCoFo3M",
       "jamh_busw_blan.2026.ADAo3CPUEML",
       "busw_jamh_moha_soko.2026.FtF",
-      "monk_busw_bos.2026.TPtLC3PC"
+      "monk_busw_bos.2026.TPtLC3PC",
+      "habi_osma_busw.2027.BaEtCEIi3CP",
+      "sada_busw_cava_bart.2026.NIoAiHP3PCUC"
     ],
     "orcid": "0000-0003-0613-9516",
-    "affiliation": "Loughborough University",
-    "ror": "04vg4w365"
+    "affiliation": "",
+    "ror": ""
   },
   "butakova_m": {
     "prefix": "",
@@ -14124,6 +14605,17 @@ window.AUTHORS_DATA = {
     "firstName": "Shahid",
     "articles": [
       "chan_asla_bhut_butt.2026.HASfS3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "buvaneshwaran_k": {
+    "prefix": "",
+    "lastName": "Buvaneshwaran",
+    "firstName": "K.",
+    "articles": [
+      "gaya_kali_ambi_sent.2026.Oo3CPPURSMR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -14188,7 +14680,7 @@ window.AUTHORS_DATA = {
       "arau_mart_cabr_dant.2022.TPoCLCf3P",
       "dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P",
       "nobr_quei_souz_cabr.2024.CMfSEAUCCi3P",
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P"
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P"
     ],
     "orcid": "0000-0001-7502-3002",
     "affiliation": "",
@@ -14202,6 +14694,17 @@ window.AUTHORS_DATA = {
       "tish_gan_cabr_bech.2024.TaDV"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "cabrerizo_reine-karam": {
+    "prefix": "",
+    "lastName": "Cabrerizo",
+    "firstName": "Reine Karam",
+    "articles": [
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
+    ],
+    "orcid": "0000-0001-6695-3996",
     "affiliation": "",
     "ror": ""
   },
@@ -14297,6 +14800,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "cai_gaochuang": {
+    "prefix": "",
+    "lastName": "Cai",
+    "firstName": "Gaochuang",
+    "articles": [
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET"
+    ],
+    "orcid": "0000-0003-2847-0699",
+    "affiliation": "",
+    "ror": ""
+  },
   "cai_huachong": {
     "prefix": "",
     "lastName": "Cai",
@@ -14334,7 +14848,8 @@ window.AUTHORS_DATA = {
       "shen_zhu_cai_han.2024.IoWGPoPaMPo3PGC",
       "chen_guan_zhu_han.2025.IoESSaDotMPaPCo3PGC",
       "shen_ding_zhu_cai.2026.BPoTIi3PAAC",
-      "bu_xia_zhan_pi.2026.PAPM3PU"
+      "bu_xia_zhan_pi.2026.PAPM3PU",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "0000-0003-2453-582X",
     "affiliation": "",
@@ -14425,7 +14940,8 @@ window.AUTHORS_DATA = {
     "lastName": "Cai",
     "firstName": "Xueyang",
     "articles": [
-      "sun_cai.2026.RotPaPo3PRBFC"
+      "sun_cai.2026.RotPaPo3PRBFC",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -14475,6 +14991,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "cajamarca-zuniga_david": {
+    "prefix": "",
+    "lastName": "Cajamarca-Zuniga",
+    "firstName": "David",
+    "articles": [
+      "kaba_caja_karl.2026.TITRIi3PC"
+    ],
+    "orcid": "0000-0001-8796-4635",
+    "affiliation": "",
+    "ror": ""
+  },
   "cala_adriana": {
     "prefix": "",
     "lastName": "Calà",
@@ -14506,7 +15033,8 @@ window.AUTHORS_DATA = {
       "sove_cala.2024.IoPPotTPo3PCS",
       "sove_cala.2024.DCaPEoaSS3PfARiAMiC",
       "sove_cala.2024.TaEEi3PB",
-      "sove_cala.2024.EotPPoTPo3PS"
+      "sove_cala.2024.EotPPoTPo3PS",
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
     "orcid": "0000-0001-7046-3308",
     "affiliation": "",
@@ -14578,7 +15106,7 @@ window.AUTHORS_DATA = {
     "lastName": "Callaghan",
     "firstName": "Carl",
     "articles": [
-      "benr_hash_yuns_call.2025.RMH"
+      "dor_hash_yuns_call.2025.RMH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -14654,7 +15182,8 @@ window.AUTHORS_DATA = {
       "barb_anjo_maia_camo.2024.EoEPotPo3M",
       "aros_reis_bran_figu.2026.AOMPaDToR3PCMwFaMR",
       "reis_aros_bran_camo.2026.ASRotDo3PCM",
-      "reis_aros_camo_bran.2026.CaCAi3PCM"
+      "reis_aros_camo_bran.2026.CaCAi3PCM",
+      "eire_camo_mart_malh.2026.TCUM"
     ],
     "orcid": "0000-0002-9677-3627",
     "affiliation": "",
@@ -14750,8 +15279,9 @@ window.AUTHORS_DATA = {
       "zuo_cane_keit_aime.2024.DIDiEFCBMaVEA",
       "titt_moha_savi_keit.2024.OtMaMSaDo3PCE",
       "keit_zuo_cane_aime.2024.XRTIiEDEi3CP",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
-      "cane_hass_demo_keit.2026.FPToPCwaPD"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "cane_hass_demo_keit.2026.FPToPCwaPD",
+      "kuzm_monk_mesn_duco.2026.CCCo3PT"
     ],
     "orcid": "0000-0002-6423-9876",
     "affiliation": "",
@@ -15057,31 +15587,10 @@ window.AUTHORS_DATA = {
       "cao_yu_cui.2023.ESotISRSTtR3PCiVD",
       "cao_wu_cui.2025.ESoISMFfR3PC",
       "cao_cui.2025.SFNPTtR3PC",
-      "fang_zhan_yuan_zhan.2026.EtPaMSo3PGTLASHSR"
-    ],
-    "orcid": "0000-0002-6179-2852",
-    "affiliation": "",
-    "ror": ""
-  },
-  "cao_xianpeng": {
-    "prefix": "",
-    "lastName": "Cao",
-    "firstName": "Xianpeng",
-    "articles": [
+      "fang_zhan_yuan_zhan.2026.EtPaMSo3PGTLASHSR",
       "cao_cao_wu_fang.2026.ORPoFCMTIC"
     ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "cao_xiaoxiao": {
-    "prefix": "",
-    "lastName": "Cao",
-    "firstName": "Xiaoxiao",
-    "articles": [
-      "hu_cao_zhan_chen.2022.TDPMfCIPoHB"
-    ],
-    "orcid": "0000-0002-8461-9497",
+    "orcid": "0000-0002-6179-2852",
     "affiliation": "",
     "ror": ""
   },
@@ -15229,7 +15738,8 @@ window.AUTHORS_DATA = {
     "firstName": "Carlo",
     "articles": [
       "carb_moha.2024.FAtD",
-      "moha_ahma_carb.2025.3PAitGHM"
+      "moha_ahma_carb.2025.3PAitGHM",
+      "moha_ahma_carb.2026.AMitGHS"
     ],
     "orcid": "0000-0002-8964-0076",
     "affiliation": "",
@@ -15386,7 +15896,7 @@ window.AUTHORS_DATA = {
     "lastName": "Carlos",
     "firstName": "Rivera-Gómez",
     "articles": [
-      "adri_edua_jose_carl.2026.B3PaPEC"
+      "jime_diz_pere_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -15411,17 +15921,6 @@ window.AUTHORS_DATA = {
     "firstName": "Nicholas",
     "articles": [
       "cohe_carl.2020.PaP"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "carmen_galan-marin": {
-    "prefix": "",
-    "lastName": "Carmen",
-    "firstName": "Galán-Marín",
-    "articles": [
-      "adri_edua_jose_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -15551,7 +16050,10 @@ window.AUTHORS_DATA = {
       "mesn_bono_duco_caro.2026.Do3PSwCFR",
       "phet_pham_pier_caro.2026.3PCF",
       "sepi_pier_bono_duco.2026.TWT",
-      "mech_muth_ivan_weng.2026.CPwTR"
+      "mech_muth_ivan_weng.2026.CPwTR",
+      "demo_mesn_ohno_ishi.2026.MYSSoF3PMwDPSVT",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0001-8625-6784",
     "affiliation": "",
@@ -15620,6 +16122,17 @@ window.AUTHORS_DATA = {
     "firstName": "Patricio",
     "articles": [
       "band_geor_carr_sori.2025.DfACTDP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "carrasco_carlos": {
+    "prefix": "",
+    "lastName": "Carrasco",
+    "firstName": "Carlos",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -15805,7 +16318,8 @@ window.AUTHORS_DATA = {
       "sael_titt_casp_wan.2025.EAotSBoHC3PCBS",
       "sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO",
       "sael_wan_casp_titt.2026.Ao3PCSaEfaWDOCaTCCM",
-      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB"
+      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB",
+      "sael_wan_casp_titt.2026.FBToH3PCCIwDBIS"
     ],
     "orcid": "0000-0003-4074-7478",
     "affiliation": "",
@@ -15891,17 +16405,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "castrillon-fernandez_letitia": {
-    "prefix": "",
-    "lastName": "Castrillon Fernandez",
-    "firstName": "Letitia",
-    "articles": [
-      "cava_cast_tole_mend.2024.3PMwDRCPaF"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "castro-chincho_ana": {
     "prefix": "",
     "lastName": "Castro-Chincho",
@@ -15963,6 +16466,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "castro_lina": {
+    "prefix": "",
+    "lastName": "Castro",
+    "firstName": "Lina",
+    "articles": [
+      "cast_gome_garc.2026.RSf3PS"
+    ],
+    "orcid": "0009-0000-2739-0422",
+    "affiliation": "",
+    "ror": ""
+  },
   "castro_raul": {
     "prefix": "",
     "lastName": "Castro",
@@ -16012,7 +16526,8 @@ window.AUTHORS_DATA = {
       "liu_xu_dobr_kola.2025.FAtFPoR3PCB",
       "liu_busw_cava_xu.2026.IoIFVotFMaCSo3PC",
       "liu_dobr_xu_kola.2026.PMfGUi3PCE",
-      "akhb_kinn_whyt_glea.2026.AaMIITftCoCSE"
+      "akhb_kinn_whyt_glea.2026.AaMIITftCoCSE",
+      "sada_busw_cava_bart.2026.NIoAiHP3PCUC"
     ],
     "orcid": "0000-0002-9368-0898",
     "affiliation": "",
@@ -16024,10 +16539,10 @@ window.AUTHORS_DATA = {
     "firstName": "Tiago",
     "articles": [
       "cava_tole_mend.2024.IoRCPoRoPCBM",
-      "cava_cast_tole_mend.2024.3PMwDRCPaF",
+      "cava_fern_tole_mend.2024.3PMwDRCPaF",
       "tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA",
       "cava_tole_mend.2025.RaEIoRCPaFiC3P",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
     ],
     "orcid": "0009-0002-2308-5505",
     "affiliation": "",
@@ -16050,6 +16565,17 @@ window.AUTHORS_DATA = {
     "firstName": "Alejandro",
     "articles": [
       "duar_bair_fuen_subi.2026.IoSCotLLCoa3PCH"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "cavdur_fatih": {
+    "prefix": "",
+    "lastName": "Cavdur",
+    "firstName": "Fatih",
+    "articles": [
+      "taba_kaya_mard_mard.2026.IELfPFaCSo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -16129,6 +16655,18 @@ window.AUTHORS_DATA = {
       "siko_fede_skib_tech.2025.Do3PCCFRCAaRCP"
     ],
     "orcid": "0000-0002-7913-6300",
+    "affiliation": "",
+    "ror": ""
+  },
+  "cepeda_antonio": {
+    "prefix": "",
+    "lastName": "Cepeda",
+    "firstName": "Antonio",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -16284,7 +16822,8 @@ window.AUTHORS_DATA = {
       "assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM",
       "vase_chad_kang_leun.2024.IP",
       "chad_vase_gram_kohl.2025.ART",
-      "benz_nguy_chad_viso.2026.VESFLfEFMiRAM"
+      "benz_nguy_chad_viso.2026.VESFLfEFMiRAM",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
     "orcid": "0000-0002-1438-1743",
     "affiliation": "",
@@ -16329,6 +16868,17 @@ window.AUTHORS_DATA = {
     "firstName": "Mohammed",
     "articles": [
       "nadi_majd_hadd_bili.2025.DFPfCMUTD3PT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chahrour_adel": {
+    "prefix": "",
+    "lastName": "Chahrour",
+    "firstName": "Adel",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -16382,7 +16932,8 @@ window.AUTHORS_DATA = {
     "lastName": "Chaiyapoom",
     "firstName": "Phattarakamon",
     "articles": [
-      "jong_chai_jira_meem.2024.TS3PPPVCBiT"
+      "jong_chai_jira_meem.2024.TS3PPPVCBiT",
+      "jira_sngu_jong_chai.2026.SBCU3PFwHCfUCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -16497,8 +17048,10 @@ window.AUTHORS_DATA = {
     "lastName": "Chan",
     "firstName": "Li-Jing",
     "articles": [
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -16686,6 +17239,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "chang_shuang": {
+    "prefix": "",
+    "lastName": "Chang",
+    "firstName": "Shuang",
+    "articles": [
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "chang_ze": {
     "prefix": "",
     "lastName": "Chang",
@@ -16736,6 +17300,28 @@ window.AUTHORS_DATA = {
     "articles": [
       "esna_laby_chan_tous.2019.EiOLMoRaSAo3PM",
       "muni_chan_vint_fabr.2021.CHM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chao_zeyu": {
+    "prefix": "",
+    "lastName": "Chao",
+    "firstName": "Zeyu",
+    "articles": [
+      "chao_feng_han_wang.2026.STHHRo3PERM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chao_zhiming": {
+    "prefix": "",
+    "lastName": "Chao",
+    "firstName": "Zhiming",
+    "articles": [
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU"
     ],
     "orcid": "",
     "affiliation": "",
@@ -16811,17 +17397,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "chatroudi_narges": {
-    "prefix": "",
-    "lastName": "Chatroudi",
-    "firstName": "Narges",
-    "articles": [
-      "eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "chau_bao": {
     "prefix": "",
     "lastName": "Chau",
@@ -16844,13 +17419,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "chaudhari_hitesh": {
+    "prefix": "",
+    "lastName": "Chaudhari",
+    "firstName": "Hitesh",
+    "articles": [
+      "chau_mohi_sakh.2026.3CPfWM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "chaudhari_ojas": {
     "prefix": "",
     "lastName": "Chaudhari",
     "firstName": "Ojas",
     "articles": [
       "chau_joha_haag_sjol.2024.3PSaIfCPIiS",
-      "koro_jent_chau_wojc.2025.EIoCBUBMw3APT"
+      "koro_jent_chau_wojc.2025.EIoCBUBMw3APT",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM"
     ],
     "orcid": "0000-0002-4182-5653",
     "affiliation": "",
@@ -16939,12 +17526,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "chee-loong_chin": {
+  "chee-long_chin": {
     "prefix": "",
-    "lastName": "Chee-Loong",
+    "lastName": "Chee-Long",
     "firstName": "Chin",
     "articles": [
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE"
     ],
     "orcid": "0000-0003-4617-0702",
     "affiliation": "",
@@ -17080,7 +17669,8 @@ window.AUTHORS_DATA = {
       "liu_ma_liu_dai.2026.SiCAM",
       "chen_wang_zhou_jian.2026.UPiRBPo3PCvGAEL",
       "zhan_gan_chen_chen.2026.PaMPo3PGCwBCTASaST",
-      "guo_chen_lyu_bao.2026.PaGSAf3CP"
+      "guo_chen_lyu_bao.2026.PaGSAf3CP",
+      "chen_yang_tan_jian.2026.TLDDIoMUi3CPPUMSHO"
     ],
     "orcid": "0000-0002-9503-2851",
     "affiliation": "",
@@ -17133,7 +17723,8 @@ window.AUTHORS_DATA = {
       "sun_zhao_hou_li.2025.RCoCPbISPf3PA",
       "jin_jian_gan_sun.2025.EtPo3PWCMwA",
       "xu_sun_sun_chen.2025.RRMbAICfISP",
-      "jin_sun_chen_zhou.2026.PtPoCCi3P"
+      "jin_sun_chen_zhou.2026.PtPoCCi3P",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -17189,7 +17780,8 @@ window.AUTHORS_DATA = {
       "liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P",
       "zhan_jia_luo_deng.2022.PaPSo3PLCCURCBPwVPF",
       "liu_zhan_jia_cao.2024.QCoBSoFCTEP",
-      "liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP"
+      "liu_bant_shi_jia.2024.EASMaQSoWLKo3PFCMwSP",
+      "chen_hua_xu_fu.2026.EoPSCPCFotRaHTBo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -17212,7 +17804,8 @@ window.AUTHORS_DATA = {
     "firstName": "Chunhong",
     "articles": [
       "chen_lu_gao_chen.2026.PaMPo3PCWMRwMCF",
-      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM"
+      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM",
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
     ],
     "orcid": "0000-0001-6796-0880",
     "affiliation": "",
@@ -17352,14 +17945,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "chen_h": {
+  "chen_hai-tao": {
     "prefix": "",
     "lastName": "Chen",
-    "firstName": "H.",
+    "firstName": "Hai-Tao",
     "articles": [
-      "dela_chen_side.2024.AaDo3PRCWUIPQSL",
-      "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
-      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
+      "guo_chen_rui_liu.2026.TC3PoHDCCwCPPfCoPCCP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -17386,9 +17977,12 @@ window.AUTHORS_DATA = {
       "dela_chen_side.2022.Do3PCWUIPSL",
       "chen_zhan_chen_li.2023.ARotESDfLSEB3CP",
       "dela_chen_side.2023.SDMf3PCB",
+      "dela_chen_side.2024.AaDo3PRCWUIPQSL",
       "he_chen_liu_chen.2024.AQEDoIVaIEotILSo3PC",
       "meib_lin_chen.2024.HAT3CPfLRCS",
-      "he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP"
+      "he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP",
+      "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
+      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
     ],
     "orcid": "0000-0003-0520-6190",
     "affiliation": "",
@@ -17491,6 +18085,17 @@ window.AUTHORS_DATA = {
       "yang_gao_chen_jiao.2024.3PCTfaRP",
       "liu_sun_chen_liu.2025.3PCwRMI",
       "he_hao_chen_wang.2026.HWaMR3PCMFbTAICaPE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chen_j": {
+    "prefix": "",
+    "lastName": "Chen",
+    "firstName": "J.",
+    "articles": [
+      "chen_ng_jian_wang.2026.SFSoRf3PCwSZ"
     ],
     "orcid": "",
     "affiliation": "",
@@ -17695,6 +18300,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "chen_kangming": {
+    "prefix": "",
+    "lastName": "Chen",
+    "firstName": "Kangming",
+    "articles": [
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chen_kesheng": {
+    "prefix": "",
+    "lastName": "Chen",
+    "firstName": "Kesheng",
+    "articles": [
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
+    ],
+    "orcid": "0009-0002-9030-5598",
+    "affiliation": "",
+    "ror": ""
+  },
   "chen_lingke": {
     "prefix": "",
     "lastName": "Chen",
@@ -17743,7 +18370,8 @@ window.AUTHORS_DATA = {
       "chen_chen_ge_zhan.2026.MBaDEo3PECCaET",
       "zhan_wei_chen_yu.2026.ECaTMotBBBFBa3PSHCC",
       "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC",
-      "wei_zhan_wang_chen.2026.RBaMDEo3PUHPCCCRA"
+      "wei_zhan_wang_chen.2026.RBaMDEo3PUHPCCCRA",
+      "zhan_xie_lu_chen.2026.RtDMIFBo3PUCRFAUST"
     ],
     "orcid": "",
     "affiliation": "",
@@ -17787,7 +18415,8 @@ window.AUTHORS_DATA = {
       "jin_jian_gan_sun.2025.EtPo3PWCMwA",
       "liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP",
       "jin_sun_chen_zhou.2026.PtPoCCi3P",
-      "wang_qu_wang_xu.2026.EoCSSPotRPaPo3PCC"
+      "wang_qu_wang_xu.2026.EoCSSPotRPaPo3PCC",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
     ],
     "orcid": "0000-0002-6339-8509",
     "affiliation": "",
@@ -17980,9 +18609,22 @@ window.AUTHORS_DATA = {
     "lastName": "Chen",
     "firstName": "Song-Gui",
     "articles": [
+      "wang_qiu_hu_chen.2023.IFoMPaMCoU3PC",
       "wang_qiu_chen_liu.2024.3CPiAaUW",
       "wang_qiu_chen_liu.2025.NSfERPaIBiU3CP",
       "wang_qiu_chen_liu.2025.Mo3CPBoSMwtHBPRM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chen_sule": {
+    "prefix": "",
+    "lastName": "Chen",
+    "firstName": "Sule",
+    "articles": [
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -18053,6 +18695,17 @@ window.AUTHORS_DATA = {
     "firstName": "Tingzhu",
     "articles": [
       "wang_hua_chen_he.2023.EoNCaPotBoUFDSB3PM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chen_wangkai": {
+    "prefix": "",
+    "lastName": "Chen",
+    "firstName": "Wangkai",
+    "articles": [
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -18134,7 +18787,8 @@ window.AUTHORS_DATA = {
       "chen_lian_ye_liu.2025.MLEPBDoTDPECC",
       "chen_yu_ye_yu.2026.3PHPFRCC",
       "chen_lian_li_yang.2026.SRo3PECC",
-      "chen_liu_lian_xue.2026.MLPIDf3PECC3E"
+      "chen_liu_lian_xue.2026.MLPIDf3PECC3E",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
     ],
     "orcid": "0009-0009-8254-8208",
     "affiliation": "",
@@ -18146,7 +18800,8 @@ window.AUTHORS_DATA = {
     "firstName": "Wensu",
     "articles": [
       "pokh_abou_mim_ahme.2026.UoOCSi3PC",
-      "wang_dema_kai_lai.2026.IRoN3PCCBUDWL"
+      "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
+      "west_abou_mim_ahme.2026.BRDaaSSCMf3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -18377,7 +19032,8 @@ window.AUTHORS_DATA = {
       "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S",
       "chen_zhan_quan_liu.2024.EATDMPo3PCwCA",
       "wang_zhan_wang_chen.2024.AMiCUUAV",
-      "liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP"
+      "liu_kong_chen_wang.2025.RaPCoLC3PCMvCUoRCP",
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
     ],
     "orcid": "0000-0003-3561-8057",
     "affiliation": "",
@@ -18451,7 +19107,9 @@ window.AUTHORS_DATA = {
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA",
       "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
       "tao_li_leem_muth.2026.APOPoMK3CP",
-      "zhan_song_liu_schl.2027.AREiGS3PCFGSMtBP"
+      "zhan_song_liu_schl.2027.AREiGS3PCFGSMtBP",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "zhan_zuo_chen_muth.2026.CDC2S"
     ],
     "orcid": "0000-0003-3399-9036",
     "affiliation": "",
@@ -18591,17 +19249,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "chen_zhenfu": {
-    "prefix": "",
-    "lastName": "Chen",
-    "firstName": "Zhenfu",
-    "articles": [
-      "hu_cao_zhan_chen.2022.TDPMfCIPoHB"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "chen_zheng": {
     "prefix": "",
     "lastName": "Chen",
@@ -18659,28 +19306,6 @@ window.AUTHORS_DATA = {
       "chen_yang_lan_yang.2026.EoIFRaFAi3PUHPC"
     ],
     "orcid": "0009-0001-6537-7461",
-    "affiliation": "",
-    "ror": ""
-  },
-  "chen_zhihua": {
-    "prefix": "",
-    "lastName": "Chen",
-    "firstName": "Zhihua",
-    "articles": [
-      "miao_guo_lu_chen.2022.3MSAoCCDDDDFTC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "chen_zhiqing": {
-    "prefix": "",
-    "lastName": "Chen",
-    "firstName": "Zhiqing",
-    "articles": [
-      "chen_li_luo_cui.2026.RaAoHPAABo3P"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -18792,7 +19417,7 @@ window.AUTHORS_DATA = {
     "lastName": "Cheng",
     "firstName": "Chi-Tsun",
     "articles": [
-      "li_liu_chen_xuan.2025.DaPo3PBSFRCCCB"
+      "li_liu_chen_nguy.2025.DaPo3PBSFRCCCB"
     ],
     "orcid": "0000-0003-3306-6148",
     "affiliation": "",
@@ -18887,20 +19512,14 @@ window.AUTHORS_DATA = {
       "liu_chen_sun_chen.2024.SCBiFMa3PBFB",
       "liu_chen_peng_chen.2024.TBaFPo3PRMRwSSCUDRR",
       "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
-      "liu_wang_xiao_chen.2026.3PMEwCSW"
+      "liu_wang_xiao_chen.2026.3PMEwCSW",
+      "bos_chen_grim_unte.2026.FGTNNBAMT",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "grim_unte_chen_bos.2026.TS3CP",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P"
     ],
     "orcid": "0009-0007-2979-6056",
-    "affiliation": "",
-    "ror": ""
-  },
-  "cheng_song-gui": {
-    "prefix": "",
-    "lastName": "Cheng",
-    "firstName": "Song-Gui",
-    "articles": [
-      "wang_qiu_hu_chen.2023.IFoMPaMCoU3PC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -19289,26 +19908,27 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "chiew_singh-mei": {
+  "chiew_shing": {
     "prefix": "",
     "lastName": "Chiew",
-    "firstName": "Singh-Mei",
+    "firstName": "Shing",
     "articles": [
-      "chan_padi_chin_ibra.2025.StEIBi3PC"
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-9186-2305",
     "affiliation": "",
     "ror": ""
   },
-  "chin_chee-long": {
+  "chin_chee": {
     "prefix": "",
     "lastName": "Chin",
-    "firstName": "Chee-Long",
+    "firstName": "Chee",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC"
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-4617-0702",
     "affiliation": "",
     "ror": ""
   },
@@ -19356,17 +19976,6 @@ window.AUTHORS_DATA = {
     "firstName": "Anglet",
     "articles": [
       "amja_irsh_maur_rizm.2026.S3MP"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "chiu_yu-hung": {
-    "prefix": "",
-    "lastName": "Chiu",
-    "firstName": "Yu-Hung",
-    "articles": [
-      "burg_wang_chiu_tech.2021.MIFG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -19471,7 +20080,8 @@ window.AUTHORS_DATA = {
       "cho_rooy_kear_zijl.2022.FSo3PFC",
       "cho_heev_krug_zijl.2022.PoC",
       "chri_cho_zijl_vill.2022.PCMIRBAi3PC",
-      "zijl_heev_cho.2023.SR3PC"
+      "zijl_heev_cho.2023.SR3PC",
+      "cho_heev_krug_oh.2026.DDf3PC"
     ],
     "orcid": "0000-0003-0664-1370",
     "affiliation": "",
@@ -19571,7 +20181,9 @@ window.AUTHORS_DATA = {
       "kim_oh_lee_choi.2025.EDDFfQCo3PCPF",
       "oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM",
       "oh_lee_choi.2026.EtBoCCOBMi3P",
-      "oh_oh_choi.2026.CBOFSFAiC"
+      "oh_oh_choi.2026.CBOFSFAiC",
+      "jung_oh_choi.2026.ADDFfDEi3CP",
+      "jung_oh_oh_choi.2026.EoAGBOFSFAotRBaPo3PCM"
     ],
     "orcid": "0000-0002-6450-2742",
     "affiliation": "",
@@ -19671,7 +20283,9 @@ window.AUTHORS_DATA = {
     "firstName": "Alexandros",
     "articles": [
       "bout_chor_argy_mich.2025.IDaEoa3PTOPB",
-      "chor_gkou_meli_kata.2025.SPEo3PCWTNM"
+      "chor_gkou_meli_kata.2025.SPEo3PCWTNM",
+      "chor_gkou_meli_kata.2026.SPoaTS3PCBATNFEA",
+      "ilia_chor_tsik_kata.2026.ECAi3PC"
     ],
     "orcid": "0009-0006-2747-2587",
     "affiliation": "",
@@ -19735,7 +20349,8 @@ window.AUTHORS_DATA = {
       "noai_chou_seid_alba.2025.OLCCCfE3PPoLCM",
       "noai_chou_samb_vale.2025.OLCCCCELGWCf3PA",
       "siko_fede_skib_tech.2025.Do3PCCFRCAaRCP",
-      "zhao_chou_yoo_wong.2026.Do3PAAUfAC"
+      "zhao_chou_yoo_wong.2026.Do3PAAUfAC",
+      "coly_chou_nema_krug.2026.3PGIPaaSCMftGLIHM"
     ],
     "orcid": "0000-0002-7851-8665",
     "affiliation": "",
@@ -19803,7 +20418,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "chov_rich_dorf_dac.2024.RtHCC",
       "chov_rich_dac.2025.FASFFfAM",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "chov_meza_diet_dac.2026.TUF",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS",
+      "grim_chov_rich_kran.2026.FSoAISMoCSUMRS"
     ],
     "orcid": "0009-0005-7018-6757",
     "affiliation": "",
@@ -19842,9 +20460,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "ghod_chow_sing.2025.CFBoCAB3PCBUAET",
       "ghod_sing_sing_chow.2025.AMSMaSiCaBA",
-      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC"
+      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC",
+      "ghod_sing_chow.2026.RCo3PCMwCA"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-9776-2508",
     "affiliation": "",
     "ror": ""
   },
@@ -19947,11 +20566,9 @@ window.AUTHORS_DATA = {
     "lastName": "Chu",
     "firstName": "S.",
     "articles": [
-      "gao_wang_li_chu.2024.DDRMf3PC",
-      "li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS",
-      "chen_alju_chu_radl.2026.DPSGCAi3PC"
+      "chen_ng_jian_wang.2026.SFSoRf3PCwSZ"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-8650-8056",
     "affiliation": "",
     "ror": ""
   },
@@ -19964,7 +20581,10 @@ window.AUTHORS_DATA = {
       "li_xiao_fang_xion.2021.FoGBFRSCSMf3P",
       "shak_chu_puza_dini.2022.RoBJ3PitCI",
       "chu_yang_unlu.2023.DoNRRMBCf3P",
-      "fan_zhu_fan_lu.2023.IDaMoUHPC"
+      "fan_zhu_fan_lu.2023.IDaMoUHPC",
+      "gao_wang_li_chu.2024.DDRMf3PC",
+      "li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS",
+      "chen_alju_chu_radl.2026.DPSGCAi3PC"
     ],
     "orcid": "0000-0001-8650-8056",
     "affiliation": "",
@@ -20021,7 +20641,8 @@ window.AUTHORS_DATA = {
     "lastName": "Chudoba",
     "firstName": "Rostislav",
     "articles": [
-      "curb_hegg_biel_schm.2023.NPoCRCS"
+      "curb_hegg_biel_schm.2023.NPoCRCS",
+      "vaka_marx_chud.2026.TaCRCiDF"
     ],
     "orcid": "0000-0003-3104-2927",
     "affiliation": "",
@@ -20057,6 +20678,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "chun_kim_kim_lee.2023.PBB3PwCfSC",
       "siko_skib_chou_szew.2025.SCAoBaGOf3PCA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "chung_hung-wen": {
+    "prefix": "",
+    "lastName": "Chung",
+    "firstName": "Hung-Wen",
+    "articles": [
+      "niu_wang_chun_soga.2027.CHCoCSb3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -20209,7 +20841,9 @@ window.AUTHORS_DATA = {
       "ryme_cerv_jend_bure.2024.I3MaNLNSiCAM",
       "cite_melt_hviz_ausk.2025.E3PCF",
       "hurt_cite_holy_kote.2025.EAoDi3PCM",
-      "cite_reha_hurt_holy.2026.EwtDaDTo3iC"
+      "cite_reha_hurt_holy.2026.EwtDaDTo3iC",
+      "stok_bure_melt_cite.2026.3PGCTB",
+      "cite_reha_hurt_koli.2026.MDaLTDo3iCA"
     ],
     "orcid": "0000-0002-2615-1873",
     "affiliation": "",
@@ -20307,14 +20941,16 @@ window.AUTHORS_DATA = {
       "mull_cla.2025.AMoTOLSUFC",
       "enge_biel_cla.2026.MECRCFS",
       "dilk_enge_cla.2026.SPo3PCBwCR",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
+      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
       "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
       "zhan_oles_made_shar.2026.IASWaSSRi3CPfRFoRCS",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
       "mech_muth_ivan_weng.2026.CPwTR",
       "shku_lauw_cla.2026.BBoSRi3PAAC",
       "dilk_cla.2026.SBo3PCBwCR",
-      "enge_dilk_cla.2026.FFPtSP"
+      "enge_dilk_cla.2026.FFPtSP",
+      "enge_cla.2026.AMF",
+      "mull_biel_cla.2026.RFMfOLSwFCVF",
+      "enge_hend_cla.2027.RCRCR"
     ],
     "orcid": "0000-0002-7763-8438",
     "affiliation": "",
@@ -20658,7 +21294,8 @@ window.AUTHORS_DATA = {
     "firstName": "Markus",
     "articles": [
       "coly_zijl_baba.2024.FaSPo3PCMUaHVoSAB",
-      "coly_baba_zijl.2024.AiSo3CP"
+      "coly_baba_zijl.2024.AiSo3CP",
+      "coly_chou_nema_krug.2026.3PGIPaaSCMftGLIHM"
     ],
     "orcid": "0009-0004-5945-2041",
     "affiliation": "",
@@ -20683,6 +21320,19 @@ window.AUTHORS_DATA = {
       "mish_baba_comb.2025.LaRPi3PGC"
     ],
     "orcid": "0000-0003-0794-8737",
+    "affiliation": "",
+    "ror": ""
+  },
+  "comerlato_gabriel": {
+    "prefix": "",
+    "lastName": "Comerlato",
+    "firstName": "Gabriel",
+    "articles": [
+      "come_sara_doer_maas.2026.CRi3vAOTDoED",
+      "come_su_wang_flat.2026.23CPwLCCB",
+      "mato_come_rodr_long.2026.AA3CPfMSA"
+    ],
+    "orcid": "0009-0009-0413-9150",
     "affiliation": "",
     "ror": ""
   },
@@ -20721,7 +21371,7 @@ window.AUTHORS_DATA = {
     "lastName": "Cong",
     "firstName": "Weiting",
     "articles": [
-      "loan_zhua_cong_lian.2026.MAWAaALoTR3PCFfACRA"
+      "loan_xiao_cong_lian.2026.MAWAaALoTR3PCFfACRA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -20732,7 +21382,7 @@ window.AUTHORS_DATA = {
     "lastName": "Cong",
     "firstName": "Xuhui",
     "articles": [
-      "li_li_skib_wang.2023.MQCwNLFMi3CP"
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -21176,7 +21826,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "yeak_cour_garn_bult.2024.MPaFaTBo3PCCRFAfCaDW",
       "yeak_cour_bult_remo.2024.IoNDotAoCS",
-      "bao_yeak_abde_cour.2024.TMf3P"
+      "bao_yeak_abde_cour.2024.TMf3P",
+      "phuo_cour.2026.ASCFfRM3PC",
+      "phuo_nguy_cour.2026.NMDf3PMIRFA"
     ],
     "orcid": "0000-0001-6573-6631",
     "affiliation": "",
@@ -21423,7 +22075,9 @@ window.AUTHORS_DATA = {
       "chie_bran_figu_cruz.2026.MPw3CP",
       "gonz_chie_bran_cruz.2026.3iOSC",
       "aros_reis_puga_bran.2026.HAS3CPvUREfICF",
-      "bran_ribe_aros_figu.2026.GRFfERRaP"
+      "bran_ribe_aros_figu.2026.GRFfERRaP",
+      "aros_reis_ribe_bran.2026.HRFoCM",
+      "cruz_figu_bran.2026.DfAM"
     ],
     "orcid": "0000-0003-3170-4505",
     "affiliation": "",
@@ -21456,9 +22110,10 @@ window.AUTHORS_DATA = {
     "lastName": "Cu",
     "firstName": "Yen",
     "articles": [
-      "tran_cu_le.2021.RaSoCUPFf3CP"
+      "tran_cu_le.2021.RaSoCUPFf3CP",
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-7995-1447",
     "affiliation": "",
     "ror": ""
   },
@@ -21570,12 +22225,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "cui_haobin": {
+  "cui_hailong": {
     "prefix": "",
     "lastName": "Cui",
-    "firstName": "Haobin",
+    "firstName": "Hailong",
     "articles": [
-      "chen_li_luo_cui.2026.RaAoHPAABo3P"
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -21726,7 +22381,8 @@ window.AUTHORS_DATA = {
     "firstName": "Weiqi",
     "articles": [
       "sun_zhan_wu_wang.2024.3PCIWR",
-      "sun_ning_cui_wang.2026.EWAaMPo3PCCISwOPPaIG"
+      "sun_ning_cui_wang.2026.EWAaMPo3PCCISwOPPaIG",
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
     ],
     "orcid": "0000-0002-1471-7497",
     "affiliation": "",
@@ -21737,7 +22393,8 @@ window.AUTHORS_DATA = {
     "lastName": "Cui",
     "firstName": "Xiaoshuang",
     "articles": [
-      "cui_pu_zhan_li.2026.SotMPo3PCJYRC"
+      "cui_pu_zhan_li.2026.SotMPo3PCJYRC",
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -21891,13 +22548,14 @@ window.AUTHORS_DATA = {
       "ramy_xinw_cusa.2021.NSo3PoIM",
       "troe_ramy_meeh_john.2022.A3PCAtMHAaF",
       "ramy_cusa.2022.DFCMfSoOSCaPCF",
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P",
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
       "marr_goma_iriz_ahme.2025.AMoUHPC",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF",
+      "pal_goma_cusa_kete.2026.MIoFMCPRf3PA"
     ],
     "orcid": "0000-0001-7436-3910",
     "affiliation": "",
@@ -22089,7 +22747,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "arau_mart_cabr_dant.2022.TPoCLCf3P",
       "dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P",
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P"
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -22223,7 +22881,10 @@ window.AUTHORS_DATA = {
       "chov_rich_dac.2025.FASFFfAM",
       "xiao_vand_lowk_mai.2025.ARAPoSTfI3CP",
       "diet_schn_rich_naji.2025.MFSDf3CPwSPI",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "chov_meza_diet_dac.2026.TUF",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS",
+      "rich_jako_wuch_dac.2026.AMFWfDC"
     ],
     "orcid": "0000-0003-4005-2596",
     "affiliation": "",
@@ -22630,6 +23291,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "dang_hoang": {
+    "prefix": "",
+    "lastName": "Dang",
+    "firstName": "Hoang",
+    "articles": [
+      "ta_phun_dang_pham.2026.EoDSaHSoABSMfLS3CPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "dang_thi": {
     "prefix": "",
     "lastName": "Dang",
@@ -22662,7 +23334,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "pier_ghab_dang_mesn.2024.MPMfEB3P",
       "pier_ghab_dang_mesn.2025.MMf3CP",
-      "pier_ghab_dang_mesn.2025.MMo3CP"
+      "pier_ghab_dang_mesn.2025.MMo3CP",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS"
     ],
     "orcid": "0000-0001-7311-8518",
     "affiliation": "",
@@ -22687,6 +23360,18 @@ window.AUTHORS_DATA = {
       "dani_khur_mosa_ozba.2022.MSCDMaISfILBSoAMCC"
     ],
     "orcid": "0000-0002-2905-3638",
+    "affiliation": "",
+    "ror": ""
+  },
+  "danner_tobias": {
+    "prefix": "",
+    "lastName": "Danner",
+    "firstName": "Tobias",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC",
+      "shpa_dann_just.2026.DoELCCfpSR"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -22866,7 +23551,8 @@ window.AUTHORS_DATA = {
       "mish_das_chan_barb.2026.TtHaPiNMQBSf3PM",
       "barb_qazi_das_kata.2026.MLIfSMASiLS3P",
       "barb_das_adak.2026.Ai3CP",
-      "barb_das_rajp_kata.2026.Po3PCwEoB"
+      "barb_das_rajp_kata.2026.Po3PCwEoB",
+      "mish_das.2026.PMaEPoMFAB3PCM"
     ],
     "orcid": "0000-0002-1245-4494",
     "affiliation": "",
@@ -22878,9 +23564,11 @@ window.AUTHORS_DATA = {
     "firstName": "Jyotish",
     "articles": [
       "das_prat_nema_guad.2025.DPo3PUHSCICI",
-      "das_prat_guad_nema.2026.RoCIoDPo3PU"
+      "das_prat_guad_nema.2026.RoCIoDPo3PU",
+      "das_thak_guad_unlu.2026.RoCIoCTMi3PCUCCSE",
+      "prat_das_nema.2026.CTBi3PLCUIHVoG"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4511-4234",
     "affiliation": "",
     "ror": ""
   },
@@ -22929,7 +23617,8 @@ window.AUTHORS_DATA = {
     "firstName": "Sudha",
     "articles": [
       "nair_naga_tham_das.2025.LCBSAoO3PCMISaRA",
-      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO"
+      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO",
+      "raje_nair_naga_goud.2026.GSFBCCfEB3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -22968,6 +23657,17 @@ window.AUTHORS_DATA = {
       "gara_dasi_fedo_ostr.2027.ADTOfLSC3P"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "dasika_phani": {
+    "prefix": "",
+    "lastName": "Dasika",
+    "firstName": "Phani",
+    "articles": [
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
+    ],
+    "orcid": "0000-0001-7288-0084",
     "affiliation": "",
     "ror": ""
   },
@@ -23056,7 +23756,8 @@ window.AUTHORS_DATA = {
       "goss_dorr_davi_leus.2024.DFwLEM",
       "dorr_gant_amir_lach.2025.FDtR",
       "dorr_lach_bagh_davi.2025.IoPGaGCfRS3P",
-      "dorr_megn_davi_drod.2025.IoDREfS3PoCS"
+      "dorr_megn_davi_drod.2025.IoDREfS3PoCS",
+      "dorr_freu_davi_lach.2026.S3PS"
     ],
     "orcid": "0000-0001-5386-4855",
     "affiliation": "",
@@ -23329,6 +24030,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "de_benros_debora": {
+    "prefix": "de",
+    "lastName": "Benros",
+    "firstName": "Debora",
+    "articles": [
+      "dung_hash_benr_wirz..EPCiR3CP"
+    ],
+    "orcid": "0000-0002-0767-4206",
+    "affiliation": "",
+    "ror": ""
+  },
   "de_bono_victor": {
     "prefix": "de",
     "lastName": "Bono",
@@ -23350,7 +24062,8 @@ window.AUTHORS_DATA = {
       "caro_duco_demo_bono.2026.U3PfaNCCaSD",
       "phet_arch_duco_bono.2026.A2Sf3PoMBG",
       "mesn_bono_duco_caro.2026.Do3PSwCFR",
-      "sepi_pier_bono_duco.2026.TWT"
+      "sepi_pier_bono_duco.2026.TWT",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0009-0006-7596-9395",
     "affiliation": "",
@@ -23504,7 +24217,8 @@ window.AUTHORS_DATA = {
       "zuo_huan_tao_yuan.2025.AoFItMCPHo3PC",
       "zuo_huan_cort.2025.RTMoPCWD3CPtIAPS",
       "zuo_huan_li_cort.2026.MPfOS3CPBotAHP",
-      "zuo_zhan_huan_li.2026.AQAaEMftBoLSOS3PC"
+      "zuo_zhan_huan_li.2026.AQAaEMftBoLSOS3PC",
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC"
     ],
     "orcid": "0000-0002-9416-3593",
     "affiliation": "",
@@ -23627,18 +24341,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "de_lima_lucas": {
-    "prefix": "de",
-    "lastName": "Lima",
-    "firstName": "Lucas",
-    "articles": [
-      "lima_wang_sanc_anto.2024.Do3PC",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
-    ],
-    "orcid": "0000-0002-7041-8985",
-    "affiliation": "",
-    "ror": ""
-  },
   "de_luca_flavia": {
     "prefix": "de",
     "lastName": "Luca",
@@ -23664,7 +24366,10 @@ window.AUTHORS_DATA = {
       "silv_saka_ongh_mato.2025.AAWaaSCMf3PPC",
       "safa_scha_efft_mato.2025.TEoCNotRHoCPaBo3PC",
       "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI",
-      "zat_frei_boar_roba.2026.MBo3PCRwSaRWM"
+      "zat_frei_boar_roba.2026.MBo3PCRwSaRWM",
+      "come_sara_doer_maas.2026.CRi3vAOTDoED",
+      "come_su_wang_flat.2026.23CPwLCCB",
+      "mato_come_rodr_long.2026.AA3CPfMSA"
     ],
     "orcid": "0000-0002-3695-1356",
     "affiliation": "",
@@ -24039,16 +24744,18 @@ window.AUTHORS_DATA = {
       "tao_wang_wang_lesa.2025.APr",
       "mira_lesa_schu_rous.2025.CPTLP",
       "zhan_ren_titt_schu.2025.LIi3PCBM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "khou_chei_schu_caza.2025.UVMf3PoMMwRS",
       "zhan_meer_kolo_titt.2026.ARCo3PCBMwETRP",
       "parm_fall_ferr_rest.2026.PEIotMPoaLFCv3P",
       "schu_zhan.2026.ARCf3CP",
-      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC"
+      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "zhan_schu_titt.2026.PSo3PPCBMBaAE"
     ],
     "orcid": "0000-0001-5603-2616",
-    "affiliation": "Ghent University",
-    "ror": "00cv9y106"
+    "affiliation": "",
+    "ror": ""
   },
   "de_sena-barbosa_marcella": {
     "prefix": "de",
@@ -24175,7 +24882,8 @@ window.AUTHORS_DATA = {
       "vill_mwon_baba_zijl.2024.QRCaDWfUi3PC",
       "timm_vill_zijl.2024.BT",
       "els_zijl_vill.2025.ARoSaRSCi3CP",
-      "timm_vill_zijl.2026.3CPitWH"
+      "timm_vill_zijl.2026.3CPitWH",
+      "timm_vill_zijl.2026.SDPDf3PCW"
     ],
     "orcid": "0000-0002-0775-5305",
     "affiliation": "",
@@ -24253,6 +24961,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "deeb_eyas": {
+    "prefix": "",
+    "lastName": "Deeb",
+    "firstName": "Eyas",
+    "articles": [
+      "brad_deeb.2026.SBEoLRfCSR3PiCA"
+    ],
+    "orcid": "0009-0000-2153-9257",
+    "affiliation": "",
+    "ror": ""
+  },
   "deetman_arjen": {
     "prefix": "",
     "lastName": "Deetman",
@@ -24278,6 +24997,17 @@ window.AUTHORS_DATA = {
       "nere_dege_fras.2024.OSRMC3PwK",
       "alos_dehn_kuhn_dege.2025.3CPoSWCSwTCP",
       "dege_dich.2025.PIi3PiCC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "deheshti_ahmadreza": {
+    "prefix": "",
+    "lastName": "Deheshti",
+    "firstName": "Ahmadreza",
+    "articles": [
+      "dehe_givk_mood.2026.REo3PCUNCaPF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -24321,6 +25051,17 @@ window.AUTHORS_DATA = {
       "he_zhan_lian_ahma.2022.ASRoMRKf3PC"
     ],
     "orcid": "0000-0003-1758-3743",
+    "affiliation": "",
+    "ror": ""
+  },
+  "del-ruiz-martinez_maria": {
+    "prefix": "",
+    "lastName": "Del Ruíz-Martínez",
+    "firstName": "María",
+    "articles": [
+      "bent_del_saya_rami.2026.IIaAfSMaCi3CP"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -24385,9 +25126,7 @@ window.AUTHORS_DATA = {
     "lastName": "Giudice",
     "firstName": "Lorenzo",
     "articles": [
-      "napo_menn_aspr_giud.2020.MCoLbLIiCEObAM",
-      "giud_wrob_kats_lein.2022.PMoRCaa14SUAMRC",
-      "giud_kats_liu_sarh.2024.PMoUMWUaSB3P"
+      "napo_menn_aspr_giud.2020.MCoLbLIiCEObAM"
     ],
     "orcid": "0000-0002-1565-0538",
     "affiliation": "",
@@ -24448,7 +25187,8 @@ window.AUTHORS_DATA = {
       "krei_krei_mans_monk.2024.ACiP",
       "shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL",
       "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
-      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
+      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC",
+      "dela_side.2027.DICAoEEFS3PCW"
     ],
     "orcid": "0000-0002-4688-1224",
     "affiliation": "",
@@ -24503,7 +25243,8 @@ window.AUTHORS_DATA = {
       "bhoo_dell_rana_mele.2024.UCMfCC",
       "dell_bode_mele_bloc.2024.S20P",
       "bode_dell_alou_burg.2024.P3CPB",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "0000-0002-4799-6015",
     "affiliation": "",
@@ -24561,7 +25302,9 @@ window.AUTHORS_DATA = {
       "wang_ye_sun_zhan.2025.Io3PFCaOfESD",
       "wang_dema_fale_jian.2026.FPoR3PCB",
       "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
-      "wang_jian_song_dema.2026.SKPSPfR3PCB"
+      "wang_jian_song_dema.2026.SKPSPfR3PCB",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC",
+      "wang_dema_jian_masu.2026.NTOaAMoSPR3PCT"
     ],
     "orcid": "0000-0002-9364-5160",
     "affiliation": "",
@@ -24630,7 +25373,7 @@ window.AUTHORS_DATA = {
     "firstName": "Ramazan",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "0000-0002-5042-3592",
     "affiliation": "",
@@ -24672,7 +25415,8 @@ window.AUTHORS_DATA = {
       "caro_duco_demo_bono.2026.U3PfaNCCaSD",
       "phet_arch_duco_bono.2026.A2Sf3PoMBG",
       "caro_mesn_demo_piar.2026.OaDPRCBwBiS",
-      "mech_muth_ivan_weng.2026.CPwTR"
+      "mech_muth_ivan_weng.2026.CPwTR",
+      "demo_mesn_ohno_ishi.2026.MYSSoF3PMwDPSVT"
     ],
     "orcid": "0000-0002-5833-8683",
     "affiliation": "",
@@ -24782,7 +25526,8 @@ window.AUTHORS_DATA = {
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
       "liu_li_deng_wang.2026.RBotCM",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0009-0007-1186-9800",
     "affiliation": "",
@@ -24929,12 +25674,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "denis_l": {
+  "deng_zhuo": {
     "prefix": "",
-    "lastName": "Denis",
-    "firstName": "L.",
+    "lastName": "Deng",
+    "firstName": "Zhuo",
     "articles": [
-      "deni_omik_kara_barn.2024.IoVEADoPCM"
+      "hu_liao_deng.2026.RSAoETMf3PRWE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -24945,6 +25690,7 @@ window.AUTHORS_DATA = {
     "lastName": "Denis",
     "firstName": "Loic",
     "articles": [
+      "deni_omik_kara_barn.2024.IoVEADoPCM",
       "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
     ],
     "orcid": "",
@@ -25053,6 +25799,17 @@ window.AUTHORS_DATA = {
       "dey_wang_pand.2026.3PCwRM"
     ],
     "orcid": "0000-0003-1447-4568",
+    "affiliation": "",
+    "ror": ""
+  },
+  "dey_koustav": {
+    "prefix": "",
+    "lastName": "Dey",
+    "firstName": "Koustav",
+    "articles": [
+      "zhan_li_dey_khay.2026.DOMoEASSi3PCE"
+    ],
+    "orcid": "0000-0003-2976-1551",
     "affiliation": "",
     "ror": ""
   },
@@ -25209,6 +25966,17 @@ window.AUTHORS_DATA = {
       "marc.2026.ADTftSEo3TvMCUP"
     ],
     "orcid": "0000-0001-6339-7517",
+    "affiliation": "",
+    "ror": ""
+  },
+  "di_ruocco_giacomo": {
+    "prefix": "di",
+    "lastName": "Ruocco",
+    "firstName": "Giacomo",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
+    ],
+    "orcid": "0000-0002-4267-1502",
     "affiliation": "",
     "ror": ""
   },
@@ -25411,7 +26179,8 @@ window.AUTHORS_DATA = {
     "firstName": "Sebastian",
     "articles": [
       "schn_diet_rich_naji.2024.FADMaEAoaSCPBUST",
-      "diet_schn_rich_naji.2025.MFSDf3CPwSPI"
+      "diet_schn_rich_naji.2025.MFSDf3CPwSPI",
+      "chov_meza_diet_dac.2026.TUF"
     ],
     "orcid": "0009-0006-2414-8458",
     "affiliation": "",
@@ -25466,6 +26235,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "dilbas_hasan": {
+    "prefix": "",
+    "lastName": "Dilbas",
+    "firstName": "Hasan",
+    "articles": [
+      "bird_dilb.2026.DoSTIaLBMaMIWEv3PF"
+    ],
+    "orcid": "0000-0002-3780-8818",
+    "affiliation": "",
+    "ror": ""
+  },
   "dilhara_p": {
     "prefix": "",
     "lastName": "Dilhara",
@@ -25477,15 +26257,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "diliberto_cecile": {
+    "prefix": "",
+    "lastName": "Diliberto",
+    "firstName": "Cécile",
+    "articles": [
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
+    ],
+    "orcid": "0000-0003-3847-7421",
+    "affiliation": "",
+    "ror": ""
+  },
   "dilkin_eduarda": {
     "prefix": "",
     "lastName": "Dilkin",
     "firstName": "Eduarda",
     "articles": [
       "dilk_enge_cla.2026.SPo3PCBwCR",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
-      "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
       "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
+      "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
       "dilk_cla.2026.SBo3PCBwCR",
       "enge_dilk_cla.2026.FFPtSP"
     ],
@@ -25554,8 +26344,8 @@ window.AUTHORS_DATA = {
       "lim_dill.2026.HCCvMMCE3P"
     ],
     "orcid": "0000-0002-5153-2985",
-    "affiliation": "ETH Zurich",
-    "ror": "05a28rw58"
+    "affiliation": "",
+    "ror": ""
   },
   "diller_johannes": {
     "prefix": "",
@@ -25626,6 +26416,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ding_kemin": {
+    "prefix": "",
+    "lastName": "Ding",
+    "firstName": "Kemin",
+    "articles": [
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
+    ],
+    "orcid": "0000-0001-7646-0087",
+    "affiliation": "",
+    "ror": ""
+  },
   "ding_lieyun": {
     "prefix": "",
     "lastName": "Ding",
@@ -25672,7 +26473,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS",
       "ding_li_wang.2025.SoMPoCBF3PCBo3MS",
-      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC"
+      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC",
+      "ding_li_wang_lyu.2026.MFMaSPo3PCRW"
     ],
     "orcid": "0009-0009-2044-4390",
     "affiliation": "",
@@ -25941,7 +26743,8 @@ window.AUTHORS_DATA = {
     "lastName": "Ditlhokwa",
     "firstName": "Aobakwe",
     "articles": [
-      "ditl_zijl_baba.2026.DaMPo3PCIRCaDW"
+      "ditl_zijl_baba.2026.DaMPo3PCIRCaDW",
+      "ditl_baba_zijl.2026.MaDPo3wVCR"
     ],
     "orcid": "0009-0006-2630-1591",
     "affiliation": "",
@@ -25992,7 +26795,8 @@ window.AUTHORS_DATA = {
     "lastName": "Divigalpitiya",
     "firstName": "Ranjith",
     "articles": [
-      "sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB"
+      "sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB",
+      "sure_vola_trip_divi.2027.UoUDoGtEtMaMPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -26028,7 +26832,8 @@ window.AUTHORS_DATA = {
       "saha_soda_dwiv_kuma.2024.3PwSE",
       "kuma_dixi.2026.UoESaFAi3PC",
       "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC",
-      "kuma_dixi.2026.3PCUSS"
+      "kuma_dixi.2026.3PCUSS",
+      "kuma_pund_kuma_dixi.2026.EoBTaCCotMaDPoEB3PC"
     ],
     "orcid": "0000-0002-3045-0761",
     "affiliation": "",
@@ -26068,7 +26873,8 @@ window.AUTHORS_DATA = {
     "lastName": "Diz-Mellado",
     "firstName": "Eduardo",
     "articles": [
-      "diz_jime_pere_rive.2025.PBOot3CP"
+      "diz_jime_pere_rive.2025.PBOot3CP",
+      "jime_diz_pere_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -26125,6 +26931,8 @@ window.AUTHORS_DATA = {
     "lastName": "Do-Rosario-Benros",
     "firstName": "Deborah",
     "articles": [
+      "dor_hash_yuns_dung.2024.MHURM",
+      "dor_hash_yuns_call.2025.RMH",
       "dung_hash_dor_wirz.2025.PLSCT3P"
     ],
     "orcid": "",
@@ -26184,7 +26992,7 @@ window.AUTHORS_DATA = {
     "lastName": "Do",
     "firstName": "Quang",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS"
+      "loan_nguy_trin_nguy.2022.Do3PfCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -26195,7 +27003,7 @@ window.AUTHORS_DATA = {
     "lastName": "Do",
     "firstName": "Thi",
     "articles": [
-      "bui_pham_pham_do.2023.AEoSaSFTf3CPwtKv"
+      "bui_loan_pham_do.2023.AEoSaSFTf3CPwtKv"
     ],
     "orcid": "",
     "affiliation": "",
@@ -26206,8 +27014,8 @@ window.AUTHORS_DATA = {
     "lastName": "Do",
     "firstName": "Trong",
     "articles": [
-      "pham_trin_nguy_do.2023.SoFBoPCWBUPF",
-      "pham_trin_do_huan.2023.FBoPCWBwDFR"
+      "loan_trin_nguy_do.2023.SoFBoPCWBUPF",
+      "loan_trin_do_huan.2023.FBoPCWBwDFR"
     ],
     "orcid": "0009-0007-5148-7866",
     "affiliation": "",
@@ -26287,7 +27095,8 @@ window.AUTHORS_DATA = {
     "firstName": "Gabriel",
     "articles": [
       "mato_prig_scha_silv.2024.QCToF3PCBM",
-      "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI"
+      "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI",
+      "come_sara_doer_maas.2026.CRi3vAOTDoED"
     ],
     "orcid": "0009-0003-0637-9306",
     "affiliation": "",
@@ -26468,7 +27277,10 @@ window.AUTHORS_DATA = {
       "chen_jia_bao_dong.2026.EoCAaSFIUEotPo3PSFRC",
       "liu_dobr_xu_kola.2026.PMfGUi3PCE",
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA",
-      "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP"
+      "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -26745,7 +27557,11 @@ window.AUTHORS_DATA = {
       "dorf_flec_krak.2026.DSfMAMiC",
       "borr_bruc_dorf_hart.2026.TIBoRC",
       "krak_dorf.2026.RPoFFEBC",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "rich_heer_raat_dorf.2026.IRAMPfCMEiCAE",
+      "voll_hack_klof_dorf.2026.LSDfAMiC",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0001-6557-5604",
     "affiliation": "",
@@ -26756,7 +27572,8 @@ window.AUTHORS_DATA = {
     "lastName": "Döring",
     "firstName": "Leon",
     "articles": [
-      "mai_jaco_dori_hack.2026.FoLaMCwI3CP"
+      "mai_jaco_dori_hack.2026.FoLaMCwI3CP",
+      "dori_mehd_jaco_mai.2026.I3CP"
     ],
     "orcid": "0009-0002-5628-261X",
     "affiliation": "",
@@ -26772,7 +27589,7 @@ window.AUTHORS_DATA = {
       "pfei_dorn_hirs_ehm.2020.AAaWfAFwC",
       "siko_chun_liar_loot.2021.TEoNSotFaHPo3PM",
       "chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM",
-      "pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM"
+      "pott_wolf_dorn_step.2023.IoaSAfTCoMPf3CPIM"
     ],
     "orcid": "0000-0001-6431-1199",
     "affiliation": "",
@@ -26822,7 +27639,9 @@ window.AUTHORS_DATA = {
       "sawi_duki_plac_masu.2026.HRCiDFwC",
       "dorr_sawi_klof.2026.RAaSDiS3P",
       "bagh_dorr_klof.2026.CCoCDJASEaPBAMwRSF",
-      "sawi_dorr_klof.2026.PAoUPVfQCoS3PC"
+      "sawi_dorr_klof.2026.PAoUPVfQCoS3PC",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P"
     ],
     "orcid": "0000-0001-8473-7218",
     "affiliation": "",
@@ -26915,7 +27734,7 @@ window.AUTHORS_DATA = {
     "lastName": "Doyle",
     "firstName": "Shelby",
     "articles": [
-      "ghad_evan_doyl_sens.2024.HBo3CPWA",
+      "ghad_evan_doyl_sens..HBo3CPWA",
       "doyl_sens_gasp_crai.2024.LLaL",
       "liu_lafl_card_lyu.2025.E3PCCwRCFfWTB",
       "liu_sous_lafl_doyl.2025.Eo3PSSCfSCC",
@@ -26924,6 +27743,17 @@ window.AUTHORS_DATA = {
       "liu_sous_doyl_ales.2026.PSPoSLiMM3PRCB"
     ],
     "orcid": "0000-0001-5742-9076",
+    "affiliation": "",
+    "ror": ""
+  },
+  "dragan_maria-iuliana": {
+    "prefix": "",
+    "lastName": "Dragan",
+    "firstName": "Maria-Iuliana",
+    "articles": [
+      "kalf_veni_drag_wehr.2026.UCWiAMACfCC"
+    ],
+    "orcid": "0009-0003-2962-5581",
     "affiliation": "",
     "ror": ""
   },
@@ -27059,7 +27889,10 @@ window.AUTHORS_DATA = {
       "goss_dorr_davi_leus.2024.DFwLEM",
       "dorr_gant_amir_lach.2025.FDtR",
       "dorr_lach_bagh_davi.2025.IoPGaGCfRS3P",
-      "dorr_megn_davi_drod.2025.IoDREfS3PoCS"
+      "dorr_megn_davi_drod.2025.IoDREfS3PoCS",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "megn_rudo_lowk_drod.2026.EPPCwFRMfCiS3P",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P"
     ],
     "orcid": "0000-0002-6424-4384",
     "affiliation": "",
@@ -27160,7 +27993,9 @@ window.AUTHORS_DATA = {
       "sun_du_muda.2025.RIoFFRCCUHHUFf3CPE",
       "sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD",
       "du_sun_deng_qian.2026.BPoBI3PPLSCAS",
-      "du_sun_qian.2026.BI3PS3SPLWfECP"
+      "du_sun_qian.2026.BI3PS3SPLWfECP",
+      "sun_du_qian.2027.AFSTTfISQCo3PFLFFPaHP",
+      "sun_du_qian.2026.UFAi3PFUPCCCEoNSFLaVF"
     ],
     "orcid": "0000-0002-9469-7974",
     "affiliation": "",
@@ -27202,7 +28037,7 @@ window.AUTHORS_DATA = {
       "yao_gao_huan_du.2025.IoPSaESotPaPSo3PM",
       "liu_du.2025.OTITGD",
       "luo_sun_fei_du.2025.ISLi3PCDtTGIM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "bong_zhao_gao_du.2026.HVGPCMfLCCAM",
       "tang_yan_lin_han.2026.FMoR3PCA",
       "nguy_du.2026.U3CP",
@@ -27296,19 +28131,9 @@ window.AUTHORS_DATA = {
     "lastName": "Du",
     "firstName": "Qianyi",
     "articles": [
+      "luo_sun_mbab_du.2026.3PCSSwPKEPME",
       "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO",
       "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "du_qianyu": {
-    "prefix": "",
-    "lastName": "Du",
-    "firstName": "Qianyu",
-    "articles": [
-      "luo_sun_mbab_du.2026.3PCSSwPKEPME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -27342,7 +28167,7 @@ window.AUTHORS_DATA = {
     "lastName": "Du",
     "firstName": "Song",
     "articles": [
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "liu_du_teng_weng.2025.ECMfaRAi3CP"
     ],
     "orcid": "",
@@ -27422,17 +28247,6 @@ window.AUTHORS_DATA = {
     "firstName": "Zhiqin",
     "articles": [
       "liu_li_duan_du.2024.IoPIotIBo3PFCfSaGBA"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "du_zicheng": {
-    "prefix": "",
-    "lastName": "Du",
-    "firstName": "Zicheng",
-    "articles": [
-      "wang_du_zhan_ma.2024.Et3MCaSSMMoFRRAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -27598,7 +28412,7 @@ window.AUTHORS_DATA = {
       "duan_deng_xiao_lv.2024.ERoSDMD3CP",
       "xiao_bai_wu_duan.2024.ILBSaPCo3PECC",
       "lv_duan_xiao_ji.2024.Eo3PCwRFaCA",
-      "hou_wu_duan_zhou.2024.RoFRMf3PC",
+      "hou_wu_duan_zou.2024.RoFRMf3PC",
       "nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF",
       "duan_tao_lin_jiao.2025.3PDDMoLMitPM",
       "nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF",
@@ -27700,9 +28514,11 @@ window.AUTHORS_DATA = {
       "taba_duar_duar.2026.IBoE3CPSTaSDDA",
       "park_mema_hoja_duar.2026.3CPMCCPaSToaSSCDS",
       "bamb_duar_bile.2026.ISMoWtCRo3PC",
+      "alhu_fakh_duar_brow.2026.T",
       "duar_bile_naza_mema.2026.DaAMoaMHUGCwISMM",
       "kaze_bani_li_duar.2026.AIaMLi3PoC",
-      "wu_mema_duar.2026.RSf3PC"
+      "wu_mema_duar.2026.RSf3PC",
+      "fakh_hu_duar.2026.BaAMi3CP"
     ],
     "orcid": "0000-0002-3826-3987",
     "affiliation": "",
@@ -27769,6 +28585,17 @@ window.AUTHORS_DATA = {
       "dube_maur.2026.ACRo3PiC"
     ],
     "orcid": "0009-0001-3577-9363",
+    "affiliation": "",
+    "ror": ""
+  },
+  "dubois-brugger_isabelle": {
+    "prefix": "",
+    "lastName": "Dubois-Brugger",
+    "firstName": "Isabelle",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -27872,7 +28699,9 @@ window.AUTHORS_DATA = {
       "mesn_bono_duco_caro.2026.Do3PSwCFR",
       "sepi_pier_bono_duco.2026.TWT",
       "tao_li_leem_muth.2026.APOPoMK3CP",
-      "kuzm_monk_mesn_duco.2026.CCCo3PT"
+      "kuzm_monk_mesn_duco.2026.CCCo3PT",
+      "shoa_mous_duco.2026.FLDtSR",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0001-9826-3287",
     "affiliation": "",
@@ -27897,6 +28726,17 @@ window.AUTHORS_DATA = {
       "patn_duga.2026.TEo3CPfNGSI"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "dujardin_agathe": {
+    "prefix": "",
+    "lastName": "Dujardin",
+    "firstName": "Agathe",
+    "articles": [
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
+    ],
+    "orcid": "0009-0002-1086-9511",
     "affiliation": "",
     "ror": ""
   },
@@ -27941,12 +28781,13 @@ window.AUTHORS_DATA = {
     "lastName": "Dungrani",
     "firstName": "Mohan",
     "articles": [
-      "benr_hash_yung_dung.2024.MHURM",
+      "dor_hash_yuns_dung.2024.MHURM",
       "dhar_kuma_kach_dung.2024.S3PfC",
       "dung_hash_dor_wirz.2025.PLSCT3P",
-      "dung_hash_lang_wirz.2025.SPo3PCW"
+      "dung_hash_lang_wirz.2025.SPo3PCW",
+      "dung_hash_benr_wirz..EPCiR3CP"
     ],
-    "orcid": "",
+    "orcid": "0009-0003-0645-1937",
     "affiliation": "",
     "ror": ""
   },
@@ -28016,6 +28857,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "durak_ugur": {
+    "prefix": "",
+    "lastName": "Durak",
+    "firstName": "Uğur",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "duran-herrera_alejandro": {
     "prefix": "",
     "lastName": "Durán-Herrera",
@@ -28046,6 +28898,17 @@ window.AUTHORS_DATA = {
       "sang_flor_dura.2025.UIAfBBMt3CPaSP"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "durand_rocio": {
+    "prefix": "",
+    "lastName": "Durand",
+    "firstName": "Rocío",
+    "articles": [
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
+    ],
+    "orcid": "0009-0003-1031-4070",
     "affiliation": "",
     "ror": ""
   },
@@ -28308,6 +29171,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "echt_timon": {
+    "prefix": "",
+    "lastName": "Echt",
+    "firstName": "Timon",
+    "articles": [
+      "heik_ehle_echt_gobe.2026.MCoCMUHMP"
+    ],
+    "orcid": "0009-0007-7091-6400",
+    "affiliation": "",
+    "ror": ""
+  },
   "edebali_serpil": {
     "prefix": "",
     "lastName": "Edebali",
@@ -28348,17 +29222,6 @@ window.AUTHORS_DATA = {
     "articles": [
       "werk_edmu_fisk_khos.2015.OtDoACTfAtDoLMSSUISM",
       "fisk_edmu_weit_fike.2018.TDTTIAC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "eduardo_diz-mellado": {
-    "prefix": "",
-    "lastName": "Eduardo",
-    "firstName": "Diz-Mellado",
-    "articles": [
-      "adri_edua_jose_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -28447,6 +29310,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ehle_fabian": {
+    "prefix": "",
+    "lastName": "Ehle",
+    "firstName": "Fabian",
+    "articles": [
+      "heik_ehle_echt_gobe.2026.MCoCMUHMP"
+    ],
+    "orcid": "0000-0003-1976-5460",
+    "affiliation": "",
+    "ror": ""
+  },
   "ehm_clemens": {
     "prefix": "",
     "lastName": "Ehm",
@@ -28502,21 +29376,32 @@ window.AUTHORS_DATA = {
     "lastName": "Eid",
     "firstName": "Zainab",
     "articles": [
-      "eid_alme.2025.MtAtEIo3PBUCW",
+      "eid_almu.2025.MtAtEIo3PBUCW",
       "eid_almu.2025.Ao3PBUCaDW"
     ],
     "orcid": "0000-0002-1959-3331",
     "affiliation": "",
     "ror": ""
   },
-  "eisazadeh_hamid": {
+  "eires_rute": {
     "prefix": "",
-    "lastName": "Eisazadeh",
-    "firstName": "Hamid",
+    "lastName": "Eires",
+    "firstName": "Rute",
     "articles": [
-      "eisa_chat_aliz.2025.ABPaNAoMaMPoCFR3PC"
+      "eire_camo_mart_malh.2026.TCUM"
     ],
-    "orcid": "0009-0004-7123-9948",
+    "orcid": "0000-0002-4474-3530",
+    "affiliation": "",
+    "ror": ""
+  },
+  "eiserbeck_michael": {
+    "prefix": "",
+    "lastName": "Eiserbeck",
+    "firstName": "Michael",
+    "articles": [
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -28598,7 +29483,7 @@ window.AUTHORS_DATA = {
     "firstName": "Enes",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -28610,7 +29495,7 @@ window.AUTHORS_DATA = {
     "firstName": "Ergun",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -29076,9 +29961,10 @@ window.AUTHORS_DATA = {
     "firstName": "Sheriff",
     "articles": [
       "paud_petr_elfa.2026.ECaNMo3PCM",
-      "pokh_elfa_mous.2026.SBo3PCSBwPCJUPT"
+      "pokh_elfa_mous.2026.SBo3PCSBwPCJUPT",
+      "paud_petr_elfa.2026.Po3PSGfED"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-3401-6513",
     "affiliation": "",
     "ror": ""
   },
@@ -29344,10 +30230,11 @@ window.AUTHORS_DATA = {
       "enge_hegg_cla.2025.MAFwC",
       "enge_biel_cla.2026.MECRCFS",
       "dilk_enge_cla.2026.SPo3PCBwCR",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
-      "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
       "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
-      "enge_dilk_cla.2026.FFPtSP"
+      "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
+      "enge_dilk_cla.2026.FFPtSP",
+      "enge_cla.2026.AMF",
+      "enge_hend_cla.2027.RCRCR"
     ],
     "orcid": "0000-0003-4161-7595",
     "affiliation": "",
@@ -29735,8 +30622,7 @@ window.AUTHORS_DATA = {
     "lastName": "Etemadi",
     "firstName": "Ali",
     "articles": [
-      "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP"
+      "most_mote_bagh_etem.2024.RC3PCTP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -29748,6 +30634,17 @@ window.AUTHORS_DATA = {
     "firstName": "Ed",
     "articles": [
       "khos_bodi_burk_ethr.2005.LCC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "etscher_antonia": {
+    "prefix": "",
+    "lastName": "Etscher",
+    "firstName": "Antonia",
+    "articles": [
+      "rei_lies_etsc_mech.2026.IoCCTotRoLB3PCwCEMW"
     ],
     "orcid": "",
     "affiliation": "",
@@ -29774,9 +30671,21 @@ window.AUTHORS_DATA = {
       "euge_nava_brev_lope.2022.ABaaAfPC",
       "euge_cuev_nava.2023.TDo3PCPwCT",
       "mech_muth_robe_wolf.2025.CSaMoE",
-      "wolf_vers_sant_bhat.2025.FaTS"
+      "wolf_vers_sant_bhat.2025.FaTS",
+      "euge_ishi_brev_nava.2026.PSDaEPoMTBMf3CP"
     ],
     "orcid": "0009-0009-3820-8783",
+    "affiliation": "",
+    "ror": ""
+  },
+  "eum_donghwi": {
+    "prefix": "",
+    "lastName": "Eum",
+    "firstName": "Donghwi",
+    "articles": [
+      "eum_han.2026.APFAfPCBo3PCS"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -29785,8 +30694,8 @@ window.AUTHORS_DATA = {
     "lastName": "Evans",
     "firstName": "Pete",
     "articles": [
-      "ghad_evan_doyl_sens.2024.HBo3CPWA",
-      "wu_evan.2024.AISfI3CPP"
+      "ghad_evan_doyl_sens..HBo3CPWA",
+      "wu_evan..AISfI3CPP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -29975,7 +30884,8 @@ window.AUTHORS_DATA = {
       "fahf_varu_alme_crav.2025.RAsSFT3P",
       "fahf_leal_ferr_cobo.2026.FREB3P",
       "fahf_pire_varu_crav.2026.HSoEBFf3P",
-      "fahf_pess_buso_bart.2027.FRECfSAMiC"
+      "fahf_pess_buso_bart.2027.FRECfSAMiC",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0001-8692-0403",
     "affiliation": "",
@@ -30042,9 +30952,22 @@ window.AUTHORS_DATA = {
     "firstName": "Muhammad",
     "articles": [
       "ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC",
-      "riaz_usma_ali_maji.2023.ICo3PCiAM"
+      "riaz_usma_ali_maji.2023.ICo3PCiAM",
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
     ],
     "orcid": "0000-0002-8573-9570",
+    "affiliation": "",
+    "ror": ""
+  },
+  "fakhr-ghasemi_amirhossein": {
+    "prefix": "",
+    "lastName": "Fakhr Ghasemi",
+    "firstName": "Amirhossein",
+    "articles": [
+      "alhu_fakh_duar_brow.2026.T",
+      "fakh_hu_duar.2026.BaAMi3CP"
+    ],
+    "orcid": "0009-0005-2716-9820",
     "affiliation": "",
     "ror": ""
   },
@@ -30056,17 +30979,6 @@ window.AUTHORS_DATA = {
       "mikh_fakh_ng_bose.2024.PIaAiCP"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "fakih_amin": {
-    "prefix": "",
-    "lastName": "Fakih",
-    "firstName": "Amin",
-    "articles": [
-      "khal_faki_yase_osta.2026.IoCCaMRoSDoOPAAM"
-    ],
-    "orcid": "0000-0003-4096-4069",
     "affiliation": "",
     "ror": ""
   },
@@ -30561,6 +31473,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "farahani_adeleh": {
+    "prefix": "",
+    "lastName": "Farahani",
+    "firstName": "Adeleh",
+    "articles": [
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "farahbakhsh_mehdi": {
     "prefix": "",
     "lastName": "Farahbakhsh",
@@ -30676,6 +31599,17 @@ window.AUTHORS_DATA = {
       "chou_abra_farn_ebra.2026.LBMoRCDIiFAMC"
     ],
     "orcid": "0000-0002-0865-2156",
+    "affiliation": "",
+    "ror": ""
+  },
+  "farooq_irqab": {
+    "prefix": "",
+    "lastName": "Farooq",
+    "firstName": "Irqab",
+    "articles": [
+      "faro_meno.2026.SLPCSAo3PCFUSA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -30826,6 +31760,17 @@ window.AUTHORS_DATA = {
       "abda_fatt_abda_tami.2021.EFaEoaFS3PH"
     ],
     "orcid": "0000-0002-9620-5910",
+    "affiliation": "",
+    "ror": ""
+  },
+  "fauziyah_shifa": {
+    "prefix": "",
+    "lastName": "Fauziyah",
+    "firstName": "Shifa",
+    "articles": [
+      "shol_suwa_fauz.2026.3PitCI"
+    ],
+    "orcid": "0009-0009-6006-4405",
     "affiliation": "",
     "ror": ""
   },
@@ -31176,6 +32121,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "feng_guoxian": {
+    "prefix": "",
+    "lastName": "Feng",
+    "firstName": "Guoxian",
+    "articles": [
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "feng_guoxin": {
     "prefix": "",
     "lastName": "Feng",
@@ -31250,7 +32206,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "yang_wu_han_huan.2023.IoGaSFQo3CPWwHS",
       "yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC",
-      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC"
+      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC",
+      "yuan_wang_han_feng.2026.EoLHoCSRaUAo3PC",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -31550,7 +32508,6 @@ window.AUTHORS_DATA = {
     "lastName": "Fernández",
     "firstName": "Brian",
     "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW",
       "alva_fern_garc_garc.2026.CDIfAaTPi3PTE"
     ],
     "orcid": "",
@@ -31571,6 +32528,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "fernandez_jose-carlos": {
+    "prefix": "",
+    "lastName": "Fernandez",
+    "firstName": "Jose-Carlos",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "fernandez_letizia": {
     "prefix": "",
     "lastName": "Fernandez",
@@ -31578,7 +32546,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "paiv_duar_fern_tole.2021.RPoMBGfTDPoS",
       "tino_mend_fern_cald.2022.LCAaESoCMf3CP",
-      "fern_cald_mend.2023.EEo3PCWCtLCPitCoSH"
+      "fern_cald_mend.2023.EEo3PCWCtLCPitCoSH",
+      "cava_fern_tole_mend.2024.3PMwDRCPaF"
     ],
     "orcid": "0009-0009-7983-1520",
     "affiliation": "",
@@ -31634,7 +32603,8 @@ window.AUTHORS_DATA = {
     "lastName": "Ferrández",
     "firstName": "Daniel",
     "articles": [
-      "fahf_leal_ferr_cobo.2026.FREB3P"
+      "fahf_leal_ferr_cobo.2026.FREB3P",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0003-3842-547X",
     "affiliation": "",
@@ -31789,6 +32759,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "fetter_robert": {
+    "prefix": "",
+    "lastName": "Fetter",
+    "firstName": "Robert",
+    "articles": [
+      "kren_rosk_zura_fett.2026.SBDoaVM3CPH"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "feys_dimitri": {
     "prefix": "",
     "lastName": "Feys",
@@ -31889,7 +32870,10 @@ window.AUTHORS_DATA = {
       "chie_bran_figu_cruz.2026.MPw3CP",
       "gonz_chie_bran_cruz.2026.3iOSC",
       "aros_reis_puga_bran.2026.HAS3CPvUREfICF",
-      "bran_ribe_aros_figu.2026.GRFfERRaP"
+      "bran_ribe_aros_figu.2026.GRFfERRaP",
+      "aros_reis_ribe_bran.2026.HRFoCM",
+      "iuor_wilc_figu.2026.DW",
+      "cruz_figu_bran.2026.DfAM"
     ],
     "orcid": "0000-0001-8439-7065",
     "affiliation": "",
@@ -32043,7 +33027,8 @@ window.AUTHORS_DATA = {
       "auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST",
       "auer_bos_fisc.2024.3f",
       "auer_hard_bos_esse.2026.DoaCDPCfaAMBDtIAMUCPS",
-      "olab_fisc_bos.2026.IABPaCC"
+      "olab_fisc_bos.2026.IABPaCC",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS"
     ],
     "orcid": "0000-0003-0528-5634",
     "affiliation": "",
@@ -32079,7 +33064,7 @@ window.AUTHORS_DATA = {
       "khos_bodi_burk_ethr.2005.LCC",
       "werk_edmu_fisk_khos.2015.OtDoACTfAtDoLMSSUISM",
       "fisk_edmu_weit_fike.2018.TDTTIAC",
-      "giwa_herb_lame_fisk.2024.PRCULS3PwSC",
+      "giwa_hebe_lame_fisk.2024.PRCULS3PwSC",
       "giwa_demp_fisk_kaze.2024.3PSRCPEfWERC",
       "sorg_zand_zhou_fisk.2024.ItEoAVotMPo3PCC",
       "bani_giwa_fisk_kaze.2026.PRCotMaMUWSRPM",
@@ -32140,16 +33125,20 @@ window.AUTHORS_DATA = {
       "lowk_anto_busw_jenn.2024.DFwCBHPL",
       "gure_chen_wang_llor.2024.SuiDCoC",
       "gure_wang_garg_flat.2024.RTDEMfILMPiDC",
-      "lima_wang_sanc_anto.2024.Do3PC",
       "mahm_wang_flat.2024.RoDC",
+      "nasc_wang_agui_anto.2024.Do3PC",
       "tao_titt_rahu_wang.2024.SMfSoDoDC",
       "wang_pata_flat.2024.SDC",
       "zimm_grie_flat.2024.VDoC3PSwARBoMLDIA",
-      "das_weng_walp_flat.2025.EAHoALCCfDF"
+      "das_weng_walp_flat.2025.EAHoALCCfDF",
+      "mahm_bess_wang_khay.2026.V",
+      "nasc_zahn_beli_su.2026.RC",
+      "come_su_wang_flat.2026.23CPwLCCB",
+      "mahm_bisc_wang_bick.2026.ADTDfCPEDaT"
     ],
     "orcid": "0000-0002-5609-8487",
-    "affiliation": "ETH Zurich",
-    "ror": "05a28rw58"
+    "affiliation": "",
+    "ror": ""
   },
   "fleckenstein_julia": {
     "prefix": "",
@@ -32299,7 +33288,8 @@ window.AUTHORS_DATA = {
       "fons_mato.2023.3CPSfSaC",
       "mato_fons_milh_pime.2026.DoEECfDF",
       "fons_mato_milh_pime.2026.TBoWCLaWGPf3CP",
-      "mato_milh_fons_pime.2026.TBoWCLaWGf3P"
+      "mato_milh_fons_pime.2026.TBoWCLaWGf3P",
+      "fons_quei_sant_maia.2026.FSCMfSaA3CP"
     ],
     "orcid": "0000-0002-2455-9859",
     "affiliation": "",
@@ -32464,7 +33454,8 @@ window.AUTHORS_DATA = {
       "tan_dahl_fott_kess.2022.IFotMPoaNNCMf3CP",
       "dahl_hech_matt_fott.2022.3CP",
       "dahl_tan_li_ajma.2024.AFaECMfDESoAMiC",
-      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM"
+      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P"
     ],
     "orcid": "0000-0001-6392-0371",
     "affiliation": "",
@@ -32700,7 +33691,9 @@ window.AUTHORS_DATA = {
       "dorr_gant_amir_lach.2025.FDtR",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "bohl_freu_lowk.2026.EoMaPPoCBoS3PE"
     ],
     "orcid": "0000-0003-2392-5439",
     "affiliation": "",
@@ -32712,7 +33705,8 @@ window.AUTHORS_DATA = {
     "firstName": "Bernhard",
     "articles": [
       "hans_schm_holz_tapl.2020.AFoCEbR",
-      "schm_gier_hans_trum.2024.FFPFb3CP"
+      "schm_gier_hans_trum.2024.FFPFb3CP",
+      "gier_schm_frey_trum.2026.SDaToaF3PCFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -32838,7 +33832,7 @@ window.AUTHORS_DATA = {
     "firstName": "Chaoshu",
     "articles": [
       "pan_guo_fu_ji.2023.EB3CPwDFD",
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -32883,7 +33877,8 @@ window.AUTHORS_DATA = {
     "lastName": "Fu",
     "firstName": "Qi",
     "articles": [
-      "liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P"
+      "liu_chen_zhan_niu.2022.SotIoSoRPBFaBoFFCf3P",
+      "chen_hua_xu_fu.2026.EoPSCPCFotRaHTBo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -32917,6 +33912,17 @@ window.AUTHORS_DATA = {
     "firstName": "Wei",
     "articles": [
       "chen_fu_zhan_she.2026.SMo3PGCTRCbSSaBF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "fu_xiyuan": {
+    "prefix": "",
+    "lastName": "Fu",
+    "firstName": "Xiyuan",
+    "articles": [
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -32960,7 +33966,7 @@ window.AUTHORS_DATA = {
     "lastName": "Fujikake",
     "firstName": "Kazunori",
     "articles": [
-      "suko_khom_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
+      "suko_komk_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
     ],
     "orcid": "0009-0004-4412-2074",
     "affiliation": "",
@@ -33033,7 +34039,8 @@ window.AUTHORS_DATA = {
       "senf_jave_funk_gelb.2025.EESo3PCMBoCSCaBFCCIB",
       "lind_funk_gelb_mull.2026.CPoTWFRPCEfFFMC",
       "abst_senf_glin_funk.2026.SPCCUHAM",
-      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB"
+      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB",
+      "abst_funk_senf_gelb.2027.HAMfSSMH"
     ],
     "orcid": "0000-0003-3423-9952",
     "affiliation": "",
@@ -33073,6 +34080,17 @@ window.AUTHORS_DATA = {
       "sang_spac_cama_risi.2026.SPo3PB"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "furtos_gabriel": {
+    "prefix": "",
+    "lastName": "Furtos",
+    "firstName": "Gabriel",
+    "articles": [
+      "korn_furt_balt.2026.QHAtCE"
+    ],
+    "orcid": "0000-0002-6418-6129",
     "affiliation": "",
     "ror": ""
   },
@@ -33294,7 +34312,8 @@ window.AUTHORS_DATA = {
     "lastName": "Galán-Marín",
     "firstName": "Carmen",
     "articles": [
-      "diz_jime_pere_rive.2025.PBOot3CP"
+      "diz_jime_pere_rive.2025.PBOot3CP",
+      "jime_diz_pere_carl.2026.B3PaPEC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -33345,6 +34364,17 @@ window.AUTHORS_DATA = {
       "fuen_gale_noga_xia.2026.TOS3PCFAbPT"
     ],
     "orcid": "0000-0001-8370-4043",
+    "affiliation": "",
+    "ror": ""
+  },
+  "galic_josip": {
+    "prefix": "",
+    "lastName": "Galić",
+    "firstName": "Josip",
+    "articles": [
+      "vare_gali_step_andr.2026.TORAFfS3PCC"
+    ],
+    "orcid": "0009-0002-4701-7996",
     "affiliation": "",
     "ror": ""
   },
@@ -33567,7 +34597,9 @@ window.AUTHORS_DATA = {
       "bodd_pand_gand.2022.RaPoPCBM",
       "bodd_gand_pand.2023.SoTDPFCaFoSC",
       "bodd_gand_pand.2024.SEoFAaPAFiISRaMPo3PFC",
-      "bodd_pand_gand.2024.IoWtSRoSPaMCo3PFC"
+      "bodd_pand_gand.2024.IoWtSRoSPaMCo3PFC",
+      "srin_bodd_dey_choa.2024.DoOFU3CP",
+      "guli_dogr_gupt_bodd.2025.BaMSwGC"
     ],
     "orcid": "0000-0002-3530-8609",
     "affiliation": "",
@@ -33874,6 +34906,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "gao_xinghua": {
+    "prefix": "",
+    "lastName": "Gao",
+    "firstName": "Xinghua",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0000-0002-3531-8137",
+    "affiliation": "",
+    "ror": ""
+  },
   "gao_yanan": {
     "prefix": "",
     "lastName": "Gao",
@@ -33905,7 +34948,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "zhao_gao_chen_li.2023.DoLCMfGaCBPf3CP",
       "yao_gao_huan_du.2025.IoPSaESotPaPSo3PM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "bong_zhao_gao_du.2026.HVGPCMfLCCAM"
     ],
     "orcid": "0000-0001-7059-5351",
@@ -33932,6 +34975,17 @@ window.AUTHORS_DATA = {
       "he_gao.2026.ARoNSMitMPo3PC"
     ],
     "orcid": "0000-0002-2505-6612",
+    "affiliation": "",
+    "ror": ""
+  },
+  "gao_yueqing": {
+    "prefix": "",
+    "lastName": "Gao",
+    "firstName": "Yueqing",
+    "articles": [
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -34048,12 +35102,11 @@ window.AUTHORS_DATA = {
       "guam_mart_garc_muno.2022.RDaCo3PC",
       "garc_moro_band.2022.DoVRBw3PW",
       "forc_mart_rami_garc.2023.PAo3CPPTDES",
-      "acun_aven_garc_band.2023.PDoM3PWBoRMsD",
       "garc_soza_moro_pedr.2024.FBMt3CP",
       "garc_soza_vale_mart.2024.DoaGDSf3PHiC",
       "forc_aluc_burk_garc.2024.CSoVPPf3CPoDGS",
       "casa_hida_vald_forc.2025.ORoCCWMwAC",
-      "garc_garc_buns_muno.2025.AC40",
+      "garc_buns_muno.2025.AC40",
       "anas_garc_wege.2025.TC",
       "soza_more_garc.2025.OtTPo3PA",
       "soza_pere_garc_vale.2025.3PoSD",
@@ -34071,7 +35124,8 @@ window.AUTHORS_DATA = {
     "lastName": "García Alvarez",
     "firstName": "José",
     "articles": [
-      "loai_orti_gome_garc.2023.3PAtBDAtW"
+      "loai_orti_gome_garc.2023.3PAtBDAtW",
+      "cast_gome_garc.2026.RSf3PS"
     ],
     "orcid": "0000-0003-2580-805X",
     "affiliation": "",
@@ -34104,7 +35158,6 @@ window.AUTHORS_DATA = {
     "lastName": "García",
     "firstName": "Ader",
     "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW",
       "alva_fern_garc_garc.2026.CDIfAaTPi3PTE"
     ],
     "orcid": "0000-0002-8090-248X",
@@ -34116,7 +35169,6 @@ window.AUTHORS_DATA = {
     "lastName": "Garcia",
     "firstName": "Claudia",
     "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW",
       "alva_fern_garc_garc.2026.CDIfAaTPi3PTE"
     ],
     "orcid": "0000-0002-8241-9969",
@@ -34142,6 +35194,17 @@ window.AUTHORS_DATA = {
       "fern_sanc_garc_hern.2025.DoaGf3PUSAWSS"
     ],
     "orcid": "0009-0001-7127-8486",
+    "affiliation": "",
+    "ror": ""
+  },
+  "garcia_pedro": {
+    "prefix": "",
+    "lastName": "García",
+    "firstName": "Pedro",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -34413,6 +35476,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "gayathiri_b": {
+    "prefix": "",
+    "lastName": "Gayathiri",
+    "firstName": "B.",
+    "articles": [
+      "gaya_kali_ambi_sent.2026.Oo3CPPURSMR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "gayatri_a": {
     "prefix": "",
     "lastName": "Gayatri",
@@ -34664,7 +35738,9 @@ window.AUTHORS_DATA = {
       "thie_hech_gehl_kran.2024.SPoAMCS",
       "stra_hayn_kran_gehl.2024.AMbtSPI",
       "hech_dahl_bos_kran.2025.ABAMA",
-      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM"
+      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "stra_geri_kran_gehl.2026.SPIS"
     ],
     "orcid": "0000-0002-1214-3960",
     "affiliation": "",
@@ -34705,7 +35781,9 @@ window.AUTHORS_DATA = {
       "senf_jave_funk_gelb.2025.EESo3PCMBoCSCaBFCCIB",
       "lind_funk_gelb_mull.2026.CPoTWFRPCEfFFMC",
       "abst_senf_glin_funk.2026.SPCCUHAM",
-      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB"
+      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB",
+      "abst_funk_senf_gelb.2027.HAMfSSMH",
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
     ],
     "orcid": "0009-0009-4137-0693",
     "affiliation": "",
@@ -34951,6 +36029,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "gerich_selina": {
+    "prefix": "",
+    "lastName": "Gerich",
+    "firstName": "Selina",
+    "articles": [
+      "stra_geri_kran_gehl.2026.SPIS"
+    ],
+    "orcid": "0009-0000-0330-9968",
+    "affiliation": "",
+    "ror": ""
+  },
   "gericke_oliver": {
     "prefix": "",
     "lastName": "Gericke",
@@ -35079,7 +36168,9 @@ window.AUTHORS_DATA = {
       "pier_ghab_dang_mesn.2024.MPMfEB3P",
       "pier_ghab_dang_mesn.2025.MMf3CP",
       "pier_ghab_dang_mesn.2025.MMo3CP",
-      "sepi_pier_bono_duco.2026.TWT"
+      "sepi_pier_bono_duco.2026.TWT",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0003-2431-2116",
     "affiliation": "",
@@ -35090,7 +36181,7 @@ window.AUTHORS_DATA = {
     "lastName": "Ghaderi",
     "firstName": "Ehsan",
     "articles": [
-      "ghad_evan_doyl_sens.2024.HBo3CPWA"
+      "ghad_evan_doyl_sens..HBo3CPWA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -35104,6 +36195,17 @@ window.AUTHORS_DATA = {
       "bawa_ghad.2026.R3PoBBSC"
     ],
     "orcid": "0009-0002-5061-1232",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ghadir_pooria": {
+    "prefix": "",
+    "lastName": "Ghadir",
+    "firstName": "Pooria",
+    "articles": [
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -35137,7 +36239,8 @@ window.AUTHORS_DATA = {
       "raqe_ghaf.2025.3CPiK",
       "nass_ali_rub_cho.2025.OCBMFf3P",
       "noai_chou_seid_alba.2025.OLCCCfE3PPoLCM",
-      "noai_chou_samb_vale.2025.OLCCCCELGWCf3PA"
+      "noai_chou_samb_vale.2025.OLCCCCELGWCf3PA",
+      "barv_upad_shah_ghaf.2026.EOpGf3PUDPRPMaS"
     ],
     "orcid": "0000-0002-4694-9508",
     "affiliation": "",
@@ -35211,6 +36314,17 @@ window.AUTHORS_DATA = {
       "gupt_ghan_weis_moin.2026.PCaAiAMCM"
     ],
     "orcid": "0000-0002-1918-5450",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ghasbeh_mohammad": {
+    "prefix": "",
+    "lastName": "Ghasbeh",
+    "firstName": "Mohammad",
+    "articles": [
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -35292,7 +36406,9 @@ window.AUTHORS_DATA = {
       "prem_ambi_kuma_ghod.2024.ATMtPtSBo3PC",
       "ghod_chow_sing.2025.CFBoCAB3PCBUAET",
       "ghod_sing_sing_chow.2025.AMSMaSiCaBA",
-      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC"
+      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC",
+      "ghod_sing_chow.2026.RCo3PCMwCA",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM"
     ],
     "orcid": "0000-0002-0796-2566",
     "affiliation": "",
@@ -35489,7 +36605,8 @@ window.AUTHORS_DATA = {
     "firstName": "David",
     "articles": [
       "schm_gier_hans_trum.2024.FFPFb3CP",
-      "gier_hans_schm_trum.2025.DaCw3CP"
+      "gier_hans_schm_trum.2025.DaCw3CP",
+      "gier_schm_frey_trum.2026.SDaToaF3PCFP"
     ],
     "orcid": "0009-0008-9425-8710",
     "affiliation": "",
@@ -35622,6 +36739,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "gip-lim_sean": {
+    "prefix": "",
+    "lastName": "Gip Lim",
+    "firstName": "Sean",
+    "articles": [
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "giraldo-soto_alejandro": {
     "prefix": "",
     "lastName": "Giraldo-Soto",
@@ -35631,7 +36759,8 @@ window.AUTHORS_DATA = {
       "gira_gebh_anto_dill.2024.STCfa3mT3PCT",
       "licc_gira_kauf_mete.2025.DtSo3PCwtMSST",
       "licc_meil_gira_kauf.2025.DTToR3PCT",
-      "licc_bing_gira_kauf.2026.ESotTBoR3PCT"
+      "licc_bing_gira_kauf.2026.ESotTBoR3PCT",
+      "nasc_zahn_beli_su.2026.RC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -35684,7 +36813,8 @@ window.AUTHORS_DATA = {
     "firstName": "Gianluca",
     "articles": [
       "giul_menn.2025.TRoIIi3PE",
-      "giul_muda_menn.2026.EIoISBi3PCUVCC"
+      "giul_muda_menn.2026.EIoISBi3PCUVCC",
+      "muda_giul_giul_menn.2026.SRo3PCPUDC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -35697,20 +36827,11 @@ window.AUTHORS_DATA = {
     "articles": [
       "giul_menn_capo_aspr.2024.EBoa3PCWwFBAStIPCL",
       "muda_giul_menn.2024.TEoPPotSBo3PCPUDCT",
-      "giul_capo_menn.2025.EaAAotIPBo3PCWStCL"
+      "giul_capo_menn.2025.EaAAotIPBo3PCWStCL",
+      "giul_menn.2026.RDo3PCWUIPA",
+      "muda_giul_giul_menn.2026.SRo3PCPUDC"
     ],
     "orcid": "0009-0008-2542-3348",
-    "affiliation": "",
-    "ror": ""
-  },
-  "giulvo_marco": {
-    "prefix": "",
-    "lastName": "Giulvo",
-    "firstName": "Marco",
-    "articles": [
-      "giul_menn.2026.RDo3PCWUIPA"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -35735,7 +36856,8 @@ window.AUTHORS_DATA = {
       "givk_mood_rame.2024.EoPPotPo3PCCAEA",
       "givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS",
       "givk_mood_rame.2025.ISaMPo3PCUDCC",
-      "givk.2025.Do3PCCAEA"
+      "givk.2025.Do3PCCAEA",
+      "dehe_givk_mood.2026.REo3PCUNCaPF"
     ],
     "orcid": "0000-0001-7652-0297",
     "affiliation": "",
@@ -35750,7 +36872,7 @@ window.AUTHORS_DATA = {
       "game_giwa_ahme_noor.2022.DoUHPECCf3PA",
       "giwa_game_ahme_noor.2023.PaMCo3PSFRCM",
       "kaze_giwa_eken.2023.LSAMfAC",
-      "giwa_herb_lame_fisk.2024.PRCULS3PwSC",
+      "giwa_hebe_lame_fisk.2024.PRCULS3PwSC",
       "ahme_giwa_game_arce.2024.ARDLSAM",
       "giwa_demp_fisk_kaze.2024.3PSRCPEfWERC",
       "giwa_kaze_gopu_rupn.2024.ACLBAo3PCE",
@@ -35777,7 +36899,8 @@ window.AUTHORS_DATA = {
     "lastName": "Gkountas",
     "firstName": "Charalampos",
     "articles": [
-      "chor_gkou_meli_kata.2025.SPEo3PCWTNM"
+      "chor_gkou_meli_kata.2025.SPEo3PCWTNM",
+      "chor_gkou_meli_kata.2026.SPoaTS3PCBATNFEA"
     ],
     "orcid": "0009-0001-4317-4292",
     "affiliation": "",
@@ -35903,7 +37026,9 @@ window.AUTHORS_DATA = {
       "meng_schm_gobe_lahm.2020.NMoaEB3CPPCaSVPDA",
       "schm_meng_gobe_konk.2021.NMoaEBCPPCSaTVMaPP",
       "meng_schm_gobe_lahm.2021.NSf3PWSDtPoPCU",
-      "meng_schm_gobe_lahm.2023.NMo3CPWStREtFM"
+      "meng_schm_gobe_lahm.2023.NMo3CPWStREtFM",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "heik_ehle_echt_gobe.2026.MCoCMUHMP"
     ],
     "orcid": "0000-0003-1955-1024",
     "affiliation": "",
@@ -35987,6 +37112,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "chee_tan_goh_amts.2018.LDCbDCI",
       "chee_tan_goh_amts.2019.CFbDCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "goh_yong-zheng": {
+    "prefix": "",
+    "lastName": "Goh",
+    "firstName": "Yong-Zheng",
+    "articles": [
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -36103,13 +37239,14 @@ window.AUTHORS_DATA = {
     "lastName": "Gomaa",
     "firstName": "Shady",
     "articles": [
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P",
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
-      "marr_goma_iriz_ahme.2025.AMoUHPC"
+      "marr_goma_iriz_ahme.2025.AMoUHPC",
+      "pal_goma_cusa_kete.2026.MIoFMCPRf3PA"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-0887-192X",
     "affiliation": "",
     "ror": ""
   },
@@ -36152,7 +37289,8 @@ window.AUTHORS_DATA = {
     "firstName": "Daniel",
     "articles": [
       "loai_orti_gome_garc.2023.3PAtBDAtW",
-      "truj_vill_gome.2026.SCMwFRi3P"
+      "truj_vill_gome.2026.SCMwFRi3P",
+      "cast_gome_garc.2026.RSf3PS"
     ],
     "orcid": "0000-0001-5244-8876",
     "affiliation": "",
@@ -36187,7 +37325,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "gomz_taub_soko_reut.2024.SfMBPoCRf3STG",
       "kond_gomz_lieb_mech.2024.3PbSAoGBB",
-      "jose_berd_gomz_donn.2026.ELFCRwRCFfAP"
+      "jose_berd_gomz_donn.2026.ELFCRwRCFfAP",
+      "gomz_muth_mech.2026.IoEINSotBo3PC"
     ],
     "orcid": "0009-0006-6509-0264",
     "affiliation": "",
@@ -36321,7 +37460,8 @@ window.AUTHORS_DATA = {
       "dong_yuan_chen_jia.2025.PLSESEwUHPC",
       "dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT",
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA",
-      "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP"
+      "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -36343,9 +37483,10 @@ window.AUTHORS_DATA = {
     "lastName": "Gonsalves",
     "firstName": "Nicolas",
     "articles": [
-      "gons_morg_thie_olar.2025.3PoSIURSCCwBA"
+      "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
-    "orcid": "",
+    "orcid": "0009-0007-0635-9865",
     "affiliation": "",
     "ror": ""
   },
@@ -36560,7 +37701,7 @@ window.AUTHORS_DATA = {
     "lastName": "Górecki",
     "firstName": "Jarosław",
     "articles": [
-      "li_li_skib_wang.2023.MQCwNLFMi3CP"
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP"
     ],
     "orcid": "0000-0001-6829-3127",
     "affiliation": "",
@@ -36668,6 +37809,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "goudar_sharan": {
+    "prefix": "",
+    "lastName": "Goudar",
+    "firstName": "Sharan",
+    "articles": [
+      "raje_nair_naga_goud.2026.GSFBCCfEB3CP"
+    ],
+    "orcid": "0000-0002-6068-2491",
+    "affiliation": "",
+    "ror": ""
+  },
   "goudarzi_nima": {
     "prefix": "",
     "lastName": "Goudarzi",
@@ -36676,6 +37828,17 @@ window.AUTHORS_DATA = {
       "troe_ramy_meeh_john.2022.A3PCAtMHAaF"
     ],
     "orcid": "0000-0002-6050-4281",
+    "affiliation": "",
+    "ror": ""
+  },
+  "goulas_athanasios": {
+    "prefix": "",
+    "lastName": "Goulas",
+    "firstName": "Athanasios",
+    "articles": [
+      "wu_zhi_goul_moha.2026.L3CP"
+    ],
+    "orcid": "0000-0002-4203-8547",
     "affiliation": "",
     "ror": ""
   },
@@ -36722,7 +37885,8 @@ window.AUTHORS_DATA = {
     "firstName": "Shweta",
     "articles": [
       "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB",
-      "sing_anan_liu_tam.2025.EIBi3PCUBBB"
+      "sing_anan_liu_tam.2025.EIBi3PCUBBB",
+      "kaur_goya_kwat_bera.2026.PoS3PBMStCICE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -36837,7 +38001,6 @@ window.AUTHORS_DATA = {
       "gebh_mata_anto_burg.2020.AILFRaPTaaRSfDF",
       "szab_reit_llor_wang.2020.A",
       "jenn_llor_gram_kohl.2020.CPTCMRFOS",
-      "burg_wang_chiu_tech.2021.MIFG",
       "fran_llor_taha_gram.2021.DCBRDaDRfRCS",
       "gebh_burg_mata_llor.2022.TECSwUT3PF",
       "llor_quad_scot_fuhr.2022.ADC",
@@ -37080,7 +38243,12 @@ window.AUTHORS_DATA = {
     "firstName": "Benedikt",
     "articles": [
       "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "bos_chen_grim_unte.2026.FGTNNBAMT",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "grim_unte_chen_bos.2026.TS3CP",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P",
+      "grim_chov_rich_kran.2026.FSoAISMoCSUMRS"
     ],
     "orcid": "0000-0001-7711-6499",
     "affiliation": "",
@@ -37162,6 +38330,17 @@ window.AUTHORS_DATA = {
       "from_gros_scho_smog.2025.MoMaMCC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "grosse_bastian": {
+    "prefix": "",
+    "lastName": "Große",
+    "firstName": "Bastian",
+    "articles": [
+      "gro_voll.2026.CVBISQoPMf3CE"
+    ],
+    "orcid": "0009-0008-0250-0769",
     "affiliation": "",
     "ror": ""
   },
@@ -37316,9 +38495,11 @@ window.AUTHORS_DATA = {
     "firstName": "Maurizio",
     "articles": [
       "das_prat_nema_guad.2025.DPo3PUHSCICI",
-      "das_prat_guad_nema.2026.RoCIoDPo3PU"
+      "das_prat_guad_nema.2026.RoCIoDPo3PU",
+      "das_thak_guad_unlu.2026.RoCIoCTMi3PCUCCSE",
+      "zhou_guad_khay_nema.2026.UTTRMOaPPRMf3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-2551-2187",
     "affiliation": "",
     "ror": ""
   },
@@ -37351,7 +38532,7 @@ window.AUTHORS_DATA = {
     "lastName": "Guan",
     "firstName": "Dian",
     "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -37607,7 +38788,8 @@ window.AUTHORS_DATA = {
       "rodr_orte_medi_guim.2026.MftSoPPi3PCM",
       "fahf_leal_ferr_cobo.2026.FREB3P",
       "pere_guim_mato.2026.MLCoa3PCC",
-      "fahf_pess_buso_bart.2027.FRECfSAMiC"
+      "fahf_pess_buso_bart.2027.FRECfSAMiC",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0002-8467-6264",
     "affiliation": "",
@@ -37782,17 +38964,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "guo_chao": {
-    "prefix": "",
-    "lastName": "Guo",
-    "firstName": "Chao",
-    "articles": [
-      "miao_guo_lu_chen.2022.3MSAoCCDDDDFTC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "guo_chong": {
     "prefix": "",
     "lastName": "Guo",
@@ -37843,7 +39014,8 @@ window.AUTHORS_DATA = {
     "firstName": "Guanqin",
     "articles": [
       "zhen_li_xi_sun.2026.RotRoRPo3PRCaMOOoPP",
-      "guo_du.2026.AMRCAMSTUA"
+      "guo_du.2026.AMRCAMSTUA",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -37877,6 +39049,17 @@ window.AUTHORS_DATA = {
     "firstName": "Kai",
     "articles": [
       "liu_li_deng_wang.2026.RBotCM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "guo_li-ping": {
+    "prefix": "",
+    "lastName": "Guo",
+    "firstName": "Li-Ping",
+    "articles": [
+      "guo_chen_rui_liu.2026.TC3PoHDCCwCPPfCoPCCP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -37924,7 +39107,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "pan_guo_jian_ji.2022.HDtCSFAtILBSo3PM",
       "pan_guo_jian_ji.2022.FaDBoCMTNwDGP",
-      "pan_guo_fu_ji.2023.EB3CPwDFD"
+      "pan_guo_fu_ji.2023.EB3CPwDFD",
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "0000-0002-2290-4911",
     "affiliation": "",
@@ -37948,6 +39132,17 @@ window.AUTHORS_DATA = {
     "firstName": "Shaozu",
     "articles": [
       "mo_lu_ren_lai.2026.IoWRPSaRRotCSAaPSo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "guo_shengyue": {
+    "prefix": "",
+    "lastName": "Guo",
+    "firstName": "Shengyue",
+    "articles": [
+      "ojha_guo_hens_roes.2026.IoWCaABfRTDCPitCI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -37982,7 +39177,8 @@ window.AUTHORS_DATA = {
     "lastName": "Guo",
     "firstName": "Weihao",
     "articles": [
-      "guo_wang_deng_liu.2026.ABoCR3PC"
+      "guo_wang_deng_liu.2026.ABoCR3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -38126,17 +39322,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "guoa_rongxin": {
-    "prefix": "",
-    "lastName": "Guoa",
-    "firstName": "Rongxin",
-    "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "gupta_anjali": {
     "prefix": "",
     "lastName": "Gupta",
@@ -38183,7 +39368,8 @@ window.AUTHORS_DATA = {
       "gupt_ghan_weis_moin.2026.PCaAiAMCM",
       "najm_gupt_maki_lin.2026.TDaSHSCCEbMMAM",
       "gupt_najm_moin.2026.FMoLaAMMFMoL",
-      "najm_gupt_moin.2026.CFMoLaAMM"
+      "najm_gupt_moin.2026.CFMoLaAMM",
+      "gupt_moin.2026.EMoBIACMAaCAEbDF"
     ],
     "orcid": "0000-0002-1192-9603",
     "affiliation": "",
@@ -38277,13 +39463,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "gurunandan_m": {
+  "gurunandan_madapura": {
     "prefix": "",
     "lastName": "Gurunandan",
-    "firstName": "M.",
+    "firstName": "Madapura",
     "articles": [
       "guru_mala_nant.2024.EoWtBAtBRaAoPaMPo3PMM",
-      "guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA"
+      "guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA",
+      "guru_nant.2027.IIPi3PAAMwVPTG"
     ],
     "orcid": "0000-0002-6140-7432",
     "affiliation": "",
@@ -38413,17 +39600,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "ha_cheol-woo": {
-    "prefix": "",
-    "lastName": "Ha",
-    "firstName": "Cheol-Woo",
-    "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "ha_seong": {
     "prefix": "",
     "lastName": "Ha",
@@ -38477,7 +39653,8 @@ window.AUTHORS_DATA = {
       "assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM",
       "vase_chad_kang_leun.2024.IP",
       "posa_vone_odag_du.2025.LCIHRv3PSBC",
-      "kuzm_monk_mesn_duco.2026.CCCo3PT"
+      "kuzm_monk_mesn_duco.2026.CCCo3PT",
+      "nasc_zahn_beli_su.2026.RC"
     ],
     "orcid": "0000-0003-3533-7896",
     "affiliation": "",
@@ -38490,7 +39667,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "toub_alar_habi_habi.2026.ACGFfIPQAf3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-5607-9334",
     "affiliation": "",
     "ror": ""
   },
@@ -38501,7 +39678,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "toub_alar_habi_habi.2026.ACGFfIPQAf3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-0102-8852",
     "affiliation": "",
     "ror": ""
   },
@@ -38522,9 +39699,21 @@ window.AUTHORS_DATA = {
     "firstName": "Alireza",
     "articles": [
       "habi_busw_osma_azim.2024.SPi3CP",
-      "habi_osma_busw.2026.HOS3CPfCC"
+      "habi_osma_busw.2026.HOS3CPfCC",
+      "habi_osma_busw.2027.BaEtCEIi3CP"
     ],
     "orcid": "0000-0002-2707-2237",
+    "affiliation": "",
+    "ror": ""
+  },
+  "habraken_arjan": {
+    "prefix": "",
+    "lastName": "Habraken",
+    "firstName": "Arjan",
+    "articles": [
+      "nan_asva_habr.2026.D3PCC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -38586,7 +39775,10 @@ window.AUTHORS_DATA = {
       "jaco_zoll_hack_mai.2025.EoPPRiI3CP",
       "mai_jaco_dori_hack.2026.FoLaMCwI3CP",
       "plac_tesc_mawa_thor.2026.TtIoAMiaCPCS",
-      "goss_mehd_khad_hack.2027.SRRE"
+      "goss_mehd_khad_hack.2027.SRRE",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "dori_mehd_jaco_mai.2026.I3CP",
+      "voll_hack_klof_dorf.2026.LSDfAMiC"
     ],
     "orcid": "0000-0002-5261-6726",
     "affiliation": "",
@@ -38643,7 +39835,8 @@ window.AUTHORS_DATA = {
     "lastName": "Hafez",
     "firstName": "Islam",
     "articles": [
-      "gons_morg_thie_olar.2025.3PoSIURSCCwBA"
+      "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -38687,6 +39880,17 @@ window.AUTHORS_DATA = {
       "hagh_moll_sann_boye.2024.RaPoCPMwFfMS"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "haghighat_sadegh": {
+    "prefix": "",
+    "lastName": "Haghighat",
+    "firstName": "Sadegh",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0000-0003-2114-0531",
     "affiliation": "",
     "ror": ""
   },
@@ -38754,6 +39958,17 @@ window.AUTHORS_DATA = {
     "firstName": "Hoang",
     "articles": [
       "liu_hai_tran_tran.2025.AMIi3PCMvXRMCT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hai_hong": {
+    "prefix": "",
+    "lastName": "Hai",
+    "firstName": "Hong",
+    "articles": [
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -38871,6 +40086,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "halim_izzniyusri": {
+    "prefix": "",
+    "lastName": "Halim",
+    "firstName": "Izzniyusri",
+    "articles": [
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "hall_alice": {
     "prefix": "",
     "lastName": "Hall",
@@ -38934,6 +40160,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "hamada_akitoshi": {
+    "prefix": "",
+    "lastName": "Hamada",
+    "firstName": "Akitoshi",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hamaekers_helen": {
+    "prefix": "",
+    "lastName": "Hamaekers",
+    "firstName": "Helen",
+    "articles": [
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "hamaz_raja": {
     "prefix": "",
     "lastName": "Hamaz",
@@ -38974,7 +40222,8 @@ window.AUTHORS_DATA = {
     "lastName": "Hamed",
     "firstName": "Ehab",
     "articles": [
-      "you_hame_kash.2026.PoSICi3PMUDEC"
+      "you_hame_kash.2026.PoSICi3PMUDEC",
+      "you_hame_kash.2026.SBo3PWURC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -39213,9 +40462,22 @@ window.AUTHORS_DATA = {
     "articles": [
       "qi_bai_huan_yang.2022.M3PTfCE",
       "yang_wu_han_huan.2023.IoGaSFQo3CPWwHS",
-      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC"
+      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC",
+      "yuan_wang_han_feng.2026.EoLHoCSRaUAo3PC",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "han_minjae": {
+    "prefix": "",
+    "lastName": "Han",
+    "firstName": "Minjae",
+    "articles": [
+      "kim_han_bae_suh.2026.IBQPAoCM"
+    ],
+    "orcid": "0009-0002-7688-6517",
     "affiliation": "",
     "ror": ""
   },
@@ -39224,10 +40486,10 @@ window.AUTHORS_DATA = {
     "lastName": "Han",
     "firstName": "Nv",
     "articles": [
-      "tian_han.2018.PC01oNAECDbFTCBoCSa3P",
       "xiao_han_zhan_zou.2021.MaMEo3PCwPFaRSaET",
       "ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA",
-      "han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET"
+      "han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET",
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -39305,7 +40567,8 @@ window.AUTHORS_DATA = {
     "firstName": "Tong-Seok",
     "articles": [
       "kim_han.2025.BAi3CPUCVaAA",
-      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS"
+      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS",
+      "eum_han.2026.APFAfPCBo3PCS"
     ],
     "orcid": "0000-0002-5281-3922",
     "affiliation": "",
@@ -39423,13 +40686,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "hang_shuo": {
+    "prefix": "",
+    "lastName": "Hang",
+    "firstName": "Shuo",
+    "articles": [
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "hanif_asad": {
     "prefix": "",
     "lastName": "Hanif",
     "firstName": "Asad",
     "articles": [
       "ali_riaz_mali_abba.2023.MLBPMfTaFSo3PC",
-      "elna_shaf_hani.2026.MDOaSCf3PUHPC"
+      "elna_shaf_hani.2026.MDOaSCf3PUHPC",
+      "shaf_moha_hani.2026.3PUHPC"
     ],
     "orcid": "0000-0002-4318-7712",
     "affiliation": "",
@@ -39445,6 +40720,17 @@ window.AUTHORS_DATA = {
       "hani_figu_mahd_mend.2024.COo3PSSS",
       "hani_mend_figu_mahd.2025.ESotTPo3PEWSwOIP",
       "hani_lope_figu_mend.2026.3PEBWS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hanlon_justin": {
+    "prefix": "",
+    "lastName": "Hanlon",
+    "firstName": "Justin",
+    "articles": [
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -39516,7 +40802,7 @@ window.AUTHORS_DATA = {
     "lastName": "Hanxiong",
     "firstName": "Lyu",
     "articles": [
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC"
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -39533,7 +40819,8 @@ window.AUTHORS_DATA = {
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
       "sapa_sink_sahm_kora.2025.EBPf3PC",
       "mech_muth_robe_wolf.2025.CSaMoE",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0002-8209-4308",
     "affiliation": "",
@@ -39580,10 +40867,10 @@ window.AUTHORS_DATA = {
       "hao_xiao_sun_xia.2022.TCo3PCwRFACPCM",
       "zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS",
       "li_hao_li_xiao.2023.DoCI3PC",
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM",
       "zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV",
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC",
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC",
       "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS",
       "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP"
     ],
@@ -39735,6 +41022,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "harfi_muhammad": {
+    "prefix": "",
+    "lastName": "Harfi",
+    "firstName": "Muhammad",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "haripan_vislavath": {
     "prefix": "",
     "lastName": "Haripan",
@@ -39743,7 +41041,8 @@ window.AUTHORS_DATA = {
       "hari_sent_gett_sant.2024.OTaEPAo3PCwRCFAURaCVT",
       "hari_sent_sant_raph.2025.PAoC3PEwRFA",
       "hari_sant_gett.2026.TBWCFaBi3PCF",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "mand_hari_bisw_pand.2026.TS3CP"
     ],
     "orcid": "0009-0003-4853-7587",
     "affiliation": "",
@@ -39812,6 +41111,17 @@ window.AUTHORS_DATA = {
       "borr_bruc_dorf_hart.2026.TIBoRC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "haruna_sadi": {
+    "prefix": "",
+    "lastName": "Haruna",
+    "firstName": "Sadi",
+    "articles": [
+      "haru_ibra_bash.2026.HFMaRTMfCSPo3PCCDA"
+    ],
+    "orcid": "0000-0002-8466-9144",
     "affiliation": "",
     "ror": ""
   },
@@ -39932,13 +41242,14 @@ window.AUTHORS_DATA = {
     "lastName": "Hashemi",
     "firstName": "Arman",
     "articles": [
-      "benr_hash_yung_dung.2024.MHURM",
+      "dor_hash_yuns_dung.2024.MHURM",
       "dhar_kuma_kach_dung.2024.S3PfC",
-      "benr_hash_yuns_call.2025.RMH",
+      "dor_hash_yuns_call.2025.RMH",
       "dung_hash_dor_wirz.2025.PLSCT3P",
-      "dung_hash_lang_wirz.2025.SPo3PCW"
+      "dung_hash_lang_wirz.2025.SPo3PCW",
+      "dung_hash_benr_wirz..EPCiR3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-6311-000X",
     "affiliation": "",
     "ror": ""
   },
@@ -40113,7 +41424,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "hass_bern_raza_kamm.2024.FAo3PoPCSSBM",
       "hass_raza_shaf_maho.2024.ItI3CPoPCSSBM",
-      "raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS"
+      "raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0000-0003-2162-0682",
     "affiliation": "",
@@ -40280,7 +41592,8 @@ window.AUTHORS_DATA = {
     "lastName": "Haynack",
     "firstName": "Alexander",
     "articles": [
-      "stra_hayn_kran_gehl.2024.AMbtSPI"
+      "stra_hayn_kran_gehl.2024.AMbtSPI",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0003-2262-6111",
     "affiliation": "",
@@ -40704,7 +42017,8 @@ window.AUTHORS_DATA = {
     "lastName": "He",
     "firstName": "Yao",
     "articles": [
-      "xiao_he_yu_wang.2025.EoPCMotPoM"
+      "xiao_he_yu_wang.2025.EoPCMotPoM",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
     ],
     "orcid": "0009-0005-5072-7253",
     "affiliation": "",
@@ -40810,7 +42124,8 @@ window.AUTHORS_DATA = {
     "lastName": "Hebert",
     "firstName": "Marc",
     "articles": [
-      "ahme_giwa_game_hebe.2022.SSFRf3PEaS"
+      "ahme_giwa_game_hebe.2022.SSFRf3PEaS",
+      "giwa_hebe_lame_fisk.2024.PRCULS3PwSC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -40887,7 +42202,8 @@ window.AUTHORS_DATA = {
     "firstName": "Hauke",
     "articles": [
       "lach_quan_heer_reck.2024.ASMLCCfSGCiRBAMP",
-      "gerk_mawa_heer_raat.2026.DMaCoMAMiC"
+      "gerk_mawa_heer_raat.2026.DMaCoMAMiC",
+      "rich_heer_raat_dorf.2026.IRAMPfCMEiCAE"
     ],
     "orcid": "0009-0009-9046-5859",
     "affiliation": "",
@@ -40902,7 +42218,6 @@ window.AUTHORS_DATA = {
       "curb_hegg_biel_schm.2023.NPoCRCS",
       "enge_hegg_cla.2024.AMPaSPoRCS",
       "enge_hegg_cla.2025.MAFwC",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
       "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF"
     ],
     "orcid": "0000-0003-3066-5006",
@@ -40950,6 +42265,18 @@ window.AUTHORS_DATA = {
       "heif_shri_bakh_aran.2021.Qo3PMwECM"
     ],
     "orcid": "0000-0002-8891-9323",
+    "affiliation": "",
+    "ror": ""
+  },
+  "heik_paula": {
+    "prefix": "",
+    "lastName": "Heik",
+    "firstName": "Paula",
+    "articles": [
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "heik_ehle_echt_gobe.2026.MCoCMUHMP"
+    ],
+    "orcid": "0009-0005-0116-2751",
     "affiliation": "",
     "ror": ""
   },
@@ -41106,7 +42433,8 @@ window.AUTHORS_DATA = {
     "firstName": "Mohammad",
     "articles": [
       "mard_hema_ozte_qais.2026.ICSBo3PCLfMfAPPDaS",
-      "mard_hema_ozte_qais.2026.ABo3PC"
+      "mard_hema_ozte_qais.2026.ABo3PC",
+      "mard_sahi_hema_kamc.2026.3PCRT"
     ],
     "orcid": "0000-0002-0090-5745",
     "affiliation": "",
@@ -41150,8 +42478,8 @@ window.AUTHORS_DATA = {
     "lastName": "Hendricks",
     "firstName": "Jan",
     "articles": [
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF"
+      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
+      "enge_hend_cla.2027.RCRCR"
     ],
     "orcid": "0009-0003-7070-2841",
     "affiliation": "",
@@ -41173,23 +42501,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "henriques_goncalo": {
-    "prefix": "",
-    "lastName": "Henriques",
-    "firstName": "Gonçalo",
-    "articles": [
-      "nobr_henr_pass.2023.3PfA"
-    ],
-    "orcid": "0000-0002-4848-2032",
-    "affiliation": "",
-    "ror": ""
-  },
   "henschen_jacob": {
     "prefix": "",
     "lastName": "Henschen",
     "firstName": "Jacob",
     "articles": [
-      "hens_bloo_kawa_kirk.2023.TAMwCfCM"
+      "hens_bloo_kawa_kirk.2023.TAMwCfCM",
+      "ojha_guo_hens_roes.2026.IoWCaABfRTDCPitCI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -41225,17 +42543,6 @@ window.AUTHORS_DATA = {
     "firstName": "Sumudu",
     "articles": [
       "kuma_peir_hera_medd.2026.ARotIRaFPo3PC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "herbert_marc": {
-    "prefix": "",
-    "lastName": "Herbert",
-    "firstName": "Marc",
-    "articles": [
-      "giwa_herb_lame_fisk.2024.PRCULS3PwSC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -41647,6 +42954,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "himairi_haider": {
+    "prefix": "",
+    "lastName": "Himairi",
+    "firstName": "Haider",
+    "articles": [
+      "hima_tang_atae_snee.2027.M3CPaHFASS"
+    ],
+    "orcid": "0009-0001-3081-0122",
+    "affiliation": "",
+    "ror": ""
+  },
   "himmel_michael": {
     "prefix": "",
     "lastName": "Himmel",
@@ -41969,6 +43287,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "holmgren_ben": {
+    "prefix": "",
+    "lastName": "Holmgren",
+    "firstName": "Ben",
+    "articles": [
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "holmstrom_jan": {
     "prefix": "",
     "lastName": "Holmström",
@@ -42282,16 +43611,18 @@ window.AUTHORS_DATA = {
     "lastName": "Hosny",
     "firstName": "Fatma",
     "articles": [
-      "mant_sati_hosn_abda.2024.AG3PLCALFfAA"
+      "mant_sati_hosn_abda.2024.AG3PLCALFfAA",
+      "sati_hosn_abda_mant.2026.CEEAoD3CPM",
+      "sati_hosn_mant_dabo.2027.TDCPitCI"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-6108-4226",
     "affiliation": "",
     "ror": ""
   },
-  "hossain_md_aslam": {
+  "hossain_md-aslam": {
     "prefix": "",
     "lastName": "Hossain",
-    "firstName": "Md.",
+    "firstName": "Md Aslam",
     "articles": [
       "hoss_zhum_paul_kim.2020.ARo3PiCaIIotLM"
     ],
@@ -42299,25 +43630,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "hossain_md_minaz": {
+  "hossain_md-minaz": {
     "prefix": "",
     "lastName": "Hossain",
-    "firstName": "Md",
+    "firstName": "Md Minaz",
     "articles": [
       "rase_hoss_zuba_zhan.2024.EtFaRPo3PCwFRC"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "hossain_md_rakib": {
-    "prefix": "",
-    "lastName": "Hossain",
-    "firstName": "Md",
-    "articles": [
-      "khal_faki_yase_osta.2026.IoCCaMRoSDoOPAAM"
-    ],
-    "orcid": "0009-0006-2233-7781",
     "affiliation": "",
     "ror": ""
   },
@@ -42416,20 +43736,10 @@ window.AUTHORS_DATA = {
     "firstName": "Guanyu",
     "articles": [
       "zhou_hou_liu_li.2023.MPoSB3PMCRC",
+      "liu_li_li_hou.2023.MPOiSBTDPMUCF",
       "liu_cai_ma_hou.2024.SB3CPPDM"
     ],
     "orcid": "0000-0002-0902-4899",
-    "affiliation": "",
-    "ror": ""
-  },
-  "hou_gunayu": {
-    "prefix": "",
-    "lastName": "Hou",
-    "firstName": "Gunayu",
-    "articles": [
-      "liu_li_li_hou.2023.MPOiSBTDPMUCF"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -42466,7 +43776,8 @@ window.AUTHORS_DATA = {
       "xiao_lv_duan_hou.2022.SoPaMPo3PCwDAC",
       "xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC",
       "hou_duan_ye_zou.2023.MPaPSo3PMwRP",
-      "hou_wu_duan_zhou.2024.RoFRMf3PC"
+      "hou_wu_duan_zou.2024.RoFRMf3PC",
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -42576,8 +43887,7 @@ window.AUTHORS_DATA = {
     "lastName": "Howell",
     "firstName": "Cole",
     "articles": [
-      "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP"
+      "most_mote_bagh_etem.2024.RC3PCTP"
     ],
     "orcid": "0009-0009-4383-974X",
     "affiliation": "",
@@ -42599,9 +43909,10 @@ window.AUTHORS_DATA = {
     "lastName": "Howiacki",
     "firstName": "Tomasz",
     "articles": [
-      "walc_howi.2026.Ao3PCwDFOS"
+      "walc_howi.2026.Ao3PCwDFOS",
+      "howi_badu_sien_bedn.2026.BaCoDiRPa3PCR"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-6833-7203",
     "affiliation": "",
     "ror": ""
   },
@@ -42710,6 +44021,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "hu_haitao": {
+    "prefix": "",
+    "lastName": "Hu",
+    "firstName": "Haitao",
+    "articles": [
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "hu_hanyang": {
     "prefix": "",
     "lastName": "Hu",
@@ -42718,17 +44040,6 @@ window.AUTHORS_DATA = {
       "huan_xu_hu.2023.SFaPPGMfLA3CPP"
     ],
     "orcid": "0000-0002-2625-5939",
-    "affiliation": "",
-    "ror": ""
-  },
-  "hu_hao": {
-    "prefix": "",
-    "lastName": "Hu",
-    "firstName": "Hao",
-    "articles": [
-      "hu_cao_zhan_chen.2022.TDPMfCIPoHB"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -42925,7 +44236,7 @@ window.AUTHORS_DATA = {
     "firstName": "Xiangcheng",
     "articles": [
       "li_hu_shah.2024.ABi3PC",
-      "hu_shaz_li.2025.IotSSRotSPo3PCBWWR"
+      "hu_shah_li.2025.IotSSRotSPo3PCBWWR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -42939,6 +44250,17 @@ window.AUTHORS_DATA = {
       "zeng_hu_sun_liu.2025.TCBo3PPFRUHPC"
     ],
     "orcid": "0000-0002-0680-9519",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hu_xiaoyi": {
+    "prefix": "",
+    "lastName": "Hu",
+    "firstName": "Xiaoyi",
+    "articles": [
+      "hu_liao_deng.2026.RSAoETMf3PRWE"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -42989,17 +44311,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "hu_yuchen": {
-    "prefix": "",
-    "lastName": "Hu",
-    "firstName": "Yuchen",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "hu_yuefeng": {
     "prefix": "",
     "lastName": "Hu",
@@ -43008,6 +44319,17 @@ window.AUTHORS_DATA = {
       "liu_guo_wang_liu.2024.SotCPo3PCPFCC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hu_yuqing": {
+    "prefix": "",
+    "lastName": "Hu",
+    "firstName": "Yuqing",
+    "articles": [
+      "fakh_hu_duar.2026.BaAMi3CP"
+    ],
+    "orcid": "0000-0003-4372-7536",
     "affiliation": "",
     "ror": ""
   },
@@ -43056,17 +44378,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "hu_zhongjun": {
-    "prefix": "",
-    "lastName": "Hu",
-    "firstName": "Zhongjun",
-    "articles": [
-      "zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF"
-    ],
-    "orcid": "0000-0003-2077-150X",
-    "affiliation": "",
-    "ror": ""
-  },
   "hua_dongliang": {
     "prefix": "",
     "lastName": "Hua",
@@ -43098,6 +44409,17 @@ window.AUTHORS_DATA = {
       "yuan_wang_huan_shi.2026.FMPaEIo3PMIRFAfDaRW"
     ],
     "orcid": "0000-0002-5327-0026",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hua_size": {
+    "prefix": "",
+    "lastName": "Hua",
+    "firstName": "Size",
+    "articles": [
+      "chen_hua_xu_fu.2026.EoPSCPCFotRaHTBo3PC"
+    ],
+    "orcid": "0009-0007-5426-5599",
     "affiliation": "",
     "ror": ""
   },
@@ -43157,7 +44479,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "geng_zhan_zhan_hai.2025.UCGCAi3PC",
       "zhan_wu_huan_yu.2025.CSMoAi3PUHPC",
-      "wu_huan_zhon_sanj.2026.FMo3PUHPC"
+      "wu_huan_zhon_sanj.2026.FMo3PUHPC",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC"
     ],
     "orcid": "0000-0002-9237-504X",
     "affiliation": "",
@@ -43185,17 +44508,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "huang_chi-hong": {
-    "prefix": "",
-    "lastName": "Huang",
-    "firstName": "Chi-Hong",
-    "articles": [
-      "li_lian_syu_huan.2024.SaDMCo3PABFRCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "huang_chia-yun": {
     "prefix": "",
     "lastName": "Huang",
@@ -43214,6 +44526,7 @@ window.AUTHORS_DATA = {
     "lastName": "Huang",
     "firstName": "Chih-Hong",
     "articles": [
+      "li_lian_syu_huan.2024.SaDMCo3PABFRCM",
       "li_lin_syu_huan.2025.E3PCMwRPGF"
     ],
     "orcid": "",
@@ -43237,6 +44550,17 @@ window.AUTHORS_DATA = {
     "firstName": "Dahai",
     "articles": [
       "aman_yang_xin_zhan.2025.IMOi3PCtMDS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "huang_fang": {
+    "prefix": "",
+    "lastName": "Huang",
+    "firstName": "Fang",
+    "articles": [
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "",
     "affiliation": "",
@@ -43334,7 +44658,8 @@ window.AUTHORS_DATA = {
     "firstName": "Jie",
     "articles": [
       "huan_wang_shi_yuan.2026.OtURaPo3PMwDSRS",
-      "yuan_wang_huan_shi.2026.FMPaEIo3PMIRFAfDaRW"
+      "yuan_wang_huan_shi.2026.FMPaEIo3PMIRFAfDaRW",
+      "zhan_li_dey_khay.2026.DOMoEASSi3PCE"
     ],
     "orcid": "0000-0002-4771-6423",
     "affiliation": "",
@@ -43345,11 +44670,22 @@ window.AUTHORS_DATA = {
     "lastName": "Huang",
     "firstName": "Jie",
     "articles": [
-      "pham_trin_do_huan.2023.FBoPCWBwDFR",
-      "pham_huan.2024.3PACR",
-      "pham_nguy_huan.2025.ESoAMPo3RCwDPF"
+      "loan_trin_do_huan.2023.FBoPCWBwDFR",
+      "loan_huan.2024.3PACR",
+      "loan_nguy_huan.2025.ESoAMPo3RCwDPF"
     ],
     "orcid": "0000-0002-8377-214X",
+    "affiliation": "",
+    "ror": ""
+  },
+  "huang_jieyi": {
+    "prefix": "",
+    "lastName": "Huang",
+    "firstName": "Jieyi",
+    "articles": [
+      "pham_huan.2026.IWMi3PCfAC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -43700,17 +45036,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "huang_y": {
-    "prefix": "",
-    "lastName": "Huang",
-    "firstName": "Y.",
-    "articles": [
-      "zuo_cort_huan_zhan.2023.MotDoFSfC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "huang_yanlin": {
     "prefix": "",
     "lastName": "Huang",
@@ -43812,6 +45137,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "zuo_gong_huan.2017.Po3PiCbUCCT",
       "zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC",
+      "zuo_cort_huan_zhan.2023.MotDoFSfC3P",
       "zuo_cort_huan_chen.2023.PtWAoLS3P",
       "zuo_cort_huan_chen.2024.STLS3PWSC",
       "zuo_zhan_li_huan.2025.SWfDDaOS3PoLCS",
@@ -43898,19 +45224,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "yang_huan_verm_nguy.2023.EoLOoBo3PRSiITT",
       "huan_yang_verm_nguy.2024.AoAUSITTo3PCBM",
-      "wang_huan_nguy_kara.2026.IIAo3PCbFI"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "huanghua_zhang": {
-    "prefix": "",
-    "lastName": "Huanghua",
-    "firstName": "Zhang",
-    "articles": [
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC"
+      "wang_huan_nguy_kara.2026.IIAo3PCbFI",
+      "wang_huan_nguy_kara.2026.EoIBSUIFaCoTPPB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -43948,7 +45263,7 @@ window.AUTHORS_DATA = {
       "pfle_radl_hube_hube.2026.IoVSOotSo3PC",
       "radl_pfle_hube_hube.2026.IotSSotMSo3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-7441-0200",
     "affiliation": "",
     "ror": ""
   },
@@ -44053,6 +45368,20 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "hui_yingxin": {
+    "prefix": "",
+    "lastName": "Hui",
+    "firstName": "Yingxin",
+    "articles": [
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB",
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "humaidan_omar": {
     "prefix": "",
     "lastName": "Humaidan",
@@ -44080,7 +45409,8 @@ window.AUTHORS_DATA = {
     "lastName": "Hung",
     "firstName": "Chung-Chan",
     "articles": [
-      "wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC"
+      "wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC",
+      "agra_lew_wen_hung.2026.Do3PFCCwPF"
     ],
     "orcid": "0000-0002-1835-0952",
     "affiliation": "",
@@ -44213,7 +45543,8 @@ window.AUTHORS_DATA = {
       "cite_hurt_koli_kote.2024.CMDfAF",
       "cite_melt_hviz_ausk.2025.E3PCF",
       "hurt_cite_holy_kote.2025.EAoDi3PCM",
-      "cite_reha_hurt_holy.2026.EwtDaDTo3iC"
+      "cite_reha_hurt_holy.2026.EwtDaDTo3iC",
+      "cite_reha_hurt_koli.2026.MDaLTDo3iCA"
     ],
     "orcid": "0000-0001-9459-8039",
     "affiliation": "",
@@ -44241,7 +45572,8 @@ window.AUTHORS_DATA = {
       "scho_jeyi_stra_husk.2024.IoMSDfMVFDtPP",
       "scho_husk_koch_stra.2025.AFfCtRIoa3CM",
       "jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM",
-      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP"
+      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0002-1463-0308",
     "affiliation": "",
@@ -44255,6 +45587,17 @@ window.AUTHORS_DATA = {
       "khan_zahi_huss_ahma.2025.SMBBCCfCSESaSIA"
     ],
     "orcid": "0000-0002-8832-2113",
+    "affiliation": "",
+    "ror": ""
+  },
+  "hussain_raja": {
+    "prefix": "",
+    "lastName": "Hussain",
+    "firstName": "Raja",
+    "articles": [
+      "mard_sahi_hema_kamc.2026.3PCRT"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -44321,7 +45664,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "jenn_piet_soun_tsai.2023.CMTLOSP",
       "chad_vase_kang_aejm.2024.IPS",
-      "vase_chad_kang_leun.2024.IP"
+      "vase_chad_kang_leun.2024.IP",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
     "orcid": "0000-0002-4285-4990",
     "affiliation": "",
@@ -44522,9 +45866,11 @@ window.AUTHORS_DATA = {
     "lastName": "Ibrahim",
     "firstName": "Izni",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "0000-0001-6718-3970",
     "affiliation": "",
@@ -44575,12 +45921,34 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ibrahim_yasser": {
+    "prefix": "",
+    "lastName": "Ibrahim",
+    "firstName": "Yasser",
+    "articles": [
+      "haru_ibra_bash.2026.HFMaRTMfCSPo3PCCDA"
+    ],
+    "orcid": "0000-0001-7416-4428",
+    "affiliation": "",
+    "ror": ""
+  },
   "ichikawa_yuki": {
     "prefix": "",
     "lastName": "Ichikawa",
     "firstName": "Yuki",
     "articles": [
       "ichi_tasa_nish.2026.Doa3CPMUGCMaPE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "idosako_yuri": {
+    "prefix": "",
+    "lastName": "Idosako",
+    "firstName": "Yuri",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -44637,7 +46005,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "mitr_vido_ignj_drag.2024.ETo3PCTG",
       "mitr_ignj.2024.CBSEMb3PC",
-      "mitr_ignj.2026.UBCoUP3CPSSWUHL"
+      "mitr_ignj.2026.UBCoUP3CPSSWUHL",
+      "mitr_ignj.2026.Bo3PCWULL"
     ],
     "orcid": "0000-0002-2679-0982",
     "affiliation": "",
@@ -44712,7 +46081,8 @@ window.AUTHORS_DATA = {
       "merc_akka_bca_celi.2026.DTTo3PCW",
       "ekin_bele_demi_sahi.2026.SLTIGMfEoLMf3P",
       "takv_oz_ilca_iler.2026.DFTDCIaCo3CPCBGFP",
-      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG"
+      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG",
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
     ],
     "orcid": "0000-0002-7853-1907",
     "affiliation": "",
@@ -44729,6 +46099,28 @@ window.AUTHORS_DATA = {
       "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG"
     ],
     "orcid": "0000-0003-1903-9119",
+    "affiliation": "",
+    "ror": ""
+  },
+  "iliadi-manou_amaryllis": {
+    "prefix": "",
+    "lastName": "Iliadi-Manou",
+    "firstName": "Amaryllis",
+    "articles": [
+      "ilia_chor_tsik_kata.2026.ECAi3PC"
+    ],
+    "orcid": "0009-0003-1831-6863",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ilkentapar_serhan": {
+    "prefix": "",
+    "lastName": "İlkentapar",
+    "firstName": "Serhan",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "0000-0002-9932-2899",
     "affiliation": "",
     "ror": ""
   },
@@ -44844,6 +46236,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "inaba_toru": {
+    "prefix": "",
+    "lastName": "Inaba",
+    "firstName": "Toru",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ince_ceren": {
     "prefix": "",
     "lastName": "Ince",
@@ -44924,7 +46327,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "iqba_kasi_inqi_besk.2025.EoMaBAotPo3CP",
       "iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML",
-      "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC"
+      "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC",
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -44985,7 +46389,8 @@ window.AUTHORS_DATA = {
       "iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML",
       "iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX",
       "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC",
-      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP"
+      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP",
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -44997,7 +46402,7 @@ window.AUTHORS_DATA = {
     "firstName": "Safdar",
     "articles": [
       "raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI",
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS"
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -45031,23 +46436,13 @@ window.AUTHORS_DATA = {
     "lastName": "Irizarry",
     "firstName": "Elmer",
     "articles": [
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P",
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
-      "marr_goma_iriz_ahme.2025.AMoUHPC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "irrizary_elmer": {
-    "prefix": "",
-    "lastName": "Irrizary",
-    "firstName": "Elmer",
-    "articles": [
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "marr_goma_iriz_ahme.2025.AMoUHPC",
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -45103,6 +46498,17 @@ window.AUTHORS_DATA = {
     "firstName": "Tuğçe",
     "articles": [
       "akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "isaka_shogo": {
+    "prefix": "",
+    "lastName": "Isaka",
+    "firstName": "Shogo",
+    "articles": [
+      "mura_tana_kino_isak.2026.FVoRWUESF3CPFwPEoMaCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -45184,7 +46590,9 @@ window.AUTHORS_DATA = {
       "nish_ohno_ishi.2022.DoCMwCSHC",
       "imag_ohno_ishi.2023.AESoEACoCa3PACBM",
       "sabr_ohno_kuri_kino.2024.AIotSPoRCw3PCPF",
-      "shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM"
+      "shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM",
+      "demo_mesn_ohno_ishi.2026.MYSSoF3PMwDPSVT",
+      "euge_ishi_brev_nava.2026.PSDaEPoMTBMf3CP"
     ],
     "orcid": "0000-0001-7875-1101",
     "affiliation": "",
@@ -45196,6 +46604,17 @@ window.AUTHORS_DATA = {
     "firstName": "Shinichi",
     "articles": [
       "ishi_yama_tasa.2025.HSIFMaMLSCf3PoUS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ishizeki_yoshikazu": {
+    "prefix": "",
+    "lastName": "Ishizeki",
+    "firstName": "Yoshikazu",
+    "articles": [
+      "kita_sasa_ishi_naka.2026.FBo3PMBRwCFESwM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -45326,6 +46745,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "istiyanto_jos": {
+    "prefix": "",
+    "lastName": "Istiyanto",
+    "firstName": "Jos",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW",
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "italiano_antonino": {
     "prefix": "",
     "lastName": "Italiano",
@@ -45386,9 +46817,10 @@ window.AUTHORS_DATA = {
     "lastName": "Iuorio",
     "firstName": "Ornella",
     "articles": [
-      "iuor.2025.AMaAiC"
+      "iuor.2025.AMaAiC",
+      "iuor_wilc_figu.2026.DW"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-0464-296X",
     "affiliation": "",
     "ror": ""
   },
@@ -45415,7 +46847,8 @@ window.AUTHORS_DATA = {
       "wang_nere_li_zhan.2024.BACP3PC",
       "ivan_pukh_reic_zhao.2025.RAoMCSUF",
       "tosi_ivan_lord_mech.2026.ACDCAaB",
-      "mech_muth_ivan_weng.2026.CPwTR"
+      "mech_muth_ivan_weng.2026.CPwTR",
+      "ivan_muth_mech.2026.RFoCCSMU3CPoaAM"
     ],
     "orcid": "0000-0002-0905-9557",
     "affiliation": "",
@@ -45446,6 +46879,17 @@ window.AUTHORS_DATA = {
       "ivan_mech_rei.2022.CoEMftRPoFPC"
     ],
     "orcid": "0000-0003-4012-4203",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ivanovs_andrejs": {
+    "prefix": "",
+    "lastName": "Ivanovs",
+    "firstName": "Andrejs",
+    "articles": [
+      "kebi_thom_ivan.2026.IoGSf3PSB"
+    ],
+    "orcid": "0009-0006-8250-4449",
     "affiliation": "",
     "ror": ""
   },
@@ -45562,13 +47006,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "jacob_taniya": {
+    "prefix": "",
+    "lastName": "Jacob",
+    "firstName": "Taniya",
+    "articles": [
+      "phil_jedr_math_jaco.2026.DoSaSHCi3PUMaSS"
+    ],
+    "orcid": "0009-0005-8692-9578",
+    "affiliation": "",
+    "ror": ""
+  },
   "jacobi_ando": {
     "prefix": "",
     "lastName": "Jacobi",
     "firstName": "Ando",
     "articles": [
       "jaco_zoll_hack_mai.2025.EoPPRiI3CP",
-      "mai_jaco_dori_hack.2026.FoLaMCwI3CP"
+      "mai_jaco_dori_hack.2026.FoLaMCwI3CP",
+      "dori_mehd_jaco_mai.2026.I3CP",
+      "jaco_rase_step_mai.2026.EDoMfI3CP"
     ],
     "orcid": "0009-0007-3083-0725",
     "affiliation": "",
@@ -45634,7 +47091,9 @@ window.AUTHORS_DATA = {
       "maie_sesh_jacq_arau.2026.PEMSRwSBf3P",
       "jacq_pica_perr.2026.U3PoC",
       "jacq_perr_pica.2026.U3PoC",
-      "jacq_mai.2026.NaAMoFSRaSi3CP"
+      "jacq_mai.2026.NaAMoFSRaSi3CP",
+      "jacq.2026.TBBT",
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
     ],
     "orcid": "0000-0003-2098-963X",
     "affiliation": "",
@@ -45754,7 +47213,7 @@ window.AUTHORS_DATA = {
       "bhat_jain_sant.2024.ItIoLCCaOBSwaMCBVMUf3PC",
       "bhat_jain_prat_sant.2024.CoBWfaICSiI",
       "sree_rizz_bhat_jain.2025.EaNAoLDia3PCE",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-2840-183X",
     "affiliation": "",
@@ -45779,17 +47238,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "jakob_cordula": {
+  "jakobs_philipp": {
     "prefix": "",
-    "lastName": "Jakob",
-    "firstName": "Cordula",
+    "lastName": "Jakobs",
+    "firstName": "Philipp",
     "articles": [
-      "pott_jako_jans_neub.2020.IotIoCaSaTIotRB",
-      "pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
-      "pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM",
-      "jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD"
+      "rich_jako_wuch_dac.2026.AMFWfDC"
     ],
-    "orcid": "0000-0002-8573-1501",
+    "orcid": "0009-0001-5525-5946",
     "affiliation": "",
     "ror": ""
   },
@@ -45931,6 +47387,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "jamshididana_saman": {
+    "prefix": "",
+    "lastName": "Jamshididana",
+    "firstName": "Saman",
+    "articles": [
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
+    ],
+    "orcid": "0009-0005-3176-6767",
+    "affiliation": "",
+    "ror": ""
+  },
   "jan_faizullah": {
     "prefix": "",
     "lastName": "Jan",
@@ -46027,7 +47494,7 @@ window.AUTHORS_DATA = {
     "lastName": "Jansen",
     "firstName": "Daniel",
     "articles": [
-      "pott_jako_jans_neub.2020.IotIoCaSaTIotRB",
+      "pott_wolf_jans_neub.2020.IotIoCaSaTIotRB",
       "wolf_pott_jans_step.2026.TYSf3PULCC"
     ],
     "orcid": "0000-0003-2302-9386",
@@ -46157,7 +47624,8 @@ window.AUTHORS_DATA = {
     "lastName": "Javadi",
     "firstName": "Akbar",
     "articles": [
-      "azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS"
+      "azim_mous_beng_java.2023.SotPFMPoL3PCCEPaPRoNS",
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -46307,13 +47775,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "jebelli_houtan": {
+    "prefix": "",
+    "lastName": "Jebelli",
+    "firstName": "Houtan",
+    "articles": [
+      "ojha_guo_hens_roes.2026.IoWCaABfRTDCPitCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "jedrzejewska_agnieszka": {
     "prefix": "",
     "lastName": "Jędrzejewska",
     "firstName": "Agnieszka",
     "articles": [
       "math_phil_jedr.2024.ESaPo3PMwA1GaK",
-      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME"
+      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME",
+      "phil_jedr_math_jaco.2026.DoSaSHCi3PUMaSS"
     ],
     "orcid": "0000-0003-4395-0447",
     "affiliation": "",
@@ -46336,6 +47816,17 @@ window.AUTHORS_DATA = {
     "firstName": "Denis",
     "articles": [
       "krav_zhel_mink_jela.2026.MLBOoSMDf3PCURM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "jen-tan_ming": {
+    "prefix": "",
+    "lastName": "Jen Tan",
+    "firstName": "Ming",
+    "articles": [
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -46494,17 +47985,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "jeong_mingu": {
-    "prefix": "",
-    "lastName": "Jeong",
-    "firstName": "Mingu",
-    "articles": [
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "jeong_seung-su": {
     "prefix": "",
     "lastName": "Jeong",
@@ -46636,7 +48116,8 @@ window.AUTHORS_DATA = {
       "husk_jeyi_scho_stra.2024.AAotRo3PCS",
       "jeyi_scho_stra_husk.2024.CoCMILPPaEGi3CPE",
       "scho_jeyi_stra_husk.2024.IoMSDfMVFDtPP",
-      "jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM"
+      "jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0009-0009-9069-0511",
     "affiliation": "",
@@ -46686,7 +48167,8 @@ window.AUTHORS_DATA = {
     "lastName": "Ji",
     "firstName": "Chenyuan",
     "articles": [
-      "zhao_ji_xiao_yao.2023.ACRoRtEIo3PC"
+      "zhao_ji_xiao_yao.2023.ACRoRtEIo3PC",
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU"
     ],
     "orcid": "0000-0002-5783-444X",
     "affiliation": "",
@@ -46714,7 +48196,8 @@ window.AUTHORS_DATA = {
       "xiao_ji_zhan_ma.2021.LS3PCT",
       "ji_xiao_zhi_wu.2022.EoEPoPo3PCwCA",
       "lv_duan_xiao_ji.2024.Eo3PCwRFaCA",
-      "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC"
+      "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC",
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -46818,7 +48301,7 @@ window.AUTHORS_DATA = {
     "lastName": "Jia-Yang",
     "firstName": "Tan",
     "articles": [
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2026.TPo3PCUSE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -47023,17 +48506,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "jiajia_zhou": {
-    "prefix": "",
-    "lastName": "Jiajia",
-    "firstName": "Zhou",
-    "articles": [
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "jian_shouwei": {
     "prefix": "",
     "lastName": "Jian",
@@ -47201,7 +48673,9 @@ window.AUTHORS_DATA = {
       "liu_wang_li_li.2026.PFMPo3PCUDCM",
       "wang_dema_fale_jian.2026.FPoR3PCB",
       "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
-      "wang_jian_song_dema.2026.SKPSPfR3PCB"
+      "wang_jian_song_dema.2026.SKPSPfR3PCB",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC",
+      "wang_dema_jian_masu.2026.NTOaAMoSPR3PCT"
     ],
     "orcid": "0000-0001-8112-2330",
     "affiliation": "",
@@ -47266,7 +48740,8 @@ window.AUTHORS_DATA = {
     "firstName": "Sheng",
     "articles": [
       "chen_yang_jian.2025.SAo3CPPwCaIbEDDM",
-      "chen_wang_zhou_jian.2026.UPiRBPo3PCvGAEL"
+      "chen_wang_zhou_jian.2026.UPiRBPo3PCvGAEL",
+      "chen_yang_tan_jian.2026.TLDDIoMUi3CPPUMSHO"
     ],
     "orcid": "0000-0002-8628-8070",
     "affiliation": "",
@@ -47397,12 +48872,23 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "jiang_zengwu": {
+  "jiang_yuang": {
     "prefix": "",
     "lastName": "Jiang",
-    "firstName": "Zengwu",
+    "firstName": "Yuang",
     "articles": [
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "chen_ng_jian_wang.2026.SFSoRf3PCwSZ"
+    ],
+    "orcid": "0000-0002-6507-8349",
+    "affiliation": "",
+    "ror": ""
+  },
+  "jiang_yunqi": {
+    "prefix": "",
+    "lastName": "Jiang",
+    "firstName": "Yunqi",
+    "articles": [
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -47432,7 +48918,8 @@ window.AUTHORS_DATA = {
       "zhan_titt_schu_jian.2024.ARCf3PCBMbT",
       "zhan_titt_tao_zhan.2024.UCi3PCBMwEBS",
       "zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD",
-      "zhan_ren_titt_schu.2025.LIi3PCBM"
+      "zhan_ren_titt_schu.2025.LIi3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-6464-2622",
     "affiliation": "",
@@ -47465,7 +48952,8 @@ window.AUTHORS_DATA = {
       "hu_tao_jiao.2026.MA3PoSFRCfEBaIB",
       "hu_jiao.2026.MEBo3PSFRM",
       "jiao.2026.TDMRBoCM",
-      "tao_duan_lin_zou.2026.SEoSaTIi3PLCUCBCSC"
+      "tao_duan_lin_zou.2026.SEoSaTIi3PLCUCBCSC",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM"
     ],
     "orcid": "0000-0002-8943-757X",
     "affiliation": "",
@@ -47547,7 +49035,8 @@ window.AUTHORS_DATA = {
     "firstName": "Adriano",
     "articles": [
       "diz_jime_pere_rive.2025.PBOot3CP",
-      "mele_jime_pere_barb.2026.RItPo3PCTtIoWM"
+      "mele_jime_pere_barb.2026.RItPo3PCTtIoWM",
+      "jime_diz_pere_carl.2026.B3PaPEC"
     ],
     "orcid": "0009-0007-1798-6354",
     "affiliation": "",
@@ -47651,7 +49140,7 @@ window.AUTHORS_DATA = {
     "firstName": "Wenyu",
     "articles": [
       "li_liu_chen_nie.2022.Io3PCBMP",
-      "li_li_skib_wang.2023.MQCwNLFMi3CP",
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP",
       "li_liu_nie_chen.2024.MPoCRwHPMPf3CP",
       "xion_nie_liu_li.2024.OoFRLRCMDf3P"
     ],
@@ -47684,7 +49173,19 @@ window.AUTHORS_DATA = {
       "chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC",
       "jin_jian_gan_sun.2025.EtPo3PWCMwA",
       "jin_sun_chen_zhou.2026.PtPoCCi3P",
-      "abou_do_jin_flor.2026.GSCo3PMUSPTaBIMwaANNS"
+      "abou_do_jin_flor.2026.GSCo3PMUSPTaBIMwaANNS",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "jin_zhilin": {
+    "prefix": "",
+    "lastName": "Jin",
+    "firstName": "Zhilin",
+    "articles": [
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -47699,6 +49200,18 @@ window.AUTHORS_DATA = {
       "zhi_guo_qi_tan.2024.EoAMSoHPoACSHf3P"
     ],
     "orcid": "0009-0003-1709-8569",
+    "affiliation": "",
+    "ror": ""
+  },
+  "jin_zuquan": {
+    "prefix": "",
+    "lastName": "Jin",
+    "firstName": "Zuquan",
+    "articles": [
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -47750,7 +49263,9 @@ window.AUTHORS_DATA = {
       "tana_jira_paud_tang.2022.EaNIo3PMWUUAC",
       "jong_chai_jira_meem.2024.TS3PPPVCBiT",
       "seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL",
-      "seep_tana_tang_jira.2026.IBSMfTDPM"
+      "seep_tana_tang_jira.2026.IBSMfTDPM",
+      "jira_sngu_jong_chai.2026.SBCU3PFwHCfUCC",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -47862,6 +49377,17 @@ window.AUTHORS_DATA = {
     "firstName": "Adams",
     "articles": [
       "roll_pras_joe.2022.DCfSCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "joenoes_fernando": {
+    "prefix": "",
+    "lastName": "Joenoes",
+    "firstName": "Fernando",
+    "articles": [
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -48036,7 +49562,9 @@ window.AUTHORS_DATA = {
       "seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL",
       "yeh_panu_tana_jong.2025.CEAo3PHMCB",
       "dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW",
-      "seep_tana_tang_jira.2026.IBSMfTDPM"
+      "seep_tana_tang_jira.2026.IBSMfTDPM",
+      "jira_sngu_jong_chai.2026.SBCU3PFwHCfUCC",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "0009-0003-5297-2039",
     "affiliation": "",
@@ -48144,17 +49672,6 @@ window.AUTHORS_DATA = {
       "jose_berd_gomz_donn.2026.ELFCRwRCFfAP"
     ],
     "orcid": "0009-0009-5077-7014",
-    "affiliation": "",
-    "ror": ""
-  },
-  "jose_perez-fenoy": {
-    "prefix": "",
-    "lastName": "José",
-    "firstName": "Pérez-Fenoy",
-    "articles": [
-      "adri_edua_jose_carl.2026.B3PaPEC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -48279,7 +49796,6 @@ window.AUTHORS_DATA = {
     "lastName": "Júlio",
     "firstName": "Eduardo",
     "articles": [
-      "tome_vizo_vale_juli.2018.IMfASGa3PoRSMoUTCS",
       "soar_rodr_cost_carm.2023.BBLoCMDf3P",
       "soar_cost_carm_rodr.2023.CDMf3PM"
     ],
@@ -48315,6 +49831,18 @@ window.AUTHORS_DATA = {
     "firstName": "M.",
     "articles": [
       "alha_alto_juna_maal.2025.RPoCMwFAaSFf3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "jung_ju": {
+    "prefix": "",
+    "lastName": "Jung",
+    "firstName": "Ju",
+    "articles": [
+      "jung_oh_choi.2026.ADDFfDEi3CP",
+      "jung_oh_oh_choi.2026.EoAGBOFSFAotRBaPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -48391,6 +49919,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "justnes_harald": {
+    "prefix": "",
+    "lastName": "Justnes",
+    "firstName": "Harald",
+    "articles": [
+      "shpa_dann_just.2026.DoELCCfpSR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "jutinov_evgeniy": {
     "prefix": "",
     "lastName": "Jutinov",
@@ -48407,9 +49946,10 @@ window.AUTHORS_DATA = {
     "lastName": "Jyosyula",
     "firstName": "Sri",
     "articles": [
-      "pari_sing_bath_khan.2023.RaPoMSfEBC3P"
+      "pari_sing_bath_khan.2023.RaPoMSfEBC3P",
+      "mang_tang_jyos_tala.2026.FSPoLCCBAAMf3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-4945-4161",
     "affiliation": "",
     "ror": ""
   },
@@ -48419,6 +49959,17 @@ window.AUTHORS_DATA = {
     "firstName": "Martin",
     "articles": [
       "silv_kaas_ande.2022.S3CPwLA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kabantsev_oleg": {
+    "prefix": "",
+    "lastName": "Kabantsev",
+    "firstName": "Oleg",
+    "articles": [
+      "kaba_caja_karl.2026.TITRIi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -48442,9 +49993,20 @@ window.AUTHORS_DATA = {
     "articles": [
       "mota_khon_kabi.2023.ASRoLCAo3CP",
       "mota_khon_kabi.2024.SSU",
-      "mota_moha_kabi.2025.AtEIoBHiRA"
+      "mota_khon_kabi.2025.AtEIoBHiRA"
     ],
     "orcid": "0000-0001-9591-0629",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kabiyev_assylbek": {
+    "prefix": "",
+    "lastName": "Kabiyev",
+    "firstName": "Assylbek",
+    "articles": [
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -48653,7 +50215,6 @@ window.AUTHORS_DATA = {
     "lastName": "Kajzr",
     "firstName": "Daniel",
     "articles": [
-      "kajz_bera_zada.2017.DoaRASfDoACM",
       "voji_mysl_petr_brou.2021.ANWtDSfIA",
       "kajz_brou_petr_bera.2021.NDoPBRCSfCPiBC",
       "brou_petr_bera_mysl.2022.RADDaCfPCM",
@@ -48690,6 +50251,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kalfa_thaleia-pelagini": {
+    "prefix": "",
+    "lastName": "Kalfa",
+    "firstName": "Thaleia-Pelagini",
+    "articles": [
+      "kalf_veni_drag_wehr.2026.UCWiAMACfCC"
+    ],
+    "orcid": "0009-0009-2411-5690",
+    "affiliation": "",
+    "ror": ""
+  },
   "kaliske_michael": {
     "prefix": "",
     "lastName": "Kaliske",
@@ -48713,7 +50285,9 @@ window.AUTHORS_DATA = {
       "ambi_raje_kali.2023.MDOaPEoEB3PC",
       "ambi_kali_seba_shek.2023.MAf3PC",
       "kali_ambi_shek_seba.2024.EoSGotFPo3PC",
-      "ambi_kali_seba_shek.2025.S3PCMUCS"
+      "ambi_kali_seba_shek.2025.S3PCMUCS",
+      "gaya_kali_ambi_sent.2026.Oo3CPPURSMR",
+      "sowm_ambi_kali_ayya.2026.EoCSaFAotFPo3PC"
     ],
     "orcid": "0000-0002-7631-2495",
     "affiliation": "",
@@ -48887,6 +50461,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kamchoom_viroon": {
+    "prefix": "",
+    "lastName": "Kamchoom",
+    "firstName": "Viroon",
+    "articles": [
+      "mard_sahi_hema_kamc.2026.3PCRT"
+    ],
+    "orcid": "0000-0002-0152-4557",
+    "affiliation": "",
+    "ror": ""
+  },
   "kamel_ehsan": {
     "prefix": "",
     "lastName": "Kamel",
@@ -48992,6 +50577,17 @@ window.AUTHORS_DATA = {
       "moza_kamr_li_mata.2024.LCF3PfRCC"
     ],
     "orcid": "0009-0006-9623-8866",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kamt_angel": {
+    "prefix": "",
+    "lastName": "Kamt",
+    "firstName": "Angel",
+    "articles": [
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
+    ],
+    "orcid": "0009-0001-3240-8604",
     "affiliation": "",
     "ror": ""
   },
@@ -49126,6 +50722,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kang_hailin": {
+    "prefix": "",
+    "lastName": "Kang",
+    "firstName": "Hailin",
+    "articles": [
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "kang_manmin": {
     "prefix": "",
     "lastName": "Kang",
@@ -49200,9 +50807,10 @@ window.AUTHORS_DATA = {
     "firstName": "Ananya",
     "articles": [
       "chad_vase_kang_aejm.2024.IPS",
-      "vase_chad_kang_leun.2024.IP"
+      "vase_chad_kang_leun.2024.IP",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
-    "orcid": "",
+    "orcid": "0009-0000-4309-3313",
     "affiliation": "",
     "ror": ""
   },
@@ -49267,7 +50875,7 @@ window.AUTHORS_DATA = {
     "firstName": "Fatih",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "0000-0001-6863-995X",
     "affiliation": "",
@@ -49370,6 +50978,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "karahan_okan": {
+    "prefix": "",
+    "lastName": "Karahan",
+    "firstName": "Okan",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "karakchi-ogli_davut": {
     "prefix": "",
     "lastName": "Karakchi-Ogli",
@@ -49398,7 +51017,7 @@ window.AUTHORS_DATA = {
     "firstName": "Mehmet",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -49411,7 +51030,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "yang_huan_verm_nguy.2023.EoLOoBo3PRSiITT",
       "huan_yang_verm_nguy.2024.AoAUSITTo3PCBM",
-      "wang_huan_nguy_kara.2026.IIAo3PCbFI"
+      "wang_huan_nguy_kara.2026.IIAo3PCbFI",
+      "wang_huan_nguy_kara.2026.EoIBSUIFaCoTPPB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -49549,6 +51169,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "karlin_aleksey": {
+    "prefix": "",
+    "lastName": "Karlin",
+    "firstName": "Aleksey",
+    "articles": [
+      "kaba_caja_karl.2026.TITRIi3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "karmaoui_dorra": {
     "prefix": "",
     "lastName": "Karmaoui",
@@ -49593,6 +51224,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "karslioglu_metin": {
+    "prefix": "",
+    "lastName": "Karslıoğlu",
+    "firstName": "Metin",
+    "articles": [
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
+    ],
+    "orcid": "0000-0002-1993-4511",
+    "affiliation": "",
+    "ror": ""
+  },
   "karthik_c": {
     "prefix": "",
     "lastName": "Karthik",
@@ -49630,7 +51272,8 @@ window.AUTHORS_DATA = {
       "you_kash.2024.EoECoSICo3PM",
       "baya_kari_yang_rama.2025.IoIBaPCi3PHSMIRLA",
       "baya_kash.2025.RMaECiSSBT3PWD",
-      "you_hame_kash.2026.PoSICi3PMUDEC"
+      "you_hame_kash.2026.PoSICi3PMUDEC",
+      "you_hame_kash.2026.SBo3PWURC"
     ],
     "orcid": "0000-0002-1080-645X",
     "affiliation": "",
@@ -49657,7 +51300,8 @@ window.AUTHORS_DATA = {
       "iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML",
       "iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX",
       "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC",
-      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP"
+      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP",
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
     ],
     "orcid": "0000-0001-8840-7822",
     "affiliation": "",
@@ -49683,6 +51327,17 @@ window.AUTHORS_DATA = {
       "akba_chai_zhi_oror.2024.D",
       "bolh_yava_tapi_akba.2024.TEoPTotBoSS3PCB",
       "oror_chai_zhi_vakh.2024.ESoaFCBP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kassler_daniel": {
+    "prefix": "",
+    "lastName": "Käßler",
+    "firstName": "Daniel",
+    "articles": [
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -49723,7 +51378,9 @@ window.AUTHORS_DATA = {
     "firstName": "Konstantinos",
     "articles": [
       "bout_chor_argy_mich.2025.IDaEoa3PTOPB",
-      "chor_gkou_meli_kata.2025.SPEo3PCWTNM"
+      "chor_gkou_meli_kata.2025.SPEo3PCWTNM",
+      "chor_gkou_meli_kata.2026.SPoaTS3PCBATNFEA",
+      "ilia_chor_tsik_kata.2026.ECAi3PC"
     ],
     "orcid": "0000-0001-6272-1071",
     "affiliation": "",
@@ -49782,18 +51439,6 @@ window.AUTHORS_DATA = {
       "hein_frau_kato_wimm.2020.MoCLBCEUaAFT"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "katsamakas_antonios": {
-    "prefix": "",
-    "lastName": "Katsamakas",
-    "firstName": "Antonios",
-    "articles": [
-      "giud_wrob_kats_lein.2022.PMoRCaa14SUAMRC",
-      "giud_kats_liu_sarh.2024.PMoUMWUaSB3P"
-    ],
-    "orcid": "0000-0001-9428-1787",
     "affiliation": "",
     "ror": ""
   },
@@ -49885,7 +51530,8 @@ window.AUTHORS_DATA = {
     "lastName": "Kaur",
     "firstName": "Zinnia",
     "articles": [
-      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB"
+      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB",
+      "kaur_goya_kwat_bera.2026.PoS3PBMStCICE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -50014,6 +51660,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kaya_tugce": {
+    "prefix": "",
+    "lastName": "Kaya",
+    "firstName": "Tuğçe",
+    "articles": [
+      "taba_kaya_mard_mard.2026.IELfPFaCSo3PC"
+    ],
+    "orcid": "0000-0002-9331-1339",
+    "affiliation": "",
+    "ror": ""
+  },
   "kaya_yahya": {
     "prefix": "",
     "lastName": "Kaya",
@@ -50083,7 +51740,7 @@ window.AUTHORS_DATA = {
       "mart_bani_kaze.2023.RCTfAQCDC3P",
       "kaze_giwa_eken.2023.LSAMfAC",
       "bani_voso_arce_noor.2024.EASMoSE3PS",
-      "giwa_herb_lame_fisk.2024.PRCULS3PwSC",
+      "giwa_hebe_lame_fisk.2024.PRCULS3PwSC",
       "ahme_giwa_game_arce.2024.ARDLSAM",
       "giwa_demp_fisk_kaze.2024.3PSRCPEfWERC",
       "giwa_kaze_gopu_rupn.2024.ACLBAo3PCE",
@@ -50096,6 +51753,7 @@ window.AUTHORS_DATA = {
       "bani_mart_masc_kaze.2025.3GMo3PCvSLMV",
       "masc_gree_kaze.2025.NIfIPMoC3P",
       "paul_mano_berr_frie.2026.DoSLCC3PMvDPP",
+      "bani_kaze.2026.CA",
       "kaze_bani_li_duar.2026.AIaMLi3PoC"
     ],
     "orcid": "0000-0002-9525-6759",
@@ -50192,6 +51850,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kebir_aygul": {
+    "prefix": "",
+    "lastName": "Kebir",
+    "firstName": "Aygul",
+    "articles": [
+      "kebi_thom_ivan.2026.IoGSf3PSB"
+    ],
+    "orcid": "0000-0002-2081-8876",
+    "affiliation": "",
+    "ror": ""
+  },
   "kechagia_aikaterini": {
     "prefix": "",
     "lastName": "Kechagia",
@@ -50255,7 +51924,7 @@ window.AUTHORS_DATA = {
       "deni_omik_kara_barn.2024.IoVEADoPCM",
       "keit_zuo_cane_aime.2024.XRTIiEDEi3CP",
       "guil_nald_quka_gioi.2025.WRo3PCwBS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "cane_hass_demo_keit.2026.FPToPCwaPD",
       "yang_bido_keit_weng.2026.SMaIP",
       "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
@@ -50444,6 +52113,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ketema_abel": {
+    "prefix": "",
+    "lastName": "Ketema",
+    "firstName": "Abel",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "0000-0001-6507-7082",
+    "affiliation": "",
+    "ror": ""
+  },
+  "keten_sinan": {
+    "prefix": "",
+    "lastName": "Keten",
+    "firstName": "Sinan",
+    "articles": [
+      "pal_goma_cusa_kete.2026.MIoFMCPRf3PA"
+    ],
+    "orcid": "0000-0003-2203-1425",
+    "affiliation": "",
+    "ror": ""
+  },
   "keune_anna": {
     "prefix": "",
     "lastName": "Keune",
@@ -50489,17 +52180,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "khademi_pooria": {
-    "prefix": "",
-    "lastName": "Khademi",
-    "firstName": "Pooria",
-    "articles": [
-      "khad_touf.2024.DDBUAfEtBSoCL"
-    ],
-    "orcid": "0000-0002-9577-0117",
-    "affiliation": "",
-    "ror": ""
-  },
   "khader_khafiz": {
     "prefix": "",
     "lastName": "Khader",
@@ -50533,7 +52213,7 @@ window.AUTHORS_DATA = {
     "lastName": "Khai",
     "firstName": "Wong",
     "articles": [
-      "liu_agus_woen_khai.2026.ASfCaMPo3PCWS"
+      "liu_syam_woen_khai.2026.ASfCaMPo3PCWS"
     ],
     "orcid": "0000-0001-8535-6169",
     "affiliation": "",
@@ -50625,17 +52305,6 @@ window.AUTHORS_DATA = {
       "mard_hema_ozte_qais.2026.ABo3PC"
     ],
     "orcid": "0000-0002-6257-3723",
-    "affiliation": "",
-    "ror": ""
-  },
-  "khalil_jawad": {
-    "prefix": "",
-    "lastName": "Khalil",
-    "firstName": "Jawad",
-    "articles": [
-      "khal_faki_yase_osta.2026.IoCCaMRoSDoOPAAM"
-    ],
-    "orcid": "0009-0007-6660-2572",
     "affiliation": "",
     "ror": ""
   },
@@ -51041,6 +52710,7 @@ window.AUTHORS_DATA = {
     "lastName": "Khasawneh",
     "firstName": "Bashar",
     "articles": [
+      "ali_nass_rub_khas.2024.IoCNToPQaMPo3PCM",
       "nass_ali_rub_cho.2025.OCBMFf3P"
     ],
     "orcid": "",
@@ -51108,7 +52778,11 @@ window.AUTHORS_DATA = {
       "han_ahn_shin_popo.2025.MfSDAi3CPUCVaUTCSBU",
       "li_khay.2026.EB3PoFRC",
       "musa_borg_wei_debo.2026.CVaMLAfDDi3PCM",
-      "li_adda_han_khay.2026.EoRMoFOaDi3PUHPC"
+      "li_adda_han_khay.2026.EoRMoFOaDi3PUHPC",
+      "mahm_bess_wang_khay.2026.V",
+      "teng_sun_khay_liu.2026.SEoVMAaPSoRPoCPwLWtBR",
+      "zhou_guad_khay_nema.2026.UTTRMOaPPRMf3PC",
+      "zhan_li_dey_khay.2026.DOMoEASSi3PCE"
     ],
     "orcid": "0000-0003-1431-0715",
     "affiliation": "",
@@ -51159,6 +52833,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "khodari_nassim": {
+    "prefix": "",
+    "lastName": "Khodari",
+    "firstName": "Nassim",
+    "articles": [
+      "mark_reic_khod.2026.3PUHPCwPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "khodor_jad": {
     "prefix": "",
     "lastName": "Khodor",
@@ -51181,12 +52866,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "khomkum_sila": {
+  "kholil_ahmad": {
     "prefix": "",
-    "lastName": "Khomkum",
-    "firstName": "Sila",
+    "lastName": "Kholil",
+    "firstName": "Ahmad",
     "articles": [
-      "suko_khom_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW"
     ],
     "orcid": "",
     "affiliation": "",
@@ -51198,7 +52883,8 @@ window.AUTHORS_DATA = {
     "firstName": "Mohammad",
     "articles": [
       "mota_khon_kabi.2023.ASRoLCAo3CP",
-      "mota_khon_kabi.2024.SSU"
+      "mota_khon_kabi.2024.SSU",
+      "mota_khon_kabi.2025.AtEIoBHiRA"
     ],
     "orcid": "0000-0002-9709-7587",
     "affiliation": "",
@@ -51265,8 +52951,8 @@ window.AUTHORS_DATA = {
       "kaze_khos.2021.RTEQMTfC3P"
     ],
     "orcid": "0000-0003-4638-8891",
-    "affiliation": "University of Southern California",
-    "ror": "03taz7m60"
+    "affiliation": "",
+    "ror": ""
   },
   "khoso_waheed": {
     "prefix": "",
@@ -51385,7 +53071,8 @@ window.AUTHORS_DATA = {
     "lastName": "Kikuchi",
     "firstName": "Ryu",
     "articles": [
-      "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM"
+      "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM",
+      "yama_ogur_abe_kiku.2026.OSPoRCMUMJ3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -51766,6 +53453,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kim_minje": {
+    "prefix": "",
+    "lastName": "Kim",
+    "firstName": "Minje",
+    "articles": [
+      "kim_han_bae_suh.2026.IBQPAoCM"
+    ],
+    "orcid": "0009-0004-7182-2287",
+    "affiliation": "",
+    "ror": ""
+  },
   "kim_mintae": {
     "prefix": "",
     "lastName": "Kim",
@@ -51839,7 +53537,8 @@ window.AUTHORS_DATA = {
     "lastName": "Kim",
     "firstName": "Sung-Jo",
     "articles": [
-      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS"
+      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS",
+      "rase_mai_kim_step.2026.OIFBvPPi3"
     ],
     "orcid": "0000-0002-0076-0718",
     "affiliation": "",
@@ -51921,7 +53620,8 @@ window.AUTHORS_DATA = {
       "ali_nass_rub_khas.2024.IoCNToPQaMPo3PCM",
       "ali_rub_bana_kim.2024.EtPQaMPo3PCCwDSBGCSH",
       "nass_ali_rub_cho.2025.OCBMFf3P",
-      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN"
+      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN",
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -52103,7 +53803,8 @@ window.AUTHORS_DATA = {
       "tana_yosh_yama_kino.2025.NEoBo3PMBoTDMM",
       "yoko_okad_tana_mura.2026.WPBo3PM",
       "kino_yama_ohno_ishi.2026.AEoSPoRCCw3PCOSURCLT",
-      "tana_yosh_yama_kino.2026.BAf3CPIaNTDMM"
+      "tana_yosh_yama_kino.2026.BAf3CPIaNTDMM",
+      "mura_tana_kino_isak.2026.FVoRWUESF3CPFwPEoMaCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -52256,14 +53957,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kisailus_david": {
+    "prefix": "",
+    "lastName": "Kisailus",
+    "firstName": "David",
+    "articles": [
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
+    ],
+    "orcid": "0000-0001-9976-485X",
+    "affiliation": "",
+    "ror": ""
+  },
   "kishida_tadahiro": {
     "prefix": "",
     "lastName": "Kishida",
     "firstName": "Tadahiro",
     "articles": [
-      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN"
+      "ali_zuai_bana_kish.2026.DAo3PCCRwSDSBGaCN",
+      "ali_bana_abu_kish.2026.CEoBDGCSaCNo3PCC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-7848-3570",
     "affiliation": "",
     "ror": ""
   },
@@ -52284,6 +53997,29 @@ window.AUTHORS_DATA = {
     "firstName": "Saad",
     "articles": [
       "akte_rezv_ratu_kish.2025.OoDDEMUFAfE3PCSP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kiswanto_gandjar": {
+    "prefix": "",
+    "lastName": "Kiswanto",
+    "firstName": "Gandjar",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW",
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kitamura_yuto": {
+    "prefix": "",
+    "lastName": "Kitamura",
+    "firstName": "Yuto",
+    "articles": [
+      "kita_sasa_ishi_naka.2026.FBo3PMBRwCFESwM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -52376,6 +54112,17 @@ window.AUTHORS_DATA = {
     "firstName": "John",
     "articles": [
       "keat_spie_klei_oxma.2014.ACAAtDC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "klein_karin": {
+    "prefix": "",
+    "lastName": "Klein",
+    "firstName": "Karin",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -52500,6 +54247,7 @@ window.AUTHORS_DATA = {
       "schn_diet_rich_naji.2024.FADMaEAoaSCPBUST",
       "ungl_mugg_jahn_klof.2024.TaDTtEFTRDAC",
       "klof_sawi_bos_dorr.2024.IoRPaFiDFwC",
+      "klof.2026.AFmB",
       "hack_dorr_klof.2024.HAM",
       "klof_hack_sawi_dorr.2025.DFSfS",
       "xiao_hack_klof_lowk.2025.CBFFoSTfI3CPTVBGS",
@@ -52520,11 +54268,17 @@ window.AUTHORS_DATA = {
       "bagh_dorr_klof.2026.CCoCDJASEaPBAMwRSF",
       "bagh_seed_klof.2026.FAoaCBASPWfSPCBC",
       "sawi_dorr_klof.2026.PAoUPVfQCoS3PC",
-      "goss_mehd_khad_hack.2027.SRRE"
+      "goss_mehd_khad_hack.2027.SRRE",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "li_petz_klof_sawi.2026.TDDSSiDFwC",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P",
+      "voll_hack_klof_dorf.2026.LSDfAMiC",
+      "muhl_bagh_oett_klof.2026.MCU3PCEaSMDJ"
     ],
     "orcid": "0000-0003-4891-869X",
-    "affiliation": "Technische Universität Braunschweig",
-    "ror": "010nsgg66"
+    "affiliation": "",
+    "ror": ""
   },
   "klouzkova_alexandra": {
     "prefix": "",
@@ -52787,7 +54541,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "koch_kama_subr.2021.ISEPSfM3CP",
       "scho_husk_koch_stra.2025.AFfCtRIoa3CM",
-      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP"
+      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0001-8286-0976",
     "affiliation": "",
@@ -52804,12 +54559,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "kodur_venkatesh": {
+  "kodikara_jayantha": {
     "prefix": "",
-    "lastName": "Kodur",
-    "firstName": "Venkatesh",
+    "lastName": "Kodikara",
+    "firstName": "Jayantha",
     "articles": [
-      "liew_li_yin_sun.2024.SDaMDoLCCCUET"
+      "kone_raje_sanj_kodi.2026.APCU3PCGtIRP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -52831,7 +54586,8 @@ window.AUTHORS_DATA = {
     "lastName": "Koenders",
     "firstName": "Eduardus",
     "articles": [
-      "marq_mori_koen_barl.2026.HTPLMwBBPf3PAA"
+      "marq_mori_koen_barl.2026.HTPLMwBBPf3PAA",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0000-0001-8664-2554",
     "affiliation": "",
@@ -52966,7 +54722,6 @@ window.AUTHORS_DATA = {
       "szab_reit_llor_wang.2020.A",
       "gras_baur_apol_dorf.2020.DH",
       "jenn_llor_gram_kohl.2020.CPTCMRFOS",
-      "burg_wang_chiu_tech.2021.MIFG",
       "fran_llor_taha_gram.2021.DCBRDaDRfRCS",
       "gebh_burg_mata_llor.2022.TECSwUT3PF",
       "llor_quad_scot_fuhr.2022.ADC",
@@ -52989,7 +54744,8 @@ window.AUTHORS_DATA = {
       "chei_gamo_llor_arno.2024.3PoaMPF",
       "vase_chad_kang_leun.2024.IP",
       "oliv_picc_mila_gram.2025.TEoHC3TNDC",
-      "chad_vase_gram_kohl.2025.ART"
+      "chad_vase_gram_kohl.2025.ART",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
     "orcid": "0000-0002-4111-4122",
     "affiliation": "",
@@ -53157,7 +54913,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "cite_hurt_koli_kote.2024.CMDfAF",
       "melt_cite_hviz_gabr.2024.DoaRFSfCM",
-      "cite_reha_hurt_holy.2026.EwtDaDTo3iC"
+      "cite_reha_hurt_holy.2026.EwtDaDTo3iC",
+      "cite_reha_hurt_koli.2026.MDaLTDo3iCA"
     ],
     "orcid": "0000-0001-7213-097X",
     "affiliation": "",
@@ -53182,7 +54939,8 @@ window.AUTHORS_DATA = {
       "paol_koll_rank.2019.AMiC",
       "brie_koll_leit_matt.2022.TOoAMLCWEwICSTSaM",
       "dorr_gant_amir_lach.2025.FDtR",
-      "la_meye_koll_jani.2026.VMtEMPoS3PM"
+      "la_meye_koll_jani.2026.VMtEMPoS3PM",
+      "klof_dorf_gehl_hack.2026.AMwC"
     ],
     "orcid": "0000-0003-0823-8649",
     "affiliation": "",
@@ -53259,7 +55017,8 @@ window.AUTHORS_DATA = {
     "lastName": "Komkham",
     "firstName": "Sila",
     "articles": [
-      "suko_maho_komk_pian.2023.PDoIPTfCM3PUaDM"
+      "suko_maho_komk_pian.2023.PDoIPTfCM3PUaDM",
+      "suko_komk_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -53308,13 +55067,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "koneru_likith": {
+    "prefix": "",
+    "lastName": "Koneru",
+    "firstName": "Likith",
+    "articles": [
+      "redd_maha_kone_subr.2027.LCAoaME3PCB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "koneswaran_bahirathan": {
     "prefix": "",
     "lastName": "Koneswaran",
     "firstName": "Bahirathan",
     "articles": [
       "kone_raje_sanj.2023.DoaPCfU3CPiPC",
-      "kone_raje_sanj.2025.3CPGfRUGPL"
+      "kone_raje_sanj.2025.3CPGfRUGPL",
+      "kone_raje_sanj_kodi.2026.APCU3PCGtIRP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -53610,6 +55381,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "koohbor_behrad": {
+    "prefix": "",
+    "lastName": "Koohbor",
+    "firstName": "Behrad",
+    "articles": [
+      "pagl_mack_ahme_migl.2026.DICiRT",
+      "mack_ahme_pagl_kooh.2026.NHMoACCSPCC"
+    ],
+    "orcid": "0000-0002-5787-4644",
+    "affiliation": "",
+    "ror": ""
+  },
   "koopmans_jan": {
     "prefix": "",
     "lastName": "Koopmans",
@@ -53677,7 +55460,8 @@ window.AUTHORS_DATA = {
       "kora_serj_hanz_bohi.2024.DaToTFAP",
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
       "sapa_sink_sahm_kora.2025.EBPf3PC",
-      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB"
+      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0002-3412-981X",
     "affiliation": "",
@@ -53725,8 +55509,7 @@ window.AUTHORS_DATA = {
     "lastName": "Korey",
     "firstName": "Matthew",
     "articles": [
-      "arms_kama_zhao_renc.2023.LCCEaCEoMfPCC",
-      "schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC"
+      "arms_kama_zhao_renc.2023.LCCEaCEoMfPCC"
     ],
     "orcid": "0000-0002-2285-5646",
     "affiliation": "",
@@ -53783,7 +55566,8 @@ window.AUTHORS_DATA = {
       "kris_rehm_mish_saha.2024.AMoGCfSC",
       "rudz_huty_maro_korn.2025.3PLFCwDR",
       "bech_gade_korn.2025.3PwGaIA",
-      "chen_korn_ho_lin.2026.ANPRPSf3PCMwSaTCM"
+      "chen_korn_ho_lin.2026.ANPRPSf3PCMwSaTCM",
+      "korn_furt_balt.2026.QHAtCE"
     ],
     "orcid": "0000-0002-8265-3982",
     "affiliation": "",
@@ -53931,7 +55715,7 @@ window.AUTHORS_DATA = {
   "kotova_kristina": {
     "prefix": "",
     "lastName": "Kotova",
-    "firstName": "Кristina",
+    "firstName": "Kristina",
     "articles": [
       "slav_arta_koto_shve.2024.POBoSaCFi3PCMoVC",
       "slav_arta_koto_shve.2026.DaSoR3PC"
@@ -53986,6 +55770,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kourta_azeddine": {
+    "prefix": "",
+    "lastName": "Kourta",
+    "firstName": "Azeddine",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
+    ],
+    "orcid": "0000-0003-0799-9251",
+    "affiliation": "",
+    "ror": ""
+  },
   "koutnik_p": {
     "prefix": "",
     "lastName": "Koutník",
@@ -54032,7 +55827,8 @@ window.AUTHORS_DATA = {
       "kova_nist_verl_blan.2022.ZWPoLCSwWSSF",
       "kova_tomo_geri_blan.2024.SDaAoMCT",
       "kova_hauf_mill_geri.2025.LaSCwC",
-      "kova_nist_verl_blan.2026.3PRSF"
+      "kova_nist_verl_blan.2026.3PRSF",
+      "blan_kova_neth_shah.2026.SMS"
     ],
     "orcid": "0000-0002-7711-2401",
     "affiliation": "",
@@ -54180,7 +55976,13 @@ window.AUTHORS_DATA = {
       "stra_hayn_kran_gehl.2024.AMbtSPI",
       "hech_dahl_bos_kran.2025.ABAMA",
       "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "bos_chen_grim_unte.2026.FGTNNBAMT",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "grim_unte_chen_bos.2026.TS3CP",
+      "stra_geri_kran_gehl.2026.SPIS",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P",
+      "grim_chov_rich_kran.2026.FSoAISMoCSUMRS"
     ],
     "orcid": "0000-0002-5650-3825",
     "affiliation": "",
@@ -54287,7 +56089,7 @@ window.AUTHORS_DATA = {
       "john_jord_krei_krei.2024.BRoACC",
       "krei_krei_maca_wood.2024.TUoACiASCoaB",
       "negr_krei_krei.2024.DoPSBotFMSoToACCbUC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL"
     ],
     "orcid": "0000-0002-6160-9448",
@@ -54312,7 +56114,8 @@ window.AUTHORS_DATA = {
       "foil_negr_krei_krei.2024.TEoCFARotPoACC",
       "john_jord_krei_krei.2024.BRoACC",
       "krei_krei_maca_wood.2024.TUoACiASCoaB",
-      "negr_krei_krei.2024.DoPSBotFMSoToACCbUC"
+      "negr_krei_krei.2024.DoPSBotFMSoToACCbUC",
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
     ],
     "orcid": "0000-0002-9721-9513",
     "affiliation": "",
@@ -54325,7 +56128,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "mech_gram_kren_schw.2014.SoFCFUDEMD",
       "wall_kren_schw.2014.NEiCaDM",
-      "kren_palz_mull_mech.2022.So3CPUDEM"
+      "kren_palz_mull_mech.2022.So3CPUDEM",
+      "kren_rosk_zura_fett.2026.SBDoaVM3CPH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -54550,7 +56354,9 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "most_krug.2025.RABo3PCTIF",
-      "most_krug.2025.NOFSTTMBSi3PC"
+      "most_krug.2025.NOFSTTMBSi3PC",
+      "coly_chou_nema_krug.2026.3PGIPaaSCMftGLIHM",
+      "cho_heev_krug_oh.2026.DDf3PC"
     ],
     "orcid": "0000-0003-0090-423X",
     "affiliation": "",
@@ -54607,6 +56413,17 @@ window.AUTHORS_DATA = {
     "firstName": "Leticia",
     "articles": [
       "kruz_heid_toch_frei.2026.UoGFi3PGfCMWT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "krystov_martin": {
+    "prefix": "",
+    "lastName": "Kryštov",
+    "firstName": "Martin",
+    "articles": [
+      "cite_reha_hurt_koli.2026.MDaLTDo3iCA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -54857,7 +56674,8 @@ window.AUTHORS_DATA = {
     "firstName": "Abhishek",
     "articles": [
       "saha_soda_dwiv_kuma.2024.3PwSE",
-      "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC"
+      "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC",
+      "kuma_pund_kuma_dixi.2026.EoBTaCCotMaDPoEB3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -54958,17 +56776,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "kumar_l": {
-    "prefix": "",
-    "lastName": "Kumar",
-    "firstName": "L.",
-    "articles": [
-      "kuma_kuma_muth_pand.2026.TESoC3PCB"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "kumar_lalit": {
     "prefix": "",
     "lastName": "Kumar",
@@ -54976,7 +56783,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "kuma_pand_muth.2023.ASPEFf3CPSCtSEitBD",
       "kuma_dey_pand_muth.2024.EaNEoMDCaFBoTDPC",
-      "kuma_dey_pand_muth.2025.IotNGoMPo3PC"
+      "kuma_dey_pand_muth.2025.IotNGoMPo3PC",
+      "kuma_kuma_muth_pand.2026.TESoC3PCB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -55118,9 +56926,10 @@ window.AUTHORS_DATA = {
       "saha_soda_dwiv_kuma.2024.3PwSE",
       "kuma_dixi.2026.UoESaFAi3PC",
       "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC",
-      "kuma_dixi.2026.3PCUSS"
+      "kuma_dixi.2026.3PCUSS",
+      "kuma_pund_kuma_dixi.2026.EoBTaCCotMaDPoEB3PC"
     ],
-    "orcid": "",
+    "orcid": "0009-0004-6409-5165",
     "affiliation": "",
     "ror": ""
   },
@@ -55129,7 +56938,6 @@ window.AUTHORS_DATA = {
     "lastName": "Kumar",
     "firstName": "Sanjay",
     "articles": [
-      "kuma.2018.PCDfAMoCC",
       "kuma_kuma.2026.ACRoMDRMPaDiS3PGC"
     ],
     "orcid": "",
@@ -55338,6 +57146,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "kurihara_takaai": {
+    "prefix": "",
+    "lastName": "Kurihara",
+    "firstName": "Takaai",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "kurilla_lukas": {
     "prefix": "",
     "lastName": "Kurilla",
@@ -55369,6 +57188,17 @@ window.AUTHORS_DATA = {
     "firstName": "M.",
     "articles": [
       "anto_adi_kurn_agra.2023.TIoVMAaCCo3PMC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "kurniawan_rendi": {
+    "prefix": "",
+    "lastName": "Kurniawan",
+    "firstName": "Rendi",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW"
     ],
     "orcid": "",
     "affiliation": "",
@@ -55407,25 +57237,16 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "kurtis_k": {
-    "prefix": "",
-    "lastName": "Kurtis",
-    "firstName": "K.",
-    "articles": [
-      "ride_kurt_stew.2024.QoPaSiFR3PM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "kurtis_kimberly": {
     "prefix": "",
     "lastName": "Kurtis",
     "firstName": "Kimberly",
     "articles": [
+      "ride_kurt_stew.2024.QoPaSiFR3PM",
       "brad_gent_alon_kurt.2025.C3PMS",
       "kim_ride_stew_kurt.2025.TaDtFWf3CPDISS",
-      "brad_gent_kurt.2026.ECaEoO3PCW"
+      "brad_gent_kurt.2026.ECaEoO3PCW",
+      "ride_uzal_wash_stew.2026.EoMLORtDBCSf3P"
     ],
     "orcid": "0000-0002-1252-7323",
     "affiliation": "",
@@ -55449,7 +57270,8 @@ window.AUTHORS_DATA = {
     "firstName": "Andrea",
     "articles": [
       "ober_wies_kust_sten.2023.3PCBMU1oRA",
-      "brun_sten_kust.2024.3PBPUDCBaRS"
+      "brun_sten_kust.2024.3PBPUDCBaRS",
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
     ],
     "orcid": "0000-0002-8582-3799",
     "affiliation": "",
@@ -55548,7 +57370,8 @@ window.AUTHORS_DATA = {
     "lastName": "Kwatra",
     "firstName": "Naveen",
     "articles": [
-      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB"
+      "kaur_goya_kwat_bera.2025.PSAaDPoS3PCIFAaLCCBB",
+      "kaur_goya_kwat_bera.2026.PoS3PBMStCICE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -55705,7 +57528,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "ilca_kula_sahi_alde.2025.RaMSf3GSUCaDW",
       "mahm_siad_lach_sahm.2025.RAiCBG",
-      "ekin_bele_demi_sahi.2026.SLTIGMfEoLMf3P"
+      "ekin_bele_demi_sahi.2026.SLTIGMfEoLMf3P",
+      "qais_siad_lach_mahm.2026.Ro3PCaGPFfCS",
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
     ],
     "orcid": "0009-0001-8332-4101",
     "affiliation": "",
@@ -55733,7 +57558,8 @@ window.AUTHORS_DATA = {
       "dorf_diel_leut_jenn.2024.ACiEC",
       "lach_reck_ekan_hurk.2024.MMBAM",
       "dorr_gant_amir_lach.2025.FDtR",
-      "dorr_lach_bagh_davi.2025.IoPGaGCfRS3P"
+      "dorr_lach_bagh_davi.2025.IoPGaGCfRS3P",
+      "dorr_freu_davi_lach.2026.S3PS"
     ],
     "orcid": "0000-0001-8070-8989",
     "affiliation": "",
@@ -55744,9 +57570,21 @@ window.AUTHORS_DATA = {
     "lastName": "Lacidogna",
     "firstName": "Giuseppe",
     "articles": [
-      "ye_xu_laci.2025.FBo3PGCCWC"
+      "ye_xu_laci.2025.FBo3PGCCWC",
+      "qi_yang_ma_xu.2027.RoMPSSaEAoSB3CP"
     ],
     "orcid": "0000-0002-0192-3793",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lacroix_florian": {
+    "prefix": "",
+    "lastName": "Lacroix",
+    "firstName": "Florian",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -55758,17 +57596,6 @@ window.AUTHORS_DATA = {
       "casc_ladd_fore.2020.DC"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "ladinig_johannes": {
-    "prefix": "",
-    "lastName": "Ladinig",
-    "firstName": "Johannes",
-    "articles": [
-      "bhoo_ladi_mele_bloc.2019.FRfR3PC"
-    ],
-    "orcid": "0000-0002-3561-2985",
     "affiliation": "",
     "ror": ""
   },
@@ -55907,9 +57734,10 @@ window.AUTHORS_DATA = {
     "lastName": "Lai",
     "firstName": "Dade",
     "articles": [
-      "wang_dema_kai_lai.2026.IRoN3PCCBUDWL"
+      "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-6347-6968",
     "affiliation": "",
     "ror": ""
   },
@@ -56040,7 +57868,7 @@ window.AUTHORS_DATA = {
     "lastName": "Lale",
     "firstName": "Erol",
     "articles": [
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
       "ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC"
     ],
@@ -56108,7 +57936,7 @@ window.AUTHORS_DATA = {
     "lastName": "Lamendola",
     "firstName": "Joseph",
     "articles": [
-      "giwa_herb_lame_fisk.2024.PRCULS3PwSC",
+      "giwa_hebe_lame_fisk.2024.PRCULS3PwSC",
       "bani_voso_arce_noor.2024.ASMo3PSvES"
     ],
     "orcid": "",
@@ -56194,8 +58022,8 @@ window.AUTHORS_DATA = {
     "firstName": "Ingrid",
     "articles": [
       "vyso_mads_land.2025.AESoCaSVo3PCM",
-      "bara_land_vyso.2026.OaCRt3PC",
       "bara_land_vyso.2026.OaCRt3PCb",
+      "bara_land_vyso.2026.OaCRt3PC",
       "bara_mads_land_vyso.2026.DAo3PCUFaT"
     ],
     "orcid": "0000-0001-7946-5094",
@@ -56344,11 +58172,21 @@ window.AUTHORS_DATA = {
       "lao_li_masi_tan.2017.AREi3PfBaCbEIoND",
       "lao_tay_quir_tan.2018.TEoNSotCaSoSPiAMoC",
       "li_lao_he_masi.2018.EoRTSNoMDi3CMPP",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "weng_li_liu_lao.2019.PaFPoaD3PFRCCUET",
       "lao_li_wong_tan.2020.ISFQiEB3CPUMLBEGC",
       "lao_li_tjah.2021.VGNfSQEi3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lapinski_matthieu": {
+    "prefix": "",
+    "lastName": "Lapinski",
+    "firstName": "Matthieu",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -56422,7 +58260,8 @@ window.AUTHORS_DATA = {
     "lastName": "Larikova",
     "firstName": "Iuliia",
     "articles": [
-      "lari_flec_chok_auer.2022.AMUMFfBR"
+      "lari_flec_chok_auer.2022.AMUMFfBR",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0002-2543-6893",
     "affiliation": "",
@@ -56752,7 +58591,7 @@ window.AUTHORS_DATA = {
     "lastName": "Le",
     "firstName": "Quang",
     "articles": [
-      "nguy_thac_le_anh.2024.ARoCPaAoMLo3PC"
+      "nguy_thac_le_ahn.2024.ARoCPaAoMLo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -57016,17 +58855,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "lee_han-seung": {
-    "prefix": "",
-    "lastName": "Lee",
-    "firstName": "Han-Seung",
-    "articles": [
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
-    ],
-    "orcid": "0000-0001-9776-5859",
-    "affiliation": "",
-    "ror": ""
-  },
   "lee_hee": {
     "prefix": "",
     "lastName": "Lee",
@@ -57272,6 +59100,17 @@ window.AUTHORS_DATA = {
       "to_pham_lee_shin.2024.EaFEotIoILBSi3PCMUCaFL"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lee_min": {
+    "prefix": "",
+    "lastName": "Lee",
+    "firstName": "Min",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0009-0009-4017-3209",
     "affiliation": "",
     "ror": ""
   },
@@ -57549,17 +59388,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "leinenbach_christian": {
-    "prefix": "",
-    "lastName": "Leinenbach",
-    "firstName": "Christian",
-    "articles": [
-      "giud_wrob_kats_lein.2022.PMoRCaa14SUAMRC"
-    ],
-    "orcid": "0000-0003-0435-495X",
-    "affiliation": "",
-    "ror": ""
-  },
   "leite_gabriela": {
     "prefix": "",
     "lastName": "Leite",
@@ -57639,6 +59467,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "lemos_mariana": {
+    "prefix": "",
+    "lastName": "Lemos",
+    "firstName": "Mariana",
+    "articles": [
+      "borg_silv_lemo.2026.LC3BoAAMaGMW"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "lemougna_patrick": {
     "prefix": "",
     "lastName": "Lemougna",
@@ -57662,6 +59501,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "leng_lingye": {
+    "prefix": "",
+    "lastName": "Leng",
+    "firstName": "Lingye",
+    "articles": [
+      "wang_leng_lian_zhou.2026.MPPRi3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "lenihan_avery": {
     "prefix": "",
     "lastName": "Lenihan",
@@ -57678,7 +59528,7 @@ window.AUTHORS_DATA = {
     "lastName": "Lenya",
     "firstName": "Alva",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC"
+      "ler_ma_chee_ibra.2024.PaDTo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -57691,7 +59541,6 @@ window.AUTHORS_DATA = {
     "articles": [
       "tay_pand_paul_moha.2017.3PTiBaCI",
       "lu_li_qian_leon.2018.DCMIFACfSB3P",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "lu_weng_li_qian.2019.ASRo3PCM",
       "lu_qian_li_weng.2019.DSB3PCMwFACaAEA",
@@ -57728,9 +59577,11 @@ window.AUTHORS_DATA = {
     "lastName": "Ler",
     "firstName": "Kee-Hong",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "0009-0009-7953-8447",
     "affiliation": "",
@@ -57827,18 +59678,8 @@ window.AUTHORS_DATA = {
     "lastName": "Letelier-Gonzalez",
     "firstName": "Viviana",
     "articles": [
-      "ross_tren_sidh_lete.2026.MaDPoECMwRM"
-    ],
-    "orcid": "0000-0002-2456-8595",
-    "affiliation": "",
-    "ror": ""
-  },
-  "letelier_viviana": {
-    "prefix": "",
-    "lastName": "Letelier",
-    "firstName": "Viviana",
-    "articles": [
       "muno_vega_lete_marr.2026.EFo3PCURM",
+      "ross_tren_sidh_lete.2026.MaDPoECMwRM",
       "muno_lete_albi_bust.2026.MEaEAPoRHBPCMf3CP"
     ],
     "orcid": "0000-0002-2456-8595",
@@ -57866,6 +59707,17 @@ window.AUTHORS_DATA = {
       "liu_chen_leun_sham.2024.3PLCCwNSPRFA"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "leung_pok": {
+    "prefix": "",
+    "lastName": "Leung",
+    "firstName": "Pok",
+    "articles": [
+      "chad_spin_vase_malc.2027.ISIPwaALE"
+    ],
+    "orcid": "0000-0003-1536-8636",
     "affiliation": "",
     "ror": ""
   },
@@ -57960,6 +59812,17 @@ window.AUTHORS_DATA = {
     "firstName": "Sébastien",
     "articles": [
       "li_paqu_levi_rian.2027.VaABMfPCi3ECP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lew_wen": {
+    "prefix": "",
+    "lastName": "Lew",
+    "firstName": "Wen",
+    "articles": [
+      "agra_lew_wen_hung.2026.Do3PFCCwPF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -58157,7 +60020,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "li_zahe_petz.2022.PDDSfACUFKaIPfSwaFM",
       "yang_li_liu_huo.2024.EtPfCCaRo3PCB",
-      "li_petz.2025.ODMoDD"
+      "li_petz.2025.ODMoDD",
+      "li_petz_klof_sawi.2026.TDDSSiDFwC"
     ],
     "orcid": "0000-0003-1385-071X",
     "affiliation": "",
@@ -58225,6 +60089,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "liu_li_guo_wang.2025.SB3PTSC",
       "sun_li_liu_wang.2025.ESRoSB3PRTSCTPFO"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "li_chuanpeng": {
+    "prefix": "",
+    "lastName": "Li",
+    "firstName": "Chuanpeng",
+    "articles": [
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -58340,9 +60215,9 @@ window.AUTHORS_DATA = {
       "shah_li.2024.AtLBCo3PCaEA",
       "li_hu_shah.2024.ABi3PC",
       "shah_li.2025.IoCIotMPo3PCS",
-      "shaz_li.2025.IBEoSSaDi3PCS",
+      "shah_li.2025.IBEoSSaDi3PCS",
       "shah_li.2025.IoCIotDaPOBo3PCS",
-      "hu_shaz_li.2025.IotSSRotSPo3PCBWWR",
+      "hu_shah_li.2025.IotSSRotSPo3PCBWWR",
       "fuen_gale_noga_xia.2026.TOS3PCFAbPT"
     ],
     "orcid": "0000-0002-2815-3602",
@@ -58401,17 +60276,6 @@ window.AUTHORS_DATA = {
     "firstName": "Gaoyu",
     "articles": [
       "wang_wen_yu_li.2026.CUoPf3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "li_gen": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Gen",
-    "articles": [
-      "liew_li_yin_sun.2024.SDaMDoLCCCUET"
     ],
     "orcid": "",
     "affiliation": "",
@@ -58528,7 +60392,8 @@ window.AUTHORS_DATA = {
       "li_wei_khay.2024.3PoFRCCLBCM",
       "li_khay.2025.PBDo3PCCULAM",
       "li_khay.2026.EB3PoFRC",
-      "li_adda_han_khay.2026.EoRMoFOaDi3PUHPC"
+      "li_adda_han_khay.2026.EoRMoFOaDi3PUHPC",
+      "zhan_li_dey_khay.2026.DOMoEASSi3PCE"
     ],
     "orcid": "0000-0002-4589-6336",
     "affiliation": "",
@@ -58552,7 +60417,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "weng_moha_lee_gan.2021.EBIfLTPPiDCPwDDS",
       "teng_li_zhan_li.2023.BECR3CPtCMwR",
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "teng_ye_yu_li.2024.DoSHCCSaBMtEILaFPo3PC",
       "teng_zhan_li_weng.2024.FSoRPwaBECRS",
       "teng_ye_yu_li.2024.EILBSaFPi3CPwSBA"
@@ -58599,17 +60464,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "li_huanbao": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Huanbao",
-    "articles": [
-      "li_li_skib_wang.2023.MQCwNLFMi3CP"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "li_hui": {
     "prefix": "",
     "lastName": "Li",
@@ -58649,17 +60503,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "li_jian": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Jian",
-    "articles": [
-      "chen_li_luo_cui.2026.RaAoHPAABo3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "li_jianbin": {
     "prefix": "",
     "lastName": "Li",
@@ -58677,6 +60520,17 @@ window.AUTHORS_DATA = {
     "firstName": "Jianfeng",
     "articles": [
       "yu_luo_li_he.2026.MaMSPo3PBFRCiCRE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "li_jianguo": {
+    "prefix": "",
+    "lastName": "Li",
+    "firstName": "Jianguo",
+    "articles": [
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -58783,7 +60637,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "ding_li_liu.2025.SoMPaEBo3PLMOCFCBoTDMS",
       "ding_li_wang.2025.SoMPoCBF3PCBo3MS",
-      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC"
+      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC",
+      "ding_li_wang_lyu.2026.MFMaSPo3PCRW"
     ],
     "orcid": "0000-0003-4583-1820",
     "affiliation": "",
@@ -58901,23 +60756,12 @@ window.AUTHORS_DATA = {
       "quah_vo_tay_tan.2023.RTAoSCIwPS",
       "lu_wang_wang_tan.2024.DoRSSSCMfSSHM",
       "lu_li_qian_li.2024.HP3CPwZ",
-      "nghi_lim_nam_lu.2024.AFSRf3",
       "quah_tay_tan_li.2024.EoEMf3CP",
       "tay_wang_wang_quah.2024.IoFMi3PfC",
+      "vuon_lim_nam_lu.2024.AFSRf3",
       "quah_liu_tay_li.2025.IPFRi3CPwIS"
     ],
     "orcid": "0000-0001-6187-6434",
-    "affiliation": "",
-    "ror": ""
-  },
-  "li_l": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "L.",
-    "articles": [
-      "li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -58963,6 +60807,7 @@ window.AUTHORS_DATA = {
       "li_xiao_chen_xie.2023.AGFt3PM",
       "li_zhan.2024.FoU3P",
       "he_pan_hee_chen.2024.DoNCaCTfHILSo3PCP",
+      "li_fang_chu_kwan.2024.IMPo3PMbESEoFAMaNS",
       "li_zhan_kwan.2025.ES3P",
       "li_fei_jiao_luo.2025.BRB3PM",
       "li_xiao_kou.2025.IoFLotPaSoGFR3PM"
@@ -59007,7 +60852,9 @@ window.AUTHORS_DATA = {
       "yan_wang_ding_li.2024.3PLBLECC",
       "lin_li_jian_ding.2024.ARo3PECCB",
       "lin_ding_yu_li.2025.SSo3PEBTSWMaIT",
-      "lin_yu_li_liu.2026.SEaMMitTBo3PECC"
+      "lin_yu_li_liu.2026.SEaMMitTBo3PECC",
+      "lin_yu_li_yan.2026.CNIiRF3PEA",
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "0000-0002-9477-6824",
     "affiliation": "",
@@ -59054,12 +60901,13 @@ window.AUTHORS_DATA = {
     "articles": [
       "li_li_zou.2023.DLp3PCUSW",
       "li_hao_li_xiao.2023.DoCI3PC",
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
       "li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA",
       "liu_zhan_jian_xia.2025.EoNANMaNFotPoCB3P",
       "xiao_he_yu_wang.2025.EoPCMotPoM",
       "sun_chu_luo_li.2026.SPoR3NSwDILD",
-      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP"
+      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
     ],
     "orcid": "0009-0003-8518-3407",
     "affiliation": "",
@@ -59169,7 +61017,6 @@ window.AUTHORS_DATA = {
       "lu_li_qian_leon.2018.DCMIFACfSB3P",
       "ting_tay_anna_li.2018.EoRGGi3CMP",
       "weng_qian_he_li.2018.3PHPFRCCfLSP",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "zhan_li_lim_weng.2018.LS3PbaToMR",
       "weng_lu_li_liu.2018.EMtPRPoFRCCf3P",
@@ -59205,7 +61052,7 @@ window.AUTHORS_DATA = {
       "lu_zhao_li_wong.2023.MFCCABf3PoVS",
       "lu_li_li_feng.2023.SoCbMCiSB3CP",
       "teng_li_zhan_li.2023.BECR3CPtCMwR",
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "liu_li_wong_tan.2024.DtEoPPotMPo3CPUwEaNM",
       "liu_li_liu_wong.2024.EoVAaECoPaMPo3PCM",
       "lu_li_qian_li.2024.HP3CPwZ",
@@ -59404,17 +61251,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "li_quanheng": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Quanheng",
-    "articles": [
-      "zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "li_rong": {
     "prefix": "",
     "lastName": "Li",
@@ -59510,7 +61346,7 @@ window.AUTHORS_DATA = {
       "li_lan_mend_tran.2023.Ri3CP",
       "li_lan_nguy_tran.2024.FiC3P",
       "li_khie_blac_nguy.2025.TS3PSFRSfCS",
-      "li_liu_chen_xuan.2025.DaPo3PBSFRCCCB",
+      "li_liu_chen_nguy.2025.DaPo3PBSFRCCCB",
       "li_core_tran_fan.2025.3PCC",
       "ngo_li_huyn_zhan.2025.3PHC"
     ],
@@ -59705,7 +61541,8 @@ window.AUTHORS_DATA = {
       "li_deng_li_li.2025.PoAMBMPCaAoRS3PT",
       "lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM",
       "cui_pu_zhan_li.2026.SotMPo3PCJYRC",
-      "deng_li_li_lyu.2026.OMDa3PAoMOBMCU1ISR"
+      "deng_li_li_lyu.2026.OMDa3PAoMOBMCU1ISR",
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
     ],
     "orcid": "0000-0002-2008-2977",
     "affiliation": "",
@@ -59724,34 +61561,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "li_weixiong": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Weixiong",
-    "articles": [
-      "chen_li_luo_cui.2026.RaAoHPAABo3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "li_wenbin": {
     "prefix": "",
     "lastName": "Li",
     "firstName": "Wenbin",
     "articles": [
       "zhan_cher_xiao_tzou.2022.AAMwMAR"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "li_wengqiang": {
-    "prefix": "",
-    "lastName": "Li",
-    "firstName": "Wengqiang",
-    "articles": [
-      "luo_li_lin_zhao.2026.3PRSCwDSTaC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -59790,7 +61605,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "zhan_pan_li_dong.2022.FEPoViCMfHAT",
       "luo_li_wang.2024.SoBPo3PPFRCBM",
-      "luo_li_cai_zhan.2025.EoCRSotIBPo3PCBM"
+      "luo_li_cai_zhan.2025.EoCRSotIBPo3PCBM",
+      "luo_li_lin_zhao.2026.3PRSCwDSTaC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -59823,10 +61639,12 @@ window.AUTHORS_DATA = {
     "lastName": "Li",
     "firstName": "Xiang",
     "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC",
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC",
       "jian_li_xia_yang.2026.ESoIRo3PCSSwCFRPHEA",
       "chen_lian_li_yang.2026.SRo3PECC",
-      "tang_yu_li_jian.2026.TRF3PHSECCC"
+      "tang_yu_li_jian.2026.TRF3PHSECCC",
+      "liu_lin_xue_li.2026.TDTBo3PECCE",
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -59908,7 +61726,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "xion_nie_liu_li.2024.OoFRLRCMDf3P",
       "xion_nie_liu_li.2024.EaOoMCCM3PRCC",
-      "xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC"
+      "xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC",
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -59941,7 +61760,8 @@ window.AUTHORS_DATA = {
     "lastName": "Li",
     "firstName": "Xin",
     "articles": [
-      "liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS"
+      "liu_li_wu_liu.2025.IoELotTDEo3PCwRSitGS",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL"
     ],
     "orcid": "",
     "affiliation": "",
@@ -59986,9 +61806,11 @@ window.AUTHORS_DATA = {
     "firstName": "Xinze",
     "articles": [
       "yang_xu_fang_li.2025.MIiMCCbSiEB3PC3",
-      "yang_xu_you_li.2025.SSEITi3PC"
+      "yang_xu_you_li.2025.SSEITi3PC",
+      "li_wang_wang.2026.BSMoLRi3PC",
+      "li_wang_wang.2026.DVMfEB3CP"
     ],
-    "orcid": "",
+    "orcid": "0009-0009-9738-9465",
     "affiliation": "",
     "ror": ""
   },
@@ -60014,6 +61836,17 @@ window.AUTHORS_DATA = {
       "yu_zhu_li_meng.2023.IotRaMPo3PEFCwSS",
       "chen_pan_zhu_ma.2023.IMPo3POPGCwSFR",
       "shen_zhu_cai_li.2024.DoaNEDtItPo3PGC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "li_xueyan": {
+    "prefix": "",
+    "lastName": "Li",
+    "firstName": "Xueyan",
+    "articles": [
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -60131,7 +61964,8 @@ window.AUTHORS_DATA = {
     "firstName": "Yate",
     "articles": [
       "zhen_li_xi_sun.2026.RotRoRPo3PRCaMOOoPP",
-      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC"
+      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -60260,7 +62094,8 @@ window.AUTHORS_DATA = {
     "firstName": "Yuhan",
     "articles": [
       "li_rian_chen_tang.2025.AoFCf3CPoPPP",
-      "li_rian_chen.2026.FCCW"
+      "li_rian_chen.2026.FCCW",
+      "li_rian.2026.FITi3CPfFLSS"
     ],
     "orcid": "0009-0003-6767-9636",
     "affiliation": "",
@@ -60625,7 +62460,7 @@ window.AUTHORS_DATA = {
     "firstName": "Zihan",
     "articles": [
       "li_liu_chen_nie.2022.Io3PCBMP",
-      "li_li_skib_wang.2023.MQCwNLFMi3CP",
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP",
       "li_liu_nie_chen.2024.MPoCRwHPMPf3CP",
       "xion_nie_liu_li.2024.OoFRLRCMDf3P"
     ],
@@ -60719,6 +62554,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "lia-moe_ole-bjorn": {
+    "prefix": "",
+    "lastName": "Lia Moe",
+    "firstName": "Ole-Bjørn",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "lian_hongqian": {
     "prefix": "",
     "lastName": "Lian",
@@ -60748,7 +62594,8 @@ window.AUTHORS_DATA = {
     "lastName": "Lian",
     "firstName": "Na",
     "articles": [
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -60759,9 +62606,10 @@ window.AUTHORS_DATA = {
     "lastName": "Liang",
     "firstName": "Chaofeng",
     "articles": [
-      "hou_wu_duan_zhou.2024.RoFRMf3PC"
+      "hou_wu_duan_zou.2024.RoFRMf3PC",
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
-    "orcid": "",
+    "orcid": "0009-0008-0143-5766",
     "affiliation": "",
     "ror": ""
   },
@@ -60885,6 +62733,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liang_wenwen": {
+    "prefix": "",
+    "lastName": "Liang",
+    "firstName": "Wenwen",
+    "articles": [
+      "wang_leng_lian_zhou.2026.MPPRi3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "liang_xiangzhou": {
     "prefix": "",
     "lastName": "Liang",
@@ -60901,7 +62760,7 @@ window.AUTHORS_DATA = {
     "lastName": "Liang",
     "firstName": "Xieyuan",
     "articles": [
-      "loan_zhua_cong_lian.2026.MAWAaALoTR3PCFfACRA"
+      "loan_xiao_cong_lian.2026.MAWAaALoTR3PCFfACRA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -60945,7 +62804,8 @@ window.AUTHORS_DATA = {
     "lastName": "Liang",
     "firstName": "Yishuang",
     "articles": [
-      "wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA"
+      "wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61090,6 +62950,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liao_zaiyi": {
+    "prefix": "",
+    "lastName": "Liao",
+    "firstName": "Zaiyi",
+    "articles": [
+      "hu_liao_deng.2026.RSAoETMf3PRWE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "liao_zhicheng": {
     "prefix": "",
     "lastName": "Liao",
@@ -61170,6 +63041,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liebl_bruna": {
+    "prefix": "",
+    "lastName": "Liebl",
+    "firstName": "Bruna",
+    "articles": [
+      "come_sara_doer_maas.2026.CRi3vAOTDoED"
+    ],
+    "orcid": "0009-0007-7924-4348",
+    "affiliation": "",
+    "ror": ""
+  },
   "liebringshausen_anne": {
     "prefix": "",
     "lastName": "Liebringshausen",
@@ -61195,6 +63077,17 @@ window.AUTHORS_DATA = {
       "pati_naya_lieb_sign.2026.3PSBCIMwOARMCaLCA"
     ],
     "orcid": "0000-0003-4054-6414",
+    "affiliation": "",
+    "ror": ""
+  },
+  "liesegang_kaja": {
+    "prefix": "",
+    "lastName": "Liesegang",
+    "firstName": "Kaja",
+    "articles": [
+      "rei_lies_etsc_mech.2026.IoCCTotRoLB3PCwCEMW"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -61240,7 +63133,6 @@ window.AUTHORS_DATA = {
     "firstName": "Kim",
     "articles": [
       "yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH",
-      "liew_li_yin_sun.2024.SDaMDoLCCCUET",
       "duan_wang_yin_liew.2025.MIFi3PCvP",
       "yu_zhan_liew_yin.2026.SMFaEDi3CP",
       "mu_zhan_he_liew.2026.TLC3CPTCCaWV",
@@ -61324,8 +63216,8 @@ window.AUTHORS_DATA = {
       "ting_quah_lim_tay.2022.ERPSo3PCURGC",
       "tay_lim_li_tan.2022.CFGCMwV3PP",
       "quah_tay_lim_tan.2023.C3P",
-      "nghi_lim_nam_lu.2024.AFSRf3",
       "tay_wang_wang_quah.2024.IoFMi3PfC",
+      "vuon_lim_nam_lu.2024.AFSRf3",
       "tay_quah_lim_vuon.2026.IoOFaIDoBSaFPo3PTC"
     ],
     "orcid": "0000-0002-8424-5624",
@@ -61490,17 +63382,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "lin_a": {
-    "prefix": "",
-    "lastName": "Lin",
-    "firstName": "A.",
-    "articles": [
-      "kua_shi_kaja_lam.2025.TSC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "lin_alexander": {
     "prefix": "",
     "lastName": "Lin",
@@ -61510,6 +63391,7 @@ window.AUTHORS_DATA = {
       "hua_lin_poh_wong.2023.3PCSK",
       "shi_lee_sun_koh.2025.DEoSBo3PCSK",
       "tian_shi_fang_lin.2025.MIEoMBi3PCSK",
+      "kua_shi_kaja_lam.2025.TSC3P",
       "wang_wan_owyo_conn.2026.TLCC"
     ],
     "orcid": "0000-0002-3773-7503",
@@ -61663,7 +63545,10 @@ window.AUTHORS_DATA = {
     "lastName": "Lin",
     "firstName": "Lin",
     "articles": [
-      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P"
+      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P",
+      "wang_xue_lin_yang.2026.DaEIoa3PNfRHCBoFE",
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP",
+      "wang_xue_yang_lin.2026.PaDo3PBFRCiFaSME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61678,7 +63563,10 @@ window.AUTHORS_DATA = {
       "lin_li_jian_ding.2024.ARo3PECCB",
       "lin_yu.2024.ARRTUFaSWMi3PEB",
       "lin_ding_yu_li.2025.SSo3PEBTSWMaIT",
-      "lin_yu_li_liu.2026.SEaMMitTBo3PECC"
+      "lin_yu_li_liu.2026.SEaMMitTBo3PECC",
+      "lin_yu_li_yan.2026.CNIiRF3PEA",
+      "liu_lin_xue_li.2026.TDTBo3PECCE",
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61726,7 +63614,8 @@ window.AUTHORS_DATA = {
       "dong_yuan_chen_jia.2025.PLSESEwUHPC",
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA",
       "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
-      "luo_li_lin_zhao.2026.3PRSCwDSTaC"
+      "luo_li_lin_zhao.2026.3PRSCwDSTaC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61737,7 +63626,7 @@ window.AUTHORS_DATA = {
     "lastName": "Lin",
     "firstName": "Runsheng",
     "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61789,7 +63678,19 @@ window.AUTHORS_DATA = {
       "rui_wang_lin_ma.2023.ESoDAo3PCEtSA",
       "wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM",
       "lin_wang_li_bai.2025.MSFaCi3PoSSCS",
-      "lin_xu_zhan_bai.2026.ISTPCSfVC3P"
+      "lin_xu_zhan_bai.2026.ISTPCSfVC3P",
+      "lin_wang.2026.TRISPfDRo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lin_wo": {
+    "prefix": "",
+    "lastName": "Lin",
+    "firstName": "Wo",
+    "articles": [
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -61804,6 +63705,17 @@ window.AUTHORS_DATA = {
       "xu_yu_teng_lin.2026.AoRTaICMi3PECC"
     ],
     "orcid": "0000-0002-8913-5539",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lin_xiaqiang": {
+    "prefix": "",
+    "lastName": "Lin",
+    "firstName": "Xiaqiang",
+    "articles": [
+      "wu_wang_lin_sun.2027.DD3PaPMAoLSCS"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -61851,6 +63763,7 @@ window.AUTHORS_DATA = {
       "lin_huo_li_wang.2024.OSDo3CPftBaTSBiC",
       "sun_lin_he_yang.2024.SR3PCHBaIMAC",
       "wang_shen_sun_song.2025.IoPSotPo3PCAC",
+      "wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC",
       "liu_hu_xion_cund.2026.LTDaDMo3PG3WWHAiME",
       "wang_shi_sun_lin.2026.DMSSAaCoMP3PCR",
       "wang_chen_liu_lin.2026.DFaAoaNLR3PCF",
@@ -61918,7 +63831,8 @@ window.AUTHORS_DATA = {
       "meib_lin_chen.2024.HAT3CPfLRCS",
       "lin_meib.2024.ISP",
       "lin_bayr_meib.2025.TLS",
-      "kamh_lin_wats_bart.2025.AFfPADi3CP"
+      "kamh_lin_wats_bart.2025.AFfPADi3CP",
+      "lin_agha_bart.2026.TARMPfNP3CP"
     ],
     "orcid": "0000-0002-3867-820X",
     "affiliation": "",
@@ -61962,7 +63876,8 @@ window.AUTHORS_DATA = {
       "lind_glin_funk_gelb.2024.DoaTfGaCVFwPPfRCCE",
       "lind_glin_funk_gelb.2024.AFPoLPCE",
       "lind_glin_funk_mann.2025.TDfPCCEiRAFP",
-      "lind_funk_gelb_mull.2026.CPoTWFRPCEfFFMC"
+      "lind_funk_gelb_mull.2026.CPoTWFRPCEfFFMC",
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
     ],
     "orcid": "0000-0001-5238-6361",
     "affiliation": "",
@@ -62091,6 +64006,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "lisak_grzegorz": {
+    "prefix": "",
+    "lastName": "Lisak",
+    "firstName": "Grzegorz",
+    "articles": [
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA"
+    ],
+    "orcid": "0000-0003-1662-0709",
+    "affiliation": "",
+    "ror": ""
+  },
   "litos_jiri": {
     "prefix": "",
     "lastName": "Litoš",
@@ -62137,7 +64063,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "chen_liu_li_cao.2020.RPTaCo3PCSCCMbB",
       "li_li_yan_wang.2026.MBaUSMftIB3PPFaCC",
-      "liu_agus_woen_khai.2026.ASfCaMPo3PCWS"
+      "liu_syam_woen_khai.2026.ASfCaMPo3PCWS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -62153,17 +64079,6 @@ window.AUTHORS_DATA = {
       "lo_liu.2024.OoILPwDBMfCF"
     ],
     "orcid": "0000-0001-7288-9230",
-    "affiliation": "",
-    "ror": ""
-  },
-  "liu_bowen": {
-    "prefix": "",
-    "lastName": "Liu",
-    "firstName": "Bowen",
-    "articles": [
-      "giud_kats_liu_sarh.2024.PMoUMWUaSB3P"
-    ],
-    "orcid": "0000-0002-9104-3561",
     "affiliation": "",
     "ror": ""
   },
@@ -62233,7 +64148,9 @@ window.AUTHORS_DATA = {
       "he_tang_ma_liu.2026.PoGDi3PC",
       "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC",
       "he_xin_ma_liu.2026.PISBRLfAFRCi3CPUEaRV",
-      "liu_wang_liu_zhou.2026.ARoSAMoC"
+      "liu_wang_liu_zhou.2026.ARoSAMoC",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL",
+      "liu_liu_liu_xiao.2026.CMI3PC"
     ],
     "orcid": "0000-0002-8799-7100",
     "affiliation": "",
@@ -62249,7 +64166,8 @@ window.AUTHORS_DATA = {
       "chen_zhan_liu_zhan.2023.3PCPF",
       "chen_zhan_zhan_pang.2023.IoGoEB3PCwCA",
       "chen_zhan_quan_liu.2024.EATDMPo3PCwCA",
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -62567,7 +64485,9 @@ window.AUTHORS_DATA = {
       "tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB",
       "xiao_liu_ding_yu.2024.RFCC",
       "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
-      "wang_chen_liu_lin.2026.DFaAoaNLR3PCF"
+      "wang_chen_liu_lin.2026.DFaAoaNLR3PCF",
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR",
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "0000-0003-1883-2385",
     "affiliation": "",
@@ -62602,10 +64522,12 @@ window.AUTHORS_DATA = {
     "firstName": "Huanbao",
     "articles": [
       "li_liu_chen_nie.2022.Io3PCBMP",
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP",
       "li_liu_nie_chen.2024.MPoCRwHPMPf3CP",
       "xion_nie_liu_li.2024.OoFRLRCMDf3P",
       "xion_nie_liu_li.2024.EaOoMCCM3PRCC",
-      "xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC"
+      "xion_liu_nie_li.2025.EoDSMMoSPSRRPoMPo3PC",
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "0000-0002-3211-7954",
     "affiliation": "",
@@ -62644,7 +64566,9 @@ window.AUTHORS_DATA = {
       "wu_liu_liu_pan.2026.MMIitDEoIRotSBo3PCCW",
       "zhan_liu_duan_lv.2026.WIIi3PC",
       "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC",
-      "liu_wang_liu_zhou.2026.ARoSAMoC"
+      "liu_wang_liu_zhou.2026.ARoSAMoC",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL",
+      "liu_liu_liu_xiao.2026.CMI3PC"
     ],
     "orcid": "0000-0003-4433-5075",
     "affiliation": "",
@@ -62740,12 +64664,23 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liu_jiaping": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Jiaping",
+    "articles": [
+      "teng_sun_khay_liu.2026.SEoVMAaPSoRPoCPwLWtBR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "liu_jiaqi": {
     "prefix": "",
     "lastName": "Liu",
     "firstName": "Jiaqi",
     "articles": [
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
       "marr_goma_iriz_ahme.2025.AMoUHPC"
     ],
@@ -62848,6 +64783,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liu_jingyi": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Jingyi",
+    "articles": [
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
+    ],
+    "orcid": "0009-0003-3249-4877",
+    "affiliation": "",
+    "ror": ""
+  },
+  "liu_jinlong": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Jinlong",
+    "articles": [
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
+    ],
+    "orcid": "0009-0001-8413-2929",
+    "affiliation": "",
+    "ror": ""
+  },
   "liu_junli": {
     "prefix": "",
     "lastName": "Liu",
@@ -62865,8 +64822,9 @@ window.AUTHORS_DATA = {
       "nguy_tran_liu_tran.2024.EFEMSMfCPi3PFRC",
       "liu_haik_fox_tran.2024.3PoCCwSP",
       "liu_hai_tran_tran.2025.AMIi3PCMvXRMCT",
-      "li_liu_chen_xuan.2025.DaPo3PBSFRCCCB",
-      "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS"
+      "li_liu_chen_nguy.2025.DaPo3PBSFRCCCB",
+      "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS",
+      "wu_liu_qin_zhan.2026.3PRMC"
     ],
     "orcid": "0000-0002-8282-8439",
     "affiliation": "",
@@ -62981,7 +64939,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "liu_liu_ma_wang.2026.ARoCCUaSTiCAM",
       "liu_ma_liu_dai.2026.SiCAM",
-      "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC"
+      "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL",
+      "liu_liu_liu_xiao.2026.CMI3PC"
     ],
     "orcid": "0009-0009-8726-9275",
     "affiliation": "",
@@ -63037,6 +64997,17 @@ window.AUTHORS_DATA = {
       "liu_huan_wang_sun.2021.TaFPo3PJRM",
       "liu_wang_ma_li.2023.UTSWMftFPEo3PC",
       "zhan_chen_liu_mors.2025.EtSPoUSSWMR3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "liu_min": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Min",
+    "articles": [
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -63209,7 +65180,8 @@ window.AUTHORS_DATA = {
     "lastName": "Liu",
     "firstName": "Ronggui",
     "articles": [
-      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM"
+      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM",
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -63261,6 +65233,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liu_shenghjun": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Shenghjun",
+    "articles": [
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "liu_shijie": {
     "prefix": "",
     "lastName": "Liu",
@@ -63279,7 +65262,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "yang_yao_zhao_zhan.2024.BAAaME",
       "wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA",
-      "bai_yao_yang_liu.2026.DaCoSCSBoCAM"
+      "bai_yao_yang_liu.2026.DaCoSCSBoCAM",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -63291,7 +65275,8 @@ window.AUTHORS_DATA = {
     "firstName": "Shiyuan",
     "articles": [
       "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF",
-      "dai_luo_wang_mbab.2025.WPFRCCSMbME3P"
+      "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -63593,7 +65578,10 @@ window.AUTHORS_DATA = {
       "wolf_vers_sant_bhat.2025.FaTS",
       "liu_busw_cava_xu.2026.IoIFVotFMaCSo3PC",
       "liu_dobr_xu_kola.2026.PMfGUi3PCE",
-      "busw_jamh_moha_soko.2026.FtF"
+      "busw_jamh_moha_soko.2026.FtF",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "0009-0003-4139-0877",
     "affiliation": "",
@@ -63640,17 +65628,6 @@ window.AUTHORS_DATA = {
       "liu_song_guo_wang.2026.EULTFTRfSB3PCTPCA"
     ],
     "orcid": "0000-0001-6909-8286",
-    "affiliation": "",
-    "ror": ""
-  },
-  "liu_xiqiang": {
-    "prefix": "",
-    "lastName": "Liu",
-    "firstName": "Xiqiang",
-    "articles": [
-      "wang_song_shen_sun.2025.EaOo3PCBoFCPaMPC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -63808,8 +65785,7 @@ window.AUTHORS_DATA = {
       "liu_wang_yuan_peng.2023.EoCAoPaMPo3PC",
       "wang_qiu_chen_liu.2024.3CPiAaUW",
       "wang_qiu_chen_liu.2025.NSfERPaIBiU3CP",
-      "wang_qiu_chen_liu.2025.Mo3CPBoSMwtHBPRM",
-      "xian_qiao_hu_qiu.2026.3PGZXM"
+      "wang_qiu_chen_liu.2025.Mo3CPBoSMwtHBPRM"
     ],
     "orcid": "0000-0002-4273-4606",
     "affiliation": "",
@@ -63823,9 +65799,10 @@ window.AUTHORS_DATA = {
       "ding_ou_qi_xion.2024.ILBPo3PECC",
       "ding_liu_yang_liu.2026.AoAITi3CPQIaC",
       "lin_yu_li_liu.2026.SEaMMitTBo3PECC",
-      "chen_liu_lian_xue.2026.MLPIDf3PECC3E"
+      "chen_liu_lian_xue.2026.MLPIDf3PECC3E",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
     ],
-    "orcid": "",
+    "orcid": "0009-0003-2779-0313",
     "affiliation": "",
     "ror": ""
   },
@@ -63968,6 +65945,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "liu_zhen-hao": {
+    "prefix": "",
+    "lastName": "Liu",
+    "firstName": "Zhen-Hao",
+    "articles": [
+      "guo_chen_rui_liu.2026.TC3PoHDCCwCPPfCoPCCP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "liu_zhenbang": {
     "prefix": "",
     "lastName": "Liu",
@@ -63985,7 +65973,8 @@ window.AUTHORS_DATA = {
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
       "liu_li_deng_wang.2026.RBotCM",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0000-0002-3250-206X",
     "affiliation": "",
@@ -64064,7 +66053,8 @@ window.AUTHORS_DATA = {
       "chen_zhan_liu_zhan.2023.3PCPF",
       "chen_zhan_zhan_pang.2023.IoGoEB3PCwCA",
       "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S",
-      "chen_zhan_quan_liu.2024.EATDMPo3PCwCA"
+      "chen_zhan_quan_liu.2024.EATDMPo3PCwCA",
+      "yu_zhan_zhan_zuo.2026.MRCAM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -64220,7 +66210,6 @@ window.AUTHORS_DATA = {
       "szab_reit_llor_wang.2020.A",
       "gras_baur_apol_dorf.2020.DH",
       "jenn_llor_gram_kohl.2020.CPTCMRFOS",
-      "burg_wang_chiu_tech.2021.MIFG",
       "fran_llor_taha_gram.2021.DCBRDaDRfRCS",
       "busw_bos_silv_hack.2022.DFwCBM",
       "gebh_burg_mata_llor.2022.TECSwUT3PF",
@@ -64280,7 +66269,15 @@ window.AUTHORS_DATA = {
     "lastName": "Loan",
     "firstName": "Pham",
     "articles": [
-      "loan_zhua_cong_lian.2026.MAWAaALoTR3PCFfACRA"
+      "loan_nguy_trin_nguy.2022.Do3PfCS",
+      "loan_trin_nguy_do.2023.SoFBoPCWBUPF",
+      "bui_loan_pham_do.2023.AEoSaSFTf3CPwtKv",
+      "loan_trin_do_huan.2023.FBoPCWBwDFR",
+      "loan_huan.2024.3PACR",
+      "loan_nguy_huan.2025.ESoAMPo3RCwDPF",
+      "loan_nguy_than.2026.Ao3PCiC",
+      "ying_qiao_wang_loan.2026.MSPSaMAoPFR3PSSSSC",
+      "loan_xiao_cong_lian.2026.MAWAaALoTR3PCFfACRA"
     ],
     "orcid": "0000-0001-7081-0285",
     "affiliation": "",
@@ -64392,6 +66389,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "lokuge_weena": {
+    "prefix": "",
+    "lastName": "Lokuge",
+    "firstName": "Weena",
+    "articles": [
+      "rama_rame_loku_mana.2026.PaCSPo3PSUBCSC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "lolli_francesca": {
     "prefix": "",
     "lastName": "Lolli",
@@ -64456,7 +66464,9 @@ window.AUTHORS_DATA = {
       "bos_menn_robe_wolf.2025.AaMR",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
+      "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
     "orcid": "0000-0003-3352-5746",
     "affiliation": "",
@@ -64479,7 +66489,7 @@ window.AUTHORS_DATA = {
     "lastName": "Long",
     "firstName": "Song",
     "articles": [
-      "loan_zhua_cong_lian.2026.MAWAaALoTR3PCFfACRA"
+      "loan_xiao_cong_lian.2026.MAWAaALoTR3PCFfACRA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -64526,6 +66536,17 @@ window.AUTHORS_DATA = {
       "qu_yu_ong_card.2023.3PCCTRG"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "longhi_marlon": {
+    "prefix": "",
+    "lastName": "Longhi",
+    "firstName": "Marlon",
+    "articles": [
+      "mato_come_rodr_long.2026.AA3CPfMSA"
+    ],
+    "orcid": "0000-0002-6966-7888",
     "affiliation": "",
     "ror": ""
   },
@@ -64627,20 +66648,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "lope_puen_marq_barl.2026.FoSS3PMfBM",
       "marq_rama_lope_puen.2026.3PoASHLCM",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
     ],
     "orcid": "0009-0007-3944-3967",
-    "affiliation": "",
-    "ror": ""
-  },
-  "lopez-anido_roberto": {
-    "prefix": "",
-    "lastName": "Lopez-Anido",
-    "firstName": "Roberto",
-    "articles": [
-      "schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC"
-    ],
-    "orcid": "0000-0001-8702-0642",
     "affiliation": "",
     "ror": ""
   },
@@ -64743,7 +66753,8 @@ window.AUTHORS_DATA = {
     "lastName": "Lorenzoni",
     "firstName": "Renata",
     "articles": [
-      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP"
+      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0001-5453-3708",
     "affiliation": "",
@@ -64768,9 +66779,33 @@ window.AUTHORS_DATA = {
     "firstName": "Denis",
     "articles": [
       "lori_zhan_titt_matt.2026.RBo3PULCCR",
-      "lori_zhan_titt_matt.2026.ULC3PC"
+      "lori_zhan_titt_matt.2026.ULC3PC",
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0009-0003-4959-0718",
+    "affiliation": "",
+    "ror": ""
+  },
+  "los_katarzyna": {
+    "prefix": "",
+    "lastName": "Łoś",
+    "firstName": "Katarzyna",
+    "articles": [
+      "stok_bure_melt_cite.2026.3PGCTB"
+    ],
+    "orcid": "0000-0002-6869-1392",
+    "affiliation": "",
+    "ror": ""
+  },
+  "los_piotr": {
+    "prefix": "",
+    "lastName": "Łoś",
+    "firstName": "Piotr",
+    "articles": [
+      "stok_bure_melt_cite.2026.3PGCTB"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -64791,17 +66826,6 @@ window.AUTHORS_DATA = {
     "firstName": "Lei",
     "articles": [
       "lou_li_xu_you.2026.TIoPCotMPo3PCBotPFM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "lou_qi-ling": {
-    "prefix": "",
-    "lastName": "Lou",
-    "firstName": "Qi-Ling",
-    "articles": [
-      "yu_zhao_lou_ping.2024.RPFwDSMfEILAi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -64959,12 +66983,17 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "xiao_vand_lowk_mai.2025.ARAPoSTfI3CP",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
-      "meie_herd_zetz_mai.2025.SMoBMfPB3CP"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "meie_herd_zetz_mai.2025.SMoBMfPB3CP",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "bohl_freu_lowk.2026.EoMaPPoCBoS3PE",
+      "megn_rudo_lowk_drod.2026.EPPCwFRMfCiS3P",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P"
     ],
     "orcid": "0000-0001-8626-918X",
-    "affiliation": "Technische Universität Braunschweig",
-    "ror": "010nsgg66"
+    "affiliation": "",
+    "ror": ""
   },
   "loza-matovelle_d": {
     "prefix": "",
@@ -64983,7 +67012,6 @@ window.AUTHORS_DATA = {
     "firstName": "Bing",
     "articles": [
       "lu_li_qian_leon.2018.DCMIFACfSB3P",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "weng_lu_li_liu.2018.EMtPRPoFRCCf3P",
       "weng_li_liu_lao.2019.PaFPoaD3PFRCCUET",
@@ -65000,7 +67028,7 @@ window.AUTHORS_DATA = {
       "lu_li_li_feng.2023.SoCbMCiSB3CP",
       "lu_wang_wang_tan.2024.DoRSSSCMfSSHM",
       "lu_li_qian_li.2024.HP3CPwZ",
-      "nghi_lim_nam_lu.2024.AFSRf3"
+      "vuon_lim_nam_lu.2024.AFSRf3"
     ],
     "orcid": "0000-0002-0148-2879",
     "affiliation": "",
@@ -65032,7 +67060,8 @@ window.AUTHORS_DATA = {
       "zhan_sun_bu_lu.2025.RT3U",
       "bu_zhan_wu_xia.2025.IPo3PEIbBBS",
       "xia_bu_zhan_xie.2026.CPMi3PEwaBBS",
-      "bu_xia_zhan_pi.2026.PAPM3PU"
+      "bu_xia_zhan_pi.2026.PAPM3PU",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65145,7 +67174,8 @@ window.AUTHORS_DATA = {
     "firstName": "Jiquan",
     "articles": [
       "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF",
-      "dai_luo_wang_mbab.2025.WPFRCCSMbME3P"
+      "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65324,7 +67354,8 @@ window.AUTHORS_DATA = {
     "lastName": "Lu",
     "firstName": "Xu",
     "articles": [
-      "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC"
+      "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC",
+      "zhan_xie_lu_chen.2026.RtDMIFBo3PUCRFAUST"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65426,18 +67457,19 @@ window.AUTHORS_DATA = {
     "firstName": "Yuwei",
     "articles": [
       "chen_lu_gao_chen.2026.PaMPo3PCWMRwMCF",
-      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM"
+      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM",
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
     ],
     "orcid": "",
     "affiliation": "",
     "ror": ""
   },
-  "lu_zhengran": {
+  "lu_zhaorui": {
     "prefix": "",
     "lastName": "Lu",
-    "firstName": "Zhengran",
+    "firstName": "Zhaorui",
     "articles": [
-      "miao_guo_lu_chen.2022.3MSAoCCDDDDFTC"
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65459,7 +67491,9 @@ window.AUTHORS_DATA = {
     "lastName": "Lu",
     "firstName": "Ziyi",
     "articles": [
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65573,6 +67607,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "luduena_andres": {
+    "prefix": "",
+    "lastName": "Ludueña",
+    "firstName": "Andrés",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ludwiczak-sarzala_aleksandra": {
     "prefix": "",
     "lastName": "Ludwiczak-Sarzała",
@@ -65664,6 +67709,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "lund-nielsen_henrik": {
+    "prefix": "",
+    "lastName": "Lund-Nielsen",
+    "firstName": "Henrik",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "lunelli_pietro": {
     "prefix": "",
     "lastName": "Lunelli",
@@ -65708,17 +67765,6 @@ window.AUTHORS_DATA = {
     "firstName": "Chuanglian",
     "articles": [
       "geng_long_luo_fu.2023.IPoDYSi3PCBoML"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "luo_chuanxi": {
-    "prefix": "",
-    "lastName": "Luo",
-    "firstName": "Chuanxi",
-    "articles": [
-      "chen_li_luo_cui.2026.RaAoHPAABo3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -65905,20 +67951,11 @@ window.AUTHORS_DATA = {
       "geng_long_luo_fu.2023.IPoDYSi3PCBoML",
       "geng_luo_chen_li.2024.IMOOo3PLCCfMSR",
       "wu_luo_long_zhan.2024.AC3PwPILBS",
+      "geng_liu_chen_luo.2024.R3CP",
       "luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC",
+      "yu_zhao_luo_ping.2024.RPFwDSMfEILAi3PC",
       "geng_chen_long_luo.2025.CDPaMLfICiHP3CP",
       "wang_zhen_zhan_zhu.2026.PEB3PfEVSHiCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "luo_qilong": {
-    "prefix": "",
-    "lastName": "Luo",
-    "firstName": "Qilong",
-    "articles": [
-      "geng_liu_chen_luo.2024.R3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -66075,7 +68112,8 @@ window.AUTHORS_DATA = {
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "luo_sun_mbab_du.2026.3PCSSwPKEPME",
       "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO",
-      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P"
+      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
+      "zong_sun_lyu_luo.2026.LC3PMUHP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -66086,7 +68124,7 @@ window.AUTHORS_DATA = {
     "lastName": "Luo",
     "firstName": "Zhiqiang",
     "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -66177,6 +68215,18 @@ window.AUTHORS_DATA = {
     "firstName": "Liping",
     "articles": [
       "lv_he_chen_xu.2026.IMOOfMHC3CPvaTTEGA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "lv_lujie": {
+    "prefix": "",
+    "lastName": "Lv",
+    "firstName": "Lujie",
+    "articles": [
+      "wang_lv.2026.RPAoRPM3PM",
+      "wang_lv_ma.2026.RDIRaCLi3PRMwRFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -66368,7 +68418,8 @@ window.AUTHORS_DATA = {
       "lyu_zhou_wu_sinh.2026.Po3PUObPPMUSaSC",
       "wang_lyu.2026.3PUfTCR",
       "lyu_wang_sahi.2026.3PAAMfRAaCRA",
-      "lyu_luo_ozdo_sahi.2026.3PMCCaDW"
+      "lyu_luo_ozdo_sahi.2026.3PMCCaDW",
+      "ding_li_wang_lyu.2026.MFMaSPo3PCRW"
     ],
     "orcid": "0009-0006-6347-2920",
     "affiliation": "",
@@ -66392,7 +68443,9 @@ window.AUTHORS_DATA = {
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "luo_sun_mbab_du.2026.3PCSSwPKEPME",
       "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO",
-      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P"
+      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
+      "zong_sun_lyu_luo.2026.LC3PMUHP",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
     "orcid": "0000-0002-0012-5781",
     "affiliation": "",
@@ -66458,14 +68511,27 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ma_cai-long": {
+    "prefix": "",
+    "lastName": "Ma",
+    "firstName": "Cai-Long",
+    "articles": [
+      "ma_sun_xie_zhao.2026.EoCTotIBi3PAAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ma_chau-khun": {
     "prefix": "",
     "lastName": "Ma",
     "firstName": "Chau-Khun",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "0009-0008-4874-9690",
     "affiliation": "",
@@ -66581,7 +68647,8 @@ window.AUTHORS_DATA = {
       "sun_liu_zhan_ma.2026.SB3PTLC",
       "wang_wang_ma.2026.ASST3PC",
       "pan_yang_li_ma.2026.ST3PCPvSADON",
-      "bai_wang_kang_li.2026.FPoRCFCSw3PUHPCaPF"
+      "bai_wang_kang_li.2026.FPoRCFCSw3PUHPCaPF",
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
     "orcid": "0000-0002-8983-783X",
     "affiliation": "",
@@ -66597,6 +68664,17 @@ window.AUTHORS_DATA = {
       "lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ma_haozhe": {
+    "prefix": "",
+    "lastName": "Ma",
+    "firstName": "Haozhe",
+    "articles": [
+      "zong_sun_lyu_luo.2026.LC3PMUHP"
+    ],
+    "orcid": "0009-0007-0095-775X",
     "affiliation": "",
     "ror": ""
   },
@@ -66676,7 +68754,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "ma_sama_roti_zou.2024.SCLo3PB",
       "ma_sama_roti_zou.2025.ARoSCDo3CPCP",
-      "ma_sama_roti_zuo.2025.ERMf3CPSCS"
+      "ma_sama_roti_zou.2025.ERMf3CPSCS"
     ],
     "orcid": "0009-0000-7796-6100",
     "affiliation": "",
@@ -66809,6 +68887,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ma_shiyu": {
+    "prefix": "",
+    "lastName": "Ma",
+    "firstName": "Shiyu",
+    "articles": [
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ma_siqi": {
     "prefix": "",
     "lastName": "Ma",
@@ -66910,7 +68999,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "dava_ma.2025.ItMPo3PUwTMCF"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-8246-7605",
     "affiliation": "",
     "ror": ""
   },
@@ -66919,21 +69008,32 @@ window.AUTHORS_DATA = {
     "lastName": "Ma",
     "firstName": "Zhiming",
     "articles": [
-      "wang_du_zhan_ma.2024.Et3MCaSSMMoFRRAC",
-      "wang_zhao_ma.2026.PAMDDo3PRMIRFP"
+      "wang_zhao_ma.2026.PAMDDo3PRMIRFP",
+      "wang_lv_ma.2026.RDIRaCLi3PRMwRFP"
     ],
     "orcid": "0000-0003-2849-9424",
     "affiliation": "",
     "ror": ""
   },
-  "ma_zhonggoue": {
+  "ma_zhongcheng": {
     "prefix": "",
     "lastName": "Ma",
-    "firstName": "Zhonggoue",
+    "firstName": "Zhongcheng",
+    "articles": [
+      "qi_yang_ma_xu.2027.RoMPSSaEAoSB3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ma_zhongguo": {
+    "prefix": "",
+    "lastName": "Ma",
+    "firstName": "Zhongguo",
     "articles": [
       "ghos_anle_pape_ma.2023.EoILTLaWRoPCP"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-8246-7605",
     "affiliation": "",
     "ror": ""
   },
@@ -67000,9 +69100,10 @@ window.AUTHORS_DATA = {
     "lastName": "Maas",
     "firstName": "Pyetra",
     "articles": [
-      "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI"
+      "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI",
+      "come_sara_doer_maas.2026.CRi3vAOTDoED"
     ],
-    "orcid": "",
+    "orcid": "0009-0001-9732-8509",
     "affiliation": "",
     "ror": ""
   },
@@ -67077,7 +69178,8 @@ window.AUTHORS_DATA = {
     "firstName": "Bruce",
     "articles": [
       "krei_digg_wood_maca.2020.FCfDAC",
-      "krei_krei_maca_wood.2024.TUoACiASCoaB"
+      "krei_krei_maca_wood.2024.TUoACiASCoaB",
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
     ],
     "orcid": "0009-0003-9372-3434",
     "affiliation": "",
@@ -67110,7 +69212,8 @@ window.AUTHORS_DATA = {
     "lastName": "Machado Romero",
     "firstName": "Andrea",
     "articles": [
-      "zhi_oror_mota_chai.2025.TOfaPTC3PFS"
+      "zhi_oror_mota_chai.2025.TOfaPTC3PFS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0009-0005-6093-4475",
     "affiliation": "",
@@ -67148,7 +69251,9 @@ window.AUTHORS_DATA = {
       "mack_hano_migl_ahme.2024.MFACHWfHaS",
       "ahme_mack_migl_mant.2026.APCfAC",
       "mack_mant.2026.SRBSTAC",
-      "ahme_mack_mant.2026.U3PoOC1CC"
+      "ahme_mack_mant.2026.U3PoOC1CC",
+      "pagl_mack_ahme_migl.2026.DICiRT",
+      "mack_ahme_pagl_kooh.2026.NHMoACCSPCC"
     ],
     "orcid": "0009-0007-8387-2830",
     "affiliation": "",
@@ -67255,7 +69360,9 @@ window.AUTHORS_DATA = {
     "lastName": "Maestre",
     "firstName": "Rafael",
     "articles": [
-      "caro_mesn_demo_piar.2026.OaDPRCBwBiS"
+      "caro_mesn_demo_piar.2026.OaDPRCBwBiS",
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -67291,7 +69398,8 @@ window.AUTHORS_DATA = {
     "firstName": "Bryan",
     "articles": [
       "moin_olek_youn_mage.2018.AMaPoACBM",
-      "moin_olek_mage_zava.2019.AMaCoACBMvXRMCT"
+      "moin_olek_mage_zava.2019.AMaCoACBMvXRMCT",
+      "zehr_mage_rodg.2026.EMtIVMPaPPfAMUCCBCI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -67338,6 +69446,17 @@ window.AUTHORS_DATA = {
     "firstName": "Meera",
     "articles": [
       "maha_fran_thom.2020.ASBIoSAo3PS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mahajan_shreya": {
+    "prefix": "",
+    "lastName": "Mahajan",
+    "firstName": "Shreya",
+    "articles": [
+      "redd_maha_kone_subr.2027.LCAoaME3PCB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -67412,6 +69531,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "mahfouz_ahmadi": {
+    "prefix": "",
+    "lastName": "Mahfouz",
+    "firstName": "Ahmadi",
+    "articles": [
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "mahil_ahmed": {
     "prefix": "",
     "lastName": "Mahil",
@@ -67461,7 +69591,8 @@ window.AUTHORS_DATA = {
     "lastName": "Mahmoodi",
     "firstName": "Obaid",
     "articles": [
-      "mahm_siad_lach_sahm.2025.RAiCBG"
+      "mahm_siad_lach_sahm.2025.RAiCBG",
+      "qais_siad_lach_mahm.2026.Ro3PCaGPFfCS"
     ],
     "orcid": "0000-0001-9453-8394",
     "affiliation": "",
@@ -67473,7 +69604,9 @@ window.AUTHORS_DATA = {
     "firstName": "Matineh",
     "articles": [
       "wang_tao_das_mahm.2024.A2SiDC",
-      "mahm_wang_flat.2024.RoDC"
+      "mahm_wang_flat.2024.RoDC",
+      "mahm_bess_wang_khay.2026.V",
+      "mahm_bisc_wang_bick.2026.ADTDfCPEDaT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -67486,7 +69619,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA",
       "suko_maho_komk_pian.2023.PDoIPTfCM3PUaDM",
-      "suko_khom_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
+      "suko_komk_maho_fuji.2024.PaSSoCMILVoMPFf3PA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -67543,12 +69676,15 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "xiao_vand_lowk_mai.2025.ARAPoSTfI3CP",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "meie_herd_zetz_mai.2025.SMoBMfPB3CP",
       "jaco_zoll_hack_mai.2025.EoPPRiI3CP",
       "mai_jaco_dori_hack.2026.FoLaMCwI3CP",
       "rase_lehm_char_step.2026.PoFaHMUCAtTISf3P",
-      "jacq_mai.2026.NaAMoFSRaSi3CP"
+      "jacq_mai.2026.NaAMoFSRaSi3CP",
+      "dori_mehd_jaco_mai.2026.I3CP",
+      "rase_mai_kim_step.2026.OIFBvPPi3",
+      "jaco_rase_step_mai.2026.EDoMfI3CP"
     ],
     "orcid": "0000-0002-3182-5086",
     "affiliation": "",
@@ -67584,7 +69720,8 @@ window.AUTHORS_DATA = {
       "varg_rang_maia.2026.CAoMPiCa3PC",
       "maia_varg.2026.RFi3",
       "ribe_rang_maia_tava.2026.AWAtMaIPf3CP",
-      "teix_jesu_maia_rang.2026.ESCAi3CPTtIoBPoWDP"
+      "teix_jesu_maia_rang.2026.ESCAi3CPTtIoBPoWDP",
+      "fons_quei_sant_maia.2026.FSCMfSaA3CP"
     ],
     "orcid": "0000-0002-6371-0179",
     "affiliation": "",
@@ -67774,6 +69911,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "makarim_satrio": {
+    "prefix": "",
+    "lastName": "Makarim",
+    "firstName": "Satrio",
+    "articles": [
+      "maka_kisw_afin_harf.2026.CAMVfI3CPLW"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "makavita_charita": {
+    "prefix": "",
+    "lastName": "Makavita",
+    "firstName": "Charita",
+    "articles": [
+      "prem_silv_mudu_maka.2026.AIDTo3CPiA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "makinen_william": {
     "prefix": "",
     "lastName": "Makinen",
@@ -67837,9 +69996,10 @@ window.AUTHORS_DATA = {
     "firstName": "Grzegorz",
     "articles": [
       "chad_vase_kang_aejm.2024.IPS",
-      "vase_chad_kang_leun.2024.IP"
+      "vase_chad_kang_leun.2024.IP",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-7574-5598",
     "affiliation": "",
     "ror": ""
   },
@@ -67865,6 +70025,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "malheiro_raphaele": {
+    "prefix": "",
+    "lastName": "Malheiro",
+    "firstName": "Raphaele",
+    "articles": [
+      "eire_camo_mart_malh.2026.TCUM"
+    ],
+    "orcid": "0000-0001-6922-9813",
+    "affiliation": "",
+    "ror": ""
+  },
   "malik_lavanya": {
     "prefix": "",
     "lastName": "Malik",
@@ -67886,17 +70057,6 @@ window.AUTHORS_DATA = {
       "mali_riaz_rehm_usma.2024.AMDPi3PC"
     ],
     "orcid": "0009-0009-8447-1072",
-    "affiliation": "",
-    "ror": ""
-  },
-  "malipeddi_reshma": {
-    "prefix": "",
-    "lastName": "Malipeddi",
-    "firstName": "Reshma",
-    "articles": [
-      "mali_adis.2023.IoUMMoMaMCoCCSaFA"
-    ],
-    "orcid": "0000-0002-6454-0095",
     "affiliation": "",
     "ror": ""
   },
@@ -67987,7 +70147,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P",
       "rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS",
-      "kond_rame_rama_mana.2026.ICoWCf3CP"
+      "kond_rame_rama_mana.2026.ICoWCf3CP",
+      "rama_rame_loku_mana.2026.PaCSPo3PSUBCSC",
+      "rame_muth_rama_mana.2026.EFRoTR3PSUNSIGFY"
     ],
     "orcid": "0000-0003-0493-433X",
     "affiliation": "",
@@ -68020,7 +70182,8 @@ window.AUTHORS_DATA = {
     "lastName": "Mandal",
     "firstName": "Romio",
     "articles": [
-      "mand_dube_arya_chak.2026.RPi3PCC"
+      "mand_dube_arya_chak.2026.RPi3PCC",
+      "mand_hari_bisw_pand.2026.TS3CP"
     ],
     "orcid": "0000-0001-8651-5758",
     "affiliation": "",
@@ -68056,6 +70219,17 @@ window.AUTHORS_DATA = {
       "yuan_shen_yao_pich.2025.ATSDSf3PCCCA"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mangalampalli_anil": {
+    "prefix": "",
+    "lastName": "Mangalampalli",
+    "firstName": "Anil",
+    "articles": [
+      "mang_tang_jyos_tala.2026.FSPoLCCBAAMf3CP"
+    ],
+    "orcid": "0009-0009-9881-9025",
     "affiliation": "",
     "ror": ""
   },
@@ -68159,6 +70333,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "saye_romd_manj.2020.ACRo3PiC",
       "ahme_romd_saye_manj.2024.RAf3PiCP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "manjunatha_b": {
+    "prefix": "",
+    "lastName": "Manjunatha",
+    "firstName": "B.",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -68328,12 +70513,14 @@ window.AUTHORS_DATA = {
       "mack_migl_farh_mant.2024.IACRfSR",
       "migl_ahme_mack_hano.2024.TOBACfS",
       "mack_hano_migl_ahme.2024.MFACHWfHaS",
-      "aly_mant.2025.ACoLECC",
+      "ahme_mant.2025.ACoLECC",
       "ahme_mack_migl_mant.2026.APCfAC",
       "ahme_mant.2026.3PoGCiIAaUE",
       "mack_mant.2026.SRBSTAC",
       "migl_mant.2026.AMTfOFCMwNRT",
-      "ahme_mack_mant.2026.U3PoOC1CC"
+      "ahme_mack_mant.2026.U3PoOC1CC",
+      "pagl_mack_ahme_migl.2026.DICiRT",
+      "mack_ahme_pagl_kooh.2026.NHMoACCSPCC"
     ],
     "orcid": "0000-0001-7309-5061",
     "affiliation": "",
@@ -68361,9 +70548,11 @@ window.AUTHORS_DATA = {
     "lastName": "Mantha",
     "firstName": "Bharadwaj",
     "articles": [
-      "mant_sati_hosn_abda.2024.AG3PLCALFfAA"
+      "mant_sati_hosn_abda.2024.AG3PLCALFfAA",
+      "sati_hosn_abda_mant.2026.CEEAoD3CPM",
+      "sati_hosn_mant_dabo.2027.TDCPitCI"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-3173-3966",
     "affiliation": "",
     "ror": ""
   },
@@ -68675,7 +70864,9 @@ window.AUTHORS_DATA = {
       "akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC",
       "kaze_akgu_sahi_mard.2026.ABBCtASMDACi3PC",
       "mard_hema_ozte_qais.2026.ICSBo3PCLfMfAPPDaS",
-      "mard_hema_ozte_qais.2026.ABo3PC"
+      "mard_hema_ozte_qais.2026.ABo3PC",
+      "taba_kaya_mard_mard.2026.IELfPFaCSo3PC",
+      "mard_sahi_hema_kamc.2026.3PCRT"
     ],
     "orcid": "0000-0003-0326-5015",
     "affiliation": "",
@@ -68687,7 +70878,8 @@ window.AUTHORS_DATA = {
     "firstName": "Naz",
     "articles": [
       "sahi_mard_mard.2024.PRaOMPoHVFA3PC",
-      "sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET"
+      "sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET",
+      "taba_kaya_mard_mard.2026.IELfPFaCSo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -68859,7 +71051,8 @@ window.AUTHORS_DATA = {
       "mark_comb_mech.2024.SoPSi3PCE",
       "mark_mech.2024.MPSaCi3PCTSR",
       "mark_cord_comb_mech.2024.DBo3PCEIbPS",
-      "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
+      "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
     ],
     "orcid": "0000-0001-8874-0078",
     "affiliation": "",
@@ -68870,7 +71063,8 @@ window.AUTHORS_DATA = {
     "lastName": "Markovic",
     "firstName": "Ivan",
     "articles": [
-      "mark_hora_pant.2024.OoEBMiTo3PaMP"
+      "mark_hora_pant.2024.OoEBMiTo3PaMP",
+      "mark_reic_khod.2026.3PUHPCwPF"
     ],
     "orcid": "0000-0003-2601-8316",
     "affiliation": "",
@@ -68924,9 +71118,12 @@ window.AUTHORS_DATA = {
     "lastName": "Marrero-Rosa",
     "firstName": "Raúl",
     "articles": [
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "lale_ayha_ahme_iriz.2025.CSFtSTfAMoUHPFRC",
       "marr_goma_iriz_ahme.2025.AMoUHPC",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -69033,7 +71230,7 @@ window.AUTHORS_DATA = {
       "arau_mart_cabr_dant.2022.TPoCLCf3P",
       "dini_mart_cabr_ferr.2023.SEotUoMSaWotPoCCf3P",
       "nobr_quei_souz_cabr.2024.CMfSEAUCCi3P",
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P",
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P",
       "lima_silv_souz_viei.2026.AoAf3PLBCM"
     ],
     "orcid": "0000-0003-3885-9104",
@@ -69141,17 +71338,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "martinez_laura": {
-    "prefix": "",
-    "lastName": "Martinez",
-    "firstName": "Laura",
-    "articles": [
-      "kuzm_monk_mesn_duco.2026.CCCo3PT"
-    ],
-    "orcid": "0000-0002-6423-9876",
-    "affiliation": "",
-    "ror": ""
-  },
   "martinie_laetitia": {
     "prefix": "",
     "lastName": "Martinie",
@@ -69160,6 +71346,17 @@ window.AUTHORS_DATA = {
       "vasi_geik_hatt_mart.2014.AMaFP"
     ],
     "orcid": "0000-0002-1326-0982",
+    "affiliation": "",
+    "ror": ""
+  },
+  "martins_alexandre": {
+    "prefix": "",
+    "lastName": "Martins",
+    "firstName": "Alexandre",
+    "articles": [
+      "eire_camo_mart_malh.2026.TCUM"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -69249,7 +71446,8 @@ window.AUTHORS_DATA = {
     "lastName": "Marx",
     "firstName": "Steffen",
     "articles": [
-      "curb_hegg_biel_schm.2023.NPoCRCS"
+      "curb_hegg_biel_schm.2023.NPoCRCS",
+      "vaka_marx_chud.2026.TaCRCiDF"
     ],
     "orcid": "0000-0001-8735-1345",
     "affiliation": "",
@@ -69428,9 +71626,21 @@ window.AUTHORS_DATA = {
     "firstName": "Arif",
     "articles": [
       "wija_krei_masu.2022.AEIMaEBBCfLPwCM",
-      "wija_krei_masu.2024.MoCPPwFI"
+      "wija_krei_masu.2024.MoCPPwFI",
+      "wang_dema_jian_masu.2026.NTOaAMoSPR3PCT"
     ],
     "orcid": "0000-0002-4708-4251",
+    "affiliation": "",
+    "ror": ""
+  },
+  "masuda_hiroyuki": {
+    "prefix": "",
+    "lastName": "Masuda",
+    "firstName": "Hiroyuki",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -69516,7 +71726,8 @@ window.AUTHORS_DATA = {
     "firstName": "Ashitta",
     "articles": [
       "math_phil_jedr.2024.ESaPo3PMwA1GaK",
-      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME"
+      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME",
+      "phil_jedr_math_jaco.2026.DoSaSHCi3PUMaSS"
     ],
     "orcid": "0009-0000-4050-9803",
     "affiliation": "",
@@ -69668,7 +71879,9 @@ window.AUTHORS_DATA = {
     "firstName": "Stijn",
     "articles": [
       "lori_zhan_titt_matt.2026.RBo3PULCCR",
-      "lori_zhan_titt_matt.2026.ULC3PC"
+      "lori_zhan_titt_matt.2026.ULC3PC",
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM",
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC"
     ],
     "orcid": "0000-0002-9588-8561",
     "affiliation": "",
@@ -69702,6 +71915,17 @@ window.AUTHORS_DATA = {
     "firstName": "Christian",
     "articles": [
       "rich_maur_jung.2024.RSfAMCE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "maurice_florian": {
+    "prefix": "",
+    "lastName": "Maurice",
+    "firstName": "Florian",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -69892,6 +72116,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "mazellier_nicolas": {
+    "prefix": "",
+    "lastName": "Mazellier",
+    "firstName": "Nicolas",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
+    ],
+    "orcid": "0000-0002-4344-9671",
+    "affiliation": "",
+    "ror": ""
+  },
   "mazhoud_brahim": {
     "prefix": "",
     "lastName": "Mazhoud",
@@ -69947,7 +72182,8 @@ window.AUTHORS_DATA = {
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "luo_sun_mbab_du.2026.3PCSSwPKEPME",
       "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO",
-      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P"
+      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -69996,7 +72232,8 @@ window.AUTHORS_DATA = {
       "baba_mcco_afsa.2025.CaOo3AfUWT",
       "kama_chau_tuge_mcco.2025.D3PCUQBPaPRfC",
       "baba_afsa_mcco.2025.IKCf3CPiAH",
-      "baba_mcco_yana.2026.CTTA"
+      "baba_mcco_yana.2026.CTTA",
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
     ],
     "orcid": "0000-0002-3827-0458",
     "affiliation": "",
@@ -70018,6 +72255,17 @@ window.AUTHORS_DATA = {
       "zhou_xu_savi_mcge.2024.SECCE"
     ],
     "orcid": "0000-0002-0456-2460",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mcglynn_chloe": {
+    "prefix": "",
+    "lastName": "McGlynn",
+    "firstName": "Chloe",
+    "articles": [
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -70231,11 +72479,15 @@ window.AUTHORS_DATA = {
       "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
       "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
       "kond_rame_rama_mana.2026.ICoWCf3CP",
-      "glei_mech.2027.ABoAME"
+      "glei_mech.2027.ABoAME",
+      "gomz_muth_mech.2026.IoEINSotBo3PC",
+      "ivan_muth_mech.2026.RFoCCSMU3CPoaAM",
+      "rame_muth_rama_mana.2026.EFRoTR3PSUNSIGFY",
+      "rei_lies_etsc_mech.2026.IoCCTotRoLB3PCwCEMW"
     ],
     "orcid": "0000-0002-4685-7064",
-    "affiliation": "Technische Universität Dresden",
-    "ror": "042aqky30"
+    "affiliation": "",
+    "ror": ""
   },
   "meddage_d": {
     "prefix": "",
@@ -70342,7 +72594,8 @@ window.AUTHORS_DATA = {
     "lastName": "Meemuk",
     "firstName": "Kornravee",
     "articles": [
-      "jong_chai_jira_meem.2024.TS3PPPVCBiT"
+      "jong_chai_jira_meem.2024.TS3PPPVCBiT",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -70394,16 +72647,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "megens_johannes": {
+  "megens-nee-ladinig_johannes": {
     "prefix": "",
-    "lastName": "Megens",
+    "lastName": "Megens (née Ladinig)",
     "firstName": "Johannes",
     "articles": [
+      "bhoo_mege_mele_bloc.2019.FRfR3PC",
       "bhoo_bhoo_dell_chu.2022.TSB",
       "bhoo_bhoo_mege_casu.2023.PPDfIPR3PoUC",
       "dell_bode_mele_bloc.2024.S20P",
       "nana_dell_bhoo_zhou.2024.DCC",
-      "mege_wack_brau_schl.2026.ATfRSS"
+      "mege_wack_brau_schl.2026.ATfRSS",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "0000-0002-3561-2985",
     "affiliation": "",
@@ -70425,7 +72680,10 @@ window.AUTHORS_DATA = {
     "lastName": "Megnet",
     "firstName": "Manuel",
     "articles": [
-      "dorr_megn_davi_drod.2025.IoDREfS3PoCS"
+      "dorr_megn_davi_drod.2025.IoDREfS3PoCS",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "megn_rudo_lowk_drod.2026.EPPCwFRMfCiS3P",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P"
     ],
     "orcid": "0009-0003-8029-6058",
     "affiliation": "",
@@ -70436,8 +72694,7 @@ window.AUTHORS_DATA = {
     "lastName": "Mehan",
     "firstName": "Asman",
     "articles": [
-      "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP"
+      "most_mote_bagh_etem.2024.RC3PCTP"
     ],
     "orcid": "0000-0002-7381-6663",
     "affiliation": "",
@@ -70461,7 +72718,8 @@ window.AUTHORS_DATA = {
     "firstName": "Samim",
     "articles": [
       "mehd_zimm_tess.2023.R",
-      "goss_mehd_khad_hack.2027.SRRE"
+      "goss_mehd_khad_hack.2027.SRRE",
+      "dori_mehd_jaco_mai.2026.I3CP"
     ],
     "orcid": "0000-0001-6191-0380",
     "affiliation": "",
@@ -70624,6 +72882,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "meile_daniel": {
+    "prefix": "",
+    "lastName": "Meile",
+    "firstName": "Daniel",
+    "articles": [
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "meillasson_hedwige": {
     "prefix": "",
     "lastName": "Meillasson",
@@ -70726,7 +72995,8 @@ window.AUTHORS_DATA = {
     "lastName": "Melidis",
     "firstName": "Lazaros",
     "articles": [
-      "chor_gkou_meli_kata.2025.SPEo3PCWTNM"
+      "chor_gkou_meli_kata.2025.SPEo3PCWTNM",
+      "chor_gkou_meli_kata.2026.SPoaTS3PCBATNFEA"
     ],
     "orcid": "0000-0001-9333-4728",
     "affiliation": "",
@@ -70820,7 +73090,8 @@ window.AUTHORS_DATA = {
       "melt_cite_hviz_gabr.2024.DoaRFSfCM",
       "vele_melt_hviz_acht.2024.E3CPBwNPL",
       "cite_melt_hviz_ausk.2025.E3PCF",
-      "gabr_hviz_melt_ausk.2026.3PP"
+      "gabr_hviz_melt_ausk.2026.3PP",
+      "stok_bure_melt_cite.2026.3PGCTB"
     ],
     "orcid": "0009-0004-9752-8289",
     "affiliation": "",
@@ -70975,8 +73246,8 @@ window.AUTHORS_DATA = {
       "fair_sant_mend_fari.2023.NCaCMfPSHP",
       "tino_mend_tole.2023.RBo3PBCPwRH",
       "cava_tole_mend.2024.IoRCPoRoPCBM",
-      "cava_cast_tole_mend.2024.3PMwDRCPaF",
-      "vale_tino_mend_tole.2024.Ra3PAoSFMfAA",
+      "cava_fern_tole_mend.2024.3PMwDRCPaF",
+      "vare_tino_mend_tole.2024.Ra3PAoSFMfAA",
       "vare_tino_mend_tole.2024.3PCBCRwSF",
       "andr_mend_carv_fair.2024.TBoAFiTCo3PCW",
       "tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA",
@@ -70985,7 +73256,7 @@ window.AUTHORS_DATA = {
       "tino_tole_mend.2025.RHBAf3PiC",
       "tino_lima_andr_mend.2025.H3PMIFEPCaFA",
       "tino_marq_rama_barl.2026.EoCMoRPaPo3PCBC",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM",
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM",
       "mend_fair_mota_mend.2026.CMMoCiSMf3PBotDoH"
     ],
     "orcid": "0000-0002-4241-1321",
@@ -71002,6 +73273,17 @@ window.AUTHORS_DATA = {
       "kell_mend.2025.AoODPbAMfCMoT"
     ],
     "orcid": "0000-0003-0685-7585",
+    "affiliation": "",
+    "ror": ""
+  },
+  "meneghetti_bruno": {
+    "prefix": "",
+    "lastName": "Meneghetti",
+    "firstName": "Bruno",
+    "articles": [
+      "come_sara_doer_maas.2026.CRi3vAOTDoED"
+    ],
+    "orcid": "0009-0002-3944-690X",
     "affiliation": "",
     "ror": ""
   },
@@ -71277,7 +73559,8 @@ window.AUTHORS_DATA = {
       "cass_menn_prot_occh.2026.EIotACBo3PCPwPII",
       "giul_menn.2026.RDo3PCWUIPA",
       "bian_frag_iasi_maur.2026.NAo3PCEwMEPCMMfTC",
-      "giul_muda_menn.2026.EIoISBi3PCUVCC"
+      "giul_muda_menn.2026.EIoISBi3PCUVCC",
+      "muda_giul_giul_menn.2026.SRo3PCPUDC"
     ],
     "orcid": "0000-0001-9528-1324",
     "affiliation": "",
@@ -71289,7 +73572,8 @@ window.AUTHORS_DATA = {
     "firstName": "Arun",
     "articles": [
       "bhar_meno_sant.2024.NLBUCoH3PC",
-      "bhar_meno_sant.2026.ESoHPo3PCUCTaSCII"
+      "bhar_meno_sant.2026.ESoHPo3PCUCTaSCII",
+      "faro_meno.2026.SLPCSAo3PCFUSA"
     ],
     "orcid": "0000-0002-2178-8322",
     "affiliation": "",
@@ -71311,9 +73595,8 @@ window.AUTHORS_DATA = {
     "lastName": "Menzel",
     "firstName": "Felix",
     "articles": [
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRFb",
-      "enge_menz_dilk_cla.2026.MDFoaTWCRRS",
-      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF"
+      "enge_hend_menz_dilk.2026.FPoaMMECRCCSUMRF",
+      "enge_menz_dilk_cla.2026.MDFoaTWCRRS"
     ],
     "orcid": "0009-0009-6392-3375",
     "affiliation": "",
@@ -71489,7 +73772,10 @@ window.AUTHORS_DATA = {
       "rope_mesn_tang_bave.2026.NMftDaDFoTSFiCFRC",
       "sepi_pier_bono_duco.2026.TWT",
       "mech_muth_ivan_weng.2026.CPwTR",
-      "kuzm_monk_mesn_duco.2026.CCCo3PT"
+      "kuzm_monk_mesn_duco.2026.CCCo3PT",
+      "demo_mesn_ohno_ishi.2026.MYSSoF3PMwDPSVT",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0001-5762-6037",
     "affiliation": "",
@@ -71661,6 +73947,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "meza-zero_jesus": {
+    "prefix": "",
+    "lastName": "Meza Zero",
+    "firstName": "Jesus",
+    "articles": [
+      "chov_meza_diet_dac.2026.TUF"
+    ],
+    "orcid": "0009-0006-5950-2082",
+    "affiliation": "",
+    "ror": ""
+  },
   "mezhov_alexander": {
     "prefix": "",
     "lastName": "Mezhov",
@@ -71674,7 +73971,8 @@ window.AUTHORS_DATA = {
       "ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH",
       "robe_schm_unge_mezh.2026.CoTIotSBUo3PC",
       "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
-      "zhan_kong_qian_mezh.2026.MtSBoCBM"
+      "zhan_kong_qian_mezh.2026.MtSBoCBM",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0003-2880-8354",
     "affiliation": "",
@@ -71710,17 +74008,6 @@ window.AUTHORS_DATA = {
       "geng_she_zuo_lyu.2020.LIPi3PC",
       "shao_feng_zuo_wang.2022.ANMfItPoCBM",
       "shao_liu_liu_wang.2024.ANStE3PoCBM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "miao_haibin": {
-    "prefix": "",
-    "lastName": "Miao",
-    "firstName": "Haibin",
-    "articles": [
-      "miao_guo_lu_chen.2022.3MSAoCCDDDDFTC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -71881,7 +74168,8 @@ window.AUTHORS_DATA = {
       "migl_ahme_mack_hano.2024.TOBACfS",
       "mack_hano_migl_ahme.2024.MFACHWfHaS",
       "ahme_mack_migl_mant.2026.APCfAC",
-      "migl_mant.2026.AMTfOFCMwNRT"
+      "migl_mant.2026.AMTfOFCMwNRT",
+      "pagl_mack_ahme_migl.2026.DICiRT"
     ],
     "orcid": "0009-0006-9602-688X",
     "affiliation": "",
@@ -72020,6 +74308,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "miller_zachary": {
+    "prefix": "",
+    "lastName": "Miller",
+    "firstName": "Zachary",
+    "articles": [
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
+    ],
+    "orcid": "0009-0007-7993-9895",
+    "affiliation": "",
+    "ror": ""
+  },
   "milosevic_jelena": {
     "prefix": "",
     "lastName": "Milošević",
@@ -72052,7 +74351,8 @@ window.AUTHORS_DATA = {
       "mim_shai_sark.2025.S3PCIAFA",
       "mim_hosa_shai_sark.2025.RaEAMPo3PCCCHLRaFA",
       "mim_hosa_shai_sark.2026.MAaMIoCHLRI3PC",
-      "pokh_abou_mim_ahme.2026.UoOCSi3PC"
+      "pokh_abou_mim_ahme.2026.UoOCSi3PC",
+      "west_abou_mim_ahme.2026.BRDaaSSCMf3PC"
     ],
     "orcid": "0000-0001-5906-2175",
     "affiliation": "",
@@ -72194,7 +74494,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "mirm_moon_tesi_noor.2025.DDaQCi3PCEUHR3SaDLM",
       "mirm_moon_tesi_noor.2026.CEoVaMRfDDDiCSAM",
-      "mirm_moon_tesh_noor.2026.VGRTMaACfDMiC3P"
+      "mirm_moon_tesi_noor.2026.VGRTMaACfDMiC3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -72300,9 +74600,21 @@ window.AUTHORS_DATA = {
       "das_prat_sand_vagh.2025.RtMSRDaMCo3PC",
       "mish_upad_das.2025.EtRoMiBaTB3PM",
       "mish_upad_das.2025.3PAoFAaGABaTBCM",
-      "mish_das_chan_barb.2026.TtHaPiNMQBSf3PM"
+      "mish_das_chan_barb.2026.TtHaPiNMQBSf3PM",
+      "mish_das.2026.PMaEPoMFAB3PCM"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-1995-6446",
+    "affiliation": "",
+    "ror": ""
+  },
+  "misiarz_karol": {
+    "prefix": "",
+    "lastName": "Misiarz",
+    "firstName": "Karol",
+    "articles": [
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM"
+    ],
+    "orcid": "0009-0009-9110-1715",
     "affiliation": "",
     "ror": ""
   },
@@ -72358,7 +74670,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "mitr_vido_ignj_drag.2024.ETo3PCTG",
       "mitr_ignj.2024.CBSEMb3PC",
-      "mitr_ignj.2026.UBCoUP3CPSSWUHL"
+      "mitr_ignj.2026.UBCoUP3CPSSWUHL",
+      "mitr_ignj.2026.Bo3PCWULL"
     ],
     "orcid": "0000-0001-7254-6860",
     "affiliation": "",
@@ -72688,6 +75001,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "mohamed_abdirahman": {
+    "prefix": "",
+    "lastName": "Mohamed",
+    "firstName": "Abdirahman",
+    "articles": [
+      "wu_zhi_goul_moha.2026.L3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "mohamed_amel": {
     "prefix": "",
     "lastName": "Mohamed",
@@ -72716,7 +75040,8 @@ window.AUTHORS_DATA = {
     "firstName": "Basem",
     "articles": [
       "carb_moha.2024.FAtD",
-      "moha_ahma_carb.2025.3PAitGHM"
+      "moha_ahma_carb.2025.3PAitGHM",
+      "moha_ahma_carb.2026.AMitGHS"
     ],
     "orcid": "0000-0002-1537-7893",
     "affiliation": "",
@@ -72785,12 +75110,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "mohammad_aba": {
+  "mohamed_samia": {
     "prefix": "",
-    "lastName": "Mohammad",
-    "firstName": "Aba",
+    "lastName": "Mohamed",
+    "firstName": "Samia",
     "articles": [
-      "mota_moha_kabi.2025.AtEIoBHiRA"
+      "shaf_moha_hani.2026.3PUHPC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -72801,7 +75126,8 @@ window.AUTHORS_DATA = {
     "lastName": "Mohammad",
     "firstName": "Abdul",
     "articles": [
-      "moha_bier.2022.2SCPoCBP"
+      "moha_bier.2022.2SCPoCBP",
+      "moha_bier.2023.2SCPoCBPwTDR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -72979,7 +75305,8 @@ window.AUTHORS_DATA = {
     "firstName": "Morteza",
     "articles": [
       "mohe_sade_pand_boyl.2024.NMoLRo3PCW",
-      "mohe_sade.2026.FEMoCBo3PCWfSPE"
+      "mohe_sade.2026.FEMoCBo3PCWfSPE",
+      "mohe_sade.2026.ANIitIoDPotSPo3PCW"
     ],
     "orcid": "",
     "affiliation": "",
@@ -72994,6 +75321,17 @@ window.AUTHORS_DATA = {
       "chen_kuva_mohi_li.2023.IotISoH3PCbXCSaIIotMP",
       "walz_kozl_mohi_yeom.2024.Ia3CPFUSMfDS",
       "walz_kozl_mohi_yeom.2026.HtSa3CPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mohite_omkar": {
+    "prefix": "",
+    "lastName": "Mohite",
+    "firstName": "Omkar",
+    "articles": [
+      "chau_mohi_sakh.2026.3CPfWM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -73082,7 +75420,9 @@ window.AUTHORS_DATA = {
       "gupt_ghan_weis_moin.2026.PCaAiAMCM",
       "najm_gupt_maki_lin.2026.TDaSHSCCEbMMAM",
       "gupt_najm_moin.2026.FMoLaAMMFMoL",
-      "najm_gupt_moin.2026.CFMoLaAMM"
+      "najm_gupt_moin.2026.CFMoLaAMM",
+      "rabi_moin.2026.PCAPfAEotPBFCiRCAM",
+      "gupt_moin.2026.EMoBIACMAaCAEbDF"
     ],
     "orcid": "0000-0003-3117-6212",
     "affiliation": "",
@@ -73171,7 +75511,8 @@ window.AUTHORS_DATA = {
       "abba_kora_jai_seta.2024.3CPUCFD",
       "hagh_moll_sann_boye.2024.RaPoCPMwFfMS",
       "kach_sanc_moll_ezqu.2025.NAoC3PLH",
-      "moll_seta_span.2026.AV3PFfOEC"
+      "moll_seta_span.2026.AV3PFfOEC",
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
     ],
     "orcid": "0000-0001-8678-8908",
     "affiliation": "",
@@ -73196,6 +75537,17 @@ window.AUTHORS_DATA = {
       "mome_rele_khat_pett.2022.AFoRCUaRPC"
     ],
     "orcid": "0000-0002-2864-5295",
+    "affiliation": "",
+    "ror": ""
+  },
+  "monalisa_shilthia": {
+    "prefix": "",
+    "lastName": "Monalisa",
+    "firstName": "Shilthia",
+    "articles": [
+      "mona_most.2026.FRtR"
+    ],
+    "orcid": "0009-0007-6770-2903",
     "affiliation": "",
     "ror": ""
   },
@@ -73322,6 +75674,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "montmayeur_olivier": {
+    "prefix": "",
+    "lastName": "Montmayeur",
+    "firstName": "Olivier",
+    "articles": [
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "moo_guo": {
     "prefix": "",
     "lastName": "Moo",
@@ -73342,7 +75705,7 @@ window.AUTHORS_DATA = {
       "givk_mood_rame.2024.EoPPotPo3PCCAEA",
       "givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS",
       "givk_mood_rame.2025.ISaMPo3PCUDCC",
-      "sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC"
+      "dehe_givk_mood.2026.REo3PCUNCaPF"
     ],
     "orcid": "0000-0002-3397-443X",
     "affiliation": "",
@@ -73367,7 +75730,7 @@ window.AUTHORS_DATA = {
       "pham_moon_ahn.2024.O3PCMfEH",
       "mirm_moon_tesi_noor.2025.DDaQCi3PCEUHR3SaDLM",
       "mirm_moon_tesi_noor.2026.CEoVaMRfDDDiCSAM",
-      "mirm_moon_tesh_noor.2026.VGRTMaACfDMiC3P"
+      "mirm_moon_tesi_noor.2026.VGRTMaACfDMiC3P"
     ],
     "orcid": "0000-0001-6555-3181",
     "affiliation": "",
@@ -73509,7 +75872,8 @@ window.AUTHORS_DATA = {
     "firstName": "Daniel",
     "articles": [
       "monk_hern_more.2024.ACSiI3P",
-      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE"
+      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE",
+      "mort_tava_okec_more.2027.CRACCaS2C"
     ],
     "orcid": "0000-0002-9160-3573",
     "affiliation": "",
@@ -73592,6 +75956,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "morin_vincent": {
+    "prefix": "",
+    "lastName": "Morin",
+    "firstName": "Vincent",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "morina_nita": {
     "prefix": "",
     "lastName": "Morina",
@@ -73661,7 +76036,8 @@ window.AUTHORS_DATA = {
       "mort_masa_kogb_mans.2023.DoCO2BGfAMUCWaNM",
       "maso_hamm_mort_masa.2024.RMaMPoPFRGCfAM",
       "mort_hamm_maso_wyrz.2025.3PCO2BGCwSFR",
-      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE"
+      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE",
+      "mort_tava_okec_more.2027.CRACCaS2C"
     ],
     "orcid": "0000-0003-1403-4669",
     "affiliation": "",
@@ -73740,10 +76116,20 @@ window.AUTHORS_DATA = {
     "articles": [
       "most_kemp_du.2019.MHiA",
       "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP",
       "iyoh_ali_most.2026.ASaDRHT3PT"
     ],
     "orcid": "0000-0002-7558-7569",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mostafiz_rubayet": {
+    "prefix": "",
+    "lastName": "Mostafiz",
+    "firstName": "Rubayet",
+    "articles": [
+      "mona_most.2026.FRtR"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -73806,7 +76192,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "mota_khon_kabi.2023.ASRoLCAo3CP",
       "mota_khon_kabi.2024.SSU",
-      "mota_moha_kabi.2025.AtEIoBHiRA"
+      "mota_khon_kabi.2025.AtEIoBHiRA"
     ],
     "orcid": "0009-0005-8795-7511",
     "affiliation": "",
@@ -73829,7 +76215,8 @@ window.AUTHORS_DATA = {
     "lastName": "Motavaselian",
     "firstName": "Amir",
     "articles": [
-      "zhi_oror_mota_chai.2025.TOfaPTC3PFS"
+      "zhi_oror_mota_chai.2025.TOfaPTC3PFS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0009-0004-4500-8943",
     "affiliation": "",
@@ -73840,8 +76227,7 @@ window.AUTHORS_DATA = {
     "lastName": "Motejano-Hernandez",
     "firstName": "Edgar",
     "articles": [
-      "most_mote_bagh_etem.2024.RC3PCTP",
-      "most_mote_bagh_etem.2026.RC3PCTP"
+      "most_mote_bagh_etem.2024.RC3PCTP"
     ],
     "orcid": "0009-0004-9357-072X",
     "affiliation": "",
@@ -73983,7 +76369,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "mous_nasr_alho.2026.BaMPo3PHSFRC3",
       "shoa_mous.2026.ABo3PHSCCwDToF",
-      "pokh_elfa_mous.2026.SBo3PCSBwPCJUPT"
+      "pokh_elfa_mous.2026.SBo3PCSBwPCJUPT",
+      "shoa_mous_duco.2026.FLDtSR"
     ],
     "orcid": "0000-0002-1006-7685",
     "affiliation": "",
@@ -74064,7 +76451,8 @@ window.AUTHORS_DATA = {
     "firstName": "Antonio",
     "articles": [
       "muda_giul_menn.2024.TEoPPotSBo3PCPUDCT",
-      "giul_muda_menn.2026.EIoISBi3PCUVCC"
+      "giul_muda_menn.2026.EIoISBi3PCUVCC",
+      "muda_giul_giul_menn.2026.SRo3PCPUDC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -74092,6 +76480,17 @@ window.AUTHORS_DATA = {
       "mudi_gupt.2027.Po3PEBCCRwENF"
     ],
     "orcid": "0000-0002-8494-2358",
+    "affiliation": "",
+    "ror": ""
+  },
+  "mudunkotuwa_dulini": {
+    "prefix": "",
+    "lastName": "Mudunkotuwa",
+    "firstName": "Dulini",
+    "articles": [
+      "prem_silv_mudu_maka.2026.AIDTo3CPiA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -74132,6 +76531,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "mugutkar_abhay": {
+    "prefix": "",
+    "lastName": "Mugutkar",
+    "firstName": "Abhay",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "muhammad_khairul": {
     "prefix": "",
     "lastName": "Muhammad",
@@ -74151,6 +76561,17 @@ window.AUTHORS_DATA = {
       "guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA"
     ],
     "orcid": "0000-0003-2812-9351",
+    "affiliation": "",
+    "ror": ""
+  },
+  "muhlbauer_alex": {
+    "prefix": "",
+    "lastName": "Mühlbauer",
+    "firstName": "Alex",
+    "articles": [
+      "muhl_bagh_oett_klof.2026.MCU3PCEaSMDJ"
+    ],
+    "orcid": "0009-0000-3948-9964",
     "affiliation": "",
     "ror": ""
   },
@@ -74199,23 +76620,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "mukhagali_sagyntai": {
-    "prefix": "",
-    "lastName": "Mukhagali",
-    "firstName": "Sagyntai",
-    "articles": [
-      "must_stor_rust_plas.2024.CMfC3PBotC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "mukhametrakhimov_rustem": {
     "prefix": "",
     "lastName": "Mukhametrakhimov",
     "firstName": "Rustem",
     "articles": [
-      "mukh_ziga.2023.IoTaQCo3"
+      "mukh_ziga.2023.IoTaQCo3",
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
     ],
     "orcid": "0000-0003-2062-5289",
     "affiliation": "",
@@ -74242,6 +76653,17 @@ window.AUTHORS_DATA = {
       "mukh.2025.3PCF"
     ],
     "orcid": "0000-0001-5276-4828",
+    "affiliation": "",
+    "ror": ""
+  },
+  "muller_christian": {
+    "prefix": "",
+    "lastName": "Müller",
+    "firstName": "Christian",
+    "articles": [
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -74283,7 +76705,8 @@ window.AUTHORS_DATA = {
     "lastName": "Müller",
     "firstName": "Niklas",
     "articles": [
-      "mull_cla.2025.AMoTOLSUFC"
+      "mull_cla.2025.AMoTOLSUFC",
+      "mull_biel_cla.2026.RFMfOLSwFCVF"
     ],
     "orcid": "0009-0006-4677-4564",
     "affiliation": "",
@@ -74421,7 +76844,7 @@ window.AUTHORS_DATA = {
     "firstName": "Claudia",
     "articles": [
       "guam_mart_garc_muno.2022.RDaCo3PC",
-      "garc_garc_buns_muno.2025.AC40",
+      "garc_buns_muno.2025.AC40",
       "muno_vega_lete_marr.2026.EFo3PCURM",
       "garc_muno_ullo_roch.2026.DoaRPU3PE",
       "muno_lete_albi_bust.2026.MEaEAPoRHBPCMf3CP"
@@ -74459,6 +76882,17 @@ window.AUTHORS_DATA = {
     "firstName": "Miguel",
     "articles": [
       "roba_muno_varg_guti.2024.EoIBMMaCCotRPoPCB3PI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "muntingh_georg": {
+    "prefix": "",
+    "lastName": "Muntingh",
+    "firstName": "Georg",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -74520,7 +76954,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "kino_mura_yama_obi.2020.Ao3PSDbTOAtaPSPSPB",
       "yama_kino_mura_asau.2025.SPoRCSb3PCPFwSF",
-      "yoko_okad_tana_mura.2026.WPBo3PM"
+      "yoko_okad_tana_mura.2026.WPBo3PM",
+      "mura_tana_kino_isak.2026.FVoRWUESF3CPFwPEoMaCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -74544,6 +76979,17 @@ window.AUTHORS_DATA = {
     "firstName": "Heras",
     "articles": [
       "murc_abde_gene_taha.2021.RCoTDPPC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "murdiyanto_danang": {
+    "prefix": "",
+    "lastName": "Murdiyanto",
+    "firstName": "Danang",
+    "articles": [
+      "murd_sant_naba_sant.2026.CoaVAESfNFRMi3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -74633,7 +77079,7 @@ window.AUTHORS_DATA = {
     "firstName": "Azamat",
     "articles": [
       "must_stor_rust_plas.2024.CMfC3PBotC",
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -74696,9 +77142,14 @@ window.AUTHORS_DATA = {
       "muth_feys_mikh_baum.2024.CoRRfRMC",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "mech_muth_ivan_weng.2026.CPwTR",
-      "tao_li_leem_muth.2026.APOPoMK3CP"
+      "tao_li_leem_muth.2026.APOPoMK3CP",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "gomz_muth_mech.2026.IoEINSotBo3PC",
+      "ivan_muth_mech.2026.RFoCCSMU3CPoaAM",
+      "rame_muth_rama_mana.2026.EFRoTR3PSUNSIGFY",
+      "zhan_zuo_chen_muth.2026.CDC2S"
     ],
     "orcid": "0000-0003-1811-9491",
     "affiliation": "",
@@ -74807,6 +77258,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "naba_agus": {
+    "prefix": "",
+    "lastName": "Naba",
+    "firstName": "Agus",
+    "articles": [
+      "murd_sant_naba_sant.2026.CoaVAESfNFRMi3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "naboni_roberto": {
     "prefix": "",
     "lastName": "Naboni",
@@ -74894,7 +77356,8 @@ window.AUTHORS_DATA = {
     "firstName": "Praveen",
     "articles": [
       "nair_naga_tham_das.2025.LCBSAoO3PCMISaRA",
-      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO"
+      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO",
+      "raje_nair_naga_goud.2026.GSFBCCfEB3CP"
     ],
     "orcid": "0000-0002-3411-8352",
     "affiliation": "",
@@ -75000,7 +77463,8 @@ window.AUTHORS_DATA = {
     "firstName": "Sajitha",
     "articles": [
       "nair_naga_tham_das.2025.LCBSAoO3PCMISaRA",
-      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO"
+      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO",
+      "raje_nair_naga_goud.2026.GSFBCCfEB3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -75236,9 +77700,21 @@ window.AUTHORS_DATA = {
     "firstName": "Reina",
     "articles": [
       "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM",
-      "yama_vazq_xia_ogur.2025.CS3PSfNTP"
+      "yama_vazq_xia_ogur.2025.CS3PSfNTP",
+      "yama_ogur_abe_kiku.2026.OSPoRCMUMJ3CP"
     ],
     "orcid": "0009-0003-2630-3448",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nakarai_kenichiro": {
+    "prefix": "",
+    "lastName": "Nakarai",
+    "firstName": "Kenichiro",
+    "articles": [
+      "kita_sasa_ishi_naka.2026.FBo3PMBRwCFESwM"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -75299,7 +77775,7 @@ window.AUTHORS_DATA = {
     "lastName": "Nam",
     "firstName": "Nguyen",
     "articles": [
-      "nghi_lim_nam_lu.2024.AFSRf3"
+      "vuon_lim_nam_lu.2024.AFSRf3"
     ],
     "orcid": "",
     "affiliation": "",
@@ -75340,6 +77816,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "namdari_farhad": {
+    "prefix": "",
+    "lastName": "Namdari",
+    "firstName": "Farhad",
+    "articles": [
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "nan_bo": {
     "prefix": "",
     "lastName": "Nan",
@@ -75359,7 +77846,8 @@ window.AUTHORS_DATA = {
     "firstName": "Cristina",
     "articles": [
       "nan_vigo.2024.E3CPoLSoRSSFfCF",
-      "nan.2024.TCCC"
+      "nan.2024.TCCC",
+      "nan_asva_habr.2026.D3PCC"
     ],
     "orcid": "0000-0001-5029-3567",
     "affiliation": "",
@@ -75385,7 +77873,8 @@ window.AUTHORS_DATA = {
       "renn_gant_roth_baz.2024.SEoS3PaRFWfTSE",
       "baz_nana_moth_flor.2024.SBo3PLBE",
       "nana_baz_blac_pera.2024.MPo3PFRC",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -75461,7 +77950,9 @@ window.AUTHORS_DATA = {
       "guru_nedu_tanw_nant.2025.Do3PAAGaFABBMwCDWaA",
       "kand_bodd_nant.2025.NRTPfPCo3PM",
       "bodd_kand_nant.2025.EoAALCCMf3CPA",
-      "kuma_das_nant.2025.NINGfEISi3CP"
+      "kuma_das_nant.2025.NINGfEISi3CP",
+      "redd_zade_shar_nant.2026.FSPaMPoOB3PC",
+      "guru_nant.2027.IIPi3PAAMwVPTG"
     ],
     "orcid": "0000-0003-1635-1238",
     "affiliation": "",
@@ -75532,6 +78023,19 @@ window.AUTHORS_DATA = {
       "bisc_mata_amma_nasb.2022.DFWItRMRiCS"
     ],
     "orcid": "0000-0001-8823-3869",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nascimento-de-lima_lucas": {
+    "prefix": "",
+    "lastName": "Nascimento de Lima",
+    "firstName": "Lucas",
+    "articles": [
+      "nasc_wang_agui_anto.2024.Do3PC",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "nasc_zahn_beli_su.2026.RC"
+    ],
+    "orcid": "0000-0002-7041-8985",
     "affiliation": "",
     "ror": ""
   },
@@ -75755,7 +78259,8 @@ window.AUTHORS_DATA = {
       "nava_tosi_herm_saav.2024.3PCaaSoRA",
       "silv_ribe_nava.2024.AiLCECf3P",
       "mech_muth_robe_wolf.2025.CSaMoE",
-      "wolf_vers_sant_bhat.2025.FaTS"
+      "wolf_vers_sant_bhat.2025.FaTS",
+      "euge_ishi_brev_nava.2026.PSDaEPoMTBMf3CP"
     ],
     "orcid": "0000-0002-2918-7900",
     "affiliation": "",
@@ -75805,6 +78310,17 @@ window.AUTHORS_DATA = {
       "hitn_naya_pati_naya.2025.IoTaMLDCSBPPfQAoI3CPS"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nayak_sanket": {
+    "prefix": "",
+    "lastName": "Nayak",
+    "firstName": "Sanket",
+    "articles": [
+      "mand_hari_bisw_pand.2026.TS3CP"
+    ],
+    "orcid": "0000-0002-1400-0461",
     "affiliation": "",
     "ror": ""
   },
@@ -76141,7 +78657,8 @@ window.AUTHORS_DATA = {
       "trip_nair_raja_sant.2026.DBBAo3PCaINS",
       "pate_trip_kira_sant.2026.RaGEoEASi3PC",
       "sure_ades_trip_neit.2026.OtRoDWTBaCiCMaIAi3P",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "sure_vola_trip_divi.2027.UoUDoGtEtMaMPo3PCM"
     ],
     "orcid": "0000-0002-3174-0402",
     "affiliation": "",
@@ -76248,7 +78765,11 @@ window.AUTHORS_DATA = {
       "bos_menn_robe_wolf.2025.AaMR",
       "das_prat_nema_guad.2025.DPo3PUHSCICI",
       "das_prat_guad_nema.2026.RoCIoDPo3PU",
-      "zhao_chou_yoo_wong.2026.Do3PAAUfAC"
+      "zhao_chou_yoo_wong.2026.Do3PAAUfAC",
+      "coly_chou_nema_krug.2026.3PGIPaaSCMftGLIHM",
+      "das_thak_guad_unlu.2026.RoCIoCTMi3PCUCCSE",
+      "prat_das_nema.2026.CTBi3PLCUIHVoG",
+      "zhou_guad_khay_nema.2026.UTTRMOaPPRMf3PC"
     ],
     "orcid": "0000-0003-2422-4589",
     "affiliation": "",
@@ -76394,9 +78915,10 @@ window.AUTHORS_DATA = {
     "firstName": "Christoph",
     "articles": [
       "neth_smir_gron_haas.2020.AMf3PBCSSUSaUACCP",
-      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC"
+      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC",
+      "blan_kova_neth_shah.2026.SMS"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-3933-6655",
     "affiliation": "",
     "ror": ""
   },
@@ -76440,8 +78962,8 @@ window.AUTHORS_DATA = {
     "lastName": "Neubauer",
     "firstName": "Jürgen",
     "articles": [
-      "pott_jako_jans_neub.2020.IotIoCaSaTIotRB",
-      "jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD",
+      "pott_wolf_jans_neub.2020.IotIoCaSaTIotRB",
+      "wolf_rudo_wolf_neub.2024.HoaTCCOMToCBSoD",
       "wolf_pott_jans_step.2026.TYSf3PULCC"
     ],
     "orcid": "0000-0002-7997-1007",
@@ -76527,6 +79049,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ng_p": {
+    "prefix": "",
+    "lastName": "Ng",
+    "firstName": "P.",
+    "articles": [
+      "chen_ng_jian_wang.2026.SFSoRf3PCwSZ"
+    ],
+    "orcid": "0000-0003-0230-6874",
+    "affiliation": "",
+    "ror": ""
+  },
   "ng_serina": {
     "prefix": "",
     "lastName": "Ng",
@@ -76583,17 +79116,6 @@ window.AUTHORS_DATA = {
       "okan_ngco_maha.2025.BIaG"
     ],
     "orcid": "0000-0001-5867-6298",
-    "affiliation": "",
-    "ror": ""
-  },
-  "nghia_vuong": {
-    "prefix": "",
-    "lastName": "Nghia",
-    "firstName": "Vuong",
-    "articles": [
-      "nghi_lim_nam_lu.2024.AFSRf3"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -76668,9 +79190,21 @@ window.AUTHORS_DATA = {
       "nguy_liu_li_zhan.2023.Mo3PBIBCSRwSF",
       "li_nguy_tran.2023.DDaPSo3CPoNPS",
       "dey_nguy_nguy_srin.2023.FPo3PCSwLI",
+      "li_liu_chen_nguy.2025.DaPo3PBSFRCCCB",
       "nguy_jie_lao_zhao.2026.EaMSMIoPLCECCwDPFC"
     ],
     "orcid": "0000-0002-1746-8297",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nguyen_andrew": {
+    "prefix": "",
+    "lastName": "Nguyen",
+    "firstName": "Andrew",
+    "articles": [
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
+    ],
+    "orcid": "0000-0003-3442-3119",
     "affiliation": "",
     "ror": ""
   },
@@ -76679,7 +79213,7 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Anh",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS",
+      "loan_nguy_trin_nguy.2022.Do3PfCS",
       "tran_tran_tran_nguy.2024.EF3PCUSSA"
     ],
     "orcid": "",
@@ -76694,6 +79228,17 @@ window.AUTHORS_DATA = {
       "tran_tran_tran_nguy.2024.EF3PCUSSA"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nguyen_dung": {
+    "prefix": "",
+    "lastName": "Nguyen",
+    "firstName": "Dung",
+    "articles": [
+      "phuo_nguy_cour.2026.NMDf3PMIRFA"
+    ],
+    "orcid": "0009-0003-1901-5317",
     "affiliation": "",
     "ror": ""
   },
@@ -76715,7 +79260,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "yang_huan_verm_nguy.2023.EoLOoBo3PRSiITT",
       "huan_yang_verm_nguy.2024.AoAUSITTo3PCBM",
-      "wang_huan_nguy_kara.2026.IIAo3PCbFI"
+      "wang_huan_nguy_kara.2026.IIAo3PCbFI",
+      "wang_huan_nguy_kara.2026.EoIBSUIFaCoTPPB"
     ],
     "orcid": "0000-0003-2348-7563",
     "affiliation": "",
@@ -76726,8 +79272,7 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Ho",
     "articles": [
-      "nguy_thac_le_anh.2024.ARoCPaAoMLo3PC",
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
+      "nguy_thac_le_ahn.2024.ARoCPaAoMLo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -76738,9 +79283,10 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Hoang",
     "articles": [
-      "dang_tran_nguy_nguy.2026.LS3PCW"
+      "dang_tran_nguy_nguy.2026.LS3PCW",
+      "radw_nguy_reza_rame.2026.MLBPoCSi3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-8684-1729",
     "affiliation": "",
     "ror": ""
   },
@@ -76761,9 +79307,10 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Kien",
     "articles": [
-      "nguy_li_liu_nguy.2022.Mo3CPP"
+      "nguy_li_liu_nguy.2022.Mo3CPP",
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-5761-3156",
     "affiliation": "",
     "ror": ""
   },
@@ -76789,7 +79336,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "nguyen_ngoc": {
+  "nguyen_ngoc_binh": {
+    "prefix": "",
+    "lastName": "Nguyen",
+    "firstName": "Ngoc",
+    "articles": [
+      "ta_phun_dang_pham.2026.EoDSaHSoABSMfLS3CPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nguyen_ngoc_tan": {
     "prefix": "",
     "lastName": "Nguyen",
     "firstName": "Ngoc",
@@ -76827,9 +79385,20 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Phan",
     "articles": [
-      "pham_trin_nguy_do.2023.SoFBoPCWBUPF"
+      "loan_trin_nguy_do.2023.SoFBoPCWBUPF"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nguyen_phuc": {
+    "prefix": "",
+    "lastName": "Nguyen",
+    "firstName": "Phuc",
+    "articles": [
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
+    ],
+    "orcid": "0009-0000-2354-6389",
     "affiliation": "",
     "ror": ""
   },
@@ -76886,8 +79455,20 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Thi",
     "articles": [
-      "pham_trin_nguy_do.2023.SoFBoPCWBUPF",
-      "pham_nguy_huan.2025.ESoAMPo3RCwDPF"
+      "loan_trin_nguy_do.2023.SoFBoPCWBUPF",
+      "loan_nguy_huan.2025.ESoAMPo3RCwDPF",
+      "loan_nguy_than.2026.Ao3PCiC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nguyen_thinh": {
+    "prefix": "",
+    "lastName": "Nguyen",
+    "firstName": "Thinh",
+    "articles": [
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -76898,7 +79479,7 @@ window.AUTHORS_DATA = {
     "lastName": "Nguyen",
     "firstName": "Thu",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS"
+      "loan_nguy_trin_nguy.2022.Do3PfCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -76943,6 +79524,17 @@ window.AUTHORS_DATA = {
     "firstName": "Jiaojiao",
     "articles": [
       "zhan_wang_ni.2026.So3PoNAAM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "nia_behnam": {
+    "prefix": "",
+    "lastName": "Nia",
+    "firstName": "Behnam",
+    "articles": [
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -77235,6 +79827,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ning_jiaqian": {
+    "prefix": "",
+    "lastName": "Ning",
+    "firstName": "Jiaqian",
+    "articles": [
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ning_wei": {
     "prefix": "",
     "lastName": "Ning",
@@ -77359,7 +79962,8 @@ window.AUTHORS_DATA = {
       "nist_kova_tepp_blan.2022.CBPMfPBAMiC",
       "kova_nist_verl_blan.2022.ZWPoLCSwWSSF",
       "kova_nist_verl_blan.2026.3PRSF",
-      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC"
+      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC",
+      "blan_kova_neth_shah.2026.SMS"
     ],
     "orcid": "0000-0001-5007-1833",
     "affiliation": "",
@@ -77440,7 +80044,8 @@ window.AUTHORS_DATA = {
     "lastName": "Niu",
     "firstName": "Yujun",
     "articles": [
-      "gao_niu_wang.2025.LHP"
+      "gao_niu_wang.2025.LHP",
+      "niu_wang_chun_soga.2027.CHCoCSb3P"
     ],
     "orcid": "0009-0008-2781-7332",
     "affiliation": "",
@@ -77477,17 +80082,6 @@ window.AUTHORS_DATA = {
       "wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM"
     ],
     "orcid": "0000-0002-5303-6467",
-    "affiliation": "",
-    "ror": ""
-  },
-  "nobrega_thiers": {
-    "prefix": "",
-    "lastName": "Nóbrega",
-    "firstName": "Thiers",
-    "articles": [
-      "nobr_henr_pass.2023.3PfA"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -77590,7 +80184,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "mirm_moon_tesi_noor.2025.DDaQCi3PCEUHR3SaDLM",
       "mirm_moon_tesi_noor.2026.CEoVaMRfDDDiCSAM",
-      "mirm_moon_tesh_noor.2026.VGRTMaACfDMiC3P"
+      "mirm_moon_tesi_noor.2026.VGRTMaACfDMiC3P"
     ],
     "orcid": "0009-0000-5828-7604",
     "affiliation": "",
@@ -77859,17 +80453,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "nunes_ueslei": {
-    "prefix": "",
-    "lastName": "Nunes",
-    "firstName": "Ueslei",
-    "articles": [
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P"
-    ],
-    "orcid": "0000-0001-9534-9632",
-    "affiliation": "",
-    "ror": ""
-  },
   "nunez-montoya_alejandra": {
     "prefix": "",
     "lastName": "Nuñez Montoya",
@@ -77983,6 +80566,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "oakley_robert": {
+    "prefix": "",
+    "lastName": "Oakley",
+    "firstName": "Robert",
+    "articles": [
+      "mort_tava_okec_more.2027.CRACCaS2C"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "obermeier_nico": {
     "prefix": "",
     "lastName": "Obermeier",
@@ -77991,7 +80585,8 @@ window.AUTHORS_DATA = {
       "ober_wies_kust_sten.2023.3PCBMU1oRA",
       "ober_brun_wies_sten.2024.DoLCLCMf3EP",
       "ober_rich_wies_sten.2024.LGWPaRE3PCBC",
-      "latu_brun_ober_sten.2026.DaCoaFOaFI3PPP"
+      "latu_brun_ober_sten.2026.DaCoaFOaFI3PPP",
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
     ],
     "orcid": "0000-0001-7385-3715",
     "affiliation": "",
@@ -78095,7 +80690,8 @@ window.AUTHORS_DATA = {
     "lastName": "Oettel",
     "firstName": "Vincent",
     "articles": [
-      "bagh_oett.2026.CiAMCEaTIotCS"
+      "bagh_oett.2026.CiAMCEaTIotCS",
+      "muhl_bagh_oett_klof.2026.MCU3PCEaSMDJ"
     ],
     "orcid": "0000-0003-4206-5622",
     "affiliation": "",
@@ -78126,7 +80722,8 @@ window.AUTHORS_DATA = {
       "asau_shio_okud_ogur.2025.CoFBoRPw3CPBFBoEWT",
       "shio_asau_ogur_okud.2025.EoP3PFoaBPUNDTM",
       "yama_vazq_xia_ogur.2025.CS3PSfNTP",
-      "shir_yama_ogur_hara.2026.SoAFi3PFRMMU3RwSFM"
+      "shir_yama_ogur_hara.2026.SoAFi3PFRMMU3RwSFM",
+      "yama_ogur_abe_kiku.2026.OSPoRCMUMJ3CP"
     ],
     "orcid": "0000-0003-0262-9913",
     "affiliation": "",
@@ -78138,9 +80735,21 @@ window.AUTHORS_DATA = {
     "firstName": "Gyujong",
     "articles": [
       "oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM",
-      "oh_oh_choi.2026.CBOFSFAiC"
+      "oh_oh_choi.2026.CBOFSFAiC",
+      "jung_oh_oh_choi.2026.EoAGBOFSFAotRBaPo3PCM"
     ],
     "orcid": "0009-0002-7172-4447",
+    "affiliation": "",
+    "ror": ""
+  },
+  "oh_jae": {
+    "prefix": "",
+    "lastName": "Oh",
+    "firstName": "Jae",
+    "articles": [
+      "cho_heev_krug_oh.2026.DDf3PC"
+    ],
+    "orcid": "0000-0002-2318-3001",
     "affiliation": "",
     "ror": ""
   },
@@ -78166,7 +80775,9 @@ window.AUTHORS_DATA = {
       "kim_oh_lee_choi.2025.EDDFfQCo3PCPF",
       "oh_lee_oh_choi.2025.EotCIoSPaPAFoMPo3PM",
       "oh_lee_choi.2026.EtBoCCOBMi3P",
-      "oh_oh_choi.2026.CBOFSFAiC"
+      "oh_oh_choi.2026.CBOFSFAiC",
+      "jung_oh_choi.2026.ADDFfDEi3CP",
+      "jung_oh_oh_choi.2026.EoAGBOFSFAotRBaPo3PCM"
     ],
     "orcid": "0009-0009-2874-9236",
     "affiliation": "",
@@ -78180,6 +80791,17 @@ window.AUTHORS_DATA = {
       "choi_park_oh.2016.VPoFCPtStFB"
     ],
     "orcid": "0000-0003-3848-6248",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ohishi_yukina": {
+    "prefix": "",
+    "lastName": "Ohishi",
+    "firstName": "Yukina",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -78208,9 +80830,10 @@ window.AUTHORS_DATA = {
       "nish_ohno_ishi.2022.DoCMwCSHC",
       "imag_ohno_ishi.2023.AESoEACoCa3PACBM",
       "sabr_ohno_kuri_kino.2024.AIotSPoRCw3PCPF",
-      "kino_yama_ohno_ishi.2026.AEoSPoRCCw3PCOSURCLT"
+      "kino_yama_ohno_ishi.2026.AEoSPoRCCw3PCOSURCLT",
+      "demo_mesn_ohno_ishi.2026.MYSSoF3PMwDPSVT"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4995-2366",
     "affiliation": "",
     "ror": ""
   },
@@ -78231,6 +80854,17 @@ window.AUTHORS_DATA = {
     "firstName": "Juan",
     "articles": [
       "ojed_greb_knaa_rose.2024.3PwWtFaSLSPfFF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ojha_amit": {
+    "prefix": "",
+    "lastName": "Ojha",
+    "firstName": "Amit",
+    "articles": [
+      "ojha_guo_hens_roes.2026.IoWCaABfRTDCPitCI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -78280,6 +80914,17 @@ window.AUTHORS_DATA = {
       "oke_atof_bell.2022.Ao3PfSCiaEE"
     ],
     "orcid": "0000-0001-6551-8634",
+    "affiliation": "",
+    "ror": ""
+  },
+  "okechi_ikechukwu": {
+    "prefix": "",
+    "lastName": "Okechi",
+    "firstName": "Ikechukwu",
+    "articles": [
+      "mort_tava_okec_more.2027.CRACCaS2C"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -78370,7 +81015,9 @@ window.AUTHORS_DATA = {
     "firstName": "Mohammad",
     "articles": [
       "auer_bos_olab_fisc.2023.FRo3PCbMETPAtPST",
-      "olab_fisc_bos.2026.IABPaCC"
+      "olab_fisc_bos.2026.IABPaCC",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "olab_chov_chen_dac.2026.SAoLWFF3PVS"
     ],
     "orcid": "0009-0007-7694-0751",
     "affiliation": "",
@@ -78472,7 +81119,8 @@ window.AUTHORS_DATA = {
       "moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC",
       "rodr_moin_agra_will.2024.MRoSS3PSMCB",
       "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC",
-      "doub_olek_erk.2026.RoSPMMfTDP"
+      "doub_olek_erk.2026.RoSPMMfTDP",
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
     ],
     "orcid": "0000-0003-0467-9877",
     "affiliation": "",
@@ -78793,7 +81441,9 @@ window.AUTHORS_DATA = {
       "vant_ooms_cort.2021.V",
       "ooms_vant_coil_cort.2021.APMSftNSo3CPwCG",
       "ooms_vant_tao_beka.2022.TPoaTO3PCB",
-      "zhan_cort_ooms_wan.2025.MPoPB3PCIP"
+      "zhan_cort_ooms_wan.2025.MPoPB3PCIP",
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC",
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM"
     ],
     "orcid": "0000-0001-5140-6113",
     "affiliation": "",
@@ -78836,6 +81486,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "orklemez_ezgi": {
+    "prefix": "",
+    "lastName": "Örklemez",
+    "firstName": "Ezgi",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "0000-0003-0514-7370",
+    "affiliation": "",
+    "ror": ""
+  },
   "orlinski_adam": {
     "prefix": "",
     "lastName": "Orlinski",
@@ -78870,7 +81531,8 @@ window.AUTHORS_DATA = {
       "oror_chai_zhi_vakh.2024.ESoaFCBP",
       "yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV",
       "zhi_oror_mota_chai.2025.TOfaPTC3PFS",
-      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS"
+      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0009-0008-5262-3978",
     "affiliation": "",
@@ -78974,6 +81636,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ortiz_milagro": {
+    "prefix": "",
+    "lastName": "Ortiz",
+    "firstName": "Milagro",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "osadchuk_taras": {
     "prefix": "",
     "lastName": "Osadchuk",
@@ -79035,7 +81708,8 @@ window.AUTHORS_DATA = {
     "firstName": "Mohamed",
     "articles": [
       "habi_busw_osma_azim.2024.SPi3CP",
-      "habi_osma_busw.2026.HOS3CPfCC"
+      "habi_osma_busw.2026.HOS3CPfCC",
+      "habi_osma_busw.2027.BaEtCEIi3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -79071,6 +81745,17 @@ window.AUTHORS_DATA = {
       "osta_mukh.2024.BAo3CPUFEM"
     ],
     "orcid": "0009-0004-0652-1779",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ostapska_katarzyna": {
+    "prefix": "",
+    "lastName": "Ostapska",
+    "firstName": "Katarzyna",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -79379,7 +82064,8 @@ window.AUTHORS_DATA = {
     "firstName": "Sena",
     "articles": [
       "takv_oz_ilca_iler.2026.DFTDCIaCo3CPCBGFP",
-      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG"
+      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG",
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
     ],
     "orcid": "0009-0006-6785-9794",
     "affiliation": "",
@@ -79390,7 +82076,8 @@ window.AUTHORS_DATA = {
     "lastName": "Özalp",
     "firstName": "Abdulkadir",
     "articles": [
-      "ozal_alde.2025.AIBDCPTfTDPCW"
+      "ozal_alde.2025.AIBDCPTfTDPCW",
+      "ozal_alde.2026.EtF"
     ],
     "orcid": "0000-0002-8951-6841",
     "affiliation": "",
@@ -79582,6 +82269,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ozmen_ozkan": {
+    "prefix": "",
+    "lastName": "Özmen",
+    "firstName": "Özkan",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
+    ],
+    "orcid": "0000-0001-9746-3500",
+    "affiliation": "",
+    "ror": ""
+  },
   "ozteber_selin": {
     "prefix": "",
     "lastName": "Özteber",
@@ -79715,9 +82413,11 @@ window.AUTHORS_DATA = {
     "lastName": "Padil",
     "firstName": "Khairul",
     "articles": [
-      "ler_ma_chin_ibra.2024.PaDTo3PC",
-      "chan_padi_chin_ibra.2025.StEIBi3PC",
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2024.PaDTo3PC",
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE",
+      "chie_ibra_ma_padi.2026.MaSPoRSi3CP",
+      "ler_ma_chin_ibra.2026.CAoSaVMAiDPCM"
     ],
     "orcid": "0000-0003-4025-3275",
     "affiliation": "",
@@ -79766,6 +82466,18 @@ window.AUTHORS_DATA = {
       "fago_locc_lott_pagl.2026.MPoRE"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "pagliocca_nicholas": {
+    "prefix": "",
+    "lastName": "Pagliocca",
+    "firstName": "Nicholas",
+    "articles": [
+      "pagl_mack_ahme_migl.2026.DICiRT",
+      "mack_ahme_pagl_kooh.2026.NHMoACCSPCC"
+    ],
+    "orcid": "0000-0002-7742-2346",
     "affiliation": "",
     "ror": ""
   },
@@ -79911,6 +82623,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "pal_subhadeep": {
+    "prefix": "",
+    "lastName": "Pal",
+    "firstName": "Subhadeep",
+    "articles": [
+      "pal_goma_cusa_kete.2026.MIoFMCPRf3PA"
+    ],
+    "orcid": "0000-0002-0532-9791",
+    "affiliation": "",
+    "ror": ""
+  },
   "palani_subbaiya": {
     "prefix": "",
     "lastName": "Palani",
@@ -79965,6 +82688,17 @@ window.AUTHORS_DATA = {
       "aros_reis_puga_bran.2026.HAS3CPvUREfICF"
     ],
     "orcid": "0009-0003-3449-0044",
+    "affiliation": "",
+    "ror": ""
+  },
+  "palic_sandra": {
+    "prefix": "",
+    "lastName": "Palic",
+    "firstName": "Sandra",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -80067,6 +82801,17 @@ window.AUTHORS_DATA = {
     "firstName": "Lorenz",
     "articles": [
       "gras_pamm_koll_wern.2020.CAiPC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "pamungkas_mauludi": {
+    "prefix": "",
+    "lastName": "Pamungkas",
+    "firstName": "Mauludi",
+    "articles": [
+      "buki_pamu.2026.CAoHBPSoPDi3CPNUO"
     ],
     "orcid": "",
     "affiliation": "",
@@ -80221,7 +82966,7 @@ window.AUTHORS_DATA = {
       "pan_guo_jian_ji.2022.FaDBoCMTNwDGP",
       "ji_pan_liu_zhao.2023.CoTPoFCBM",
       "pan_guo_fu_ji.2023.EB3CPwDFD",
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "0000-0001-6930-5505",
     "affiliation": "",
@@ -80282,6 +83027,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "pan_zeqi": {
+    "prefix": "",
+    "lastName": "Pan",
+    "firstName": "Zeqi",
+    "articles": [
+      "pan_pan_song_wang.2026.3PaMAoHAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "pan_zhihong": {
     "prefix": "",
     "lastName": "Pan",
@@ -80303,7 +83059,8 @@ window.AUTHORS_DATA = {
       "ma_a_xie_pan.2022.3PAIC",
       "razz_cerr_pan_kora.2023.NaPAfHP3PC",
       "razz_pan_cerr_kora.2024.FaHPo3PMMbHN",
-      "pan_wang_yang_wang.2026.PaCSoAAFAGSSM"
+      "pan_wang_yang_wang.2026.PaCSoAAFAGSSM",
+      "pan_pan_song_wang.2026.3PaMAoHAC"
     ],
     "orcid": "0000-0003-3389-4656",
     "affiliation": "",
@@ -80442,6 +83199,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "panda_sarat": {
+    "prefix": "",
+    "lastName": "Panda",
+    "firstName": "Sarat",
+    "articles": [
+      "mand_hari_bisw_pand.2026.TS3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "panda_subhashree": {
     "prefix": "",
     "lastName": "Panda",
@@ -80540,7 +83308,8 @@ window.AUTHORS_DATA = {
       "chen_zhan_zhan_zhan.2023.3PCwCA",
       "chen_zhan_liu_zhan.2023.3PCPF",
       "chen_zhan_zhan_pang.2023.IoGoEB3PCwCA",
-      "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S"
+      "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S",
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
     ],
     "orcid": "0000-0002-7040-0363",
     "affiliation": "",
@@ -80551,7 +83320,8 @@ window.AUTHORS_DATA = {
     "lastName": "Pang",
     "firstName": "Guibing",
     "articles": [
-      "cui_pu_zhan_li.2026.SotMPo3PCJYRC"
+      "cui_pu_zhan_li.2026.SotMPo3PCJYRC",
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -80575,6 +83345,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "pang_lu_li_wang.2023.AMSMfQFOEotTPo3PECC",
       "liu_obin_zhan_zhan.2026.SOoBaMi3PFCEbSPaSF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "panghal_harish": {
+    "prefix": "",
+    "lastName": "Panghal",
+    "firstName": "Harish",
+    "articles": [
+      "wani_alha_pang.2026.EAIfEEDoTDPFRCTILCA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -80934,7 +83715,8 @@ window.AUTHORS_DATA = {
       "pari_sing_kama_subr.2024.AoPoCBoPoA",
       "subr_pari_kulk_thak.2024.Fi3PCB",
       "pari_raj_sing_subr.2025.D3PCbItIoAC",
-      "subr_sing_maga_pari.2025.FOAo3CP"
+      "subr_sing_maga_pari.2025.FOAo3CP",
+      "pari_sing_bano_subr.2027.IfFaCSTiFRD3PA"
     ],
     "orcid": "0000-0001-7487-3013",
     "affiliation": "",
@@ -81127,17 +83909,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "park_sang-hu": {
-    "prefix": "",
-    "lastName": "Park",
-    "firstName": "Sang-Hu",
-    "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "park_sujie": {
     "prefix": "",
     "lastName": "Park",
@@ -81171,6 +83942,17 @@ window.AUTHORS_DATA = {
       "parm_fall_ferr_rest.2026.PEIotMPoaLFCv3P"
     ],
     "orcid": "0000-0003-4543-6791",
+    "affiliation": "",
+    "ror": ""
+  },
+  "parrilli_annapaola": {
+    "prefix": "",
+    "lastName": "Parrilli",
+    "firstName": "Annapaola",
+    "articles": [
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -81239,17 +84021,6 @@ window.AUTHORS_DATA = {
       "pass_yu_tiha_holl.2026.CA"
     ],
     "orcid": "0009-0009-4949-923X",
-    "affiliation": "",
-    "ror": ""
-  },
-  "passaro_andres": {
-    "prefix": "",
-    "lastName": "Passaro",
-    "firstName": "Andres",
-    "articles": [
-      "nobr_henr_pass.2023.3PfA"
-    ],
-    "orcid": "0000-0002-5121-4573",
     "affiliation": "",
     "ror": ""
   },
@@ -81337,7 +84108,8 @@ window.AUTHORS_DATA = {
       "raph_sent_pate_bhat.2023.ARoC3PSM",
       "pate_raph.2024.R3PoSSUPWaFtRCF",
       "pate_raph.2025.RCEi3PRS",
-      "pate_raph.2026.EIASiC3P"
+      "pate_raph.2026.EIASiC3P",
+      "pate_raph.2027.KACPfMGC3PS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -81523,7 +84295,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "tana_jira_paud_tang.2022.EaNIo3PMWUUAC",
       "paud.2023.IoMAtStSPo3PPWUUAC",
-      "paud_petr_elfa.2026.ECaNMo3PCM"
+      "paud_petr_elfa.2026.ECaNMo3PCM",
+      "paud_petr_elfa.2026.Po3PSGfED"
     ],
     "orcid": "0000-0002-1757-8525",
     "affiliation": "",
@@ -81585,7 +84358,8 @@ window.AUTHORS_DATA = {
       "jhun_lee_paul_lim.2026.PoRHBi3CP",
       "tay_paul_lee_jhun.2026.3PCfCaMI",
       "jhun_paul_lee_tan.2026.PDMaIBi3PCURHB",
-      "paul_jhun_lee_chen.2026.Do3PCwCBaaNAS"
+      "paul_jhun_lee_chen.2026.Do3PCwCBaaNAS",
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA"
     ],
     "orcid": "0000-0001-9997-2077",
     "affiliation": "",
@@ -81842,7 +84616,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "qi_wang_yu_pei.2025.ODaRMAoMPo3PC",
       "pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG",
-      "qi_zhao_yang_wang.2026.GRBOMftMPo3PBFC"
+      "qi_zhao_yang_wang.2026.GRBOMftMPo3PBFC",
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
     ],
     "orcid": "0000-0002-3068-7371",
     "affiliation": "",
@@ -81865,7 +84640,9 @@ window.AUTHORS_DATA = {
     "lastName": "Peinhopf",
     "firstName": "Valentin",
     "articles": [
-      "pein_pfle_radl_vill.2026.SSTaFMoPIGSRi3PC"
+      "pein_pfle_radl_vill.2026.SSTaFMoPIGSRi3PC",
+      "pein_quir_pfle_radl.2026.EaNIoFOSSi3PCB",
+      "radl_pfle_pein_vill.2026.IPSCoFSU3CPPFE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -81980,6 +84757,17 @@ window.AUTHORS_DATA = {
     "firstName": "Juan",
     "articles": [
       "alva_guer_gonz_pren.2025.MwMTA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "penaud_emmanuel": {
+    "prefix": "",
+    "lastName": "Penaud",
+    "firstName": "Emmanuel",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -82179,8 +84967,11 @@ window.AUTHORS_DATA = {
     "lastName": "Peralta Abadi",
     "firstName": "Patricia",
     "articles": [
+      "smar_pera_luck_hein.2021.BBCP",
       "pera_smar.2022.RAoAMfCP",
-      "pera_ahma_smar.2023.PIMfAMoCS"
+      "pera_ahma_smar.2023.PIMfAMoCS",
+      "pera_alz_nouf_smar.2025.ADDiCP",
+      "voll_pera_alat_chme.2025.TSHMoCPS"
     ],
     "orcid": "0000-0002-1923-7142",
     "affiliation": "",
@@ -82194,19 +84985,6 @@ window.AUTHORS_DATA = {
       "rama_cagg_pera_palo.2026.EaNTAo3PCLMfMAE"
     ],
     "orcid": "0000-0003-4316-9909",
-    "affiliation": "",
-    "ror": ""
-  },
-  "peralta_patricia": {
-    "prefix": "",
-    "lastName": "Peralta",
-    "firstName": "Patricia",
-    "articles": [
-      "smar_pera_luck_hein.2021.BBCP",
-      "pera_alz_nouf_smar.2025.ADDiCP",
-      "voll_pera_alat_chme.2025.TSHMoCPS"
-    ],
-    "orcid": "0000-0002-1923-7142",
     "affiliation": "",
     "ror": ""
   },
@@ -82345,7 +85123,8 @@ window.AUTHORS_DATA = {
     "firstName": "José",
     "articles": [
       "diz_jime_pere_rive.2025.PBOot3CP",
-      "mele_jime_pere_barb.2026.RItPo3PCTtIoWM"
+      "mele_jime_pere_barb.2026.RItPo3PCTtIoWM",
+      "jime_diz_pere_carl.2026.B3PaPEC"
     ],
     "orcid": "0000-0003-4094-923X",
     "affiliation": "",
@@ -82526,7 +85305,8 @@ window.AUTHORS_DATA = {
       "jacq_pica_perr.2026.U3PoC",
       "jacq_perr_pica.2026.U3PoC",
       "biss_perr_guih_paqu.2027.TPMoMPi3PEM",
-      "rozz_fabb_perr_brun.2027.DoaDPESutItWaAoEM"
+      "rozz_fabb_perr_brun.2027.DoaDPESutItWaAoEM",
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
     ],
     "orcid": "0000-0002-7105-4212",
     "affiliation": "",
@@ -82578,7 +85358,9 @@ window.AUTHORS_DATA = {
       "pess_jesu_rang_guim.2023.PSotAoTMi3PCW",
       "pess_luca_simo_guim.2025.HTia3PMWS",
       "nada_cunh_pess_delg.2026.EIEQTRTM",
-      "fahf_pess_buso_bart.2027.FRECfSAMiC"
+      "pess_luca_simo_guim.2026.DPia3PMWS",
+      "fahf_pess_buso_bart.2027.FRECfSAMiC",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0002-6368-5348",
     "affiliation": "",
@@ -82593,17 +85375,6 @@ window.AUTHORS_DATA = {
       "nasc_anjo_nasc_pess.2026.MCo3PCMUwHAaMAC"
     ],
     "orcid": "0009-0002-4353-7062",
-    "affiliation": "",
-    "ror": ""
-  },
-  "pessoa_sofia": {
-    "prefix": "",
-    "lastName": "Pessoa",
-    "firstName": "Sofia",
-    "articles": [
-      "pess_luca_simo_guim.2026.DPia3PMWS"
-    ],
-    "orcid": "0000-0002-6368-5348",
     "affiliation": "",
     "ror": ""
   },
@@ -82639,7 +85410,8 @@ window.AUTHORS_DATA = {
       "hans_schm_holz_tapl.2020.AFoCEbR",
       "hans_holz_schm_tapl.2023.LRCS",
       "schm_gier_hans_trum.2024.FFPFb3CP",
-      "gier_hans_schm_trum.2025.DaCw3CP"
+      "gier_hans_schm_trum.2025.DaCw3CP",
+      "gier_schm_frey_trum.2026.SDaToaF3PCFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -82732,9 +85504,10 @@ window.AUTHORS_DATA = {
     "lastName": "Petrone",
     "firstName": "Floriana",
     "articles": [
-      "paud_petr_elfa.2026.ECaNMo3PCM"
+      "paud_petr_elfa.2026.ECaNMo3PCM",
+      "paud_petr_elfa.2026.Po3PSGfED"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-4545-6303",
     "affiliation": "",
     "ror": ""
   },
@@ -82812,7 +85585,8 @@ window.AUTHORS_DATA = {
     "firstName": "Frank",
     "articles": [
       "li_zahe_petz.2022.PDDSfACUFKaIPfSwaFM",
-      "li_petz.2025.ODMoDD"
+      "li_petz.2025.ODMoDD",
+      "li_petz_klof_sawi.2026.TDDSSiDFwC"
     ],
     "orcid": "0000-0001-8974-0926",
     "affiliation": "",
@@ -82890,7 +85664,9 @@ window.AUTHORS_DATA = {
       "pein_pfle_radl_vill.2026.SSTaFMoPIGSRi3PC",
       "rehi_pfle_radl_vill.2026.NSoRAMCT",
       "pfle_radl_hube_hube.2026.IoVSOotSo3PC",
-      "radl_pfle_hube_hube.2026.IotSSotMSo3PC"
+      "radl_pfle_hube_hube.2026.IotSSotMSo3PC",
+      "pein_quir_pfle_radl.2026.EaNIoFOSSi3PCB",
+      "radl_pfle_pein_vill.2026.IPSCoFSU3CPPFE"
     ],
     "orcid": "0009-0005-7967-3367",
     "affiliation": "",
@@ -82923,7 +85699,9 @@ window.AUTHORS_DATA = {
     "lastName": "Pham",
     "firstName": "Dinh",
     "articles": [
-      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS"
+      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS",
+      "ta_phun_dang_pham.2026.EoDSaHSoABSMfLS3CPF",
+      "ta_phun_pham_pham.2026.SDDSoaLS3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -82934,7 +85712,7 @@ window.AUTHORS_DATA = {
     "lastName": "Pham",
     "firstName": "Duc",
     "articles": [
-      "bui_pham_pham_do.2023.AEoSaSFTf3CPwtKv"
+      "bui_loan_pham_do.2023.AEoSaSFTf3CPwtKv"
     ],
     "orcid": "",
     "affiliation": "",
@@ -82956,8 +85734,7 @@ window.AUTHORS_DATA = {
     "lastName": "Pham",
     "firstName": "Duy",
     "articles": [
-      "pham_moon_ahn.2024.O3PCMfEH",
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
+      "pham_moon_ahn.2024.O3PCMfEH"
     ],
     "orcid": "0000-0003-4442-3390",
     "affiliation": "",
@@ -82985,6 +85762,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "pham_loan": {
+    "prefix": "",
+    "lastName": "Pham",
+    "firstName": "Loan",
+    "articles": [
+      "pham_huan.2026.IWMi3PCfAC"
+    ],
+    "orcid": "0000-0001-7081-0285",
+    "affiliation": "",
+    "ror": ""
+  },
   "pham_luong": {
     "prefix": "",
     "lastName": "Pham",
@@ -82994,6 +85782,17 @@ window.AUTHORS_DATA = {
       "pham_tran_sanj.2020.SFR3PC",
       "pham_pand_tran.2022.FaHPo3PPFRHPCC",
       "pham_lu_tran.2022.IoPPoMPoTDPFRC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "pham_minh": {
+    "prefix": "",
+    "lastName": "Pham",
+    "firstName": "Minh",
+    "articles": [
+      "ta_phun_pham_pham.2026.SDDSoaLS3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -83009,27 +85808,20 @@ window.AUTHORS_DATA = {
       "lim_weng_pham.2020.3PoCCSUAMF",
       "tiry_zhan_pham.2019.PWM",
       "lim_zhan_ting_pham.2021.SC3PoFFCS",
-      "nghi_lim_nam_lu.2024.AFSRf3"
+      "vuon_lim_nam_lu.2024.AFSRf3"
     ],
     "orcid": "",
     "affiliation": "",
     "ror": ""
   },
-  "pham_thi": {
+  "phan_trong": {
     "prefix": "",
-    "lastName": "Pham",
-    "firstName": "Thi",
+    "lastName": "Phan",
+    "firstName": "Trong",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS",
-      "pham_trin_nguy_do.2023.SoFBoPCWBUPF",
-      "bui_pham_pham_do.2023.AEoSaSFTf3CPwtKv",
-      "pham_trin_do_huan.2023.FBoPCWBwDFR",
-      "pham_huan.2024.3PACR",
-      "pham_nguy_huan.2025.ESoAMPo3RCwDPF",
-      "pham_thu_than.2026.Ao3PCiC",
-      "ying_qiao_wang_pham.2026.MSPSaMAoPFR3PSSSSC"
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
     ],
-    "orcid": "0000-0001-7081-0285",
+    "orcid": "0000-0002-8044-8870",
     "affiliation": "",
     "ror": ""
   },
@@ -83074,7 +85866,8 @@ window.AUTHORS_DATA = {
     "firstName": "Nivin",
     "articles": [
       "math_phil_jedr.2024.ESaPo3PMwA1GaK",
-      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME"
+      "phil_jedr_math_uthu.2025.SFRfISPaDo3PMiME",
+      "phil_jedr_math_jaco.2026.DoSaSHCi3PUMaSS"
     ],
     "orcid": "0000-0002-0353-2630",
     "affiliation": "",
@@ -83099,6 +85892,18 @@ window.AUTHORS_DATA = {
       "tay_lim_phua_tan.2023.ECSPT3CP"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "phuong-bao_ta": {
+    "prefix": "",
+    "lastName": "Phuong Bao",
+    "firstName": "Ta",
+    "articles": [
+      "phuo_cour.2026.ASCFfRM3PC",
+      "phuo_nguy_cour.2026.NMDf3PMIRFA"
+    ],
+    "orcid": "0009-0006-0403-180X",
     "affiliation": "",
     "ror": ""
   },
@@ -83281,7 +86086,9 @@ window.AUTHORS_DATA = {
       "grib_pier_duco_sab.2025.MPMo3PCEiEC",
       "pier_ghab_dang_mesn.2025.MMo3CP",
       "phet_pham_pier_caro.2026.3PCF",
-      "sepi_pier_bono_duco.2026.TWT"
+      "sepi_pier_bono_duco.2026.TWT",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0003-1654-7169",
     "affiliation": "",
@@ -83447,7 +86254,7 @@ window.AUTHORS_DATA = {
     "lastName": "Ping",
     "firstName": "Yang",
     "articles": [
-      "yu_zhao_lou_ping.2024.RPFwDSMfEILAi3PC"
+      "yu_zhao_luo_ping.2024.RPFwDSMfEILAi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -83469,9 +86276,10 @@ window.AUTHORS_DATA = {
     "lastName": "Pinho",
     "firstName": "Fernando",
     "articles": [
-      "sera_nune_arru_pinh.2026.RSCC"
+      "sera_nune_arru_pinh.2026.RSCC",
+      "sera_arru_pinh.2026.CtPoSCC"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-0344-1867",
     "affiliation": "",
     "ror": ""
   },
@@ -83525,17 +86333,6 @@ window.AUTHORS_DATA = {
     "firstName": "Adonay",
     "articles": [
       "fune_pint_sear_gonz.2026.DaPo3PCwBaSQB"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "pinto_i": {
-    "prefix": "",
-    "lastName": "Pinto",
-    "firstName": "I.",
-    "articles": [
-      "hall_herb_staf_jone.2023.3PHEU"
     ],
     "orcid": "",
     "affiliation": "",
@@ -83616,22 +86413,12 @@ window.AUTHORS_DATA = {
     "firstName": "Paul",
     "articles": [
       "mech_taub_mull_will.2022.AMoMSRCWUCRM",
+      "must_stor_rust_plas.2024.CMfC3PBotC",
       "mech_taub_mull_butl.2024.IoSRiEB3CPoMCE",
       "will_stor_plas_taub.2024.LSMPwRMC",
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "0009-0008-1395-6569",
-    "affiliation": "",
-    "ror": ""
-  },
-  "plashnik_paul": {
-    "prefix": "",
-    "lastName": "Plashnik",
-    "firstName": "Paul",
-    "articles": [
-      "must_stor_rust_plas.2024.CMfC3PBotC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -83674,18 +86461,19 @@ window.AUTHORS_DATA = {
     "lastName": "Plūmiņš",
     "firstName": "Ernests",
     "articles": [
-      "sapa_sink_puzu_plum.2025.DLC3PCwWAaRA"
+      "sapa_sink_puzu_plum.2025.DLC3PCwWAaRA",
+      "sapa_plum_slos_sink.2025.UCDWAiCFCf3P"
     ],
     "orcid": "",
     "affiliation": "",
     "ror": ""
   },
-  "pluminss_ernests": {
+  "pobidash_andrii": {
     "prefix": "",
-    "lastName": "Pluminss",
-    "firstName": "Ernests",
+    "lastName": "Pobidash",
+    "firstName": "Andrii",
     "articles": [
-      "sapa_plum_slos_sink.2025.UCDWAiCFCf3P"
+      "rash_shev_pobi_shev.2026.IoaDCMfAtLBCo3PWS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -83802,7 +86590,8 @@ window.AUTHORS_DATA = {
       "miri_baaj_pola.2025.3PCB",
       "miri_auri_pola_baaj.2025.IBi3PC",
       "miri_baaj_pola.2025.EIi3PCTCZM",
-      "miri_pola_baaj.2026.IoIOotFBo3PCB"
+      "miri_pola_baaj.2026.IoIOotFBo3PCB",
+      "wang_tava_baaj_pola.2026.ATDATWAo3PCaIMDOwSCM"
     ],
     "orcid": "0000-0002-1653-3915",
     "affiliation": "",
@@ -83946,7 +86735,8 @@ window.AUTHORS_DATA = {
     "lastName": "Pons-Valladares",
     "firstName": "Oriol",
     "articles": [
-      "pons_casa_arme_fuen.2023.AfSAfFCT"
+      "pons_casa_arme_fuen.2023.AfSAfFCT",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "0000-0003-1747-8150",
     "affiliation": "",
@@ -84016,12 +86806,15 @@ window.AUTHORS_DATA = {
       "wang_xiao_sun_zhan.2023.MPo3PMCbC",
       "zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS",
       "li_hao_li_xiao.2023.DoCI3PC",
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM",
       "zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV",
       "ali_zhan_xuan_poon.2025.DoaNMSfSoDPoOPGUMSWIBAaBFS",
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC",
       "li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA",
       "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS",
-      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP"
+      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP",
+      "wu_liu_qin_zhan.2026.3PRMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -84086,17 +86879,6 @@ window.AUTHORS_DATA = {
       "chan_cho_popo_shin.2026.CBDoEA3PCUGW"
     ],
     "orcid": "0000-0003-3363-140X",
-    "affiliation": "",
-    "ror": ""
-  },
-  "posada_juan": {
-    "prefix": "",
-    "lastName": "Posada",
-    "firstName": "Juan",
-    "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -84172,13 +86954,13 @@ window.AUTHORS_DATA = {
     "lastName": "Pott",
     "firstName": "Ursula",
     "articles": [
-      "pott_jako_jans_neub.2020.IotIoCaSaTIotRB",
+      "pott_wolf_jans_neub.2020.IotIoCaSaTIotRB",
       "pott_step.2021.PTaaFMtDYSaSBUf3PoCM",
       "wang_flat_rous_perr.2022.PCBM",
       "rous_busw_duco_ivan.2022.AtFPoPCBM",
       "pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR",
-      "pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
-      "pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM",
+      "pott_wolf_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
+      "pott_wolf_dorn_step.2023.IoaSAfTCoMPf3CPIM",
       "ji_pott_mezh_rol.2025.MaESoSYSEaSBUoCPiESoCH",
       "wolf_pott_jans_step.2026.TYSf3PULCC"
     ],
@@ -84442,9 +87224,10 @@ window.AUTHORS_DATA = {
     "firstName": "M.",
     "articles": [
       "das_prat_nema_guad.2025.DPo3PUHSCICI",
-      "das_prat_guad_nema.2026.RoCIoDPo3PU"
+      "das_prat_guad_nema.2026.RoCIoDPo3PU",
+      "prat_das_nema.2026.CTBi3PLCUIHVoG"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-3021-1055",
     "affiliation": "",
     "ror": ""
   },
@@ -84513,6 +87296,17 @@ window.AUTHORS_DATA = {
       "rabu_prem_ravi_rath.2025.DoFAaLCCBMfC3P"
     ],
     "orcid": "0000-0001-9011-6928",
+    "affiliation": "",
+    "ror": ""
+  },
+  "premachandra_sumuditha": {
+    "prefix": "",
+    "lastName": "Premachandra",
+    "firstName": "Sumuditha",
+    "articles": [
+      "prem_silv_mudu_maka.2026.AIDTo3CPiA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -84585,6 +87379,17 @@ window.AUTHORS_DATA = {
       "koor_prik_tamm.2026.CE3PoGCEbNCaaVM"
     ],
     "orcid": "0000-0001-5234-8912",
+    "affiliation": "",
+    "ror": ""
+  },
+  "primi_stefano": {
+    "prefix": "",
+    "lastName": "Primi",
+    "firstName": "Stefano",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -84819,7 +87624,8 @@ window.AUTHORS_DATA = {
     "firstName": "Aakanksha",
     "articles": [
       "saha_soda_dwiv_kuma.2024.3PwSE",
-      "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC"
+      "kuma_kuma_pund_dwiv.2025.LCSaFAi3PC",
+      "kuma_pund_kuma_dixi.2026.EoBTaCCotMaDPoEB3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -84905,7 +87711,7 @@ window.AUTHORS_DATA = {
   },
   "puzatova-nee-sharanova_anastasiia": {
     "prefix": "",
-    "lastName": "Puzatova (nee Sharanova)",
+    "lastName": "Puzatova (née Sharanova)",
     "firstName": "Anastasiia",
     "articles": [
       "shak_chu_puza_dini.2022.RoBJ3PitCI",
@@ -84963,6 +87769,17 @@ window.AUTHORS_DATA = {
       "mard_hema_ozte_qais.2026.ABo3PC"
     ],
     "orcid": "0009-0003-0245-2086",
+    "affiliation": "",
+    "ror": ""
+  },
+  "qaisar_muhammad": {
+    "prefix": "",
+    "lastName": "Qaisar",
+    "firstName": "Muhammad",
+    "articles": [
+      "qais_siad_lach_mahm.2026.Ro3PCaGPFfCS"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -85113,6 +87930,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "qi_yang": {
+    "prefix": "",
+    "lastName": "Qi",
+    "firstName": "Yang",
+    "articles": [
+      "qi_yang_ma_xu.2027.RoMPSSaEAoSB3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "qi_yongle": {
     "prefix": "",
     "lastName": "Qi",
@@ -85253,7 +88081,6 @@ window.AUTHORS_DATA = {
       "weng_li_tan_qian.2018.D3PCMvFTTaMPM",
       "lu_li_qian_leon.2018.DCMIFACfSB3P",
       "weng_qian_he_li.2018.3PHPFRCCfLSP",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "weng_lu_li_liu.2018.EMtPRPoFRCCf3P",
       "weng_li_tan_qian.2019.D3PCMvFTTaMPM",
@@ -85351,7 +88178,9 @@ window.AUTHORS_DATA = {
       "sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD",
       "du_sun_deng_qian.2026.BPoBI3PPLSCAS",
       "li_sun_zhan_chen.2026.BIBAEBTaPEDi3PSHCC",
-      "du_sun_qian.2026.BI3PS3SPLWfECP"
+      "du_sun_qian.2026.BI3PS3SPLWfECP",
+      "sun_du_qian.2027.AFSTTfISQCo3PFLFFPaHP",
+      "sun_du_qian.2026.UFAi3PFUPCCCEoNSFLaVF"
     ],
     "orcid": "0000-0002-9957-1078",
     "affiliation": "",
@@ -85424,24 +88253,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "qiao_qiancheng": {
-    "prefix": "",
-    "lastName": "Qiao",
-    "firstName": "Qiancheng",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "qiao_wanfu": {
     "prefix": "",
     "lastName": "Qiao",
     "firstName": "Wanfu",
     "articles": [
       "ying_yang_wu_qiao.2026.MBaTSo3PGMRwRCFaFRFA",
-      "ying_qiao_wang_pham.2026.MSPSaMAoPFR3PSSSSC"
+      "ying_qiao_wang_loan.2026.MSPSaMAoPFR3PSSSSC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -85567,9 +88385,10 @@ window.AUTHORS_DATA = {
     "lastName": "Qin",
     "firstName": "Shaofeng",
     "articles": [
-      "liu_huan_lam_yi.2026.ELBMfLECoM"
+      "liu_huan_lam_yi.2026.ELBMfLECoM",
+      "wu_liu_qin_zhan.2026.3PRMC"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-0722-5862",
     "affiliation": "",
     "ror": ""
   },
@@ -85722,17 +88541,6 @@ window.AUTHORS_DATA = {
     "firstName": "Siyuan",
     "articles": [
       "dong_qiu_chen_mech.2026.UtIEDMo3PUHPCwBA"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "qiu_xiumei": {
-    "prefix": "",
-    "lastName": "Qiu",
-    "firstName": "Xiumei",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -85959,7 +88767,8 @@ window.AUTHORS_DATA = {
       "ting_tay_quah_tan.2024.SSMfOPi3CPT",
       "quah_liu_tay_li.2025.IPFRi3CPwIS",
       "tay_quah_lim_vuon.2026.IoOFaIDoBSaFPo3PTC",
-      "tay_paul_lee_jhun.2026.3PCfCaMI"
+      "tay_paul_lee_jhun.2026.3PCfCaMI",
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA"
     ],
     "orcid": "0000-0001-6124-3020",
     "affiliation": "",
@@ -85971,6 +88780,17 @@ window.AUTHORS_DATA = {
     "firstName": "Hongzhu",
     "articles": [
       "chen_zhan_quan_liu.2024.EATDMPo3PCwCA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "quan_neng": {
+    "prefix": "",
+    "lastName": "Quan",
+    "firstName": "Neng",
+    "articles": [
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -85995,6 +88815,17 @@ window.AUTHORS_DATA = {
     "firstName": "Jelle",
     "articles": [
       "lach_quan_heer_reck.2024.ASMLCCfSGCiRBAMP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "queiroz_maryane": {
+    "prefix": "",
+    "lastName": "Queiroz",
+    "firstName": "Maryane",
+    "articles": [
+      "fons_quei_sant_maia.2026.FSCMfSaA3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -86044,6 +88875,17 @@ window.AUTHORS_DATA = {
       "rubi_quin_repe.2023.IoSRwHAAotPaMPoCf3P"
     ],
     "orcid": "0000-0002-1692-3710",
+    "affiliation": "",
+    "ror": ""
+  },
+  "quirgst_jakob": {
+    "prefix": "",
+    "lastName": "Quirgst",
+    "firstName": "Jakob",
+    "articles": [
+      "pein_quir_pfle_radl.2026.EaNIoFOSSi3PCB"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -86103,12 +88945,23 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "qunaynah_siraj": {
+    "prefix": "",
+    "lastName": "Qunaynah",
+    "firstName": "Siraj",
+    "articles": [
+      "quna_ahme.2026.QSFLaDTCfR3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "qureshi_mohsin": {
     "prefix": "",
     "lastName": "Qureshi",
     "firstName": "Mohsin",
     "articles": [
-      "qure_shiw_kind_sawa.2024.DoAfC3PbULM",
+      "qure_shiz_kind_sawa.2024.DoAfC3PbULM",
       "qure_shiz_kind_sawa.2026.DoCMbIFWMfTiNDPC3P"
     ],
     "orcid": "0000-0002-6932-6944",
@@ -86165,7 +89018,10 @@ window.AUTHORS_DATA = {
       "lach_reck_ekan_hurk.2024.MMBAM",
       "dorr_gant_amir_lach.2025.FDtR",
       "dorr_lach_bagh_davi.2025.IoPGaGCfRS3P",
-      "gerk_mawa_heer_raat.2026.DMaCoMAMiC"
+      "gerk_mawa_heer_raat.2026.DMaCoMAMiC",
+      "klof_dorf_gehl_hack.2026.AMwC",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "rich_heer_raat_dorf.2026.IRAMPfCMEiCAE"
     ],
     "orcid": "0000-0002-1697-1907",
     "affiliation": "",
@@ -86201,7 +89057,8 @@ window.AUTHORS_DATA = {
     "firstName": "Mahsa",
     "articles": [
       "dane_rabi_gupt_najm.2024.GFoIBiTCRAM",
-      "rabi_moin.2025.EUMUwPBCLFCiRCAM"
+      "rabi_moin.2025.EUMUwPBCLFCiRCAM",
+      "rabi_moin.2026.PCAPfAEotPBFCiRCAM"
     ],
     "orcid": "0009-0007-2137-641X",
     "affiliation": "",
@@ -86245,7 +89102,9 @@ window.AUTHORS_DATA = {
       "pein_pfle_radl_vill.2026.SSTaFMoPIGSRi3PC",
       "rehi_pfle_radl_vill.2026.NSoRAMCT",
       "pfle_radl_hube_hube.2026.IoVSOotSo3PC",
-      "radl_pfle_hube_hube.2026.IotSSotMSo3PC"
+      "radl_pfle_hube_hube.2026.IotSSotMSo3PC",
+      "pein_quir_pfle_radl.2026.EaNIoFOSSi3PCB",
+      "radl_pfle_pein_vill.2026.IPSCoFSU3CPPFE"
     ],
     "orcid": "0009-0002-1118-3714",
     "affiliation": "",
@@ -86287,6 +89146,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "radwan_ameer": {
+    "prefix": "",
+    "lastName": "Radwan",
+    "firstName": "Ameer",
+    "articles": [
+      "radw_nguy_reza_rame.2026.MLBPoCSi3CP"
+    ],
+    "orcid": "0009-0006-8684-5216",
+    "affiliation": "",
+    "ror": ""
+  },
+  "radyananjaya_muhammad": {
+    "prefix": "",
+    "lastName": "Radyananjaya",
+    "firstName": "Muhammad",
+    "articles": [
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "rael_ronald": {
     "prefix": "",
     "lastName": "Rael",
@@ -86320,17 +89201,6 @@ window.AUTHORS_DATA = {
     "firstName": "S.",
     "articles": [
       "vish_ragh_ravi_anan.2021.EoCMfP"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "rahai_alireza": {
-    "prefix": "",
-    "lastName": "Rahai",
-    "firstName": "Alireza",
-    "articles": [
-      "sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -86457,7 +89327,8 @@ window.AUTHORS_DATA = {
       "iqba_inqi_kasi_besk.2025.SCoFAB3PCEwEML",
       "iqba_kasi_besk_must.2025.PDoACSo3PCUMNNEwEMLX",
       "iqba_kasi_besk_inqi.2026.EKDaFRDi3PC",
-      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP"
+      "iqba_kasi_nowa_rahm.2026.PWBaaSSMtPCi3CP",
+      "iqba_inqi_kasi_besk.2026.DRBSi3PCUMLwBOaNM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -86507,16 +89378,15 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "rahul_a": {
+  "rahnavard_rohola": {
     "prefix": "",
-    "lastName": "Rahul",
-    "firstName": "A.",
+    "lastName": "Rahnavard",
+    "firstName": "Rohola",
     "articles": [
-      "sent_rayu_bala_rahu.2026.FBaTSoBwPMTRC",
-      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "rahn.2026.PIBo3PCFM",
+      "rahn.2026.CELMoEaFFi3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-9399-104X",
     "affiliation": "",
     "ror": ""
   },
@@ -86555,8 +89425,11 @@ window.AUTHORS_DATA = {
       "mikh_fakh_ng_bose.2024.PIaAiCP",
       "sree_rizz_bhat_jain.2025.EaNAoLDia3PCE",
       "tao_zhan_moha_dai.2025.WDAi3PC",
+      "sent_rayu_bala_rahu.2026.FBaTSoBwPMTRC",
       "kuru_rahu.2026.CtEAVBo3PCUSRT",
-      "tao_li_leem_muth.2026.APOPoMK3CP"
+      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
+      "tao_li_leem_muth.2026.APOPoMK3CP",
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
     ],
     "orcid": "0000-0002-5849-2293",
     "affiliation": "",
@@ -86654,6 +89527,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "rajaram_padmini": {
+    "prefix": "",
+    "lastName": "Rajaram",
+    "firstName": "Padmini",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "rajczakowska_magdalena": {
     "prefix": "",
     "lastName": "Rajczakowska",
@@ -86698,7 +89583,8 @@ window.AUTHORS_DATA = {
       "kiri_wija_raje_sanj.2026.IPSBo3CPW",
       "wija_kiri_raje_sanj.2026.DoLRR3PCB",
       "niss_raje_sanj.2026.IPi3CPUVIARC",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "kone_raje_sanj_kodi.2026.APCU3PCGtIRP"
     ],
     "orcid": "0000-0001-7731-8656",
     "affiliation": "",
@@ -86734,9 +89620,10 @@ window.AUTHORS_DATA = {
     "firstName": "P.",
     "articles": [
       "nair_naga_tham_das.2025.LCBSAoO3PCMISaRA",
-      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO"
+      "nair_naga_tham_das.2026.RDMDoSCCfEBAMvPPO",
+      "raje_nair_naga_goud.2026.GSFBCCfEB3CP"
     ],
-    "orcid": "",
+    "orcid": "0009-0002-6292-6629",
     "affiliation": "",
     "ror": ""
   },
@@ -86842,6 +89729,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ramadhini_sania": {
+    "prefix": "",
+    "lastName": "Ramadhini",
+    "firstName": "Sania",
+    "articles": [
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ramakrishnan_sayanthan": {
     "prefix": "",
     "lastName": "Ramakrishnan",
@@ -86870,7 +89768,9 @@ window.AUTHORS_DATA = {
       "rama_pasu_mana_sanj.2025.RMaFRPoWGAGfC3P",
       "rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS",
       "kond_rame_rama_mana.2026.ICoWCf3CP",
-      "kama_sala_wars_pool.2026.3PiC"
+      "kama_sala_wars_pool.2026.3PiC",
+      "rama_rame_loku_mana.2026.PaCSPo3PSUBCSC",
+      "rame_muth_rama_mana.2026.EFRoTR3PSUNSIGFY"
     ],
     "orcid": "0000-0001-8055-8167",
     "affiliation": "",
@@ -86976,7 +89876,10 @@ window.AUTHORS_DATA = {
       "rame_raje_sanj.2024.AoTRf3CPS",
       "rama_rame_pasu_mech.2026.EtPaSo3CPURWGaaCS",
       "kopi_rame_raje_sanj.2026.FaHPo3PCwCKDaC",
-      "kond_rame_rama_mana.2026.ICoWCf3CP"
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "kond_rame_rama_mana.2026.ICoWCf3CP",
+      "rama_rame_loku_mana.2026.PaCSPo3PSUBCSC",
+      "rame_muth_rama_mana.2026.EFRoTR3PSUNSIGFY"
     ],
     "orcid": "0009-0004-2850-9500",
     "affiliation": "",
@@ -87057,6 +89960,28 @@ window.AUTHORS_DATA = {
       "givk_mood_rame.2024.EoPPotPo3PCCAEA",
       "givk_mood_rame.2025.EoAEAoHPo3PCwEoPaAVS",
       "givk_mood_rame.2025.ISaMPo3PCUDCC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ramezansefat_honeyeh": {
+    "prefix": "",
+    "lastName": "Ramezansefat",
+    "firstName": "Honeyeh",
+    "articles": [
+      "radw_nguy_reza_rame.2026.MLBPoCSi3CP"
+    ],
+    "orcid": "0000-0001-9239-8172",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ramirez-amay_carlos": {
+    "prefix": "",
+    "lastName": "Ramírez-Amay",
+    "firstName": "Carlos",
+    "articles": [
+      "bent_del_saya_rami.2026.IIaAfSMaCi3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -87333,18 +90258,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "ranjani_ghandi": {
-    "prefix": "",
-    "lastName": "Ranjani",
-    "firstName": "Ghandi",
-    "articles": [
-      "srin_bodd_dey_choa.2024.DoOFU3CP",
-      "guli_dogr_gupt_bodd.2025.BaMSwGC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "ranjbar_navid": {
     "prefix": "",
     "lastName": "Ranjbar",
@@ -87404,6 +90317,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "rao_s": {
+    "prefix": "",
+    "lastName": "Rao",
+    "firstName": "S.",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "rao_suduan": {
     "prefix": "",
     "lastName": "Rao",
@@ -87433,7 +90357,9 @@ window.AUTHORS_DATA = {
       "sant_raph_sant.2025.EoSBDUVPiC3P",
       "hari_sent_sant_raph.2025.PAoC3PEwRFA",
       "sant_raph_sant.2026.D",
-      "pate_raph.2026.EIASiC3P"
+      "pate_raph.2026.EIASiC3P",
+      "pate_raph.2027.KACPfMGC3PS",
+      "sent_raph.2026.BFPaSDSiC3PUID"
     ],
     "orcid": "0000-0002-9957-7699",
     "affiliation": "",
@@ -87463,7 +90389,9 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "rase_lehm_char_step.2026.PoFaHMUCAtTISf3P",
-      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS"
+      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS",
+      "rase_mai_kim_step.2026.OIFBvPPi3",
+      "jaco_rase_step_mai.2026.EDoMfI3CP"
     ],
     "orcid": "0009-0007-2468-3060",
     "affiliation": "",
@@ -87507,7 +90435,8 @@ window.AUTHORS_DATA = {
     "lastName": "Rashkevich",
     "firstName": "Nina",
     "articles": [
-      "sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P"
+      "sosh_rash_shak_meln.2025.FaCMfAtSCoBSCwaC3P",
+      "rash_shev_pobi_shev.2026.IoaDCMfAtLBCo3PWS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -87716,6 +90645,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "ray_guillaume": {
+    "prefix": "",
+    "lastName": "Ray",
+    "firstName": "Guillaume",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ray_saswati": {
     "prefix": "",
     "lastName": "Ray",
@@ -87723,6 +90663,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "ray_mont_akul_rush.2026.EoPaFPo3PEM",
       "akul_ray_bast_maso.2026.SBFo3PEM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rayabharapu_vijay": {
+    "prefix": "",
+    "lastName": "Rayabharapu",
+    "firstName": "Vijay",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -87747,7 +90698,7 @@ window.AUTHORS_DATA = {
       "raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI",
       "ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF",
       "raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC",
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
       "qian_ali_umar_li.2026.MDOf3PERwSF"
     ],
     "orcid": "",
@@ -87785,7 +90736,8 @@ window.AUTHORS_DATA = {
       "raza_sakh_mans_fan.2024.DFoRSwPT3PCF",
       "raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS",
       "sakh_raza_wang_fan.2025.AoPTCiN3PT",
-      "sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS"
+      "sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0000-0001-6960-0475",
     "affiliation": "",
@@ -87832,6 +90784,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P",
       "yori_sleb_liza_inda.2023.ARBb3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "ream_chheangleng": {
+    "prefix": "",
+    "lastName": "Ream",
+    "firstName": "Chheangleng",
+    "articles": [
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -87887,7 +90850,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "reddy_k": {
+  "reddy_k_chiranjeevi": {
+    "prefix": "",
+    "lastName": "Reddy",
+    "firstName": "K.",
+    "articles": [
+      "redd_maha_kone_subr.2027.LCAoaME3PCB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "reddy_k_s-k-karthik": {
     "prefix": "",
     "lastName": "Reddy",
     "firstName": "K.",
@@ -87907,6 +90881,17 @@ window.AUTHORS_DATA = {
       "sing_anan_liu_tam.2025.EIBi3PCUBBB"
     ],
     "orcid": "0000-0002-9743-4993",
+    "affiliation": "",
+    "ror": ""
+  },
+  "reddy_r": {
+    "prefix": "",
+    "lastName": "Reddy",
+    "firstName": "R.",
+    "articles": [
+      "redd_zade_shar_nant.2026.FSPaMPoOB3PC"
+    ],
+    "orcid": "0000-0001-6447-166X",
     "affiliation": "",
     "ror": ""
   },
@@ -87982,7 +90967,8 @@ window.AUTHORS_DATA = {
     "lastName": "Regassa",
     "firstName": "Yohannes",
     "articles": [
-      "ageg_rega_anga_meko.2026.SRo3CPT"
+      "ageg_rega_anga_meko.2026.SRo3CPT",
+      "ajah_anga_tess_rega.2026.USEFCaaCRaRMi3PMCCHaPLA"
     ],
     "orcid": "0000-0001-5993-5706",
     "affiliation": "",
@@ -88008,7 +90994,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "cite_reha_dobi.2022.ERo3PCfCBC",
       "cite_melt_hviz_ausk.2025.E3PCF",
-      "cite_reha_hurt_holy.2026.EwtDaDTo3iC"
+      "cite_reha_hurt_holy.2026.EwtDaDTo3iC",
+      "cite_reha_hurt_koli.2026.MDaLTDo3iCA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -88112,6 +91099,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "reichlin_thomas": {
+    "prefix": "",
+    "lastName": "Reichlin",
+    "firstName": "Thomas",
+    "articles": [
+      "mark_reic_khod.2026.3PUHPCwPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "reid_laraimie": {
     "prefix": "",
     "lastName": "Reid",
@@ -88168,7 +91166,8 @@ window.AUTHORS_DATA = {
       "reis_aros_bran_camo.2026.ASRotDo3PCM",
       "reis_aros_camo_bran.2026.CaCAi3PCM",
       "aros_reis_ribe_bran.2026.FAR3CPoTBT",
-      "aros_reis_puga_bran.2026.HAS3CPvUREfICF"
+      "aros_reis_puga_bran.2026.HAS3CPvUREfICF",
+      "aros_reis_ribe_bran.2026.HRFoCM"
     ],
     "orcid": "0000-0001-5152-7521",
     "affiliation": "",
@@ -88201,7 +91200,8 @@ window.AUTHORS_DATA = {
       "rei_herd_mech.2024.RBoSFRCitCoAM",
       "rei_mech.2026.AaMtBoCBMitCoDF",
       "rei_mech.2026.CotRBo3PCCRA",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "rei_lies_etsc_mech.2026.IoCCTotRoLB3PCwCEMW"
     ],
     "orcid": "0000-0002-6763-3633",
     "affiliation": "",
@@ -88334,7 +91334,8 @@ window.AUTHORS_DATA = {
       "thib_tale_bela_bult.2025.HPo3PMwFRoNSbRS",
       "thib_remo_bela_remo.2025.3PEEMUSW",
       "khou_chei_schu_caza.2025.UVMf3PoMMwRS",
-      "abou_do_jin_flor.2026.GSCo3PMUSPTaBIMwaANNS"
+      "abou_do_jin_flor.2026.GSCo3PMUSPTaBIMwaANNS",
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
     ],
     "orcid": "0000-0001-7700-9319",
     "affiliation": "",
@@ -88449,7 +91450,7 @@ window.AUTHORS_DATA = {
       "zhan_tao_godi_ren.2025.LICaAo3PCBMEtPPTD",
       "tao_zhan_moha_dai.2025.WDAi3PC",
       "zhan_ren_titt_schu.2025.LIi3PCBM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-1830-6353",
     "affiliation": "",
@@ -88692,7 +91693,8 @@ window.AUTHORS_DATA = {
     "lastName": "Rezazadeh",
     "firstName": "Mohammadali",
     "articles": [
-      "abed_wari_alaw_jabr.2025.DDDoSLf3PwOC"
+      "abed_wari_alaw_jabr.2025.DDDoSLf3PwOC",
+      "radw_nguy_reza_rame.2026.MLBPoCSi3CP"
     ],
     "orcid": "0000-0003-1411-0051",
     "affiliation": "",
@@ -88773,7 +91775,8 @@ window.AUTHORS_DATA = {
     "firstName": "Iasef",
     "articles": [
       "li_rian_chen_tang.2025.AoFCf3CPoPPP",
-      "li_rian_chen.2026.FCCW"
+      "li_rian_chen.2026.FCCW",
+      "li_rian.2026.FITi3CPfFLSS"
     ],
     "orcid": "0000-0002-0802-6446",
     "affiliation": "",
@@ -88868,7 +91871,8 @@ window.AUTHORS_DATA = {
       "ribe_camp_bran_figu.2025.3CS",
       "wagn_silv_ribe_figu.2025.ANaFAtMtAMEoCM",
       "aros_reis_ribe_bran.2026.FAR3CPoTBT",
-      "bran_ribe_aros_figu.2026.GRFfERRaP"
+      "bran_ribe_aros_figu.2026.GRFfERRaP",
+      "aros_reis_ribe_bran.2026.HRFoCM"
     ],
     "orcid": "0000-0003-0908-3503",
     "affiliation": "",
@@ -88957,7 +91961,8 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "chov_rich_dac.2025.FASFFfAM",
-      "diet_schn_rich_naji.2025.MFSDf3CPwSPI"
+      "diet_schn_rich_naji.2025.MFSDf3CPwSPI",
+      "rich_jako_wuch_dac.2026.AMFWfDC"
     ],
     "orcid": "0000-0003-3865-4029",
     "affiliation": "",
@@ -88969,7 +91974,9 @@ window.AUTHORS_DATA = {
     "firstName": "David",
     "articles": [
       "chov_rich_dorf_dac.2024.RtHCC",
-      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR"
+      "rich_grim_chov_diel.2026.IS3CPoaVCUaMR",
+      "rich_heer_raat_dorf.2026.IRAMPfCMEiCAE",
+      "grim_chov_rich_kran.2026.FSoAISMoCSUMRS"
     ],
     "orcid": "0009-0003-3120-0355",
     "affiliation": "",
@@ -88992,9 +91999,10 @@ window.AUTHORS_DATA = {
     "firstName": "Benjamin",
     "articles": [
       "ride_kurt_stew.2024.QoPaSiFR3PM",
-      "kim_ride_stew_kurt.2025.TaDtFWf3CPDISS"
+      "kim_ride_stew_kurt.2025.TaDtFWf3CPDISS",
+      "ride_uzal_wash_stew.2026.EoMLORtDBCSf3P"
     ],
-    "orcid": "",
+    "orcid": "0009-0001-5266-965X",
     "affiliation": "",
     "ror": ""
   },
@@ -89040,6 +92048,17 @@ window.AUTHORS_DATA = {
       "oulk_riha_akhr_jai.2025.IoEBMi3CP",
       "akhr_oulk_jai_riha.2025.EBM3PEaBNI",
       "oulk_akhr_jai_riha.2025.CaABM3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rilievi_achille": {
+    "prefix": "",
+    "lastName": "Rilievi",
+    "firstName": "Achille",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -89232,9 +92251,10 @@ window.AUTHORS_DATA = {
     "lastName": "Roach",
     "firstName": "Devin",
     "articles": [
-      "gons_morg_thie_olar.2025.3PoSIURSCCwBA"
+      "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-8825-0340",
     "affiliation": "",
     "ror": ""
   },
@@ -89332,6 +92352,28 @@ window.AUTHORS_DATA = {
     "firstName": "Melina",
     "articles": [
       "sant_rocu_pere_mote.2024.So3CPUaIFotMPSIM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rodgers_william": {
+    "prefix": "",
+    "lastName": "Rodgers",
+    "firstName": "William",
+    "articles": [
+      "zehr_mage_rodg.2026.EMtIVMPaPPfAMUCCBCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rodik_daniel": {
+    "prefix": "",
+    "lastName": "Rodik",
+    "firstName": "Daniel",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -89435,7 +92477,8 @@ window.AUTHORS_DATA = {
       "silv_saka_ongh_mato.2025.AAWaaSCMf3PPC",
       "zat_schu_schm_frei.2025.RPoHPCRwMaTEo3PP",
       "cost_maas_doer_naza.2026.RtCCi3CPMTPPRI",
-      "zat_frei_boar_roba.2026.MBo3PCRwSaRWM"
+      "zat_frei_boar_roba.2026.MBo3PCRwSaRWM",
+      "mato_come_rodr_long.2026.AA3CPfMSA"
     ],
     "orcid": "0000-0003-1914-4541",
     "affiliation": "",
@@ -89478,6 +92521,17 @@ window.AUTHORS_DATA = {
       "izar_dubo_herv_caba.2018.OtIoaCDPRfAAMfC"
     ],
     "orcid": "0000-0002-6271-9606",
+    "affiliation": "",
+    "ror": ""
+  },
+  "roesler_jeffery": {
+    "prefix": "",
+    "lastName": "Roesler",
+    "firstName": "Jeffery",
+    "articles": [
+      "ojha_guo_hens_roes.2026.IoWCaABfRTDCPitCI"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -89561,7 +92615,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF",
       "silv_tude_roja_llon.2026.PCwMSRA",
-      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE"
+      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE",
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
     ],
     "orcid": "0000-0002-0598-9837",
     "affiliation": "",
@@ -89668,23 +92723,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "romero_hector": {
-    "prefix": "",
-    "lastName": "Romero",
-    "firstName": "Héctor",
-    "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "rong_hui": {
     "prefix": "",
     "lastName": "Rong",
     "firstName": "Hui",
     "articles": [
-      "li_shi_rong_dai.2025.EoAotPo3PUHPC"
+      "li_shi_rong_dai.2025.EoAotPo3PUHPC",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "",
     "affiliation": "",
@@ -89747,6 +92792,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "rosa_benoit": {
+    "prefix": "",
+    "lastName": "Rosa",
+    "firstName": "Benoit",
+    "articles": [
+      "amri_rosa_lacr_maze.2026.ASMf2MaAi3CP"
+    ],
+    "orcid": "0009-0002-0913-0197",
+    "affiliation": "",
+    "ror": ""
+  },
   "rosa_marco": {
     "prefix": "",
     "lastName": "Rosa",
@@ -89764,19 +92820,6 @@ window.AUTHORS_DATA = {
     "firstName": "Pedro",
     "articles": [
       "mesn_rosa_demo.2025.TOi3PCS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "rosa_raul": {
-    "prefix": "",
-    "lastName": "Rosa",
-    "firstName": "Raul",
-    "articles": [
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P",
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -89846,6 +92889,17 @@ window.AUTHORS_DATA = {
     "firstName": "Alireza",
     "articles": [
       "agha_li_rosh_nama.2024.AMEiC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "roske_thomas": {
+    "prefix": "",
+    "lastName": "Roske",
+    "firstName": "Thomas",
+    "articles": [
+      "kren_rosk_zura_fett.2026.SBDoaVM3CPH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -89929,6 +92983,17 @@ window.AUTHORS_DATA = {
       "thom_tamk_ross_chiu.2024.SC"
     ],
     "orcid": "0000-0003-0746-1566",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rossi_michela": {
+    "prefix": "",
+    "lastName": "Rossi",
+    "firstName": "Michela",
+    "articles": [
+      "ross_bare_bour.2027.RfOSC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -90027,7 +93092,7 @@ window.AUTHORS_DATA = {
       "zhou_sama_roti_feng.2025.EGPIotAo3CPT",
       "ma_sama_roti_zou.2025.ARoSCDo3CPCP",
       "zhou_sama_roti_feng.2025.EPIotAo3CPT",
-      "ma_sama_roti_zuo.2025.ERMf3CPSCS"
+      "ma_sama_roti_zou.2025.ERMf3CPSCS"
     ],
     "orcid": "0000-0001-6744-4683",
     "affiliation": "",
@@ -90362,7 +93427,8 @@ window.AUTHORS_DATA = {
       "funk_lind_rudo_gelb.2023.AMTftCPoPCE",
       "gelb_abst_rudo_funk.2023.CCEftPoRFbEaM",
       "rudo_scho_funk_gelb.2024.EPoRPCCEUAMIF",
-      "rudo_scho_funk_gelb.2025.EPoPCCSUAMCIFS"
+      "rudo_scho_funk_gelb.2025.EPoPCCSUAMCIFS",
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -90373,8 +93439,11 @@ window.AUTHORS_DATA = {
     "lastName": "Rudolph",
     "firstName": "Jennifer",
     "articles": [
-      "jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD",
-      "rudo_lowk.2024.DaCoaTCMSfS3P"
+      "wolf_rudo_wolf_neub.2024.HoaTCCOMToCBSoD",
+      "rudo_lowk.2024.DaCoaTCMSfS3P",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "megn_rudo_lowk_drod.2026.EPPCwFRMfCiS3P",
+      "rudo_megn_dorr_klof.2026.MaDNCfS3P"
     ],
     "orcid": "0000-0001-5377-7735",
     "affiliation": "",
@@ -90432,6 +93501,17 @@ window.AUTHORS_DATA = {
     "firstName": "Aoyu",
     "articles": [
       "rui_wang_lin_ma.2023.ESoDAo3PCEtSA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "rui_zi-qing": {
+    "prefix": "",
+    "lastName": "Rui",
+    "firstName": "Zi-Qing",
+    "articles": [
+      "guo_chen_rui_liu.2026.TC3PoHDCCwCPPfCoPCCP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -90837,6 +93917,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sadaghian_hamed": {
+    "prefix": "",
+    "lastName": "Sadaghian",
+    "firstName": "Hamed",
+    "articles": [
+      "sada_busw_cava_bart.2026.NIoAiHP3PCUC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "sadakorn_wannapol": {
     "prefix": "",
     "lastName": "Sadakorn",
@@ -90866,9 +93957,10 @@ window.AUTHORS_DATA = {
     "firstName": "Vahid",
     "articles": [
       "mohe_sade_pand_boyl.2024.NMoLRo3PCW",
-      "mohe_sade.2026.FEMoCBo3PCWfSPE"
+      "mohe_sade.2026.FEMoCBo3PCWfSPE",
+      "mohe_sade.2026.ANIitIoDPotSPo3PCW"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4168-3472",
     "affiliation": "",
     "ror": ""
   },
@@ -90881,6 +93973,17 @@ window.AUTHORS_DATA = {
       "sade_sand_kara_bebe.2025.It3PoHVFAMTAoMA"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sadeh_hooman": {
+    "prefix": "",
+    "lastName": "Sadeh",
+    "firstName": "Hooman",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0000-0003-2033-1600",
     "affiliation": "",
     "ror": ""
   },
@@ -91008,7 +94111,8 @@ window.AUTHORS_DATA = {
       "sael_titt_casp_wan.2025.EAotSBoHC3PCBS",
       "sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO",
       "sael_wan_casp_titt.2026.Ao3PCSaEfaWDOCaTCCM",
-      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB"
+      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB",
+      "sael_wan_casp_titt.2026.FBToH3PCCIwDBIS"
     ],
     "orcid": "0000-0001-9481-1987",
     "affiliation": "",
@@ -91054,7 +94158,8 @@ window.AUTHORS_DATA = {
     "lastName": "Sagyntay",
     "firstName": "Mukhagali",
     "articles": [
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "must_stor_rust_plas.2024.CMfC3PBotC",
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -91172,7 +94277,8 @@ window.AUTHORS_DATA = {
       "sahi_kaya_akgu_mard.2025.DoMPo3FRPCMEtET",
       "akgu_sahi_mard.2025.IoWSFURaLCoSFSPo3PCM",
       "akgu_sahi_isaf_mard.2025.CEoRTSFaBFSotMPo3PC",
-      "kaze_akgu_sahi_mard.2026.ABBCtASMDACi3PC"
+      "kaze_akgu_sahi_mard.2026.ABBCtASMDACi3PC",
+      "mard_sahi_hema_kamc.2026.3PCRT"
     ],
     "orcid": "0000-0002-8915-879X",
     "affiliation": "",
@@ -91245,7 +94351,9 @@ window.AUTHORS_DATA = {
       "merc_akka_bca_celi.2026.DTTo3PCW",
       "ekin_bele_demi_sahi.2026.SLTIGMfEoLMf3P",
       "takv_oz_ilca_iler.2026.DFTDCIaCo3CPCBGFP",
-      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG"
+      "takv_oz_ilca_iler.2026.DTOi3PPFPwCBG",
+      "qais_siad_lach_mahm.2026.Ro3PCaGPFfCS",
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
     ],
     "orcid": "0000-0002-7549-096X",
     "affiliation": "",
@@ -91263,7 +94371,8 @@ window.AUTHORS_DATA = {
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
       "sapa_sink_sahm_kora.2025.EBPf3PC",
       "sahm_buma_sink_slos.2026.TGCPCf3P",
-      "kole_korj_baja_sahm.2026.3PGCPCwCR"
+      "kole_korj_baja_sahm.2026.3PGCPCwCR",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0001-9700-2018",
     "affiliation": "",
@@ -91307,9 +94416,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "bhat_sahu.2025.RIaIo3PitBaCS",
       "bhow_bhat_sahu.2025.ACAoMPaSAi3CP",
-      "bhow_bhat_sahu.2026.3CP"
+      "bhow_bhat_sahu.2026.3CP",
+      "bhat_sahu.2026.RDi3PfSC"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-4173-5532",
     "affiliation": "",
     "ror": ""
   },
@@ -91446,7 +94556,8 @@ window.AUTHORS_DATA = {
     "firstName": "Vishakha",
     "articles": [
       "sakh_naja_desh.2024.PPo3PGTPEBP",
-      "sakh_khai_daha_mash.2025.RoSi3CP"
+      "sakh_khai_daha_mash.2025.RoSi3CP",
+      "chau_mohi_sakh.2026.3CPfWM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -91501,17 +94612,6 @@ window.AUTHORS_DATA = {
       "kama_sala_wars_pool.2026.3PiC"
     ],
     "orcid": "0000-0002-2449-1962",
-    "affiliation": "",
-    "ror": ""
-  },
-  "salam-mohammad_abdul": {
-    "prefix": "",
-    "lastName": "Salam Mohammad",
-    "firstName": "Abdul",
-    "articles": [
-      "sala_bier.2023.2SCPoCBPwTDR"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -91588,17 +94688,6 @@ window.AUTHORS_DATA = {
     "firstName": "Matias",
     "articles": [
       "garc_aven_ullo_wege.2026.DTfESDoHwAC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "saldarriaga_federico": {
-    "prefix": "",
-    "lastName": "Saldarriaga",
-    "firstName": "Federico",
-    "articles": [
-      "alva_fern_sald_rome.2025.DaBEoPDGf3PCW"
     ],
     "orcid": "",
     "affiliation": "",
@@ -91733,8 +94822,8 @@ window.AUTHORS_DATA = {
       "rang_sale_luca.2026.LCPwCGaTB"
     ],
     "orcid": "0009-0003-9169-7156",
-    "affiliation": "Eindhoven University of Technology",
-    "ror": "02c2kyt77"
+    "affiliation": "",
+    "ror": ""
   },
   "salgado_david": {
     "prefix": "",
@@ -91864,7 +94953,7 @@ window.AUTHORS_DATA = {
       "wije_sama_le_gaja.2025.ASRoS3CP",
       "zhou_sama_roti_feng.2025.EPIotAo3CPT",
       "urr_flem_sama_bao.2025.So3PT",
-      "ma_sama_roti_zuo.2025.ERMf3CPSCS"
+      "ma_sama_roti_zou.2025.ERMf3CPSCS"
     ],
     "orcid": "0000-0003-0401-2482",
     "affiliation": "",
@@ -92010,17 +95099,6 @@ window.AUTHORS_DATA = {
     "firstName": "Alex",
     "articles": [
       "hill_liu_liu_sanc.2018.EPICMfAM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "sanchez_asel": {
-    "prefix": "",
-    "lastName": "Sanchez",
-    "firstName": "Asel",
-    "articles": [
-      "lima_wang_sanc_anto.2024.Do3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -92212,7 +95290,8 @@ window.AUTHORS_DATA = {
       "bres_sani_nabo.2021.TPSDaMiR3CP",
       "nabo_bres_sani.2022.EA3CPTRV",
       "dell_bode_mele_bloc.2024.S20P",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -92350,11 +95429,12 @@ window.AUTHORS_DATA = {
       "nifl_raje_nava_ferr.2026.Ai3SPfC",
       "kiri_wija_raje_sanj.2026.IPSBo3CPW",
       "wija_kiri_raje_sanj.2026.DoLRR3PCB",
-      "niss_raje_sanj.2026.IPi3CPUVIARC"
+      "niss_raje_sanj.2026.IPi3CPUVIARC",
+      "kone_raje_sanj_kodi.2026.APCU3PCGtIRP"
     ],
     "orcid": "0000-0002-5400-5988",
-    "affiliation": "Swinburne University of Technology",
-    "ror": "031rekg67"
+    "affiliation": "",
+    "ror": ""
   },
   "sannerud_stian": {
     "prefix": "",
@@ -92490,6 +95570,18 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "santjojo_dionysius": {
+    "prefix": "",
+    "lastName": "Santjojo",
+    "firstName": "Dionysius",
+    "articles": [
+      "murd_sant_naba_sant.2026.CoaVAESfNFRMi3CP",
+      "yoed_sant.2026.ItIoSaUGCAFotFaHPo3PM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "santoro_enza": {
     "prefix": "",
     "lastName": "Santoro",
@@ -92507,6 +95599,17 @@ window.AUTHORS_DATA = {
     "firstName": "Ana",
     "articles": [
       "arau_mart_cabr_dant.2022.TPoCLCf3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "santos_jose": {
+    "prefix": "",
+    "lastName": "Santos",
+    "firstName": "José",
+    "articles": [
+      "fons_quei_sant_maia.2026.FSCMfSaA3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -92546,6 +95649,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "santoso_didik": {
+    "prefix": "",
+    "lastName": "Santoso",
+    "firstName": "Didik",
+    "articles": [
+      "murd_sant_naba_sant.2026.CoaVAESfNFRMi3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "sanytsky_myroslav": {
     "prefix": "",
     "lastName": "Sanytsky",
@@ -92572,11 +95686,12 @@ window.AUTHORS_DATA = {
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
       "sapa_plum_slos_sink.2025.UCDWAiCFCf3P",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "sapa_spur_alza_slos.2026.LCCfOSAaCDWf3P",
       "sahm_buma_sink_slos.2026.TGCPCf3P",
       "spur_lesc_sapa_pund.2026.FTRoOSACMDfEB3P",
-      "sapa_lesc_alza_vaid.2026.EoCFaCRCAoCPa3P"
+      "sapa_lesc_alza_vaid.2026.EoCFaCRCAoCPa3P",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0009-0007-1221-2026",
     "affiliation": "",
@@ -92623,6 +95738,17 @@ window.AUTHORS_DATA = {
       "sara_turr_kons_tenp.2018.DaI3PFwCGfATC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "saramento_luana": {
+    "prefix": "",
+    "lastName": "Saramento",
+    "firstName": "Luana",
+    "articles": [
+      "come_sara_doer_maas.2026.CRi3vAOTDoED"
+    ],
+    "orcid": "0009-0007-9527-5953",
     "affiliation": "",
     "ror": ""
   },
@@ -92692,17 +95818,6 @@ window.AUTHORS_DATA = {
       "ali_issa_sheh_sarf.2022.ACRo3PaDMiCE"
     ],
     "orcid": "0000-0002-1373-2054",
-    "affiliation": "",
-    "ror": ""
-  },
-  "sarhosis_vasilis": {
-    "prefix": "",
-    "lastName": "Sarhosis",
-    "firstName": "Vasilis",
-    "articles": [
-      "giud_kats_liu_sarh.2024.PMoUMWUaSB3P"
-    ],
-    "orcid": "0000-0002-8604-8659",
     "affiliation": "",
     "ror": ""
   },
@@ -92871,6 +95986,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sasaki_kazunari": {
+    "prefix": "",
+    "lastName": "Sasaki",
+    "firstName": "Kazunari",
+    "articles": [
+      "kita_sasa_ishi_naka.2026.FBo3PMBRwCFESwM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "sasikumar_athira": {
     "prefix": "",
     "lastName": "Sasikumar",
@@ -92967,7 +96093,9 @@ window.AUTHORS_DATA = {
     "lastName": "Sati",
     "firstName": "Ala",
     "articles": [
-      "mant_sati_hosn_abda.2024.AG3PLCALFfAA"
+      "mant_sati_hosn_abda.2024.AG3PLCALFfAA",
+      "sati_hosn_abda_mant.2026.CEEAoD3CPM",
+      "sati_hosn_mant_dabo.2027.TDCPitCI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -93046,7 +96174,6 @@ window.AUTHORS_DATA = {
     "lastName": "Šavija",
     "firstName": "Branko",
     "articles": [
-      "xu_savi.2019.DoSHCCSRw3PPR",
       "pand_moha_paul_bhag.2019.TEoMFPaPPoBaILAo3PC",
       "xu_zhan_schl_luko.2020.CCCwAB",
       "chan_schl_savi.2020.ELMtStPPo3PCM",
@@ -93129,7 +96256,9 @@ window.AUTHORS_DATA = {
       "sawi_duki_plac_masu.2026.HRCiDFwC",
       "dorr_sawi_klof.2026.RAaSDiS3P",
       "sawi_eich_klof.2026.REoS3PSTMPaF",
-      "sawi_dorr_klof.2026.PAoUPVfQCoS3PC"
+      "sawi_dorr_klof.2026.PAoUPVfQCoS3PC",
+      "dorr_freu_davi_lach.2026.S3PS",
+      "li_petz_klof_sawi.2026.TDDSSiDFwC"
     ],
     "orcid": "0000-0002-5632-3461",
     "affiliation": "",
@@ -93146,6 +96275,17 @@ window.AUTHORS_DATA = {
       "blag_gien_nigl_blan.2023.MFCaCTGfaCCS"
     ],
     "orcid": "0000-0002-6910-2473",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sayago-vela_ignacio": {
+    "prefix": "",
+    "lastName": "Sáyago-Vela",
+    "firstName": "Ignacio",
+    "articles": [
+      "bent_del_saya_rami.2026.IIaAfSMaCi3CP"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -93560,7 +96700,8 @@ window.AUTHORS_DATA = {
       "schm_hans_auti_juha.2022.AFCiDF",
       "hans_holz_schm_tapl.2023.LRCS",
       "schm_gier_hans_trum.2024.FFPFb3CP",
-      "gier_hans_schm_trum.2025.DaCw3CP"
+      "gier_hans_schm_trum.2025.DaCw3CP",
+      "gier_schm_frey_trum.2026.SDaToaF3PCFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -93599,6 +96740,17 @@ window.AUTHORS_DATA = {
       "curb_hegg_biel_schm.2023.NPoCRCS"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "schmidt_markus": {
+    "prefix": "",
+    "lastName": "Schmidt",
+    "firstName": "Markus",
+    "articles": [
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
+    ],
+    "orcid": "0009-0005-5963-4651",
     "affiliation": "",
     "ror": ""
   },
@@ -93754,7 +96906,8 @@ window.AUTHORS_DATA = {
       "scho_jeyi_stra_husk.2024.IoMSDfMVFDtPP",
       "scho_husk_koch_stra.2025.AFfCtRIoa3CM",
       "jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM",
-      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP"
+      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0002-2353-8781",
     "affiliation": "",
@@ -93834,6 +96987,17 @@ window.AUTHORS_DATA = {
       "beig_sign_rauf_schr.2025.IRBoLCCCLBfAC"
     ],
     "orcid": "0000-0001-7703-6691",
+    "affiliation": "",
+    "ror": ""
+  },
+  "schubert_clara": {
+    "prefix": "",
+    "lastName": "Schübert",
+    "firstName": "Clara",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -93980,17 +97144,6 @@ window.AUTHORS_DATA = {
     "firstName": "Eric",
     "articles": [
       "aron_schw_bert_moss.2026.ECiC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "schweizer_katie": {
-    "prefix": "",
-    "lastName": "Schweizer",
-    "firstName": "Katie",
-    "articles": [
-      "schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -94205,17 +97358,6 @@ window.AUTHORS_DATA = {
       "zafa_shah_sedg_hoja.2025.OoBAf3PCS"
     ],
     "orcid": "0000-0002-2544-8587",
-    "affiliation": "",
-    "ror": ""
-  },
-  "sedighi_saeed": {
-    "prefix": "",
-    "lastName": "Sedighi",
-    "firstName": "Saeed",
-    "articles": [
-      "sedi_raha_mood.2025.MCOfSCMCtSEoRSFaLC"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -94468,7 +97610,9 @@ window.AUTHORS_DATA = {
       "senf_jave_funk_gelb.2025.CEUSCA",
       "senf_jave_funk_gelb.2025.EESo3PCMBoCSCaBFCCIB",
       "abst_senf_glin_funk.2026.SPCCUHAM",
-      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB"
+      "senf_abst_funk_gelb.2026.A3CP3wLCCSCCB",
+      "abst_funk_senf_gelb.2027.HAMfSSMH",
+      "senf_abst_rudo_lind.2027.DoaTCMSf3CP3wFSCSCCB"
     ],
     "orcid": "0009-0007-2111-6220",
     "affiliation": "",
@@ -94526,7 +97670,7 @@ window.AUTHORS_DATA = {
     "lastName": "Senske",
     "firstName": "Nick",
     "articles": [
-      "ghad_evan_doyl_sens.2024.HBo3CPWA",
+      "ghad_evan_doyl_sens..HBo3CPWA",
       "doyl_sens_gasp_crai.2024.LLaL"
     ],
     "orcid": "",
@@ -94566,6 +97710,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "senthilkumar_p": {
+    "prefix": "",
+    "lastName": "Senthilkumar",
+    "firstName": "P.",
+    "articles": [
+      "gaya_kali_ambi_sent.2026.Oo3CPPURSMR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "senthilmurugan_arunkumar": {
     "prefix": "",
     "lastName": "Senthilmurugan",
@@ -94588,7 +97743,8 @@ window.AUTHORS_DATA = {
       "sent_raph.2024.BAo3PCETCV",
       "hari_sent_gett_sant.2024.OTaEPAo3PCwRCFAURaCVT",
       "sent_raph.2025.PBUtSTo3PCE",
-      "hari_sent_sant_raph.2025.PAoC3PEwRFA"
+      "hari_sent_sant_raph.2025.PAoC3PEwRFA",
+      "sent_raph.2026.BFPaSDSiC3PUID"
     ],
     "orcid": "0000-0002-5725-0698",
     "affiliation": "",
@@ -94629,9 +97785,10 @@ window.AUTHORS_DATA = {
     "lastName": "Sepidbar",
     "firstName": "Alireza",
     "articles": [
-      "sepi_pier_bono_duco.2026.TWT"
+      "sepi_pier_bono_duco.2026.TWT",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-4787-2415",
     "affiliation": "",
     "ror": ""
   },
@@ -94663,7 +97820,8 @@ window.AUTHORS_DATA = {
     "lastName": "Serafim",
     "firstName": "João",
     "articles": [
-      "sera_nune_arru_pinh.2026.RSCC"
+      "sera_nune_arru_pinh.2026.RSCC",
+      "sera_arru_pinh.2026.CtPoSCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -94724,7 +97882,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "vait_sere_kers.2018.EoUSAoEHPi3CPT",
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
-      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB"
+      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0002-8059-0308",
     "affiliation": "",
@@ -94764,7 +97923,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "kora_serj_hanz_bohi.2024.DaToTFAP",
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
-      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB"
+      "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0003-1658-2466",
     "affiliation": "",
@@ -94846,7 +98006,8 @@ window.AUTHORS_DATA = {
       "moll_comm_silv_seta.2023.CFDMaEAoRBIi3CP",
       "abba_kora_jai_seta.2024.3CPUCFD",
       "kach_sanc_moll_ezqu.2025.NAoC3PLH",
-      "moll_seta_span.2026.AV3PFfOEC"
+      "moll_seta_span.2026.AV3PFfOEC",
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
     ],
     "orcid": "0000-0002-5989-1122",
     "affiliation": "",
@@ -94997,7 +98158,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shafique",
     "firstName": "Muhammad",
     "articles": [
-      "elna_shaf_hani.2026.MDOaSCf3PUHPC"
+      "elna_shaf_hani.2026.MDOaSCf3PUHPC",
+      "shaf_moha_hani.2026.3PUHPC"
     ],
     "orcid": "0009-0003-2839-2480",
     "affiliation": "",
@@ -95011,6 +98173,17 @@ window.AUTHORS_DATA = {
       "olss_shaf_aric_kla.2019.3PTiC"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "shah_amay": {
+    "prefix": "",
+    "lastName": "Shah",
+    "firstName": "Amay",
+    "articles": [
+      "blan_kova_neth_shah.2026.SMS"
+    ],
+    "orcid": "0009-0002-1868-7683",
     "affiliation": "",
     "ror": ""
   },
@@ -95063,7 +98236,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shah",
     "firstName": "Santosh",
     "articles": [
-      "barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC"
+      "barv_bahr_shah.2024.ACRoEoMCMDaMRoRo3PGC",
+      "barv_upad_shah_ghaf.2026.EOpGf3PUDPRPMaS"
     ],
     "orcid": "0000-0003-1465-1931",
     "affiliation": "",
@@ -95186,7 +98360,8 @@ window.AUTHORS_DATA = {
       "raza_sakh_mans_fan.2024.DFoRSwPT3PCF",
       "raza_sakh_hass_mans.2025.FBoSiPLB3PCFfRS",
       "sakh_raza_wang_fan.2025.AoPTCiN3PT",
-      "sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS"
+      "sakh_raza_wang_fan.2026.DOaAoSiP3PCFfS",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0000-0002-8012-4315",
     "affiliation": "",
@@ -95218,7 +98393,10 @@ window.AUTHORS_DATA = {
       "shah_li.2024.AtLBCo3PCaEA",
       "li_hu_shah.2024.ABi3PC",
       "shah_li.2025.IoCIotMPo3PCS",
-      "shah_li.2025.IoCIotDaPOBo3PCS"
+      "shah_li.2025.IBEoSSaDi3PCS",
+      "shah_li.2025.IoCIotDaPOBo3PCS",
+      "hu_shah_li.2025.IotSSRotSPo3PCBWWR",
+      "shah_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
     ],
     "orcid": "0000-0003-4847-6246",
     "affiliation": "",
@@ -95352,7 +98530,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shakur",
     "firstName": "Emad",
     "articles": [
-      "shak_shak_amir.2024.TaSOo3PSCS"
+      "shak_shak_amir.2024.TaSOo3PSCS",
+      "shak_amir.2026.AICFfSOoPCSw3PF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -95580,22 +98759,13 @@ window.AUTHORS_DATA = {
     "lastName": "Shariff",
     "firstName": "Mohammad",
     "articles": [
-      "prak_trip_zade_shar.2026.EaNIoBaFBoAMSCB",
-      "zade_shar.2026.ACRo3PCMPSPatWF"
-    ],
-    "orcid": "0000-0001-7452-2969",
-    "affiliation": "",
-    "ror": ""
-  },
-  "shariff_najeeb": {
-    "prefix": "",
-    "lastName": "Shariff",
-    "firstName": "Najeeb",
-    "articles": [
       "phad_shar_meno.2020.ORoPo3PCCaWtAB",
       "suth_shar_nant.2024.PAoTO3PCSCSUFES",
       "redd_shar_nant.2025.TOo3CPCCMA",
-      "divy_riza_shar.2025.CoCJFiDPMDtDP"
+      "divy_riza_shar.2025.CoCJFiDPMDtDP",
+      "prak_trip_zade_shar.2026.EaNIoBaFBoAMSCB",
+      "zade_shar.2026.ACRo3PCMPSPatWF",
+      "redd_zade_shar_nant.2026.FSPaMPoOB3PC"
     ],
     "orcid": "0000-0001-7452-2969",
     "affiliation": "",
@@ -95693,18 +98863,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "sharma_s": {
-    "prefix": "",
-    "lastName": "Sharma",
-    "firstName": "S.",
-    "articles": [
-      "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
-      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "sharma_shivam": {
     "prefix": "",
     "lastName": "Sharma",
@@ -95712,7 +98870,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "shar_mitr_ades_das.2022.CIw3P",
       "khan_bhat_dogr_shar.2021.3PRfCC",
-      "shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL"
+      "shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL",
+      "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
+      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -95757,19 +98917,6 @@ window.AUTHORS_DATA = {
     "firstName": "Hooman",
     "articles": [
       "osto_shay.2024.SaAoAGILEAPfCSS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "shazad_qamar": {
-    "prefix": "",
-    "lastName": "Shazad",
-    "firstName": "Qamar",
-    "articles": [
-      "shaz_li.2025.IBEoSSaDi3PCS",
-      "hu_shaz_li.2025.IotSSRotSPo3PCBWWR",
-      "shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -95880,7 +99027,8 @@ window.AUTHORS_DATA = {
       "ingl_kali_ambi_shek.2023.3PCWCA",
       "ambi_kali_seba_shek.2023.MAf3PC",
       "kali_ambi_shek_seba.2024.EoSGotFPo3PC",
-      "ambi_kali_seba_shek.2025.S3PCMUCS"
+      "ambi_kali_seba_shek.2025.S3PCMUCS",
+      "sowm_ambi_kali_ayya.2026.EoCSaFAotFPo3PC"
     ],
     "orcid": "0000-0001-8180-8981",
     "affiliation": "",
@@ -95930,23 +99078,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "shen_chenyue": {
-    "prefix": "",
-    "lastName": "Shen",
-    "firstName": "Chenyue",
-    "articles": [
-      "lang_shen.2025.TD3PS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "shen_chuanyue": {
     "prefix": "",
     "lastName": "Shen",
     "firstName": "Chuanyue",
     "articles": [
-      "lang_shen.2025.MtFPoCBMf3CP"
+      "lang_shen.2025.MtFPoCBMf3CP",
+      "lang_shen.2025.TD3PS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96005,7 +99143,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "bai_xiao_shen_ding.2024.PaMAo3PCwMSDfB",
       "shen_ye_xiao_li.2025.MaTPo3PECSbG",
-      "shen_chen_xiao_wang.2026.TaMPo3PESWSbAAS"
+      "shen_chen_xiao_wang.2026.TaMPo3PESWSbAAS",
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96083,6 +99222,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "shen_sijie": {
+    "prefix": "",
+    "lastName": "Shen",
+    "firstName": "Sijie",
+    "articles": [
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "shen_wei": {
     "prefix": "",
     "lastName": "Shen",
@@ -96127,7 +99277,8 @@ window.AUTHORS_DATA = {
       "shen_shi_khay_yuan.2021.CiFPoHSCDtP",
       "shen_yuan_shi_ji.2021.IoPotREoHSCaIRttR",
       "cui_wang_chen_shen.2023.So3PCwLCCMBoIRPaMP",
-      "cui_shen_ji_liu.2024.MPaPoLCPC"
+      "cui_shen_ji_liu.2024.MPaPoLCPC",
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96167,34 +99318,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "sheng_r": {
-    "prefix": "",
-    "lastName": "Sheng",
-    "firstName": "R.",
-    "articles": [
-      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "sheng_ruiyi": {
-    "prefix": "",
-    "lastName": "Sheng",
-    "firstName": "Ruiyi",
-    "articles": [
-      "yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "sheng_ruyi": {
     "prefix": "",
     "lastName": "Sheng",
     "firstName": "Ruyi",
     "articles": [
+      "yuan_fato_shen_wang.2025.AtAoRMSWIBAaaCSiPC",
       "yuan_shen_yao_pich.2025.ATSDSf3PCCCA",
+      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS",
       "zia_yuan_irfa_shen.2026.IoSBAotWaMBo3PM",
       "shen_yuan_zhan_liu.2026.AIMMSfMPoP"
     ],
@@ -96207,7 +99338,8 @@ window.AUTHORS_DATA = {
     "lastName": "Sheng",
     "firstName": "Yanming",
     "articles": [
-      "sing_yang_wang_xiao.2025.CTFCfFTRi3PC"
+      "sing_yang_wang_xiao.2025.CTFCfFTRi3PC",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96268,6 +99400,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sher_willy": {
+    "prefix": "",
+    "lastName": "Sher",
+    "firstName": "Willy",
+    "articles": [
+      "tigh_sher.2026.EaEPo3PiC"
+    ],
+    "orcid": "0000-0003-3018-1597",
+    "affiliation": "",
+    "ror": ""
+  },
   "sherif_muhammad": {
     "prefix": "",
     "lastName": "Sherif",
@@ -96290,12 +99433,23 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "shi_a": {
+  "shevchenko_olga": {
     "prefix": "",
-    "lastName": "Shi",
-    "firstName": "A.",
+    "lastName": "Shevchenko",
+    "firstName": "Olga",
     "articles": [
-      "kua_shi_kaja_lam.2025.TSC3P"
+      "rash_shev_pobi_shev.2026.IoaDCMfAtLBCo3PWS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "shevchenko_roman": {
+    "prefix": "",
+    "lastName": "Shevchenko",
+    "firstName": "Roman",
+    "articles": [
+      "rash_shev_pobi_shev.2026.IoaDCMfAtLBCo3PWS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96309,6 +99463,7 @@ window.AUTHORS_DATA = {
       "sepa_shi_yang_shir.2020.AMAfI40",
       "shi_lee_sun_koh.2025.DEoSBo3PCSK",
       "tian_shi_fang_lin.2025.MIEoMBi3PCSK",
+      "kua_shi_kaja_lam.2025.TSC3P",
       "wang_wan_owyo_conn.2026.TLCC"
     ],
     "orcid": "",
@@ -96510,7 +99665,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shi",
     "firstName": "Xin",
     "articles": [
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96540,7 +99696,8 @@ window.AUTHORS_DATA = {
       "zhou_shi_zhou_lian.2025.Ro3CMfSHPCG",
       "cui_ji_shen_su.2025.ANNBMfA3PCPiRF",
       "cui_guo_liu_da.2025.QAo3PCTQVI",
-      "cui_liu_yao_cao.2026.RTMaQCoPCUaIYSN"
+      "cui_liu_yao_cao.2026.RTMaQCoPCUaIYSN",
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
     ],
     "orcid": "0000-0003-2690-4035",
     "affiliation": "",
@@ -96663,6 +99820,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "shibutani_tomonori": {
+    "prefix": "",
+    "lastName": "Shibutani",
+    "firstName": "Tomonori",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "shields_yasmina": {
     "prefix": "",
     "lastName": "Shields",
@@ -96745,17 +99913,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "shim_patrick": {
-    "prefix": "",
-    "lastName": "Shim",
-    "firstName": "Patrick",
-    "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "shima_kanako": {
     "prefix": "",
     "lastName": "Shima",
@@ -96831,7 +99988,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shing-Mei",
     "firstName": "Chiew",
     "articles": [
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "chan_padi_chee_ibra.2025.StEIBi3PC",
+      "ler_ma_chee_ibra.2026.TPo3PCUSE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96896,6 +100054,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "shivaraj_s": {
+    "prefix": "",
+    "lastName": "Shivaraj",
+    "firstName": "S.",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "shivendra_bandoorvaragerahalli": {
     "prefix": "",
     "lastName": "Shivendra",
@@ -96950,7 +100119,8 @@ window.AUTHORS_DATA = {
     "lastName": "Shoaib",
     "firstName": "Shahrukh",
     "articles": [
-      "shoa_mous.2026.ABo3PHSCCwDToF"
+      "shoa_mous.2026.ABo3PHSCCwDToF",
+      "shoa_mous_duco.2026.FLDtSR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -96964,6 +100134,17 @@ window.AUTHORS_DATA = {
       "zoza_shoj_uvin_hoja.2026.3PoEBM"
     ],
     "orcid": "0009-0008-0268-1133",
+    "affiliation": "",
+    "ror": ""
+  },
+  "shole_moh": {
+    "prefix": "",
+    "lastName": "Shole",
+    "firstName": "Moh",
+    "articles": [
+      "shol_suwa_fauz.2026.3PitCI"
+    ],
+    "orcid": "0000-0002-2795-9540",
     "affiliation": "",
     "ror": ""
   },
@@ -96997,6 +100178,18 @@ window.AUTHORS_DATA = {
       "klyu_klyu_shor.2021.To3PoFRM"
     ],
     "orcid": "0000-0003-4031-0989",
+    "affiliation": "",
+    "ror": ""
+  },
+  "shpak_andrei": {
+    "prefix": "",
+    "lastName": "Shpak",
+    "firstName": "Andrei",
+    "articles": [
+      "osta_munt_barr_shpa.2026.BSfSAC",
+      "shpa_dann_just.2026.DoELCCfpSR"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -97122,6 +100315,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "shyamsunder_loukham": {
+    "prefix": "",
+    "lastName": "Shyamsunder",
+    "firstName": "Loukham",
+    "articles": [
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
+    ],
+    "orcid": "0000-0001-9092-9603",
+    "affiliation": "",
+    "ror": ""
+  },
   "shyshko_sergiy": {
     "prefix": "",
     "lastName": "Shyshko",
@@ -97193,7 +100397,9 @@ window.AUTHORS_DATA = {
     "lastName": "Siad",
     "firstName": "Hocine",
     "articles": [
-      "mahm_siad_lach_sahm.2025.RAiCBG"
+      "mahm_siad_lach_sahm.2025.RAiCBG",
+      "qais_siad_lach_mahm.2026.Ro3PCaGPFfCS",
+      "sahm_ilca_oz_kars.2026.FFaEFMCfSBE"
     ],
     "orcid": "0000-0003-1217-107X",
     "affiliation": "",
@@ -97288,7 +100494,8 @@ window.AUTHORS_DATA = {
       "shar_tahl_dela_side.2025.SDMfLR3PC3BStNSL",
       "syed_shar_koli_side.2025.EAo3PHB",
       "dela_shar_chen_side.2026.EIoFSSC3PCWStIPCL",
-      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC"
+      "chen_shar_dela_side.2026.QoSPPfSS3PCBBoCC",
+      "dela_side.2027.DICAoEEFS3PCW"
     ],
     "orcid": "0000-0002-1183-7397",
     "affiliation": "",
@@ -97325,6 +100532,17 @@ window.AUTHORS_DATA = {
       "radl_pfle_sieh_vill.2025.CDaPoa3PCBBwEoITP"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sienko_rafal": {
+    "prefix": "",
+    "lastName": "Sieńko",
+    "firstName": "Rafał",
+    "articles": [
+      "howi_badu_sien_bedn.2026.BaCoDiRPa3PCR"
+    ],
+    "orcid": "0000-0002-2751-7558",
     "affiliation": "",
     "ror": ""
   },
@@ -97428,6 +100646,7 @@ window.AUTHORS_DATA = {
     "lastName": "Silva Nunes",
     "firstName": "Ueslei",
     "articles": [
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P",
       "lima_silv_souz_viei.2026.AoAf3PLBCM"
     ],
     "orcid": "0000-0001-9534-9632",
@@ -97483,7 +100702,8 @@ window.AUTHORS_DATA = {
       "tude_card_bien_dunk.2024.DaCoaPCMwCaDWA",
       "zava_quis_roja_silv.2025.3PoaBHUPUEBMSwRHF",
       "silv_tude_roja_llon.2026.PCwMSRA",
-      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE"
+      "roja_naka_agui_nane.2026.IRtWEaSHCoEB3PEUEICPE",
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
     ],
     "orcid": "0000-0003-0099-8707",
     "affiliation": "",
@@ -97520,7 +100740,8 @@ window.AUTHORS_DATA = {
     "lastName": "Silva",
     "firstName": "Neesha",
     "articles": [
-      "silv_raja_udaw.2025.T3PfPH"
+      "silv_raja_udaw.2025.T3PfPH",
+      "prem_silv_mudu_maka.2026.AIDTo3CPiA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -97534,6 +100755,28 @@ window.AUTHORS_DATA = {
       "silv_wagn_silv_mora.2024.RTPi3CP"
     ],
     "orcid": "0000-0001-6825-9674",
+    "affiliation": "",
+    "ror": ""
+  },
+  "silva_rafaela_k-r": {
+    "prefix": "",
+    "lastName": "Silva",
+    "firstName": "Rafaela",
+    "articles": [
+      "borg_silv_lemo.2026.LC3BoAAMaGMW"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "silva_rafaela_kassia-rodrigues": {
+    "prefix": "",
+    "lastName": "Silva",
+    "firstName": "Rafaela",
+    "articles": [
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
+    ],
+    "orcid": "0009-0008-9359-1271",
     "affiliation": "",
     "ror": ""
   },
@@ -97791,7 +101034,8 @@ window.AUTHORS_DATA = {
       "sun_chu_luo_li.2026.SPoR3NSwDILD",
       "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP",
       "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
-      "sun_wang_liu_sing.2026.SoSPoIIi3PC"
+      "sun_wang_liu_sing.2026.SoSPoIIi3PC",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
     ],
     "orcid": "0000-0003-0084-808X",
     "affiliation": "",
@@ -97848,9 +101092,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "ghod_chow_sing.2025.CFBoCAB3PCBUAET",
       "ghod_sing_sing_chow.2025.AMSMaSiCaBA",
-      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC"
+      "ghod_sing_chow.2025.SIoRoWFTiRoCAB3PC",
+      "ghod_sing_chow.2026.RCo3PCMwCA"
     ],
-    "orcid": "",
+    "orcid": "0009-0004-7403-6679",
     "affiliation": "",
     "ror": ""
   },
@@ -97905,9 +101150,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "pari_sing_kama_subr.2024.AoPoCBoPoA",
       "pari_raj_sing_subr.2025.D3PCbItIoAC",
-      "subr_sing_maga_pari.2025.FOAo3CP"
+      "subr_sing_maga_pari.2025.FOAo3CP",
+      "pari_sing_bano_subr.2027.IfFaCSTiFRD3PA"
     ],
-    "orcid": "",
+    "orcid": "0009-0000-7709-6205",
     "affiliation": "",
     "ror": ""
   },
@@ -97989,7 +101235,7 @@ window.AUTHORS_DATA = {
       "wolf_vers_sant_bhat.2025.FaTS",
       "bali_gail_sink_arga.2025.PLf3PFGCUCWaA",
       "sapa_plum_slos_sink.2025.UCDWAiCFCf3P",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "sapa_spur_alza_slos.2026.LCCfOSAaCDWf3P",
       "sere_vait_kora_serj.2026.EoCaPCAotPo3PCwaLCMB",
       "sahm_buma_sink_slos.2026.TGCPCf3P",
@@ -97997,7 +101243,8 @@ window.AUTHORS_DATA = {
       "spur_lesc_sapa_pund.2026.FTRoOSACMDfEB3P",
       "sapa_lesc_alza_vaid.2026.EoCFaCRCAoCPa3P",
       "puzu_spur_frol_drag.2026.3PoBBBM",
-      "drag_puzu_toro_sink.2026.EoBo3PCCBBA"
+      "drag_puzu_toro_sink.2026.EoBo3PCCBBA",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0002-2332-1347",
     "affiliation": "",
@@ -98167,7 +101414,7 @@ window.AUTHORS_DATA = {
     "firstName": "Mirosław",
     "articles": [
       "besk_skib_zhan.2021.FA3PTAiC",
-      "li_li_skib_wang.2023.MQCwNLFMi3CP",
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP",
       "besk_raza_zhon_skib.2024.3PvTC"
     ],
     "orcid": "",
@@ -98275,6 +101522,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "yori_liza_sleb_blan.2022.LCAaMCDMAtDtPo3PCMaG",
       "yori_sleb_liza_inda.2023.ARBb3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "slednew_juan": {
+    "prefix": "",
+    "lastName": "Slednew",
+    "firstName": "Juan",
+    "articles": [
+      "ludu_orti_sled_garc.2026.CCoCa3PCWSfSH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -98420,6 +101678,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sneed_lesley": {
+    "prefix": "",
+    "lastName": "Sneed",
+    "firstName": "Lesley",
+    "articles": [
+      "hima_tang_atae_snee.2027.M3CPaHFASS"
+    ],
+    "orcid": "0000-0003-1528-5611",
+    "affiliation": "",
+    "ror": ""
+  },
   "snehal_k": {
     "prefix": "",
     "lastName": "Snehal",
@@ -98447,8 +101716,10 @@ window.AUTHORS_DATA = {
       "seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL",
       "yeh_panu_tana_jong.2025.CEAo3PHMCB",
       "dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
-      "seep_tana_tang_jira.2026.IBSMfTDPM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "seep_tana_tang_jira.2026.IBSMfTDPM",
+      "jira_sngu_jong_chai.2026.SBCU3PFwHCfUCC",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "0009-0001-6355-7274",
     "affiliation": "",
@@ -98620,6 +101891,17 @@ window.AUTHORS_DATA = {
     "firstName": "Massoud",
     "articles": [
       "gou_sofi_zhan_zhu.2024.CPaMAo3PGHSLECC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "soga_kenichi": {
+    "prefix": "",
+    "lastName": "Soga",
+    "firstName": "Kenichi",
+    "articles": [
+      "niu_wang_chun_soga.2027.CHCoCSb3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -99059,6 +102341,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "song_xiangxi": {
+    "prefix": "",
+    "lastName": "Song",
+    "firstName": "Xiangxi",
+    "articles": [
+      "pan_pan_song_wang.2026.3PaMAoHAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "song_xinlei": {
     "prefix": "",
     "lastName": "Song",
@@ -99139,6 +102432,17 @@ window.AUTHORS_DATA = {
       "knyc_wies_sonn_kowa.2025.IFF"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sood_irienedeep": {
+    "prefix": "",
+    "lastName": "Sood",
+    "firstName": "Irienedeep",
+    "articles": [
+      "sood.2027.RoSfEESoC3P"
+    ],
+    "orcid": "0009-0003-1959-7740",
     "affiliation": "",
     "ror": ""
   },
@@ -99419,7 +102723,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "ly_yori_seba_blan.2021.Oo3PCfAR",
       "bouk_seba_bout_yori.2022.OtPEoEMDtMARv3P",
-      "yori_sleb_liza_inda.2023.ARBb3P"
+      "yori_sleb_liza_inda.2023.ARBb3P",
+      "hall_herb_staf_jone.2023.3PHEU"
     ],
     "orcid": "0000-0002-9231-0553",
     "affiliation": "",
@@ -99501,7 +102806,8 @@ window.AUTHORS_DATA = {
       "sove_cala.2024.IoPPotTPo3PCS",
       "sove_cala.2024.DCaPEoaSS3PfARiAMiC",
       "sove_cala.2024.TaEEi3PB",
-      "sove_cala.2024.EotPPoTPo3PS"
+      "sove_cala.2024.EotPPoTPo3PS",
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
     "orcid": "0000-0002-4716-8498",
     "affiliation": "",
@@ -99513,6 +102819,17 @@ window.AUTHORS_DATA = {
     "firstName": "Hugh",
     "articles": [
       "doyl_sens_gasp_crai.2024.LLaL"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sowmiyan_atchaya": {
+    "prefix": "",
+    "lastName": "Sowmiyan",
+    "firstName": "Atchaya",
+    "articles": [
+      "sowm_ambi_kali_ayya.2026.EoCSaFAotFPo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -99545,7 +102862,6 @@ window.AUTHORS_DATA = {
     "lastName": "Soza-Ruiz",
     "firstName": "Pedro",
     "articles": [
-      "acun_aven_garc_band.2023.PDoM3PWBoRMsD",
       "garc_soza_moro_pedr.2024.FBMt3CP",
       "garc_soza_vale_mart.2024.DoaGDSf3PHiC",
       "soza_more_garc.2025.OtTPo3PA",
@@ -99601,7 +102917,8 @@ window.AUTHORS_DATA = {
       "lori_nova_asce_fern.2025.CFGf3PA",
       "jacq_kawa_span.2025.UtSBU3PCBM",
       "kach_sanc_moll_ezqu.2025.NAoC3PLH",
-      "moll_seta_span.2026.AV3PFfOEC"
+      "moll_seta_span.2026.AV3PFfOEC",
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
     ],
     "orcid": "0000-0002-5411-6821",
     "affiliation": "",
@@ -99681,9 +102998,10 @@ window.AUTHORS_DATA = {
     "lastName": "Spinelli",
     "firstName": "Filippo",
     "articles": [
-      "vase_chad_kang_leun.2024.IP"
+      "vase_chad_kang_leun.2024.IP",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
-    "orcid": "",
+    "orcid": "0009-0007-0981-3787",
     "affiliation": "",
     "ror": ""
   },
@@ -99768,7 +103086,8 @@ window.AUTHORS_DATA = {
       "sapa_spur_alza_slos.2026.LCCfOSAaCDWf3P",
       "spur_lesc_sapa_pund.2026.FTRoOSACMDfEB3P",
       "sapa_lesc_alza_vaid.2026.EoCFaCRCAoCPa3P",
-      "puzu_spur_frol_drag.2026.3PoBBBM"
+      "puzu_spur_frol_drag.2026.3PoBBBM",
+      "spur_sapa_sahm_serj.2026.HVCRwOSAaMiPBCf3P"
     ],
     "orcid": "0000-0003-0745-9634",
     "affiliation": "",
@@ -100150,7 +103469,8 @@ window.AUTHORS_DATA = {
       "brun_sten_kust.2024.3PBPUDCBaRS",
       "ober_rich_wies_sten.2024.LGWPaRE3PCBC",
       "brun_kost_wege_sten.2026.DoAMSC",
-      "latu_brun_ober_sten.2026.DaCoaFOaFI3PPP"
+      "latu_brun_ober_sten.2026.DaCoaFOaFI3PPP",
+      "silv_appe_ober_sten.2026.OPVTPAAGM"
     ],
     "orcid": "0000-0002-8633-4305",
     "affiliation": "",
@@ -100162,7 +103482,7 @@ window.AUTHORS_DATA = {
     "firstName": "Dietmar",
     "articles": [
       "dorn_hirs_step.2019.SotIoAotHoPCaTAi3P",
-      "pott_jako_jans_neub.2020.IotIoCaSaTIotRB",
+      "pott_wolf_jans_neub.2020.IotIoCaSaTIotRB",
       "hirs_dorn_ehm_step.2020.CoPIB",
       "pfei_dorn_hirs_ehm.2020.AAaWfAFwC",
       "chou_ghaf_siko_chun.2021.IoAIoRMaMPo3PAAM",
@@ -100178,8 +103498,8 @@ window.AUTHORS_DATA = {
       "pott_wolf_petr_step.2022.EotUUCTtStEoAPMPDtEATR",
       "chou_ghaf_nema_siko.2022.EoNaCHCMaLCAotPo3PAAM",
       "cuev_strz_kim_ehm.2023.TDoSL3PWBE",
-      "pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
-      "pott_jako_dorn_step.2023.IoaSAfTCoMPf3CPIM",
+      "pott_wolf_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
+      "pott_wolf_dorn_step.2023.IoaSAfTCoMPf3CPIM",
       "cuev_wein_step_kim.2023.EoPPoPRMCaPoMf3CPUISaESIT",
       "sand_step.2024.TDoaFABGfEB3PAwaPPM",
       "lehr_pfei_rasa_step.2024.3LoS",
@@ -100191,9 +103511,22 @@ window.AUTHORS_DATA = {
       "sand_alve_worm_gurl.2025.EoCEICFRia3PGC",
       "wolf_pott_jans_step.2026.TYSf3PULCC",
       "rase_lehm_char_step.2026.PoFaHMUCAtTISf3P",
-      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS"
+      "kim_rase_step_han.2026.EoCJEotMaMBoTDPCS",
+      "rase_mai_kim_step.2026.OIFBvPPi3",
+      "jaco_rase_step_mai.2026.EDoMfI3CP"
     ],
     "orcid": "0000-0002-1893-6785",
+    "affiliation": "",
+    "ror": ""
+  },
+  "stepinac_lucija": {
+    "prefix": "",
+    "lastName": "Stepinac",
+    "firstName": "Lucija",
+    "articles": [
+      "vare_gali_step_andr.2026.TORAFfS3PCC"
+    ],
+    "orcid": "0009-0001-5609-3774",
     "affiliation": "",
     "ror": ""
   },
@@ -100206,7 +103539,7 @@ window.AUTHORS_DATA = {
       "hanz_stef_ster_serj.2025.CMoOSAaCPiC3P",
       "sapa_sink_sahm_kora.2025.EBPf3PC",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-7923-5261",
     "affiliation": "",
@@ -100268,23 +103601,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "stewart_l": {
-    "prefix": "",
-    "lastName": "Stewart",
-    "firstName": "L.",
-    "articles": [
-      "ride_kurt_stew.2024.QoPaSiFR3PM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "stewart_lauren": {
     "prefix": "",
     "lastName": "Stewart",
     "firstName": "Lauren",
     "articles": [
-      "kim_ride_stew_kurt.2025.TaDtFWf3CPDISS"
+      "ride_kurt_stew.2024.QoPaSiFR3PM",
+      "kim_ride_stew_kurt.2025.TaDtFWf3CPDISS",
+      "ride_uzal_wash_stew.2026.EoMLORtDBCSf3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -100316,6 +103640,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "stipanovic_irina": {
+    "prefix": "",
+    "lastName": "Stipanovic",
+    "firstName": "Irina",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "stohr_ben": {
     "prefix": "",
     "lastName": "Stöhr",
@@ -100335,6 +103670,17 @@ window.AUTHORS_DATA = {
       "stoi_krom.2021.PCMUttL"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "stoklasa_vojtech": {
+    "prefix": "",
+    "lastName": "Stoklasa",
+    "firstName": "Vojtěch",
+    "articles": [
+      "stok_bure_melt_cite.2026.3PGCTB"
+    ],
+    "orcid": "0009-0001-1443-7655",
     "affiliation": "",
     "ror": ""
   },
@@ -100359,7 +103705,7 @@ window.AUTHORS_DATA = {
       "must_stor_rust_plas.2024.CMfC3PBotC",
       "mech_taub_mull_butl.2024.IoSRiEB3CPoMCE",
       "will_stor_plas_taub.2024.LSMPwRMC",
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "0009-0007-2559-908X",
     "affiliation": "",
@@ -100423,7 +103769,8 @@ window.AUTHORS_DATA = {
       "scho_jeyi_stra_husk.2024.IoMSDfMVFDtPP",
       "scho_husk_koch_stra.2025.AFfCtRIoa3CM",
       "jeyi_scho_stra_husk.2025.ItIoMRoGAi3CPURTM",
-      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP"
+      "koch_scho_lore_mezh.2026.IBMoRPEiCBf3CP",
+      "koch_jeyi_scho_lore.2026.RTMo3PCSUEMMSA"
     ],
     "orcid": "0000-0003-2644-7284",
     "affiliation": "",
@@ -100453,7 +103800,8 @@ window.AUTHORS_DATA = {
       "stra_kran_gehl.2023.IWAAMiSPIfRCE",
       "krak_brie_stra_kran.2024.FHLCC",
       "schn_diet_rich_naji.2024.FADMaEAoaSCPBUST",
-      "stra_hayn_kran_gehl.2024.AMbtSPI"
+      "stra_hayn_kran_gehl.2024.AMbtSPI",
+      "stra_geri_kran_gehl.2026.SPIS"
     ],
     "orcid": "0000-0003-0293-3392",
     "affiliation": "",
@@ -100544,6 +103892,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "stysz_michal": {
+    "prefix": "",
+    "lastName": "Stysz",
+    "firstName": "Michal",
+    "articles": [
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "su_anshuang": {
     "prefix": "",
     "lastName": "Su",
@@ -100582,7 +103941,8 @@ window.AUTHORS_DATA = {
     "lastName": "Su",
     "firstName": "Huang",
     "articles": [
-      "su_lee_anto_jipa.2026.NVS"
+      "su_lee_anto_jipa.2026.NVS",
+      "come_su_wang_flat.2026.23CPwLCCB"
     ],
     "orcid": "0009-0001-3893-8016",
     "affiliation": "",
@@ -100692,6 +104052,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "su_zixian": {
+    "prefix": "",
+    "lastName": "Su",
+    "firstName": "Zixian",
+    "articles": [
+      "nasc_zahn_beli_su.2026.RC"
+    ],
+    "orcid": "0000-0001-8980-0714",
+    "affiliation": "",
+    "ror": ""
+  },
   "subasi_serkan": {
     "prefix": "",
     "lastName": "Subaşı",
@@ -100738,7 +104109,9 @@ window.AUTHORS_DATA = {
       "pari_raj_sing_subr.2025.D3PCbItIoAC",
       "subr_sing_maga_pari.2025.FOAo3CP",
       "subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO",
-      "subr_maga.2026.TBo3PCAwRaIIoSB"
+      "subr_maga.2026.TBo3PCAwRaIIoSB",
+      "redd_maha_kone_subr.2027.LCAoaME3PCB",
+      "pari_sing_bano_subr.2027.IfFaCSTiFRD3PA"
     ],
     "orcid": "0000-0002-5995-0911",
     "affiliation": "",
@@ -100750,6 +104123,17 @@ window.AUTHORS_DATA = {
     "firstName": "Kévin",
     "articles": [
       "subr_bres_garn_ambi.2018.IotMRLDfHHCb3P"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sucala_ion": {
+    "prefix": "",
+    "lastName": "Sucala",
+    "firstName": "Ion",
+    "articles": [
+      "nia_ghas_java_ghad.2026.EoMRoPaMPo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -100776,6 +104160,28 @@ window.AUTHORS_DATA = {
       "chau_joha_haag_sjol.2024.3PSaIfCPIiS"
     ],
     "orcid": "0000-0003-1358-2364",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sugiarta_jonathan": {
+    "prefix": "",
+    "lastName": "Sugiarta",
+    "firstName": "Jonathan",
+    "articles": [
+      "rady_sugi_faiz_joen.2026.EMGSf3CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sugimoto_ryoutarou": {
+    "prefix": "",
+    "lastName": "Sugimoto",
+    "firstName": "Ryoutarou",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -100806,6 +104212,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "suh_heongwon": {
+    "prefix": "",
+    "lastName": "Suh",
+    "firstName": "Heongwon",
+    "articles": [
+      "kim_han_bae_suh.2026.IBQPAoCM"
+    ],
+    "orcid": "0000-0001-9403-3214",
+    "affiliation": "",
+    "ror": ""
+  },
   "suhail_adeel": {
     "prefix": "",
     "lastName": "Suhail",
@@ -100814,6 +104231,17 @@ window.AUTHORS_DATA = {
       "osma_huma_khan_riya.2026.EEi3PH"
     ],
     "orcid": "0000-0003-4710-909X",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sui_shanglin": {
+    "prefix": "",
+    "lastName": "Sui",
+    "firstName": "Shanglin",
+    "articles": [
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -100877,7 +104305,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "suko_pank_maho_bant.2022.EoSMFaVMAoLDVaOToCMf3PA",
       "suko_maho_komk_pian.2023.PDoIPTfCM3PUaDM",
-      "suko_khom_maho_fuji.2024.PaSSoCMILVoMPFf3PA",
+      "suko_komk_maho_fuji.2024.PaSSoCMILVoMPFf3PA",
       "chum_suko_pian.2026.E3PCMwNCC",
       "chum_suko_sae_imja.2026.EoNCCoDaPPo3PCM"
     ],
@@ -100986,7 +104414,9 @@ window.AUTHORS_DATA = {
       "zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET",
       "zhao_huan_wang_zhan.2026.AIDLFfCBMSaQAo3PC",
       "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
-      "zhan_song_liu_schl.2027.AREiGS3PCFGSMtBP"
+      "zhan_song_liu_schl.2027.AREiGS3PCFGSMtBP",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "0000-0002-4211-0561",
     "affiliation": "",
@@ -101127,9 +104557,10 @@ window.AUTHORS_DATA = {
     "lastName": "Sun",
     "firstName": "Hao",
     "articles": [
-      "chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC"
+      "chen_sun_wang_zhan.2025.RBIPSaADSBo3PECC",
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-9257-986X",
     "affiliation": "",
     "ror": ""
   },
@@ -101169,8 +104600,10 @@ window.AUTHORS_DATA = {
       "zeng_jian_yan_sun.2025.3PoCCFRPRfCC",
       "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP",
       "sun_xie_zeng_zhug.2026.3PCwIPEFRPGR",
-      "sun_zhou_xia_zhen.2026.IBEfFGR3PCS",
-      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC"
+      "sun_zhou_xia_zeng.2026.IBEfFGR3PCS",
+      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC",
+      "sun_zeng_zhug.2026.BBo3PFGCPwSEFGR",
+      "ma_sun_xie_zhao.2026.EoCTotIBi3PAAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -101182,6 +104615,28 @@ window.AUTHORS_DATA = {
     "firstName": "Houchao",
     "articles": [
       "sun_li_shi.2023.ESoDMPo3PCBMUSTAHT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sun_houqi": {
+    "prefix": "",
+    "lastName": "Sun",
+    "firstName": "Houqi",
+    "articles": [
+      "wu_sun_zhou_zeng.2027.AISAfRCBU3PCwIPEFGR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "sun_huamin": {
+    "prefix": "",
+    "lastName": "Sun",
+    "firstName": "Huamin",
+    "articles": [
+      "teng_sun_khay_liu.2026.SEoVMAaPSoRPoCPwLWtBR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -101263,17 +104718,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "sun_jinhua": {
-    "prefix": "",
-    "lastName": "Sun",
-    "firstName": "Jinhua",
-    "articles": [
-      "liew_li_yin_sun.2024.SDaMDoLCCCUET"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "sun_junbo": {
     "prefix": "",
     "lastName": "Sun",
@@ -101311,7 +104755,8 @@ window.AUTHORS_DATA = {
       "sun_wang_zhan_liu.2024.SUoWit3PC",
       "he_hao_chen_wang.2026.HWaMR3PCMFbTAICaPE",
       "sun_wang_wang_zou.2026.EMPo3PCSMvMMaST",
-      "sun_ning_cui_wang.2026.EWAaMPo3PCCISwOPPaIG"
+      "sun_ning_cui_wang.2026.EWAaMPo3PCCISwOPPaIG",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
     ],
     "orcid": "0000-0002-0049-662X",
     "affiliation": "",
@@ -101362,21 +104807,21 @@ window.AUTHORS_DATA = {
       "lin_yan_sun_han.2024.ILCi3PC",
       "lin_yan_sun_tang.2025.EoWGPoPHaMo3PC",
       "xu_sun_sun_chen.2025.RRMbAICfISP",
-      "lin_yan_sun_han.2026.MMoCREi3PCIBLA"
+      "lin_yan_sun_han.2026.MMoCREi3PCIBLA",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
     ],
     "orcid": "0000-0002-3401-1395",
     "affiliation": "",
     "ror": ""
   },
-  "sun_poon": {
+  "sun_qinglei": {
     "prefix": "",
     "lastName": "Sun",
-    "firstName": "Poon",
+    "firstName": "Qinglei",
     "articles": [
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC"
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-3860-9749",
     "affiliation": "",
     "ror": ""
   },
@@ -101515,7 +104960,8 @@ window.AUTHORS_DATA = {
       "wang_lv_shen_albi.2026.IoCASaMotWaMBo3PC",
       "wang_wu_sun_xu.2026.CTaOOo3PCUDPSC",
       "wang_chen_liu_lin.2026.DFaAoaNLR3PCF",
-      "lin_wang_tian_sun.2026.CSi3PC"
+      "lin_wang_tian_sun.2026.CSi3PC",
+      "wu_wang_lin_sun.2027.DD3PaPMAoLSCS"
     ],
     "orcid": "0000-0003-0708-9565",
     "affiliation": "",
@@ -101564,7 +105010,9 @@ window.AUTHORS_DATA = {
       "sun_du_deng_qian.2026.EFAaTPo3PUHPSHCCbNCD",
       "du_sun_deng_qian.2026.BPoBI3PPLSCAS",
       "li_sun_zhan_chen.2026.BIBAEBTaPEDi3PSHCC",
-      "du_sun_qian.2026.BI3PS3SPLWfECP"
+      "du_sun_qian.2026.BI3PS3SPLWfECP",
+      "sun_du_qian.2027.AFSTTfISQCo3PFLFFPaHP",
+      "sun_du_qian.2026.UFAi3PFUPCCCEoNSFLaVF"
     ],
     "orcid": "0009-0009-4600-9012",
     "affiliation": "",
@@ -101664,7 +105112,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "luo_sun_mbab_du.2026.3PCSSwPKEPME",
       "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
-      "chen_lu_gao_chen.2026.PaMPo3PCWMRwMCF"
+      "chen_lu_gao_chen.2026.PaMPo3PCWMRwMCF",
+      "zong_sun_lyu_luo.2026.LC3PMUHP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -101689,7 +105138,8 @@ window.AUTHORS_DATA = {
       "sun_zhao_hou_li.2025.RCoCPbISPf3PA",
       "jin_jian_gan_sun.2025.EtPo3PWCMwA",
       "xu_sun_sun_chen.2025.RRMbAICfISP",
-      "jin_sun_chen_zhou.2026.PtPoCCi3P"
+      "jin_sun_chen_zhou.2026.PtPoCCi3P",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -101851,7 +105301,8 @@ window.AUTHORS_DATA = {
       "sure_venk_divi_kuma.2025.ULDoNGTEtRPaBo3PB",
       "trip_sure_nimb_moba.2026.SUHPCaCCfEaSTDPCS",
       "sure_ades_trip_neit.2026.OtRoDWTBaCiCMaIAi3P",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "sure_vola_trip_divi.2027.UoUDoGtEtMaMPo3PCM"
     ],
     "orcid": "0000-0001-5751-9514",
     "affiliation": "",
@@ -101948,6 +105399,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sutar_kalappa": {
+    "prefix": "",
+    "lastName": "Sutar",
+    "firstName": "Kalappa",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "suthar_deepak": {
     "prefix": "",
     "lastName": "Suthar",
@@ -101978,6 +105440,17 @@ window.AUTHORS_DATA = {
       "shak_neja_sutj_paul.2020.EoDVitPAoEGFoEB3PM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "suwarto_fardzanela": {
+    "prefix": "",
+    "lastName": "Suwarto",
+    "firstName": "Fardzanela",
+    "articles": [
+      "shol_suwa_fauz.2026.3PitCI"
+    ],
+    "orcid": "0000-0001-6343-2511",
     "affiliation": "",
     "ror": ""
   },
@@ -102017,6 +105490,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "sweet_fabio": {
+    "prefix": "",
+    "lastName": "Sweet",
+    "firstName": "Fabio",
+    "articles": [
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
+    ],
+    "orcid": "0000-0002-5209-2053",
+    "affiliation": "",
+    "ror": ""
+  },
   "swelim_wafaey": {
     "prefix": "",
     "lastName": "Swelim",
@@ -102034,7 +105518,8 @@ window.AUTHORS_DATA = {
     "lastName": "Syamsir",
     "firstName": "Agusril",
     "articles": [
-      "sala_muta_kais_syam.2023.DoUHPSFBMIGNPf3CPA"
+      "sala_muta_kais_syam.2023.DoUHPSFBMIGNPf3CPA",
+      "liu_syam_woen_khai.2026.ASfCaMPo3PCWS"
     ],
     "orcid": "0000-0002-5919-0588",
     "affiliation": "",
@@ -102203,7 +105688,9 @@ window.AUTHORS_DATA = {
     "lastName": "Ta",
     "firstName": "Duc",
     "articles": [
-      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS"
+      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS",
+      "ta_phun_dang_pham.2026.EoDSaHSoABSMfLS3CPF",
+      "ta_phun_pham_pham.2026.SDDSoaLS3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -102217,6 +105704,17 @@ window.AUTHORS_DATA = {
       "taba_klug_schm.2023.DECiSDMfP3CS"
     ],
     "orcid": "0009-0006-2864-4870",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tabansiz-goc_gulveren": {
+    "prefix": "",
+    "lastName": "Tabansiz-Goc",
+    "firstName": "Gulveren",
+    "articles": [
+      "taba_kaya_mard_mard.2026.IELfPFaCSo3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -102465,6 +105963,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "talakokula_visalakshi": {
+    "prefix": "",
+    "lastName": "Talakokula",
+    "firstName": "Visalakshi",
+    "articles": [
+      "mang_tang_jyos_tala.2026.FSPoLCCBAAMf3CP"
+    ],
+    "orcid": "0000-0002-1791-7830",
+    "affiliation": "",
+    "ror": ""
+  },
   "taleb_maria": {
     "prefix": "",
     "lastName": "Taleb",
@@ -102664,7 +106173,7 @@ window.AUTHORS_DATA = {
     "lastName": "Tan",
     "firstName": "Binglin",
     "articles": [
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS"
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -102776,7 +106285,6 @@ window.AUTHORS_DATA = {
       "weng_qian_he_li.2018.3PHPFRCCfLSP",
       "pand_tay_paul_tan.2018.CCaFPo3CP",
       "tay_ting_qian_pand.2019.TGEoBSo3PC",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "pand_moha_tay_tan.2019.BSi3PGM",
       "weng_lu_li_liu.2018.EMtPRPoFRCCf3P",
@@ -102846,11 +106354,14 @@ window.AUTHORS_DATA = {
       "paul_jhun_lee_chen.2026.Do3PCwCBaaNAS",
       "liu_li_deng_wang.2026.RBotCM",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS",
+      "chen_yang_tan_jian.2026.TLDDIoMUi3CPPUMSHO"
     ],
     "orcid": "0000-0002-3583-1723",
-    "affiliation": "Nanyang Technological University",
-    "ror": "02e7b5302"
+    "affiliation": "",
+    "ror": ""
   },
   "tan_shea": {
     "prefix": "",
@@ -102902,7 +106413,7 @@ window.AUTHORS_DATA = {
     "lastName": "Tan",
     "firstName": "Yanke",
     "articles": [
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM"
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -102983,7 +106494,8 @@ window.AUTHORS_DATA = {
       "tana_usui_koga_miya.2024.ESoTICU3CP",
       "tana_yosh_yama_kino.2025.NEoBo3PMBoTDMM",
       "yoko_okad_tana_mura.2026.WPBo3PM",
-      "tana_yosh_yama_kino.2026.BAf3CPIaNTDMM"
+      "tana_yosh_yama_kino.2026.BAf3CPIaNTDMM",
+      "mura_tana_kino_isak.2026.FVoRWUESF3CPFwPEoMaCC"
     ],
     "orcid": "0000-0002-6112-4571",
     "affiliation": "",
@@ -103011,7 +106523,8 @@ window.AUTHORS_DATA = {
       "seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL",
       "yeh_panu_tana_jong.2025.CEAo3PHMCB",
       "dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW",
-      "seep_tana_tang_jira.2026.IBSMfTDPM"
+      "seep_tana_tang_jira.2026.IBSMfTDPM",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "0000-0001-8596-5896",
     "affiliation": "",
@@ -103074,6 +106587,17 @@ window.AUTHORS_DATA = {
     "firstName": "Can",
     "articles": [
       "tang_zhou_mehm_rani.2025.AN3PNPsRGRCBCWS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tang_guoqing": {
+    "prefix": "",
+    "lastName": "Tang",
+    "firstName": "Guoqing",
+    "articles": [
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -103216,12 +106740,35 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "tang_yi": {
+    "prefix": "",
+    "lastName": "Tang",
+    "firstName": "Yi",
+    "articles": [
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "tang_yihong": {
     "prefix": "",
     "lastName": "Tang",
     "firstName": "Yihong",
     "articles": [
       "liu_huan_lam_yi.2026.ELBMfLECoM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tang_yu": {
+    "prefix": "",
+    "lastName": "Tang",
+    "firstName": "Yu",
+    "articles": [
+      "hima_tang_atae_snee.2027.M3CPaHFASS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -103323,7 +106870,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tangirala",
     "firstName": "Aniruddha",
     "articles": [
-      "gajj_gajj_tang_shre.2025.A3PiC"
+      "gajj_gajj_tang_shre.2025.A3PiC",
+      "mang_tang_jyos_tala.2026.FSPoLCCBAAMf3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -103339,7 +106887,8 @@ window.AUTHORS_DATA = {
       "dhan_tana_tang_jong.2024.UCo3PLBWwO",
       "seep_dhan_tana_tang.2025.EoPITotSPo3PBUFPBL",
       "dhan_tana_tang_seep.2025.IoOoPBBo3PRaUW",
-      "seep_tana_tang_jira.2026.IBSMfTDPM"
+      "seep_tana_tang_jira.2026.IBSMfTDPM",
+      "ream_tana_tang_jong.2026.SPo3PWwawIB"
     ],
     "orcid": "0000-0003-2117-327X",
     "affiliation": "",
@@ -103545,7 +107094,9 @@ window.AUTHORS_DATA = {
       "moha_tao_zhao_wu.2026.ACBo3PCUDDCL",
       "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
       "cui_liu_yao_cao.2026.RTMaQCoPCUaIYSN",
-      "tao_li_leem_muth.2026.APOPoMK3CP"
+      "tao_li_leem_muth.2026.APOPoMK3CP",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "yuan_zhan_tao.2026.P"
     ],
     "orcid": "0000-0002-7644-1318",
     "affiliation": "",
@@ -103567,7 +107118,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tao",
     "firstName": "Zhong",
     "articles": [
-      "pan_wang_yang_wang.2026.PaCSoAAFAGSSM"
+      "pan_wang_yang_wang.2026.PaCSoAAFAGSSM",
+      "pan_pan_song_wang.2026.3PaMAoHAC"
     ],
     "orcid": "0000-0003-2117-2162",
     "affiliation": "",
@@ -103731,6 +107283,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "tattien_nagaraj": {
+    "prefix": "",
+    "lastName": "Tattien",
+    "firstName": "Nagaraj",
+    "articles": [
+      "tatt_manj_suta_bira.2026.WV3PSCfLBWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "taubert_markus": {
     "prefix": "",
     "lastName": "Taubert",
@@ -103778,7 +107341,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tavares",
     "firstName": "Cesario",
     "articles": [
-      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE"
+      "tava_mort_taba_more.2026.SiOCCTMFfACCiSE",
+      "mort_tava_okec_more.2027.CRACCaS2C"
     ],
     "orcid": "0000-0003-0792-8496",
     "affiliation": "",
@@ -103793,6 +107357,17 @@ window.AUTHORS_DATA = {
       "ribe_rang_maia_tava.2026.AWAtMaIPf3CP"
     ],
     "orcid": "0000-0002-8111-6990",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tavassoti_pejoohan": {
+    "prefix": "",
+    "lastName": "Tavassoti",
+    "firstName": "Pejoohan",
+    "articles": [
+      "wang_tava_baaj_pola.2026.ATDATWAo3PCaIMDOwSCM"
+    ],
+    "orcid": "0000-0002-5118-4255",
     "affiliation": "",
     "ror": ""
   },
@@ -103875,7 +107450,9 @@ window.AUTHORS_DATA = {
       "tay_paul_lee_jhun.2026.3PCfCaMI",
       "paul_jhun_lee_chen.2026.Do3PCwCBaaNAS",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA",
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
     "orcid": "0000-0002-7369-2138",
     "affiliation": "",
@@ -103935,17 +107512,6 @@ window.AUTHORS_DATA = {
       "dubo_caba_tayo_carr.2024.3PEA"
     ],
     "orcid": "0009-0003-3243-4698",
-    "affiliation": "",
-    "ror": ""
-  },
-  "techathuvanun_chanon": {
-    "prefix": "",
-    "lastName": "Techathuvanun",
-    "firstName": "Chanon",
-    "articles": [
-      "burg_wang_chiu_tech.2021.MIFG"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -104051,8 +107617,7 @@ window.AUTHORS_DATA = {
     "lastName": "Tekinalp",
     "firstName": "Halil",
     "articles": [
-      "arms_kama_zhao_renc.2023.LCCEaCEoMfPCC",
-      "schw_bhan_lope_kore.2024.RLF3PPCFUfCPCC"
+      "arms_kama_zhao_renc.2023.LCCEaCEoMfPCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104134,7 +107699,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC",
       "teng_li_zhan_li.2023.BECR3CPtCMwR",
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "ye_zhua_teng_yu.2024.CEAo3CPwECC",
       "teng_ye_yu_li.2024.DoSHCCSaBMtEILaFPo3PC",
       "teng_zhan_li_weng.2024.FSoRPwaBECRS",
@@ -104147,7 +107712,10 @@ window.AUTHORS_DATA = {
       "teng_yang_yu_weng.2026.MM3CP",
       "xu_yu_teng_lin.2026.AoRTaICMi3PECC",
       "mech_muth_ivan_weng.2026.CPwTR",
-      "teng_ding_weng.2026.MPo3PC"
+      "teng_ding_weng.2026.MPo3PC",
+      "teng_yang_yu_weng.2026.AMM3CPwHRfSFSaDE",
+      "yang_teng_yu_weng.2026.NDaRTDoSMvNISi3PC",
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "0000-0003-4562-6480",
     "affiliation": "",
@@ -104159,6 +107727,17 @@ window.AUTHORS_DATA = {
     "firstName": "Huaijin",
     "articles": [
       "pan_teng_liao_jian.2022.EoSPAoMPo3PCBM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "teng_le": {
+    "prefix": "",
+    "lastName": "Teng",
+    "firstName": "Le",
+    "articles": [
+      "teng_sun_khay_liu.2026.SEoVMAaPSoRPoCPwLWtBR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104176,6 +107755,17 @@ window.AUTHORS_DATA = {
       "yu_teng_nah_chai.2025.3CPoTPMSfECCaS"
     ],
     "orcid": "0000-0001-6460-7109",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tennenini_camila": {
+    "prefix": "",
+    "lastName": "Tennenini",
+    "firstName": "Camila",
+    "articles": [
+      "nasc_zahn_beli_su.2026.RC"
+    ],
+    "orcid": "0009-0004-2663-3647",
     "affiliation": "",
     "ror": ""
   },
@@ -104212,7 +107802,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "deng_wang_li_wang.2026.APSBTDRSf3PC",
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0000-0002-7513-4279",
     "affiliation": "",
@@ -104299,24 +107890,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "teshiero_raymond": {
-    "prefix": "",
-    "lastName": "Teshiero",
-    "firstName": "Raymond",
-    "articles": [
-      "mirm_moon_tesh_noor.2026.VGRTMaACfDMiC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "tesiero_raymond": {
     "prefix": "",
     "lastName": "Tesiero",
     "firstName": "Raymond",
     "articles": [
       "mirm_moon_tesi_noor.2025.DDaQCi3PCEUHR3SaDLM",
-      "mirm_moon_tesi_noor.2026.CEoVaMRfDDDiCSAM"
+      "mirm_moon_tesi_noor.2026.CEoVaMRfDDDiCSAM",
+      "mirm_moon_tesi_noor.2026.VGRTMaACfDMiC3P"
+    ],
+    "orcid": "0000-0002-2697-4431",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tessema_israel": {
+    "prefix": "",
+    "lastName": "Tessema",
+    "firstName": "Israel",
+    "articles": [
+      "ajah_anga_tess_rega.2026.USEFCaaCRaRMi3PMCCHaPLA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104373,7 +107965,7 @@ window.AUTHORS_DATA = {
     "lastName": "Thach",
     "firstName": "Nguyen",
     "articles": [
-      "nguy_thac_le_anh.2024.ARoCPaAoMLo3PC"
+      "nguy_thac_le_ahn.2024.ARoCPaAoMLo3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104390,6 +107982,17 @@ window.AUTHORS_DATA = {
       "thaj_chal_bala.2025.PaSo3PC"
     ],
     "orcid": "0009-0004-2378-6066",
+    "affiliation": "",
+    "ror": ""
+  },
+  "thakur_bharati": {
+    "prefix": "",
+    "lastName": "Thakur",
+    "firstName": "Bharati",
+    "articles": [
+      "das_thak_guad_unlu.2026.RoCIoCTMi3PCUCCSE"
+    ],
+    "orcid": "0009-0003-4795-8654",
     "affiliation": "",
     "ror": ""
   },
@@ -104448,7 +108051,7 @@ window.AUTHORS_DATA = {
     "lastName": "Thang",
     "firstName": "Nguyen",
     "articles": [
-      "pham_thu_than.2026.Ao3PCiC"
+      "loan_nguy_than.2026.Ao3PCiC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104497,9 +108100,10 @@ window.AUTHORS_DATA = {
     "lastName": "Thiele",
     "firstName": "Heidi",
     "articles": [
-      "gons_morg_thie_olar.2025.3PoSIURSCCwBA"
+      "gons_morg_thie_olar.2025.3PoSIURSCCwBA",
+      "gons_jams_mill_bisc.2026.UtSLoFPBSf3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-5071-3437",
     "affiliation": "",
     "ror": ""
   },
@@ -104626,6 +108230,28 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "thomollari_xhensila": {
+    "prefix": "",
+    "lastName": "Thomollari",
+    "firstName": "Xhensila",
+    "articles": [
+      "kebi_thom_ivan.2026.IoGSf3PSB"
+    ],
+    "orcid": "0000-0002-8158-3126",
+    "affiliation": "",
+    "ror": ""
+  },
+  "thompson-towell_kiera": {
+    "prefix": "",
+    "lastName": "Thompson Towell",
+    "firstName": "Kiera",
+    "articles": [
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "thomsen_mette": {
     "prefix": "",
     "lastName": "Thomsen",
@@ -104650,6 +108276,17 @@ window.AUTHORS_DATA = {
       "loai_orti_gome_garc.2023.3PAtBDAtW"
     ],
     "orcid": "0000-0002-9404-0710",
+    "affiliation": "",
+    "ror": ""
+  },
+  "thor_carl": {
+    "prefix": "",
+    "lastName": "Thor",
+    "firstName": "Carl",
+    "articles": [
+      "meil_thor_jacq_moll.2026.SMMEAMoCM"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -104699,17 +108336,6 @@ window.AUTHORS_DATA = {
     "firstName": "Lars",
     "articles": [
       "thra_bras_bakk_bram.2014.CFD"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "thu_nguyen": {
-    "prefix": "",
-    "lastName": "Thu",
-    "firstName": "Nguyen",
-    "articles": [
-      "pham_thu_than.2026.Ao3PCiC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104776,7 +108402,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tian",
     "firstName": "Haozheng",
     "articles": [
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104859,17 +108486,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "tian_wei": {
-    "prefix": "",
-    "lastName": "Tian",
-    "firstName": "Wei",
-    "articles": [
-      "tian_han.2018.PC01oNAECDbFTCBoCSa3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "tian_xin": {
     "prefix": "",
     "lastName": "Tian",
@@ -104910,6 +108526,17 @@ window.AUTHORS_DATA = {
     "firstName": "Zehao",
     "articles": [
       "wang_tian_ma_zhan.2020.ILBIo3PCwPMM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tian_zhihui": {
+    "prefix": "",
+    "lastName": "Tian",
+    "firstName": "Zhihui",
+    "articles": [
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "",
     "affiliation": "",
@@ -104960,6 +108587,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "tighnavard-balasbaneh_ali": {
+    "prefix": "",
+    "lastName": "Tighnavard Balasbaneh",
+    "firstName": "Ali",
+    "articles": [
+      "tigh_sher.2026.EaEPo3PiC"
+    ],
+    "orcid": "0000-0002-7823-0477",
+    "affiliation": "",
+    "ror": ""
+  },
   "tihanyi_timea": {
     "prefix": "",
     "lastName": "Tihanyi",
@@ -104988,7 +108626,8 @@ window.AUTHORS_DATA = {
     "firstName": "Kim",
     "articles": [
       "timm_vill_zijl.2024.BT",
-      "timm_vill_zijl.2026.3CPitWH"
+      "timm_vill_zijl.2026.3CPitWH",
+      "timm_vill_zijl.2026.SDPDf3PCW"
     ],
     "orcid": "0009-0008-4370-1225",
     "affiliation": "",
@@ -105057,7 +108696,7 @@ window.AUTHORS_DATA = {
       "tino_mend_fern_cald.2022.LCAaESoCMf3CP",
       "tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS",
       "tino_mend_tole.2023.RBo3PBCPwRH",
-      "vale_tino_mend_tole.2024.Ra3PAoSFMfAA",
+      "vare_tino_mend_tole.2024.Ra3PAoSFMfAA",
       "vare_tino_mend_tole.2024.3PCBCRwSF",
       "tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA",
       "tino_marq_rama_barl.2025.FaHPoCFRMf3PiC",
@@ -105237,15 +108876,15 @@ window.AUTHORS_DATA = {
       "tino_gouv_cass_tole.2023.TUoRHPtAtRPo3PCCTWS",
       "tino_mend_tole.2023.RBo3PBCPwRH",
       "cava_tole_mend.2024.IoRCPoRoPCBM",
-      "cava_cast_tole_mend.2024.3PMwDRCPaF",
-      "vale_tino_mend_tole.2024.Ra3PAoSFMfAA",
+      "cava_fern_tole_mend.2024.3PMwDRCPaF",
+      "vare_tino_mend_tole.2024.Ra3PAoSFMfAA",
       "vare_tino_mend_tole.2024.3PCBCRwSF",
       "tino_cava_andr_arau.2025.MDSf3PBBCCURHPaMA",
       "cava_tole_mend.2025.RaEIoRCPaFiC3P",
       "tino_marq_rama_barl.2025.FaHPoCFRMf3PiC",
       "tino_tole_mend.2025.RHBAf3PiC",
       "tino_marq_rama_barl.2026.EoCMoRPaPo3PCBC",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
     ],
     "orcid": "0000-0001-5867-4452",
     "affiliation": "",
@@ -105256,7 +108895,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tolegenova",
     "firstName": "Aigerim",
     "articles": [
-      "skri_tole_rish_akma.2025.DaCDi3PC"
+      "skri_tole_rish_akma.2025.DaCDi3PC",
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
     ],
     "orcid": "0000-0003-1312-4101",
     "affiliation": "",
@@ -105326,17 +108966,6 @@ window.AUTHORS_DATA = {
       "pal_chou_toma_kuma.2026.IoIBCotLDBo3PB"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "tome_ana": {
-    "prefix": "",
-    "lastName": "Tomé",
-    "firstName": "Ana",
-    "articles": [
-      "tome_vizo_vale_juli.2018.IMfASGa3PoRSMoUTCS"
-    ],
-    "orcid": "0000-0002-9801-9791",
     "affiliation": "",
     "ror": ""
   },
@@ -105502,6 +109131,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "torre_sergio": {
+    "prefix": "",
+    "lastName": "Torre",
+    "firstName": "Sergio",
+    "articles": [
+      "mort_tava_okec_more.2027.CRACCaS2C"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "torres_pablo": {
     "prefix": "",
     "lastName": "Torres",
@@ -105552,7 +109192,8 @@ window.AUTHORS_DATA = {
       "herm_saav_hida_tosi.2025.IoFRAotPo3PC",
       "fede_sibe_tosi_ziel.2026.EASMo3PCM",
       "herm_tosi_etxe_fuen.2026.PRotIoRCAi3PM",
-      "koma_tosi_turm.2026.MCMaPoCC"
+      "koma_tosi_turm.2026.MCMaPoCC",
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU"
     ],
     "orcid": "0000-0003-0242-8804",
     "affiliation": "",
@@ -105577,17 +109218,6 @@ window.AUTHORS_DATA = {
       "toub_alar_habi_habi.2026.ACGFfIPQAf3CP"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "toufigh_vahab": {
-    "prefix": "",
-    "lastName": "Toufigh",
-    "firstName": "Vahab",
-    "articles": [
-      "khad_touf.2024.DDBUAfEtBSoCL"
-    ],
-    "orcid": "0000-0003-2462-980X",
     "affiliation": "",
     "ror": ""
   },
@@ -105716,7 +109346,7 @@ window.AUTHORS_DATA = {
       "li_lan_nguy_tran.2024.FiC3P",
       "li_khie_blac_nguy.2025.TS3PSFRSfCS",
       "liu_hai_tran_tran.2025.AMIi3PCMvXRMCT",
-      "li_liu_chen_xuan.2025.DaPo3PBSFRCCCB",
+      "li_liu_chen_nguy.2025.DaPo3PBSFRCCCB",
       "li_core_tran_fan.2025.3PCC",
       "ngo_li_huyn_zhan.2025.3PHC",
       "dao_chau_tran_tran.2026.BWBaCSi3PCvDCM",
@@ -105731,9 +109361,10 @@ window.AUTHORS_DATA = {
     "lastName": "Tran",
     "firstName": "Nhi",
     "articles": [
-      "tran_tran_tran_nguy.2024.EF3PCUSSA"
+      "tran_tran_tran_nguy.2024.EF3PCUSSA",
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4779-6865",
     "affiliation": "",
     "ror": ""
   },
@@ -105745,6 +109376,17 @@ window.AUTHORS_DATA = {
       "tran_ly_nguy_tran.2024.RPoWPf3PwSSAUBRaEA"
     ],
     "orcid": "0000-0002-4779-6865",
+    "affiliation": "",
+    "ror": ""
+  },
+  "tran_phuong": {
+    "prefix": "",
+    "lastName": "Tran",
+    "firstName": "Phuong",
+    "articles": [
+      "nguy_tran_nguy_phan.2026.DDFwAMfPRPaPo3PC"
+    ],
+    "orcid": "0000-0003-1747-5195",
     "affiliation": "",
     "ror": ""
   },
@@ -105778,6 +109420,17 @@ window.AUTHORS_DATA = {
       "tam_hien_luan_tran.2021.3CPM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "trauchessec_romain": {
+    "prefix": "",
+    "lastName": "Trauchessec",
+    "firstName": "Romain",
+    "articles": [
+      "duja_trau_bult_dili.2026.HaPoC3PIwaLEI"
+    ],
+    "orcid": "0000-0002-2890-324X",
     "affiliation": "",
     "ror": ""
   },
@@ -105879,8 +109532,8 @@ window.AUTHORS_DATA = {
     "lastName": "Trinh",
     "firstName": "Duy",
     "articles": [
-      "pham_trin_nguy_do.2023.SoFBoPCWBUPF",
-      "pham_trin_do_huan.2023.FBoPCWBwDFR"
+      "loan_trin_nguy_do.2023.SoFBoPCWBUPF",
+      "loan_trin_do_huan.2023.FBoPCWBwDFR"
     ],
     "orcid": "0009-0006-7575-1265",
     "affiliation": "",
@@ -105891,7 +109544,7 @@ window.AUTHORS_DATA = {
     "lastName": "Trinh",
     "firstName": "Thanh",
     "articles": [
-      "pham_nguy_trin_nguy.2022.Do3PfCS"
+      "loan_nguy_trin_nguy.2022.Do3PfCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -105915,7 +109568,8 @@ window.AUTHORS_DATA = {
       "trip_pate_moba_neit.2026.MoLMM3PCFM",
       "trip_nair_raja_sant.2026.DBBAo3PCaINS",
       "pate_trip_kira_sant.2026.RaGEoEASi3PC",
-      "sure_ades_trip_neit.2026.OtRoDWTBaCiCMaIAi3P"
+      "sure_ades_trip_neit.2026.OtRoDWTBaCiCMaIAi3P",
+      "sure_vola_trip_divi.2027.UoUDoGtEtMaMPo3PCM"
     ],
     "orcid": "0000-0003-4535-4104",
     "affiliation": "",
@@ -105960,9 +109614,9 @@ window.AUTHORS_DATA = {
     "firstName": "Matthew",
     "articles": [
       "troe_ramy_meeh_john.2022.A3PCAtMHAaF",
-      "ahme_rosa_goma_iriz.2024.RCoNMUHPCf3P",
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
-      "goma_iriz_ahme_rosa.2024.3PoUHPC",
+      "ahme_marr_goma_iriz.2024.RCoNMUHPCf3P",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
+      "goma_iriz_ahme_marr.2024.3PoUHPC",
       "ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM"
     ],
     "orcid": "0000-0002-3338-6013",
@@ -106047,7 +109701,8 @@ window.AUTHORS_DATA = {
       "hans_schm_holz_tapl.2020.AFoCEbR",
       "hans_holz_schm_tapl.2023.LRCS",
       "schm_gier_hans_trum.2024.FFPFb3CP",
-      "gier_hans_schm_trum.2025.DaCw3CP"
+      "gier_hans_schm_trum.2025.DaCw3CP",
+      "gier_schm_frey_trum.2026.SDaToaF3PCFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -106195,6 +109850,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "tsikaloudaki_katerina": {
+    "prefix": "",
+    "lastName": "Tsikaloudaki",
+    "firstName": "Katerina",
+    "articles": [
+      "ilia_chor_tsik_kata.2026.ECAi3PC"
+    ],
+    "orcid": "0000-0002-6668-0198",
+    "affiliation": "",
+    "ror": ""
+  },
   "tsikoliya_shota": {
     "prefix": "",
     "lastName": "Tsikoliya",
@@ -106233,7 +109899,8 @@ window.AUTHORS_DATA = {
     "lastName": "Tsiotou",
     "firstName": "Sofia",
     "articles": [
-      "dorr_tsio_lowk.2024.KtPoaCMfE3PWDSaItGS"
+      "dorr_tsio_lowk.2024.KtPoaCMfE3PWDSaItGS",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0003-3133-7848",
     "affiliation": "",
@@ -106459,7 +110126,7 @@ window.AUTHORS_DATA = {
     "firstName": "İbrahim",
     "articles": [
       "turk_ekin_kant_ekin.2026.FSCoGMf3P",
-      "turk_kant_ekin_alym.2026.HPo3PGM"
+      "turk_kant_ekin_alya.2026.HPo3PGM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -106585,12 +110252,24 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "uchiyama_motoki": {
+    "prefix": "",
+    "lastName": "Uchiyama",
+    "firstName": "Motoki",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "udawattha_chameera": {
     "prefix": "",
     "lastName": "Udawattha",
     "firstName": "Chameera",
     "articles": [
-      "silv_raja_udaw.2025.T3PfPH"
+      "silv_raja_udaw.2025.T3PfPH",
+      "prem_silv_mudu_maka.2026.AIDTo3CPiA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -106734,7 +110413,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "pan_ping_ding_zhu.2024.IBo3PFRCCB",
       "chen_lian_ye_liu.2025.MLEPBDoTDPECC",
-      "naya_naya_ukra.2026.OaPEo3PCIURCAfCW"
+      "naya_naya_ukra.2026.OaPEo3PCIURCAfCW",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN"
     ],
     "orcid": "0000-0003-4122-0547",
     "affiliation": "",
@@ -106880,7 +110560,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI",
       "ali_qian_umar_feng.2025.RMaSRPo3PERwSMAF",
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
       "ali_qian_umar_wang.2026.FPoETPRwSMAFFbEB3P",
       "qian_ali_umar_li.2026.MDOf3PERwSF"
     ],
@@ -106993,7 +110673,8 @@ window.AUTHORS_DATA = {
       "bayr_shab_seye_tunc.2024.SVoPMaTPo3PCAaFSW",
       "peng_unlu.2024.PaMDo3PMSMCMSM",
       "peng_unlu.2024.Do3PMSHCMIMaaSfSS",
-      "peng_unlu.2026.TaMBoMSPIRHAfEB3P"
+      "peng_unlu.2026.TaMBoMSPIRHAfEB3P",
+      "das_thak_guad_unlu.2026.RoCIoCTMi3PCUCCSE"
     ],
     "orcid": "0000-0001-5207-5993",
     "affiliation": "",
@@ -107015,9 +110696,13 @@ window.AUTHORS_DATA = {
     "lastName": "Unterreiner",
     "firstName": "Michael",
     "articles": [
-      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM"
+      "chen_grim_unte_hech.2026.PotTRi3PFGCTnNBAM",
+      "bos_chen_grim_unte.2026.FGTNNBAMT",
+      "chen_unte_grim_olab.2026.PAoa2MMfFG3",
+      "grim_unte_chen_bos.2026.TS3CP",
+      "unte_grim_chen_kran.2026.MTBPMfMMC3P"
     ],
-    "orcid": "",
+    "orcid": "0009-0003-2738-9677",
     "affiliation": "",
     "ror": ""
   },
@@ -107030,6 +110715,17 @@ window.AUTHORS_DATA = {
       "mish_upad_das.2025.3PAoFAaGABaTBCM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "upadhyaya_deep": {
+    "prefix": "",
+    "lastName": "Upadhyaya",
+    "firstName": "Deep",
+    "articles": [
+      "barv_upad_shah_ghaf.2026.EOpGf3PUDPRPMaS"
+    ],
+    "orcid": "0000-0002-4982-7688",
     "affiliation": "",
     "ror": ""
   },
@@ -107166,7 +110862,9 @@ window.AUTHORS_DATA = {
       "wang_li_qiu_chen.2025.EIoTPo3PCEStRH",
       "wang_dema_fale_jian.2026.FPoR3PCB",
       "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
-      "wang_jian_song_dema.2026.SKPSPfR3PCB"
+      "wang_jian_song_dema.2026.SKPSPfR3PCB",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC",
+      "wang_dema_jian_masu.2026.NTOaAMoSPR3PCT"
     ],
     "orcid": "0000-0003-2454-5737",
     "affiliation": "",
@@ -107257,6 +110955,29 @@ window.AUTHORS_DATA = {
     "articles": [
       "avsa_uysa_akca.2025.Io3PPoMDBbCCiHS",
       "avsa_uysa_akca.2026.TPoPMaRMBMUM3PM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "uzal_burak": {
+    "prefix": "",
+    "lastName": "Uzal",
+    "firstName": "Burak",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P",
+      "ride_uzal_wash_stew.2026.EoMLORtDBCSf3P"
+    ],
+    "orcid": "0000-0002-3810-7263",
+    "affiliation": "",
+    "ror": ""
+  },
+  "uzal_nigmet": {
+    "prefix": "",
+    "lastName": "Uzal",
+    "firstName": "Niğmet",
+    "articles": [
+      "kete_orkl_ilke_dura.2026.IoNMotPMPaEIoCHaMCCFAGMfEB3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -107356,6 +111077,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "vakaliuk_iurii": {
+    "prefix": "",
+    "lastName": "Vakaliuk",
+    "firstName": "Iurii",
+    "articles": [
+      "vaka_marx_chud.2026.TaCRCiDF"
+    ],
+    "orcid": "0000-0002-6305-1644",
+    "affiliation": "",
+    "ror": ""
+  },
   "vakhshouri_pouria": {
     "prefix": "",
     "lastName": "Vakhshouri",
@@ -107410,17 +111142,6 @@ window.AUTHORS_DATA = {
       "zizk_vale_vesp_meli.2026.LBSi3PC"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "valenca_jonatas": {
-    "prefix": "",
-    "lastName": "Valença",
-    "firstName": "Jónatas",
-    "articles": [
-      "tome_vizo_vale_juli.2018.IMfASGa3PoRSMoUTCS"
-    ],
-    "orcid": "0000-0003-0191-0308",
     "affiliation": "",
     "ror": ""
   },
@@ -107517,18 +111238,6 @@ window.AUTHORS_DATA = {
       "balk_vale_karm_lafh.2024.MaBfOaOC3P"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "valera_hugo": {
-    "prefix": "",
-    "lastName": "Valera",
-    "firstName": "Hugo",
-    "articles": [
-      "vale_tino_mend_tole.2024.Ra3PAoSFMfAA",
-      "vale_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
-    ],
-    "orcid": "0000-0001-8094-6071",
     "affiliation": "",
     "ror": ""
   },
@@ -107667,7 +111376,8 @@ window.AUTHORS_DATA = {
       "heev_ples_krug_zijl.2022.EtEoPotMPoEB3PC",
       "heev_ples_best_krug.2022.AMERMMtaMMGCSCMf3PC",
       "cho_heev_krug_zijl.2022.PoC",
-      "zijl_heev_cho.2023.SR3PC"
+      "zijl_heev_cho.2023.SR3PC",
+      "cho_heev_krug_oh.2026.DDf3PC"
     ],
     "orcid": "0000-0001-5980-2719",
     "affiliation": "",
@@ -107726,7 +111436,7 @@ window.AUTHORS_DATA = {
       "putt_vold_heed_depr.2022.TPo3PCMwPTGBSL",
       "putt_hoog_bruu_laag.2022.3S",
       "putt_smet_heed_schu.2022.IotPPotDoPCM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM"
     ],
     "orcid": "0000-0002-0701-0207",
     "affiliation": "",
@@ -107760,6 +111470,17 @@ window.AUTHORS_DATA = {
     "firstName": "Aant",
     "articles": [
       "mari_zee.2017.3CPiA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "van-mechelen_dirk": {
+    "prefix": "",
+    "lastName": "van Mechelen",
+    "firstName": "Dirk",
+    "articles": [
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -107884,7 +111605,7 @@ window.AUTHORS_DATA = {
       "liew_lope_mele_bloc.2017.DFaToaPTVUCF",
       "bhoo_mele_bloc.2018.EASDfCP",
       "ripp_liew_mele_bloc.2018.DFaToD3SPFP",
-      "bhoo_ladi_mele_bloc.2019.FRfR3PC",
+      "bhoo_mege_mele_bloc.2019.FRfR3PC",
       "bhoo_mele_bloc.2020.MS",
       "rana_mele_bloc.2021.ALCFCFS",
       "bhoo_bhoo_dell_chu.2022.TSB",
@@ -107894,7 +111615,8 @@ window.AUTHORS_DATA = {
       "bhoo_dell_rana_mele.2024.UCMfCC",
       "dell_bode_mele_bloc.2024.S20P",
       "bode_dell_alou_burg.2024.P3CPB",
-      "nana_dell_bhoo_zhou.2024.DCC"
+      "nana_dell_bhoo_zhou.2024.DCC",
+      "bhoo_lin_hanl_bhoo.2026.AIGS3SFf3CP"
     ],
     "orcid": "0000-0002-4614-1808",
     "affiliation": "",
@@ -107966,7 +111688,9 @@ window.AUTHORS_DATA = {
     "lastName": "Phung",
     "firstName": "Binh",
     "articles": [
-      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS"
+      "ta_pham_phun.2026.AIAGBFfMPDOoaLS3CPFiaDDS",
+      "ta_phun_dang_pham.2026.EoDSaHSoABSMfLS3CPF",
+      "ta_phun_pham_pham.2026.SDDSoaLS3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -108098,7 +111822,7 @@ window.AUTHORS_DATA = {
       "sael_titt_casp_wan.2025.EAotSBoHC3PCBS",
       "sael_titt_wan_casp.2025.EaNQotSCoH3PaCCBATO",
       "zhan_ren_titt_schu.2025.LIi3PCBM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "hamm_titt_wan_vore.2026.MSoTDEAB3PC",
       "sael_wan_casp_titt.2026.Ao3PCSaEfaWDOCaTCCM",
       "zhan_meer_kolo_titt.2026.ARCo3PCBMwETRP",
@@ -108106,11 +111830,15 @@ window.AUTHORS_DATA = {
       "parm_fall_ferr_rest.2026.PEIotMPoaLFCv3P",
       "lori_zhan_titt_matt.2026.ULC3PC",
       "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB",
-      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC"
+      "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
+      "fara_misi_ooms_titt.2026.SSIf3PCCCOUVIM",
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC",
+      "sael_wan_casp_titt.2026.FBToH3PCCIwDBIS",
+      "zhan_schu_titt.2026.PSo3PPCBMBaAE"
     ],
     "orcid": "0000-0002-7718-3189",
-    "affiliation": "Ghent University",
-    "ror": "00cv9y106"
+    "affiliation": "",
+    "ror": ""
   },
   "van_tran_mien": {
     "prefix": "van",
@@ -108230,11 +111958,14 @@ window.AUTHORS_DATA = {
       "ajay_zijl_baba.2026.MSB3POPGCwCCRPEA",
       "ajay_zijl_baba.2026.HSLPVTB3POPGC",
       "ditl_zijl_baba.2026.DaMPo3PCIRCaDW",
-      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3"
+      "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
+      "timm_vill_zijl.2026.SDPDf3PCW",
+      "ditl_baba_zijl.2026.MaDPo3wVCR",
+      "cho_heev_krug_oh.2026.DDf3PC"
     ],
     "orcid": "0000-0001-8066-7750",
-    "affiliation": "Stellenbosch University",
-    "ror": "05bk57929"
+    "affiliation": "",
+    "ror": ""
   },
   "vanags_andris": {
     "prefix": "",
@@ -108255,7 +111986,9 @@ window.AUTHORS_DATA = {
       "pier_ghab_dang_mesn.2024.MPMfEB3P",
       "pier_ghab_dang_mesn.2025.MMf3CP",
       "pier_ghab_dang_mesn.2025.MMo3CP",
-      "sepi_pier_bono_duco.2026.TWT"
+      "sepi_pier_bono_duco.2026.TWT",
+      "pier_ghab_dang_mesn.2026.AMMSf3CPSfDtHS",
+      "sepi_pier_bono_duco.2026.AILMfEoEASo3CP"
     ],
     "orcid": "0000-0001-6201-5468",
     "affiliation": "",
@@ -108339,22 +112072,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "varadharajan_tharanesh": {
-    "prefix": "",
-    "lastName": "Varadharajan",
-    "firstName": "Tharanesh",
-    "articles": [
-      "khan_vara_kell_meib.2024.B"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "varadharjan_tharanesh": {
     "prefix": "",
     "lastName": "Varadharjan",
     "firstName": "Tharanesh",
     "articles": [
+      "khan_vara_kell_meib.2024.B",
       "kamh_vara_khan_meib.2026.MR3PWBSoCS"
     ],
     "orcid": "0009-0008-6591-4862",
@@ -108393,13 +112116,26 @@ window.AUTHORS_DATA = {
       "vare_barl_sone.2023.RCo3PMwNCaBF",
       "vare_barl_perr.2023.NMMfNCT",
       "marq_rama_vare_barl.2024.3PAAoCLMwMPCM",
+      "vare_tino_mend_tole.2024.Ra3PAoSFMfAA",
       "vare_barl_sone.2024.EoBFaNCtEEaBo3PM",
       "vare_tino_mend_tole.2024.3PCBCRwSF",
       "marq_vare_barl.2024.RaEAEo3PCLFPwNCaM",
       "marq_vare_barl.2025.IoRMAotBo3PCBM",
-      "gome_vare_barl.2026.EoCPTaaRQCFOTf3PCBS"
+      "gome_vare_barl.2026.EoCPTaaRQCFOTf3PCBS",
+      "vare_cava_lope_mend.2026.EoBBCoRaPoLCB3PM"
     ],
     "orcid": "0000-0001-8094-6071",
+    "affiliation": "",
+    "ror": ""
+  },
+  "varezic_vita": {
+    "prefix": "",
+    "lastName": "Varezić",
+    "firstName": "Vita",
+    "articles": [
+      "vare_gali_step_andr.2026.TORAFfS3PCC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -108439,7 +112175,8 @@ window.AUTHORS_DATA = {
       "varg_sjol_west_silf.2024.ITOo3PCS",
       "varg_derv.2024.ENTi3E",
       "varg_west_bres_silf.2025.DoPSi3CPUPPP",
-      "varg_bres_silf.2025.CHF"
+      "varg_bres_silf.2025.CHF",
+      "varg_bres.2026.FG3PCF"
     ],
     "orcid": "0000-0002-0641-0567",
     "affiliation": "",
@@ -108495,7 +112232,8 @@ window.AUTHORS_DATA = {
       "sang_spac_cama_risi.2026.SPo3PB",
       "fahf_leal_ferr_cobo.2026.FREB3P",
       "fahf_pire_varu_crav.2026.HSoEBFf3P",
-      "fahf_pess_buso_bart.2027.FRECfSAMiC"
+      "fahf_pess_buso_bart.2027.FRECfSAMiC",
+      "fahf_pess_bart_ferr.2026.ASFfEB3PwLSS"
     ],
     "orcid": "0000-0003-0215-8701",
     "affiliation": "",
@@ -108533,7 +112271,8 @@ window.AUTHORS_DATA = {
       "chad_vase_kang_aejm.2024.IPS",
       "assu_chad_vase_brum.2024.CoPPiEIoLCMMbAM",
       "vase_chad_kang_leun.2024.IP",
-      "chad_vase_gram_kohl.2025.ART"
+      "chad_vase_gram_kohl.2025.ART",
+      "chad_spin_vase_malc.2027.ISIPwaALE"
     ],
     "orcid": "0000-0002-0339-3001",
     "affiliation": "",
@@ -108611,18 +112350,6 @@ window.AUTHORS_DATA = {
       "pfei_dorn_hirs_ehm.2020.AAaWfAFwC"
     ],
     "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "vassiliou_michalis": {
-    "prefix": "",
-    "lastName": "Vassiliou",
-    "firstName": "Michalis",
-    "articles": [
-      "giud_wrob_kats_lein.2022.PMoRCaa14SUAMRC",
-      "giud_kats_liu_sarh.2024.PMoUMWUaSB3P"
-    ],
-    "orcid": "0000-0002-4590-2126",
     "affiliation": "",
     "ror": ""
   },
@@ -108731,6 +112458,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "velarde_angelo": {
+    "prefix": "",
+    "lastName": "Velarde",
+    "firstName": "Angelo",
+    "articles": [
+      "roja_kamt_dura_vela.2026.MCo3PEaCMUES"
+    ],
+    "orcid": "0000-0003-4879-9918",
+    "affiliation": "",
+    "ror": ""
+  },
   "velarde_joaquin": {
     "prefix": "",
     "lastName": "Velarde",
@@ -108799,6 +112537,17 @@ window.AUTHORS_DATA = {
       "subr_maga_kama_ghan.2025.DaDoaFE3PCBDbFO"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "venigalla_krishna": {
+    "prefix": "",
+    "lastName": "Venigalla",
+    "firstName": "Krishna",
+    "articles": [
+      "kalf_veni_drag_wehr.2026.UCWiAMACfCC"
+    ],
+    "orcid": "0009-0008-6998-3136",
     "affiliation": "",
     "ror": ""
   },
@@ -108927,7 +112676,8 @@ window.AUTHORS_DATA = {
       "nist_kova_tepp_blan.2022.CBPMfPBAMiC",
       "kova_nist_verl_blan.2022.ZWPoLCSwWSSF",
       "kova_nist_verl_blan.2026.3PRSF",
-      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC"
+      "tsyh_neth_nist_funa.2026.AMoBPSUSBaAPBC",
+      "blan_kova_neth_shah.2026.SMS"
     ],
     "orcid": "0000-0002-2548-6620",
     "affiliation": "",
@@ -109247,7 +112997,9 @@ window.AUTHORS_DATA = {
       "radl_pfle_sieh_vill.2025.CDaPoa3PCBBwEoITP",
       "pfle_radl_sam_vill.2025.3CPoTWLBRS",
       "pein_pfle_radl_vill.2026.SSTaFMoPIGSRi3PC",
-      "rehi_pfle_radl_vill.2026.NSoRAMCT"
+      "rehi_pfle_radl_vill.2026.NSoRAMCT",
+      "pein_quir_pfle_radl.2026.EaNIoFOSSi3PCB",
+      "radl_pfle_pein_vill.2026.IPSCoFSU3CPPFE"
     ],
     "orcid": "0009-0007-2608-2576",
     "affiliation": "",
@@ -109399,14 +113151,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "vizotto_isaias": {
+  "vivier_baptiste": {
     "prefix": "",
-    "lastName": "Vizotto",
-    "firstName": "Isaías",
+    "lastName": "Vivier",
+    "firstName": "Baptiste",
     "articles": [
-      "tome_vizo_vale_juli.2018.IMfASGa3PoRSMoUTCS"
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
-    "orcid": "0000-0001-9941-653X",
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -109500,6 +113252,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "volaity_sayee": {
+    "prefix": "",
+    "lastName": "Volaity",
+    "firstName": "Sayee",
+    "articles": [
+      "sure_vola_trip_divi.2027.UoUDoGtEtMaMPo3PCM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "volkmer_dirk": {
     "prefix": "",
     "lastName": "Volkmer",
@@ -109523,7 +113286,8 @@ window.AUTHORS_DATA = {
     "lastName": "Vollmert",
     "firstName": "Jasper",
     "articles": [
-      "voll_pera_alat_chme.2025.TSHMoCPS"
+      "voll_pera_alat_chme.2025.TSHMoCPS",
+      "gro_voll.2026.CVBISQoPMf3CE"
     ],
     "orcid": "0009-0001-6245-912X",
     "affiliation": "",
@@ -109539,6 +113303,17 @@ window.AUTHORS_DATA = {
       "krup_kalt_voll_mats.2023.DoaAABftEP"
     ],
     "orcid": "0000-0002-9950-5046",
+    "affiliation": "",
+    "ror": ""
+  },
+  "vollrath_jana": {
+    "prefix": "",
+    "lastName": "Vollrath",
+    "firstName": "Jana",
+    "articles": [
+      "voll_hack_klof_dorf.2026.LSDfAMiC"
+    ],
+    "orcid": "0009-0006-4870-6485",
     "affiliation": "",
     "ror": ""
   },
@@ -109757,6 +113532,7 @@ window.AUTHORS_DATA = {
     "lastName": "Vuong",
     "firstName": "Quoc",
     "articles": [
+      "vuon_lim_nam_lu.2024.AFSRf3",
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
       "tay_quah_lim_vuon.2026.IoOFaIDoBSaFPo3PTC"
     ],
@@ -109770,8 +113546,8 @@ window.AUTHORS_DATA = {
     "firstName": "Dmitry",
     "articles": [
       "vyso_mads_land.2025.AESoCaSVo3PCM",
-      "bara_land_vyso.2026.OaCRt3PC",
       "bara_land_vyso.2026.OaCRt3PCb",
+      "bara_land_vyso.2026.OaCRt3PC",
       "bara_mads_land_vyso.2026.DAo3PCUFaT"
     ],
     "orcid": "0000-0002-0453-0012",
@@ -110045,9 +113821,22 @@ window.AUTHORS_DATA = {
       "alzo_muci_ferr_cibe.2026.NMoIAi3PCwL",
       "hamm_titt_wan_vore.2026.MSoTDEAB3PC",
       "sael_wan_casp_titt.2026.Ao3PCSaEfaWDOCaTCCM",
-      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB"
+      "sael_vera_titt_casp.2026.EIoPIAACiH3PCCB",
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC",
+      "sael_wan_casp_titt.2026.FBToH3PCCIwDBIS"
     ],
     "orcid": "0000-0003-3616-5694",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wan_baolin": {
+    "prefix": "",
+    "lastName": "Wan",
+    "firstName": "Baolin",
+    "articles": [
+      "zhan_wan.2026.GBDLfCBo3PCCAL"
+    ],
+    "orcid": "0000-0002-0583-3269",
     "affiliation": "",
     "ror": ""
   },
@@ -110097,7 +113886,8 @@ window.AUTHORS_DATA = {
       "wang_ye_wan_li.2023.I3CP",
       "wang_lin_wan_li.2024.MAIoCPbHASMBotTDCoCM",
       "guan_wang_wan_ma.2025.MaSFPo1SRASMb3PCaPF",
-      "wan_wang_huan_wu.2025.SOBoIAf3CP"
+      "wan_wang_huan_wu.2025.SOBoIAf3CP",
+      "wan_xu_zhan_bai.2026.FStS"
     ],
     "orcid": "0000-0003-1300-7693",
     "affiliation": "",
@@ -110195,7 +113985,8 @@ window.AUTHORS_DATA = {
       "wang_yao_yang_zhan.2022.MPo3PCiSCC",
       "yao_lyu_sun_wang.2023.ABPPf3PCCAaSCC",
       "yang_li_liu_huo.2024.EtPfCCaRo3PCB",
-      "wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA"
+      "wang_yang_liu_liu.2024.RoMPoa3CPCOPbMMA",
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110207,17 +113998,6 @@ window.AUTHORS_DATA = {
     "firstName": "Bowen",
     "articles": [
       "zhao_huan_wang_zhan.2026.AIDLFfCBMSaQAo3PC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "wang_boxin": {
-    "prefix": "",
-    "lastName": "Wang",
-    "firstName": "Boxin",
-    "articles": [
-      "zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110261,7 +114041,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Changhao",
     "articles": [
-      "xiao_he_yu_wang.2025.EoPCMotPoM"
+      "xiao_he_yu_wang.2025.EoPCMotPoM",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
     ],
     "orcid": "0009-0008-7793-5927",
     "affiliation": "",
@@ -110272,9 +114053,10 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Changqing",
     "articles": [
-      "wang_du_zhan_ma.2024.Et3MCaSSMMoFRRAC",
       "wang_lu.2026.CCRDEi3PFRRCCRbIS4C",
-      "wang_zhao_ma.2026.PAMDDo3PRMIRFP"
+      "wang_zhao_ma.2026.PAMDDo3PRMIRFP",
+      "wang_lv.2026.RPAoRPM3PM",
+      "wang_lv_ma.2026.RDIRaCLi3PRMwRFP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110310,7 +114092,8 @@ window.AUTHORS_DATA = {
     "firstName": "Chaofeng",
     "articles": [
       "gao_wang_li_chu.2024.DDRMf3PC",
-      "gao_niu_wang.2025.LHP"
+      "gao_niu_wang.2025.LHP",
+      "niu_wang_chun_soga.2027.CHCoCSb3P"
     ],
     "orcid": "0000-0001-8534-9276",
     "affiliation": "",
@@ -110383,6 +114166,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wang_chunyuan": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Chunyuan",
+    "articles": [
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wang_dafu": {
     "prefix": "",
     "lastName": "Wang",
@@ -110391,7 +114185,8 @@ window.AUTHORS_DATA = {
       "chen_zhan_pang_wang.2022.SFODaEo3PCwCA",
       "chen_zhan_zhan_zhan.2023.3PCwCA",
       "chen_zhan_zhan_pang.2023.IoGoEB3PCwCA",
-      "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S"
+      "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S",
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110709,7 +114504,8 @@ window.AUTHORS_DATA = {
       "wang_lv_shen_albi.2026.IoCASaMotWaMBo3PC",
       "wang_wu_sun_xu.2026.CTaOOo3PCUDPSC",
       "wang_chen_liu_lin.2026.DFaAoaNLR3PCF",
-      "lin_wang_tian_sun.2026.CSi3PC"
+      "lin_wang_tian_sun.2026.CSi3PC",
+      "wu_wang_lin_sun.2027.DD3PaPMAoLSCS"
     ],
     "orcid": "0000-0002-6107-5095",
     "affiliation": "",
@@ -110757,7 +114553,7 @@ window.AUTHORS_DATA = {
       "wang_jian_hang_zhou.2023.RotMPaFRoAS3PM",
       "liu_wang_yin_li.2026.DMaMPoC3PISIbOP",
       "lu_ma_fu_li.2026.L3PCCwHGMaPF",
-      "ying_qiao_wang_pham.2026.MSPSaMAoPFR3PSSSSC"
+      "ying_qiao_wang_loan.2026.MSPSaMAoPFR3PSSSSC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110772,6 +114568,17 @@ window.AUTHORS_DATA = {
       "shao_liu_liu_wang.2024.ANStE3PoCBM"
     ],
     "orcid": "0000-0002-1123-5636",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wang_haoming": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Haoming",
+    "articles": [
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
+    ],
+    "orcid": "0009-0006-8627-699X",
     "affiliation": "",
     "ror": ""
   },
@@ -110807,17 +114614,6 @@ window.AUTHORS_DATA = {
     "articles": [
       "li_xing_sun_feng.2024.TNMfAHTi3PCGS",
       "li_xing_wang_sun.2024.TEoHGoSSHTiEB3PS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "wang_hongquan": {
-    "prefix": "",
-    "lastName": "Wang",
-    "firstName": "Hongquan",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110872,6 +114668,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wang_j": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "J.",
+    "articles": [
+      "chen_ng_jian_wang.2026.SFSoRf3PCwSZ"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wang_jiaao": {
     "prefix": "",
     "lastName": "Wang",
@@ -110913,6 +114720,17 @@ window.AUTHORS_DATA = {
     "firstName": "Jialiang",
     "articles": [
       "zhan_wang_dong_yu.2019.ARotCPaAo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wang_jianchao": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Jianchao",
+    "articles": [
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
     ],
     "orcid": "",
     "affiliation": "",
@@ -110981,7 +114799,8 @@ window.AUTHORS_DATA = {
     "firstName": "Jingquan",
     "articles": [
       "yao_bu_yu_shao.2024.FBoTR3PCUQSaDIL",
-      "yao_zhan_sun_pi.2024.MPaFMo3PUHPC"
+      "yao_zhan_sun_pi.2024.MPaFMo3PUHPC",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "",
     "affiliation": "",
@@ -111116,7 +114935,9 @@ window.AUTHORS_DATA = {
       "wang_ye_sun_zhan.2025.Io3PFCaOfESD",
       "wang_dema_fale_jian.2026.FPoR3PCB",
       "wang_dema_kai_lai.2026.IRoN3PCCBUDWL",
-      "wang_jian_song_dema.2026.SKPSPfR3PCB"
+      "wang_jian_song_dema.2026.SKPSPfR3PCB",
+      "wang_dema_lai_huan.2026.RaDDCaTBo3PPFC",
+      "wang_dema_jian_masu.2026.NTOaAMoSPR3PCT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -111139,7 +114960,20 @@ window.AUTHORS_DATA = {
     "firstName": "Kai",
     "articles": [
       "zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET",
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wang_kejie": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Kejie",
+    "articles": [
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -111323,7 +115157,10 @@ window.AUTHORS_DATA = {
       "tao_wang_rahu_godi.2026.ACAoSMfTP3CPUXRCaC",
       "lin_xu_zhan_bai.2026.ISTPCSfVC3P",
       "liu_song_guo_wang.2026.EULTFTRfSB3PCTPCA",
-      "dey_wang_pand.2026.3PCwRM"
+      "dey_wang_pand.2026.3PCwRM",
+      "pan_pan_song_wang.2026.3PaMAoHAC",
+      "lin_wang.2026.TRISPfDRo3PC",
+      "wan_xu_zhan_bai.2026.FStS"
     ],
     "orcid": "0000-0003-1286-4407",
     "affiliation": "",
@@ -111347,7 +115184,7 @@ window.AUTHORS_DATA = {
     "firstName": "Liang",
     "articles": [
       "chen_jin_sun_wang.2023.SotDo3PCSCBMRtRC",
-      "li_li_skib_wang.2023.MQCwNLFMi3CP",
+      "liu_li_skib_wang.2023.MQCwNLFMi3CP",
       "xion_nie_liu_li.2024.OoFRLRCMDf3P",
       "chen_xu_yuan_zhao.2024.UoCaRPtAtPoFR3PWPCC",
       "xion_nie_liu_li.2024.EaOoMCCM3PRCC",
@@ -111409,9 +115246,11 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Ling",
     "articles": [
-      "zhen_wang_wang_zeng.2026.IPaMIo3PCvMRV"
+      "zhen_wang_wang_zeng.2026.IPaMIo3PCvMRV",
+      "li_wang_wang.2026.BSMoLRi3PC",
+      "li_wang_wang.2026.DVMfEB3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-6237-6025",
     "affiliation": "",
     "ror": ""
   },
@@ -111447,7 +115286,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Longsheng",
     "articles": [
-      "wang_huan_nguy_kara.2026.IIAo3PCbFI"
+      "wang_huan_nguy_kara.2026.IIAo3PCbFI",
+      "wang_huan_nguy_kara.2026.EoIBSUIFaCoTPPB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -111470,7 +115310,8 @@ window.AUTHORS_DATA = {
     "firstName": "Mingqiang",
     "articles": [
       "ding_li_wang.2025.SoMPoCBF3PCBo3MS",
-      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC"
+      "ding_li_wang.2026.MPaLCCRBo3PPFCFwLMC",
+      "ding_li_wang_lyu.2026.MFMaSPo3PCRW"
     ],
     "orcid": "0009-0006-0037-9243",
     "affiliation": "",
@@ -111805,9 +115646,10 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Shaowei",
     "articles": [
-      "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF"
+      "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-3499-3541",
     "affiliation": "",
     "ror": ""
   },
@@ -111856,7 +115698,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Shenglin",
     "articles": [
-      "chen_wang_li_yang.2026.RPaMftCoLEoEB3PC"
+      "chen_wang_li_yang.2026.RPaMftCoLEoEB3PC",
+      "wang_tava_baaj_pola.2026.ATDATWAo3PCaIMDOwSCM"
     ],
     "orcid": "0000-0002-7188-7521",
     "affiliation": "",
@@ -111908,7 +115751,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wang",
     "firstName": "Shuai",
     "articles": [
-      "pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG"
+      "pei_zhon_wang_zhan.2025.IBSPaCMo3wDFAG",
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -111969,7 +115813,8 @@ window.AUTHORS_DATA = {
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
       "liu_li_deng_wang.2026.RBotCM",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0000-0002-9966-9630",
     "affiliation": "",
@@ -112093,7 +115938,8 @@ window.AUTHORS_DATA = {
       "dong_jia_jia_rao.2024.MFAi3PUHPCBoST",
       "xia_chen_zhan_wang.2025.ISCNSRABTfMPSi3PC",
       "dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT",
-      "lu_yue_wang_zhan.2026.IoPaBRotLCAaTEAoSWB3PG"
+      "lu_yue_wang_zhan.2026.IoPaBRotLCAaTEAoSWB3PG",
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -112273,7 +116119,8 @@ window.AUTHORS_DATA = {
       "sun_wang_wang_zou.2026.EMPo3PCSMvMMaST",
       "sun_ning_cui_wang.2026.EWAaMPo3PCCISwOPPaIG",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0000-0003-0705-483X",
     "affiliation": "",
@@ -112321,7 +116168,8 @@ window.AUTHORS_DATA = {
     "firstName": "Xiaolong",
     "articles": [
       "li_li_yan_wang.2026.MBaUSMftIB3PPFaCC",
-      "fan_zhis_kong_wang.2026.LDFOQaMSPo3PaMCFRM"
+      "fan_zhis_kong_wang.2026.LDFOQaMSPo3PaMCFRM",
+      "wang_leng_lian_zhou.2026.MPPRi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -112413,6 +116261,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wang_xigang": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Xigang",
+    "articles": [
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wang_xin": {
     "prefix": "",
     "lastName": "Wang",
@@ -112467,6 +116326,18 @@ window.AUTHORS_DATA = {
       "wang_nait_fox_bocc.2024.IoMPoPB3PCP"
     ],
     "orcid": "0000-0002-6201-9239",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wang_xingyu": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Xingyu",
+    "articles": [
+      "yuan_wang_han_feng.2026.EoLHoCSRaUAo3PC",
+      "chao_feng_han_wang.2026.STHHRo3PERM"
+    ],
+    "orcid": "0009-0004-9601-5836",
     "affiliation": "",
     "ror": ""
   },
@@ -112569,7 +116440,8 @@ window.AUTHORS_DATA = {
       "lyu_wang_dai.2024.MPGCMbAB3CP",
       "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF",
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
-      "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO"
+      "mbab_wang_luo_gao.2026.SaFPo3PLTFCwDCGaFO",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -112655,7 +116527,10 @@ window.AUTHORS_DATA = {
       "wang_ren_yan_ao.2024.BMAaODo3CPH",
       "wang_yan_yang_ao.2025.EoWSotECo3PoCM",
       "yang_yuan_wang_yang.2025.Oo3PNSatIoPPotFPoUC",
-      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P"
+      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P",
+      "wang_xue_lin_yang.2026.DaEIoa3PNfRHCBoFE",
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP",
+      "wang_xue_yang_lin.2026.PaDo3PBFRCiFaSME"
     ],
     "orcid": "0000-0002-4556-3005",
     "affiliation": "",
@@ -112683,7 +116558,8 @@ window.AUTHORS_DATA = {
     "firstName": "Yilin",
     "articles": [
       "sun_zhan_zhou_wang.2024.EAo3PCaaTPDF",
-      "wang_qu_wang_xu.2026.EoCSSPotRPaPo3PCC"
+      "wang_qu_wang_xu.2026.EoCSSPotRPaPo3PCC",
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC"
     ],
     "orcid": "0000-0002-3436-0886",
     "affiliation": "",
@@ -112774,7 +116650,8 @@ window.AUTHORS_DATA = {
       "pan_teng_liao_jian.2022.EoSPAoMPo3PCBM",
       "rodr_lope_wang_olek.2022.EoDo3PCMfPAiSEtME",
       "wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM",
-      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC"
+      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC",
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
     ],
     "orcid": "0000-0001-5685-6316",
     "affiliation": "",
@@ -112878,6 +116755,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wang_yunzhe": {
+    "prefix": "",
+    "lastName": "Wang",
+    "firstName": "Yunzhe",
+    "articles": [
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wang_yuting": {
     "prefix": "",
     "lastName": "Wang",
@@ -112942,8 +116830,10 @@ window.AUTHORS_DATA = {
       "wolf_vers_sant_bhat.2025.FaTS",
       "yang_xu_fang_li.2025.MIiMCCbSiEB3PC3",
       "yang_xu_you_li.2025.SSEITi3PC",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
-      "zhen_wang_wang_zeng.2026.IPaMIo3PCvMRV"
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
+      "zhen_wang_wang_zeng.2026.IPaMIo3PCvMRV",
+      "li_wang_wang.2026.BSMoLRi3PC",
+      "li_wang_wang.2026.DVMfEB3CP"
     ],
     "orcid": "0000-0003-2593-6641",
     "affiliation": "",
@@ -113206,7 +117096,6 @@ window.AUTHORS_DATA = {
       "szab_reit_llor_wang.2020.A",
       "anto_beda_yoo_dill.2020.CC",
       "anto_reit_wang_fran.2021.A3CPPPfBC",
-      "burg_wang_chiu_tech.2021.MIFG",
       "busw_bos_silv_hack.2022.DFwCBM",
       "mech_fata_bos_busw.2022.DFwCBM",
       "wang_flat_rous_perr.2022.PCBM",
@@ -113231,15 +117120,19 @@ window.AUTHORS_DATA = {
       "titt_moha_savi_keit.2024.OtMaMSaDo3PCE",
       "gure_chen_wang_llor.2024.SuiDCoC",
       "gure_wang_garg_flat.2024.RTDEMfILMPiDC",
-      "lima_wang_sanc_anto.2024.Do3PC",
       "mahm_wang_flat.2024.RoDC",
+      "nasc_wang_agui_anto.2024.Do3PC",
       "tao_titt_rahu_wang.2024.SMfSoDoDC",
       "wang_pata_flat.2024.SDC",
       "tao_wang_wang_lesa.2025.APr",
       "tao_yuan_zhan_wang.2025.PSAoPUVT",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "monk_wang_jamh_busw.2026.ADDR",
-      "tao_li_leem_muth.2026.APOPoMK3CP"
+      "tao_li_leem_muth.2026.APOPoMK3CP",
+      "mahm_bess_wang_khay.2026.V",
+      "nasc_zahn_beli_su.2026.RC",
+      "come_su_wang_flat.2026.23CPwLCCB",
+      "mahm_bisc_wang_bick.2026.ADTDfCPEDaT"
     ],
     "orcid": "0000-0003-2839-6433",
     "affiliation": "",
@@ -113253,6 +117146,17 @@ window.AUTHORS_DATA = {
       "kand_remk_rang_wani.2025.DaFoTUSSFf3P"
     ],
     "orcid": "0009-0002-0170-2904",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wani_suhaib": {
+    "prefix": "",
+    "lastName": "Wani",
+    "firstName": "Suhaib",
+    "articles": [
+      "wani_alha_pang.2026.EAIfEEDoTDPFRCTILCA"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -113332,7 +117236,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "kete_falz_wang_wash.2019.APIfLSRttGAo3PC",
       "bard_cupk_wash_zegl.2019.TIRT",
-      "bard_cupk_wash_zegl.2018.RCSF"
+      "bard_cupk_wash_zegl.2018.RCSF",
+      "ride_uzal_wash_stew.2026.EoMLORtDBCSf3P"
     ],
     "orcid": "0000-0001-7843-8860",
     "affiliation": "",
@@ -113477,6 +117382,17 @@ window.AUTHORS_DATA = {
       "hitz_broh_herd_pfen.2024.SoCBS"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wehry_hugo": {
+    "prefix": "",
+    "lastName": "Wehry",
+    "firstName": "Hugo",
+    "articles": [
+      "kalf_veni_drag_wehr.2026.UCWiAMACfCC"
+    ],
+    "orcid": "0009-0008-5648-7491",
     "affiliation": "",
     "ror": ""
   },
@@ -113686,6 +117602,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wei_yushan": {
+    "prefix": "",
+    "lastName": "Wei",
+    "firstName": "Yushan",
+    "articles": [
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wei_zhenyun": {
     "prefix": "",
     "lastName": "Wei",
@@ -113809,7 +117736,8 @@ window.AUTHORS_DATA = {
     "lastName": "Weisser",
     "firstName": "Wolfgang",
     "articles": [
-      "lari_flec_chok_auer.2022.AMUMFfBR"
+      "lari_flec_chok_auer.2022.AMUMFfBR",
+      "lari_tsio_hayn_brie.2026.AMCFfBaCPI"
     ],
     "orcid": "0000-0002-2757-8959",
     "affiliation": "",
@@ -113887,7 +117815,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wen",
     "firstName": "Kuo-Wei",
     "articles": [
-      "wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC"
+      "wen_su_mo_hung.2026.TDRGSaBo3PUHPCIVFTaC",
+      "agra_lew_wen_hung.2026.Do3PFCCwPF"
     ],
     "orcid": "0009-0009-7473-6153",
     "affiliation": "",
@@ -113932,7 +117861,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wen",
     "firstName": "Yong",
     "articles": [
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -113968,7 +117898,6 @@ window.AUTHORS_DATA = {
       "weng_li_tan_qian.2018.D3PCMvFTTaMPM",
       "lim_weng_li.2018.EoFRPoMPo3PCM",
       "weng_qian_he_li.2018.3PHPFRCCfLSP",
-      "lu_li_lao_weng.2018.EIoPPoMDi3SCMPP",
       "lu_li_lao_weng.2018.EoSBPPoCMD",
       "zhan_li_lim_weng.2018.LS3PbaToMR",
       "weng_lu_li_liu.2018.EMtPRPoFRCCf3P",
@@ -113995,7 +117924,7 @@ window.AUTHORS_DATA = {
       "ye_yang_yu_dai.2024.SEoFaFBo3PECC",
       "wang_yu_chen_weng.2023.PACiFDA",
       "teng_li_zhan_li.2023.BECR3CPtCMwR",
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP",
       "ye_zhua_teng_yu.2024.CEAo3CPwECC",
       "teng_ye_yu_li.2024.DoSHCCSaBMtEILaFPo3PC",
@@ -114018,7 +117947,9 @@ window.AUTHORS_DATA = {
       "mech_muth_ivan_weng.2026.CPwTR",
       "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
       "liu_huan_lam_yi.2026.ELBMfLECoM",
-      "teng_ding_weng.2026.MPo3PC"
+      "teng_ding_weng.2026.MPo3PC",
+      "teng_yang_yu_weng.2026.AMM3CPwHRfSFSaDE",
+      "yang_teng_yu_weng.2026.NDaRTDoSMvNISi3PC"
     ],
     "orcid": "0000-0001-5637-1415",
     "affiliation": "",
@@ -114101,6 +118032,17 @@ window.AUTHORS_DATA = {
       "varg_west_bres_silf.2025.DoPSi3CPUPPP"
     ],
     "orcid": "0000-0002-2313-8809",
+    "affiliation": "",
+    "ror": ""
+  },
+  "weston_brayden": {
+    "prefix": "",
+    "lastName": "Weston",
+    "firstName": "Brayden",
+    "articles": [
+      "west_abou_mim_ahme.2026.BRDaaSSCMf3PC"
+    ],
+    "orcid": "0009-0002-3372-8586",
     "affiliation": "",
     "ror": ""
   },
@@ -114280,12 +118222,34 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wilcock_sam": {
+    "prefix": "",
+    "lastName": "Wilcock",
+    "firstName": "Sam",
+    "articles": [
+      "iuor_wilc_figu.2026.DW"
+    ],
+    "orcid": "0000-0002-8353-6219",
+    "affiliation": "",
+    "ror": ""
+  },
   "wilcox_brian": {
     "prefix": "",
     "lastName": "Wilcox",
     "firstName": "Brian",
     "articles": [
       "howe_wilc_mcqu_town.2013.FSttM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "wilder_nicholas": {
+    "prefix": "",
+    "lastName": "Wilder",
+    "firstName": "Nicholas",
+    "articles": [
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -114301,7 +118265,7 @@ window.AUTHORS_DATA = {
       "must_stor_rust_plas.2024.CMfC3PBotC",
       "mech_taub_mull_butl.2024.IoSRiEB3CPoMCE",
       "will_stor_plas_taub.2024.LSMPwRMC",
-      "sagy_stor_must_plas.2025.APo3PSwIRMBoSRB"
+      "sagy_stor_must_plas.2025.APo3PCSwIRMBoSRB"
     ],
     "orcid": "0000-0002-9168-0835",
     "affiliation": "",
@@ -114448,9 +118412,10 @@ window.AUTHORS_DATA = {
     "firstName": "Fulvio",
     "articles": [
       "dung_hash_dor_wirz.2025.PLSCT3P",
-      "dung_hash_lang_wirz.2025.SPo3PCW"
+      "dung_hash_lang_wirz.2025.SPo3PCW",
+      "dung_hash_benr_wirz..EPCiR3CP"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-7031-103X",
     "affiliation": "",
     "ror": ""
   },
@@ -114481,7 +118446,7 @@ window.AUTHORS_DATA = {
     "lastName": "Woen",
     "firstName": "Ean",
     "articles": [
-      "liu_agus_woen_khai.2026.ASfCaMPo3PCWS"
+      "liu_syam_woen_khai.2026.ASfCaMPo3PCWS"
     ],
     "orcid": "0000-0002-2663-8390",
     "affiliation": "",
@@ -114520,6 +118485,21 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wolf-nee-jakob_cordula": {
+    "prefix": "",
+    "lastName": "Wolf (née Jakob)",
+    "firstName": "Cordula",
+    "articles": [
+      "pott_wolf_jans_neub.2020.IotIoCaSaTIotRB",
+      "pott_wolf_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
+      "pott_wolf_dorn_step.2023.IoaSAfTCoMPf3CPIM",
+      "wolf_rudo_wolf_neub.2024.HoaTCCOMToCBSoD",
+      "wolf_pott_jans_step.2026.TYSf3PULCC"
+    ],
+    "orcid": "0000-0002-8573-1501",
+    "affiliation": "",
+    "ror": ""
+  },
   "wolf_alexander": {
     "prefix": "",
     "lastName": "Wolf",
@@ -114550,24 +118530,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "wolf_cordula": {
-    "prefix": "",
-    "lastName": "Wolf",
-    "firstName": "Cordula",
-    "articles": [
-      "wolf_pott_jans_step.2026.TYSf3PULCC"
-    ],
-    "orcid": "0000-0002-8573-1501",
-    "affiliation": "",
-    "ror": ""
-  },
   "wolf_julian": {
     "prefix": "",
     "lastName": "Wolf",
     "firstName": "Julian",
     "articles": [
-      "pott_jako_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
-      "jako_rudo_wolf_neub.2024.HoaTCCOMToCBSoD"
+      "pott_wolf_wolf_step.2023.CoPaPCMf3PAwtFotUUCT",
+      "wolf_rudo_wolf_neub.2024.HoaTCCOMToCBSoD"
     ],
     "orcid": "0000-0002-9492-5236",
     "affiliation": "",
@@ -114670,24 +118639,14 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "wong_d": {
-    "prefix": "",
-    "lastName": "Wong",
-    "firstName": "D.",
-    "articles": [
-      "kua_shi_kaja_lam.2025.TSC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "wong_de": {
     "prefix": "",
     "lastName": "Wong",
     "firstName": "De",
     "articles": [
       "lin_goel_wong_yeo.2022.CLDCSfC3PF",
-      "hua_lin_poh_wong.2023.3PCSK"
+      "hua_lin_poh_wong.2023.3PCSK",
+      "kua_shi_kaja_lam.2025.TSC3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -114772,7 +118731,9 @@ window.AUTHORS_DATA = {
       "wang_wang_deng_liu.2026.RRIaGfRo3PC",
       "liu_li_deng_wang.2026.RBotCM",
       "guo_wang_deng_liu.2026.ABoCR3PC",
-      "wang_wang_zhan_liu.2026.RRIi3PC"
+      "wang_wang_zhan_liu.2026.RRIi3PC",
+      "tay_quah_paul_tan.2027.EtIoPPoBSaWPi3wMSWA",
+      "deng_wang_wang_liu.2026.AMaATDRSf3PCS"
     ],
     "orcid": "0000-0002-3029-2521",
     "affiliation": "",
@@ -114901,17 +118862,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "wrobel_rafal": {
-    "prefix": "",
-    "lastName": "Wróbel",
-    "firstName": "Rafał",
-    "articles": [
-      "giud_wrob_kats_lein.2022.PMoRCaa14SUAMRC"
-    ],
-    "orcid": "0000-0002-9596-7059",
-    "affiliation": "",
-    "ror": ""
-  },
   "wroblewski_tomasz": {
     "prefix": "",
     "lastName": "Wróblewski",
@@ -114924,14 +118874,26 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "wu_bin": {
+    "prefix": "",
+    "lastName": "Wu",
+    "firstName": "Bin",
+    "articles": [
+      "chao_feng_han_wang.2026.STHHRo3PERM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "wu_bo": {
     "prefix": "",
     "lastName": "Wu",
     "firstName": "Bo",
     "articles": [
-      "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS"
+      "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS",
+      "wu_liu_qin_zhan.2026.3PRMC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-0908-2378",
     "affiliation": "",
     "ror": ""
   },
@@ -114974,7 +118936,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wu",
     "firstName": "Chao-Lan",
     "articles": [
-      "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP"
+      "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP",
+      "wu_sun_zhou_zeng.2027.AISAfRCBU3PCwIPEFGR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -114985,8 +118948,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wu",
     "firstName": "Chengde",
     "articles": [
-      "ghad_evan_doyl_sens.2024.HBo3CPWA",
-      "wu_evan.2024.AISfI3CPP",
+      "ghad_evan_doyl_sens..HBo3CPWA",
+      "wu_evan..AISfI3CPP",
       "sito_wu.2026.BI3CPfCS"
     ],
     "orcid": "",
@@ -115392,7 +119355,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wu",
     "firstName": "Qing",
     "articles": [
-      "wang_zhai_yao_wu.2022.PaMPo3PCEMIW"
+      "wang_zhai_yao_wu.2022.PaMPo3PCEMIW",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115495,7 +119459,7 @@ window.AUTHORS_DATA = {
     "lastName": "Wu",
     "firstName": "Wenbo",
     "articles": [
-      "hou_wu_duan_zhou.2024.RoFRMf3PC"
+      "hou_wu_duan_zou.2024.RoFRMf3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115633,7 +119597,8 @@ window.AUTHORS_DATA = {
       "xiao_bai_wu_duan.2024.ILBSaPCo3PECC",
       "bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF",
       "zhi_wu_bai.2024.DtEoGaDPoSoFODF3PBoDES",
-      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB"
+      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB",
+      "wu_zhi_goul_moha.2026.L3CP"
     ],
     "orcid": "0000-0002-2033-0520",
     "affiliation": "",
@@ -115707,7 +119672,8 @@ window.AUTHORS_DATA = {
     "firstName": "Zhennan",
     "articles": [
       "lin_wang_sun_kikh.2024.CTotCMHDHPiCUC3P",
-      "wang_wu_sun_xu.2026.CTaOOo3PCUDPSC"
+      "wang_wu_sun_xu.2026.CTaOOo3PCUDPSC",
+      "wu_wang_lin_sun.2027.DD3PaPMAoLSCS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115740,7 +119706,8 @@ window.AUTHORS_DATA = {
     "lastName": "Wüchner",
     "firstName": "Roland",
     "articles": [
-      "wuch_warn_naji_blet.2024.FFSOfAMiC"
+      "wuch_warn_naji_blet.2024.FFSOfAMiC",
+      "rich_jako_wuch_dac.2026.AMFWfDC"
     ],
     "orcid": "0000-0002-5411-9715",
     "affiliation": "",
@@ -115818,7 +119785,7 @@ window.AUTHORS_DATA = {
     "firstName": "Allynson",
     "articles": [
       "arau_mart_cabr_dant.2022.TPoCLCf3P",
-      "arau_mart_cabr_nune.2025.EoLECALotPoCCf3P"
+      "arau_mart_cabr_silv.2025.EoLECALotPoCCf3P"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115841,7 +119808,8 @@ window.AUTHORS_DATA = {
     "firstName": "Xinyue",
     "articles": [
       "zhen_li_xi_sun.2026.RotRoRPo3PRCaMOOoPP",
-      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC"
+      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115921,7 +119889,9 @@ window.AUTHORS_DATA = {
     "firstName": "Jingliang",
     "articles": [
       "wang_zhan_wang_chen.2024.AMiCUUAV",
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -115933,7 +119903,7 @@ window.AUTHORS_DATA = {
     "firstName": "Jun-Run",
     "articles": [
       "sun_zeng_xie_xia.2026.MaMCoIBiMM3PC",
-      "sun_zhou_xia_zhen.2026.IBEfFGR3PCS"
+      "sun_zhou_xia_zeng.2026.IBEfFGR3PCS"
     ],
     "orcid": "0009-0009-4142-2879",
     "affiliation": "",
@@ -115957,7 +119927,9 @@ window.AUTHORS_DATA = {
       "xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC",
       "xia_chen_yu_zhan.2026.PDINUGDoMaRPW3PC",
       "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
-      "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
+      "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -116161,6 +120133,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "xian_xianping": {
+    "prefix": "",
+    "lastName": "Xian",
+    "firstName": "Xianping",
+    "articles": [
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU"
+    ],
+    "orcid": "0000-0001-5601-8865",
+    "affiliation": "",
+    "ror": ""
+  },
   "xian_zhijun": {
     "prefix": "",
     "lastName": "Xian",
@@ -116205,25 +120188,25 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "xiang_luowen": {
-    "prefix": "",
-    "lastName": "Xiang",
-    "firstName": "Luowen",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "xiang_ping": {
     "prefix": "",
     "lastName": "Xiang",
     "firstName": "Ping",
     "articles": [
-      "liu_agus_woen_khai.2026.ASfCaMPo3PCWS"
+      "liu_syam_woen_khai.2026.ASfCaMPo3PCWS"
     ],
     "orcid": "0000-0002-1636-4111",
+    "affiliation": "",
+    "ror": ""
+  },
+  "xiang_tiantian": {
+    "prefix": "",
+    "lastName": "Xiang",
+    "firstName": "Tiantian",
+    "articles": [
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -116297,7 +120280,7 @@ window.AUTHORS_DATA = {
       "zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM",
       "hao_xiao_sun_xia.2022.TCo3PCwRFACPCM",
       "han_xiao_zhan_peng.2022.AMSBNMfIHTMBo3PCaET",
-      "pham_nguy_trin_nguy.2022.Do3PfCS",
+      "loan_nguy_trin_nguy.2022.Do3PfCS",
       "xiao_duan.2023.LDo3PARA",
       "xiao_hou_duan_zou.2023.Ro3PCPbSMoRMC",
       "pan_si_tao_xiao.2023.CBo3PCwDPPaCA",
@@ -116313,11 +120296,11 @@ window.AUTHORS_DATA = {
       "zhao_ji_xiao_yao.2023.ACRoRtEIo3PC",
       "li_hao_li_xiao.2023.DoCI3PC",
       "zuo_cort_huan_chen.2023.PtWAoLS3P",
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
       "duan_deng_xiao_lv.2024.ERoSDMD3CP",
       "tang_xiao_ding_liu.2024.TLaILFBoEB3PCUTPB",
       "xiao_bai_wu_duan.2024.ILBSaPCo3PECC",
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM",
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM",
       "ding_shen_cai_xiao.2024.3PCwSSA",
       "xiao_liu_ding_yu.2024.RFCC",
       "lu_xiao_li.2024.3PRCIPF",
@@ -116325,25 +120308,31 @@ window.AUTHORS_DATA = {
       "bai_xiao_wu_ding.2024.EaNSotFBo3PCBwUSEF",
       "bai_xiao_shen_ding.2024.PaMAo3PCwMSDfB",
       "lv_duan_xiao_ji.2024.Eo3PCwRFaCA",
-      "hou_wu_duan_zhou.2024.RoFRMf3PC",
+      "hou_wu_duan_zou.2024.RoFRMf3PC",
       "zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV",
       "shen_ding_cai_xiao.2024.FAo3PCwSIS",
       "li_sing_zhao_sun.2024.ETMaMPo3PCTRUFWGP",
       "bai_xiao_ding_yu.2024.IBPB3PECCaPCC",
       "shen_ye_xiao_li.2025.MaTPo3PECSbG",
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC",
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC",
       "li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA",
       "bai_xiao_ding_chen.2025.INDAo3PUMUXRCTaUW",
       "sing_yang_wang_xiao.2025.CTFCfFTRi3PC",
       "xiao_he_yu_wang.2025.EoPCMotPoM",
       "ding_zhu_yu_xiao.2025.DTBoTDPSFRUPC",
       "shen_chen_xiao_wang.2026.TaMPo3PESWSbAAS",
+      "loan_xiao_cong_lian.2026.MAWAaALoTR3PCFfACRA",
       "hari_sure_migu_rei.2026.PoWMaBPIi3CP3",
-      "liu_wang_xiao_chen.2026.3PMEwCSW"
+      "liu_wang_xiao_chen.2026.3PMEwCSW",
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU",
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR",
+      "liu_liu_liu_xiao.2026.CMI3PC",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "0000-0003-1287-1199",
-    "affiliation": "Tongji University",
-    "ror": "03rc6as71"
+    "affiliation": "",
+    "ror": ""
   },
   "xiao_jie": {
     "prefix": "",
@@ -116491,18 +120480,8 @@ window.AUTHORS_DATA = {
     "lastName": "Xie",
     "firstName": "Jing",
     "articles": [
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "xie_jinliang": {
-    "prefix": "",
-    "lastName": "Xie",
-    "firstName": "Jinliang",
-    "articles": [
-      "hu_cao_zhan_chen.2022.TDPMfCIPoHB"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -116513,7 +120492,8 @@ window.AUTHORS_DATA = {
     "lastName": "Xie",
     "firstName": "Junwei",
     "articles": [
-      "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC"
+      "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC",
+      "zhan_xie_lu_chen.2026.RtDMIFBo3PUCRFAUST"
     ],
     "orcid": "",
     "affiliation": "",
@@ -116571,7 +120551,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "sun_zeng_xie_xia.2026.MaMCoIBiMM3PC",
       "sun_xie_zeng_zhug.2026.3PCwIPEFRPGR",
-      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC"
+      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC",
+      "ma_sun_xie_zhao.2026.EoCTotIBi3PAAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -116731,6 +120712,17 @@ window.AUTHORS_DATA = {
     "firstName": "Yubo",
     "articles": [
       "aman_yang_xin_zhan.2025.IMOi3PCtMDS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "xin_zhihao": {
+    "prefix": "",
+    "lastName": "Xin",
+    "firstName": "Zhihao",
+    "articles": [
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -117085,7 +121077,8 @@ window.AUTHORS_DATA = {
     "lastName": "Xu",
     "firstName": "Hui",
     "articles": [
-      "lin_xu_zhan_bai.2026.ISTPCSfVC3P"
+      "lin_xu_zhan_bai.2026.ISTPCSfVC3P",
+      "wan_xu_zhan_bai.2026.FStS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -117112,7 +121105,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "ye_xu_laci.2025.FBo3PGCCWC",
       "hasa_xu_uddi.2026.ACRo3PFBGC",
-      "jia_han_xu.2026.RotMPaDMo3PRHACRC"
+      "jia_han_xu.2026.RotMPaDMo3PRHACRC",
+      "qi_yang_ma_xu.2027.RoMPSSaEAoSB3CP"
     ],
     "orcid": "0000-0002-6930-979X",
     "affiliation": "",
@@ -117418,6 +121412,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "xu_weikai": {
+    "prefix": "",
+    "lastName": "Xu",
+    "firstName": "Weikai",
+    "articles": [
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "xu_weishun": {
     "prefix": "",
     "lastName": "Xu",
@@ -117461,9 +121466,21 @@ window.AUTHORS_DATA = {
     "firstName": "Wenqiang",
     "articles": [
       "xu_xu_liu_ouya.2026.APMoIBSf3PCCPIaEE",
-      "lou_li_xu_you.2026.TIoPCotMPo3PCBotPFM"
+      "lou_li_xu_you.2026.TIoPCotMPo3PCBotPFM",
+      "wang_leng_lian_zhou.2026.MPPRi3PC"
     ],
     "orcid": "0000-0002-1380-9103",
+    "affiliation": "",
+    "ror": ""
+  },
+  "xu_wenqin": {
+    "prefix": "",
+    "lastName": "Xu",
+    "firstName": "Wenqin",
+    "articles": [
+      "chen_hua_xu_fu.2026.EoPSCPCFotRaHTBo3PC"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -117542,7 +121559,6 @@ window.AUTHORS_DATA = {
     "firstName": "Yading",
     "articles": [
       "figu_rodr_ahme_bos.2019.AAtDPSHCC",
-      "xu_savi.2019.DoSHCCSRw3PPR",
       "xu_zhan_schl_luko.2020.CCCwAB",
       "figu_rodr_ahme_bos.2020.MBoPSHCC",
       "xu_schl_savi.2020.ABoCCCUUCaCL",
@@ -117558,17 +121574,6 @@ window.AUTHORS_DATA = {
       "zhou_xu_meng_xie.2025.FS"
     ],
     "orcid": "0000-0001-5825-4175",
-    "affiliation": "",
-    "ror": ""
-  },
-  "xu_yan": {
-    "prefix": "",
-    "lastName": "Xu",
-    "firstName": "Yan",
-    "articles": [
-      "zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF"
-    ],
-    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -117617,6 +121622,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "xu_ying": {
+    "prefix": "",
+    "lastName": "Xu",
+    "firstName": "Ying",
+    "articles": [
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "xu_yuanyuan": {
     "prefix": "",
     "lastName": "Xu",
@@ -117634,17 +121650,7 @@ window.AUTHORS_DATA = {
     "firstName": "Zengguang",
     "articles": [
       "cao_shen_yang_shi.2024.ASftIotBPo3PCILI",
-      "cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "xu_zenggung": {
-    "prefix": "",
-    "lastName": "Xu",
-    "firstName": "Zenggung",
-    "articles": [
+      "cao_yang_shi_yang.2025.NAoMPoSFCCMCNUi3P",
       "cao_zhou_yang_tang.2026.ASUSL"
     ],
     "orcid": "",
@@ -117715,17 +121721,6 @@ window.AUTHORS_DATA = {
     "firstName": "Haosong",
     "articles": [
       "lyu_li_deng_yu.2025.EPoMPCLSCUVCaI3PAfLDM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "xuan_hung": {
-    "prefix": "",
-    "lastName": "Xuan",
-    "firstName": "Hung",
-    "articles": [
-      "li_liu_chen_xuan.2025.DaPo3PBSFRCCCB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -117804,7 +121799,9 @@ window.AUTHORS_DATA = {
     "lastName": "Xue",
     "firstName": "Sen",
     "articles": [
-      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P"
+      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P",
+      "wang_xue_lin_yang.2026.DaEIoa3PNfRHCBoFE",
+      "wang_xue_yang_lin.2026.PaDo3PBFRCiFaSME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -117849,9 +121846,10 @@ window.AUTHORS_DATA = {
     "firstName": "Zhihang",
     "articles": [
       "tang_yu_li_jian.2026.TRF3PHSECCC",
-      "chen_liu_lian_xue.2026.MLPIDf3PECC3E"
+      "chen_liu_lian_xue.2026.MLPIDf3PECC3E",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
     ],
-    "orcid": "",
+    "orcid": "0000-0001-5348-8271",
     "affiliation": "",
     "ror": ""
   },
@@ -118013,7 +122011,8 @@ window.AUTHORS_DATA = {
       "ogur_yama_abe.2023.MPoFRCCMU3PT",
       "ogur_hara_yama_abe.2024.FPoFR3PCBwAR",
       "naka_ogur_yama_abe.2024.DaDoaSMSf3CPwaM",
-      "yama_vazq_xia_ogur.2025.CS3PSfNTP"
+      "yama_vazq_xia_ogur.2025.CS3PSfNTP",
+      "yama_ogur_abe_kiku.2026.OSPoRCMUMJ3CP"
     ],
     "orcid": "0009-0005-9154-7056",
     "affiliation": "",
@@ -118047,6 +122046,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "yamazaki_atsushi": {
+    "prefix": "",
+    "lastName": "Yamazaki",
+    "firstName": "Atsushi",
+    "articles": [
+      "hama_masu_uchi_shib.2026.FA"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "yan_chao": {
     "prefix": "",
     "lastName": "Yan",
@@ -118058,12 +122068,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yan_chunjie": {
+  "yan_chengfa": {
     "prefix": "",
     "lastName": "Yan",
-    "firstName": "Chunjie",
+    "firstName": "Chengfa",
     "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118115,19 +122125,21 @@ window.AUTHORS_DATA = {
     "lastName": "Yan",
     "firstName": "Jie",
     "articles": [
-      "shen_lin_wei_yan.2022.RotPaMPoS3PCM"
+      "shen_lin_wei_yan.2022.RotPaMPoS3PCM",
+      "pang_wang_jin_chen.2026.ROaMEoU3PCvSBEIL"
     ],
     "orcid": "",
     "affiliation": "",
     "ror": ""
   },
-  "yan_kang-tai": {
+  "yan_kangtai": {
     "prefix": "",
     "lastName": "Yan",
-    "firstName": "Kang-Tai",
+    "firstName": "Kangtai",
     "articles": [
       "yan_li_ye_baza.2024.ASEo3PLBECC",
-      "yan_wang_ding_li.2024.3PLBLECC"
+      "yan_wang_ding_li.2024.3PLBLECC",
+      "lin_yu_li_yan.2026.CNIiRF3PEA"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118174,6 +122186,20 @@ window.AUTHORS_DATA = {
     "firstName": "Ruizhen",
     "articles": [
       "yan_meng_ke_jia.2024.CEotAo3PMwDWP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "yan_sheng": {
+    "prefix": "",
+    "lastName": "Yan",
+    "firstName": "Sheng",
+    "articles": [
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB",
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118308,17 +122334,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yang_baoguo": {
-    "prefix": "",
-    "lastName": "Yang",
-    "firstName": "Baoguo",
-    "articles": [
-      "xian_qiao_hu_qiu.2026.3PGZXM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "yang_bo": {
     "prefix": "",
     "lastName": "Yang",
@@ -118443,7 +122458,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "zhao_yang_zhu_ding.2022.EoRPaPSoMAo3PBFCM",
       "zhu_yao_zhao_ruan.2023.EoCCSoRaWPoF3PECC",
-      "zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM"
+      "zhu_zhan_zhan_yao.2023.RPoSPoE3PCBM",
+      "qi_yang_ma_xu.2027.RoMPSSaEAoSB3CP"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118488,7 +122504,8 @@ window.AUTHORS_DATA = {
     "lastName": "Yang",
     "firstName": "Haifeng",
     "articles": [
-      "duan_li_yao_zou.2022.EoMotFaHPo3PCC"
+      "duan_li_yao_zou.2022.EoMotFaHPo3PCC",
+      "liu_wei_xiao_yang.2026.APMftNSSCMCo3PCITBDAaPBDR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118706,17 +122723,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yang_jung-ho": {
-    "prefix": "",
-    "lastName": "Yang",
-    "firstName": "Jung-Ho",
-    "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "yang_junhao": {
     "prefix": "",
     "lastName": "Yang",
@@ -118758,7 +122764,10 @@ window.AUTHORS_DATA = {
     "articles": [
       "wang_yan_yang_ao.2025.EoWSotECo3PoCM",
       "yang_yuan_wang_yang.2025.Oo3PNSatIoPPotFPoUC",
-      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P"
+      "zhan_li_lin_ren.2026.AaESoFSCoVCNfC3P",
+      "wang_xue_lin_yang.2026.DaEIoa3PNfRHCBoFE",
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP",
+      "wang_xue_yang_lin.2026.PaDo3PBFRCiFaSME"
     ],
     "orcid": "0000-0002-3669-1486",
     "affiliation": "",
@@ -118777,7 +122786,8 @@ window.AUTHORS_DATA = {
       "liu_shen_feng_wang.2024.DoNAEWotPo3PCSCC",
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "chen_yang_jian.2025.SAo3CPPwCaIbEDDM",
-      "guo_chen_lyu_bao.2026.PaGSAf3CP"
+      "guo_chen_lyu_bao.2026.PaGSAf3CP",
+      "chen_yang_tan_jian.2026.TLDDIoMUi3CPPUMSHO"
     ],
     "orcid": "",
     "affiliation": "",
@@ -118876,7 +122886,8 @@ window.AUTHORS_DATA = {
       "nasr_duan_sing_deng.2025.FPaRBo3PCCIRPaNF",
       "luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF",
       "luo_shi_wu_chen.2026.IFPFaTPo3PCwDO",
-      "bai_yao_yang_liu.2026.DaCoSCSBoCAM"
+      "bai_yao_yang_liu.2026.DaCoSCSBoCAM",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "0000-0002-0134-1734",
     "affiliation": "",
@@ -118911,7 +122922,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "ye_yang_yu_dai.2024.SEoFaFBo3PECC",
       "teng_xu_yang_yu.2025.DoSSHCCCDf3P",
-      "teng_yang_yu_weng.2026.MM3CP"
+      "teng_yang_yu_weng.2026.MM3CP",
+      "teng_yang_yu_weng.2026.AMM3CPwHRfSFSaDE",
+      "yang_teng_yu_weng.2026.NDaRTDoSMvNISi3PC"
     ],
     "orcid": "0009-0006-0490-0796",
     "affiliation": "",
@@ -119030,7 +123043,8 @@ window.AUTHORS_DATA = {
     "lastName": "Yang",
     "firstName": "Shu",
     "articles": [
-      "yu_teng_nah_chai.2025.3CPoTPMSfECCaS"
+      "yu_teng_nah_chai.2025.3CPoTPMSfECCaS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0000-0001-8834-3320",
     "affiliation": "",
@@ -119492,7 +123506,19 @@ window.AUTHORS_DATA = {
     "lastName": "Yang",
     "firstName": "Zhen",
     "articles": [
-      "chen_lian_li_yang.2026.SRo3PECC"
+      "chen_lian_li_yang.2026.SRo3PECC",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "yang_zheng": {
+    "prefix": "",
+    "lastName": "Yang",
+    "firstName": "Zheng",
+    "articles": [
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -119689,7 +123715,8 @@ window.AUTHORS_DATA = {
       "jian_gao_adhi_yao.2024.SotMPoILI3PCBoaNN",
       "luo_zhao_yao_zou.2025.3PCITBoPaCM",
       "luo_zhao_yang_yao.2025.ICCADPPtEt3PCIBLaF",
-      "bai_yao_yang_liu.2026.DaCoSCSBoCAM"
+      "bai_yao_yang_liu.2026.DaCoSCSBoCAM",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "0009-0006-8057-1162",
     "affiliation": "",
@@ -119742,7 +123769,8 @@ window.AUTHORS_DATA = {
       "zhan_sun_bu_lu.2025.RT3U",
       "bu_zhan_wu_xia.2025.IPo3PEIbBBS",
       "xia_bu_zhan_xie.2026.CPMi3PEwaBBS",
-      "bu_xia_zhan_pi.2026.PAPM3PU"
+      "bu_xia_zhan_pi.2026.PAPM3PU",
+      "tian_bu_cai_huan.2027.3PUHPChCfCLBaES"
     ],
     "orcid": "0000-0002-5751-8180",
     "affiliation": "",
@@ -119856,17 +123884,6 @@ window.AUTHORS_DATA = {
     "firstName": "Tetyana",
     "articles": [
       "kono_sopi_sire_sere.2024.CCo3PiC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "yaseen_zaher": {
-    "prefix": "",
-    "lastName": "Yaseen",
-    "firstName": "Zaher",
-    "articles": [
-      "khal_faki_yase_osta.2026.IoCCaMRoSDoOPAAM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -120112,7 +124129,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "hou_duan_xiao_ye.2021.ARo3PC",
       "sun_li_wang_ye.2023.EoMPaAo3PCaDT",
-      "hou_wu_duan_zhou.2024.RoFRMf3PC"
+      "hou_wu_duan_zou.2024.RoFRMf3PC"
     ],
     "orcid": "0000-0002-6857-7450",
     "affiliation": "",
@@ -120145,7 +124162,8 @@ window.AUTHORS_DATA = {
       "chen_lian_ye_liu.2025.MLEPBDoTDPECC",
       "chen_yu_ye_yu.2026.3PHPFRCC",
       "uddi_saji_arif_ye.2026.FMtS",
-      "tang_yu_li_jian.2026.TRF3PHSECCC"
+      "tang_yu_li_jian.2026.TRF3PHSECCC",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
     ],
     "orcid": "0000-0003-0948-5115",
     "affiliation": "",
@@ -120591,7 +124609,6 @@ window.AUTHORS_DATA = {
     "firstName": "Binbin",
     "articles": [
       "yu_zhan_yin_sun.2024.MEPaLDi3CPvSPH",
-      "liew_li_yin_sun.2024.SDaMDoLCCCUET",
       "duan_wang_yin_liew.2025.MIFi3PCvP",
       "yu_zhan_liew_yin.2026.SMFaEDi3CP",
       "zhan_qiu_yin_bant.2026.TRRKaPEoOPAAMf3P",
@@ -120727,6 +124744,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "yin_wenwen": {
+    "prefix": "",
+    "lastName": "Yin",
+    "firstName": "Wenwen",
+    "articles": [
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "yin_xiaohong": {
     "prefix": "",
     "lastName": "Yin",
@@ -120795,13 +124823,24 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "yin_zhongyi": {
+    "prefix": "",
+    "lastName": "Yin",
+    "firstName": "Zhongyi",
+    "articles": [
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "ying_jingwei": {
     "prefix": "",
     "lastName": "Ying",
     "firstName": "Jingwei",
     "articles": [
       "ying_yang_wu_qiao.2026.MBaTSo3PGMRwRCFaFRFA",
-      "ying_qiao_wang_pham.2026.MSPSaMAoPFR3PSSSSC"
+      "ying_qiao_wang_loan.2026.MSPSaMAoPFR3PSSSSC"
     ],
     "orcid": "0000-0002-2286-7284",
     "affiliation": "",
@@ -120813,6 +124852,17 @@ window.AUTHORS_DATA = {
     "firstName": "Juho",
     "articles": [
       "lemo_cant_fale_tosk.2026.MP3PaEPoOPCOMCCRRfSBOFS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "yoedono_benedictus": {
+    "prefix": "",
+    "lastName": "Yoedono",
+    "firstName": "Benedictus",
+    "articles": [
+      "yoed_sant.2026.ItIoSaUGCAFotFaHPo3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -120845,18 +124895,18 @@ window.AUTHORS_DATA = {
     "lastName": "Yong-Zheng",
     "firstName": "Goh",
     "articles": [
-      "ler_ma_chee_ibra.2026.DPo3PCUSE"
+      "ler_ma_chee_ibra.2026.TPo3PCUSE"
     ],
     "orcid": "0009-0006-0548-6662",
     "affiliation": "",
     "ror": ""
   },
-  "yong_son": {
+  "yong_ling": {
     "prefix": "",
     "lastName": "Yong",
-    "firstName": "Son",
+    "firstName": "Ling",
     "articles": [
-      "baek_yang_ha_shim.2022.DaEoAMHEIWTCM"
+      "sove_gip_yong_tay.2026.ATPo3PBEwAWIG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -120930,6 +124980,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "yosefipor_pedram": {
+    "prefix": "",
+    "lastName": "Yosefipor",
+    "firstName": "Pedram",
+    "articles": [
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "yoshida_kohei": {
     "prefix": "",
     "lastName": "Yoshida",
@@ -120961,7 +125022,9 @@ window.AUTHORS_DATA = {
     "firstName": "Hideki",
     "articles": [
       "zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET",
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "0000-0003-3875-0600",
     "affiliation": "",
@@ -120973,7 +125036,7 @@ window.AUTHORS_DATA = {
     "firstName": "Ahmed",
     "articles": [
       "shah_akba_alza_yosr.2024.TDBEo3PC",
-      "shaz_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
+      "shah_abde_akba_yosr.2026.ESotRoDDIaPiGtMBo3PC"
     ],
     "orcid": "0000-0002-5884-1166",
     "affiliation": "",
@@ -121007,7 +125070,8 @@ window.AUTHORS_DATA = {
     "firstName": "Dengyu",
     "articles": [
       "you_kash.2024.EoECoSICo3PM",
-      "you_hame_kash.2026.PoSICi3PMUDEC"
+      "you_hame_kash.2026.PoSICi3PMUDEC",
+      "you_hame_kash.2026.SBo3PWURC"
     ],
     "orcid": "0009-0006-5361-3275",
     "affiliation": "",
@@ -121117,7 +125181,8 @@ window.AUTHORS_DATA = {
       "wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM",
       "moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC",
       "rodr_moin_agra_will.2024.MRoSS3PSMCB",
-      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC"
+      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC",
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
     ],
     "orcid": "0000-0002-8720-8642",
     "affiliation": "",
@@ -121247,7 +125312,8 @@ window.AUTHORS_DATA = {
     "firstName": "Fan",
     "articles": [
       "lin_li_jian_ding.2024.ARo3PECCB",
-      "lin_ding_yu_li.2025.SSo3PEBTSWMaIT"
+      "lin_ding_yu_li.2025.SSo3PEBTSWMaIT",
+      "lin_yu_yang_jian.2026.SWMRoTO3PEB"
     ],
     "orcid": "",
     "affiliation": "",
@@ -121315,6 +125381,7 @@ window.AUTHORS_DATA = {
       "ye_yang_yu_dai.2024.SEoFaFBo3PECC",
       "ye_zhan_yu_yu.2024.FBo3PLECCESwHS",
       "chen_ye_jian_fedi.2024.PRf3PECC",
+      "yu_weng_teng_ye.2024.PotFSo3PSBBoaSSDM",
       "yu_xu_zhan_ye.2025.LIBAfMEASi3PECC",
       "yu_teng_ye_zhan.2025.SDMtPtFSo3PECCB",
       "chen_lian_zhou_ye.2025.AFMMfPTSaFTo3PECC",
@@ -121322,17 +125389,6 @@ window.AUTHORS_DATA = {
       "chen_yu_ye_yu.2026.3PHPFRCC",
       "chen_lian_li_yang.2026.SRo3PECC",
       "chen_liu_lian_xue.2026.MLPIDf3PECC3E"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "yu_jiantao": {
-    "prefix": "",
-    "lastName": "Yu",
-    "firstName": "Jiantao",
-    "articles": [
-      "yu_weng_teng_ye.2024.PotFSo3PSBBoaSSDM"
     ],
     "orcid": "0000-0003-4883-7398",
     "affiliation": "",
@@ -121356,7 +125412,9 @@ window.AUTHORS_DATA = {
       "teng_yang_yu_weng.2026.MM3CP",
       "chen_yu_ye_yu.2026.3PHPFRCC",
       "xu_yu_teng_lin.2026.AoRTaICMi3PECC",
-      "mech_muth_ivan_weng.2026.CPwTR"
+      "mech_muth_ivan_weng.2026.CPwTR",
+      "teng_yang_yu_weng.2026.AMM3CPwHRfSFSaDE",
+      "yang_teng_yu_weng.2026.NDaRTDoSMvNISi3PC"
     ],
     "orcid": "0000-0003-0922-3238",
     "affiliation": "",
@@ -121413,9 +125471,9 @@ window.AUTHORS_DATA = {
     "lastName": "Yu",
     "firstName": "Ke",
     "articles": [
-      "iriz_goma_rosa_ahme.2024.MCo3PUHPC",
+      "iriz_goma_marr_ahme.2024.MCo3PUHPC",
       "ayha_iriz_lale_yu.2025.NSo3PUHPCUtLDPM",
-      "alna_marr_irri_ahme.2026.FtSTCo3PUfOWF"
+      "alna_marr_iriz_ahme.2026.FtSTCo3PUfOWF"
     ],
     "orcid": "",
     "affiliation": "",
@@ -121427,7 +125485,7 @@ window.AUTHORS_DATA = {
     "firstName": "Ke-Ke",
     "articles": [
       "luo_yu_long_zhen.2024.IoDToSPoFMPaILAo3PC",
-      "yu_zhao_lou_ping.2024.RPFwDSMfEILAi3PC",
+      "yu_zhao_luo_ping.2024.RPFwDSMfEILAi3PC",
       "xiah_ding_yu_lu.2025.FWtS"
     ],
     "orcid": "",
@@ -121469,7 +125527,9 @@ window.AUTHORS_DATA = {
       "chen_lian_li_yang.2026.SRo3PECC",
       "lin_yu_li_liu.2026.SEaMMitTBo3PECC",
       "tang_yu_li_jian.2026.TRF3PHSECCC",
-      "chen_liu_lian_xue.2026.MLPIDf3PECC3E"
+      "chen_liu_lian_xue.2026.MLPIDf3PECC3E",
+      "lin_yu_li_yan.2026.CNIiRF3PEA",
+      "liu_lin_xue_li.2026.TDTBo3PECCE"
     ],
     "orcid": "0000-0002-8396-4213",
     "affiliation": "",
@@ -121513,7 +125573,8 @@ window.AUTHORS_DATA = {
     "lastName": "Yu",
     "firstName": "Miao",
     "articles": [
-      "xiao_he_yu_wang.2025.EoPCMotPoM"
+      "xiao_he_yu_wang.2025.EoPCMotPoM",
+      "xiao_yu_he_wang.2026.RoCMiCMIBwGFAMaSS"
     ],
     "orcid": "0009-0002-1916-6855",
     "affiliation": "",
@@ -121796,6 +125857,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "yu_yang": {
+    "prefix": "",
+    "lastName": "Yu",
+    "firstName": "Yang",
+    "articles": [
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "yu_yi": {
     "prefix": "",
     "lastName": "Yu",
@@ -121848,7 +125920,9 @@ window.AUTHORS_DATA = {
     "articles": [
       "wang_zhan_wang_chen.2024.AMiCUUAV",
       "zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP",
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -121872,7 +125946,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "raza_junj_fan_umar.2025.CSotMaMPo3PECCwYRSI",
       "raza_yuan.2025.DMaMPo3PECCwYRSUCIWDC",
-      "raza_tan_jiaj_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
       "yin_lv_ma_yuan.2026.FTDaADEo3PRSECC"
     ],
     "orcid": "",
@@ -121917,7 +125991,8 @@ window.AUTHORS_DATA = {
     "lastName": "Yuan",
     "firstName": "Fenghua",
     "articles": [
-      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC"
+      "yuan_feng_han_xu.2026.DBEoEPaCSo3PCvFFDIC",
+      "yuan_wang_han_feng.2026.EoLHoCSRaUAo3PC"
     ],
     "orcid": "0009-0004-2991-5244",
     "affiliation": "",
@@ -121932,7 +126007,10 @@ window.AUTHORS_DATA = {
       "yuan_dong_jia_jia.2025.TIoPSaFOoAMPo3PUHPC",
       "jia_dong_xia_niu.2025.IPSo3PCIRBFA",
       "dong_jia_rao_jia.2025.FAMi3PUHPCBoFDT",
-      "xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC"
+      "xia_chen_jia_quan.2025.TIoISGDtPPotEAPo3PC",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -121978,6 +126056,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "xu_yuan_xin_ma.2026.DSCRLfPPaOiC3P",
       "yuan_xu.2026.DSDRLFfCPO"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "yuan_jinbo": {
+    "prefix": "",
+    "lastName": "Yuan",
+    "firstName": "Jinbo",
+    "articles": [
+      "wang_xue_yang_lin.2026.PaDo3PBFRCiFaSME"
     ],
     "orcid": "",
     "affiliation": "",
@@ -122036,7 +126125,8 @@ window.AUTHORS_DATA = {
       "huan_wang_shi_yuan.2026.OtURaPo3PMwDSRS",
       "yuan_wang_huan_shi.2026.FMPaEIo3PMIRFAfDaRW",
       "chen_lu_gao_chen.2026.PaMPo3PCWMRwMCF",
-      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM"
+      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM",
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -122128,18 +126218,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yuan_y": {
-    "prefix": "",
-    "lastName": "Yuan",
-    "firstName": "Y.",
-    "articles": [
-      "zuo_cort_huan_zhan.2023.MotDoFSfC3P",
-      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "yuan_yong": {
     "prefix": "",
     "lastName": "Yuan",
@@ -122157,6 +126235,7 @@ window.AUTHORS_DATA = {
       "tao_rahu_moha_titt.2022.BPoHSMUfTP3CP",
       "tao_ren_vant_lesa.2023.E3CPtHRTL",
       "tao_lesa_titt_yuan.2023.TPPSfSCo3PC",
+      "zuo_cort_huan_zhan.2023.MotDoFSfC3P",
       "zuo_cort_huan_chen.2023.PtWAoLS3P",
       "tao_yuan.2024.3CPfTL",
       "zuo_cort_huan_chen.2024.STLS3PWSC",
@@ -122168,12 +126247,14 @@ window.AUTHORS_DATA = {
       "zuo_huan_tao_yuan.2025.AoFItMCPHo3PC",
       "zhan_yuan_fato_zhou.2025.3PMIMSWIBA",
       "yuan_zia_shei_irfa.2026.EIBSo3PCTMDbMoISBA",
+      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS",
       "zia_yuan_irfa_shen.2026.IoSBAotWaMBo3PM",
       "shen_yuan_zhan_liu.2026.AIMMSfMPoP",
       "xion_zhao_rong_zhan.2026.RMPoPCStET",
       "fato_zhan_rong_qiao.2026.AMCMfBAiEBAMoCM",
       "yuan_cui_liu_tao.2026.AVBAfQCoPUaIYSN",
-      "tao_li_leem_muth.2026.APOPoMK3CP"
+      "tao_li_leem_muth.2026.APOPoMK3CP",
+      "yuan_zhan_tao.2026.P"
     ],
     "orcid": "0000-0002-1542-3028",
     "affiliation": "",
@@ -122270,7 +126351,8 @@ window.AUTHORS_DATA = {
     "articles": [
       "liu_yue_zhou_sun.2021.AMPoEB3PLC",
       "mo_yue_zhou_feng.2021.DPaFCo3PCMiST",
-      "mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT"
+      "mo_xing_yue_zhan.2022.DPo3PCMBoSHPBT",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI"
     ],
     "orcid": "",
     "affiliation": "",
@@ -122298,17 +126380,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yuk_simchoen": {
-    "prefix": "",
-    "lastName": "Yuk",
-    "firstName": "Simchoen",
-    "articles": [
-      "nguy_jeon_yuk_ahn.2026.AALFfMCSoC"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "yumurtaci_elifsu": {
     "prefix": "",
     "lastName": "Yumurtaci",
@@ -122331,17 +126402,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "yungshen_su": {
-    "prefix": "",
-    "lastName": "Yungshen",
-    "firstName": "Su",
-    "articles": [
-      "benr_hash_yung_dung.2024.MHURM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "yunitsyna_anna": {
     "prefix": "",
     "lastName": "Yunitsyna",
@@ -122358,7 +126418,8 @@ window.AUTHORS_DATA = {
     "lastName": "Yunsheng",
     "firstName": "Su",
     "articles": [
-      "benr_hash_yuns_call.2025.RMH"
+      "dor_hash_yuns_dung.2024.MHURM",
+      "dor_hash_yuns_call.2025.RMH"
     ],
     "orcid": "",
     "affiliation": "",
@@ -122419,33 +126480,23 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zada_vaclav": {
-    "prefix": "",
-    "lastName": "Záda",
-    "firstName": "Václav",
-    "articles": [
-      "kajz_bera_zada.2017.DoaRASfDoACM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "zade_nikhil": {
     "prefix": "",
     "lastName": "Zade",
     "firstName": "Nikhil",
     "articles": [
       "prak_trip_zade_shar.2026.EaNIoBaFBoAMSCB",
-      "zade_shar.2026.ACRo3PCMPSPatWF"
+      "zade_shar.2026.ACRo3PCMPSPatWF",
+      "redd_zade_shar_nant.2026.FSPaMPoOB3PC"
     ],
     "orcid": "0000-0002-4979-0715",
     "affiliation": "",
     "ror": ""
   },
-  "zafar_muhammad_adeel": {
+  "zafar_muhammad-adeel": {
     "prefix": "",
     "lastName": "Zafar",
-    "firstName": "Muhammad",
+    "firstName": "Muhammad Adeel",
     "articles": [
       "qure_ali_ahme_zafa.2026.SBSf3CP"
     ],
@@ -122453,10 +126504,10 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zafar_muhammad_saeed": {
+  "zafar_muhammad-saeed": {
     "prefix": "",
     "lastName": "Zafar",
-    "firstName": "Muhammad",
+    "firstName": "Muhammad Saeed",
     "articles": [
       "zafa_bakh_hoja.2022.T3PECC",
       "sedg_zafa_hoja.2023.EFaHPoS3PLCM",
@@ -122580,6 +126631,17 @@ window.AUTHORS_DATA = {
       "khos_yuan_zahi_zhan.2016.CbCCUSCwPA"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zahno_valentin": {
+    "prefix": "",
+    "lastName": "Zahno",
+    "firstName": "Valentin",
+    "articles": [
+      "nasc_zahn_beli_su.2026.RC"
+    ],
+    "orcid": "0009-0005-9297-4156",
     "affiliation": "",
     "ror": ""
   },
@@ -122877,7 +126939,8 @@ window.AUTHORS_DATA = {
       "wang_rodr_olek_zava.2024.IoToFoFaHPoTDPCM",
       "moin_rodr_olek_youn.2024.MPaFPi3PHCAMUC",
       "rodr_moin_agra_will.2024.MRoSS3PSMCB",
-      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC"
+      "wang_doub_raje_cubi.2026.CNaLFEHPSaCEPC",
+      "wang_shya_dasi_nguy.2026.NBAfEMPiCC"
     ],
     "orcid": "0000-0003-4953-150X",
     "affiliation": "",
@@ -122918,6 +126981,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zehra_bintul": {
+    "prefix": "",
+    "lastName": "Zehra",
+    "firstName": "Bintul",
+    "articles": [
+      "zehr_mage_rodg.2026.EMtIVMPaPPfAMUCCBCI"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zeiada_waleed": {
     "prefix": "",
     "lastName": "Zeiada",
@@ -122937,6 +127011,17 @@ window.AUTHORS_DATA = {
       "moha_rahu_dam_zeid.2022.PCEIaCAf3PCM"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zeleny_petr": {
+    "prefix": "",
+    "lastName": "Zelený",
+    "firstName": "Petr",
+    "articles": [
+      "stok_bure_melt_cite.2026.3PGCTB"
+    ],
+    "orcid": "0000-0002-6965-6951",
     "affiliation": "",
     "ror": ""
   },
@@ -122969,7 +127054,7 @@ window.AUTHORS_DATA = {
     "articles": [
       "azar_alip_zeng_kim.2026.EaNIoPSCi3PCUNZ"
     ],
-    "orcid": "0009-0002-5545-7254",
+    "orcid": "0009-0002-7554-0354",
     "affiliation": "",
     "ror": ""
   },
@@ -123012,7 +127097,11 @@ window.AUTHORS_DATA = {
       "zeng_jian_yan_sun.2025.3PoCCFRPRfCC",
       "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP",
       "sun_xie_zeng_zhug.2026.3PCwIPEFRPGR",
-      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC"
+      "sun_zhou_xia_zeng.2026.IBEfFGR3PCS",
+      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC",
+      "sun_zeng_zhug.2026.BBo3PFGCPwSEFGR",
+      "ma_sun_xie_zhao.2026.EoCTotIBi3PAAC",
+      "wu_sun_zhou_zeng.2027.AISAfRCBU3PCwIPEFGR"
     ],
     "orcid": "0000-0003-0893-6623",
     "affiliation": "",
@@ -123261,9 +127350,10 @@ window.AUTHORS_DATA = {
     "lastName": "Zhan",
     "firstName": "Qiwei",
     "articles": [
-      "zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA"
+      "zhou_shi_zhen_jin.2025.ItEoHPBFiLC3PCwRA",
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-1097-9027",
     "affiliation": "",
     "ror": ""
   },
@@ -123289,23 +127379,13 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhan_yiyuan": {
-    "prefix": "",
-    "lastName": "Zhan",
-    "firstName": "Yiyuan",
-    "articles": [
-      "zhan_lesa_schu.2024.MPo3PRCMAMI"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "zhan_youyun": {
     "prefix": "",
     "lastName": "Zhan",
     "firstName": "Youyun",
     "articles": [
-      "lin_xu_zhan_bai.2026.ISTPCSfVC3P"
+      "lin_xu_zhan_bai.2026.ISTPCSfVC3P",
+      "wan_xu_zhan_bai.2026.FStS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -123330,7 +127410,19 @@ window.AUTHORS_DATA = {
       "sun_zhan_zhou_wang.2024.EAo3PCaaTPDF",
       "zhan_zhan_ye_hao.2025.IoCi2IPoMPo3PCS",
       "zhan_cort_ooms_wan.2025.MPoPB3PCIP",
-      "zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC"
+      "zhan_tao_zhan_shie.2025.MPo3PCw2IPIPPC",
+      "wang_ooms_zhan_wang.2026.NMaPSoSPI3PC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhang_bohong": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Bohong",
+    "articles": [
+      "zhan_li_dey_khay.2026.DOMoEASSi3PCE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -123526,7 +127618,7 @@ window.AUTHORS_DATA = {
       "ye_teng_yu_yu.2023.Do3PECCwIBAfSaDC",
       "li_zhan_wong_tan.2023.MaEIoFOiCa3PCC",
       "teng_li_zhan_li.2023.BECR3CPtCMwR",
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "ye_zhua_teng_yu.2024.CEAo3CPwECC",
       "teng_zhan_li_weng.2024.FSoRPwaBECRS",
       "yu_teng_ye_zhan.2025.SDMtPtFSo3PECCB",
@@ -123541,7 +127633,8 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Dongyang",
     "articles": [
-      "cui_pu_zhan_li.2026.SotMPo3PCJYRC"
+      "cui_pu_zhan_li.2026.SotMPo3PCJYRC",
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
     ],
     "orcid": "0009-0002-0028-4464",
     "affiliation": "",
@@ -123565,6 +127658,17 @@ window.AUTHORS_DATA = {
     "articles": [
       "lai_gong_he_li.2024.DLfPtSo3PECC",
       "cong_zhan_qian.2026.FBIoRBwFR3PEPF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhang_fangfang": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Fangfang",
+    "articles": [
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -123739,9 +127843,11 @@ window.AUTHORS_DATA = {
       "zhan_xiao.2021.PSaCo3PMwRS",
       "zhan_xiao_duan_zou.2022.EoPPaRFoDSo3PM",
       "zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS",
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM",
       "zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV",
-      "yu_xu_zhan_ye.2025.LIBAfMEASi3PECC"
+      "yu_xu_zhan_ye.2025.LIBAfMEASi3PECC",
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC"
     ],
     "orcid": "0000-0001-7224-4555",
     "affiliation": "",
@@ -123770,6 +127876,17 @@ window.AUTHORS_DATA = {
       "zhan_du.2026.EoWDoFPaBoU3CP"
     ],
     "orcid": "0009-0001-3756-8180",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhang_haoyou": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Haoyou",
+    "articles": [
+      "zhan_wan.2026.GBDLfCBo3PCCAL"
+    ],
+    "orcid": "0000-0002-6728-0145",
     "affiliation": "",
     "ror": ""
   },
@@ -123903,7 +128020,8 @@ window.AUTHORS_DATA = {
       "geng_zhan_zhan_hai.2025.UCGCAi3PC",
       "zhan_wu_huan_yu.2025.CSMoAi3PUHPC",
       "cui_pu_zhan_li.2026.SotMPo3PCJYRC",
-      "wu_huan_zhon_sanj.2026.FMo3PUHPC"
+      "wu_huan_zhon_sanj.2026.FMo3PUHPC",
+      "cui_chen_zhan_chan.2026.PEaSLPo3PCRwCJYUDWaFTC"
     ],
     "orcid": "0000-0002-0680-6916",
     "affiliation": "",
@@ -123927,28 +128045,6 @@ window.AUTHORS_DATA = {
     "articles": [
       "wang_zuo_xu_liu.2025.RLBCPPaAC3PoCHC",
       "wang_liu_xu_cao.2025.AGALHCPPAfC3PoCPSBoMOOaRL"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zhang_j-l": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "J.-L.",
-    "articles": [
-      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zhang_j-y": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "J.-Y.",
-    "articles": [
-      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS"
     ],
     "orcid": "",
     "affiliation": "",
@@ -123982,17 +128078,6 @@ window.AUTHORS_DATA = {
     "firstName": "Jiali",
     "articles": [
       "hira_zhan_kawa.2019.AMtEtFaFoCBMf3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zhang_jiaming": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "Jiaming",
-    "articles": [
-      "zhou_wang_liu_zhan.2026.MPMCEaDDMi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -124036,7 +128121,8 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Jianming",
     "articles": [
-      "wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN"
+      "wang_zhou_liu_zhan.2025.RPaMDo3PCBoLFN",
+      "zhou_wang_liu_zhan.2026.MPMCEaDDMi3PC"
     ],
     "orcid": "0009-0001-0535-0179",
     "affiliation": "",
@@ -124047,6 +128133,7 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Jianyuan",
     "articles": [
+      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS",
       "shen_yuan_zhan_liu.2026.AIMMSfMPoP"
     ],
     "orcid": "",
@@ -124063,10 +128150,12 @@ window.AUTHORS_DATA = {
       "yuan_shen_yao_pich.2025.ATSDSf3PCCCA",
       "zhan_yuan_fato_zhou.2025.3PMIMSWIBA",
       "yuan_zia_shei_irfa.2026.EIBSo3PCTMDbMoISBA",
+      "shen_yuan_zhan_zhan.2026.OoMTfPUaNCMS",
       "zia_yuan_irfa_shen.2026.IoSBAotWaMBo3PM",
       "zia_zhan.2026.EoMSo3PMUPRoCbSBA",
       "shen_yuan_zhan_liu.2026.AIMMSfMPoP",
-      "fato_zhan_rong_qiao.2026.AMCMfBAiEBAMoCM"
+      "fato_zhan_rong_qiao.2026.AMCMfBAiEBAMoCM",
+      "yuan_zhan_tao.2026.P"
     ],
     "orcid": "0000-0002-1912-1414",
     "affiliation": "",
@@ -124273,17 +128362,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhang_l": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "L.",
-    "articles": [
-      "zuo_cort_huan_zhan.2023.MotDoFSfC3P"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "zhang_lei": {
     "prefix": "",
     "lastName": "Zhang",
@@ -124399,7 +128477,9 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Linsen",
     "articles": [
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -124449,6 +128529,7 @@ window.AUTHORS_DATA = {
     "firstName": "Lulu",
     "articles": [
       "zuo_gong_huan_zhan.2019.ERoTfS3PtFSPiC",
+      "zuo_cort_huan_zhan.2023.MotDoFSfC3P",
       "zuo_cort_huan_chen.2023.PtWAoLS3P",
       "zuo_cort_huan_chen.2024.STLS3PWSC"
     ],
@@ -124660,7 +128741,9 @@ window.AUTHORS_DATA = {
       "ma_jia_chen_jian.2024.WLaSPi3PCwVwbaSS",
       "nana_baz_blac_pera.2024.MPo3PFRC",
       "zhan_bega_khat.2024.QCoEMMTiEA3PM",
-      "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
+      "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
+      "nana_zhan_lomb_carr.2026.SO3PCfaNEoMC",
+      "vivi_zhan_lapi_schu.2026.ANAi3PCfBME"
     ],
     "orcid": "0000-0001-7518-2302",
     "affiliation": "",
@@ -124759,6 +128842,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhang_ruichuan": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Ruichuan",
+    "articles": [
+      "hagh_lee_zhan_sade.2026.AQPo3PHULSTMaLLM"
+    ],
+    "orcid": "0000-0001-8421-1996",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhang_runhong": {
     "prefix": "",
     "lastName": "Zhang",
@@ -124793,6 +128887,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhang_shifan": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Shifan",
+    "articles": [
+      "mark_schm_zhan_kal.2026.ISMaCoPSi3PCE"
+    ],
+    "orcid": "0009-0003-4777-8119",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhang_shihao": {
     "prefix": "",
     "lastName": "Zhang",
@@ -124812,13 +128917,15 @@ window.AUTHORS_DATA = {
       "wang_xiao_sun_zhan.2023.MPo3PMCbC",
       "zhan_hao_zhan_xiao.2023.AMTfPSaCi3PCUDOFS",
       "li_hao_li_xiao.2023.DoCI3PC",
-      "hao_li_zhan_huan.2023.TSEoGGCaSFotPo3PM",
+      "hao_li_zhan_zhan.2023.TSEoGGCaSFotPo3PM",
+      "zhan_tan_hao_zhan.2024.IRTQCf3PCwNNSM",
       "zhan_hao_zhan_xiao.2024.RTMaFOSf3PCBoCV",
       "ali_zhan_xuan_poon.2025.DoaNMSfSoDPoOPGUMSWIBAaBFS",
-      "hao_hanx_huan_zhan.2025.DoCAIEtItIPo3PC",
+      "hao_hanx_zhan_zhan.2025.DoCAIEtItIPo3PC",
       "li_ji_xiao_xiao.2025.SfIBo3PCUCMaCA",
       "liu_zhan_hao_wu.2025.RRCaSo3PCMvCFMia2PS",
-      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP"
+      "li_lu_sing_hao.2026.IBaRCEo3PCvCMaWGP",
+      "wu_liu_qin_zhan.2026.3PRMC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -124893,17 +129000,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhang_tao": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "Tao",
-    "articles": [
-      "hu_cao_zhan_chen.2022.TDPMfCIPoHB"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "zhang_tianguo": {
     "prefix": "",
     "lastName": "Zhang",
@@ -124964,7 +129060,8 @@ window.AUTHORS_DATA = {
       "chen_chen_ge_zhan.2026.MBaDEo3PECCaET",
       "zhan_wei_chen_yu.2026.ECaTMotBBBFBa3PSHCC",
       "zhan_lu_xie_chen.2026.EaMCotADMIIFBo3PUHPC",
-      "wei_zhan_wang_chen.2026.RBaMDEo3PUHPCCCRA"
+      "wei_zhan_wang_chen.2026.RBaMDEo3PUHPCCCRA",
+      "zhan_xie_lu_chen.2026.RtDMIFBo3PUCRFAUST"
     ],
     "orcid": "0000-0002-9796-656X",
     "affiliation": "",
@@ -125177,6 +129274,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhang_xiaotian": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Xiaotian",
+    "articles": [
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhang_xiaowei": {
     "prefix": "",
     "lastName": "Zhang",
@@ -125379,23 +129487,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhang_y_f": {
+  "zhang_y": {
     "prefix": "",
     "lastName": "Zhang",
     "firstName": "Y.",
     "articles": [
       "li_jiao_ren_liu.2026.ANPMSfDRMAM"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zhang_y_x": {
-    "prefix": "",
-    "lastName": "Zhang",
-    "firstName": "Y.",
-    "articles": [
-      "rahm_an_yang_zhan.2026.PMPaIBoaSHVSB3PCC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -125508,7 +129605,12 @@ window.AUTHORS_DATA = {
       "liu_obin_zhan_zhan.2026.SOoBaMi3PFCEbSPaSF",
       "lin_zhen_xia_feng.2026.MtCWUi3PCCSRaIP",
       "wang_obin_bant_zhan.2026.IRiIBi3PC3TILM",
-      "busw_jamh_moha_soko.2026.FtF"
+      "busw_jamh_moha_soko.2026.FtF",
+      "yuan_hui_dong_yan.2026.IBDo3PUHPCUFTC",
+      "tang_xia_yan_hui.2026.PSMaPo3PCvITPI",
+      "dong_yue_liu_yuan.2026.DMo3PUHPCUHVI",
+      "zhan_zuo_chen_muth.2026.CDC2S",
+      "bai_liu_hui_liu.2026.IDDaRCoaLSF3PCLB"
     ],
     "orcid": "0000-0003-1864-2258",
     "affiliation": "",
@@ -125649,10 +129751,14 @@ window.AUTHORS_DATA = {
       "tao_zhan_moha_dai.2025.WDAi3PC",
       "tao_yuan_zhan_wang.2025.PSAoPUVT",
       "zhan_ren_titt_schu.2025.LIi3PCBM",
-      "zhan_lima_bohl_arun.2025.DAo3PCBM",
+      "zhan_nasc_bohl_arun.2025.DAo3PCBM",
       "zhan_meer_kolo_titt.2026.ARCo3PCBMwETRP",
       "lori_zhan_titt_matt.2026.RBo3PULCCR",
-      "lori_zhan_titt_matt.2026.ULC3PC"
+      "lori_zhan_titt_matt.2026.ULC3PC",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "nguy_lori_hama_van.2026.MBo3PSBFwMHC",
+      "ukra_hass_parr_raza.2026.CTi3PCSBMfMCPN",
+      "zhan_schu_titt.2026.PSo3PPCBMBaAE"
     ],
     "orcid": "0000-0002-2633-5605",
     "affiliation": "",
@@ -125731,7 +129837,8 @@ window.AUTHORS_DATA = {
       "nguy_jie_zhan_wong.2026.EoIAoSPaSo3PRCC",
       "an_zhu_rahm_zhan.2026.PISPHFESFSo3CP",
       "naya_naya_zhan.2026.PEMBaLCAo3CPICRCW",
-      "rahm_an_ahma_yang.2026.Do3PFRCC"
+      "rahm_an_ahma_yang.2026.Do3PFRCC",
+      "rahm_an_yang_zhan.2026.PMPaIBoaSHVSB3PCC"
     ],
     "orcid": "0000-0003-1912-8277",
     "affiliation": "",
@@ -125757,9 +129864,12 @@ window.AUTHORS_DATA = {
       "zhan_ren_dai_tao.2024.APARCAf3PCBM",
       "zhan_tao_zhan_titt.2024.USARCtCMwtIoaILMF",
       "zhan_lesa_zhan_tao.2024.EoMITotBoPCaLPCFP",
+      "zhan_lesa_schu.2024.MPo3PRCMAMI",
       "zhan_titt_tao_zhan.2024.UCi3PCBMwEBS",
       "sun_zhan_zhou_wang.2024.EAo3PCaaTPDF",
-      "schu_zhan.2026.ARCf3CP"
+      "schu_zhan.2026.ARCf3CP",
+      "zhan_ghod_jiao_tao.2026.ACo3PoCM",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL"
     ],
     "orcid": "0000-0002-6388-2413",
     "affiliation": "",
@@ -125811,7 +129921,6 @@ window.AUTHORS_DATA = {
       "chen_zhan_zhan_pang.2023.IoGoEB3PCwCA",
       "zhu_zhu_li_zhan.2023.ASotPoMSC",
       "chen_zhan_liu_zhan.2024.QSQEf3PCwCAT3S",
-      "wang_du_zhan_ma.2024.Et3MCaSSMMoFRRAC",
       "chen_zhan_quan_liu.2024.EATDMPo3PCwCA",
       "wang_zhan_wang_chen.2024.AMiCUUAV",
       "zhan_yu_zhan_zhan.2024.SotPMfCBHo3PCBoPaEMP",
@@ -125820,7 +129929,9 @@ window.AUTHORS_DATA = {
       "sun_wang_zhan_liu.2024.SUoWit3PC",
       "zhu_liu_zhan_zhu.2024.RRaSBUo3PMSCvSMP",
       "zhu_zhan_zhan_liu.2026.MIoMSCo3PCP",
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "0000-0003-4668-1553",
     "affiliation": "",
@@ -125877,7 +129988,8 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Yuhang",
     "articles": [
-      "zhu_zhan_ye_wei.2025.LVIPoB3PECCB"
+      "zhu_zhan_ye_wei.2025.LVIPoB3PECCB",
+      "li_liu_wang_wang.2026.MPOo3PAATICIRPPaWGP"
     ],
     "orcid": "0009-0008-4808-0501",
     "affiliation": "",
@@ -125935,9 +130047,22 @@ window.AUTHORS_DATA = {
       "zhu_liu_zhan_zhan.2025.RPRaMOoMSCi3P",
       "zhu_zhan_zhan_liu.2026.MIoMSCo3PCP",
       "hai_niu_zhai_shi.2026.RPaMAo3PCwMRaRA",
-      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT"
+      "yu_zhan_zhan_liu.2026.MOROo3PCBMURNIaEWT",
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "yu_zhan_zhan_liu.2026.DLAXRCCoTDPAi3PCAC"
     ],
     "orcid": "0000-0001-5630-4570",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhang_yusi": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Yusi",
+    "articles": [
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -125953,6 +130078,17 @@ window.AUTHORS_DATA = {
       "zhan_zhan_su_zhan.2026.LC3PCbUBaaCS"
     ],
     "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhang_yuzhuo": {
+    "prefix": "",
+    "lastName": "Zhang",
+    "firstName": "Yuzhuo",
+    "articles": [
+      "zhan_wang_liu_hang.2026.EoRCARotAMPaFMo3PC"
+    ],
+    "orcid": "0000-0003-2380-2922",
     "affiliation": "",
     "ror": ""
   },
@@ -126112,7 +130248,7 @@ window.AUTHORS_DATA = {
     "lastName": "Zhang",
     "firstName": "Ziqi",
     "articles": [
-      "zhan_pan_guoa_lin.2025.SaAoMSaMIbEBi3PC"
+      "zhan_pan_guo_lin.2025.SaAoMSaMIbEBi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126303,6 +130439,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhao_hong-chao": {
+    "prefix": "",
+    "lastName": "Zhao",
+    "firstName": "Hong-Chao",
+    "articles": [
+      "ma_sun_xie_zhao.2026.EoCTotIBi3PAAC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhao_hongyu": {
     "prefix": "",
     "lastName": "Zhao",
@@ -126329,6 +130476,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhao_huanshuai": {
+    "prefix": "",
+    "lastName": "Zhao",
+    "firstName": "Huanshuai",
+    "articles": [
+      "wang_liu_lin_yang.2026.DaFCSoMB3PNfFCwEP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhao_huanyu": {
     "prefix": "",
     "lastName": "Zhao",
@@ -126338,6 +130496,17 @@ window.AUTHORS_DATA = {
       "qian_zhao_meng.2024.NSoCBw3PSHCCS",
       "nguy_jie_lao_zhao.2026.PoLRaA3PCCwLCECC",
       "nguy_jie_lao_zhao.2026.EaMSMIoPLCECCwDPFC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhao_jianming": {
+    "prefix": "",
+    "lastName": "Zhao",
+    "firstName": "Jianming",
+    "articles": [
+      "hou_tang_shen_gao.2026.PPMPSEaICoASaWAoEB3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126399,17 +130568,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhao_kang": {
-    "prefix": "",
-    "lastName": "Zhao",
-    "firstName": "Kang",
-    "articles": [
-      "zhao_hu_wang_li.2023.EoRaAotSoCtCICf3PPPF"
-    ],
-    "orcid": "0000-0002-6398-2772",
-    "affiliation": "",
-    "ror": ""
-  },
   "zhao_kefei": {
     "prefix": "",
     "lastName": "Zhao",
@@ -126448,7 +130606,8 @@ window.AUTHORS_DATA = {
     "lastName": "Zhao",
     "firstName": "Liguo",
     "articles": [
-      "yang_yao_zhao_zhan.2024.BAAaME"
+      "yang_yao_zhao_zhan.2024.BAAaME",
+      "wang_hui_sui_yan.2026.IotEoSWotPo3PCM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126609,7 +130768,7 @@ window.AUTHORS_DATA = {
     "lastName": "Zhao",
     "firstName": "Tai-Qi",
     "articles": [
-      "yu_zhao_lou_ping.2024.RPFwDSMfEILAi3PC"
+      "yu_zhao_luo_ping.2024.RPFwDSMfEILAi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126800,12 +130959,34 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhao_yifan": {
+    "prefix": "",
+    "lastName": "Zhao",
+    "firstName": "Yifan",
+    "articles": [
+      "shen_lu_li_cui.2026.REaPSoTDPSSSMCFAaSF"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhao_yilin": {
     "prefix": "",
     "lastName": "Zhao",
     "firstName": "Yilin",
     "articles": [
       "chen_li_xue_li.2026.AoRSMCMf23CP"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhao_yongqi": {
+    "prefix": "",
+    "lastName": "Zhao",
+    "firstName": "Yongqi",
+    "articles": [
+      "jin_wang_xu_zhan.2026.SoPMPaSPo3PMRMPC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126863,7 +131044,8 @@ window.AUTHORS_DATA = {
     "firstName": "Yuxin",
     "articles": [
       "zhen_li_xi_sun.2026.RotRoRPo3PRCaMOOoPP",
-      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC"
+      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -126889,7 +131071,8 @@ window.AUTHORS_DATA = {
       "duan_tao_lin_jiao.2025.3PDDMoLMitPM",
       "mech_muth_robe_wolf.2025.CSaMoE",
       "wolf_vers_sant_bhat.2025.FaTS",
-      "luo_li_lin_zhao.2026.3PRSCwDSTaC"
+      "luo_li_lin_zhao.2026.3PRSCwDSTaC",
+      "ji_zhao_xiao_xian.2026.SLICFAo3PRMCCMaDU"
     ],
     "orcid": "0000-0002-7059-9085",
     "affiliation": "",
@@ -127075,17 +131258,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zheng_jun-jie": {
-    "prefix": "",
-    "lastName": "Zheng",
-    "firstName": "Jun-Jie",
-    "articles": [
-      "sun_zhou_xia_zhen.2026.IBEfFGR3PCS"
-    ],
-    "orcid": "0000-0003-0893-6623",
-    "affiliation": "",
-    "ror": ""
-  },
   "zheng_junhao": {
     "prefix": "",
     "lastName": "Zheng",
@@ -127115,17 +131287,6 @@ window.AUTHORS_DATA = {
     "firstName": "Qi",
     "articles": [
       "geng_wu_pan_zhen.2022.RLIiCAMvSPaP"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zheng_shipeng": {
-    "prefix": "",
-    "lastName": "Zheng",
-    "firstName": "Shipeng",
-    "articles": [
-      "zhan_tan_hao_zhen.2024.IRTQCf3PCwNNSM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -127244,9 +131405,10 @@ window.AUTHORS_DATA = {
     "firstName": "Yuanxun",
     "articles": [
       "zhen_li_xi_sun.2026.RotRoRPo3PRCaMOOoPP",
-      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC"
+      "zhao_xi_zhen_li.2026.PaFTDoWSFM3PRAC",
+      "zhen_li_xi_cai.2026.EoWSFPoPRaIPo3PRC"
     ],
-    "orcid": "",
+    "orcid": "0000-0002-4907-169X",
     "affiliation": "",
     "ror": ""
   },
@@ -127261,7 +131423,8 @@ window.AUTHORS_DATA = {
       "zhi_wu_rabc.2023.EoTVLBFoRPaREaCoTDPM",
       "wu_chen_zhi_zhu.2023.Eo3PGMoBoCTBBoIA",
       "zhi_wu_bai.2024.DtEoGaDPoSoFODF3PBoDES",
-      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB"
+      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB",
+      "wu_zhi_goul_moha.2026.L3CP"
     ],
     "orcid": "0000-0002-3690-5018",
     "affiliation": "",
@@ -127283,7 +131446,8 @@ window.AUTHORS_DATA = {
       "yava_bolh_akba_oror.2025.AFEMo3PPTCBwEV",
       "zhi_akba.2025.STToSCi3CPfOBaSQ",
       "zhi_oror_mota_chai.2025.TOfaPTC3PFS",
-      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS"
+      "chai_bern_zhi_oror.2026.DtFWf3CPSwEPAS",
+      "mach_zhi_oror_mota.2026.HOREfHIFOWU3PUPS"
     ],
     "orcid": "0000-0003-1654-4865",
     "affiliation": "",
@@ -127342,6 +131506,17 @@ window.AUTHORS_DATA = {
       "zhon_huan_liu_wang.2024.CA3PMfMSV",
       "zhon_huan_liu_wang.2024.CDAMoSSSM",
       "zhon_huan_liu_wang.2025.DSfECCi3PSSM"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhong_qing": {
+    "prefix": "",
+    "lastName": "Zhong",
+    "firstName": "Qing",
+    "articles": [
+      "pei_wang_quan_zhan.2026.EoRFfSSSBo3PGAwSG"
     ],
     "orcid": "",
     "affiliation": "",
@@ -127406,7 +131581,9 @@ window.AUTHORS_DATA = {
     "firstName": "Biao",
     "articles": [
       "zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET",
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "0000-0003-3517-699X",
     "affiliation": "",
@@ -127603,7 +131780,9 @@ window.AUTHORS_DATA = {
     "firstName": "Hongru",
     "articles": [
       "zhou_zhou_yosh_nogu.2025.MaMEo3PCIaET",
-      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW"
+      "zhou_zhan_yosh_ge.2026.RPaMEoH3PCAEtW",
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET",
+      "zhou_lu_zhou_wang.2026.TDEo3PCUOSFE"
     ],
     "orcid": "",
     "affiliation": "",
@@ -127654,6 +131833,7 @@ window.AUTHORS_DATA = {
     "lastName": "Zhou",
     "firstName": "Jiajia",
     "articles": [
+      "raza_tan_zhou_umar.2025.EoMaMPoS3PECCIHPPFaYRS",
       "yin_lv_ma_yuan.2026.FTDaADEo3PRSECC"
     ],
     "orcid": "",
@@ -127703,8 +131883,9 @@ window.AUTHORS_DATA = {
       "zeng_li_yan_zhou.2023.Bo3PHPwFGRUB",
       "yan_zeng_zhug_liao.2023.CBoFC3PUHPCC",
       "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP",
-      "sun_zhou_xia_zhen.2026.IBEfFGR3PCS",
-      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC"
+      "sun_zhou_xia_zeng.2026.IBEfFGR3PCS",
+      "sun_lin_xie_zhou.2026.3PFGPIAARCaSHAAC",
+      "wu_sun_zhou_zeng.2027.AISAfRCBU3PCwIPEFGR"
     ],
     "orcid": "",
     "affiliation": "",
@@ -127841,6 +132022,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zhou_min": {
+    "prefix": "",
+    "lastName": "Zhou",
+    "firstName": "Min",
+    "articles": [
+      "zhou_guad_khay_nema.2026.UTTRMOaPPRMf3PC"
+    ],
+    "orcid": "0009-0002-5950-8290",
+    "affiliation": "",
+    "ror": ""
+  },
   "zhou_mingli": {
     "prefix": "",
     "lastName": "Zhou",
@@ -127881,17 +132073,6 @@ window.AUTHORS_DATA = {
     "firstName": "Ran",
     "articles": [
       "zhao_zhou_luo_liu.2025.DFOSSfVMo3PB"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
-  "zhou_shuai": {
-    "prefix": "",
-    "lastName": "Zhou",
-    "firstName": "Shuai",
-    "articles": [
-      "hou_wu_duan_zhou.2024.RoFRMf3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -127989,7 +132170,8 @@ window.AUTHORS_DATA = {
       "zhou_li_fan_chen.2013.RoSSFCPaMiOE",
       "zhou_li.2015.MCBMaBPvE",
       "sun_wang_yu_qian.2023.PaMo3PSCCCIBaNC",
-      "jin_sun_chen_zhou.2026.PtPoCCi3P"
+      "jin_sun_chen_zhou.2026.PtPoCCi3P",
+      "jin_sun_chen_sun.2026.TAAo3PCCTRRaIM"
     ],
     "orcid": "0000-0001-7977-0718",
     "affiliation": "",
@@ -128001,6 +132183,17 @@ window.AUTHORS_DATA = {
     "firstName": "Xiaolong",
     "articles": [
       "jin_zhou_chen_zhao.2022.HT3PWPCBMwGFT"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhou_xiaomeng": {
+    "prefix": "",
+    "lastName": "Zhou",
+    "firstName": "Xiaomeng",
+    "articles": [
+      "zhou_zhan_zhou_wang.2026.ARSPMo3PHFRCaET"
     ],
     "orcid": "",
     "affiliation": "",
@@ -128116,6 +132309,17 @@ window.AUTHORS_DATA = {
       "chen_gao_ding_zhou.2023.GABMOf3PDoaDSLHS",
       "li_gao_zhou_han.2024.ARoDaCotLLLI",
       "lian_zeng_wang_wang.2025.ERM3PS"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhou_yanhua": {
+    "prefix": "",
+    "lastName": "Zhou",
+    "firstName": "Yanhua",
+    "articles": [
+      "wang_leng_lian_zhou.2026.MPPRi3PC"
     ],
     "orcid": "",
     "affiliation": "",
@@ -128356,7 +132560,8 @@ window.AUTHORS_DATA = {
       "wang_liu_zhu_zhu.2026.IMaEFf3PRACSP",
       "zhu_yang_liu_zhao.2026.SWVi3PC",
       "liu_fan_liu_ji.2026.PWCoCSMiAMoCAC",
-      "liu_wang_liu_zhou.2026.ARoSAMoC"
+      "liu_wang_liu_zhou.2026.ARoSAMoC",
+      "liu_li_zhan_liu.2027.IoWCotEABo3PRSCWUPCL"
     ],
     "orcid": "",
     "affiliation": "",
@@ -128403,6 +132608,17 @@ window.AUTHORS_DATA = {
     "firstName": "Haitang",
     "articles": [
       "tang_wang_gao_yang.2025.RPo3PGC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zhu_hanbo": {
+    "prefix": "",
+    "lastName": "Zhu",
+    "firstName": "Hanbo",
+    "articles": [
+      "hai_yin_han_ji.2026.MSotMPo3PMUIT"
     ],
     "orcid": "",
     "affiliation": "",
@@ -128587,7 +132803,8 @@ window.AUTHORS_DATA = {
     "firstName": "Peng",
     "articles": [
       "wu_chen_zhi_zhu.2023.Eo3PGMoBoCTBBoIA",
-      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB"
+      "zhu_wu_zhi_zhu.2026.NOSBPSfCPo3PFRCBUB",
+      "wu_zhi_goul_moha.2026.L3CP"
     ],
     "orcid": "0000-0002-8610-119X",
     "affiliation": "",
@@ -128614,7 +132831,10 @@ window.AUTHORS_DATA = {
       "lyu_wang_chen_liu.2025.ESPaMSo3PPCSSRbEMoCBCNF",
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
-      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM"
+      "chen_lu_liu_zhu.2026.EoFFMbHOCotMaHPo3PM",
+      "zong_sun_lyu_luo.2026.LC3PMUHP",
+      "wang_mbab_liu_zhu.2026.Po3PLTFCwDFPM",
+      "lu_chen_liu_feng.2026.SAMSMSfEMSaHo3PM"
     ],
     "orcid": "",
     "affiliation": "",
@@ -128869,23 +133089,12 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zhuang_xiaojian": {
-    "prefix": "",
-    "lastName": "Zhuang",
-    "firstName": "Xiaojian",
-    "articles": [
-      "loan_zhua_cong_lian.2026.MAWAaALoTR3PCFfACRA"
-    ],
-    "orcid": "0000-0003-1287-1199",
-    "affiliation": "",
-    "ror": ""
-  },
   "zhuang_zicheng": {
     "prefix": "",
     "lastName": "Zhuang",
     "firstName": "Zicheng",
     "articles": [
-      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CPb",
+      "du_teng_zhua_zhan.2024.ABERCSfAIBRRa3CP",
       "zhua_xu_ye_hu.2024.ACRoSMaTPOi3CP",
       "ye_zhua_teng_yu.2024.CEAo3CPwECC",
       "xu_yu_teng_lin.2026.AoRTaICMi3PECC"
@@ -128910,7 +133119,9 @@ window.AUTHORS_DATA = {
       "zeng_jian_yan_sun.2025.3PoCCFRPRfCC",
       "sun_zeng_wu_zhou.2026.IPEFGfEFPo3PCP",
       "sun_xie_zeng_zhug.2026.3PCwIPEFRPGR",
-      "sun_zhou_xia_zhen.2026.IBEfFGR3PCS"
+      "sun_zhou_xia_zeng.2026.IBEfFGR3PCS",
+      "sun_zeng_zhug.2026.BBo3PFGCPwSEFGR",
+      "wu_sun_zhou_zeng.2027.AISAfRCBU3PCwIPEFGR"
     ],
     "orcid": "0000-0003-1620-6743",
     "affiliation": "",
@@ -129117,6 +133328,17 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
+  "zingashina_liliya": {
+    "prefix": "",
+    "lastName": "Zingashina",
+    "firstName": "Liliya",
+    "articles": [
+      "akma_mukh_kabi_tole.2026.EoGRHotRMaTPo3PCBC"
+    ],
+    "orcid": "",
+    "affiliation": "",
+    "ror": ""
+  },
   "zivkovic_milijana": {
     "prefix": "",
     "lastName": "Živković",
@@ -129166,6 +133388,17 @@ window.AUTHORS_DATA = {
       "hlav_kols_zocc_kuhn.2024.AMoAAMbLISC"
     ],
     "orcid": "0000-0002-0213-2766",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zody_zachary": {
+    "prefix": "",
+    "lastName": "Zody",
+    "firstName": "Zachary",
+    "articles": [
+      "zody_thom_mont_wild.2026.SACoRISBoaMPISwB"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   },
@@ -129247,9 +133480,10 @@ window.AUTHORS_DATA = {
       "dai_lyu_zong_zhu.2024.EoWPFotPaMPo3PCM",
       "dai_luo_wang_mbab.2025.WPFRCCSMbME3P",
       "luo_sun_mbab_du.2026.3PCSSwPKEPME",
-      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P"
+      "lyu_luo_sun_du.2026.IESoDCCCSSFvME3P",
+      "zong_sun_lyu_luo.2026.LC3PMUHP"
     ],
-    "orcid": "",
+    "orcid": "0000-0003-2612-8179",
     "affiliation": "",
     "ror": ""
   },
@@ -129348,7 +133582,8 @@ window.AUTHORS_DATA = {
     "firstName": "Kelvin",
     "articles": [
       "ma_sama_roti_zou.2024.SCLo3PB",
-      "ma_sama_roti_zou.2025.ARoSCDo3CPCP"
+      "ma_sama_roti_zou.2025.ARoSCDo3CPCP",
+      "ma_sama_roti_zou.2025.ERMf3CPSCS"
     ],
     "orcid": "0009-0004-4976-747X",
     "affiliation": "",
@@ -129408,6 +133643,7 @@ window.AUTHORS_DATA = {
       "li_li_zou.2023.DLp3PCUSW",
       "deng_zou_xi_sing.2023.DaCo3PMwWGP",
       "hou_duan_ye_zou.2023.MPaPSo3PMwRP",
+      "hou_wu_duan_zou.2024.RoFRMf3PC",
       "nasr_duan_sing_yang.2024.EMPo3PCCUHRPaPF",
       "tao_duan_lin_zou.2026.SEoSaTIi3PLCUCBCSC"
     ],
@@ -129526,17 +133762,6 @@ window.AUTHORS_DATA = {
     "affiliation": "",
     "ror": ""
   },
-  "zuo_kelvin": {
-    "prefix": "",
-    "lastName": "Zuo",
-    "firstName": "Kelvin",
-    "articles": [
-      "ma_sama_roti_zuo.2025.ERMf3CPSCS"
-    ],
-    "orcid": "",
-    "affiliation": "",
-    "ror": ""
-  },
   "zuo_qinxin": {
     "prefix": "",
     "lastName": "Zuo",
@@ -129588,7 +133813,9 @@ window.AUTHORS_DATA = {
       "zuo_cane_keit_aime.2024.DIDiEFCBMaVEA",
       "keit_zuo_cane_aime.2024.XRTIiEDEi3CP",
       "lu_zhan_wang_shi.2025.PToSLIfYSAo3PC",
-      "keit_deni_lomb_mark.2026.EADSaCiPaPCM"
+      "keit_deni_lomb_mark.2026.EADSaCiPaPCM",
+      "yu_zhan_zhan_zuo.2026.MRCAM",
+      "zhan_zuo_chen_muth.2026.CDC2S"
     ],
     "orcid": "0000-0002-2820-6559",
     "affiliation": "",
@@ -129626,6 +133853,17 @@ window.AUTHORS_DATA = {
       "zuo_zhan_huan_li.2026.AQAaEMftBoLSOS3PC"
     ],
     "orcid": "0000-0003-0900-5433",
+    "affiliation": "",
+    "ror": ""
+  },
+  "zurawik_rafal": {
+    "prefix": "",
+    "lastName": "Zurawik",
+    "firstName": "Rafal",
+    "articles": [
+      "kren_rosk_zura_fett.2026.SBDoaVM3CPH"
+    ],
+    "orcid": "",
     "affiliation": "",
     "ror": ""
   }

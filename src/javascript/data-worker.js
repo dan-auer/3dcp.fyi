@@ -7,13 +7,14 @@
    worker rather than on the page. The result crosses back by structured clone.
 
    Message in : { reqId, url, global }        global: "ARTICLES_DATA" etc.
-   Message out: { reqId, value } | { reqId, error } */
+   Message out: { reqId, loaded, total }      while the file arrives (see read)
+                { reqId, value } | { reqId, error }   once, at the end */
 self.onmessage = async function (event) {
   var m = event.data;
   try {
     var r = await fetch(m.url);
     if (!r.ok) throw new Error("HTTP " + r.status + " for " + m.url);
-    var text = await r.text();
+    var text = await read(r, m.reqId);
     var at = text.lastIndexOf("window." + m.global);
     if (at < 0) throw new Error("no window." + m.global + " assignment in " + m.url);
     var start = text.indexOf("=", at) + 1;
@@ -26,3 +27,27 @@ self.onmessage = async function (event) {
     self.postMessage({ reqId: m.reqId, error: String(error.message || error) });
   }
 };
+
+// The body as text, reporting { reqId, loaded, total } for the table's loading
+// bar: once when the headers are in, every 64 KB, and at the end. loaded counts
+// the bytes after any compression is undone, so total is the Content-Length
+// only for a file sent uncompressed (serve.py); 0 means unknown (GitHub Pages
+// compresses - data-load.js then takes the size from data/summary.json).
+async function read(r, reqId) {
+  if (!r.body || !r.body.getReader) return r.text();
+  var total = r.headers.get("Content-Encoding") ? 0 : Number(r.headers.get("Content-Length")) || 0;
+  var reader = r.body.getReader(), chunks = [], loaded = 0, told = 0;
+  self.postMessage({ reqId: reqId, loaded: 0, total: total });
+  for (;;) {
+    var step = await reader.read();
+    if (step.done) break;
+    chunks.push(step.value);
+    loaded += step.value.length;
+    if (loaded - told >= 65536) {
+      told = loaded;
+      self.postMessage({ reqId: reqId, loaded: loaded, total: total });
+    }
+  }
+  self.postMessage({ reqId: reqId, loaded: loaded, total: total });
+  return new Blob(chunks).text();
+}

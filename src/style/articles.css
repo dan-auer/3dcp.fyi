@@ -949,6 +949,49 @@ span.author-aff{ cursor: help; }
   border-radius: var(--radius-control);
 }
 
+/* While the table waits for its data (articles-grid.js showLoadState): the
+   download as a bar centred where the rows will be, a line under it, the same
+   accent fill on a faint track as the semantic model's download in the search
+   field. Without a known size a stretch of bar slides across instead. */
+.load-state{
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+  pointer-events: none;
+  z-index: 5;
+}
+.load-state-inner{ width: min(320px, 100%); text-align: center; font-family: var(--sans); }
+.load-state-bar{
+  display: block;
+  height: 4px;
+  border-radius: var(--radius-control);
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  overflow: hidden;
+}
+.load-state-fill{
+  display: block;
+  width: 0;
+  height: 100%;
+  border-radius: var(--radius-control);
+  background: var(--accent);
+  transition: width .2s linear;
+}
+.load-state-text{
+  margin: 10px 0 0;
+  font-size: var(--fs-meta);
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-2);
+}
+.load-state.is-indeterminate .load-state-fill{ width: 30%; animation: oa-load-slide 1.4s ease-in-out infinite; }
+@keyframes oa-load-slide{ from { transform: translateX(-100%); } to { transform: translateX(340%); } }
+@media (prefers-reduced-motion: reduce){
+  .load-state-fill{ transition: none; }
+  .load-state.is-indeterminate .load-state-fill{ width: 100%; opacity: .5; animation: none; }
+}
+
 /* The empty-state overlay sits on top of the SlickGrid canvas (which keeps
    rendering an empty viewport underneath) and explains why the grid looks
    blank. Two actions cover the recovery paths: nuke everything, or rewind
