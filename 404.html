@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Page not found • 3dcp.fyi</title>
+<meta name="robots" content="noindex"/>
+<meta name="description" content="This page could not be found. Browse the 3dcp.fyi database of 3D concrete printing articles, authors and keywords instead."/>
+<link rel="icon" type="image/svg+xml" href="/src/favicon.svg"/>
+<link rel="preload" href="/src/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+<!-- Root-absolute, so a 404 at any depth finds it; where the root is not the
+     site's (the page opened from a subfolder), it is retried beside the page. -->
+<link rel="stylesheet" href="/src/style/article.css" onerror="this.onerror=null;this.href='src/style/article.css'"/>
+
+<!-- Shared pre-paint boot: day/night scheme + matching background before
+     first paint, plus OA_REL_ROOT. See src/javascript/oa-boot.js. -->
+<script src="/src/javascript/oa-boot.js"></script>
+<script>
+  /* The theme without oa-boot.js (a deep path or an offline open that cannot
+     reach /src/): the same stored choice, stamped on <html> the same way, so
+     the fallback colours below follow it. */
+  (function () {
+    if (window.OA_SCHEME) return;
+    var t = null;
+    try { t = localStorage.getItem("oa-scheme"); } catch (e) { /* storage off */ }
+    if (t !== "light" && t !== "dark" && t !== "mint") t = "mint";
+    var de = document.documentElement;
+    de.setAttribute("data-scheme", t === "light" ? "light" : "dark");
+    de.setAttribute("data-theme", t);
+    de.style.background = { dark: "#000000", light: "#ffffff", mint: "#071611" }[t];
+    de.style.colorScheme = t === "light" ? "light" : "dark";
+  })();
+</script>
+<script>
+  /* Short links: 3dcp.fyi/<bibtex key> and 3dcp.fyi/<author slug> -> the
+     article list filtered to that key (ID IS "<key>") or author (AUTHOR IS
+     "<slug>"). GitHub Pages serves this page for every path that is not a
+     file, so the route lives here: a single path segment shaped like a key
+     (authors.year.TitleWords - letters, digits, _ - and two dots) or like an
+     author slug (surname_given[-more]: lowercase, underscores, hyphens, the
+     odd apostrophe - o'neill_sophia - no dots) is redirected before the 404
+     paints; anything else falls through to
+     the not-found page below. A key or slug that no longer exists lands on an
+     empty list there, which says so. */
+  (function () {
+    // Export boot supplies the same navigation root used by all other pages.
+    // Source use remains at /; refuse paths outside a repository boundary.
+    var base = window.OA_REL_ROOT || "/";
+    if (base.charAt(0) !== "/" || base.charAt(base.length - 1) !== "/") return;
+    var path = location.pathname;
+    if (path.indexOf(base) !== 0) return;
+    var seg = path.slice(base.length).replace(/^\/+/, "").replace(/\/$/, "");
+    if (/%(?:2f|5c)/i.test(seg) || /[\\]/.test(seg)) return;
+    var key;
+    try { key = decodeURIComponent(seg); } catch (e) { return; }
+    var rule = null;
+    var KEY_RE = /^[A-Za-z0-9_-]+\.(?:\d{4}[a-z]?)?\.[A-Za-z0-9_-]+$/;   // the year can be missing (key..Title)
+    // <key>/references | /citations | /similar -> the article's citation-graph
+    // neighbours (REFERENCES_OF / CITATIONS_OF / SIMILAR_TO "<key>").
+    var GRAPH = { references: "REFERENCES_OF", citations: "CITATIONS_OF", similar: "SIMILAR_TO" };
+    // Shaped like an article key but off its pattern (a dot lost or doubled, a
+    // stray character): the list says no article has it and offers the closest
+    // ones - better than this page. Files and probes keep their 404.
+    function looksLikeKey(k) {
+      return /^[A-Za-z][A-Za-z0-9_.-]*\d{4}[A-Za-z0-9_.-]*$/.test(k) && k.indexOf(".") > 0 &&
+        !/\.(html?|php\d?|aspx?|jsp|cgi|pdf|xml|txt|json|m?js|css|map|png|jpe?g|gif|svg|ico|webp|avif|woff2?|zip|gz|env|bak|sql)$/i.test(k);
+    }
+    function ruleFor(key, loose) {
+      var m = /^([^/]+)\/(references|citations|similar)$/i.exec(key);
+      // keyword/<value> | category/<abbr> -> KEYWORD IS / CATEGORY IS "<value>".
+      // No keyword or category ends in punctuation: what does came with a
+      // pasted link ("... 3dcp.fyi/keyword/#printability.").
+      var f = /^(keyword|category)\/([^/"]+)$/i.exec(key);
+      if (f) {
+        var v = f[2].replace(/[\s.,;:!?)\]}>'"\u2019\u201D]+$/, "");
+        return v ? f[1].toUpperCase() + ' IS "' + v + '"' : null;
+      }
+      if (m && (KEY_RE.test(m[1]) || (loose && looksLikeKey(m[1])))) return GRAPH[m[2].toLowerCase()] + ' "' + m[1] + '"';
+      if (KEY_RE.test(key)) return 'ID IS "' + key + '"';
+      // slugs are lowercase; a capitalised one still finds its author
+      if (/^[a-z][a-z0-9'-]*(_[a-z0-9'-]+)+$/.test(key.toLowerCase())) return 'AUTHOR IS "' + key.toLowerCase() + '"';
+      if (loose && looksLikeKey(key)) return 'ID IS "' + key + '"';
+      return null;
+    }
+    rule = ruleFor(key);
+    // A link pasted at the end of a sentence or in brackets picks up the
+    // punctuation after it ("see 3dcp.fyi/<key>."): without it, it may match.
+    if (!rule) {
+      var bare = key.replace(/[\s.,;:!?)\]}>'"\u2019\u201D]+$/, "").replace(/^[\s(\[{<'"\u2018\u201C]+/, "");
+      if (bare && bare !== key) { rule = ruleFor(bare); key = bare; }
+    }
+    // Last, so an exact match - with or without the punctuation - wins.
+    if (!rule) rule = ruleFor(key, true);
+    // The short link's own query (?SORT_BY=..., ?GROUP_BY=...) and hash ride
+    // along; only a q of its own gives way to the rule the path names.
+    function toRule(rule) {
+      var rest = location.search.replace(/^\?/, "").split("&").filter(function (p) { return p && !/^q=/i.test(p); }).join("&");
+      location.replace(base + "?q=" + encodeURIComponent(rule) + (rest ? "&" + rest : "") + location.hash);
+    }
+    if (rule) { toRule(rule); return; }
+    // Legacy routes of the v1 site (the zensical build that lived at these
+    // paths until v2): section indexes, the legal pages and author/<slug>.
+    // Each lands on the v2 view that holds the same content, with status 200
+    // on the far side. The legal pages must stay reachable at their old
+    // addresses - they are the Impressum / Datenschutz every German site is
+    // required to publish.
+    var lower = key.toLowerCase();
+    // keyword/#tag typed as the crumb shows it: the browser takes "#tag" for
+    // the fragment, so the path ends at keyword/. The tag is in the hash.
+    if (lower === "keyword" && location.hash.length > 1) {
+      var tag;
+      try { tag = decodeURIComponent(location.hash); } catch (e) { tag = location.hash; }
+      if (!/["\/\\]/.test(tag)) { location.replace(base + "?q=" + encodeURIComponent('KEYWORD IS "' + tag + '"')); return; }
+    }
+    var LEGACY = {
+      "articles": "", "author": "", "keyword": "",
+      "date": "?GROUP_BY=DATE",
+      "impressum": "rechtliches.html#impressum", "rechtliches": "rechtliches.html",
+      "datenschutz": "rechtliches.html#datenschutz-details",
+      "lizenzen": "rechtliches.html#lizenzen", "licenses": "rechtliches.html#lizenzen"
+    };
+    if (Object.prototype.hasOwnProperty.call(LEGACY, lower)) { location.replace(base + LEGACY[lower]); return; }
+    if (lower === "sponsors") {
+      // The sponsors band lives on the entry screen; ask for it (table-gate.js
+      // honours the one-shot request even for a returning visitor).
+      try { sessionStorage.setItem("oa-gate-request", "1"); } catch (e) {}
+      location.replace(base);
+      return;
+    }
+    var au = /^author\/([a-z][a-z0-9'-]*(?:_[a-z0-9'-]+)+)$/.exec(lower);
+    if (au) toRule('AUTHOR IS "' + au[1] + '"');
+  })();
+</script>
+
+<style>
+  /* A 404 is served by the web server for an arbitrary missing path, so all
+     links and assets here are root-relative ("/…") to resolve no matter how
+     deep the requested URL was. The export prefixes them with its configured
+     base path for repository hosting.
+
+     Because a deep-path 404 (or an offline open) may fail to reach the shared
+     article.css, every colour below falls back through --fb-* literals - so the
+     page stays fully legible even with no stylesheet. The fallbacks follow the
+     reader's theme (mint, the default; dark; light), stamped on <html> by
+     oa-boot.js or the inline script after it, with article.css's own values.
+     When article.css IS present, its --bg/--ink/etc. win. */
+  .oa-root {
+    --fb-bg:#071611; --fb-ink:#c7e6da; --fb-ink2:#a2c8b9; --fb-paper:#0b1d18;
+    --fb-line:#304a41; --fb-accent:#e4f222; --fb-on-accent:#000; --fb-accent-soft:rgba(228,242,34,.18);
+    min-height: 100dvh;
+    background: var(--bg, var(--fb-bg));
+    color: var(--ink, var(--fb-ink));
+  }
+  [data-theme="dark"] .oa-root {
+    --fb-bg:#000000; --fb-ink:#e6e8ec; --fb-ink2:#b2b8c2; --fb-paper:#0c0e12;
+    --fb-line:#333a45; --fb-accent:#ff9800; --fb-on-accent:#000; --fb-accent-soft:rgba(255,152,0,.20);
+  }
+  [data-theme="light"] .oa-root {
+    --fb-bg:#ffffff; --fb-ink:#22252a; --fb-ink2:#444a50; --fb-paper:#ffffff;
+    --fb-line:#c4c0bb; --fb-accent:#0065bd; --fb-on-accent:#fff; --fb-accent-soft:rgba(0,101,189,.14);
+  }
+  .oa-404 {
+    /* Full-viewport centring: this page has no header bar, so nothing to subtract. */
+    min-height: 100dvh;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    text-align: center; padding: 48px 24px 80px;
+  }
+  .oa-404-text {
+    font-family: var(--sans, system-ui, sans-serif); font-size: var(--fs-lead, 16px); line-height: 1.6;
+    color: var(--ink-2, var(--fb-ink2)); max-width: 46ch; margin: 0 0 32px;
+  }
+  .oa-404-links { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+  .oa-404-link {
+    display: inline-flex; align-items: center; gap: 9px; box-sizing: border-box;
+    font-family: var(--sans, "Inter", "Inter Fallback", Arial, Helvetica, sans-serif); font-size: var(--fs-body, 14px); font-weight: 600; text-decoration: none;
+    color: var(--ink, var(--fb-ink)); background: var(--paper, var(--fb-paper));
+    border: 1px solid var(--line-strong, var(--fb-line)); border-radius: var(--radius-control, 3px);
+    padding: 11px 16px; transition: border-color .12s, color .12s, background .12s;
+  }
+  .oa-404-link:hover { border-color: var(--accent, var(--fb-accent)); color: var(--accent-text, var(--fb-accent)); background: var(--accent-soft, var(--fb-accent-soft)); }
+  /* Filled with the page accent, sized like the landing page's "Browse
+     Articles" (.oa-gate-cta in index.html): same height, padding, type and
+     hover. The line height and letter spacing are a <button>'s defaults, which
+     that one has and a link would otherwise inherit from the page. */
+  .oa-404-link.is-primary { min-height: 44px; padding: 12px 26px; justify-content: center; line-height: normal; letter-spacing: normal; font-size: var(--fs-lead, 16px); white-space: nowrap; transition: box-shadow .12s; background: var(--accent, var(--fb-accent)); border-color: var(--accent, var(--fb-accent)); color: var(--on-accent, var(--fb-on-accent)); }
+  .oa-404-link.is-primary:hover { box-shadow: inset 0 0 0 1px currentColor; color: var(--on-accent, var(--fb-on-accent)); background: var(--accent, var(--fb-accent)); }
+  .oa-404-link:focus-visible { outline: var(--focus-ring, 2px solid currentColor); outline-offset: var(--focus-ring-offset, 2px); }
+  /* As on the landing page: the ring is for the keyboard (oa-boot.js tracks
+     the input; without it, the ring stays). */
+  html[data-input="pointer"] .oa-404-link.is-primary:focus-visible { outline: none; }
+  @media (max-width: 600px) { .oa-404-links { align-self: stretch; } .oa-404-link.is-primary { flex: 1 1 auto; } }
+  @media (prefers-reduced-motion: reduce) { .oa-404-link { transition: none; } }
+  .oa-404-link svg { flex: none; }
+</style>
+</head>
+<body>
+<div class="oa-root oa-title-sans" data-palette="concrete" data-accent="tum" data-font="inter" data-density="compact" data-dark="true">
+
+  <main id="main-content" class="oa-404">
+    <p class="oa-404-text">This page doesn’t exist, moved, or the link was mistyped. The paper, author, or keyword you were after might still be a search away.</p>
+    <div class="oa-404-links">
+      <a class="oa-404-link is-primary" href="/" data-comment-anchor="cc-1">Browse Articles</a>
+    </div>
+    <p lang="de" style="margin: 28px 0 0; font-family: var(--sans); font-size: var(--fs-meta); color: var(--ink-2);"><a href="/rechtliches.html" style="color: inherit; text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px;">Impressum &amp; Datenschutz</a></p>
+  </main>
+</div>
+
+<script src="/src/javascript/asset-loader.js"></script>
+<script src="/src/javascript/dialog-utils.js"></script>
+<script src="/src/javascript/bibliography.js"></script>
+<script src="/src/javascript/article-store.js"></script>
+<script src="/src/javascript/browser-actions.js"></script>
+<script src="/src/javascript/oa-theme.js"></script>
+<script src="/src/javascript/feature-loader.js"></script>
+</body>
+</html>

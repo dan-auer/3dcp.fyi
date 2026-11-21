@@ -1,0 +1,241 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Impressum &amp; Datenschutz • 3dcp.fyi</title>
+<meta name="description" content="Legal notice (Impressum), licences and privacy policy (Datenschutz) for 3dcp.fyi, the 3D concrete printing research database maintained at the Technical University of Munich."/>
+<link rel="canonical" href="https://3dcp.fyi/rechtliches.html"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="3dcp.fyi"/>
+<meta property="og:url" content="https://3dcp.fyi/rechtliches.html"/>
+<meta property="og:title" content="Impressum &amp; Datenschutz • 3dcp.fyi"/>
+<meta property="og:description" content="Legal notice and privacy policy for 3dcp.fyi, maintained at the Technical University of Munich."/>
+<link rel="icon" type="image/svg+xml" href="src/favicon.svg"/>
+<!-- Shared pre-paint boot: day/night scheme + matching background before
+     first paint, plus OA_REL_ROOT. See src/javascript/oa-boot.js. Ahead of the
+     stylesheet, which a parser-blocking script would otherwise wait for. -->
+<script src="src/javascript/oa-boot.js"></script>
+<link rel="preload" href="src/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+<link rel="stylesheet" href="src/style/article.css"/>
+
+<style>
+  /* Utility-page content column - quiet, readable prose on the shared palette. */
+  .oa-legal { --legal-indent: 32px; max-width: 1140px; margin: 0 auto; padding: 40px 48px 96px; hyphens: auto; -webkit-hyphens: auto; overflow-wrap: break-word; }
+  .oa-legal-table, .oa-legal a { hyphens: manual; -webkit-hyphens: manual; }
+  .oa-legal-eyebrow {
+    font-family: var(--sans); font-size: var(--fs-meta); font-weight: 600;
+    letter-spacing: normal; text-transform: none; color: var(--accent-text);
+    margin: 0 0 10px;
+  }
+  .oa-legal h1 {
+    font-family: var(--sans-display); font-weight: 600; letter-spacing: normal;
+    font-size: var(--fs-display); line-height: 1.1; margin: 0 0 8px; color: var(--ink);
+  }
+  .oa-legal-lede { font-family: var(--sans); font-size: var(--fs-lead); line-height: 1.6; color: var(--ink-2); margin: 0 0 28px; max-width: 60ch; }
+
+  /* Section title (Impressum / Datenschutz). */
+  .oa-legal-sec { scroll-margin-top: 80px; }
+  .oa-legal-sec > h2 {
+    font-family: var(--sans-display); font-weight: 600; letter-spacing: normal;
+    font-size: var(--fs-heading); line-height: 1.15; color: var(--ink);
+    margin: 8px 0 6px; padding-bottom: 14px; border-bottom: 1px solid var(--line-strong);
+  }
+
+  /* Subsection headings within a section. */
+  .oa-legal h3 {
+    font-family: var(--sans); font-weight: 600; font-size: var(--fs-lead); letter-spacing: normal;
+    color: var(--ink); margin: 34px 0 12px; padding-top: 20px; border-top: 1px solid var(--line);
+  }
+  .oa-legal-sec > h2 + .oa-legal-lede + h3,
+  .oa-legal-sec > h2 + h3 { border-top: none; padding-top: 6px; }
+
+  .oa-legal p, .oa-legal li { font-family: var(--sans); font-size: var(--fs-lead); line-height: 1.68; color: var(--ink-2); }
+  /* A reading measure for the prose: at the column's full width a line ran to
+     some 120 characters. Specificity 0, so the lede keeps its 60ch; the tables
+     keep the full width. */
+  :where(.oa-legal) :where(p, li) { max-width: 75ch; }
+  .oa-legal p { margin: 0 0 14px; }
+  .oa-legal strong { color: var(--ink); font-weight: 600; }
+  .oa-legal a { color: var(--accent-text); text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; }
+  .oa-legal ul { margin: 0 0 14px; padding-left: 20px; }
+  .oa-legal li { margin: 0 0 6px; }
+  .oa-legal address {
+    font-style: normal; font-family: var(--sans); font-size: var(--fs-lead); line-height: 1.7;
+    color: var(--ink); padding: 16px 18px; border: 1px solid var(--line);
+    border-radius: var(--radius-control); background: var(--paper); margin: 0 0 16px;
+  }
+  .oa-legal-note {
+    font-family: var(--sans); font-size: var(--fs-meta); line-height: 1.6; color: var(--muted);
+    margin: 28px 0 0; padding: 14px 16px; border-left: 3px solid var(--line-strong); background: var(--paper);
+  }
+
+  /* Licence table - same quiet prose voice, no zebra, hairline rows. */
+  .oa-legal-table-wrap { overflow-x: auto; margin: 18px 0 14px; }
+  .oa-legal-table { width: 100%; border-collapse: collapse; font-family: var(--sans); font-size: var(--fs-meta); line-height: 1.5; }
+  .oa-legal-table th, .oa-legal-table td { text-align: left; vertical-align: top; padding: 10px 14px 10px 0; border-bottom: 1px solid var(--line); color: var(--ink-2); }
+  .oa-legal-table th { color: var(--ink); font-weight: 600; border-bottom: 1px solid var(--line-strong); }
+  .oa-legal-table td:first-child { color: var(--ink); font-weight: 600; white-space: nowrap; }
+  .oa-legal-table td:last-child { white-space: nowrap; }
+  .oa-legal-table tbody tr:last-child td { border-bottom: 0; }
+  @media (max-width: 600px) { .oa-legal-table { min-width: 560px; } }
+
+  /* Body text indented from the headings: everything in a section but its
+     headings, and the lede under the title. Justified; the column's
+     hyphenation keeps the word gaps even. */
+  .oa-legal > .oa-legal-lede,
+  .oa-legal-sec > :not(h2, h3, h4) { margin-left: var(--legal-indent); }
+  .oa-legal p, .oa-legal li { text-align: justify; }
+  @media (max-width: 600px) { .oa-legal { --legal-indent: 16px; padding: 28px 20px 72px; } .oa-legal h1 { font-size: var(--fs-heading); } .oa-legal-sec > h2 { font-size: var(--fs-heading); } }
+</style>
+</head>
+<body>
+<a class="oa-skip" href="#main-content">Skip to main content</a>
+<div class="oa-root oa-title-sans" data-palette="concrete" data-accent="tum" data-font="inter" data-density="compact" data-dark="true">
+
+  <header class="oa-top" role="banner">
+    <div class="oa-top-inner">
+      <div class="oa-top-lead">
+        <nav class="oa-crumb" aria-label="Breadcrumb" lang="en"><a class="oa-crumb-home" href="index.html"><svg class="oa-mark oa-mark-top" viewBox="0 0 72 72" aria-hidden="true" focusable="false"><path d="M9 9H63V27H24V45H63V63H9" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>3dcp.fyi</a><span class="oa-sep" aria-hidden="true">/</span><span class="oa-muted" lang="de">rechtliches</span></nav>
+      </div>
+      <div class="oa-toprow" data-oa-toprow data-section="legal"></div>
+    </div>
+  </header>
+
+  <main id="main-content" class="oa-legal">
+    <p class="oa-legal-eyebrow">Rechtliches</p>
+    <h1>Impressum, Lizenzen &amp; Datenschutz</h1>
+    <p class="oa-legal-lede">Pflichtangaben gemäß § 5 DDG sowie Informationen zur Datenverarbeitung nach Art. 13 DSGVO für 3dcp.fyi, ein wissenschaftliches, nicht-kommerzielles Projekt des Lehrstuhls für Massivbau der Technischen Universität München.</p>
+
+    <section class="oa-legal-sec" id="impressum">
+      <h2>Impressum</h2>
+
+      <h3>Anbieter und inhaltlich verantwortlich</h3>
+      <address>
+        Daniel Auer<br/>
+        Lehrstuhl für Massivbau<br/>
+        Technische Universität München<br/>
+        Arcisstraße 21<br/>
+        80333 München, Deutschland<br/>
+        E-Mail: <a href="mailto:message@3dcp.fyi">message@3dcp.fyi</a><br/>
+        Web: <a href="https://www.cee.ed.tum.de/en/mb/home">Chair of Concrete Structures</a>
+      </address>
+
+      <h3>Haftung für Inhalte</h3>
+      <p>Die Inhalte dieser Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der bibliografischen Metadaten kann jedoch keine Gewähr übernommen werden. Als Diensteanbieter sind wir für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich, jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen.</p>
+
+      <h3>Haftung für Links</h3>
+      <p>Unser Angebot enthält Links zu externen Websites Dritter (u. a. DOI-Verweise, ORCID, Verlagsseiten), auf deren Inhalte wir keinen Einfluss haben. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter verantwortlich. Zum Zeitpunkt der Verlinkung waren keine rechtswidrigen Inhalte erkennbar.</p>
+
+      <h3>Urheberrecht</h3>
+      <p>Die von uns erstellten Inhalte und Werke (Datenbankstruktur, kuratierte Auswahl, Darstellung) stehen unter der Lizenz <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International</a>. Die bibliografischen Metadaten und Urheberrechte der referenzierten Publikationen verbleiben bei den jeweiligen Autorinnen, Autoren und Verlagen.</p>
+    </section>
+
+    <section class="oa-legal-sec" id="lizenzen">
+      <h2>Lizenzen</h2>
+      <p class="oa-legal-lede">3dcp.fyi ist eine statische Website ohne Server-Backend. Sie baut auf den folgenden quelloffenen Werkzeugen, Schriften und Daten auf; jede Komponente unterliegt ihrer eigenen Lizenz, deren Text in der jeweiligen Quelle verlinkt ist.</p>
+
+      <h3>Eigene Inhalte</h3>
+      <p>Datenbankstruktur, kuratierte Auswahl, Kategorisierung und Darstellung: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International</a>. Bibliografische Metadaten und Abstracts der referenzierten Publikationen bleiben Eigentum der jeweiligen Autorinnen, Autoren und Verlage; 3dcp.fyi hostet keine Volltexte.</p>
+
+      <h3>Verwendete Werkzeuge, Schriften und Daten</h3>
+      <div class="oa-legal-table-wrap">
+      <table class="oa-legal-table">
+        <thead><tr><th scope="col">Komponente</th><th scope="col">Zweck</th><th scope="col">Lizenz</th><th scope="col">Quelle</th></tr></thead>
+        <tbody>
+          <tr><td>Inter</td><td>Schrift der Website; wird von dieser Website selbst ausgeliefert</td><td>SIL OFL 1.1</td><td><a href="https://rsms.me/inter/">rsms.me/inter</a></td></tr>
+          <tr><td>SlickGrid</td><td>Tabellenansicht der Artikel: Sortieren, Filtern, Gruppieren</td><td>MIT</td><td><a href="https://github.com/6pac/SlickGrid">github.com/6pac/SlickGrid</a></td></tr>
+          <tr><td>Orama 3.1.18</td><td>Volltext- und Vektorindex für die Suche im Browser; von dieser Website ausgeliefert, jsDelivr nur als Ersatz</td><td>Apache-2.0</td><td><a href="https://github.com/oramasearch/orama">github.com/oramasearch/orama</a></td></tr>
+          <tr><td>Transformers.js 4.0.1</td><td>Ausführung des Embedding-Modells im Browser (semantische Suche); von jsDelivr geladen</td><td>Apache-2.0</td><td><a href="https://github.com/huggingface/transformers.js">github.com/huggingface/transformers.js</a></td></tr>
+          <tr><td>ONNX Runtime Web</td><td>Inferenz-Laufzeit für das Modell (WebAssembly / WebGPU); von jsDelivr geladen</td><td>MIT</td><td><a href="https://github.com/microsoft/onnxruntime">github.com/microsoft/onnxruntime</a></td></tr>
+          <tr><td>snowflake-arctic-embed-m-v1.5</td><td>Embedding-Modell; wird nur nach Zustimmung von Hugging Face geladen</td><td>Apache-2.0</td><td><a href="https://huggingface.co/Snowflake/snowflake-arctic-embed-m-v1.5">huggingface.co/Snowflake</a></td></tr>
+          <tr><td>D3.js 7.9.0</td><td>Diagramme und Karten: Zeitreihen, Autoren-Metriken, Trends</td><td>ISC</td><td><a href="https://d3js.org">d3js.org</a></td></tr>
+          <tr><td>topojson-client 3.1.0</td><td>Umwandlung der Länderumrisse für die Karten</td><td>ISC</td><td><a href="https://github.com/topojson/topojson-client">github.com/topojson/topojson-client</a></td></tr>
+          <tr><td>world-atlas 2.0.2 / Natural Earth</td><td>Länderumrisse der Karten (1:110 Mio.)</td><td>Public Domain</td><td><a href="https://www.naturalearthdata.com">naturalearthdata.com</a></td></tr>
+          <tr><td>ROR</td><td>Namen und Orte der Forschungseinrichtungen</td><td>CC0 1.0</td><td><a href="https://ror.org">ror.org</a></td></tr>
+          <tr><td>Sortable 1.15.7</td><td>Ziehen und Ablegen von Spalten und Filterregeln</td><td>MIT</td><td><a href="https://github.com/SortableJS/Sortable">github.com/SortableJS/Sortable</a></td></tr>
+          <tr><td>Hypher 0.2.5</td><td>Silbentrennung in Titeln und Abstracts</td><td>BSD-3-Clause</td><td><a href="https://github.com/bramstein/hypher">github.com/bramstein/hypher</a></td></tr>
+          <tr><td>hyphenation.en-us 0.2.1</td><td>Englische Trennmuster (TeX / Hyphenator.js)</td><td>LGPL</td><td><a href="https://github.com/bramstein/hyphenation-patterns">github.com/bramstein/hyphenation-patterns</a></td></tr>
+          <tr><td>Tabler Icons</td><td>Symbole in Tabelle, Toolbar und Dialogen (als Inline-SVG eingebettet)</td><td>MIT</td><td><a href="https://tabler.io/icons">tabler.io/icons</a></td></tr>
+          <tr><td>GitHub Pages</td><td>Hosting der statischen Seiten</td><td>—</td><td><a href="https://pages.github.com">pages.github.com</a></td></tr>
+        </tbody>
+      </table>
+      </div>
+
+      <h3>Externe Dienste</h3>
+      <p>Seiten, Schrift, Bibliotheken und Daten liefert diese Website selbst aus. Verbindungen zu anderen Anbietern entstehen nur in den in der <a href="#datenschutz-details">Datenschutzerklärung</a> genannten Fällen: für die semantische Suche nach Ihrer Zustimmung (Hugging Face, jsDelivr), bei der Suche nach einem frei verfügbaren PDF (Unpaywall) und wenn Sie einen Link zu einem anderen Angebot anklicken.</p>
+    </section>
+
+    <section class="oa-legal-sec" id="datenschutz-details">
+      <h2>Datenschutzerklärung</h2>
+      <p class="oa-legal-lede">Kurz gefasst: 3dcp.fyi setzt keine Cookies, nutzt keine Analyse-, Werbe- oder Tracking-Dienste und hat kein eigenes Server-Backend. Die Datenbank wird vollständig in Ihrem Browser durchsucht. Personenbezogene Daten fallen nur in den folgenden Fällen an.</p>
+
+      <h3>1. Verantwortlicher</h3>
+      <p>Verantwortlich für die Datenverarbeitung auf dieser Website im Sinne der Datenschutz-Grundverordnung (DSGVO) ist:</p>
+      <address>
+        Daniel Auer<br/>
+        Lehrstuhl für Massivbau<br/>
+        Technische Universität München<br/>
+        Arcisstraße 21<br/>
+        80333 München, Deutschland<br/>
+        E-Mail: <a href="mailto:message@3dcp.fyi">message@3dcp.fyi</a><br/>
+        Web: <a href="https://www.cee.ed.tum.de/en/mb/home">Chair of Concrete Structures</a>
+      </address>
+
+      <h3>2. Bereitstellung der Website (GitHub Pages)</h3>
+      <p>Die Website wird über GitHub Pages bereitgestellt, einen Dienst der GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Bei jedem Abruf einer Seite oder Datei verarbeitet GitHub technisch notwendig Ihre IP-Adresse und Angaben zur Anfrage (aufgerufene Adresse, Datum und Uhrzeit, Browser-Kennung, verweisende Seite) und kann diese in Server-Protokollen speichern, um die Seiten auszuliefern und den Dienst abzusichern. Wir haben keinen Zugriff auf diese Protokolle und werten nichts aus.</p>
+      <p>Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse ist eine sichere und zuverlässige Bereitstellung der Website. GitHub verarbeitet Daten auch in den USA und stützt die Übermittlung nach eigenen Angaben auf das EU-US Data Privacy Framework und auf Standardvertragsklauseln. Einzelheiten: <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">Datenschutzerklärung von GitHub</a>.</p>
+
+      <h3>3. Speicherung in Ihrem Browser</h3>
+      <p>Damit Einstellungen und Merklisten erhalten bleiben, speichert die Website Daten ausschließlich lokal in Ihrem Browser. Sie werden nicht an uns oder Dritte übertragen.</p>
+      <ul>
+        <li><strong>Local Storage:</strong> Darstellung (Tag/Nacht, Layout), Such- und Vorlese-Einstellungen, Ihre Favoritenliste, ob Einstiegsseite und Rundgang bereits gesehen wurden und ob das Suchmodell installiert ist.</li>
+        <li><strong>Session Storage:</strong> Antworten der Unpaywall-Abfrage (Abschnitt 5) und Navigationshinweise, nur für die laufende Sitzung.</li>
+        <li><strong>IndexedDB und Cache Storage:</strong> aufbereitete Suchvektoren, die Dateien des Suchmodells (nur nach Ihrer Zustimmung, Abschnitt 4) und auf 3dcp.fyi eine Kopie der Seitendateien (Service Worker), damit wiederholte Besuche schneller laden.</li>
+      </ul>
+      <p>Rechtsgrundlage für das Speichern und Auslesen ist § 25 Abs. 2 Nr. 2 TDDDG, weil es für die von Ihnen genutzten Funktionen unbedingt erforderlich ist, für das Suchmodell Ihre Einwilligung (§ 25 Abs. 1 TDDDG). Sie können diese Daten jederzeit über Ihren Browser löschen („Websitedaten löschen“).</p>
+
+      <h3>4. Semantische Suche (nur nach Ihrer Zustimmung)</h3>
+      <p>Die Stichwortsuche läuft vollständig in Ihrem Browser, ohne Verbindung zu Dritten. Die optionale semantische Suche benötigt ein Sprachmodell (snowflake-arctic-embed-m-v1.5, etwa 110 MB). Erst wenn Sie dem Herunterladen ausdrücklich zustimmen, lädt Ihr Browser:</p>
+      <ul>
+        <li>das Modell von Hugging Face (Hugging Face, Inc., USA; huggingface.co und deren Download-Server), siehe <a href="https://huggingface.co/privacy">Datenschutzerklärung von Hugging Face</a>, und</li>
+        <li>die Programmbibliothek Transformers.js mit der ONNX-Laufzeit vom Content Delivery Network jsDelivr (cdn.jsdelivr.net), siehe <a href="https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net">Datenschutzerklärung von jsDelivr</a>. Die Bibliothek wird auch bei späteren Besuchen von dort geladen, wenn Sie die Suche benutzen.</li>
+      </ul>
+      <p>Diese Anbieter erhalten dabei Ihre IP-Adresse und die üblichen Anfragedaten. Ihre Suchanfragen verlassen den Browser nicht: das Modell rechnet auf Ihrem Gerät. Rechtsgrundlage ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die Anbieter können Daten in den USA verarbeiten, wo ein dem EU-Recht gleichwertiges Datenschutzniveau nicht in jedem Fall gewährleistet ist; insbesondere können US-Behörden auf Daten zugreifen. Für diese Übermittlung stützen wir uns auf Ihre ausdrückliche Einwilligung (Art. 49 Abs. 1 lit. a DSGVO). Sie können sie jederzeit widerrufen, indem Sie das Modell wieder entfernen; die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung bleibt unberührt.</p>
+      <p>Nur falls die von dieser Website ausgelieferte Suchbibliothek Orama nicht geladen werden kann, lädt Ihr Browser ersatzweise eine Kopie von jsDelivr. Rechtsgrundlage dafür ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer funktionierenden Suche).</p>
+
+      <h3>5. Frei verfügbare Volltexte (Unpaywall)</h3>
+      <p>Wenn Sie bei einem Artikel das frei verfügbare PDF öffnen, fragt Ihr Browser den Dienst Unpaywall (api.unpaywall.org, betrieben von der gemeinnützigen OurResearch, USA) nach einer frei zugänglichen Fassung. Übermittelt werden die DOI des Artikels, Ihre IP-Adresse und die üblichen Anfragedaten; die Antwort wird nur für die laufende Sitzung in Ihrem Browser gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO; unser berechtigtes Interesse ist, die von Ihnen angeforderte Funktion bereitzustellen. Die Verarbeitung kann in den USA erfolgen. Mehr zum Dienst: <a href="https://unpaywall.org">unpaywall.org</a>.</p>
+
+      <h3>6. Links zu anderen Angeboten</h3>
+      <p>Die Website verlinkt auf Angebote Dritter, u. a. DOI-Auflösung und Verlagsseiten, ORCID, ROR, Google Scholar, Scopus, Web of Science, Crossref, OpenAlex, Semantic Scholar, OpenCitations und Altmetric. Diese werden erst aufgerufen, wenn Sie einen Link anklicken oder ein PDF im Fenster dieser Seite öffnen; ab dann gelten die Datenschutzbestimmungen des jeweiligen Anbieters.</p>
+
+      <h3>7. Kontakt per E-Mail</h3>
+      <p>Wenn Sie uns schreiben – direkt, über „Suggest a paper“ oder über die Fehlermeldung zu einem Eintrag –, öffnet die Website nur Ihr eigenes E-Mail-Programm mit einer vorausgefüllten Nachricht; gesendet wird erst, wenn Sie selbst abschicken. Wir verarbeiten Ihre E-Mail-Adresse und den Inhalt Ihrer Nachricht, um Ihr Anliegen zu bearbeiten (Art. 6 Abs. 1 lit. f DSGVO), und löschen beides, sobald es dafür nicht mehr benötigt wird und keine gesetzliche Aufbewahrungspflicht besteht.</p>
+
+      <h3>8. Vorlesefunktion</h3>
+      <p>Die Vorlesefunktion nutzt die Sprachausgabe Ihres Browsers bzw. Betriebssystems. Je nach gewählter Stimme kann der Hersteller des Browsers oder Betriebssystems den vorgelesenen Text über das Internet verarbeiten („Online“-Stimmen); darauf hat diese Website keinen Einfluss. Lokale Stimmen arbeiten ohne Verbindung.</p>
+
+      <h3>9. Fehlerprotokoll</h3>
+      <p>Tritt auf einer Seite ein Programmfehler auf, behält die Seite die letzten Fehlermeldungen nur im Arbeitsspeicher Ihres Browsers. Übertragen wird nichts. Erst wenn Sie „Copy details“ wählen, werden die Angaben (Adresse der Seite, Version, Browser-Kennung, Fehlermeldungen) in Ihre Zwischenablage kopiert, damit Sie sie uns bei Bedarf schicken können.</p>
+
+      <h3>10. Ihre Rechte</h3>
+      <p>Sie haben das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18) und Datenübertragbarkeit (Art. 20) sowie das Recht, eine erteilte Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen (Art. 7 Abs. 3).</p>
+      <p><strong>Widerspruchsrecht:</strong> Soweit wir Daten auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO verarbeiten, können Sie dem aus Gründen, die sich aus Ihrer besonderen Situation ergeben, jederzeit widersprechen (Art. 21 DSGVO).</p>
+      <p>Außerdem können Sie sich bei einer Datenschutz-Aufsichtsbehörde beschweren (Art. 77 DSGVO), insbesondere in dem Mitgliedstaat Ihres Aufenthaltsorts, Ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes. Für alle Anliegen zum Datenschutz erreichen Sie uns unter <a href="mailto:message@3dcp.fyi">message@3dcp.fyi</a>.</p>
+
+      <p class="oa-legal-note">Stand: Oktober 2026.</p>
+    </section>
+
+  </main>
+</div>
+
+<script src="src/javascript/asset-loader.js"></script>
+<script src="src/javascript/dialog-utils.js"></script>
+<script src="src/javascript/bibliography.js"></script>
+<script src="src/javascript/article-store.js"></script>
+<script src="src/javascript/browser-actions.js"></script>
+<script src="src/javascript/oa-theme.js"></script>
+<script src="src/javascript/feature-loader.js"></script>
+</body>
+</html>

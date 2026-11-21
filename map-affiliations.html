@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Affiliations (preview, sample data) • 3dcp.fyi</title>
+<meta name="description" content="Preview of a world map of the authors' institutions in 3dcp.fyi. The counts shown are invented sample values, not data from the database."/>
+<!-- Invented counts (OA_AFFILIATIONS below) must not be indexed as facts; the
+     page is also left out of sitemap.xml (build_stubs.py). Drop both once the
+     counts come from the articles' affiliations. -->
+<meta name="robots" content="noindex"/>
+<link rel="canonical" href="https://3dcp.fyi/map-affiliations.html"/>
+<link rel="icon" type="image/svg+xml" href="src/favicon.svg"/>
+<link rel="preload" href="src/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+<link rel="stylesheet" href="src/style/article.css"/>
+
+<!-- Shared pre-paint boot: day/night scheme + matching background before
+     first paint, plus OA_REL_ROOT. See src/javascript/oa-boot.js. -->
+<script src="src/javascript/oa-boot.js"></script>
+<script>
+  /* SAMPLE COUNTS - invented, to be replaced by real counts from the articles'
+     affiliations. One record per institution:
+       ror: its ROR ID (with or without https://ror.org/) - name, city, country
+         and lat / lon come from data/affiliation_data.js; a field set here
+         wins (e.g. lat / lon of the campus instead of the city centre);
+       papers: its number of papers.
+     Institutions in the same city share one dot; its hover card lists them. */
+  window.OA_AFFILIATIONS = [
+    { ror: "02kkvpp62", papers: 96 },   // Technical University of Munich
+    { ror: "012k1v959", papers: 12 },   // Munich University of Applied Sciences
+    { ror: "02c2kyt77", papers: 88 },   // Eindhoven University of Technology
+    { ror: "05a28rw58", papers: 74 },   // ETH Zurich
+    { ror: "02e7b5302", papers: 70 },   // Nanyang Technological University
+    { ror: "010nsgg66", papers: 61 },   // Technische Universität Braunschweig
+    { ror: "03rc6as71", papers: 57 },   // Tongji University
+    { ror: "04vg4w365", papers: 52 },   // Loughborough University
+    { ror: "031rekg67", papers: 46 },   // Swinburne University of Technology
+    { ror: "00cv9y106", papers: 44 },   // Ghent University
+    { ror: "04ct4d772", papers: 41 },   // Southeast University
+    { ror: "042aqky30", papers: 38 },   // Technische Universität Dresden
+    { ror: "03cve4549", papers: 35 },   // Tsinghua University
+    { ror: "0030zas98", papers: 33 },   // Hong Kong Polytechnic University
+    { ror: "03v0r5n49", papers: 31 },   // Indian Institute of Technology Madras
+    { ror: "02e2c7k09", papers: 29 },   // Delft University of Technology
+    { ror: "05htk5m33", papers: 27 },   // Hunan University
+    { ror: "01f5ytq51", papers: 26 },   // Texas A&M University
+    { ror: "02bfwt286", papers: 24 },   // Monash University
+    { ror: "01nffqt88", papers: 22 },   // Politecnico di Milano
+    { ror: "00hx57361", papers: 21 },   // Princeton University
+    { ror: "05bk57929", papers: 19 },   // Stellenbosch University
+    { ror: "04qtj9h94", papers: 18 },   // Technical University of Denmark
+    { ror: "03taz7m60", papers: 15 },   // University of Southern California
+    { ror: "05apxxy63", papers: 14 }    // Korea Advanced Institute of Science and Technology
+  ];
+</script>
+
+<style>
+  /* Page column: same max width and gutters as the header row above it. Map
+     colours are set once here, on the shared palette tokens, and used by both
+     the SVG and the legend ramp. */
+  .oa-map-page {
+    max-width: calc(var(--page-max) + 2 * var(--page-gutter)); margin: 0 auto; padding: 36px var(--page-gutter) 80px;
+    --map-land: color-mix(in srgb, var(--line) 60%, var(--line-strong));
+    --map-step-1: color-mix(in srgb, var(--accent) 30%, var(--map-land));
+    --map-step-2: color-mix(in srgb, var(--accent) 55%, var(--map-land));
+    --map-step-3: color-mix(in srgb, var(--accent) 78%, var(--map-land));
+    --map-step-4: var(--accent);
+  }
+
+  /* Head row: title left, totals right - the entry screen's chart-head shape. */
+  .oa-map-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 24px; margin: 0 0 24px; }
+  .oa-map-title-row { display: flex; align-items: center; gap: 8px; }
+  .oa-map-title { margin: 0; font-family: var(--sans); font-size: var(--fs-body); font-weight: 600; color: var(--ink); }
+  .oa-map-key, .oa-map-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 16px; margin: 0; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  .oa-map-key[hidden], .oa-map-legend[hidden] { display: none; }
+  .oa-map-key b { font-weight: 600; color: var(--ink); }
+
+  /* Legend under the map: smallest total, the four steps, largest total. */
+  .oa-map-legend { gap: 8px; margin-top: 16px; }
+  .oa-map-ramp { display: inline-flex; gap: 2px; }
+  .oa-map-ramp i { width: 14px; height: 10px; border-radius: var(--radius-control); }
+  .oa-map-ramp .is-step-1 { background: var(--map-step-1); }
+  .oa-map-ramp .is-step-2 { background: var(--map-step-2); }
+  .oa-map-ramp .is-step-3 { background: var(--map-step-3); }
+  .oa-map-ramp .is-step-4 { background: var(--map-step-4); }
+  .oa-map-legend-note { flex-basis: 100%; }
+
+  /* The map. Held at its aspect while the geometry loads, so nothing jumps. */
+  .oa-map { position: relative; margin: 0; }
+  .oa-map[data-state="loading"], .oa-map[data-state="error"] { aspect-ratio: 2.05; }
+  /* Clipped: zoomed land must stay inside the map's box. The figure itself stays
+     unclipped, so the hover card can rise above the top edge. */
+  .oa-map > svg { display: block; width: 100%; height: auto; overflow: hidden; }
+  .oa-map-land { fill: var(--map-land); stroke: var(--bg); stroke-width: .5px; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+  .oa-map-land[class*="is-step-"], .oa-map-dot { cursor: pointer; }
+  .oa-map[data-zoomed="true"] svg { cursor: grab; }
+  .oa-map[data-zoomed="true"] svg:active { cursor: grabbing; }
+  .oa-map-land.is-step-1 { fill: var(--map-step-1); }
+  .oa-map-land.is-step-2 { fill: var(--map-step-2); }
+  .oa-map-land.is-step-3 { fill: var(--map-step-3); }
+  .oa-map-land.is-step-4 { fill: var(--map-step-4); }
+  .oa-map-outline { fill: none; stroke: var(--ink); stroke-width: 1px; stroke-linejoin: round; pointer-events: none; vector-effect: non-scaling-stroke; }
+
+  /* Whole-world button beside the heading: the header's ghost button, at the
+     small-tile size so it sits in the heading's line (44px on touch). */
+  .oa-map-zbtn {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 24px; height: 24px; padding: 0;
+    background: transparent; color: var(--ink-2); border: 1px solid var(--line-strong); border-radius: var(--radius-control);
+    cursor: pointer; transition: border-color .12s, color .12s, background .12s, opacity .12s;
+  }
+  @media (any-pointer: coarse) { .oa-map-zbtn { width: 44px; height: 44px; } }
+  .oa-map-zbtn svg { display: block; }
+  .oa-map-zbtn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent-text); }
+  .oa-map-zbtn:active:not(:disabled) { background: var(--accent-soft); }
+  .oa-map-zbtn:disabled { opacity: .4; cursor: default; }
+  .oa-map-zbtn:focus-visible { outline: var(--focus-ring, 2px solid currentColor); outline-offset: var(--focus-ring-offset, 2px); }
+  @media (prefers-reduced-motion: reduce) { .oa-map-zbtn { transition: none; } }
+  /* Institution dots: ink, cut out of what they overlap by a ground-colour edge. */
+  .oa-map-dot { fill: var(--ink); stroke: var(--bg); stroke-width: 1px; }
+  .oa-map-ring { fill: none; stroke: var(--ink); stroke-width: 1.5px; pointer-events: none; }
+
+  /* Hover card: the site's floating-surface treatment. */
+  .oa-map-tip {
+    position: absolute; z-index: 2; left: 0; top: 0;
+    transform: translate(-50%, calc(-100% - 10px));
+    pointer-events: none; padding: 6px 9px;
+    background: var(--paper); border: 1px solid var(--line-strong); border-radius: var(--radius-control);
+    box-shadow: var(--shadow-tip, var(--shadow-float));
+    font-family: var(--sans); font-size: var(--fs-meta); line-height: 1.4; color: var(--ink); white-space: nowrap;
+  }
+  .oa-map-tip[hidden] { display: none; }
+  .oa-map-tip b { display: block; font-weight: 600; }
+  .oa-map-tip > span { display: block; color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  /* Several institutions in one city: name left, papers right, under a hairline. */
+  .oa-map-tip ul { list-style: none; margin: 6px 0 0; padding: 6px 0 0; border-top: 1px solid var(--line); display: grid; gap: 2px; }
+  .oa-map-tip li { display: flex; justify-content: space-between; gap: 16px; }
+  .oa-map-tip li span:last-child { color: var(--ink-2); font-variant-numeric: tabular-nums; }
+  .oa-map-msg { position: absolute; inset: 0; display: grid; place-items: center; margin: 0; font-family: var(--sans); font-size: var(--fs-meta); color: var(--ink-2); }
+
+  /* Sized like index.html's right margin beside the table: what the page
+     leaves right of the 1304px column (100vw - page-max - 3 gutters, at least
+     340px); full width below 1180px, where index.html drops that column. */
+  .oa-map-head, .oa-map, .oa-map-legend { width: max(340px, calc(100vw - var(--page-max) - 3 * var(--page-gutter))); max-width: 100%; }
+  @media (max-width: 1179px) { .oa-map-head, .oa-map, .oa-map-legend { width: auto; } }
+  @media (max-width: 600px) { .oa-map-page { padding-top: 24px; padding-bottom: 56px; } }
+</style>
+</head>
+<body>
+<a class="oa-skip" href="#main-content">Skip to main content</a>
+<div class="oa-root oa-title-sans" data-palette="concrete" data-accent="tum" data-font="inter" data-density="compact" data-dark="true">
+
+  <header class="oa-top" role="banner">
+    <div class="oa-top-inner">
+      <div class="oa-top-lead">
+        <nav class="oa-crumb" aria-label="Breadcrumb"><a class="oa-crumb-home" href="index.html"><svg class="oa-mark oa-mark-top" viewBox="0 0 72 72" aria-hidden="true" focusable="false"><path d="M9 9H63V27H24V45H63V63H9" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>3dcp.fyi</a><span class="oa-sep" aria-hidden="true">/</span><span class="oa-muted">affiliations</span></nav>
+      </div>
+      <div class="oa-toprow" data-oa-toprow data-section="map"></div>
+    </div>
+  </header>
+
+  <main id="main-content" class="oa-map-page">
+    <div class="oa-map-head">
+      <div class="oa-map-title-row">
+        <h1 class="oa-map-title">Affiliations</h1>
+        <button class="oa-map-zbtn" type="button" data-zoom="reset" title="Show the whole world" aria-label="Show the whole world" disabled><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 8h-2a2 2 0 0 0 -2 2a2 2 0 1 1 -4 0v-1a2 2 0 0 0 -2 -2h-1a2 2 0 0 1 -2 -2v-.5"></path><path d="M3 12h3a2 2 0 0 1 2 2v.5a1.5 1.5 0 0 0 1.5 1.5a1.5 1.5 0 0 1 1.5 1.5v3.25"></path><path d="M15 20.5v-3.5a2 2 0 0 1 2 -2h3.5"></path><path d="M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0"></path></svg></button>
+      </div>
+      <p class="oa-map-key" id="oa-map-key" hidden><span data-map-count="institutions"></span><span data-map-count="countries"></span></p>
+      <p role="note" style="margin: 8px 0 0; max-width: 72ch; font-family: var(--sans); font-size: var(--fs-meta); line-height: 1.5; color: var(--ink-2); text-wrap: pretty;"><strong style="color: var(--ink); font-weight: 600;">Preview with invented numbers.</strong> The institutions are real, but every count on this map is a made-up sample value, not data from the database. Real counts will follow once the articles' affiliations are recorded.</p>
+    </div>
+    <figure class="oa-map" id="oa-map" aria-label="World map of affiliations, sample data" data-state="loading"></figure>
+    <p class="oa-map-legend" id="oa-map-legend" hidden>
+      <span data-map-lo></span>
+      <span class="oa-map-ramp" aria-hidden="true"><i class="is-step-1"></i><i class="is-step-2"></i><i class="is-step-3"></i><i class="is-step-4"></i></span>
+      <span data-map-hi></span>
+      <span class="oa-map-legend-note">sample papers per country · dot size: per city</span>
+    </p>
+  </main>
+</div>
+
+<script src="src/javascript/asset-loader.js"></script>
+<script src="src/javascript/dialog-utils.js"></script>
+<script src="src/javascript/bibliography.js"></script>
+<script src="src/javascript/article-store.js"></script>
+<script src="src/javascript/browser-actions.js"></script>
+<script src="src/javascript/oa-theme.js"></script>
+<script src="src/javascript/feature-loader.js"></script>
+<!-- The map: libraries and country outlines all served by the site, no outside
+     requests. Crimea is drawn as Ukraine - see src/world_countries.js. -->
+<script src="src/vendor/d3.v7.min.js"></script>
+<script src="src/vendor/topojson-client-3.1.0.min.js"></script>
+<script src="src/world_countries.js"></script>
+<script src="data/affiliation_data.js"></script>
+<script src="src/javascript/affiliation-map.js"></script>
+</body>
+</html>

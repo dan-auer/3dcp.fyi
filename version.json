@@ -1,0 +1,5 @@
+{
+  "version": "2.0.0-dev",
+  "built": "2026-10-06",
+  "note": "The deploy job (.github/workflows/docs.yml) adds \"commit\" and \"built\" on every deploy; sw.js trusts the file only when \"commit\" is present. Read by the diagnostics report in oa-boot.js."
+}

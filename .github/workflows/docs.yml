@@ -1,0 +1,86 @@
+# Test, build and publish 3dcp.fyi on GitHub Pages.
+#
+# Every push to main: the checks run first (npm test: lint, unit tests and the
+# Playwright smoke run in Chromium); only when they pass is the site built and
+# published. Pull requests run the checks only. "Run workflow" on the Actions
+# tab starts it by hand.
+#
+# Building adds three things to the checkout, none of them committed:
+#   version.json gets "commit" and "built": sw.js trusts the file only when
+#     "commit" is there, and the bug report's "Build" line reads it;
+#   data/summary.json (build_summary.mjs): the entry screen's figures;
+#   a page per paper, sitemap.xml and robots.txt (build_stubs.py), so that
+#     3dcp.fyi/<bibtex key> answers 200 with a title and a link preview.
+#
+# One-time setup on GitHub: Settings > Pages > Source: "GitHub Actions", and
+# the custom domain 3dcp.fyi set there too (a workflow deploy ignores CNAME).
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund
+      - run: npx playwright install --with-deps chromium
+      - run: npm test
+        env:
+          BROWSER: "true"   # serve.py opens a browser tab; here that does nothing
+
+  build:
+    needs: test
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Stamp version.json with the commit
+        run: |
+          python3 - <<'EOF'
+          import datetime, json, os
+          with open("version.json", encoding="utf-8") as f:
+              v = json.load(f)
+          v["commit"] = os.environ["GITHUB_SHA"]
+          v["built"] = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+          with open("version.json", "w", encoding="utf-8") as f:
+              json.dump(v, f, indent=2)
+              f.write("\n")
+          EOF
+      - name: Entry screen figures (data/summary.json)
+        run: node build_summary.mjs
+      - name: Paper pages, sitemap.xml and robots.txt
+        run: python3 build_stubs.py
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

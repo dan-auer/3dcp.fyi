@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Citation matrix • 3dcp.fyi</title>
+<meta name="description" content="Every work in 3dcp.fyi against every other: which works cite which, in publication order."/>
+<link rel="canonical" href="https://3dcp.fyi/adjacency.html"/>
+<link rel="icon" type="image/svg+xml" href="src/favicon.svg"/>
+<!-- Shared pre-paint boot: day/night scheme + matching background before
+     first paint, plus OA_REL_ROOT. See src/javascript/oa-boot.js. Then the
+     corpus download, parsed off the main thread (data-load.js) - both before
+     the stylesheet, which a parser-blocking script would otherwise wait for. -->
+<script src="src/javascript/oa-boot.js"></script>
+<script src="src/javascript/data-load.js" data-files="ARTICLES_DATA:data/tabular_data.js"></script>
+<link rel="preload" href="src/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+<link rel="stylesheet" href="src/style/article.css"/>
+
+<style>
+  /* Page column: same max width and gutters as the header row above it. */
+  .adj-page {
+    max-width: calc(var(--page-max) + 2 * var(--page-gutter)); margin: 0 auto; padding: 36px var(--page-gutter) 56px;
+  }
+  .adj-page a { color: var(--ink); text-decoration: none; }
+  .adj-page a:hover { color: var(--accent-text); text-decoration: underline; }
+
+  /* Head row: title + "show all" left, totals right - the map page's shape. */
+  .adj-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px 24px; margin: 0 0 16px; }
+  .adj-title-row { display: flex; align-items: center; gap: 8px; }
+  .adj-title { margin: 0; font-family: var(--sans); font-size: var(--fs-body); font-weight: 600; color: var(--ink); }
+  .adj-key { display: flex; flex-wrap: wrap; gap: 8px 16px; margin: 0; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); font-variant-numeric: tabular-nums slashed-zero; }
+  .adj-key b { font-weight: 600; color: var(--ink); }
+  .adj-zbtn {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 24px; height: 24px; padding: 0;
+    background: transparent; color: var(--ink-2); border: 1px solid var(--line-strong); border-radius: var(--radius-control);
+    cursor: pointer; transition: border-color .12s, color .12s, background .12s, opacity .12s;
+  }
+  @media (any-pointer: coarse) { .adj-zbtn { width: 44px; height: 44px; } }
+  .adj-zbtn svg { display: block; }
+  .adj-zbtn:hover:not(:disabled) { border-color: var(--accent); color: var(--accent-text); }
+  .adj-zbtn:active:not(:disabled) { background: var(--accent-soft); }
+  .adj-zbtn:disabled { opacity: .4; cursor: default; }
+  .adj-zbtn:focus-visible { outline: var(--focus-ring, 2px solid currentColor); outline-offset: var(--focus-ring-offset, 2px); }
+  @media (prefers-reduced-motion: reduce) { .adj-zbtn { transition: none; } }
+
+  /* Readout: citing paper | verb | cited paper, at a fixed height (slug, two
+     lines of title, two of authors) so the matrix never shifts on hover. */
+  .adj-readout {
+    display: grid; grid-template-columns: minmax(0, 1fr) 110px minmax(0, 1fr); gap: 16px;
+    box-sizing: content-box; height: 7em; padding: 8px 0; overflow: hidden;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    font-family: var(--sans); font-size: var(--fs-meta); line-height: 1.4; color: var(--ink-2);
+  }
+  /* On a window too short for the whole matrix, the readout stays in sight
+     under the sticky header while the lower rows are scrolled up to the
+     pointer (--adj-top: the header's height, adjacency-matrix.js). */
+  .adj-readout { position: sticky; top: var(--adj-top, 0px); z-index: 1; background: var(--bg); }
+  .adj-ro-id { display: flex; align-items: baseline; gap: 6px; white-space: nowrap; color: var(--ink); font-variant-numeric: tabular-nums slashed-zero; }
+  .adj-ro-id a { min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+  .adj-ro-sum { flex: none; margin-left: auto; color: var(--ink-2); }
+  .adj-n, .adj-y { color: var(--ink-2); }
+  .adj-ro-t, .adj-ro-au { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; overflow: hidden; }
+  .adj-ro-t { color: var(--ink); text-wrap: pretty; }
+  .adj-ro-v { display: flex; flex-direction: column; align-items: center; text-align: center; font-size: var(--fs-script); }
+  .adj-ro-v b { font-size: var(--fs-meta); font-weight: 600; color: var(--ink); }
+  .adj-readout .adj-both { font-weight: 600; color: var(--accent-text); }
+  .adj-pin { margin-top: 4px; color: var(--accent-text); }
+
+  /* The matrix: a square plot, sized in JS to the column and the window. */
+  .adj-figure { margin: 12px 0 0; }
+  .adj-figure canvas { display: block; cursor: crosshair; touch-action: none; }
+  .adj-figure canvas.is-dragging { cursor: grabbing; }
+  .adj-figure canvas:focus-visible { outline: var(--focus-ring, 2px solid currentColor); outline-offset: 2px; }
+
+  .adj-legend { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 16px; margin: 12px 0 0; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); }
+  .adj-legend > span { display: inline-flex; align-items: center; gap: 6px; }
+  .adj-sw { display: inline-block; box-sizing: border-box; width: 12px; height: 12px; border-radius: var(--radius-control); }
+  .adj-sw.is-cites { background: var(--accent); }
+  .adj-sw.is-shared { background: linear-gradient(to top right, var(--accent) calc(50% - 1px), var(--paper) calc(50% - 1px), var(--paper) calc(50% + 1px), var(--accent) calc(50% + 1px)); }
+  .adj-sw.is-later { background: color-mix(in srgb, var(--ink) 10%, transparent); }
+  .adj-sw.is-diag { background: linear-gradient(to top right, transparent calc(50% - 1px), var(--ink-2) calc(50% - 1px), var(--ink-2) calc(50% + 1px), transparent calc(50% + 1px)); }
+  .adj-legend .adj-legend-note { flex-basis: 100%; }
+  @media (max-width: 600px) { .adj-page { padding-top: 24px; } .adj-readout { grid-template-columns: minmax(0, 1fr) 72px minmax(0, 1fr); gap: 8px; } }
+</style>
+</head>
+<body>
+<a class="oa-skip" href="#main-content">Skip to main content</a>
+<div class="oa-root oa-title-sans" data-palette="concrete" data-accent="tum" data-font="inter" data-density="compact" data-dark="true">
+
+  <header class="oa-top" role="banner">
+    <div class="oa-top-inner">
+      <div class="oa-top-lead">
+        <nav class="oa-crumb" aria-label="Breadcrumb"><a class="oa-crumb-home" href="index.html"><svg class="oa-mark oa-mark-top" viewBox="0 0 72 72" aria-hidden="true" focusable="false"><path d="M9 9H63V27H24V45H63V63H9" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>3dcp.fyi</a><span class="oa-sep" aria-hidden="true">/</span><span class="oa-muted">adjacency</span></nav>
+      </div>
+      <div class="oa-toprow" data-oa-toprow data-section="adjacency"></div>
+    </div>
+  </header>
+
+  <main id="main-content" class="adj-page">
+    <section class="adj" id="adj" aria-labelledby="adj-title">
+      <div class="adj-head">
+        <div class="adj-title-row">
+          <h1 class="adj-title" id="adj-title">Citation matrix</h1>
+          <button class="adj-zbtn" type="button" data-adj-reset title="Show all works (0)" aria-label="Show all works" disabled><svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 21l-6 -6"></path><path d="M3.268 12.043a7.017 7.017 0 0 0 6.634 4.957a7.012 7.012 0 0 0 7.043 -6.131a7 7 0 0 0 -5.314 -7.672a7.021 7.021 0 0 0 -8.241 4.403"></path><path d="M3 4v4h4"></path></svg></button>
+        </div>
+        <p class="adj-key" data-adj-key></p>
+      </div>
+      <div class="adj-readout" aria-live="polite"><div class="adj-ro-a"></div><div class="adj-ro-v"></div><div class="adj-ro-b"></div></div>
+      <div class="adj-figure"><canvas tabindex="0" role="img" aria-label="Citation matrix of all works: rows cite columns, both in publication order, oldest first"></canvas></div>
+      <p class="adj-legend">
+        <span><i class="adj-sw is-cites"></i>cites</span>
+        <span><i class="adj-sw is-shared"></i>shared author</span>
+        <span><i class="adj-sw is-later"></i>published later</span>
+        <span><i class="adj-sw is-diag"></i>same work</span>
+        <span class="adj-legend-note">Rows cite columns, both oldest first. Σ bars: the citations each work makes (right) and receives (below), square-root scaled to the largest; the lighter end is through shared authors. Scroll to zoom, drag to pan, click a cell to pin it; then the arrow keys jump to the next citation in its row or column.</span>
+      </p>
+    </section>
+  </main>
+</div>
+
+<script src="src/javascript/asset-loader.js"></script>
+<script src="src/javascript/dialog-utils.js"></script>
+<script src="src/javascript/bibliography.js"></script>
+<script src="src/javascript/article-store.js"></script>
+<script src="src/javascript/browser-actions.js"></script>
+<script src="src/javascript/oa-theme.js"></script>
+<script src="src/javascript/feature-loader.js"></script>
+<script src="src/javascript/matrix-common.js"></script>
+<script src="src/javascript/adjacency-matrix.js"></script>
+</body>
+</html>

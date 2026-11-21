@@ -1,0 +1,548 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<!-- Content-Security-Policy as a meta tag: GitHub Pages cannot set response
+     headers, and meta CSP still governs script-src / connect-src / worker-src
+     (frame-ancestors, sandbox and report-uri are ignored in a meta policy by
+     spec, so framing cannot be refused this way).
+     Allowed beyond the site itself: jsDelivr (transformers.js, Orama fallback),
+     Hugging Face (the semantic model, on consent) and the WebAssembly the ONNX
+     runtime needs; connect-src adds Unpaywall, the one metadata API fetched
+     directly (the other services are plain links). Inline scripts and styles
+     are part of this page, hence 'unsafe-inline'; 'unsafe-eval' is NOT granted.
+     Written by script, and only on the production hosts (3dcp.fyi, *.github.io
+     - the same gate as the service worker in oa-boot.js): a meta policy also
+     blocks whatever a hosting tool injects into the page, which is what took the
+     design previews' "Click to comment" overlay down. Previews, forks and
+     serve.py therefore run without it. Keep it first in <head>: a meta policy
+     governs only what loads after it. -->
+<script>
+  (function () {
+    if (!/(^|\.)3dcp\.fyi$|\.github\.io$/.test(location.hostname)) return;
+    var policy = [
+      "default-src 'self'",
+      "script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://cdn.jsdelivr.net",
+      "worker-src 'self' blob:",
+      // The in-page PDF window (browser-actions.js, used when window.open is
+      // popup-blocked) frames the publisher's page: any https origin.
+      "frame-src 'self' https:",
+      "style-src 'self' 'unsafe-inline'",
+      "font-src 'self'",
+      "img-src 'self' data: blob:",
+      "connect-src 'self' data: blob: https://cdn.jsdelivr.net https://huggingface.co https://*.huggingface.co https://*.hf.co https://api.unpaywall.org",
+      "object-src 'none'",
+      "base-uri 'self'",
+      "form-action 'none'"
+    ].join("; ");
+    document.write('<meta http-equiv="Content-Security-Policy" content="' + policy + '"/>');
+  })();
+</script>
+<title>A Database on the State of the Art in 3D Concrete Printing • 3dcp.fyi</title>
+<meta name="description" content="Browse and search 5,000+ peer-reviewed articles and conference papers on 3D concrete printing. Filter by author, keyword, year, journal or citation count - each with its own page."/>
+<link rel="canonical" href="https://3dcp.fyi/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:site_name" content="3dcp.fyi"/>
+<meta property="og:url" content="https://3dcp.fyi/"/>
+<meta property="og:title" content="A Database on the State of the Art in 3D Concrete Printing • 3dcp.fyi"/>
+<meta property="og:description" content="Browse and search 5,000+ articles and conference papers on 3D concrete printing. Filter by author, keyword, year, journal or citations."/>
+<meta property="og:image" content="https://3dcp.fyi/src/og-image.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="630"/>
+<meta property="og:image:alt" content="3dcp.fyi - a curated database on the state of the art in 3D concrete printing"/>
+<meta name="twitter:card" content="summary_large_image"/>
+<link rel="icon" type="image/svg+xml" href="src/favicon.svg"/>
+<!-- Ahead of every stylesheet: a parser-blocking script placed after one waits
+     for it to download. oa-boot.js - pre-paint scheme + background,
+     OA_REL_ROOT (read from the icon link above). entry-state.js - entry screen
+     or table, decided before the preload list below reads data-entry.
+     data-load.js - the dataset download, parsed off the main thread (on the
+     entry screen it waits for a sign of "Browse" or an idle page). -->
+<script src="src/javascript/oa-boot.js"></script>
+<script src="src/javascript/entry-state.js"></script>
+<script src="src/javascript/data-load.js"></script>
+<!-- Upright Inter, fetched alongside the stylesheet rather than after it has
+     parsed and matched (fonts load in CORS mode, hence crossorigin even for a
+     same-origin file). The italic is not preloaded; it loads on first use. -->
+<link rel="preload" href="src/fonts/InterVariable.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+<link rel="stylesheet" href="src/style/article.css"/>
+<!-- search.css + articles.css style the table shell, which a first visit does
+     not see until "Browse Articles": they are render-blocking only on the
+     return path (data-entry="table", decided pre-paint by entry-state.js),
+     and lazy-loaded by articles-grid.js otherwise. The shell stays hidden
+     until its stylesheets have landed (data-grid-ready).
+     The grid's lazy chain (SlickGrid + the project modules articles-grid.js
+     loads in ensureDependencies) is otherwise discovered only when that
+     script runs, at the end of the deferred chain: on the return path it is
+     preloaded here so it downloads alongside everything else; on a first
+     visit it is prefetched at low priority for the moment Browse is pressed.
+     Keep the list in step with ensureDependencies. -->
+<script>
+  (function () {
+    var table = document.documentElement.getAttribute("data-entry") === "table";
+    var css = ["src/style/search.css", "src/style/articles.css", "src/vendor/slickgrid/slick.grid.css", "src/vendor/slickgrid/slick-alpine-theme.css"];
+    var js = ["src/vendor/Sortable.min.js", "src/vendor/slickgrid/slick.core.js", "src/vendor/slickgrid/slick.interactions.js",
+      "src/vendor/slickgrid/slick.grid.js", "src/vendor/slickgrid/slick.groupitemmetadataprovider.js", "src/vendor/slickgrid/slick.dataview.js",
+      "src/javascript/oa-lifecycle.js", "src/javascript/grid-renderers.js", "src/javascript/grid-layout.js", "src/javascript/grid-search.js",
+      "src/javascript/rule-language.js", "src/javascript/rule-editor.js", "src/javascript/grid-rules.js", "src/javascript/grid-settings.js", "src/javascript/oa-abstract-rows.js", "src/javascript/drop-metrics.js", "src/javascript/paper-affiliation-map.js",
+      "src/javascript/matrix-common.js", "src/javascript/author-panel.js", "src/javascript/topic-panel.js", "src/javascript/author-footer.js", "src/javascript/grid-sort.js", "src/javascript/grid-keys.js", "src/javascript/grid-actions.js"];
+    var out = [];
+    css.forEach(function (p, i) {
+      if (table && i < 2) out.push('<link rel="stylesheet" href="' + p + '"/>');
+      else out.push(table ? '<link rel="preload" as="style" href="' + p + '"/>' : '<link rel="' + (i < 2 ? 'preload" as="style' : 'prefetch') + '" href="' + p + '"/>');
+    });
+    js.forEach(function (p) { out.push(table ? '<link rel="preload" as="script" href="' + p + '"/>' : '<link rel="prefetch" href="' + p + '"/>'); });
+    // The guided tour runs after the first Browse only (table-gate.js), so a
+    // first visit is the one that prefetches it.
+    if (!table) out.push('<link rel="prefetch" href="src/javascript/browser-tour.js"/>');
+    document.write(out.join(""));
+  })();
+</script>
+<style>
+/* ---------- Entry screen (covers the table until "Browse Articles") ----------
+   Absolute inside .oa-root, so it blankets #articles-app while leaving the sticky
+   header (z-index 9) above it and still usable - the breadcrumb back to the site
+   and the toolbar stay live, which a full-viewport cover would trap. Hence
+   z-index 8 and the top padding that clears the header.
+
+   Centring is done with `margin: auto` on the inner block, NOT
+   `align-content: center`. With centring on the container, content taller than
+   the container overflows EQUALLY in both directions: on a 540px-tall laptop
+   viewport the 96px top padding was defeated and the title's first line ended up
+   at y=13px, painted over by the 63px header and unreachable by any scroll. Auto
+   margins clamp to 0 when there is no free space, so the padding always holds and
+   overflow-y takes over. */
+/* Desktop: the left gutter equals the header mark's inset from the top of the
+   window - the header's 14px padding, half the control row's free height around
+   the 18px mark, and the ~0.7px its vertical-align: middle drops it - so the mark
+   sits square in the corner; the table uses that gutter (the entry screen is centred). Narrower
+   widths keep the shared 24/18/14px scale. Set here, render-blocking, together
+   with the header's left pin: articles.css arrives late on a first visit, and
+   the header and entry screen jumped left when it landed. */
+@media (min-width: 901px) {
+  .oa-root:has(> #articles-app) { --page-gutter: calc(14px + (var(--control-size) - 18px) / 2 + 1px); }
+}
+.oa-root:has(> #articles-app) .oa-top-inner { margin-left: 0; }
+.oa-root:has(#tableGate) { position: relative; }
+.oa-gate {
+  position: absolute;
+  inset: 0;
+  z-index: 8;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  /* Even sides: the column sits centred in the window (.oa-gate-inner). */
+  padding: 96px 48px 72px;
+}
+/* Returning visit / deep link (entry-state.js, before first paint): never paint the gate. */
+html[data-entry="table"] .oa-gate { display: none; }
+/* Display scale: the gate re-pins the site's one display token to the size this
+   long title was tuned at. The ramp is fluid on VIEWPORT HEIGHT rather than
+   stepped in the height media queries below, because this is purely a
+   vertical-space problem: 4.6vh hits the 38px ceiling at ~826px tall and the
+   25px floor at ~543px, the same ramp the old 38/28/25 steps drew, without the
+   size living in three rules at once. */
+.oa-gate-inner { max-width: var(--page-max); margin: auto; width: 100%; flex: 0 0 auto; --fs-display: clamp(25px, 4.6vh, 38px); }
+/* Accent-coloured site name opening the gate headline. */
+.oa-title-mark { color: var(--accent); }
+/* Title, credit line and subtitle, moved here from the landing page's hero. They
+   keep their original classes so the shared article.css styling applies; only the
+   bits that lived in index.html's own <style> are restated below. --fs-display is
+   re-pinned on .oa-gate-inner above so .oa-title resolves to the size this long
+   title was tuned at. */
+.oa-gate .oa-title { margin: 0 0 10px; max-width: 100%; text-wrap: pretty; }
+/* Site mark beside the title. Floated, not a flex cell, so it occupies exactly
+   the first three lines and any further lines run the full column width.
+   Aligned to the INK of the type, not its line boxes, from Arial's metrics
+   (cap .716em, ascent .9052, descent .2119; Helvetica and Liberation Sans match):
+     margin-top = half-leading + (ascent - cap) = (1.08-1.1171)/2 + .1892 = .17em
+     height     = 2 line boxes + cap = 2(1.08) + .716        = 2.876em
+   Inter (cap .7275, ascent .9688, descent .2412) resolves to .177em / 2.888em -
+   within half a pixel at this size, so the same values hold for both.
+   so the mark's top sits on the cap line of line 1 and its foot on the baseline
+   of line 3, +2px: the round caps read as ending a touch above the flat feet of
+   the letters, so the foot is dropped to sit level with them by eye. */
+.oa-gate .oa-title .oa-mark-title { float: left; width: calc(2.876em + 2px); height: calc(2.876em + 2px); margin: .17em .44em 0 0; }
+/* The landing mark draws itself on arrival - the one piece of motion on the
+   entry screen, and the same stroke the favicon and a click on any mark run.
+   `both` holds it undrawn through the delay instead of flashing complete.
+   Plays regardless of prefers-reduced-motion, by request: it is one stroke on
+   one element, no movement across the page and nothing that reflows. */
+.oa-gate .oa-mark-title path { animation: oa-mark-draw 5s cubic-bezier(.62, 0, .3, 1) .12s both; }
+.oa-gate .oa-subtitle { max-width: 60ch; margin-bottom: 26px; }
+.oa-gate .oa-sub-num { color: var(--accent-text); font-variant-numeric: tabular-nums slashed-zero; }
+/* Until landing.js fills them (the dataset is still downloading), the numbers
+   and the month show as a short placeholder rule rather than a hole in the
+   sentence. Inline-block, so the dash has a width of its own. */
+.oa-gate [data-stat]:empty::before, .oa-gate [data-l="updated"]:empty::before {
+  content: "\2014\2014";
+  color: var(--muted);
+  letter-spacing: -.05em;
+}
+/* Credit line: the institution names are long, so the line wraps onto two
+   balanced lines rather than being clipped to one (it used to nowrap+ellipsis,
+   which hid most of the second chair's name). Source whitespace separates the
+   spans, so display:block is enough - no flex gap needed - and text-wrap:
+   balance evens the two lines out. The dot and the date stay unbreakable, so
+   "Latest publication 2026-08" can never split across the break. */
+.oa-gate .oa-hero-maintained {
+  display: block;
+  margin: 0 0 14px;
+  font-family: var(--sans);
+  font-size: var(--fs-meta);
+  line-height: 1.5;
+  color: var(--ink-2);
+  /* ~82ch = about half the line's 161 characters, so the balanced break lands
+     mid-sentence and both lines come out near-equal on a wide pitch column. */
+  max-width: 82ch;
+  text-wrap: balance;
+}
+.oa-gate .oa-hero-maint-who { white-space: normal; }
+.oa-gate .oa-hero-maintained .oa-footer-maint-dot,
+.oa-gate .oa-hero-maintained .oa-footer-lastupdate { white-space: nowrap; }
+.oa-gate .oa-footer-maint-link {
+  color: var(--ink-2);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+  text-decoration-color: color-mix(in srgb, var(--ink-2) 45%, transparent);
+}
+.oa-gate .oa-footer-maint-link:hover { color: var(--accent-text); text-decoration-color: currentColor; }
+.oa-gate .oa-footer-maint-dot { color: var(--muted); }
+.oa-gate .oa-footer-lastupdate { font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); font-weight: 400; }
+/* Landing composition: the pitch on the left, the citation card beside it, then
+   the charts as a full-width band below both - the same shape the landing page
+   used (hero + rail, then content), so the entry screen reads as a page rather
+   than a stack of text. */
+.oa-gate-top {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 360px;
+  gap: 56px;
+  align-items: start;
+}
+.oa-gate-pitch { min-width: 0; }
+.oa-gate-aside { min-width: 0; }
+/* Cite card - the BibTeX box sizes to its own (compact) content instead of
+   stretching to the column height. Moved with the markup from index.html. */
+.oa-gate .oa-rail-cite { padding: 0; overflow: hidden; display: flex; flex-direction: column; flex: 0 0 auto; }
+.oa-gate .oa-rail-code-wrap { border: 0; border-radius: 0; display: flex; flex-direction: column; flex: 0 0 auto; min-height: 0; container-type: inline-size; }
+.oa-gate .oa-rail-code-wrap .oa-code-head { padding: 8px 12px; }
+/* Prompt above the BibTeX block: full ink, not the muted default, so the ask
+   reads at the same weight as the code it introduces. */
+.oa-gate .oa-cite-prompt { font-size: var(--fs-meta); color: var(--ink); }
+/* The entry is hand-aligned code, so it is never re-wrapped: a soft wrap broke
+   it mid-word ("3dcp.fy|i,") and scattered the value column. The type steps
+   down instead, just enough for the longest line - the doi, 45 characters - to
+   fit: 100cqi is the card's width (container: .oa-rail-code-wrap), less the
+   28px padding and 16px for a classic scrollbar, over 45 x ~0.6em plus slack.
+   --fs-meta wherever it fits; ~11.4px in the 360px card, ~10px in the 320px
+   one (901-1100px). Keep the title/booktitle breaks within 45 characters.
+   overflow: auto still catches a wider face. */
+.oa-gate .oa-rail-code-wrap .oa-code {
+  flex: 0 1 auto;
+  max-height: 40vh;
+  padding: 10px 14px;
+  font-family: var(--mono-code);
+  font-size: min(var(--fs-meta), (100cqi - 44px) / 27.5);
+  line-height: 1.38;
+  white-space: pre;
+  overflow: auto;
+}
+/* Cumulative charts (cumulative-charts.js) in the papers' graph metrics look:
+   one head row (title + the month the values show), then two columns of
+   plots, stacked below 760px. min-height holds the plots' room while the
+   chart code loads. */
+.oa-gate-charts { margin-top: 40px; padding-top: 34px; border-top: 1px solid var(--line); width: 100%; }
+.oa-gate-charts-head { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 8px; }
+.oa-gate-charts-title { margin: 0; font-family: var(--sans); font-size: var(--fs-body); font-weight: 600; color: var(--ink); }
+.oa-gate-month { font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.oa-gate-charts-cols { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 48px; min-height: 126px; }
+.oa-gate-chart { min-width: 0; }
+.oa-gate-chart > .oa-inf-svg { display: block; width: 100%; overflow: visible; }
+.oa-gate-cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 12px 26px;
+  font-family: var(--sans);
+  font-size: var(--fs-lead);
+  font-weight: 600;
+  /* Shared foreground follows the actual default or custom accent. */
+  color: var(--on-accent);
+  background: var(--accent);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius-control);
+  cursor: pointer;
+  transition: box-shadow .12s;
+  /* The one call to action on the screen never breaks onto two lines. */
+  white-space: nowrap;
+}
+/* Sponsors band, moved here from the landing page's hero. It was a bordered card
+   in a narrow 300px hero column; at full gate width it reads better as an open
+   band closing the screen, so the card chrome is gone and the logos sit centred
+   under their label. */
+.oa-sponsors {
+  margin-top: 34px;
+  padding-top: 26px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 14px;
+  width: 100%;
+}
+/* Heading row: centred label with a short divider rule beneath it. */
+.oa-sponsors-head { display: flex; flex-direction: column; align-items: center; gap: 8px; }
+.oa-sponsors-rule { width: 48px; height: 1px; background: var(--line); }
+.oa-sponsors-logos { display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 18px 40px; }
+/* This is a sentence, so it is set as one: text sans, reading size, secondary ink
+   and a ~58ch measure. It was previously dressed as a label - mono, micro, muted,
+   78ch - which asked a two-clause invitation to be read as a caption. */
+.oa-sponsors-note {
+  font-family: var(--sans);
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  text-align: center;
+  line-height: 1.55;
+  max-width: 58ch;
+  text-wrap: pretty;
+}
+/* Each logo: capped height, intrinsic width, muted until hover so the row reads as
+   a tidy, uniform band. */
+.oa-sponsor-logo {
+  height: 40px;
+  width: auto;
+  max-width: 160px;
+  object-fit: contain;
+  opacity: 0.6;
+  filter: grayscale(1);
+  transition: opacity .12s, filter .12s;
+}
+.oa-sponsor-link { display: inline-flex; }
+.oa-sponsor-logo:hover { opacity: 1; filter: none; }
+/* Dark and mint: greyed, the logos' blue all but vanished on the dark ground.
+   There they are drawn white, muted the same until hover. Both are one-colour
+   marks on a transparent ground, so the filter makes a clean white mark. */
+[data-scheme="dark"] .oa-sponsor-logo,
+[data-scheme="dark"] .oa-sponsor-logo:hover { filter: brightness(0) invert(1); }
+@media (prefers-reduced-motion: reduce) { .oa-sponsor-logo { transition: none; } }
+/* Legal notice links closing the screen under the sponsors, centred like the
+   band; the links and dots are the hero's (.oa-footer-maint-*). */
+.oa-gate-legal { display: flex; flex-wrap: wrap; justify-content: center; align-items: baseline; gap: 4px 10px; margin-top: 22px; font-family: var(--sans); font-size: var(--fs-meta); color: var(--ink-2); }
+@media (any-pointer: coarse) { .oa-gate-legal .oa-footer-maint-link { display: inline-flex; align-items: center; min-height: 44px; } }
+.oa-gate-cta:hover { box-shadow: inset 0 0 0 1px currentColor; }
+.oa-gate-cta:focus-visible { outline: none; }
+html[data-input="kb"] .oa-gate-cta:focus-visible { outline:var(--focus-ring, 2px solid currentColor); outline-offset: var(--focus-ring-offset, 2px); }
+@media (max-width: 1100px) { .oa-gate-top { grid-template-columns: minmax(0, 1fr) 320px; gap: 40px; } }
+/* Short viewports: the type here is sized for a tall hero (38px title, 24px
+   subtitle), which on a ~540px-tall laptop screen makes the pitch 490px against a
+   372px content box - and the element pushed out is always the LAST one, the
+   "Browse Articles" button, i.e. the only action on the screen. So below this
+   height, step the display type down and tighten the vertical rhythm until the CTA
+   fits without scrolling. Keyed on height, not width: this is purely a
+   vertical-space problem and can happen at any width. */
+@media (max-height: 820px) {
+  .oa-gate { padding-top: 76px; padding-bottom: 44px; }
+  .oa-gate .oa-title { margin-bottom: 8px; }
+  /* Two lines' worth here (1 line box + cap): this block exists to buy vertical
+     space, and the mark is the one element that can give some back without
+     shrinking the type. */
+  .oa-gate .oa-title .oa-mark-title { width: calc(1.796em + 2px); height: calc(1.796em + 2px); margin-right: .36em; }
+  .oa-gate .oa-hero-maintained { margin-bottom: 10px; }
+  .oa-gate .oa-subtitle { font-size: var(--fs-lead); margin-bottom: 18px; }
+  .oa-gate-top { gap: 40px; }
+  .oa-gate-charts { margin-top: 30px; padding-top: 26px; }
+  .oa-sponsors { margin-top: 26px; padding-top: 20px; }
+  .oa-gate-legal { margin-top: 18px; }
+}
+@media (max-height: 620px) {
+  /* Tighter still: at this height even the stepped-down pitch needs help, and the
+     BibTeX block is the one thing that can lose height without losing meaning. */
+  .oa-gate { padding-top: 72px; }
+  .oa-gate .oa-rail-code-wrap .oa-code { max-height: 26vh; }
+}
+@media (max-width: 900px) {
+  .oa-gate { padding: 84px 24px 56px; }
+  /* Citation card drops below the pitch rather than squeezing it. */
+  .oa-gate-top { grid-template-columns: minmax(0, 1fr); gap: 34px; }
+}
+@media (max-width: 760px) { .oa-gate-charts-cols { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 600px) { .oa-gate { padding: 76px 16px 48px; } .oa-gate-cta { width: 100%; } }
+.oa-gate-noscript { margin: 14px 0 0; font-family: var(--mono); font-size: var(--fs-meta); color: var(--muted); max-width: 60ch; }
+@media (prefers-reduced-motion: reduce) { .oa-gate-cta { transition: none; } }
+/* Pressed before the data scripts have run: the click is remembered and the
+   button says so, instead of doing nothing until table-gate.js is reached. */
+.oa-gate-cta[aria-busy="true"] { cursor: progress; opacity: .78; }
+.oa-gate-cta[aria-busy="true"]:hover { box-shadow: none; }
+</style>
+</head>
+<body>
+<a class="oa-skip" href="#articles-app">Skip to main content</a>
+<div class="oa-root oa-title-sans"
+     data-palette="concrete"
+     data-accent="tum"
+     data-font="inter" data-density="compact"
+     data-dark="true">
+
+  <header class="oa-top" role="banner">
+    <div class="oa-top-inner">
+      <div class="oa-top-lead">
+        <nav class="oa-crumb" aria-label="Breadcrumb"><a class="oa-crumb-home" href="index.html"><svg class="oa-mark oa-mark-top" viewBox="0 0 72 72" aria-hidden="true" focusable="false"><path d="M9 9H63V27H24V45H63V63H9" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg>3dcp.fyi</a></nav>
+      </div>
+      <div class="oa-toprow" data-oa-toprow data-section="article"></div>
+    </div>
+  </header>
+
+  <!-- The page's main landmark: the article browser (grid-shell.js puts its
+       screen-reader heading first). -->
+  <main id="articles-app"></main>
+
+  <!-- Entry screen. Sits OVER #articles-app rather than replacing it: SlickGrid
+       measures its container at init, so hiding the app would size the grid to a
+       zero-height box. The app renders full-size underneath, inert until entry. -->
+  <section class="oa-gate" id="tableGate" aria-labelledby="tableGateTitle">
+    <div class="oa-gate-inner">
+      <div class="oa-gate-top">
+        <div class="oa-gate-pitch">
+          <h1 class="oa-title" id="tableGateTitle"><svg class="oa-mark oa-mark-title" viewBox="0 0 72 72" aria-hidden="true" focusable="false"><path d="M9 9H63V27H24V45H63V63H9" fill="none" stroke-linecap="round" stroke-linejoin="round"></path></svg><span class="oa-title-mark">3dcp.fyi </span>A Manually Curated, High-Quality Database on the State of the Art in 3D Concrete Printing</h1>
+          <div class="oa-hero-maintained"><span class="oa-hero-maint-who">Maintained by the <a class="oa-footer-maint-link" href="https://www.cee.ed.tum.de/en/mb/home">Chair of Concrete Structures</a> &amp; <a class="oa-footer-maint-link" href="https://www.cee.ed.tum.de/dsm">Professorship of Digital Structures with Mineral Materials</a> of the Technical University of Munich</span> <span class="oa-footer-maint-dot" aria-hidden="true">·</span> <strong class="oa-footer-lastupdate">Latest publication <span data-l="updated"></span></strong></div>
+          <div class="oa-subtitle">Relax, this is not another review paper. Just an exhaustive dataset on <b>3DCP</b> covering <span class="oa-sub-num" data-stat="articles"></span> articles by <span class="oa-sub-num" data-stat="authors"></span> authors from <span data-stat="yearFrom"></span> to <span data-stat="yearTo"></span>, indexed by <span class="oa-sub-num" data-stat="keywords"></span> keywords, <span class="oa-sub-num" data-stat="areas"></span> main areas with <span class="oa-sub-num" data-stat="categories"></span> categories and <span class="oa-sub-num" data-stat="subcategories"></span> subcategories, and <span class="oa-sub-num" data-stat="crossReferences"></span> cross-references. Free, no account needed.</div>
+          <button class="oa-gate-cta" type="button" id="tableGateEnter">Browse Articles</button>
+          <noscript><p class="oa-gate-noscript">Browsing and searching the database needs JavaScript &mdash; please enable it for this site.</p></noscript>
+        </div>
+        <!-- Citation card. Static markup (note + BibTeX live here); landing.js
+             wires the Copy button's data-copy payload from the <pre>, and the
+             delegated [data-copy] handler in oa-theme.js does the copying. -->
+        <aside class="oa-gate-aside" aria-label="How to cite">
+          <div class="oa-rail-card oa-rail-cite">
+            <div class="oa-code-wrap oa-rail-code-wrap">
+              <div class="oa-code-head">
+                <span class="oa-mono oa-cite-prompt">Consider citing our work, if it has been useful!</span>
+                <button class="oa-copy" data-l="bibtexCopy" data-copy="" data-copy-label="BibTeX">Copy</button>
+              </div>
+<pre class="oa-code" data-l="bibtex">@inproceedings{auer_bos_fisc.2024.3dcp.fyi,
+  title     = {3DCP.fyi - A Comprehensive
+               Citation Network Graph on
+               the State of the Art in 3D
+               Concrete Printing},
+  author    = {Auer, Daniel and
+               Bos, Freek and
+               Fischer, Oliver},
+  year      = {2024},
+  booktitle = {Proceedings of the Fourth
+               RILEM International
+               Conference on Concrete and
+               Digital Fabrication},
+  publisher = {Springer Nature Switzerland},
+  address   = {Cham},
+  volume    = {53},
+  pages     = {533--538},
+  doi       = {10.1007/978-3-031-70031-6_62},
+  editor    = {Lowke, Dirk and
+               Freund, Niklas and
+               Böhler, David and
+               Herding, Friedrich}
+}</pre>
+            </div>
+          </div>
+        </aside>
+      </div>
+      <!-- The two cumulative charts (cumulative-charts.js): one graph-metrics
+           chart (influence.js), two columns under one head row. -->
+      <section class="oa-gate-charts" aria-labelledby="oaGateChartsTitle">
+        <div class="oa-gate-charts-head">
+          <h2 class="oa-gate-charts-title" id="oaGateChartsTitle">Growth over Time</h2>
+          <span class="oa-gate-month" id="oa-gate-month" title="Month of the values shown"></span>
+        </div>
+        <div class="oa-gate-charts-cols" id="oa-gate-charts-cols"></div>
+      </section>
+      <!-- Sponsors. Static markup: to add one, drop an SVG in src/sponsors/ and
+           add an <a> + <img> pair below (see src/sponsors/README.md). -->
+      <div class="oa-sponsors" aria-label="Sponsors">
+        <div class="oa-sponsors-head">
+          <span class="oa-sponsors-note">Thanks to our sponsors, partners and funding agencies. If you want to support this project or the research group behind it, get in touch!</span>
+          <span class="oa-sponsors-rule" aria-hidden="true"></span>
+        </div>
+        <div class="oa-sponsors-logos">
+          <a class="oa-sponsor-link" href="https://www.dfg.de" target="_blank" rel="noopener" title="Deutsche Forschungsgemeinschaft within the SPP2187"><img class="oa-sponsor-logo" src="src/sponsors/dfg.svg" alt="Deutsche Forschungsgemeinschaft within the SPP2187" loading="lazy"/></a>
+          <a class="oa-sponsor-link" href="https://www.tum.de" target="_blank" rel="noopener" title="Technical University of Munich"><img class="oa-sponsor-logo" src="src/sponsors/tum.svg" alt="Technical University of Munich" loading="lazy"/></a>
+        </div>
+      </div>
+      <!-- Legal notice, German like the page it opens. -->
+      <nav class="oa-gate-legal" aria-label="Rechtliches" lang="de">
+        <a class="oa-footer-maint-link" href="rechtliches.html#impressum">Impressum</a>
+        <span class="oa-footer-maint-dot" aria-hidden="true">·</span>
+        <a class="oa-footer-maint-link" href="rechtliches.html#datenschutz-details">Datenschutz</a>
+        <span class="oa-footer-maint-dot" aria-hidden="true">·</span>
+        <a class="oa-footer-maint-link" href="rechtliches.html#lizenzen">Lizenzen</a>
+      </nav>
+    </div>
+  </section>
+</div>
+
+<!-- Page config. Plain inline scripts, so they set their globals during parse -
+     i.e. before every deferred script below reads them. -->
+<script>
+  // In-browser embedding model for semantic search (downloaded on explicit
+  // consent via the search-bar button). Overrides the manifest's default model.
+  window.EMBEDDING_MODEL_ID = "Snowflake/snowflake-arctic-embed-m-v1.5";
+  // Wire the entry button NOW, during parse. The deferred data scripts below
+  // are several MB and table-gate.js runs last, so on a cold cache a click can
+  // land seconds before the real handler exists. Remember the intent and show
+  // a loading state; table-gate.js enters as soon as it runs.
+  (function () {
+    var b = document.getElementById("tableGateEnter");
+    if (!b) return;
+    b.addEventListener("click", function () {
+      if (window.OAGateEntered) return;
+      window.OAGateEnterRequested = true;
+      if (window.OADataLoadStart) window.OADataLoadStart();
+      b.setAttribute("aria-busy", "true");
+      b.textContent = "Loading articles\u2026";
+    });
+  })();
+</script>
+<!-- Everything below is deferred: none of it needs to block parsing, and defer
+     preserves execution order. table-gate.js stays LAST: it removes the gate or,
+     on a first visit, lazy-loads the charts + landing.js that fill it.
+     The article and author records are fetched by data-load.js (head) and
+     parsed in a worker; the grid and the gate await window.OADataLoad. The
+     section titles (data/toc_data.js) follow the dataset the same way
+     (window.OATocLoad): an optional reading/search resource, and every
+     consumer handles it landing late. -->
+<script defer src="src/category_data.js"></script>
+<script defer src="src/javascript/asset-loader.js"></script>
+<!-- CO2 -> CO₂ for display, CO₂ -> CO2 for search. The word list first, then
+     the engine; both before every renderer. -->
+<script defer src="src/replacement_data.js"></script>
+<script defer src="src/javascript/oa-typeset.js"></script>
+<script defer src="src/javascript/dialog-utils.js"></script>
+<script defer src="src/javascript/bibliography.js"></script>
+<script defer src="src/javascript/article-store.js"></script>
+<script defer src="src/javascript/browser-actions.js"></script>
+<script defer src="src/javascript/oa-theme.js"></script>
+<script defer src="src/javascript/feature-loader.js"></script>
+<script defer src="src/javascript/favorites.js"></script>
+<script defer src="src/javascript/toc.js"></script>
+<script defer src="src/javascript/cite-format.js"></script>
+<script defer src="src/javascript/ext-records.js"></script>
+<script defer src="src/javascript/oa-row-select.js"></script>
+<script defer src="src/javascript/search-facets.js"></script>
+<!-- The browser's markup (toolbar, settings, grid container) and its header
+     arrangement live beside the controller: grid-shell.js must precede
+     articles-grid.js; header-actions.js rearranges whatever the grid moves
+     into the header, so its order only has to be after oa-theme.js. -->
+<script defer src="src/javascript/grid-shell.js"></script>
+<script defer src="src/javascript/articles-grid.js"></script>
+<script defer src="src/javascript/header-actions.js"></script>
+<!-- Kiosk mode (the loop button beside day/night). With the page rather than
+     on first use: its full-screen request must run inside the click. -->
+<script defer src="src/javascript/kiosk.js"></script>
+<script defer src="src/javascript/search-loader.js"></script>
+<script defer src="src/javascript/table-gate.js"></script>
+</body>
+</html>

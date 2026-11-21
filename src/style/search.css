@@ -1,0 +1,395 @@
+/* Shared search input and facet menu. Loaded by table and trends pages. */
+/* ====================================================================== */
+/* Hybrid search box (semantic + lexical). Lives in its own toolbar row    */
+/* above the group-by controls. Its class selector outranks the padding    */
+/* and border of the blanket .articles-app input rule (articles.css).      */
+/* ====================================================================== */
+/* Search row: the box plus the match-count chip at its right. Its own full row
+   above the controls at every width: full basis forces the wrap, order pulls it
+   ahead of the group-by cluster that precedes it in source. (The semantic-model
+   button sits on the controls row, right-hand cluster.) */
+.articles-app .oa-tsearch-row{
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 0 0 100%;
+  order: -3;
+  min-width: 0;
+}
+/* The box itself carries the border, and everything in it - input, Enter cap,
+   clear, match count - is a flex item, so the count sits INSIDE the field's
+   right end and the field's edge lands on the same vertical as the header
+   buttons, the Filters button and the table's right edge (it used to stop
+   short of the count chip beside it). */
+.articles-app .oa-tsearch{
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex: 1 1 auto;
+  min-width: 0;
+  max-width: none;
+  height: var(--control-size);
+  box-sizing: border-box;
+  padding-right: 6px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  transition: border-color .12s, box-shadow .12s;
+}
+.articles-app .oa-tsearch:focus-within{ border-color: var(--accent); box-shadow: 0 0 0 3px var(--accent-soft); }
+html[data-input="kb"] .articles-app .oa-tsearch:focus-within{ outline: var(--focus-ring); outline-offset: var(--focus-ring-offset); }
+/* Match count at the field's right end (type, colour and .is-active accent come
+   from the toolbar-row .result-count rule in articles.css). */
+.articles-app .oa-tsearch .result-count{ flex: 0 0 auto; padding: 0 6px 0 4px; }
+/* Favorites ... Remove all cluster (with Export / Open all / Settings): pushed
+   to the right edge of its row. */
+.articles-app .toolbar-row > .toolbar-group-fav{ margin-left: auto; }
+.articles-app .oa-tsearch-ic{
+  position: absolute;
+  left: 11px;
+  display: inline-flex;
+  align-items: center;
+  color: var(--ink-2);
+  pointer-events: none;
+}
+.articles-app input.oa-tsearch-input{
+  flex: 1 1 auto;
+  width: auto;
+  min-width: 0;
+  height: 100%;
+  min-height: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0 8px 0 34px;
+  font-family: var(--sans);
+  font-size: var(--fs-body);
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+.articles-app input.oa-tsearch-input:focus,
+.articles-app input.oa-tsearch-input:focus-visible{ outline: none; }
+.articles-app input.oa-tsearch-input::placeholder{ color: var(--ink-2); }
+/* Suppress the native search clear/decorations - we render our own. */
+.articles-app .oa-tsearch-input::-webkit-search-cancel-button,
+.articles-app .oa-tsearch-input::-webkit-search-decoration{
+  -webkit-appearance: none;
+  appearance: none;
+}
+.articles-app .toolbar-row button.oa-tsearch-clear{
+  flex: 0 0 auto;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: none;
+  background: transparent;
+  color: var(--ink-2);
+  font-size: var(--fs-lead);
+  line-height: 1;
+  border-radius: var(--radius-control);
+  cursor: pointer;
+  transition: color .12s, background .12s, box-shadow .12s;
+}
+.articles-app .toolbar-row button.oa-tsearch-clear:hover{
+  color: var(--accent-text);
+  border: none;
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+/* The theme sets display on .toolbar-row buttons, which overrides the plain
+   [hidden] attribute - force it back so the clear button hides when empty. */
+.articles-app .toolbar-row button.oa-tsearch-clear[hidden]{
+  display: none !important;
+}
+/* "↵ Enter" key cap left of the clear button, shown while the box holds text:
+   search runs on Enter, not while typing. Also a button (touch keyboards). */
+.articles-app .toolbar-row button.oa-tsearch-enter{
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  width: auto;
+  height: 24px;
+  min-height: 0;
+  padding: 0 6px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  box-shadow: none;
+  color: var(--ink-2);
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.articles-app .toolbar-row button.oa-tsearch-enter:hover{ color: var(--accent-text); border-color: var(--accent); }
+.articles-app .toolbar-row button.oa-tsearch-enter[hidden]{ display: none !important; }
+/* Touch first (phones, tablets): the on-screen keyboard has its own Enter, and
+   the cap's 60px are what the typed text needs on a phone. */
+@media (pointer: coarse){
+  .articles-app .toolbar-row button.oa-tsearch-enter{ display: none; }
+}
+.articles-app .oa-tsearch-kbd{ font: inherit; }
+.articles-app .oa-tsearch-status{
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+.articles-app .oa-tsearch-status:empty{ display: none; }   /* no stray gap when idle */
+/* The one action the zero-hit line offers, set as a link so the line stays short. */
+.articles-app .oa-tsearch-status .oa-tsearch-drop{ font: inherit; color: var(--accent-text); background: none; border: 0; padding: 0; height: auto; min-height: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+.articles-app .oa-tsearch-status .oa-tsearch-drop:hover{ text-decoration-color: currentColor; }
+
+/* Model-download control - a discreet, standalone toolbar button that sits
+   AFTER the search box (never overlapping it). Inherits the rounded hairline
+   toolbar-button look; only the icon is tinted to signal lifecycle state
+   (red = not downloaded, green = ready, accent = downloading). */
+.articles-app .oa-tsearch-model{
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 0 10px;
+  white-space: nowrap;
+}
+/* The state in words ("Semantic off / 42% / on / retry") beside the tinted
+   icon - the tint alone never said what the button is for. Phones keep the
+   bare icon so the search box keeps its width. */
+.articles-app .oa-tsearch-model .oa-tsearch-model-t{ color: var(--ink-2); }
+.articles-app .toolbar-row button.oa-tsearch-model:hover .oa-tsearch-model-t{ color: inherit; }
+@media (max-width: 560px){
+  .articles-app .oa-tsearch-model{ width: var(--control-size); padding: 0; }
+  .articles-app .oa-tsearch-model .oa-tsearch-model-t{ display: none; }
+}
+.articles-app .oa-tsearch-model .oa-tsearch-model-ic{ display: inline-flex; align-items: center; justify-content: center; }
+/* Not downloaded is the normal state for most readers, not a fault: it reads
+   in the secondary ink, and red is kept for a download that actually failed. */
+.articles-app .toolbar-row button.oa-tsearch-model.is-absent{ color: var(--ink-2); }
+.articles-app .toolbar-row button.oa-tsearch-model.is-error{ color: var(--danger); }
+.articles-app .toolbar-row button.oa-tsearch-model.is-ready{ color: var(--success); }
+.articles-app .toolbar-row button.oa-tsearch-model.is-downloading{ color: var(--accent-text); cursor: default; }
+.articles-app .toolbar-row button.oa-tsearch-model.is-ready:hover{ border-color: var(--success); color: var(--success); }
+.articles-app .oa-tsearch-model.is-downloading .oa-tsearch-model-ic{ animation: oa-model-pulse 1s ease-in-out infinite; }
+@keyframes oa-model-pulse{ 0%, 100% { opacity: 1; } 50% { opacity: .45; } }
+/* Inside the search field, right of the match count: a bare 24px glyph, the
+   state in its tint alone (red = off - click to download, accent pulse =
+   downloading, green = on); the words stay in aria-label and the tooltip. */
+.articles-app .oa-tsearch .oa-tsearch-model{ width: 24px; height: 24px; padding: 0; border: 0; background: transparent; border-radius: var(--radius-control); }
+.articles-app .oa-tsearch button.oa-tsearch-model:not(.is-downloading):hover{ box-shadow: inset 0 0 0 1px var(--accent); }
+.articles-app .oa-tsearch .oa-tsearch-model .oa-tsearch-model-t{ display: none; }
+
+/* Thin download-progress bar pinned to the bottom edge of the search input. */
+.articles-app .oa-tsearch-progress{
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 2px;
+  height: 2px;
+  border-radius: var(--radius-control);
+  background: color-mix(in srgb, var(--accent) 22%, transparent);
+  overflow: hidden;
+  pointer-events: none;
+}
+.articles-app .oa-tsearch-progress[hidden]{ display: none; }
+.articles-app .oa-tsearch-progress-fill{
+  display: block;
+  height: 100%;
+  width: 0;
+  background: var(--accent);
+  border-radius: var(--radius-control);
+  transition: width .3s ease;
+}
+
+/* Search highlighting inside the abstract drop-downs. Token hits (lexical) are
+   a SOLID amber highlighter with near-black ink - unmistakable at a glance and
+   never mistakable for a link (the TOC titles beside them are links). The best
+   semantic sentence stays a thin amber wash behind them, so a sentence band and
+   a word hit never compete. box-decoration-break keeps a hit that wraps across
+   lines from losing its corners. */
+.articles-app .abstract-card-text mark.oa-hl-lexical,
+.articles-app .abs-toc mark.oa-hl-lexical{
+  background: var(--oa-hl-lex);
+  color: var(--oa-hl-on);
+  font-weight: 600;
+  border-radius: var(--radius-control);
+  padding: 0 3px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+/* The semantic hit spans a whole sentence, so it stays quieter than the token
+   hits sitting inside it - a thin wash only. */
+.articles-app .abstract-card-text .oa-hl-semantic{
+  background: color-mix(in srgb, var(--oa-fav, #d99a00) 14%, transparent);
+  border-radius: var(--radius-control);
+  padding: 0 1px;
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* ---------------------------------------------------------------------- */
+/* Scrollbars: discrete, no stepper arrows. Scoped to the app so it covers */
+/* the grid viewport, abstract drop-downs and the settings popover. The    */
+/* thumb is derived from --ink so it stays subtle on light and dark paper. */
+/* ---------------------------------------------------------------------- */
+.articles-app,
+.articles-app *{
+  scrollbar-width: thin;                       /* Firefox: slim bar, no arrows (not inherited, so apply to descendants) */
+  scrollbar-color: color-mix(in srgb, var(--ink) 26%, transparent) transparent;
+}
+.articles-app ::-webkit-scrollbar,
+.articles-app::-webkit-scrollbar{ width: 10px; height: 10px; }
+.articles-app ::-webkit-scrollbar-track,
+.articles-app::-webkit-scrollbar-track{ background: transparent; }
+.articles-app ::-webkit-scrollbar-thumb,
+.articles-app::-webkit-scrollbar-thumb{
+  background: color-mix(in srgb, var(--ink) 22%, transparent);
+  border: 2px solid transparent;               /* inset the thumb -> reads thinner */
+  border-radius: var(--radius-control);
+  background-clip: padding-box;
+}
+.articles-app ::-webkit-scrollbar-thumb:hover,
+.articles-app::-webkit-scrollbar-thumb:hover{
+  background: color-mix(in srgb, var(--ink) 40%, transparent);
+  background-clip: padding-box;
+}
+/* Kill the up/down + left/right stepper buttons at the scrollbar ends. */
+.articles-app ::-webkit-scrollbar-button,
+.articles-app::-webkit-scrollbar-button{ display: none; width: 0; height: 0; }
+.articles-app ::-webkit-scrollbar-corner,
+.articles-app::-webkit-scrollbar-corner{ background: transparent; }
+
+/* Facet menu under the search box (see search-facets.js). Suggests matching
+   authors, keywords, categories, venues and dates while typing; picking one
+   applies it as a filter rule. Anchored to the .oa-tsearch wrap, which is
+   already position:relative.
+
+   The menu is deliberately NOT tied to the input's width: the input is a
+   shrinking flex item, and at narrow viewports a 215px menu truncates
+   category names to "Nozzle ..." - three different categories then look
+   identical, which defeats the whole point of the list. */
+.articles-app .sf-menu{
+  position: absolute;
+  top: calc(100% + 5px);
+  left: 0;
+  right: auto;
+  min-width: 100%;
+  width: max-content;
+  max-width: min(820px, calc(100vw - 48px));   /* room for a title + its BibTeX key on one line */
+  z-index: var(--layer-menu);
+  max-height: 340px;
+  overflow-y: auto;
+  padding: 5px;
+  background: var(--paper);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  box-shadow: var(--shadow-float);
+  font-family: var(--sans);
+}
+.articles-app .sf-menu[hidden]{ display: none !important; }
+.articles-app .sf-group + .sf-group{ margin-top: 3px; border-top: 1px solid var(--line); padding-top: 3px; }
+/* Section head carries the parameter's icon - the one place the row type is
+   named, so the rows themselves stay a clean list of values. */
+.articles-app .sf-ghead{
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 8px 3px;
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  font-weight: 600;
+  color: var(--ink-2);
+}
+.articles-app .sf-ghead .sf-ic{ flex: none; opacity: .8; }
+.articles-app .sf-opt{
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto auto auto;
+  align-items: baseline;
+  gap: 8px;
+  padding: 5px 8px;
+  border-radius: var(--radius-control);
+  font-size: var(--fs-meta);
+  color: var(--ink);
+  cursor: pointer;
+}
+/* A row whose rule is already in the filter set: checked, and picking it
+   again removes that rule rather than adding a duplicate. */
+.articles-app .sf-opt.is-on{ color: var(--accent-text); }
+.articles-app .sf-on{ align-self: center; flex: none; }
+/* The menu is sized to its content (width: max-content), so a truncating
+   label means the viewport itself is narrow - .sf-val ellipsises and the
+   number/abbreviation keeps its own column. */
+.articles-app .sf-opt.is-active{ background: var(--accent-soft); }
+.articles-app .sf-val{ min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.articles-app .sf-sub,
+.articles-app .sf-cnt{
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  white-space: nowrap;
+}
+.articles-app .sf-cnt{ font-variant-numeric: tabular-nums slashed-zero; }
+/* Title rows are two lines: title + month on the first (the month keeps its
+   own column at the right edge), the byline - surnames with initials - under
+   the title across the full width. Both text runs ellipsise; the BibTeX key
+   is the row's tooltip and is what a pick writes into the box. */
+.articles-app .sf-opt[data-kind="title"]{ grid-template-columns: minmax(0, 1fr) auto auto; row-gap: 1px; }
+.articles-app .sf-opt[data-kind="title"] .sf-sub{ white-space: nowrap; }
+.articles-app .sf-au{
+  grid-column: 1 / -1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+}
+/* Same amber as the in-abstract search highlight, so "this is your match"
+   reads identically in the menu and in the results. */
+.articles-app .sf-mk{
+  background: none;
+  color: var(--oa-hl-text);
+  font-weight: 600;
+}
+.articles-app .sf-foot{
+  padding: 6px 8px 3px;
+  border-top: 1px solid var(--line);
+  margin-top: 3px;
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  white-space: normal;
+  text-wrap: pretty;
+}
+
+
+/* Same in-sentence action as "Match any word" / "remove the last filter". */
+.articles-app .oa-tsearch-status .oa-tsearch-retry {
+  font: inherit; color: var(--accent-text); background: none; border: 0; padding: 0; height: auto; min-height: 0; cursor: pointer;
+  text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+}
+.articles-app .oa-tsearch-status .oa-tsearch-retry:hover { text-decoration-color: currentColor; }
+.articles-app .oa-tsearch-status .oa-tsearch-retry:focus-visible { outline:var(--focus-ring, 2px solid currentColor); outline-offset:var(--focus-ring-offset, 2px); }
+
+@media (any-pointer: coarse){
+  .articles-app .toolbar-row button.oa-tsearch-clear{ width:44px; height:44px; }
+  .articles-app .toolbar-row button.oa-tsearch-enter{ min-height:0; }
+  .articles-app .sf-opt{ min-height:44px; align-items:center; }
+  .articles-app .oa-tsearch-status .oa-tsearch-drop,
+  .articles-app .oa-tsearch-status .oa-tsearch-retry{ min-height:44px; }
+}
+
+/* "Sort by relevance" after a header sort during a search - the same inline
+   link treatment as the zero-hit line's remove-filter action. */
+.articles-app .oa-tsearch-status .oa-tsearch-relevance{ font: inherit; color: var(--accent-text); background: none; border: 0; padding: 0; height: auto; min-height: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+.articles-app .oa-tsearch-status .oa-tsearch-relevance:hover{ text-decoration: none; }
+.articles-app .oa-tsearch-status .oa-tsearch-relevance:focus-visible{ outline: var(--focus-ring, 2px solid currentColor); outline-offset: 2px; }
+@media (any-pointer: coarse){ .articles-app .oa-tsearch-status .oa-tsearch-relevance{ min-height: 44px; } }
+/* "Match any word" / "Match all words": the same inline link treatment. */
+.articles-app .oa-tsearch-status .oa-tsearch-mode{ font: inherit; color: var(--accent-text); background: none; border: 0; padding: 0; height: auto; min-height: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; text-decoration-thickness: 1px; text-decoration-color: color-mix(in srgb, currentColor 45%, transparent); }
+.articles-app .oa-tsearch-status .oa-tsearch-mode:hover{ text-decoration-color: currentColor; }
+.articles-app .oa-tsearch-status .oa-tsearch-mode:focus-visible{ outline: var(--focus-ring, 2px solid currentColor); outline-offset: 2px; }
+@media (any-pointer: coarse){ .articles-app .oa-tsearch-status .oa-tsearch-mode{ min-height: 44px; } }

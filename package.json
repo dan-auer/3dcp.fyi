@@ -1,0 +1,18 @@
+{
+  "name": "3dcp-fyi-site",
+  "private": true,
+  "type": "module",
+  "description": "3dcp.fyi v2 - static site. Scripts here only run the checks; the site itself needs no build to serve from this checkout (python serve.py).",
+  "scripts": {
+    "serve": "python3 serve.py 8000",
+    "lint": "eslint -c tests/eslint.config.mjs .",
+    "test": "npm run lint && npm run test:unit && npm run test:smoke",
+    "test:unit": "node --test tests/unit/*.test.mjs",
+    "test:smoke": "playwright test -c tests/playwright.config.mjs"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.48.0",
+    "eslint": "^9.13.0",
+    "globals": "^15.11.0"
+  }
+}

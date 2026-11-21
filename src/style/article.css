@@ -1,0 +1,1671 @@
+/* ---- Breakpoints ----------------------------------------------------------
+   Every page loads this file, so the site's widths are listed here: what each
+   switches, in which file, and the scripts that repeat it. Widths are the
+   window's, in CSS px; "max" ends at the width, "min" starts at it.
+
+   max 480    Page gutter 14px (here). Dialogs: tighter overlay, buttons
+              stacked full width (the CSS in dialog-utils.js, add-paper.js,
+              model-gate.js and report-error.js).
+   max 560    Phones: two-line rule rows; the drop and its records strip take
+              the window's width (articles.css); the model button shows its
+              icon only (search.css). Repeated by grid-layout.js PHONE_MAX
+              (the phone column policy, from the table's own width),
+              grid-renderers.js (author cells with initials and no marks),
+              rule-editor.js (a picked author does not open the builder) and
+              author-footer.js (the footer starts folded).
+   561-1072   Rule rows on the shrinkable tablet template (articles.css).
+   max 600    Header on one row, without separators; contents under the
+              abstract; the phone records strip and 32px summary tiles; a
+              smaller title (here, articles.css). Entry screen: less padding,
+              a full-width button (index.html). adjacency.html,
+              map-affiliations.html, rechtliches.html and 404.html have their
+              own 600px steps.
+   min 601    The records strip's Type starts on the contents column
+              (articles.css).
+   max 720    Page gutter 18px (here).
+   max 760    Entry screen charts in one column (index.html).
+   max 900    Page gutter 24px; the header's title takes the full width and
+              its crumb truncates; stacked contents get a hairline (here).
+              Header icons the More menu also lists leave the row
+              (articles.css). Entry screen: the citation card goes under the
+              pitch (index.html).
+   min 901    The table page's own gutter (index.html); the header row grows
+              to fit its buttons (articles.css).
+   max 1100   Favorites button without its word (articles.css); the entry
+              screen's citation column narrows to 320px (index.html).
+   max 1179   No metrics panel and no panel toggle (articles.css);
+              map-affiliations.html sizes its map to the page. Repeated by
+              articles-grid.js panelNarrowMQ.
+   min 1180   Metrics panel beside the table, Centralities and Affiliations
+              side by side (articles.css). 1180px: an iPad Air held sideways.
+   max 1199   More menu button (articles.css).
+   min 1200   Header buttons show their words (articles.css).
+   min 1838   Table 125px wider, all of it to Authors (articles.css).
+              Repeated by articles-grid.js wideAuthorsMQ.
+
+   Heights: max 640 the filter panel scrolls inside itself (articles.css);
+   max 820 and max 620 the entry screen steps its type and spacing down
+   (index.html). Pointers: any-pointer: coarse gives 44px targets (here,
+   articles.css, the pages' own styles, and the CSS in browser-tour.js,
+   browser-actions.js and dialog-utils.js) and author cells four lines instead
+   of five (grid-renderers.js); pointer: coarse hides the Enter key cap
+   (search.css); hover: hover and pointer: fine light up the sentence under
+   the pointer (here). Orientation: the kiosk's landscape and portrait layouts
+   (articles.css). */
+html, body{ margin: 0; height: 100%; background: #f5f5f5; }
+body{ font-family: "Inter", "Inter Fallback", Arial, Helvetica, sans-serif; }
+/* Form controls do not inherit font-family by default; zero-specificity so any
+   class rule still wins (the toolbar's mono buttons, the chips). */
+:where(.oa-root) button, :where(.oa-root) input, :where(.oa-root) select, :where(.oa-root) textarea{ font-family: inherit; }
+/* Two weights site-wide: 400 for text, 600 for emphasis, labels and headings.
+   The UA's b/strong default is "bolder" (700), so it is pinned to the same step. */
+b, strong{ font-weight: 600; }
+
+/* Inter, self-hosted (src/fonts/, from the official release): one variable file
+   per style carries every weight (100-900) and the optical-size axis (14-32), so
+   the 500/600 steps the rules below ask for are real and the display sizes get
+   the tighter Display cut automatically. Self-hosted rather than a fonts CDN: no
+   third-party request per visitor (see rechtliches.html). `swap` shows the
+   fallback at once. "Inter Fallback" is Arial scaled to Inter's TEXT cut (~7%
+   wider than Arial, measured 1.006 at 11-14px) with Inter's vertical metrics, so
+   the swap does not reflow body and label text. It is wrong for display sizes:
+   above ~20px the opsz axis switches to the Display cut, which is ~2% NARROWER
+   than plain Arial, so the adjusted fallback would paint headings ~10% too wide.
+   --sans-display (base block) therefore skips it and falls straight to Arial.
+   The upright is preloaded in each page's <head>; the italic loads on first
+   use. */
+@font-face{
+  font-family: "Inter";
+  src: url("../fonts/InterVariable.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face{
+  font-family: "Inter";
+  src: url("../fonts/InterVariable-Italic.woff2") format("woff2");
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face{
+  font-family: "Inter Fallback";
+  src: local("Arial"), local("Liberation Sans"), local("Helvetica");
+  size-adjust: 107%;
+  ascent-override: 90.5%;
+  descent-override: 22.5%;
+  line-gap-override: 0%;
+}
+
+/* Selected text uses the page accent globally (falls back to cobalt for any
+   text outside an .oa-root, where --accent isn't defined). */
+::selection{ background: var(--accent, #1d4ed8); color: var(--on-accent, #fff); }
+::-moz-selection{ background: var(--accent, #1d4ed8); color: var(--on-accent, #fff); }
+
+/* Palettes. "concrete" is the site palette and carries BOTH schemes: a white
+   ground for day (paper and page ground the same, so panels sit on hairlines
+   rather than tone steps), a black ground with dark paper for
+   night. The active scheme is html[data-scheme], set pre-paint by oa-boot.js and
+   flipped by the header's day/night toggle. Print gets white via the @media print
+   block near the end of this file. */
+.oa-root[data-palette="concrete"]{
+  --bg:#ffffff;
+  --paper:#ffffff;
+  --ink:#22252a;
+  --ink-2:#444a50;
+  --muted:var(--ink-2);
+  --line:#e4e2df;
+  --line-strong:#c4c0bb;
+  --oa-hl-text:#633c00;
+}
+/* Night side: black ground, as the site has always had it - only the day side is
+   white. */
+[data-scheme="dark"] .oa-root[data-palette="concrete"]{ --bg:#000000; --paper:#0c0e12; --ink:#e6e8ec; --ink-2:#b2b8c2; --muted:var(--ink-2); --line:#1b2027; --line-strong:#333a45; }
+/* Third theme, mint: a night theme (data-scheme stays "dark", so every night
+   rule holds) re-tinted green - mint ink on a green-black ground, one hue
+   (oklch h 170) throughout. --bg must match OA_SCHEME_BG.mint in oa-boot.js. */
+[data-theme="mint"] .oa-root[data-palette="concrete"]{ --bg:#071611; --paper:#0b1d18; --ink:#c7e6da; --ink-2:#a2c8b9; --muted:var(--ink-2); --line:#192c26; --line-strong:#304a41; }
+
+/* Colour roles are separate: --accent is a solid surface / decoration,
+   --on-accent is its paired foreground, and --accent-text is readable ink on
+   the palette grounds and soft fills - palette ink by default; the concrete/TUM
+   pair uses the accent proper (TUM blue by
+   day, amber by night) - the earlier lightened tints (#004887 / #ffbd61) read
+   as a washed-out version of the accent the chips and toolbar use. */
+.oa-root{
+  --accent-text:var(--ink);
+  --visited:var(--ink-2);
+  --oa-hl-text:var(--ink);
+  --oa-hl-on:#17130b;
+  --oa-fav:#e0a93b;
+  --oa-fav-ink:#714e07;
+  --oa-hl-lex:#e08a00;
+  --success:#116530;
+  --danger:#a81717;
+  --on-danger:#fff;
+  --oa-open:#A6CE39;
+  --oa-closed:#DD1C77;
+  --sans: Arial, Helvetica, sans-serif;
+  --mono: var(--sans);
+  --serif: var(--sans);
+  /* Display-size stack (see the font blocks below); same as --sans unless the
+     active font overrides it. */
+  --sans-display: var(--sans);
+  /* Type scale - the ONLY font sizes used site-wide: one fluid display token
+     (titles; oa-boot.js may pin it from OA_LOOK.titleSize) plus four fixed
+     steps, and two weights (400 / 600, see the b/strong rule at the top).
+     Everything maps onto these - no literal px sizes elsewhere. Text set below
+     the meta size - sub/superscripts, ordinals, the 24px monogram tiles - uses
+     the one script step, whatever size the text around it is. */
+  --fs-display: clamp(32px, 5vw, 52px);
+  --fs-heading: 24px;
+  --fs-lead: 16px;
+  --fs-body: 14px;
+  --fs-meta: 12px;
+  --fs-script: 10px;
+  /* Monospace is reserved for ONE thing - BibTeX / code blocks, where column
+     alignment carries meaning. Every other surface uses the single --sans family. */
+  --mono-chip: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  --mono-code: var(--mono-chip);
+  /* Page surface order. Popup ranks are isolated inside --layer-window;
+     repeated focus never allows a window to overtake a modal or its toast. */
+  --layer-chrome: 10;
+  --layer-skip: 20;
+  --layer-menu: 100;
+  --layer-panel: 110;
+  --layer-window: 200;
+  --layer-modal: 300;
+  --layer-toast: 320;
+  /* Focus is independent of the accent, which may match the surface. */
+  --focus-ring-color: var(--ink);
+  --focus-ring: 2px solid var(--focus-ring-color);
+  --focus-ring-offset: 2px;
+  /* The one corner radius: controls, boxes, tiles and highlights alike. */
+  --radius-control: 3px;
+  --control-size: 34px;
+  --page-max: 1304px;
+  --page-gutter: 48px;
+  --shadow-float: 0 14px 34px rgba(0,0,0,.20);
+  /* Popover / tooltip elevations (consolidated; see oa-theme palettes). */
+  --shadow-pop: 0 12px 34px -10px color-mix(in srgb, var(--ink) 30%, transparent),
+                0 2px 8px -4px color-mix(in srgb, var(--ink) 20%, transparent);
+  --shadow-tip: 0 18px 44px rgba(0,0,0,.10), 0 2px 8px rgba(0,0,0,.04);
+  background: var(--bg);
+  /* Inter's slashed zero, site-wide: dates, counts, DOIs and IDs read 0 vs O
+     without a second glance. Inherited into the grid, the charts' SVG text
+     and the code blocks (the system monospace there ignores it harmlessly). */
+  font-variant-numeric: slashed-zero;
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  min-height: 100dvh;
+  transition: background .3s, color .3s;
+}
+.oa-root[data-palette="concrete"][data-accent="tum"]{ --accent-text:var(--accent); }
+/* Site accent, one per scheme: TUM blue by day, amber by night. The blue is
+   TUM's brand blue and carries the light concrete ground; on the dark ground the
+   site's long-standing amber stays - it reads warmer and brighter there than any
+   blue does. Both are addressed as data-accent="tum". */
+.oa-root[data-accent="tum"]{ --accent:#0065bd;--on-accent:#fff; --accent-soft:rgba(0,101,189,.14); }
+[data-scheme="dark"] .oa-root[data-accent="tum"]{ --accent:#ff9800;--on-accent:#000; --accent-soft:rgba(255,152,0,.20); }
+/* Mint's accent: the lime of the reference's primary button, black on it. */
+[data-theme="mint"] .oa-root[data-accent="tum"]{ --accent:#e4f222;--on-accent:#000; --accent-soft:rgba(228,242,34,.18); }
+
+/* Favorites: a gold star (bookmark convention), independent of the page accent.
+   --oa-fav-ink is the same hue dark enough to READ as text on the light paper
+   (the decorative gold is too pale for readable glyphs or labels); on the dark ground the glyph gold already reads, so both are one. */
+[data-scheme="dark"] .oa-root{
+  --oa-fav:#f0c04a;
+  --oa-fav-ink:#f0c04a;
+  --oa-hl-lex:#f5a623;
+  --success:#4ade80;
+  --danger:#fb8181;
+  --on-danger:#000;
+}
+
+/* Search-highlight hues, fixed independent of the page accent (so the "ink"
+   accent can't make keyword marks vanish on dark) and tuned per scheme so both
+   read equally well: an amber surface with paired dark ink in either scheme.
+   Semantic reuses the gold --oa-fav, which already flips by scheme. */
+[data-scheme="dark"] .oa-root[data-palette="concrete"]{ --oa-hl-text:#ffd185; }
+/* Mint keeps one hue for its marks too: the search highlights (menu matches,
+   lexical marks in abstracts) take its lime instead of the amber. */
+[data-theme="mint"] .oa-root[data-palette="concrete"]{ --oa-hl-text:#e4f222; --oa-hl-lex:#e4f222; }
+
+/* Semantic status colours (independent of the page accent):
+   --success = open-access / affirmative green, --danger = closed-access red.
+   Centralised here so every green/red badge across the site stays in sync. */
+/* Open / closed access status colours, fixed in both light + dark schemes so
+   they match the OA-column icons: green = open access, magenta = closed. The
+   "add a paper" and "report an error" header buttons reuse them. */
+[data-scheme="dark"] .oa-root{ --shadow-tip: 0 18px 44px rgba(0,0,0,.55), 0 2px 8px rgba(0,0,0,.3); }
+
+/* Fonts - one family per page. The chosen font drives --sans, and both --mono
+   and --serif resolve to it (base block), so title, body and labels always
+   share a single typeface. Only Inter is shipped (the @font-face block at the
+   top); the other names fall back to the system stacks. --sans-display is the
+   same face for sizes above ~20px (title, subtitle, author name): same Inter,
+   but the fallback is plain Arial - see the @font-face note. */
+.oa-root[data-font="inter"]{ --sans:"Inter", "Inter Fallback", Arial, Helvetica, sans-serif; --sans-display:"Inter", Arial, Helvetica, sans-serif; }
+.oa-root[data-font="plex-sans"]{ --sans:Arial, Helvetica, sans-serif; }
+.oa-root[data-font="source-serif"],
+.oa-root[data-font="spectral"],
+.oa-root[data-font="lora"],
+.oa-root[data-font="playfair"],
+.oa-root[data-font="eb-garamond"]{ --sans:"Iowan Old Style", Palatino, Georgia, "Times New Roman", serif; }
+
+
+.oa-root *{ box-sizing: border-box; }
+.oa-mono{ font-family: var(--mono); font-size: var(--fs-meta); }
+.oa-muted{ color: var(--muted); }
+.oa-link{ color: var(--accent-text); text-decoration: none; }
+.oa-link:visited{ color: var(--visited); }
+.oa-link:hover{ text-decoration: underline; text-underline-offset: 2px; }
+.oa-sep{ color: var(--muted); margin: 0 8px; }
+.oa-crumb .oa-sep{ margin: 0; }
+.oa-slug-copy{
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: baseline;
+  border-radius: var(--radius-control);
+  padding: 1px 3px;
+  margin: -1px -3px;
+  transition: color .12s, background .12s, box-shadow .12s;
+  position: relative;
+}
+.oa-slug-copy:hover{ color: var(--accent-text); box-shadow: inset 0 0 0 1px var(--accent); }
+.oa-slug-copy:active { background: var(--accent-soft); }
+.oa-slug-copy:focus-visible{ outline:var(--focus-ring, 2px solid currentColor); outline-offset:var(--focus-ring-offset, 2px); }
+
+/* Top bar */
+.oa-top{
+  padding: 14px var(--page-gutter);
+  border-bottom: 1px solid var(--line);
+  background: var(--paper);
+  position: sticky;
+  top: 0;
+  z-index: var(--layer-chrome);
+}
+/* Chrome merges with the page background (both schemes). */
+.oa-root .oa-top{ background: var(--bg); }
+.oa-top-inner{
+  max-width: var(--page-max);
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 320px;
+  gap: 48px;
+  align-items: center;
+}
+.oa-top-lead{
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  min-width: 0;
+}
+.oa-crumb{ font-family: var(--mono); font-size: var(--fs-meta); letter-spacing: normal; color: var(--ink-2); white-space: nowrap; flex: 0 0 auto; }
+.oa-crumb a{ color: var(--ink-2); text-decoration: none; }
+.oa-crumb a:hover{ text-decoration: underline; text-underline-offset: 2px; }
+/* ---- Brand mark ----------------------------------------------------------
+   One stroked path, so it takes its colour from currentColor and its size from
+   whatever box it is given - no per-page copies of the artwork. --mark-sw is an
+   OPTICAL stroke weight, not a scaled one: the artwork's 16.9 holds at display
+   size, but the bars sit 18 units apart, so at header size the 1.1-unit gaps
+   close into a solid blob. Small instances thin the stroke instead. */
+/* Ink, not accent: the mark reads as the inverse of the ground it sits on -
+   near-black on the concrete day ground, near-white on the black night one. */
+.oa-mark{ flex: 0 0 auto; display: block; color: var(--ink); }
+.oa-mark path{ stroke: currentColor; stroke-width: var(--mark-sw, 16.9); stroke-dasharray: 240 240; }
+/* Click re-draws the mark. The dash pattern above is already the drawn state
+   (240 of path, 240 of gap, offset 0), so the keyframe only has to run the
+   offset in - nothing about the resting mark changes. */
+@keyframes oa-mark-draw { from { stroke-dashoffset: 240; } to { stroke-dashoffset: 0; } }
+/* The reduced-motion override below also applies to this animation. */
+.oa-mark.is-drawing path{ animation: oa-mark-draw var(--mark-draw, 5s) cubic-bezier(.62, 0, .3, 1); }
+.oa-mark:not(.oa-mark-title){ cursor: pointer; }
+/* Header mark: upper-left of every page, inside the breadcrumb's home link, so
+   the mark and the wordmark are ONE link rather than two to the same target.
+   Full artwork stroke weight, as drawn - the mark is meant to read bulky.
+   Kept INLINE rather than a flex cell: the crumb is a nowrap inline run sized
+   by its max-content width, and an inline-flex link measured wrong there -
+   "3dcp.fyi" was pushed onto a line of its own above the rest of the trail. */
+.oa-crumb-home{ white-space: nowrap; }
+.oa-mark-top{ display: inline-block; width: 18px; height: 18px; margin-right: 8px; vertical-align: middle; }
+/* Buttons group at the RIGHT edge, 8px apart - the same rhythm and the same right
+   edge as the table toolbar's right-hand group, so the header and the toolbar read
+   as one column of controls. Was `space-between`, which distributed the free space
+   in the header's fixed 320px track and stretched the 8px gaps to ~61px, so the
+   buttons floated mid-header and lined up with nothing. */
+.oa-toprow{ display: flex; gap: 8px; align-items: center; justify-content: flex-end; }
+
+/* ---- Favorites: shared star toggle + header entry (all pages) ---- */
+.oa-fav-toggle{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color .12s, background .12s, box-shadow .12s;
+}
+.oa-fav-toggle .oa-star-ic{ display: block; }
+.oa-fav-toggle:hover{ color: var(--oa-fav-ink); box-shadow: inset 0 0 0 1px var(--oa-fav); }
+.oa-fav-toggle:active{ background: color-mix(in srgb, var(--oa-fav) 15%, transparent); }
+.oa-fav-toggle.is-fav{ color: var(--oa-fav-ink); }
+
+
+/* "Add a paper" button (carried over from the landing page) */
+/* Header action buttons - 34x34 icon buttons, distributed across the toprow so
+   the cluster spans the width of the sidebar (table-of-contents) box below.
+   All three rest as neutral ghosts (matching the theme/nav toggles) and reveal
+   their meaning-colour on hover - "add a paper" green, "report error" magenta,
+   the accent - as border + glyph colour, never a fill or a lift: the whole
+   site's buttons hover that way; the accent-soft fill is the PRESSED state. */
+.oa-add-btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--control-size);
+  height: var(--control-size);
+  flex: 0 0 auto;
+  border-radius: var(--radius-control);
+  text-decoration: none;
+  cursor: pointer;
+  transition: background .12s, border-color .12s, transform .12s, color .12s;
+}
+.oa-add-btn svg{ display: block; }
+/* Icon-only button: the label is for the table page's "More" menu, where
+   articles.css shows it. Hidden HERE, in the sheet every page loads - the
+   static pages (legal, adjacency, map) have no articles.css, and the label
+   spilled out of the 34px square beside the icon there. */
+.oa-add-btn .tb-label{ display: none; }
+.oa-add-btn:active{ background: var(--accent-soft); }
+.oa-add-btn:focus-visible{ outline:var(--focus-ring, 2px solid currentColor); outline-offset:var(--focus-ring-offset, 2px); }
+
+/* Day / night toggle - the same 34x34 ghost shell as the trio it sits beside,
+   accent on hover like the nav buttons (it switches a mode, it isn't a
+   meaning-coloured action). All three glyphs ship in the button and CSS reveals
+   the one that names where the click goes: sunrise while dark (to light), the
+   leaf while light (to mint), sunset while mint (to dark). */
+.oa-scheme-btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--control-size);
+  height: var(--control-size);
+  flex: 0 0 auto;
+  padding: 0;
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--ink-2);
+  border: 1px solid var(--line-strong);
+  cursor: pointer;
+  transition: background .12s, border-color .12s, transform .12s, color .12s;
+}
+.oa-scheme-btn svg{ display: block; }
+.oa-scheme-btn:hover{ border-color: var(--accent); color: var(--accent-text); }
+.oa-scheme-btn:active{ background: var(--accent-soft); }
+.oa-scheme-btn:focus-visible{ outline:var(--focus-ring, 2px solid currentColor); outline-offset:var(--focus-ring-offset, 2px); }
+.oa-scheme-btn .oa-scheme-sunrise,
+.oa-scheme-btn .oa-scheme-leaf{ display: none; }
+[data-scheme="dark"] .oa-scheme-btn .oa-scheme-sunrise{ display: block; }
+[data-scheme="dark"] .oa-scheme-btn .oa-scheme-sunset{ display: none; }
+[data-theme="light"] .oa-scheme-btn .oa-scheme-sunset{ display: none; }
+[data-theme="light"] .oa-scheme-btn .oa-scheme-leaf{ display: block; }
+[data-theme="mint"] .oa-scheme-btn .oa-scheme-sunrise{ display: none; }
+[data-theme="mint"] .oa-scheme-btn .oa-scheme-sunset{ display: block; }
+
+/* Kiosk mode (kiosk.js): its loop button beside day/night and the controls on
+   the kiosk screen - the same 34x34 ghost square, accent on hover and while
+   on (pressed). In this sheet, not articles.css: the header shows the button
+   before the table's own stylesheet has landed. The screen is in articles.css. */
+.oa-kiosk-btn{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: var(--control-size);
+  height: var(--control-size);
+  flex: 0 0 auto;
+  padding: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--ink-2);
+  cursor: pointer;
+  transition: background .12s, border-color .12s, color .12s;
+}
+.oa-kiosk-btn svg{ display: block; }
+/* display above would beat the browser's own [hidden] rule. */
+.oa-kiosk-btn[hidden]{ display: none; }
+.oa-kiosk-btn:hover,
+.oa-kiosk-btn[aria-pressed="true"]{ border-color: var(--accent); color: var(--accent-text); }
+.oa-kiosk-btn:active{ background: var(--accent-soft); }
+.oa-kiosk-btn:focus-visible{ outline: var(--focus-ring, 2px solid currentColor); outline-offset: var(--focus-ring-offset, 2px); }
+.oa-kiosk-btn:disabled{ opacity: .45; cursor: default; border-color: var(--line-strong); color: var(--ink-2); background: transparent; }
+/* The star in the favorites' own gold once the work is saved. */
+.oa-kiosk-btn.is-fav{ color: var(--oa-fav-ink); }
+
+/* add a paper - neutral ghost at rest, open-access green on hover (matches the
+   OA "open" icon) in the site's one hover shape: coloured border + glyph. */
+.oa-add-btn{ background: transparent; color: var(--ink-2); border: 1px solid var(--line-strong); }
+.oa-add-btn:hover{
+  border-color: var(--oa-open);
+  color: var(--oa-open);
+}
+
+
+
+
+.oa-title{
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: var(--fs-display);
+  line-height: 1.12;
+  letter-spacing: normal;
+  margin: 0 0 12px;
+  max-width: calc(100% - 368px); /* match abstract column width: 320px rail + 48px gap */
+  text-wrap: balance;
+  /* Break pathological unbreakable title tokens (long IUPAC names, accession
+     ids, URLs) instead of overflowing the page. Normal titles are unaffected. */
+  overflow-wrap: break-word;
+}
+/* Access-status kicker above the title */
+.oa-subtitle{
+  font-family: var(--serif);
+  font-weight: 400;
+  font-size: var(--fs-heading);
+  line-height: 1.2;
+  letter-spacing: normal;
+  color: var(--ink-2);
+  margin: 0 0 36px;
+  max-width: 38ch;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+.oa-title-sans .oa-title{
+  font-family: var(--sans-display);
+  font-weight: 600;
+  letter-spacing: normal;
+  line-height: 1.08;
+}
+.oa-title-sans .oa-subtitle{
+  font-family: var(--sans-display);
+  font-weight: 400;
+  letter-spacing: normal;
+}
+/* Visited navigation uses readable secondary ink in each palette.
+   Only the permitted color property changes; history is never queried. */
+
+
+
+/* Keyword class sigils: '#' topical (solid, the default) vs '$' derived
+   (muted). The base ::before rules above render '#'; derived chips swap the
+   glyph to '$' and de-emphasise the whole chip. The tags variant shows a
+   colour dot instead of a glyph, so only the muting applies there. */
+
+
+
+/* Abstract listen (text-to-speech) button */
+.oa-listen-btn{
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: var(--control-size);
+  padding: 0 12px 0 10px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--ink-2);
+  font-family: var(--sans);
+  font-size: var(--fs-meta);
+  letter-spacing: normal;
+  cursor: pointer;
+  transition: background .12s, color .12s, border-color .12s;
+}
+/* articles.css paints every control in the table via .articles-app button
+   { color: var(--ag-fg) } - (0,1,1), which outranks the (0,1,0) rule above and
+   left this button at full --ink, killing the muted-at-rest / bright-on-hover
+   ghost look it exists to inherit. Re-assert the rest colour one class higher.
+   Placed BEFORE :hover and .is-playing on purpose: those are also (0,2,0), so
+   they only keep winning while they come later in the file. */
+.articles-app .oa-listen-btn{ color: var(--ink-2); }
+.oa-listen-btn:hover{ color: var(--accent-text); border-color: var(--accent); }
+.oa-listen-btn:active, .oa-listen-btn.oa-listen-sm:active { background: var(--accent-soft); }
+.oa-listen-ic{ display: inline-flex; align-items: center; }
+.oa-listen-ic svg{ width: 15px; height: 15px; display: block; }
+.oa-listen-ic .oa-listen-ic-stop{ display: none; }
+.oa-listen-btn.is-playing .oa-listen-ic .oa-listen-ic-play{ display: none; }
+.oa-listen-btn.is-playing .oa-listen-ic .oa-listen-ic-stop{ display: block; }
+.oa-listen-btn.is-playing{
+  color: var(--accent-text);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.oa-listen-btn[hidden]{ display: none; }
+/* Compact icon-only variant for the grid's abstract drops: the drop is a
+   fixed-height panel whose every row is reserved in advance, so the button
+   sits on the "Abstract" line instead of costing the card a row of its own. */
+.oa-listen-btn.oa-listen-sm{
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  gap: 0;
+  justify-content: center;
+  background: transparent;
+}
+/* Both buttons are 24x24 boxes; the glyph is set optically, not numerically.
+   The report icon is a thin 18/24 circle, the play glyph a solid-reading wedge
+   with round joins - matched at 14px it reads noticeably heavier, so it runs
+   two pixels smaller. */
+.oa-listen-btn.oa-listen-sm .oa-listen-ic svg{ width: 12px; height: 12px; }
+
+
+/* "Abstract" label + the read-aloud button (+ search score badges) on one line. */
+.abs-drop .abs-sec-headrow{
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px 12px;
+  margin-bottom: 10px;
+}
+.abs-drop .abs-sec-headrow .abs-sec-head{ margin-bottom: 0; }
+/* Abstract length, pinned to the row's right end in the records strip's
+   group-label style (Discovery / Metadata / Metrics). */
+.abs-drop .abs-sec-headrow .abs-sec-stats{ margin-left: auto; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); white-space: nowrap; }
+/* TOC bulk-fold controls (+ / + / - / -, Tabler plus and minus): the strip's
+   24px tile grid (same size and 5px gap as the graph + report tiles pinned
+   above, so the four buttons sit exactly under the four tiles). "All" draws
+   the heavy stroke, "one level" the regular one (oa-abstract-rows.js). */
+.abs-drop .abs-toc-tools{ display: inline-flex; align-items: center; gap: 5px; margin-left: auto; }
+.abs-drop .abs-toc-tool{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: normal;
+  cursor: pointer;
+  transition: background .12s, color .12s, border-color .12s;
+}
+.abs-drop .abs-toc-tool svg{ display: block; flex: none; }
+.articles-app .abs-drop .abs-toc-tool{ color: var(--ink-2); }
+.articles-app .abs-drop .abs-toc-tool:hover{ color: var(--accent-text); border-color: var(--accent); }
+.articles-app .abs-drop .abs-toc-tool:active { background: var(--accent-soft); }
+
+/* Graph metrics below the abstract (drop-metrics.js), only while an ID IS
+   filter names the article: the influence small multiples (.oa-inf-* below)
+   in two columns - one where the column is too narrow for two plots. The
+   slots carry fixed heights (the drop's row reservation is measured off
+   them); the live SVGs are moved in after each render. */
+.abs-drop .abs-inf{ margin-top: 24px; max-width: 100%; }
+.abs-drop .abs-inf .abs-sec-headrow{ margin-bottom: 6px; }
+:is(.abs-drop, .author-panel) .abs-inf-scalenote{ margin-left: auto; font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); white-space: nowrap; }
+/* Log scale: a square toggle beside the heading, the same box as the
+   abstract's read-aloud button (24px; 32px in the phone strip). Its glyph
+   shows the scale in use (line / curve); pressed = log. The right-margin
+   panel's copy of the section uses the same toggle. */
+:is(.abs-drop, .author-panel) .abs-inf-scale{
+  appearance: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: none;
+  width: 24px;
+  height: 24px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--ink-2);
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  line-height: 1;
+  cursor: pointer;
+  transition: border-color .12s, color .12s, background .12s;
+}
+:is(.abs-drop, .author-panel) .abs-inf-scale:hover{ border-color: var(--accent); color: var(--accent-text); }
+:is(.abs-drop, .author-panel) .abs-inf-scale:active { background: var(--accent-soft); }
+:is(.abs-drop, .author-panel) .abs-inf-scale[aria-pressed="true"]{ background: var(--accent-soft); border-color: var(--accent); color: var(--accent-text); }
+:is(.abs-drop, .author-panel) .abs-inf-scale svg{ display: block; width: 14px; height: 14px; }
+:is(.abs-drop, .author-panel) .abs-inf-scale[aria-pressed="true"] .sc-lin,
+:is(.abs-drop, .author-panel) .abs-inf-scale[aria-pressed="false"] .sc-log{ display: none; }
+:is(.abs-drop, .author-panel) .abs-inf-scale:focus-visible{ outline: var(--focus-ring, 2px solid currentColor); outline-offset: 2px; }
+/* The month every readout shows: the last data month, or the hovered one. */
+.abs-drop .abs-inf-month{ font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.abs-drop .abs-inf-cols{ display: grid; grid-template-columns: repeat(auto-fit, minmax(min(360px, 100%), 1fr)); gap: 12px 36px; }
+.abs-drop .abs-inf-slot{ min-width: 0; }
+.abs-drop .abs-inf-slot > .oa-inf-svg{ display: block; width: 100%; overflow: visible; }
+.abs-drop .abs-inf-msg{ margin: 0; font-size: var(--fs-meta); color: var(--ink-2); }
+
+/* Word-by-word highlight while speaking - the same accent-on-ink treatment as
+   a text selection (see ::selection above), so the spoken word reads as the
+   cursor. Note the box-shadow spreads 2px to pad the word like a real selection
+   does; the transition is off (the word changes several times a second). */
+.abstract-card-text .oa-tts-word{
+  background: var(--accent);
+  color: var(--on-accent, #fff);
+  border-radius: var(--radius-control);
+  box-shadow: 0 0 0 2px var(--accent);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+
+/* Typographic ordinals ("3rd Intl. Conference...", OATheme.ordinalHtml): the sup
+   must never open up a row's line box, hence line-height:0 + a relative shift. */
+sup.ord-sup{font-size:var(--fs-script);line-height:0;vertical-align:baseline;position:relative;top:-.42em}
+
+/* SlickGrid sortable-column affordance, shared by the Articles grid (#myGrid)
+   (#myGrid). These class names only ever
+   appear inside a SlickGrid header, so the rules are left unscoped. Both arrows
+   are muted by default; on sort the arrow matching the direction turns accent.
+   Our icon conveys direction, so SlickGrid's own indicator is hidden -
+   !important to outrank the alpine theme CSS, which the grid lazy-appends to
+   <head> AFTER this file. */
+.col-head{
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+}
+.col-sort-icon{
+  width: 12px;
+  height: 12px;
+  flex: none;
+  color: var(--muted);
+  /* Muted, but at 3:1 or more on every theme's ground (WCAG 1.4.11): 0.55
+     left the light theme at 2.8:1. */
+  opacity: 0.65;
+}
+/* The column the list is sorted by: its label and the one arrow naming the
+   direction turn accent, the opposite arrow drops out - "sorted by what, which
+   way" reads at a glance instead of from one tinted half of a 12px glyph. */
+.slick-header-column-sorted .col-head{ color: var(--accent); }
+.slick-header-column-sorted .col-sort-icon{ opacity: 1; }
+.slick-header-column:has(.slick-sort-indicator-asc) .col-sort-up,
+.slick-header-column:has(.slick-sort-indicator-desc) .col-sort-down{
+  stroke: var(--accent);
+  stroke-width: 2.4;
+}
+.slick-header-column:has(.slick-sort-indicator-asc) .col-sort-down,
+.slick-header-column:has(.slick-sort-indicator-desc) .col-sort-up{ opacity: 0; }
+.slick-header-column .slick-sort-indicator{ display: none !important; }
+/* SlickGrid's theme sets text-overflow:ellipsis + overflow:hidden on header
+   columns. A narrow sortable header (e.g. the 44px "OA" column) whose label +
+   sort icon overflow by a hair then renders a stray ellipsis that clips down to
+   a single dot beside the column. Clip instead of ellipsis so no dot is drawn;
+   labels are sized to fit, so nothing is lost. */
+.slick-header-column{ text-overflow: clip !important; }
+
+
+/* Code */
+.oa-code-wrap{
+  border: 1px solid var(--line);
+  border-radius: var(--radius-control);
+  overflow: hidden;
+  background: var(--paper);
+}
+.oa-code-head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--line);
+  background: var(--bg);
+}
+.oa-copy{
+  font-family: var(--sans);
+  font-size: var(--fs-meta);
+  padding: 0 10px;
+  background: transparent;
+  color: var(--ink-2);
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  cursor: pointer;
+  transition: border-color .12s, color .12s, background .12s;
+  height: 24px;
+}
+.oa-copy:hover{ border-color: var(--accent); color: var(--accent-text); }
+.oa-copy:active{ background: var(--accent-soft); }
+.oa-code{
+  margin: 0;
+  padding: 20px 22px;
+  font-family: var(--mono-code);
+  font-size: var(--fs-meta);
+  line-height: 1.65;
+  color: var(--ink);
+  white-space: pre;
+  overflow-x: auto;
+}
+
+/* Rail card */
+.oa-rail-card{
+  background: transparent;
+  border: 1px solid var(--line);
+  border-radius: var(--radius-control);
+  padding: 18px;
+}
+
+
+/* Paper TOC (toc.js generated markup).
+   One grid for every level: the root <ol> defines a max-content number column
+   per level plus one flexible text column, and every <li>, nested <ol> and
+   .entry is a subgrid of it. An entry at level L (--l / --lb come inline on its
+   <ol>) puts its number in column L and its text from column L+1 on, so a
+   sub-entry's number starts exactly where its parent's text starts, and the
+   number-to-text gap (the number's 8px margin) is the same at every level.
+   The chevron hangs to the left of the number, outside the columns. */
+.oa-ptoc{ margin-top: 4px; }
+.oa-ptoc ol{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  position: relative;
+}
+.oa-ptoc > ol{
+  grid-template-columns: repeat(6, max-content) minmax(0, 1fr);
+  padding-left: 18px;   /* gutter for the level-1 chevrons */
+}
+.oa-ptoc ol[hidden]{ display: none; }
+.oa-ptoc li{
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  position: relative;
+}
+/* Gap between top-level chapters. */
+.oa-ptoc > ol > li + li{ margin-top: 11px; }
+
+.oa-ptoc .entry{
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-column: 1 / -1;
+  align-items: baseline;
+  position: relative;
+  padding: 5px 6px 5px 0;
+  color: var(--ink);
+  cursor: default;
+}
+/* Everything in an entry shares its one row (the pill sits under the text). */
+.oa-ptoc .entry > *,
+.oa-ptoc .entry::before{ grid-row: 1; }
+/* Hover pill: from the chevron gutter to the row's end, so it starts at this
+   level's indent rather than at the list's left edge. */
+.oa-ptoc .entry::before{
+  content: '';
+  grid-column: var(--l, 1) / -1;
+  align-self: stretch;
+  margin-left: -20px;
+  border-radius: var(--radius-control);
+  transition: background .12s;
+  pointer-events: none;
+}
+/* Hover highlight on subsection rows only; top-level chapters don't highlight. */
+.oa-ptoc .entry:not(.level-1):hover::before{ background: var(--bg); }
+
+/* Toggle (chevron). Absolutely positioned within its level's number column,
+   hung 3px left of it - so a sub-level's NUMBER, not its chevron, lands on the
+   parent's text start. top: 2px aligns the caret with the first line of a
+   wrapped title, not the row's vertical centre. */
+.oa-ptoc .toggle{
+  position: absolute;
+  grid-column: var(--l, 1);
+  right: calc(100% + 3px);
+  top: 2px;
+  width: 14px;
+  height: 14px;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: var(--muted);
+  border-radius: var(--radius-control);
+  transition: color .12s, background .12s, box-shadow .12s;
+}
+.oa-ptoc .toggle::before{
+  content: '';
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: 5px; height: 5px;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: translate(-1px, -1px) rotate(-45deg);
+  transition: transform .12s ease;
+}
+.oa-ptoc .toggle[aria-expanded="true"]::before{
+  transform: translate(0, -2px) rotate(45deg);
+}
+.oa-ptoc .toggle:hover{ color: var(--accent-text); box-shadow: inset 0 0 0 1px var(--accent); }
+.oa-ptoc .toggle:active { background: var(--accent-soft); }
+
+/* Num: its level's column; the margin is the number-to-text gap. */
+.oa-ptoc .num{
+  grid-column: var(--l, 1);
+  margin-right: 8px;
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  color: var(--muted);
+  font-variant-numeric: tabular-nums slashed-zero;
+  letter-spacing: normal;
+  white-space: nowrap;
+}
+
+/* Text: title, leader dots and page share the flexible column. */
+.oa-ptoc .body{
+  grid-column: var(--lb, 2) / -1;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  min-width: 0;
+}
+.oa-ptoc .title{
+  font-size: var(--fs-meta);
+  line-height: 1.35;
+  color: inherit;
+  flex-shrink: 1;
+  min-width: 0;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+  cursor: pointer;
+}
+.oa-ptoc .entry:not(.has-children) .title{ cursor: default; }
+
+/* Leader dots */
+.oa-ptoc .dots{
+  flex: 1 1 auto;
+  min-width: 8px;
+  align-self: flex-end;
+  margin-bottom: 4px;
+  border-bottom: 1px dotted var(--line-strong);
+  height: 0;
+  transform: translateY(-1px);
+}
+
+/* Page number */
+.oa-ptoc .page{
+  font-family: var(--mono);
+  font-size: var(--fs-meta);
+  color: var(--ink-2);
+  font-variant-numeric: tabular-nums slashed-zero;
+  flex-shrink: 0;
+  letter-spacing: normal;
+}
+.oa-ptoc .entry.no-page .dots,
+.oa-ptoc .entry.no-page .page{ display: none; }
+
+/* Level 1 - top-level section. Vertical padding matches the X.X / X.X.X rows
+   so every hover box is the same height; weight/size give the emphasis. */
+.oa-ptoc .entry.level-1{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.oa-ptoc .entry.level-1 .num{
+  color: var(--ink);
+  font-weight: 600;
+  font-size: var(--fs-meta);
+}
+.oa-ptoc .entry.level-1 .title{
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: var(--fs-body);
+  color: var(--ink);
+  letter-spacing: normal;
+}
+.oa-title-sans .oa-ptoc .entry.level-1 .title{
+  font-family: var(--sans);
+  font-weight: 600;
+  letter-spacing: normal;
+}
+
+/* Guide line beside a nested group, drawn by each <li> of the group as an
+   in-flow grid item in the group's own number column: 1px wide, hung 20px left
+   of the numbers (the hover pill's edge, so the pill meets it cleanly), spanning
+   the li's entry row and its nested list. Consecutive segments form the
+   group's line; the first/last are inset 4px like a single line would be. In-
+   flow rather than absolutely positioned: abs-pos children of a subgrid don't
+   resolve their auto row against the subgrid's own box. */
+.oa-ptoc li > .entry{ grid-row: 1; }
+.oa-ptoc li > ol{ grid-row: 2; }
+.oa-ptoc ol ol > li::before{
+  content: '';
+  grid-column: var(--l);
+  grid-row: 1 / span 2;
+  justify-self: start;
+  width: 1px;
+  margin-left: -20px;
+  background: var(--line);
+  z-index: 1;
+  pointer-events: none;
+}
+.oa-ptoc ol ol > li:first-child::before{ margin-top: 4px; }
+.oa-ptoc ol ol > li:last-child::before{ margin-bottom: 4px; }
+
+/* Levels 2+ share the base .title (12.5px) and .num (10px) styling - depth is
+   conveyed by indentation alone, so no per-level overrides are needed. */
+
+
+/* External-record tiles. Only the abstract drop's strip renders them now
+   (ext-records.js renderStrip), which lists available providers only - so the
+   grouped rail-card grid and the struck-through n/a variant are gone with the
+   article page that had them. */
+.oa-index{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 7px 3px;
+  background: var(--bg);
+  border-radius: var(--radius-control);
+  text-decoration: none;
+  transition: all .12s;
+  border: 1px solid var(--line);
+}
+.oa-index:hover{
+  border-color: var(--accent);
+}
+.oa-index:active{ background: var(--accent-soft); }
+.oa-index-short{
+  font-family: var(--mono);
+  font-weight: 600;
+  font-size: var(--fs-body);
+  color: var(--ink);
+}
+.oa-index:hover .oa-index-short{ color: var(--accent-text); }
+
+
+/* ============================================================
+   Accessibility additions
+   ============================================================ */
+
+/* Skip link - hidden until focused */
+.oa-skip{
+  position: absolute;
+  left: 12px;
+  top: -100px;
+  z-index: var(--layer-skip,20);
+  padding: 10px 14px;
+  background: var(--ink, #0a0a0a);
+  color: var(--paper, #ffffff);
+  /* The link sits before .oa-root, outside the tokens' scope: fallbacks. */
+  font-family: var(--sans, Arial, Helvetica, sans-serif);
+  font-size: var(--fs-meta, 12px);
+  text-decoration: none;
+  border-radius: var(--radius-control, 3px);
+  transition: top .12s ease;
+}
+.oa-skip:focus,
+.oa-skip:focus-visible{
+  top: 12px;
+  outline:var(--focus-ring, 2px solid currentColor);
+  outline-offset:var(--focus-ring-offset, 2px);
+}
+
+/* Heard, not seen: text for screen readers only - the table view's page
+   heading (grid-shell.js), where the header mark names the site to the eye. */
+.oa-sr-only{
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  overflow: hidden;
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+
+/* Suppress the browser default outline only for POINTER focus on interactive
+   elements; keyboard users (:focus-visible) still get a clear ring below.
+   Skip-link keeps its own visible focus state. */
+.oa-root .oa-index:focus:not(:focus-visible),
+.oa-root .oa-ptoc .entry:focus:not(:focus-visible),
+.oa-root .oa-ptoc .toggle:focus:not(:focus-visible){
+  outline: none;
+}
+
+/* Keyboard focus ring - a single, consistent indicator for every interactive
+   element the keyboard can land on. */
+.oa-root a:focus-visible,
+.oa-root button:focus-visible,
+.oa-root input:focus-visible,
+.oa-root select:focus-visible,
+.oa-root textarea:focus-visible,
+.oa-root summary:focus-visible,
+.oa-root .oa-index:focus-visible,
+.oa-root .oa-ptoc .entry:focus-visible,
+.oa-root .oa-ptoc .toggle:focus-visible,
+.oa-root [tabindex]:focus-visible{
+  outline:var(--focus-ring, 2px solid currentColor);
+  outline-offset:var(--focus-ring-offset, 2px);
+  }
+/* Buttons keep their own corner on focus; only inline targets get the inner radius. */
+.oa-root a:focus-visible, .oa-root input:focus-visible, .oa-root select:focus-visible, .oa-root textarea:focus-visible, .oa-root summary:focus-visible, .oa-root .oa-index:focus-visible, .oa-root .oa-ptoc .entry:focus-visible, .oa-root [tabindex]:not(button):focus-visible { border-radius: var(--radius-control); }
+
+#main-content:focus{ outline: none; }
+
+/* ============================================================
+   Responsive reflow - collapse to single column on narrow viewports
+   so content remains readable down to a 320px CSS-px width without
+   two-dimensional scrolling (WCAG 1.4.10 Reflow).
+   ============================================================ */
+@media (max-width: 900px){
+  .oa-top-inner{
+    grid-template-columns: minmax(0, 1fr) auto;
+    gap: 12px;
+  }
+  .oa-toprow{ justify-content: flex-end; }
+  /* Single-column layout: the title no longer shares its row with the rail,
+     so drop the desktop reserved-width and let it use the full width. */
+  .oa-title{ max-width: 100%; }
+  /* Let the long slug truncate instead of overflowing its row: the crumb must
+     be allowed to SHRINK (its desktop flex-basis is its content width). */
+  .oa-top-lead{ min-width: 0; }
+  .oa-crumb{ flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; }
+}
+
+@media (max-width: 600px){
+  /* Top bar: breadcrumb on its own line, then the action buttons -
+     nothing gets clipped. */
+  /* Top bar: brand left, action buttons right, one row. */
+  .oa-top-lead{ gap: 10px; }
+  .oa-toprow{ flex-wrap: nowrap; gap: 8px; justify-content: flex-end; }
+  /* Abstract above, table of contents below - never side by side on phones. */
+  .abs-drop-inner.abs-has-toc{ flex-direction: column; gap: 0; }
+  .abs-has-toc .abs-drop-main, .abs-has-toc .abs-toc{ width: 100%; max-width: none; }
+  /* (1,3,0) and (0,3,0): outrank the side-by-side flex of #myGrid .abs-has-toc
+     .abs-drop-main (articles.css) and of the base rules further down. */
+  #myGrid .abs-drop-inner.abs-has-toc :is(.abs-drop-main, .abs-toc),
+  .abs-drop-inner.abs-has-toc :is(.abs-drop-main, .abs-toc){ flex: 0 0 auto; }
+  /* Records strip: the phone layout for it lives AFTER the base .abs-ext rules
+     (search "PHONE STRIP OVERRIDES") - declared here it lost the cascade to
+     them, which is why the Discovery links kept running under the graph and
+     action tiles. */
+  .oa-title{
+    font-size: clamp(28px, 8vw, var(--fs-display));
+    line-height: 1.1;
+    /* Phones: let the heading break freely - hyphenate long compounds and
+       stop balancing, which can hold a long word on one line and overflow. */
+    text-wrap: pretty;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+    overflow-wrap: anywhere;
+    max-width: 100%;
+  }
+}
+
+
+
+/* ============================================================
+   Influence tab - small-multiple area charts (D3)
+   Styled with the page's design tokens.
+   ============================================================ */
+/* Series labels (foreignObject) */
+/* Inline-math rendering (chart labels + footer note formula; replaces MathJax). */
+.oa-math-ovl{ text-decoration: overline; text-decoration-thickness: 0.06em; }
+.oa-math-hat::before{ content: "\02C6"; position: relative; top: -0.15em; margin-right: -0.5em; }
+.oa-inf-label sub{ font-size: var(--fs-script); vertical-align: baseline; position: relative; bottom: -0.3em; font-family: var(--sans); letter-spacing: 0; margin-left: -0.14em; }
+.oa-inf-label sup{ font-size: var(--fs-script); vertical-align: baseline; position: relative; bottom: 0.45em; font-family: var(--sans); letter-spacing: 0; margin-left: -0.14em; }
+
+.oa-inf-label{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0;
+  font-family: var(--mono);
+  /* Set in viewBox units by influence.js (applyTypeScale) so the rendered size
+     stays legible however wide the chart's container is. */
+  font-size: var(--oa-inf-fs, 11px);
+  line-height: 1;
+  overflow: visible;
+  /* The label carries the metric's description as its tooltip (see
+     influence.js), so it advertises itself as the place to hover. */
+  cursor: help;
+}
+/* !important: influence.js and topic-panel.js set the label's colour inline,
+   which no selector outranks. */
+.oa-inf-row:hover .oa-inf-label{ color: var(--ink) !important; }
+/* The abstract drop's header line over each plot, sitting on its top rule:
+   symbol + plain name at the left in the table of contents' text size (the
+   tooltip target), the value at the right. */
+/* padding-bottom: room under the baseline for subscripts (C_c, C_B ...),
+   which hang below the line box and were clipped. */
+.oa-inf-label.is-top{ justify-content: space-between; align-items: flex-end; gap: 12px; cursor: default; font-size: var(--fs-meta); box-sizing: border-box; padding-bottom: 5px; overflow: visible; }
+.oa-inf-label.is-top .oa-inf-lhead{ display: inline-flex; align-items: baseline; gap: 6px; min-width: 0; cursor: help; }
+.oa-inf-label.is-top .oa-inf-lname{ min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 1.3; }
+.oa-inf-label.is-top .oa-inf-lname sub{ font-size: var(--fs-script); line-height: 0; }
+.oa-inf-lval{ font-family: var(--mono); font-size: var(--fs-meta); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.oa-inf-lval-alt::before{ content: "/"; margin: 0 3px; opacity: .6; }
+.oa-inf-ltrend{ margin-left: 3px; font-family: var(--sans); cursor: help; }
+/* Symbol-only gutter: the plain-language name and the definition are the
+   label's tooltip, so the symbol sizes itself and sits against the plot's left
+   edge instead of floating in a wide, mostly-empty column. */
+.oa-inf-lsym{ flex: 0 0 auto; white-space: nowrap; }
+
+/* Floor (0) and ceiling (100%) frame each row - solid, so a value reads against
+   a clear pair; the reference line between them is the faint dashed one. */
+.oa-inf-baseline, .oa-inf-limitline{ stroke-width: 1px; opacity: 0.9; shape-rendering: crispEdges; }
+.oa-inf-midline{ stroke-width: 0.75px; stroke-dasharray: 2 3; opacity: 0.5; shape-rendering: crispEdges; }
+
+.oa-inf-dot{ opacity: 0.7; }
+
+.oa-inf-hoverline{
+  stroke-width: 0.8px;
+  pointer-events: none;
+  shape-rendering: crispEdges;
+}
+.oa-inf-hoverdot{ pointer-events: none; }
+.oa-inf-band{ pointer-events: none; }
+
+.oa-inf-axis text{ font-family: var(--mono); font-size: var(--fs-meta); }
+
+
+/* ============================================================
+   Reduced motion - honour the OS "reduce motion" setting. Animations and
+   transitions collapse to a near-instant cross-fade rather than moving,
+   and smooth scrolling is disabled. (WCAG 2.3.3 Animation from Interactions)
+   ============================================================ */
+@media (prefers-reduced-motion: reduce){
+  *, *::before, *::after{
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    transition-delay: 0s !important;
+    animation-delay: 0s !important;
+    scroll-behavior: auto !important;
+  }
+  html{ scroll-behavior: auto !important; }
+}
+
+/* ============================================================
+   Print - a clean, ink-friendly sheet for article / author / keyword pages.
+   Forces a light palette (no dark backgrounds wasting toner), drops the
+   interactive chrome, and lets the content run full width across pages.
+   ============================================================ */
+@media print{
+  /* Always print on white with black text, whatever the screen palette. */
+  .oa-root,
+  .oa-root[data-palette],
+  [data-scheme] .oa-root[data-palette]{
+    --bg: #ffffff;
+    --paper: #ffffff;
+    --ink: #111111;
+    --ink-2: #333333;
+    --muted: #555555;
+    --accent-text: #111111 !important;
+    --oa-hl-text: #111111 !important;
+    --line: #cccccc;
+    --line-strong: #999999;
+    background: #ffffff !important;
+    color: #111111 !important;
+  }
+  html, body{ background: #ffffff !important; }
+
+  /* Drop everything that's screen-only chrome. */
+  .oa-top,
+  .oa-skip,
+  .oa-scheme-btn,
+  .oa-add-btn{
+    display: none !important;
+  }
+
+  /* Avoid awkward breaks inside headings, figures and cards. */
+  h1, h2, h3, h4{ break-after: avoid-page; }
+  figure, table{ break-inside: avoid; }
+
+  a{ text-decoration: underline; }
+}
+
+/* ====================================================================== */
+/* Inline abstract drop-down (#myGrid)                                    */
+/*                                                                         */
+/* Clicking a row's chevron (or its body) expands it in place: an abstract */
+/* panel drops down beneath the row and the rows below shift down. Core    */
+/* SlickGrid rows have a CONSTANT height, so the drop is reserved by k      */
+/* fixed-height "detail" rows (one head that the text overflows across +    */
+/* spacer rows) injected by oa-abstract-rows.js. Styling is grid-agnostic  */
+/* so the main Articles table and every subset table (references / author  */
+/* / keyword) render identically.                                          */
+/* ====================================================================== */
+
+/* Leftmost chevron column: borderless disclosure button, centered and
+   top-aligned onto the row's cap line. */
+.slick-cell.cell-expand{
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.cell-expand .abstract-toggle{
+  width: 22px;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  border-radius: var(--radius-control);
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color .12s, background .12s, box-shadow .12s;
+}
+.cell-expand .abstract-toggle:hover{
+  color: var(--accent-text);
+  box-shadow: inset 0 0 0 1px var(--accent);
+}
+.cell-expand .abstract-toggle:active { background: var(--accent-soft); }
+.cell-expand .abstract-toggle svg{ transition: transform .12s ease; }
+/* Chevron points right when closed, rotates down when the abstract is open. */
+.cell-expand .abstract-toggle.is-open{ color: var(--accent-text); }
+.cell-expand .abstract-toggle.is-open svg{ transform: rotate(90deg); }
+
+/* Detail rows span all columns and must let their drop overflow downward.
+   !important beats the runtime-injected alpine theme (same as the grid's
+   other overrides). */
+.slick-row.abs-detail,
+.slick-row.abs-detail .slick-cell{
+  overflow: visible !important;
+  white-space: normal !important;
+}
+.slick-row.abs-detail .slick-cell{
+  display: block !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  padding: 0 !important;
+  background: transparent !important;
+}
+.slick-row.abs-detail-head{ z-index: 3; }
+.slick-row.abs-detail-spacer{ z-index: 1; pointer-events: none; }
+
+/* Fine-row grid (see oa-abstract-rows.js): each logical row is DATASPAN stacked
+   fine rows - a HEAD row whose cells are forced to the full logical height
+   (--oa-data-h) and overflow DOWN over its empty SPACER rows, dropping the
+   reservation quantum to one fine row so an expanded abstract hugs its content
+   with a small, uniform gap.
+   The head row's OWN box is also forced to the full logical height (not just its
+   cells) so :hover fires on plain row geometry in every browser - relying on
+   the cell's *overflowing* descendant to catch :hover works in Chromium but not
+   Safari/Firefox, which then highlight only the first fine row. The head row
+   sits above (z-index) its pointer-events:none spacers, so it is the hover/click
+   target across the whole logical row; clicks still map by Y coordinate.
+   The rules that force those heights sit with #myGrid's column geometry in
+   articles.css. */
+
+/* When a row's abstract is open, carry the drop's accent line up through the
+   parent row so the row and its abstract read as one connected group. A
+   ::before overlay draws the line flush at the left edge, with the IDENTICAL
+   technique and width as the card's own ::before line (below) so the two
+   rasterize to exactly the same width, without shifting SlickGrid's
+   absolutely-positioned cells. */
+.slick-row.abs-parent-open::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  /* Span the FULL logical row height (the head row div is only one fine row
+     tall, but its content - and this accent line - overflow down over the
+     spacer rows), so the line runs unbroken from the row's top into the
+     abstract card below instead of stopping after the first fine row. */
+  height: var(--oa-data-h, 120px);
+  width: 3px;
+  background: var(--accent);
+  z-index: 6;
+  pointer-events: none;
+}
+
+.abs-drop{
+  box-sizing: border-box;
+  position: relative;
+  width: 100%;
+  overflow: auto;
+  /* The label column the Discovery strip and the section heads share (see
+     .abs-ext-lab below). */
+  --abs-head-slot: 76px;
+  /* Transparent so the abstract shares ONE background with the rows above and
+     below (no distinct fill that reads as a separate box). */
+  background: transparent;
+  border-top: 1px solid var(--line);
+  /* ONE spacing rule: equal, fixed top and bottom padding on every abstract.
+     The card hugs its content (height set by JS = content + this padding), so
+     these two values ARE the top/bottom distance to the text, identical for
+     every drop - no centring, no grow-to-fill, nothing that varies per drop. */
+  padding: 15px 20px 15px 24px;
+}
+/* Accent line drawn as a ::before overlay (NOT a border) so it uses the exact
+   same technique + width as the parent row's line above and the two match. */
+.abs-drop::before{
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--accent);
+  pointer-events: none;
+}
+.abs-drop-inner{
+  /* Never let a line run past the grid's visible width - the drop spans the
+     full (wider) canvas, so cap the measure to the viewport (--oa-abs-vw, set
+     by oa-abstract-rows.js) minus the card's own gutters, so text always wraps
+     into view instead of disappearing under the horizontal scroll. */
+  max-width: calc(var(--oa-abs-vw, 9999px) - 52px);
+}
+/* Without a TOC the abstract keeps its reading measure; only the records strip
+   spans the full drop, so the Graph tiles pinned to its right edge line up
+   across drops with and without a table of contents. */
+.abs-drop-inner:not(.abs-has-toc) > :not(.abs-ext){ max-width: 84ch; }
+
+.abs-drop .abstract-card-text{
+  margin: 0;
+  font-family: var(--sans, system-ui, -apple-system, sans-serif);
+  font-size: var(--fs-body, 0.9rem);
+  color: var(--ink);
+  line-height: 1.55;
+  /* Abstract body, shared by the main table and the reference/author grids: one
+     flowing justified paragraph at a capped measure - at every width, phones
+     included: the hyphenation below keeps the narrow measure from opening
+     rivers, and a ragged phone column read as a different design. */
+  text-align: justify;
+  max-width: 78ch;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
+  -webkit-hyphenate-limit-before: 3;
+  -webkit-hyphenate-limit-after: 3;
+  -webkit-hyphenate-limit-lines: 2;
+  hyphenate-limit-lines: 2;
+  hyphenate-limit-zone: 8%;
+  hyphenate-limit-last: always;
+  text-wrap: pretty;
+  overflow-wrap: break-word;
+}
+/* Abstract drops render as ONE flowing justified paragraph in every grid; the
+   .abs-sentence spans stay inline (they exist only as hooks for semantic-search
+   highlighting, not as visual blocks). Settings > Abstract layout = "Sentences"
+   turns each span into its own line (html[data-abs-layout="lines"]): left-
+   aligned, no hyphenation - a list of sentences reads as a list, not a column
+   of justified text. */
+html[data-abs-layout="lines"] .abs-drop .abstract-card-text{ text-align: left; hyphens: manual; -webkit-hyphens: manual; }
+html[data-abs-layout="lines"] .abs-drop .abstract-card-text .abs-sentence{ display: block; }
+html[data-abs-layout="lines"] .abs-drop .abstract-card-text .abs-sentence + .abs-sentence{ margin-top: .35em; }
+/* Reading aid: the sentence under the pointer lifts off the paragraph with a
+   soft wash of the page ink. Pointer devices only - on touch there is no hover
+   and a sticky wash would cling to the last tap. box-decoration-break keeps
+   the corners on a sentence that wraps across lines; the .35em margin between
+   sentence lines becomes padding in the lines layout so the wash meets its
+   neighbours without a gap. No transition: hover feedback while reading must
+   be instant, a fade reads as lag. */
+@media (hover: hover) and (pointer: fine){
+  .abs-drop .abstract-card-text .abs-sentence{ border-radius: var(--radius-control); -webkit-box-decoration-break: clone; box-decoration-break: clone; }
+  .abs-drop .abstract-card-text .abs-sentence:hover{ background: color-mix(in srgb, var(--ink) 9%, transparent); box-shadow: 0 0 0 2px color-mix(in srgb, var(--ink) 9%, transparent); }
+  html[data-abs-layout="lines"] .abs-drop .abstract-card-text .abs-sentence:hover{ box-shadow: none; }
+  html[data-abs-layout="lines"] .abs-drop .abstract-card-text .abs-sentence{ padding: .12em .3em; margin-left: -.3em; margin-right: -.3em; }
+  html[data-abs-layout="lines"] .abs-drop .abstract-card-text .abs-sentence + .abs-sentence{ margin-top: .12em; }
+  /* Paragraph layout: dim everything BUT the hovered sentence a little, so the
+     eye lands on the one under the pointer without the wash having to shout. */
+  .abs-drop .abstract-card-text:hover .abs-sentence:not(:hover){ color: var(--ink-2); }
+  /* The highlights inside a dimmed sentence keep their own colours - they are
+     the search's marks, not part of the reading focus. */
+  .abs-drop .abstract-card-text:hover .abs-sentence:not(:hover) mark.oa-hl-lexical{ color: var(--oa-hl-on); }
+}
+/* With a TOC the drop splits like the main Articles table: abstract on the
+   left (~2/3), table of contents on the right (~1/3). Base rule for every grid;
+   #myGrid overrides the widths from its live column geometry (articles.css). */
+.abs-drop-inner.abs-has-toc{ display: flex; gap: 44px; align-items: flex-start; flex-wrap: wrap; row-gap: 0; }
+.abs-has-toc .abs-drop-main{ flex: 2 1 0; min-width: 0; }
+.abs-has-toc .abs-toc{ flex: 1 1 0; min-width: 200px; }
+/* External-records strip pinned above the abstract + TOC (ext-records.js
+   renderStrip): the article page's tile vocabulary (.oa-index), compacted into
+   one wrapping row. In the .abs-has-toc flex layout the strip takes a full
+   first row (flex-wrap + 100% basis); row-gap drops to 0 so the strip's own
+   margin - not the 44px column gap - sets the vertical spacing. */
+.abs-ext{ display: flex; flex-wrap: wrap; align-items: center; gap: 6px 16px; margin: 0 0 12px; flex: 0 0 100%; width: 100%; box-sizing: border-box; padding-right: 190px; position: relative; }
+/* The provider groups' wrapper is layout-transparent (display: contents) so the
+   strip's own flex-wrap still lays the groups out; it exists only to scope the
+   role=group name to the provider tiles and not to the report button. */
+.abs-ext .abs-ext-groups{ display: contents; }
+.abs-ext-group{ display: flex; flex-wrap: nowrap; align-items: center; gap: 5px; flex: none; }
+/* Layout-transparent on desktop: the tiles stay direct flex children of the
+   group. The phone block below turns it into a wrapping column. */
+.abs-ext-tiles{ display: contents; }
+.abs-ext-lab{ font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink-2); margin-right: 4px; }
+/* Publication type (ext-records.js): plain text, not a tile - set at the label
+   size in full ink so it reads as the value beside its label. */
+.abs-ext-type-v{ font-family: var(--mono); font-size: var(--fs-meta); color: var(--ink); white-space: nowrap; }
+/* One fixed label column for the Discovery label (the strip's first group) and
+   the section heads below, so the DOI tile sits exactly above the read-aloud
+   button. Fixed, not measured: "Discovery" in the platform mono runs 59-65px,
+   "Abstract" 57-58px, so the slot clears both on every OS. Each label's min
+   width is the slot less what follows it (Discovery: 4px margin + 5px tile gap;
+   head: the row's 12px gap). The slot itself, --abs-head-slot, is set on .abs-drop. */
+.abs-ext .abs-ext-groups > .abs-ext-group:first-child > .abs-ext-lab{ box-sizing: border-box; min-width: calc(var(--abs-head-slot) - 9px); }
+.abs-drop .abs-sec-headrow > .abs-sec-head{ box-sizing: border-box; min-width: calc(var(--abs-head-slot) - 12px); }
+.abs-ext .oa-index{ flex-direction: row; align-items: center; justify-content: center; box-sizing: border-box; width: 24px; height: 24px; padding: 0; border-radius: var(--radius-control); }
+/* Monogram labels a step under the meta size: "DOI" / "OA" / "RG" at full size
+   ran within a pixel of the 24px tile's border. */
+.abs-ext .oa-index-short{ font-size: var(--fs-script); letter-spacing: -0.01em; }
+/* Citation-graph tiles (ext-records.js renderGraphGroup): icon glyphs in the
+   same box as the monogram tiles, matched to their cap height. .ic-flip turns
+   the step-out arrow 180deg for "references" (out of this article). The group
+   is pinned to the right end of the strip's FIRST row - Discovery's row - and
+   the strip's padding-right reserves its width so no wrapped tile runs under
+   it (label + three tiles ~ 130px + the 16px group gap). */
+/* The graph tiles are the left half of the pinned .abs-ext-right cluster (the
+   report icon is its right end), so they no longer pin themselves; the strip's
+   padding-right reserves the cluster's width. */
+.abs-ext .abs-ext-graph{ flex: none; }
+.abs-ext .oa-index-ic{ padding: 0; color: var(--ink); width: 24px; box-sizing: border-box; }
+.abs-ext .oa-index-ic svg{ display: block; width: 14px; height: 14px; }
+.abs-ext .oa-index-ic svg.ic-flip{ transform: rotate(180deg); }
+.abs-ext .oa-index-ic:hover{ color: var(--accent-text); }
+/* Graph tiles: hovering swaps the glyph for the neighbourhood count; a tile
+   with nothing to list is inert (no href, aria-disabled) and reads as such. The
+   count must not widen the tile: min-width alone let a 3-digit count push the
+   strip's four tiles out of register with the TOC's ++ / + / − / −− row. */
+.abs-ext .oa-index-ic .oa-index-n{ display: none; font-family: var(--mono); font-size: var(--fs-meta); line-height: 1; letter-spacing: -0.04em; }
+.abs-ext .oa-index-ic.has-count:hover svg{ display: none; }
+.abs-ext .oa-index-ic.has-count:hover .oa-index-n{ display: block; }
+.abs-ext .oa-index-ic.is-disabled{ color: var(--ink-2); opacity: .45; cursor: default; }
+.abs-ext .oa-index-ic.is-disabled:hover{ color: var(--ink-2); background: transparent; border-color: var(--line); }
+/* Pinned right end of the strip: graph tiles and the report action on ONE
+   line, the report icon last and hard against the right edge. The tiles sit a
+   little inward of it so the two read as separate things. The strip's
+   padding-right reserves the whole cluster's width, so no wrapped provider
+   group runs under it. */
+.abs-ext .abs-ext-right{ position: absolute; top: 0; right: 0; display: flex; flex-direction: row; align-items: center; gap: 5px; }
+/* "Report an error" - an action about the RECORD, so it is kept out of the
+   provider groups: the same icon the header carries, at the strip's own tile
+   size. Every geometry property is restated because this button sits inside
+   .articles-app, whose blanket `button` rule (0,1,1) outranks a single-class
+   selector. */
+.abs-ext .abs-ext-report{
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  min-height: 0;
+  flex: 0 0 auto;
+  padding: 0;
+  color: var(--ink-2);
+  background: transparent;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--radius-control);
+  cursor: pointer;
+  transition: border-color .12s, color .12s, background .12s;
+}
+.abs-ext .abs-ext-report svg{ display: block; flex: 0 0 auto; }
+.abs-ext .abs-ext-report:hover{ color: var(--accent-text); border-color: var(--accent); }
+.abs-ext .abs-ext-report:active { background: var(--accent-soft); }
+/* ---- PHONE STRIP OVERRIDES ------------------------------------------------
+   Deliberately placed AFTER the base .abs-ext rules above: the phone block
+   earlier in this file declares the same properties at the same specificity
+   and therefore lost. At phone width nothing in the strip is pinned - the
+   graph/action tiles take their own row, the provider group may wrap inside
+   itself, and every tile keeps a finger-sized box, so links and actions have
+   distinct tappable bounds from 320px up. */
+@media (max-width: 600px){
+  .abs-ext{ padding-right: 0; gap: 10px 12px; position: static; }
+  .abs-ext .abs-ext-right{ position: static; top: auto; right: auto; flex: 0 0 100%; width: 100%; align-items: flex-start; gap: 12px; }
+  .abs-ext .abs-ext-graph{ position: static; top: auto; right: auto; flex: 1 1 auto; width: auto; }
+  .abs-ext .abs-ext-report{ width: 32px; height: 32px; }
+  /* Two columns shared with the hidden-column summary above the strip: a
+     label column of one width (--abs-lab-w, set on .abs-drop-inner below; the
+     summary's labels take the same minimum in articles.css) and a 14px gutter,
+     so every icon row - Access, Favorite, Discovery, Metadata, Metrics, Graph -
+     starts its tiles at the same x. Tiles wrap inside their own column, at the
+     summary's 8px pitch, instead of running off the drop's right edge. */
+  .abs-ext-group{ flex: 0 0 100%; width: 100%; min-width: 0; flex-wrap: nowrap; align-items: flex-start; gap: 14px; }
+  .abs-ext .abs-ext-lab,
+  .abs-ext .abs-ext-groups > .abs-ext-group:first-child > .abs-ext-lab{ flex: none; box-sizing: content-box; min-width: var(--abs-lab-w, 56px); margin-right: 0; display: flex; align-items: center; min-height: 32px; }
+  .abs-ext-tiles{ display: flex; flex-wrap: wrap; align-items: center; gap: 8px; flex: 1 1 0; min-width: 0; }
+  .abs-ext .oa-index{ width: 32px; height: 32px; min-height: 0; padding: 0; }
+  .abs-ext .oa-index-ic{ width: 32px; height: 32px; min-height: 0; padding: 0; display: inline-flex; align-items: center; justify-content: center; }
+  .abs-drop-inner{ --abs-lab-w: 68px; } /* clears "Discovery" (up to 65px) */
+  /* The "Abstract" head row joins the same two columns: label at the strip's
+     label width, the read-aloud button in the tile column at the tile size. */
+  .abs-drop .abs-sec-headrow{ gap: 8px 14px; }
+  .abs-drop .abs-sec-headrow .abs-sec-head{ box-sizing: content-box; min-width: var(--abs-lab-w, 56px); }
+  .abs-drop .oa-listen-btn.oa-listen-sm,
+  .abs-drop .abs-inf-scale{ width: 32px; height: 32px; }
+  .abs-drop .abs-inf-scale svg{ width: 16px; height: 16px; }
+}
+/* The drop's table of contents renders through the same toc.js renderer as the
+   article page's rail card, so it carries .oa-ptoc and inherits that stylesheet
+   wholesale (numbering, chevrons, leader dots, guide lines). */
+.abs-drop .abs-sec-head{ font-size: var(--fs-body); font-weight: 600; margin-bottom: 10px; }
+/* Stacked drop (phones, narrow ref/author panes): when the TOC wraps under the
+   abstract it needs its own breathing room and a hairline to read as a new
+   section, not a continuation of the paragraph. */
+@media (max-width: 900px){
+  .abs-has-toc .abs-toc{ margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line); }
+}
+/* Denser than the rail card: the rail is a tall sidebar with room to breathe,
+   a drop is a fixed-height panel next to the abstract, and the card's spacing
+   pushed long TOCs past the drop's row-reservation cap (maxDetailRows) so the
+   tail hid behind overflow. Same structure, ~40% shorter. */
+.abs-drop .abs-toc.oa-ptoc{ margin-top: 0; }
+.abs-drop .oa-ptoc > ol > li + li{ margin-top: 3px; }
+/* No right bleed inside a drop (overflow: auto would grow a scrollbar): the
+   page numbers sit 6px in from the edge. */
+.abs-drop .oa-ptoc .entry{ padding: 1px 6px 1px 0; }
+.abs-drop .oa-ptoc .entry.level-1{ padding-top: 2px; padding-bottom: 2px; }
+/* Keep the level-1 weight cue, drop the rail card's size bump. */
+.abs-drop .oa-ptoc .entry.level-1 .title,
+.oa-title-sans .abs-drop .oa-ptoc .entry.level-1 .title{ font-size: var(--fs-meta); }
+/* Hovering an entry tints only the guide-line segment beside THAT row (and its
+   sub-rows) in the accent; the rest of the group's line stays gray. */
+.abs-drop .oa-ptoc ol ol > li:has(> .entry:hover)::before{ background: var(--accent); }
+
+/* Justified copy needs hyphenation or it opens rivers of white space. Words
+   >=6 chars, >=3 either side of the break; the Safari-only extras cap
+   consecutive hyphenated lines. Where the browser ships no hyphenation
+   dictionary, OATheme.softHyphenate inserts soft hyphens instead. */
+.abs-drop .abstract-card-empty{
+  margin: 0;
+  font-family: var(--sans, system-ui, -apple-system, sans-serif);
+  font-size: var(--fs-body, 0.9rem);
+  font-style: normal;
+  color: var(--muted);
+}
+/* Offscreen probe used to measure a drop's natural height before it opens.
+   The probe hangs off the grid container, but a LIVE drop renders inside a
+   .slick-cell - and the SlickGrid theme puts its own 13px system font and
+   1.55 line-height on the container, which the cell overrides and the probe
+   inherited. Measuring in a different font measured the wrong height (~15px
+   too tall per drop, so every drop over-reserved rows). Pin the probe to the
+   cell's typography so it measures what the reader actually gets. */
+/* Fixed, not absolute: a fixed box adds nothing to any ancestor's scrollable
+   area, so a 2000px probe cannot stretch a page that is allowed to scroll
+   (the article list on short windows).
+   (1,2,0): outranks the drop rules the probe in the grid also matches,
+   #myGrid .abs-drop and .articles-app .abs-drop (articles.css); (0,2,0)
+   outranks the base .abs-drop rule, for a probe outside the grid. */
+#myGrid .abs-drop.abs-drop-measure,
+.abs-drop.abs-drop-measure{
+  position: fixed;
+  left: -99999px;
+  top: 0;
+  height: auto;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: -1;
+  font-family: var(--sans);
+  font-size: var(--fs-body);
+  line-height: normal;
+  /* Fixed, its percentages resolve against the window, not the row cell the
+     live drop fills: the grid's right padding (articles.css #myGrid .abs-drop)
+     came out ~850px on a wide window and every probe measured ~3x too tall,
+     so each opened drop painted over-tall for a frame. Same formula, on the
+     probe's own width (--oa-measure-w, set by the measurer). */
+  padding-right: max(0px, calc(var(--oa-measure-w, 100%) - var(--oa-strip-right, calc(var(--oa-measure-w, 100%) - 20px))));
+}
+/* Batch host for measuring many drops in one layout pass (measureManyPx): a
+   zero-size, offscreen positioning context whose children are ordinary probes. */
+.abs-drop-measure-batch{
+  position: fixed;
+  left: -99999px;
+  top: 0;
+  width: 0;
+  height: 0;
+  overflow: visible;
+  visibility: hidden;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* ====================================================================== */
+/* WCAG 2.5.8 hit areas (interactive-pass fix, 2026-07): the tiny grid    */
+/* icon buttons (row favorite star 14px, header favorite-all star 15-16px,*/
+/* abstract chevron 20px) get a >=24px clickable area via a transparent   */
+/* ::before overlay. Lives HERE (not articles.css) because the shared     */
+/* .oa-fav-toggle / .abstract-toggle components render on every page's    */
+/* grids (article list #myGrid + instance-page bibliography grids).       */
+/* Icon size and row height are unchanged.                                */
+/* ====================================================================== */
+.oa-fav-toggle.fav-grid,
+.oa-fav-all.oa-fav-toggle,
+.abstract-toggle{
+  position: relative;
+}
+.oa-fav-toggle.fav-grid::before{ content: ""; position: absolute; inset: -1px; } /* 22px -> 24px, within the 27px action pitch */
+.oa-fav-all.oa-fav-toggle::before{ content: ""; position: absolute; inset: -4px; } /* 15-16px -> 29-30px */
+.abstract-toggle::before{ content: ""; position: absolute; inset: -4px; }   /* 24px -> 34px */
+
+/* Shared page edges. Change this scale once for the header and article grid. */
+@media (max-width: 900px){ .oa-root{ --page-gutter: 24px; } }
+@media (max-width: 720px){ .oa-root{ --page-gutter: 18px; } }
+@media (max-width: 480px){ .oa-root{ --page-gutter: 14px; } }
+
+/* Coarse pointers: enlarge free-flowing chrome and article actions. The grid
+   owns its compact cell geometry; these selectors do not enlarge its rows. */
+@media (any-pointer: coarse){
+  .oa-root{ --control-size:44px; }
+  .oa-toprow{ flex-wrap:wrap; }
+  .oa-copy, .abs-drop .abs-toc-tool{ min-height:44px; min-width:44px; }
+  /* The TOC chevron hangs left of its number; grow it around the same caret
+     spot (28px is what fits between neighbouring rows). */
+  .oa-ptoc .toggle{ width:28px; height:28px; right:calc(100% - 4px); top:-5px; }
+}

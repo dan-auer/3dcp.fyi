@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>iPhone and iPad preview • 3dcp.fyi</title>
+<!-- devices.html - the site in an iPhone 17 and an iPad Pro 11" frame, side by
+     side, to look at by eye. Not part of npm test. Open it through a server
+     (serve.py: http://127.0.0.1:8000/tests/devices.html), not as a file.
+
+     Sizes are Playwright's device profiles (@playwright/test devices): the
+     frame gets the page area Safari leaves, the drawn device the whole screen.
+     The room Safari's bars take is painted in the page's colour, as Safari
+     does (pageColor below).
+     A frame on a computer still reports a mouse, so this page switches the
+     site's touch-only CSS on inside the frames: it rewrites the pointer and
+     hover conditions of their @media rules to what a touch screen answers.
+     Not simulated: Safari itself, touch gestures, the pixel density, and the
+     one JavaScript check (grid-renderers.js: author cells keep 5 lines here,
+     4 on a touch screen). -->
+<style>
+  :root{
+    color-scheme: dark;
+    --bg: #16181c;
+    --ink: #e9eaee;
+    --ink-2: #b4b8c2;
+    --line: #3a3f4a;
+    --body: #050506;    /* device bezel */
+    --chrome: #f2f2f7;  /* status bar and Safari's bars until the page has a colour */
+  }
+  *{ box-sizing: border-box; }
+  html, body{ margin: 0; height: 100%; }
+  body{
+    display: flex;
+    flex-direction: column;
+    background: var(--bg);
+    color: var(--ink);
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  header{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 6px 16px;
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--line);
+  }
+  h1{ margin: 0; font-size: 15px; font-weight: 600; }
+  header p{ margin: 0; color: var(--ink-2); font-size: 13px; }
+  button{
+    font: inherit;
+    color: var(--ink);
+    background: #262a31;
+    border: 1px solid #5a6170;
+    border-radius: 6px;
+    padding: 5px 12px;
+    cursor: pointer;
+  }
+  button:hover{ background: #30353e; }
+  button[aria-pressed="true"]{ background: #34465f; border-color: #7fa6d9; }
+  button:focus-visible{ outline: 2px solid #7fb2ff; outline-offset: 2px; }
+
+  main{ flex: 1 1 auto; min-height: 0; overflow: hidden; padding: 16px; }
+  /* .fit takes the scaled size of .stage, which keeps its natural size so the
+     frames keep their page sizes; only the drawing is scaled (fitStage). */
+  .fit{ position: relative; margin: 0 auto; }
+  .stage{
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    width: max-content;
+    transform-origin: 0 0;
+  }
+  figure{ position: relative; margin: 0; }
+  figcaption{
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: calc(8px / var(--s, 1));
+    text-align: center;
+    color: var(--ink-2);
+    font-size: calc(13px / var(--s, 1));  /* 13px on screen at any scale */
+    white-space: nowrap;
+  }
+  .device{
+    padding: var(--bezel);
+    background: var(--body);
+    border-radius: calc(var(--radius) + var(--bezel));
+    box-shadow: 0 0 0 1px #4b505b, 0 18px 48px rgba(0, 0, 0, .5);
+  }
+  .screen{
+    position: relative;
+    overflow: hidden;
+    width: var(--sw);
+    height: var(--sh);
+    border-radius: var(--radius);
+    background: var(--chrome);
+  }
+  .screen iframe{
+    position: absolute;
+    left: var(--x);
+    top: var(--y);
+    display: block;
+    width: var(--pw);
+    height: var(--ph);
+    border: 0;
+    background: transparent;  /* a scaled frame's edge pixels show what is under it: the bars' colour, no light seam */
+  }
+  #iphone{ --bezel: 14px; --radius: 55px; }
+  #ipad{ --bezel: 22px; --radius: 18px; }
+
+  /* Decoration only: the Dynamic Island and the home indicator. */
+  .island, .home{ position: absolute; pointer-events: none; }
+  .island{ top: 12px; left: 50%; width: 124px; height: 36px; margin-left: -62px; border-radius: 18px; background: #000; }
+  .home{ bottom: 8px; left: 50%; width: 134px; height: 5px; margin-left: -67px; border-radius: 3px; background: #1c1c1e; }
+  .on-dark .home{ background: rgba(255, 255, 255, .8); }
+  .landscape .island{ top: 50%; left: 12px; width: 36px; height: 124px; margin: -62px 0 0; }
+  .landscape .home{ width: 200px; margin-left: -100px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>iPhone and iPad preview</h1>
+  <button type="button" id="rotate" aria-pressed="false">Turn sideways</button>
+  <p>Sizes from Playwright's device profiles; the bands around the iPhone page are Safari's bars, in the page's colour as Safari paints them. The site's touch styles are on. Not simulated: Safari itself, touch gestures, pixel density, and the shorter author lists on touch screens.</p>
+</header>
+<main>
+  <div class="fit">
+    <div class="stage">
+      <figure id="iphone">
+        <div class="device">
+          <div class="screen">
+            <iframe src="../index.html" title="3dcp.fyi on an iPhone 17"></iframe>
+            <span class="island" aria-hidden="true"></span>
+            <span class="home" aria-hidden="true"></span>
+          </div>
+        </div>
+        <figcaption></figcaption>
+      </figure>
+      <figure id="ipad">
+        <div class="device">
+          <div class="screen">
+            <!-- allow="fullscreen" here only: iPadOS Safari can show a page
+                 element full screen (the kiosk), iPhone Safari cannot. -->
+            <iframe src="../index.html" title="3dcp.fyi on an iPad Pro 11 inch" allow="fullscreen"></iframe>
+          </div>
+        </div>
+        <figcaption></figcaption>
+      </figure>
+    </div>
+  </div>
+</main>
+<script>
+(function () {
+  "use strict";
+
+  // Playwright's profiles "iPhone 17" and "iPad Pro 11", portrait and
+  // landscape: screen = the whole display, page = the area Safari leaves for
+  // the page (its frame size here), at = where that area sits on the screen.
+  // Playwright gives only the page size; where the rest goes is iOS's safe
+  // area: upright 59 px status bar on top, Safari's bar below; sideways 59 px
+  // each side, 21 px for the home indicator below, Safari's bar on top.
+  var DEVICES = [
+    { id: "iphone", name: "iPhone 17",
+      portrait: { screen: [402, 874], page: [402, 681], at: [0, 59] },
+      landscape: { screen: [874, 402], page: [756, 352], at: [59, 29] } },
+    { id: "ipad", name: "iPad Pro 11″",
+      portrait: { screen: [834, 1194], page: [834, 1194], at: [0, 0] },
+      landscape: { screen: [1194, 834], page: [1194, 834], at: [0, 0] } }
+  ];
+
+  var main = document.querySelector("main");
+  var fit = document.querySelector(".fit");
+  var stage = document.querySelector(".stage");
+  var rotate = document.getElementById("rotate");
+  var CAPTION = 32;  // screen px kept below the devices for the captions
+
+  // Scale the drawing down until both devices fit the window. A transform
+  // leaves the frames' own sizes, and so the site's layout, unchanged.
+  function fitStage() {
+    var cs = getComputedStyle(main);
+    var availW = main.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+    var availH = main.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom) - CAPTION;
+    var w = stage.offsetWidth, h = stage.offsetHeight;
+    var s = Math.max(0.1, Math.min(1, availW / w, availH / h));
+    stage.style.setProperty("--s", String(s));
+    stage.style.transform = "scale(" + s + ")";
+    fit.style.width = w * s + "px";
+    fit.style.height = h * s + CAPTION + "px";
+  }
+
+  function layout(landscape) {
+    DEVICES.forEach(function (d) {
+      var o = landscape ? d.landscape : d.portrait;
+      var el = document.getElementById(d.id);
+      el.style.setProperty("--sw", o.screen[0] + "px");
+      el.style.setProperty("--sh", o.screen[1] + "px");
+      el.style.setProperty("--pw", o.page[0] + "px");
+      el.style.setProperty("--ph", o.page[1] + "px");
+      el.style.setProperty("--x", o.at[0] + "px");
+      el.style.setProperty("--y", o.at[1] + "px");
+      el.querySelector("figcaption").textContent =
+        d.name + (landscape ? " sideways" : "") + " · page " + o.page[0] + " × " + o.page[1];
+    });
+    document.body.classList.toggle("landscape", landscape);
+    fitStage();
+  }
+
+  rotate.addEventListener("click", function () {
+    var landscape = rotate.getAttribute("aria-pressed") !== "true";
+    rotate.setAttribute("aria-pressed", String(landscape));
+    layout(landscape);
+  });
+  window.addEventListener("resize", fitStage);
+  layout(false);
+
+  // ---- Touch styles -------------------------------------------------------
+  // What a touch screen answers: (pointer: coarse), (hover: none) and the bare
+  // (pointer) hold; (pointer: fine), (hover: hover) and the bare (hover) do
+  // not. The any- forms answer the same. Each condition becomes one that always
+  // holds or never does, so "not", "and" and "or" around it still work.
+  var HOLDS = "(min-width: 0px)", FAILS = "(max-width: 0px)";
+  var FEATURE = /\((any-)?(pointer|hover)\s*(?::\s*([a-z]+)\s*)?\)/g;
+  function touchMedia(text) {
+    return text.replace(FEATURE, function (m, any, name, value) {
+      var holds = name === "pointer" ? (value === undefined || value === "coarse") : value === "none";
+      return holds ? HOLDS : FAILS;
+    });
+  }
+  function touchList(list) {
+    if (!list || !list.mediaText) return;
+    var next = touchMedia(list.mediaText);
+    if (next !== list.mediaText) list.mediaText = next;
+  }
+  function touchRules(rules) {
+    for (var i = 0; i < rules.length; i++) {
+      var rule = rules[i];
+      touchList(rule.media);                         // @media, @import ... screen
+      if (rule.styleSheet) touchSheet(rule.styleSheet);  // @import
+      if (rule.cssRules) touchRules(rule.cssRules);  // nested @media, @supports, @layer
+    }
+  }
+  function touchSheet(sheet) {
+    try {
+      touchList(sheet.media);  // <link media> / <style media>
+      touchRules(sheet.cssRules);
+    } catch (e) { /* not loaded yet, or from another origin: no rules to read */ }
+  }
+
+  // Every document a frame shows: rewrite its sheets now and again whenever a
+  // style or a stylesheet link arrives or finishes loading (dialogs, the tour
+  // and pop-up windows add theirs later). Rewritten rules are left alone.
+  function touchDocument(doc) {
+    var timer = 0;
+    function pass() {
+      timer = 0;
+      for (var i = 0; i < doc.styleSheets.length; i++) touchSheet(doc.styleSheets[i]);
+    }
+    function soon() { if (!timer) timer = setTimeout(pass, 30); }
+    new MutationObserver(function (records) {
+      for (var i = 0; i < records.length; i++) {
+        var r = records[i];
+        if (r.target.nodeName === "STYLE") { soon(); return; }
+        for (var j = 0; j < r.addedNodes.length; j++) {
+          var n = r.addedNodes[j].nodeName;
+          if (n === "STYLE" || n === "LINK") { soon(); return; }
+        }
+      }
+    }).observe(doc, { childList: true, subtree: true });
+    doc.addEventListener("load", function (e) {
+      if (e.target.nodeName === "LINK") soon();
+    }, true);
+    pass();
+  }
+
+  // ---- Safari's bars --------------------------------------------------------
+  // The colour Safari paints its bars in: the page's theme-color (Safari
+  // 15-18), else its body background, which Safari 26 takes from the page
+  // itself. This site keeps both equal (oa-boot.js, oa-theme.js). "" = none
+  // yet: the stylesheet's grey.
+  function pageColor(doc) {
+    var meta = doc.querySelector('meta[name="theme-color"]');
+    if (meta && meta.content) return meta.content;
+    var bg = doc.body ? doc.defaultView.getComputedStyle(doc.body).backgroundColor : "";
+    return bg && bg !== "rgba(0, 0, 0, 0)" && bg !== "transparent" ? bg : "";
+  }
+  // Light or dark, for the home indicator on top of it.
+  function isDark(color) {
+    var probe = document.createElement("i");
+    probe.style.color = color;
+    document.body.appendChild(probe);
+    var rgb = getComputedStyle(probe).color.match(/[\d.]+/g).map(Number);
+    probe.remove();
+    return rgb[0] * 0.299 + rgb[1] * 0.587 + rgb[2] * 0.114 < 128;
+  }
+  function paintBars(screen, color) {
+    screen.style.background = color;
+    screen.classList.toggle("on-dark", !!color && isDark(color));
+  }
+
+  // A frame's document changes with every page it opens; catch each new one
+  // while it is still loading, so the touch styles are there from the start.
+  // The bars follow the page's colour, which changes with its theme.
+  Array.prototype.forEach.call(document.querySelectorAll("iframe"), function (frame) {
+    var seen = null, painted = null;
+    setInterval(function () {
+      var doc;
+      try { doc = frame.contentDocument; } catch (e) { return; }  // another origin
+      if (!doc || doc.URL === "about:blank") return;
+      if (doc !== seen) {
+        seen = doc;
+        touchDocument(doc);
+      }
+      var color = pageColor(doc);
+      if (color !== painted) {
+        painted = color;
+        paintBars(frame.parentElement, color);
+      }
+    }, 50);
+  });
+})();
+</script>
+</body>
+</html>
