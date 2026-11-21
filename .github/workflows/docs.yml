@@ -39,6 +39,14 @@ jobs:
       - run: npm test
         env:
           BROWSER: "true"   # serve.py opens a browser tab; here that does nothing
+      # A failed smoke test leaves its trace in test-results/ (trace.zip: open
+      # it at trace.playwright.dev). Kept as a download on the run's page.
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: test-results
+          path: test-results/
+          retention-days: 7
 
   build:
     needs: test

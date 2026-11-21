@@ -11,7 +11,7 @@
     "test:smoke": "playwright test -c tests/playwright.config.mjs"
   },
   "devDependencies": {
-    "@playwright/test": "^1.48.0",
+    "@playwright/test": "1.63.0",
     "eslint": "^9.13.0",
     "globals": "^15.11.0"
   }
